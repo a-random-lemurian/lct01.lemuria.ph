@@ -1,0 +1,9 @@
+/* css styles */
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Gentium Book Plus', serif;
+}
+
+.navbar > .container-fluid {
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+}

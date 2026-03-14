@@ -1,0 +1,99 @@
+---
+title: "*Picniflava anaheimensibis* sp. nov.: Yet another Padmé cosplay at the 2015 *Star Wars* Celebration"
+author:
+  name: Lemuria
+  email: lemuria@lemuria.ph
+license: CC BY-SA
+journal:
+  title: Lemuria's (Informal) Journal of Clothing Taxonomy
+date: 2026-03-14
+lang: en
+execute: 
+  freeze: true
+publisher-id: "lict2026.0003"
+abstract: |
+  Browsing of Wikimedia Commons has surfaced a new species of *Picniflava*, the summer meadow dress worn by Padmé Amidala in *Star Wars: Episode II – Attack of the Clones* (2002), hereafter *Attack of the Clones*. The holotype is a ventral (front) near-full-body photograph (inferior/bottom end of skirt not in frame) of an unnamed person wearing it. *P. anaheimensibis* is now the 58th sp. of the genus.
+---
+
+## Background
+Padmé Amidala is a fictional character from the *Star Wars* franchise. She has worn many garments on-screen, which have been replicated countlessly by cosplayers around the world.
+
+The First Lemurian Clothing Taxonomy (LCT-01), thematically inspired by biological taxonomy, classifies the roughly 38 outfits she has worn polyphyletically. This polyphyly is due to the hybrid phenetic&ndash;phylogenetic classification system used by the LCT-01; as there is no Last Universal Common A-line dress, phenetics is the only option for high-level taxa. Phylogeny is still inferrable in the LCT-01, when designers take inspiration or copy, or in sewing pattern taxonomy (which is out of scope for this article), when people publish their makes of patterns on social media.
+
+Amongst these 38 outfits lies the genus *Picniflava* (from English *picnic* + Latin *flava* 'yellow'). The placement of *Picniflava* is as follows:
+ 
+| Rank | Taxon |
+|---|---|
+| Domain | Vestimentia
+| Kingdom | Abtruncusa
+| Phylum | Scapunatoria
+| Class | Umerostentida
+| Subclass | Bilourida
+| Order | Biligamentum
+| Family | Amidalidae
+| Genus | *Picniflava*
+
+*Picniflava*, based on its type species *P. originalis*, the original garment from the film, is characterized by a predominantly yellow color, the presence of floral decorations, and a corset to which bilateral single straps are attached. The sleeves have multiple white, pink, and blue ribbons at the distal end, and gather roughly three or four times.
+
+## New species
+***Picniflava anaheimensibis*** sp. nov.
+
+### Holotype
+
+::: {#fig-holotype}
+![](https://static.lemuria.ph/lct01/picniflava-anaheimensibis-small.jpg)
+
+*P. anaheimensibis* wb. unknown, 2015 (full-size image available at Wikimedia Commons)
+:::
+
+Photograph. 2076&times;2448.
+Apple [iPhone 5c](https://en.wikipedia.org/wiki/iPhone_5c).
+1/40s exposure; f/2.4; Lens foc. len. 4.12 mm.
+photographed 2015-04-16&nbsp;12:04:52 (Pacific Time).
+Anaheim, California, United States.
+&copy; amyr_81 2015, CC BY 2.0 "Generic".
+
+### Description
+*P. anaheimensibis* is characterized by a paler yellow (lighting conditions unaccounted for). Bilateral single straps with one rose each ventrally, attached to underdress bodice.
+
+Sheer (semi-transparent) shawl with sheer flowers, with a neckline superior to the underdress. Shawl is at its most narrow medially, fastened by a butterfly-like ornament, and leaves the corset directly exposed medially. Green&ndash;yellow border at outer edge of the shawl. 
+
+Underdress neckline inferior to the axilla (armpit) on wearer's right. Corset featured adornments medially, with no floral patterns aside from roses attached to it. Lateral edges of the corset entirely plain.
+
+Sleeves terminate slightly distal to the wrist and gather ~1&ndash;2 times; at distal end, several blue and purple ribbons. Lack of green ribbons seen on other *Picniflava* spp.
+
+Skirt mostly plain with slight decorations and reflective gold objects (likely sequins), terminates inferior to the ankle. An additional layer of slightly more golden and reflective fabric is deep to the superficial skirt layer.
+
+### Provenance
+* **Wikimedia Commons**
+  * Information page: <https://commons.wikimedia.org/wiki/File:Celebration_Cosplay_-_Padme_(17187352427).jpg>
+  * Raw file URL (used for checksum): <https://upload.wikimedia.org/wikipedia/commons/4/45/Celebration_Cosplay_-_Padme_%2817187352427%29.jpg>
+  * Permanent link: <https://commons.wikimedia.org/w/index.php?title=File:Celebration_Cosplay_-_Padme_(17187352427).jpg&oldid=1144471560>
+
+SHA2-256 checksum of holotype:
+
+```
+ce7695e265460f68f2904b7abdbd62d4d63db86f229397b96855ff406205abf6
+```
+
+The following commands were issued to verify this checksum:
+```
+$ openssl --version
+OpenSSL 3.5.0 8 Apr 2025 (Library: OpenSSL 3.5.0 8 Apr 2025)
+$ openssl dgst -sha256 ./Celebration_Cosplay_-_Padme_\(17187352427\).jpg
+SHA2-256(./Celebration_Cosplay_-_Padme_(17187352427).jpg)=
+ce7695e265460f68f2904b7abdbd62d4d63db86f229397b96855ff406205abf6
+```
+
+### Etymology 
+The species epithet *anaheimensibis* is derived from *anaheimensis*, from Anaheim, the location the image was taken, with the suffix *-bis*, as another species, *P. anaheimensis* (unpublished due to copyrighted holotype image), has already been described.
+
+### Citation
+The full citation of *P. anaheimensibis* is as follows:
+
+*Picniflava anaheimensibis* Lemuria, 2026; wb. unknown, 2015
+
+## Appendix
+**Disclaimer:** *Lemuria's (Informal) Journal of Clothing Taxonomy* is a non-peer-reviewed, single-author, ***citizen science*** publication with no institutional backing. 
+
+

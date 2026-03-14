@@ -1,0 +1,11 @@
+---
+title: "About"
+format:
+  html: default
+---
+
+*Lemuria’s (Informal) Journal of Clothing Taxonomy* is the informal citizen science journal of the First Lemurian Clothing Taxonomy, a system by Lemuria to assign a Latin name to each piece of clothing, using the same methods as biological taxonomy. These methods, developed in the 1700s by Carl Linnaeus, have proven their mettle in naming millions of biological species, and can and are being reused to describe clothing.
+
+The LCT-01 was started mostly as a hobby project, albeit a very serious one, given Lemuria's abnormal amount of free time. Work began on September 2025, and it shows few signs of stopping.
+
+The LCT-01 is not intended to replace the current system; but rather coexist. Even though scientists have named it *Felis catus*, the word "cat" won't be going away anytime soon. Think of the product name as the common name, and the LCT-01 name as well... the scientific name.
