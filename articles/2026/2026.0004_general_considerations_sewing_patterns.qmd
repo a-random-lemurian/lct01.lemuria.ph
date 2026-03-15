@@ -1,0 +1,207 @@
+---
+title: "General considerations when taxonomizing sewing patterns"
+author:
+  name: Lemuria
+  email: lemuria@lemuria.ph
+license: CC BY-SA
+journal:
+  title: "Lemuria's (Informal) Journal of Clothing Taxonomy"
+date: 2026-03-15
+lang: en
+execute: 
+  freeze: true
+publisher-id: "lict2026.0004"
+abstract: |
+  Sewing patterns define the shapes of cuts of fabric that are assembled to create garments. Much of the taxonomic work of the LCT-01 has gone into documenting individual home sewists' makes of garments based on sewing patterns, whether from indie companies or larger well-known ones like Butterick and Simplicity. We seek to document the general procedures and considerations that we follow when taxonomizing sewing patterns, and document their parallels to biological taxonomy to ease the onboarding process.
+bibliography: 2026.0004-refs.bib
+---
+
+```{=latex}
+\begin{multicols}{2}
+```
+
+## Background
+As the LCT-01 has developed, several subdisciplines have emerged; such as sewing pattern taxonomy and RTW taxonomy.
+
+### Industry
+The sewing pattern industry was historically dominated by the "Big Four"; Simplicity , McCalls, Vogue, and Butterick. These four have declined since then; on May 30, 2025, these companies were sold to a liquidator for one dollar. Though no longer in their golden age, the Big Four continue to sell patterns at a smaller scale, and still produce new designs. The Big Four use a purely numeric naming convention, from which we infer the lower bound of possible sewing pattern-based genera as falling in the tens of thousands (10e5); McCall's alone had some 8,600 patterns as of 2026-03-15. The LCT-01, with its ~250 species across ~70 genera, from the start of the project in September 2025, to March 2026, pales in comparison.
+
+Patterns from the Big Four have not yet been incorporated into the LCT-01, as the author has focused their attention on indie companies. These companies are typically comprised of less than ten employees, and owned by women.
+
+Pattern labels that have been taxonomized, and could be the subject of future articles, include, but are not limited to:
+
+* Nina Lee (<https://ninalee.co.uk>), a pattern label by the English designer Nina Chang-Smith, founded in 2017.
+* Silversaga (<https://silversagapatterns.com>), a pattern label founded in 2018 as a slow fashion RTW (ready-to-wear) label, by Jessica Silversaga. In 2023, she switched to selling patterns. Many of her RTW designs have since been released as PDF patterns.
+* Schultzapparel (<https://www.schultzapparel.com>), founded by the Danish designer Amalie Schultz.
+* Named Clothing (<https://www.namedclothing.com>), founded in 2012 by the Finnish sisters Laura and Saara Huhta.
+* Bella Loves Patterns (<https://bellalovespatterns.com>), founded by a designer known only as Bella.
+
+### Phenetics and phylogenetics
+In biological taxonomy, there exist two primary methods of classification; phenetics and phylogenetics. Phenetics classifies based on appearance, with no regard for phylogeny or evolutionary relations. Phylogenetics, now the dominant method in biological taxonomy, classifies based on hypotheses of the most recent common ancestry of a group of organisms.
+
+The LCT-01 equivalents are that phenetics is based on the visual appearance of garments, while phylogenetics is based on the origins of a garment; such as what other garments the designer turned to for inspiration, or outright copying from old patterns.
+
+A common quip in the taxonomy that explains the usage of phenetics at high levels is that "there is no last universal common A-line dress". Clothing predates written history, and even in the modern era, designers do not document their sources of inspiration or withhold such information. It could even be argued that the long-established practice of copying other designs, most analogous to horizontal gene transfer in biology, causes fashion's origins to be more analogous to a web rather than a tree.
+
+When humans began wearing clothing is not agreed on; for instance, @toups_origin_2011 states in its abstract that clothing may have originated between 3 Ma and 40,000 years ago, and itself refines that estimate to 83&ndash;170 Ka.
+
+However, phylogenetics is not entirely lost; many individual home sewists extensively document their makes on their blogs, publishing photos and noting the alterations they make to designs to better fit themselves.
+
+As such, the LCT-01 explicitly adopts a hybrid phenetic&ndash;phylogenetic model. Higher ranks are generally based on phenetics, while lower ranks that are based on sewing patterns, are classified more phylogenetically.
+
+Sewing patterns in general represent hard polytomies with some degree of horizontal gene transfer. Sewing patterns also often offer multiple style options in the same package, which results in the pattern becoming polyphyletic.
+
+## Considerations
+### Copyright
+The vast majority of the taxonomy's holotype photograph specimens are copyrighted by third parties. However, this only prohibits their direct inclusion in LCT-01 materials, not citations to the original source material and the Internet Archive. As such, while unpublished taxonomy documents contain the original images, public documents will instead link to the images on their source websites, and cryptographic checksums will be published to allow verification.
+
+Wikimedia Commons features many free-to-use photographs; in this case, the holotype photographs can be embedded directly in documents, as they are unencumbered by copyright.
+
+The LCT-01 does not republish pattern PDFs. It posesses a limited collection of free sewing patterns.
+
+### Ethics
+The LCT-01 taxonomizes publicly available garments. The vast majority of garments made from sewing patterns are unphotographed, undocumented, and thus private. These garments are out of the scope of the LCT-01.
+
+## An example: Nina Lee's Kew pattern and Kewoidea
+As an example, we use Nina Lee's Kew dress to explain the taxonomization of a sewing pattern.
+
+Kew, named for the borough in London, is a pattern by Nina Lee, a pattern label owned by the English designer Nina Chang-Smith. She released the pattern in August 2017 [@changsmith_2017]. The pattern consists of three primary bodice variations; a tea dress variant with ruched sleeves (Kewthidae), a sleeveless sundress with bilateral single straps (Helikewidae), and a cold-shoulder variant, characterized by bilateral single straps and a sleeve lateral to the upper arm.
+
+The last variant, the cold-shoulder variant, is covered by the taxon Kewoidea, a superfamily. The Kew dress itself is a polyphyletic group, scattered across the kingdom Abtruncusa.
+
+We hope to further document the rest of the polyphyletic group that encompasses Nina Lee's Kew dress in future articles, but will focus on a quick summary of Kewoidea here.
+
+The full hierarchy above Kewoidea is as follows:
+
+* Domain Vestimentia (clothing)
+* Kingdom Abtruncusa (originating on the torso)
+* Phylum Scapunatoria (exposing the shoulder)
+* Class Umerostentida (having sleeves lateral to the upper arm)
+* Subclass Bilourida (having bilateral straps)
+* Order Biligamentum (being a dress; specifically, terminating inferior to around the pelvic area)
+* Suborder Biligabotonia (having a ventral medial (center front) button row)
+* Superfamily **Kewoidea** (originating from Nina Lee's Kew dress pattern)
+
+Kewoidea is further split into these taxa:
+
+* Family Plesikewidae
+  * Genus *Kewabotonia*
+  * Genus *Kewasalia* (jumpsuit)
+  * Genus *Florankewia* (Flora × Kew × Anna hack)
+* Family Kewidae
+  * Genus *Kewisia*
+  * Genus *Kewparabola*
+  * Genus *Kewplicata*
+
+### *Kewisia evae* 
+We also present a single species from *Kewisia* to provide further example material.
+
+*Kewisia evae* Lemuria, 2026; wb. Eva, 2018, is a make of the Kew dress by the British sewist Kate Eva. It is made of blue linen and features a ventral medial row of 15 buttons. For Eva, the greatest difficulty was sewing buttonholes; after the completion of other parts of the dress, she delayed work on the buttonholes for over two weeks [@eva_blue_2018].
+
+#### Holotype provenance
+Photograph. 3024&times;4032.
+EXIF metadata stripped; exposure, f-stop, lens foc. len unknown.
+Published 2018-09-18.
+London, United Kingdom.
+Ventral (front) view. Hair positioned dorsally.
+&copy; Kate Eva or unknown photographer 2018, all rights reserved.
+
+* **Blog post**: See @eva_blue_2018.
+* **Raw image URLs**
+  * **Original**: <https://kateevadesigns.com/wp-content/uploads/2018/09/img_3318.jpg>
+  * **IA**: <https://web.archive.org/web/20260314183108/https://kateevadesigns.com/wp-content/uploads/2018/09/img_3318.jpg>
+
+**SHA2-256**:
+```
+95da481e925293acde9fab746a0ca97c
+a64366726218958b9bb76e5cfafa7502
+```
+
+Newlines have been inserted into the data to prevent overwrapping in PDFs. Newlines can be easily removed with find-and-replace.
+
+## Concepts
+Sewing pattern taxonomy reuses some concepts from biological taxonomy. We further illustrate these concepts with the example of Kewoidea.
+
+### Requirement stack
+The requirement stack, which has no clear biological equivalent, is the list of requirements that taxa must follow to receive a specific placement within the tree. Each parent taxon adds a set of requirements to this stack. However, this only applies to phenetic placements; placements on phylogenetic grounds are exempt from the requirement stack. This concept is not specific to sewing pattern taxonomy.
+
+The genus *Kewabotonia* encompasses Kewoidea species that lack the ventral medial button row. While this violates the requirements of suborder Biligabotonia, *Kewabotonia* is exempt on phylogenetic grounds; it is a hack of the Kew dress, and thus, descended from it. This is an example of phylogenetics overriding phenetics when enough data is available.
+
+The requirement stack also causes the Kew dress to scatter polyphyletically; @fig-holotype shows the three major bodice options of the Kew dress; the cold-shoulder (Kewoidea), sundress (Helikewidae), and tea dress (Kewthidae).
+
+```{=latex}
+\end{multicols}
+```
+
+::: {#fig-holotype}
+![](https://static.lemuria.ph/lct01/kew-polyphyletic-tree.png)
+
+Polyphyletic tree of the Kew dresses.
+:::
+
+```{=latex}
+\begin{multicols}{2}
+```
+### *Sensu lato* and *sensu stricto*
+Sewing pattern taxonomy makes frequent use of the concept of *sensu lato* (in the broad sense) and *sensu stricto* (in the strict sense). Sewing patterns are frequently modified to fit the wearer's needs; some of these modifications are extensive enough that they warrant placement in different taxa entirely.
+
+The family Kewidae is designated as the *sensu stricto* taxon for Kewoidea; its three genera encompass the three skirt options available for the Kew. However, only *Kewisia* (straight skirt) is populated with taxa; the other two have yet to see any species.
+
+### Polytomy
+Sewing pattern taxonomy overwhelmingly consists of hard polytomies. The *sensu stricto* taxon is almost always a multifurcation; when sewists purchase the sewing pattern, that forms a direct line of descent between the original pattern PDF and the sewists' eventual makes of the pattern.
+
+### DNA
+Sewing pattern PDFs are closest metaphorically to the shared genes of a biological taxon. Sewing pattern taxa typically share the same or similar morphology, but invariably diverge in the fabric used. Similarly, domestic cats (*Felis catus*) and domestic dogs (*Canis lupus familiaris*) vary greatly in their coat colors and external appareance, but share the same underlying morphology and biology.
+
+### Authority
+Generally, the LCT-01 uses two primary forms of authority; *describer authority* and *wearer authority*. Describer authority works identically to that of biological taxonomy; a name and year is appended to the end of a taxon name to indicate authorship. Wearer authority pertains to holotype images; most holotype images depict a specific person wearing a garment. As seen in the description of *Kewisia evae*, Lemuria has describer authority, as the publisher of its description, while Kate Eva has wearer authority for the holotype image, by virtue of being the person in the image depicted wearing it.
+
+Wearer authority is denoted in the LCT-01 using the particle *wb.*, short for "worn by". For example, a photograph of Kate Eva wearing a dress would use "wb. Eva, YEAR" in its caption.
+
+### Person abbreviations
+The LCT-01 uses a set of standardized *person abbreviations*. This is most similar to botanical author abbreviations. We use the term *person abbreviation* as these short forms are used in wearer authority descriptions and citations in some rare cases, not just descriptions.
+
+A selected list of abbreviations, specifically, those relevant to the taxa discussed in this article, is as follows.
+
+* **Eva** &mdash; Kate Eva, a British sewist. She has her second name as her person abbreviation in the LCT-01. Though *Eva* may be her middle name, not her family name, it effectively acts as a family name-equivalent by virtue of being the second word in her polynym.
+* **L.** &mdash; Carl Linnaeus. Though Linneaus has never been taxonomized in the LCT-01, his single-letter botanical author abbreviation, L., is reserved for him. This honors Linneaus as the creator of the principles that both biological and clothing taxonomy operate on, and minimizes confusion for the botanist that might peruse the LCT-01.
+* **Lemuria** &mdash; Lemuria. He is the author of the LCT-01. Online, and especially in the context of the LCT-01, he is exclusively known mononymically as just Lemuria.
+* **Nina** &mdash; Nina Chang-Smith. She is the creator of Nina Lee Patterns. Like Eva, she has a single-word person abbreviation.
+
+Other person abbreviations, not included in this list, tend to incorporate the first or first few letters of the person's other names, when disambiguation is required or if they are less frequently cited. We also note that Lemuria tends to see shorter abbreviations as conferring more "honor" or "importance" upon their referent; his subjective assessments thus also form a criterion for coining abbreviations.
+
+The LCT-01 tends to use given names over family names, as these are more visible in the LCT-01's source material, and the names likely to be most understood by sewists reading LCT-01 descriptions. Using already-existing abbreviations is also preferrable to coining one from scratch, for the same purposes of understandability.
+
+## Conclusion
+Sewing pattern taxonomy has risen to become one of the major fields of the LCT-01 in its ambition to assign binomial names to as many pieces of clothing as possible. The LCT-01 started off with the principles of biological taxonomy, but it has since diverged to better accomodate its subject matter. The abundant amount of phylogenetic information in the form of sewists documenting their makes, inspirations, and reviewing patterns, will be plenty of work for the LCT-01 and its sole taxonomist.
+
+```{=latex}
+\end{multicols}
+```
+
+## Appendices
+The Newick tree data for the Kew polyphyletic tree is as follows:
+
+```
+(((((((Kewthea,Kewpepla)Kewthidae)Vecobotonia)Vecostola)Manubristenta,
+(((((((Kewabotonia,Kewasalia,Florankewia)Plesikewidae,(Kewisia,Kewparabola,
+Kewplicata)Kewidae)Kewoidea)Biligabotonia)Biligamentum)Bilourida)Umerostentida,
+(((((Helikewisia,Helikewplicata,Helikewparabola)Helikewinae,(Trunkewia)Trunkewinae)
+Helikewidae)Helinina)Helistola)Scapamanica)Scapunatoria)Abtruncusa)Vestimentia)
+```
+
+Newlines have been inserted into the data to prevent overwrapping in PDFs. Newlines can be easily removed with find-and-replace.
+
+### Acknowledgements
+We used iTOL to generate the polyphyletic tree for Kewoidea. See @letunic_interactive_2024.
+
+We make the iTOL tree available at <https://itol.embl.de/tree/1562369552229641773527688>.
+
+### Information
+*Lemuria's (Informal) Journal of Clothing Taxonomy* is a non-peer-reviewed, single-author, citizen science/gray literature publication with no institutional backing.
+
+Publisher ID: 2026.0004
+
+At publication, the journal did not have a DOI prefix.
+
+&copy; Lemuria 2026. All original text and image content by Lemuria is licensed under CC BY-SA 4.0, unless explicitly noted. Linked images are &copy; their respective owners.
