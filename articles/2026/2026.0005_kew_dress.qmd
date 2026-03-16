@@ -327,6 +327,29 @@ First public description (first public desc.) indicates that this paper is the f
 #### *Helikewisia erinae* {#sec-h-erinae}
 ***Helikewisia erinae*** Lemuria, 2026; first public desc.
 
+**Holotype**: Photograph. 427&times;640, EXIF metadata stripped; exposure, f-stop, lens foc. len unknown. United States, New Jersey, Monmouth County, Holland Ridge Farms. Approx. GPS: 40.16936&deg;N 74.50087&deg;W ± 50m (WGS84). Instagram. Ventral view. Hair positioned ventrally, partially obscuring view of left strap (wearer's perspective). *Helikewisia erinae* wb. Erin.M., 2021. SHA2-256: `ff6af1347c0f4ae0d17d74efce69ded5702681b0ea356233daa18e4c690f9a29`. Instagram &copy; Erin Madalone or unknown photographer, 2021, all rights reserved.
+
+* **Page**: See @madalone_kew_2021 and @madalone_tulips_2021.
+* **Raw image URLs**
+  * **Original**: <https://mypoeticmemory.wordpress.com/wp-content/uploads/2021/04/9f49e8f1-0424-4b0a-ada4-5829431c4823.jpeg>
+  * **IA**: <https://web.archive.org/web/20260316212935/https://mypoeticmemory.wordpress.com/wp-content/uploads/2021/04/9f49e8f1-0424-4b0a-ada4-5829431c4823.jpeg>
+
+**Description**: Shallow angle V-neck. Bilateral single straps. **Fabric.** Rayon. "Strawberry Fields Rayon in Ivory", Rifle Paper Co. Wildflowers. Numerous flowers, including but not limited to, *Centaurea cyanus* L.;  *Ranunculus repens* L. **Buttons.** Emerald-green like. Unknown reflective material, likely plastic. White thread, two thread holes. Buttons attached to left side of bodice (wearer's perspective).
+
+**Etymology**: Erin + *-ae*, feminine genitive suffix.
+
+**Specimens examined**:
+
+* Holotype.
+* ***Instaloader 1*** &mdash; Photograph. 1080&times;1350, EXIF metadata stripped; exposure, f-stop, lens foc. len unknown. United States, New Jersey, Monmouth County, Holland Ridge Farms. Approx. GPS: 40.16936&deg;N 74.50087&deg;W ± 50m (WGS84). Instagram. Ventral view. Hair positioned ventrally, partially obscuring view of left strap (wearer's perspective). *Helikewisia erinae* wb. Erin.M., 2021. Higher-resolution version of holotype, but unreproducible due to Meta CDN implementation details. Instagram &copy; Erin Madalone or unknown photographer, 2021, all rights reserved.
+  * **SHA2-256**: `062cd32b6a0eb3b2c8803055384cc473db1fd5959d5616b5229bacb6488baac8`.
+
+**Remarks**:
+
+* *Instaloader 1* specimen was obtained using instaloader. Direct right-click from original Instagram page returns slightly higher-resolution image. Meta's CDN infrastructure is in general, unreceptive to reproducible image retrievals due to the large amount of parameters involved. URLs also appear to have expiring signatures.
+* Holotype specimen is of significantly lower quality, but it is reproducible. A debate is due as to whether image quality or image reproducibility should be valued more in selecting a holotype.
+* The degree to which floral patterns should be documented; and whether the LCT-01 should create a new domain dedicated to fabric taxonomy, is a subject of future discussion. Most of the flowers are likely stylized, and if they correspond to valid botanical names, cannot be conclusively identified due to the author's lack of experience in botany.
+
 #### *Helikewisia irvinae* {#sec-h-irvinae}
 ***Helikewisia irvinae*** Lemuria, 2026; first public desc.
 
