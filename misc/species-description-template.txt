@@ -1,0 +1,21 @@
+### *Genus species* {#sec-k}
+***Genus species*** sp. nov.
+
+**Holotype**: Photograph.
+
+* **Page**:
+* **Raw image URLs**
+  * **Original**: OriginalURL
+  * **IA**: InternetArchiveURL
+
+**Description**: 
+
+**Etymology**:
+
+**Specimens examined**: See holotype information.
+
+**SHA2-256**:
+```
+
+```
+Insert line break at 32nd character to prevent overflow in PDFs.
