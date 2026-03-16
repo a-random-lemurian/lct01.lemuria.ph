@@ -55,6 +55,12 @@ Since the launch of Nina Lee in 2017, Chang-Smith has released ~22 designs. Thes
 Chang-Smith's patterns range from UK sizes 6&ndash;28; she sells them in sets of sizes 6&ndash;20 and 16&ndash;28. She drafts with a height of 165 cm (5 ft 5 in) and a B cup (system unknown). The patterns typically include a 1.5 cm (5/8 in) seam allowance.
 
 ### LCT-01
+#### Focus
+Though the LCT-01's scope is vast, encompassing nearly all clothing, and possibly accessories (pending internal considerations and debates), much of its work has focused on sewing pattern labels. Numerous factors make indie home sewing culture, not just from Britain, exceptionally digestible primary material for the LCT-01; such as the detail and obsessiveness of documentation, traceable lineages to PDF patterns, and a well-described common ancestor; that of a pattern PDF. [@lemuria_general_2026].
+
+Major entities that the LCT-01 has covered and has yet to publish taxonomic treatments of, include labels such as Nina Lee (the main focus of this article), By Hand London, and Tilly and the Buttons. Persons include Tilly Walnes (the owner of Tilly and the Buttons); Elisalex de Castro Peake (now known as Elisalex Jewell) and Charlotte Hintzen (though she has since left), the founders of By Hand London; and the focus of this article, Nina Chang-Smith and her Nina Lee label.
+
+#### Structure
 We present an abridged version of the LCT-01's high level structure, only including the taxa relevant to the Kew dresses at hand. A full graph is presented in @fig-polyphyletic; and here we present basic descriptions of the high level taxa for context, as we have yet to publish more detailed descriptions in the *Journal*.
  
 Domain Vestimentia is the root of the taxonomy. From Latin *vestimentum* ("clothing"), while its definitions are fuzzy, it encompasses garments worn on the human body, excluding standalone accessories.
