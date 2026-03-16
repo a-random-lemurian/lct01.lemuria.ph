@@ -229,7 +229,7 @@ Kewthinae is divided into two genera, *Kewthea* and *Kewpepla*.
 *luscinia* wb. Ruth.Pr., 2019, see @sec-kt-luscinia;
 *evae* wb. Eva, 2018, see @sec-kt-evae;
 and
-*chantellae* wb. Chantelle, 2018, see @sec-k-chantellae.
+*chantellae* wb. Chantelle, 2018, see @sec-kt-chantellae.
 *Kewpepla* is home to two species,
 *lornae* wb. Lorna.R., 2020, see @sec-kp-lornae; and
 *lornaebis* wb. Lorna.R., 2020, see @sec-kp-lornaebis.
@@ -397,11 +397,17 @@ First public description (first public desc.) indicates that this paper is the f
 
 **Specimens examined**: See holotype information.
 
-### *Kewabotonia eleanorae* {#sec-k-eleanorae}
-### *Kewabotonia sarae* {#sec-k-sarae}
-### *Kewabotonia elsae* {#sec-k-elsae}
+#### *Kewabotonia eleanorae* {#sec-k-eleanorae}
+***Kewabotonia eleanorae*** Lemuria, 2026; first public desc.
+
+#### *Kewabotonia sarae* {#sec-k-sarae}
+***Kewabotonia sarae*** Lemuria, 2026; first public desc.
+
+#### *Kewabotonia elsae* {#sec-k-elsae}
+***Kewabotonia elsae*** Lemuria, 2026; first public desc.
 
 #### *Kewabotonia nuptirachaelae* {#sec-k-nuptirachaelae}
+***Kewabotonia nuptirachaelae*** Lemuria, 2026; first public desc.
 
 ### Genus *Kewisia* {#sec-genus-kewisia}
 #### *Kewisia bernicae* {#sec-k-bernicae}
@@ -430,7 +436,7 @@ First public description (first public desc.) indicates that this paper is the f
 **Specimens examined**:
 
 * Holotype.
-* *Yarngasm 281* &ndash; YouTube video. *Yarngasm* ep. 281, "There's Been Spinning". 00h39m17.408s. 854&times;480, 30fps. 48KHz Opus stereo audio. ***Encoder***: Lavf60.16.100. ***YouTube ID***: `O66xjOf4DhM`. Ventral and lateral view. Subject is mostly seated, but at 00h20m48s, stands up to show ventral medial button row and lateral seams. Uploaded 2018-08-03. *Kewisia kristinae* wb. Lehrer, 2018. &copy; Kristin Lehrer, 2018, all rights reserved.
+* ***Yarngasm 281*** &mdash; YouTube video. *Yarngasm* ep. 281, "There's Been Spinning". 00h39m17.408s. 854&times;480, 30fps. 48KHz Opus stereo audio. ***Encoder***: Lavf60.16.100. ***YouTube ID***: `O66xjOf4DhM`. Ventral and lateral view. Subject is mostly seated, but at 00h20m48s, stands up to show ventral medial button row and lateral seams. Uploaded 2018-08-03. *Kewisia kristinae* wb. Lehrer, 2018. &copy; Kristin Lehrer, 2018, all rights reserved.
 
 <!-- 273 278 is for Helikewisia kristinae -->
 
@@ -629,7 +635,7 @@ YARNGASM： Episode 281 - ＂There's Been Spinning＂ [O66xjOf4DhM].mkv
 #### *Kewasalia pimsia* {#sec-k-pimsia}
 ***Kewasalia pimsia*** sp. nov.
 
-**Holotype**: Photograph. 801&times;1184. EXIF metadata stripped; exposure, f-stop, lens foc. len unknown. Screenshotted by Chang-Smith, inferred from filename. Unknown location. Ventral view. Subject's head is to her right. Left strap (wearer's perspective) slightly obscured by ventrally positioned hair. Legs slightly crossed, obscuring medial interlimb space. SHA2-256: `3a1763dad87fa6f2dc2edef01c20db87e5e65f2f4f0e6e46bee83ce3ba49e7d0`. *Kewasalia pimsia* wb. &commat;pimsyfaitdestrucs, c. 2018.  &copy; unknown, unknown year, all rights reserved.
+**Holotype**: Photograph. 801&times;1184. EXIF metadata stripped; exposure, f-stop, lens foc. len unknown. Screenshotted by Chang-Smith, inferred from filename. Unknown location. Ventral view. Subject's head is to her right. Left strap (wearer's perspective) slightly obscured by ventrally positioned hair. Legs slightly crossed, obscuring medial interlimb space. ***SHA2-256***: `3a1763dad87fa6f2dc2edef01c20db87e5e65f2f4f0e6e46bee83ce3ba49e7d0`. *Kewasalia pimsia* wb. &commat;pimsyfaitdestrucs, c. 2018.  &copy; unknown, unknown year, all rights reserved.
 
 * **Page**: See @chang-smith_kew_2018.
 * **Raw image URLs**
@@ -739,7 +745,7 @@ We used iTOL to generate the polyphyletic tree for Kewoidea. See @letunic_intera
 
 We make the iTOL tree available at <https://itol.embl.de/tree/1562369552211801773596077>.
 
-We thank Nina Lee for her amazing pattern, and for helping bolster a culture of home sewing and the slow fashion movement. We thank all the sewists and the sources we have cited for documenting their projects in intricate detail.
+We thank Nina Lee for her amazing patterns, and for helping bolster a culture of home sewing and the slow fashion movement. We thank all the sewists and the sources we have cited for documenting their projects in intricate detail.
 
 ### Information
 *Lemuria's (Informal) Journal of Clothing Taxonomy* is a non-peer-reviewed, single-author, citizen science/gray literature publication with no institutional backing.
