@@ -19,16 +19,7 @@ format:
     theme: darkly
     css: styles.css
     toc: true
-  pdf:
-    include-in-header: preamble.tex
-    engine: lual
-    pdf-standard: a-4f
-    classoption: oneside
-    geometry:
-      - margin=2.5cm
-    sansfont: Noto Sans
-    mainfont: Times New Roman
-    colorlinks: true
+  aft-pdf: default
 
 execute:
   freeze: true
