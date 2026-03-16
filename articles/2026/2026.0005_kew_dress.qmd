@@ -56,27 +56,46 @@ Chang-Smith's patterns range from UK sizes 6&ndash;28; she sells them in sets of
 
 ### LCT-01
 We present an abridged version of the LCT-01's high level structure, only including the taxa relevant to the Kew dresses at hand. A full graph is presented in @fig-polyphyletic; and here we present basic descriptions of the high level taxa for context, as we have yet to publish more detailed descriptions in the *Journal*.
-
-* Domain Vestimentia is the root of the taxonomy. From Latin *vestimentum* ("clothing"), while its definitions are fuzzy, it encompasses garments worn on the human body, excluding standalone accessories.
-* Kingdom Abtruncusa, from Latin *ab* "down from" + *truncusa* "torso", encompasses dresses and tops, and in general, any garment worn on the human torso.
-* Phylum Scapunatoria, from Latin *scapula* "shoulder" + *denudator* "denude, expose", encompasses garments that expose one or more shoulders.
-* Class Umerostentida, from Latin *umerus* "shoulder" + *ostenta* "expose", encompasses garments that have a sleeve lateral to the upper arm while exposing at least one shoulder.
-* Subclass Bilourida, from Latin *bi-* "two" + Greek *lourida* "strap", encompasses garments that have bilateral single straps; i.e one strap on each side of the body.
-* Order Biligamentum, from Latin *bi-* "two" + *ligamentum*, encompasses dresses with bilateral single straps. A dress here is defined as terminating inferior to the pelvic area.
-* Suborder Biligabotonia, from its parent Biligamentum and Latin *botonia* "button", encompasses dresses with a ventral medial button row.
-* Superfamily Kewoidea: See @sec-kewoidea.
-* Subphylum Scapamanica, from its parent Scapunatoria, combined with Greek *a-* "no" + Latin *manica* "sleeve", encompasses sleeveless garments that expose the shoulder.
-* Class Helistola, from Greek *helios* "sun" + Latin *stola* "dress", encompases sundresses; sleeveless garments that expose the shoulder and have slightly thick straps.
-* Order Helinina, from Helistola + Nina's name, encompasses sundresses made from Nina Lee patterns.
-* Family Helikewidae: See @sec-helikewidae.
-* Phylum Manubristenta, from Latin *manubrium* "handle", the name for the top part of the sternum (breastbone), and *ostenta* "expose", encompasses garments whose necklines are low enough to expose the skin above the manubrium, slightly inferior to the bottom of the neck.
-* Class Vecostola, from *ve* "V" + Latin *collum* "neck" + *stola* "dress", encompasses garments with a V-neck.
-* Order Vecobotonia, from Vecobotonia + Latin *botonia* "button", encompasses garments with a ventral medial button row.
-* Family Kewthidae: See @sec-kewthidae.
-* *Clade* Subpelvia: Directly below Vestimentia, the clade Subpelvia encompasses multiple kingdoms that encompass clothing below the pelvic region.
-* Kingdom Suprapatella, from Latin *supra-* "above" + *patella* "knee", encompasses garments that start at or below the pelvis, but above the knee.
-* Phylum Castula, from Latin *castula*, encompasses skirts, garments that originate from the pelvis and only have a single "tube" that covers the human body, as opposed to trousers, shorts, or other garments with two "tubes" that cover each leg individually.
-* Family Portobellidae, encompasses the Portobello trousers by Nina Lee. It is often sewn as a standalone garment, but it has been incorporated into the Kew numerous times, and thus falls within the scope of this paper.
+ 
+Domain Vestimentia is the root of the taxonomy. From Latin *vestimentum* ("clothing"), while its definitions are fuzzy, it encompasses garments worn on the human body, excluding standalone accessories.
+ 
+Kingdom Abtruncusa, from Latin *ab* "down from" + *truncusa* "torso", encompasses dresses and tops, and in general, any garment worn on the human torso.
+ 
+Phylum Scapunatoria, from Latin *scapula* "shoulder" + *denudator* "denude, expose", encompasses garments that expose one or more shoulders.
+ 
+Class Umerostentida, from Latin *umerus* "shoulder" + *ostenta* "expose", encompasses garments that have a sleeve lateral to the upper arm while exposing at least one shoulder.
+ 
+Subclass Bilourida, from Latin *bi-* "two" + Greek *lourida* "strap", encompasses garments that have bilateral single straps; i.e one strap on each side of the body.
+ 
+Order Biligamentum, from Latin *bi-* "two" + *ligamentum*, encompasses dresses with bilateral single straps. A dress here is defined as terminating inferior to the pelvic area.
+ 
+Suborder Biligabotonia, from its parent Biligamentum and Latin *botonia* "button", encompasses dresses with a ventral medial button row.
+ 
+Superfamily Kewoidea: See @sec-kewoidea.
+ 
+Subphylum Scapamanica, from its parent Scapunatoria, combined with Greek *a-* "no" + Latin *manica* "sleeve", encompasses sleeveless garments that expose the shoulder.
+ 
+Class Helistola, from Greek *helios* "sun" + Latin *stola* "dress", encompases sundresses; sleeveless garments that expose the shoulder and have slightly thick straps.
+ 
+Order Helinina, from Helistola + Nina's name, encompasses sundresses made from Nina Lee patterns.
+ 
+Family Helikewidae: See @sec-helikewidae.
+ 
+Phylum Manubristenta, from Latin *manubrium* "handle", the name for the top part of the sternum (breastbone), and *ostenta* "expose", encompasses garments whose necklines are low enough to expose the skin above the manubrium, slightly inferior to the bottom of the neck.
+ 
+Class Vecostola, from *ve* "V" + Latin *collum* "neck" + *stola* "dress", encompasses garments with a V-neck.
+ 
+Order Vecobotonia, from Vecobotonia + Latin *botonia* "button", encompasses garments with a ventral medial button row.
+ 
+Family Kewthidae: See @sec-kewthidae.
+ 
+*Clade* Subpelvia: Directly below Vestimentia, the clade Subpelvia encompasses multiple kingdoms that encompass clothing below the pelvic region.
+ 
+Kingdom Suprapatella, from Latin *supra-* "above" + *patella* "knee", encompasses garments that start at or below the pelvis, but above the knee.
+ 
+Phylum Castula, from Latin *castula*, encompasses skirts, garments that originate from the pelvis and only have a single "tube" that covers the human body, as opposed to trousers, shorts, or other garments with two "tubes" that cover each leg individually.
+ 
+Family Portobellidae, encompasses the Portobello trousers by Nina Lee. It is often sewn as a standalone garment, but it has been incorporated into the Kew numerous times, and thus falls within the scope of this paper.
 
 ::: {.content-visible when-format="html"}
 A tree is as follows:
