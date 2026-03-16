@@ -12,7 +12,7 @@ execute:
   freeze: true
 publisher-id: "lict2026.0005"
 abstract: |
-  The Kew dress, released in August 2017, is one of the earliest patterns from the British pattern label Nina Lee, founded in March 2017 by Nina Chang-Smith. It features three bodice options, a cold-shoulder (a trend at the time of release), a sleeveless sundress, and sleeved tea dress. The later Kewbello combined the bodice of the Kew with her Portobello trousers design. The Kew and Kewbello, collectively, are an example of how the LCT-01's hybrid phylogenetic-phenetic methodology results in the polyphyletic classification of sewing patterns based on their available design options, and the phylogenetic classification of individual design options.
+  The Kew dress, released in August 2017, is one of the earliest patterns from the British pattern label Nina Lee, founded in March 2017 by Nina Chang-Smith. It features three bodice options, a cold-shoulder (a trend at the time of release), a sleeveless sundress, and sleeved tea dress. The later Kewbello combined the bodice of the Kew with her Portobello trousers design. The Kew and Kewbello, collectively, are an example of how the LCT-01's hybrid phylogenetic-phenetic methodology results in the polyphyletic classification of sewing patterns based on their available design options, and the phylogenetic classification of individual design options. We describe N species of Kew dresses for the first time publicly, refining the original findings on our internal MediaWiki site.
 draft: true
 bibliography: 2026.0005-refs.bib
 number-sections: true
@@ -29,7 +29,10 @@ format:
   aft-pdf:
     toc: true
     toc-depth: 3
-keywords: kew dress, kewoidea, kewthidae, helikewidae, nina lee
+    include-in-header:
+      text: |
+        \usepackage{forest}
+keywords: kew dress, kewoidea, kewthidae, helikewidae, nina lee, clothing taxonomy, home sewing, sewing pattern
 ---
 
 ```{=latex}
@@ -47,7 +50,69 @@ Chang-Smith learned basic sewing in childhood from her mother. She began dressma
 In November 2021, she moved to the San Francisco Bay Area, due to her husband's employment. As a result, she discontinued physical printed patterns and now exclusively sells PDFs. [@svetvilas2023].
 
 ### Nina Lee
-Since the launch of Nina Lee in 2017, Chang-Smith has released ~22 designs. These are named for places in London (e.g. Kew, Bakerloo, Camden, Southbank, Mayfair), with more recent patterns drawing from California (e.g. Carmel, Mariposa).
+Since the launch of Nina Lee in 2017, Chang-Smith has released ~22 designs. These are named for places in London (e.g. Kew, Bakerloo, Camden, Southbank, Mayfair), with more recent patterns drawing from California (e.g. Carmel, Mariposa). They are sold as digital PDFs.
+
+Chang-Smith's patterns range from UK sizes 6&ndash;28; she sells them in sets of sizes 6&ndash;20 and 16&ndash;28. She drafts with a height of 165 cm (5 ft 5 in) and a B cup (system unknown). The patterns typically include a 1.5 cm (5/8 in) seam allowance.
+
+### LCT-01
+We present an abridged version of the LCT-01's high level structure, only including the taxa relevant to the Kew dresses at hand. A full graph is presented in @fig-polyphyletic; and here we present basic descriptions of the high level taxa for context, as we have yet to publish more detailed descriptions in the *Journal*.
+
+* Domain Vestimentia is the root of the taxonomy. From Latin *vestimentum* ("clothing"), while its definitions are fuzzy, it encompasses garments worn on the human body, excluding standalone accessories.
+* Kingdom Abtruncusa, from Latin *ab* "down from" + *truncusa* "torso", encompasses dresses and tops, and in general, any garment worn on the human torso.
+* Phylum Scapunatoria, from Latin *scapula* "shoulder" + *denudator* "denude, expose", encompasses garments that expose one or more shoulders.
+* Class Umerostentida, from Latin *umerus* "shoulder" + *ostenta* "expose", encompasses garments that have a sleeve lateral to the upper arm while exposing at least one shoulder.
+* Subclass Bilourida, from Latin *bi-* "two" + Greek *lourida* "strap", encompasses garments that have bilateral single straps; i.e one strap on each side of the body.
+* Order Biligamentum, from Latin *bi-* "two" + *ligamentum*, encompasses dresses with bilateral single straps. A dress here is defined as terminating inferior to the pelvic area.
+* Suborder Biligabotonia, from its parent Biligamentum and Latin *botonia* "button", encompasses dresses with a ventral medial button row.
+* Superfamily Kewoidea: See @sec-kewoidea.
+* Subphylum Scapamanica, from its parent Scapunatoria, combined with Greek *a-* "no" + Latin *manica* "sleeve", encompasses sleeveless garments that expose the shoulder.
+* Class Helistola, from Greek *helios* "sun" + Latin *stola* "dress", encompases sundresses; sleeveless garments that expose the shoulder and have slightly thick straps.
+* Order Helinina, from Helistola + Nina's name, encompasses sundresses made from Nina Lee patterns.
+* Family Helikewidae: See @sec-helikewidae.
+* Phylum Manubristenta, from Latin *manubrium* "handle", the name for the top part of the sternum (breastbone), and *ostenta* "expose", encompasses garments whose necklines are low enough to expose the skin above the manubrium, slightly inferior to the bottom of the neck.
+* Class Vecostola, from *ve* "V" + Latin *collum* "neck" + *stola* "dress", encompasses garments with a V-neck.
+* Order Vecobotonia, from Vecobotonia + Latin *botonia* "button", encompasses garments with a ventral medial button row.
+* Family Kewthidae: See @sec-kewthidae.
+* *Clade* Subpelvia: Directly below Vestimentia, the clade Subpelvia encompasses multiple kingdoms that encompass clothing below the pelvic region.
+* Kingdom Suprapatella, from Latin *supra-* "above" + *patella* "knee", encompasses garments that start at or below the pelvis, but above the knee.
+* Phylum Castula, from Latin *castula*, encompasses skirts, garments that originate from the pelvis and only have a single "tube" that covers the human body, as opposed to trousers, shorts, or other garments with two "tubes" that cover each leg individually.
+* Family Portobellidae, encompasses the Portobello trousers by Nina Lee. It is often sewn as a standalone garment, but it has been incorporated into the Kew numerous times, and thus falls within the scope of this paper.
+
+::: {.content-visible when-format="html"}
+A tree is as follows:
+
+* Domain Vestimentia
+  * Kingdom Abtruncusa
+    * Phylum Scapunatoria (shoulder exposed)
+      * Class Umerostentida (sleeves lateral to upper arm)
+        * Subclass Bilourida
+          * Order Biligamentum
+            * Suborder Biligabotonia
+              * Superfamily **Kewoidea**
+      * Subphylum Scapamanica
+        * Class Helistola (no sleeves, with straps)
+          * Order Helinina
+            * Family **Helikewidae**
+    * Phylum Manubristenta (shoulder covered, manubrium exposed)
+      * Class Vecostola (V-neck)
+        * Order Vecobotonia
+          * Family **Kewthidae**
+  * *Clade* Subpelvia (sub-pelvic origin)
+    * Kingdom Suprapatella (sub-pelvic, but above knee)
+      * Phylum Castula (skirts)
+        * (provisional) Family? Kewcasaceae 
+      * *incertae sedis*
+        * Family Portobellidae
+:::
+
+#### Taxonomic history
+Lemuria discovered the Kew dress through a 2017 vid`eo by the American YouTuber and vlogger Kristin Lehrer, known online as Voolenvine (see @lehrer_voolenvvlog_2018). In the video, she wore a Kew dress (her specific make is now known in the taxonomy as *Kewisia kristinae* Lemuria, 2026); in the description, she includes a link to the Nina Lee product page for the Kew.
+
+Though the LCT-01 was developed in September 2025, it was "dormant" at the time he first saw Lehrer's video. He began another period of activity regarding the taxonomy in January 2026; the earliest edits on his internal MediaWiki site, the Lemuria Wiki, pertaining to the Kew, specifically *K. kristinae*, date back to the end of January.
+
+Throughout February and early March, Lemuria continued taxonomizing sewing patterns, including the Kew. In mid-March, he established *Lemuria's (Informal) Journal of Clothing Taxonomy* (LICT) as a citizen science/gray literature journal to share his findings.
+
+As of March 16, 2026, the LCT-01 now encompasses some 250 species and 70 genera.
 
 ## Kew
 The Kew dress, released in August 2017, is the fourth pattern from Nina Lee [@kewrelease]. It features three bodice variants; a tea dress variant with sleeves; a cold-shoulder variant with straps superior to the scapula and sleeves lateral to the upper arm; and a sundress variant with the same straps, but without the sleeves.
@@ -63,7 +128,7 @@ We present a matrix of all possible bodice&ndash;bottom^[We use the term "bottom
 ```
 
 ::: {#tbl-speciesmatrix}
-| - | Sundress | Cold-shoulder | Tea | No bodice
+| - | **Sundress** | **Cold-shoulder** | **Tea** | **No bodice**
 |---|---|---|---|---|
 | **Gathered** | (*Helikewplicata*) | (*Kewplicata*) | &mdash; | *inc. sed.*
 | **Straight** | *Helikewisia* | *Kewisia* | *Kewthea* | *inc. sed.*
@@ -85,26 +150,26 @@ The bodices of the Kewoidea and Helikewidae feature bilateral ventral seams that
 
 The characteristics of the Kewthidae are described in @sec-kewthidae.
 
-#### Kewoidea
+#### Kewoidea {#sec-kewoidea}
 The cold-shoulder variant encompasses the superfamily Kewoidea. The primary character distinguishing Kewoidea from its closest relative, the sundress bodice (Kewidae), is the presence of bilateral sleeves. The sleeves attach to the bodice narrowly, but widen asymmetrically in the inferior direction, and reach their widest directly lateral to the upper arm, before narrowing again towards its dorsal attachment point to the bodice.
 
 It is further divided into two families, Kewidae and Plesikewidae, which have three genera each. Kewidae is the *sensu stricto* family, consisting of *Kewisia* (straight skirt), and the empty genera *Kewplicata* and *Kewparabola*. Plesikewidae encompasses hacked versions of the Kew, split across three genera.
 
 *Kewisia* is the largest genus in Kewidae, with 12 species:
-*bernicae* wb. Bernice, 2022;
-*evae* wb. Eva, 2018;
-*fionae* wb. Parker, 2018;
-*kristinae* wb. Lehrer (Voolenvine), 2018;
-*latae* wb. Vic Broad, 2017;
-*lizae* wb. Liz, 2018;
-*mariae* wb. Marie, 2018;
-*modistaflora* wb. Sally, 2019;
-*modistarubera* wb. Sally, 2019;
-*rachaelae* wb. Rachael, 2018;
-*reginarunae* wb. Alice, 2018;
-*sarae* wb. Sarah, 2019;
+*bernicae* wb. Bernice, 2022, see @sec-k-bernicae;
+*evae* wb. Eva, 2018, see @sec-k-evae;
+*fionae* wb. Parker, 2018, see @sec-k-fionae;
+*kristinae* wb. Lehrer (Voolenvine), 2018, see @sec-k-kristinae;
+*latae* wb. Vic Broad, 2017, see @sec-k-latae;
+*lizae* wb. Liz, 2018, see @sec-k-lizae;
+*mariae* wb. Marie, 2018, see @sec-k-mariae;
+*modistaflora* wb. Sally, 2019, see @sec-k-modistaflora;
+*modistarubera* wb. Sally, 2019, see @sec-k-modistarubera;
+*rachaelae* wb. Rachael, 2018, see @sec-k-rachaelae;
+*reginarunae* wb. Alice, 2018, see @sec-k-reginarunae;
+*sarae* wb. Sarah, 2019, see @sec-k-sarae;
 
-*Florankewia* is home to two species, *F. libera* (described in @sec-f-libera) and *F. valentina* (described in @sec-f-valentina) are two hacks created by Kate Eva. Though the bodice of the By Hand London Flora and the skirt of the By Hand London Anna account for the majority of the dress, the *Florankewia* incorporates the off-shoulder sleeves of the Kew.
+*Florankewia* is home to two species, *F. libera* (described in @sec-f-libera) and *F. valentina* (described in @sec-f-valentina), which are two hacks created by Kate Eva. Though the bodice of the By Hand London Flora and the skirt of the By Hand London Anna account for the majority of the dress, the *Florankewia* incorporates the off-shoulder sleeves of the Kew.
 
 *Kewabotonia* is a larger genus, encompassing five species. Four of these descend from a hack by Jen Walker, known as the Gingerthread Girl, as described in @walker_kewhack_2018. Walker's specific hack of the Kew encompasses *Kewabotonia zingibera* (described in @sec-k-zingibera), which is also the type species. *Kewabotonia* lacks the ventral medial button row entirely, and has a dorsal medial zipper, which is completely absent among the Kewidae. Chang-Smith herself praised Walker's hack as "the Queen of all the Kew hacks" [-@chang-smith_kew_2018]. The three other species in *Kewabotonia* that descend from Walker's hack are *eleanorae* wb. Eleanor, 2018; *sarae* wb. Sarah, 2018; and *elsae* wb. Elsa, 2021.
 
@@ -112,24 +177,44 @@ The fifth species, *Kewabotonia nuptirachaelae* (described in @sec-k-nuptirachae
 
 *Kewasalia* is a monotypic genus, containing *Kewasalia pimsia*. It is attested in @chang-smith_kew_2018, which describes the garment as a jumpsuit. She credited it to &commat;pimsyfaitdestrucs, whose Instagram account is no longer available.
 
-#### Helikewidae
+#### Helikewidae {#sec-helikewidae}
 The sundress variant encompasses the family Helikewidae. It is similar to Kewoidea, but is sleeveless. Helikewidae is further divided into the subfamilies Helikewinae and Trunkewinae.
 
-Trunkewinae is home to the monotypic genus *Trunkewia*, containing the species *Trunkewia ninae* (described in @sec-t-ninae). Helikewinae is further divided into two tribes, Helikewbellini and Helikewini.
+Trunkewinae is home to the monotypic genus *Trunkewia*, containing the species *Trunkewia ninae* wb. Nina, 2018 (described in @sec-t-ninae). Helikewinae is further divided into two tribes, Helikewbellini and Helikewini.
 
 Helikewbellini (see @sec-kewbello) is monotypic, containing the genus *Helikewbellia*, with no species described at present.
 
 Helikewini is divided into three genera, based on the three skirt options; *Helikewisia*, *Helikewplicata*, and *Helikewparabola*. Like Kewidae, only *Helikewisia* is populated with species.
 
-*Helikewisia* contains four species. 
+*Helikewisia* contains four species;
+*aemilia* wb. Emily, 2017, see @sec-h-aemilia;
+*ceciliae* wb. Cecilia, 2018, see @sec-h-ceciliae;
+*erinae* wb. Erin.M., 2021, see @sec-h-erinae;
+*irvinae* wb. Alice.Ir., 2020, see @sec-h-irvinae;
+
+We also describe the new species *Helikewisia kristinae*, Lehrer's first make of the Kew dress, previously unknown. We became aware of it while reviewing holotype material for *Kewisia kristinae*. See @sec-h-kristinae.
 
 #### Kewthidae {#sec-kewthidae}
-The tea dress variant encompasses the family Kewthidae, split into the subfamilies Kewthinae and Kewbellinae. The Kewthidae are characterized by ruched sleeves that terminate slightly superior to the elbow. *Kewthea* is home to five species; *lornae*, *lornoblae* wb. Lorna.R, 2020; *luscinia* wb. Ruth.Pr. 2019; *eva* wb. Eva, 2018; and *chantellae* wb. Chantelle, 2018.
+The tea dress variant encompasses the family Kewthidae, split into the subfamilies Kewthinae and Kewbellinae. The Kewthidae are characterized by ruched sleeves that terminate slightly superior to the elbow.
+
+Kewthinae is divided into two genera, *Kewthea* and *Kewpepla*.
+*Kewthea* is home to five species;
+*lornae* wb. Lorna.R., 2020, see @sec-kt-lornae;
+*lornoblae* wb. Lorna.R., 2020, see @sec-kt-lornoblae;
+*luscinia* wb. Ruth.Pr., 2019, see @sec-kt-luscinia;
+*evae* wb. Eva, 2018, see @sec-kt-evae;
+and
+*chantellae* wb. Chantelle, 2018, see @sec-k-chantellae.
+*Kewpepla* is home to two species,
+*lornae* wb. Lorna.R., 2020, see @sec-kp-lornae; and
+*lornaebis* wb. Lorna.R., 2020, see @sec-kp-lornaebis.
+
+Lorna Rothery (<https://lornarothery.com/>; abbreviated Lorna.R. in the LCT-01), is the most prolific sewist among the Kewthidae, with four documented specimens.
 
 <!-- Kewthinae is divided into two genera, *Kewthea* and *Kewpepla*. *Kewthea* is the tea dress variant, with ruched sleeves. Chang-Smith herself describes Kewthidae (or *Version 1* on the product page) as having "a touch of 1940s' tea dress" [@kewrelease]. -->
 
 ### Skirts {#sec-skirts}
-The standalone gathered, straight, and parabola skirts are *incertae sedis* within the phylum Castula (Latin for "skirt"). While a taxonomic treatment of the skirts on their own are out of scope, the terminology used to describe them is not.
+The standalone gathered, straight, and parabola skirts are *incertae sedis* within the phylum Castula (Latin for "skirt").
 
 The LCT-01's terminology for the Kew skirts are somewhat counterintuitive; in the LCT-01 sense, the *straight* skirt refers to the skirt from the base Kew pattern (rightmost line art in @chang-smith_kew_2017), while the expansion pack explicitly names two skirts, a *gathered* and *straight* skirt. The line art for the aforementioned two skirts is on the left and right side of "Version 3" respectively in @chang-smith_kew_nodate. The *straight* skirt from the expansion pack is referred to as the *parabola* skirt in the LCT-01, due to its shape.
 
@@ -149,13 +234,12 @@ A matrix of the differing terminology for the Kew skirts, between the LCT-01 and
 :::
 -->
 
+We place the standalone Kew skirts in the provisional family Kewcasaceae, *incertae sedis* in the phylum Castula, kingdom Suprapatella. We hope to cover these taxa and the general structure of Vestimentia in future papers. Until then, as we have insufficient data on standalone Kew skirt projects, we refrain from coining genera names for the three skirts, and also state that Kewcasaceae is prone to reranking and renaming.
+
 #### Kewbello {#sec-kewbello}
 New to the taxonomy, and first introduced in this paper, in the sense that its documentation predates the first edits on Lemuria's internal MediaWiki site, is the Kewbello, a jumpsuit created as a hybrid of the Kew dress and Portobello trousers.
 
-## Taxonomic history
-Lemuria discovered the Kew dress through a 2017 vid`eo by the American YouTuber and vlogger Kristin Lehrer, known online as Voolenvine (see @lehrer_voolenvvlog_2018). In the video, she wore a Kew dress (her specific make is now known in the taxonomy as *Kewisia kristinae* Lemuria, 2026); in the description, she includes a link to the Nina Lee product page for the Kew.
-
-Though the LCT-01 was developed in September 2025, it was "dormant" at the time he first saw Lehrer's video. He began another period of activity regarding the taxonomy in January 2026; the earliest edits on his internal MediaWiki site, the Lemuria Wiki, pertaining to the Kew, specifically *K. kristinae*, date back to the end of January.
+We place the Portobello trousers in the family Portobellidae, *incertae sedis* in the kingdom Suprapatella.
 
 ```{=latex}
 \end{multicols}
@@ -181,12 +265,22 @@ f293048f656688883ee919eb3f4b12926aaa13362de0eb6e3b5716b915b18b35  /usr/bin/sha25
 724acbe911513d13f52bae0b8969b20336cd8618fc67898a6bf7847bf1a270ad  /usr/bin/openssl
 ```
 
+### Filmot and YouTube
+In taxonomizing *K. kristinae* (see @sec-k-kristinae), we used `yt-dlp`, a command-line tool, to download Lehrer's videos. We include terminal output in the *K. kristinae* section for how each file was downloaded and processed, instead of here.
+
+To locate other videos on Lehrer's channel where she discussed her Kew dress, we used the service Filmot, which indexes captions both automatic and manual, across some, according to its self-reported figures, 1.35 billion videos and 78 million videos.
+
+We used the query `(cue | kew | q) NEAR\10 dress`. YouTube's automatic captioning system frequently mishears "Kew" as "Q", "queue", or "cue", hence the parenthetical.
+
+The URL for the query is as follows: <https://filmot.com/search/(cue%20%7C%20kew%20%7C%20q)%20NEAR%5C10%20dress/1?channelID=UCKOvDKc-vLr_pbVJL7KoLXg&gridView=1&>
+
 ## New species
 We also present additional species descriptions of the taxa we have covered.
 
 First public description (first public desc.) indicates that this paper is the first public description of the species, and that the taxon was first documented privately on Lemuria's MediaWiki site.
 
-### *Florankewia libera* {#sec-f-libera}
+### Genus *Florankewia* {#sec-genus-florankewia}
+#### *Florankewia libera* {#sec-f-libera}
 ***Florankewia libera*** Lemuria, 2026; first public desc.
 
 **Holotype**: Photograph. **SHA2-256**: `2db411c534a464ef21bcb247128f3583a006954b7c16d7b3e188fe381eec1f0b`
@@ -204,10 +298,10 @@ First public description (first public desc.) indicates that this paper is the f
 
 **Specimens examined**: See holotype information.
 
-### *Florankewia valentina* {#sec-f-valentina}
+#### *Florankewia valentina* {#sec-f-valentina}
 ***Florankewia valentina*** Lemuria, 2026; first public desc.
 
-**Holotype**: Photograph. 1440&times;1440. EXIF metadata stripped; exposure, f-stop, lens foc. len unknown. London, United Kingdom. Ventral full-body view. Dorsally positioned hair. *Florankewia valentina* wb. Eva, 2019. &copy; Kate Eva or unknown photographer, all rights reserved. 259d9687e6e09752364856a59620d7ffa15d28ded0e669b529a08f5e8bbc3332
+**Holotype**: Photograph. 1440&times;1440. EXIF metadata stripped; exposure, f-stop, lens foc. len unknown. London, United Kingdom. Ventral full-body view. Dorsally positioned hair. *Florankewia valentina* wb. Eva, 2019. &copy; Kate Eva or unknown photographer, all rights reserved. ***SHA2-256***: `259d9687e6e09752364856a59620d7ffa15d28ded0e669b529a08f5e8bbc3332`
 
 * **Page**: See @eva_valentino_2019.
 * **Raw image URLs**
@@ -223,7 +317,24 @@ First public description (first public desc.) indicates that this paper is the f
 * Holotype.
 * *Dorsal view 1* &mdash; Photograph. 1440&times;1440. EXIF metadata stripped; exposure, f-stop, lens foc. len unknown. London, United Kingdom. Dorsal half-body view . ***Original***: <https://kateevadesigns.com/wp-content/uploads/2019/09/c573e2db-5b6d-4658-8832-2b6145a9ec96.jpg>; ***IA***: <https://web.archive.org/web/20260316080324/https://kateevadesigns.com/wp-content/uploads/2019/09/c573e2db-5b6d-4658-8832-2b6145a9ec96.jpg>; ***SHA2-256***: `c4b0476878da7f7011d353fed70da76235731be5edd1416c21203809c74291af`
 
-### *Kewabotonia zingibera* {#sec-k-zingibera}
+### Genus *Helikewisia* {#sec-genus-helikewisia}
+#### *Helikewisia aemilia* {#sec-h-aemilia}
+***Helikewisia aemilia*** Lemuria, 2026; first public desc.
+
+#### *Helikewisia ceciliae* {#sec-h-ceciliae}
+***Helikewisia ceciliae*** Lemuria, 2026; first public desc.
+
+#### *Helikewisia erinae* {#sec-h-erinae}
+***Helikewisia erinae*** Lemuria, 2026; first public desc.
+
+#### *Helikewisia irvinae* {#sec-h-irvinae}
+***Helikewisia irvinae*** Lemuria, 2026; first public desc.
+
+#### *Helikewisia kristinae* {#sec-h-kristinae}
+***Helikewisia kristinae*** Lemuria, sp. nov.
+
+### Genus *Kewabotonia* {#sec-genus-kewabotonia}
+#### *Kewabotonia zingibera* {#sec-k-zingibera}
 ***Kewabotonia zingibera*** Lemuria, 2026; first public desc.
 
 **Holotype**: Photograph. 1200&times;1800. EXIF metadata stripped; exposure, f-stop, lens foc. len unknown. Unknown. Ventral full-body view. Tied hair. Arms spread laterally. *Kewabotonia zingibera* wb. Gingerthread, 2018. SHA2-256: `b4d1008027f701f3b22f523bdc3796e64a0cb99ddb17cfd27c186d3d79849bc4`. &copy; Jen Walker or unknown photographer, 2018, all rights reserved.
@@ -238,42 +349,223 @@ First public description (first public desc.) indicates that this paper is the f
 
 **Specimens examined**: See holotype information.
 
-### *Kewisia kristinae* {#sec-k-kristinae}
+### *Kewabotonia eleanorae* {#sec-k-eleanorae}
+### *Kewabotonia sarae* {#sec-k-sarae}
+### *Kewabotonia elsae* {#sec-k-elsae}
+
+#### *Kewabotonia nuptirachaelae* {#sec-k-nuptirachaelae}
+
+### Genus *Kewisia* {#sec-genus-kewisia}
+#### *Kewisia bernicae* {#sec-k-bernicae}
+***Kewisia bernicae*** Lemuria, 2026; first public desc.
+
+#### *Kewisia evae* {#sec-k-evae}
+***Kewisia evae*** Lemuria, 2026; first public desc.
+
+#### *Kewisia fionae* {#sec-k-fionae}
+***Kewisia fionae*** Lemuria, 2026; first public desc.
+
+#### *Kewisia kristinae* {#sec-k-kristinae}
 ***Kewisia kristinae*** Lemuria, 2026; first public desc.
 
-**Holotype**: Photograph.
+**Holotype**: YouTube video. *VoolenvVLOG: The Seamstress Tag!*. 00h15m48.648s. 1920&times;1080, 23.976fps. 48KHz Opus stereo audio. ***Encoder***: Lavf60.16.100. ***YouTube ID***: `C_cpG65ZGyE`. Ventral view, subject in center. Frame cuts inferior to fourth button. Uploaded 2018-09-04. *Kewisia kristinae* wb. Lehrer, 2018. &copy; Kristin Lehrer, 2018, all rights reserved.
 
-<!--801&times;1184. EXIF metadata stripped; exposure, f-stop, lens foc. len unknown. Screenshotted by Chang-Smith, inferred from filename. Unknown location. Ventral view. Subject's head is to her right. Left strap (wearer's perspective) slightly obscured by ventrally positioned hair. Legs slightly crossed, obscuring medial interlimb space. *Kewasalia pimsia* wb. &commat;pimsyfaitdestrucs, c. 2018.  &copy; unknown, unknown year, all rights reserved.-->
-
-* **Page**:
+* **Page**: See @lehrer_voolenvvlog_2018.
 * **Raw image URLs**
   * **Original**: OriginalURL
   * **IA**: InternetArchiveURL
 
-**Description**: 
+**Description**: Shallow angle V-neck. Bilateral single straps. Lack of ventral medial button row. Sleeves typical to that of Kewoidea and level with bodice. Skirt terminates superior to knee. **Fabric.** Black fabric. Floral patterns, featuring ferns (botanical division Polypodiophhyta and class Polypodiopsida <small>Cronquist, Takht. &* W.Zimm.</small>)
 
-**Etymology**:
+**Etymology**: *Kristin* + *-ae* feminine genitive prefix.
 
-**Specimens examined**: See holotype information.
+**Specimens examined**:
 
-**SHA2-256**:
+* Holotype.
+* *Yarngasm 281* &ndash; YouTube video. *Yarngasm* ep. 281, "There's Been Spinning". 00h39m17.408s. 854&times;480, 30fps. 48KHz Opus stereo audio. ***Encoder***: Lavf60.16.100. ***YouTube ID***: `O66xjOf4DhM`. Ventral and lateral view. Subject is mostly seated, but at 00h20m48s, stands up to show ventral medial button row and lateral seams. Uploaded 2018-08-03. *Kewisia kristinae* wb. Lehrer, 2018. &copy; Kristin Lehrer, 2018, all rights reserved.
+
+<!-- 273 278 is for Helikewisia kristinae -->
+
+**`yt-dlp` provenance:**
+```
+$ yt-dlp --version                                                                                      0
+2026.03.13.083652
+$ yt-dlp --write-info-json --write-description 'https://www.youtube.com/watch?v=C_cpG65ZGyE'
+[youtube] Extracting URL: https://www.youtube.com/watch?v=C_cpG65ZGyE
+[youtube] C_cpG65ZGyE: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found.
+Only deno is enabled by default; to use another runtime add
+--js-runtimes RUNTIME[:PATH]  to your command/config. YouTube
+extraction without a JS runtime has been deprecated, and some
+formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS
+for details on installing one
+[youtube] C_cpG65ZGyE: Downloading android vr player API JSON
+[info] C_cpG65ZGyE: Downloading 1 format(s): 137+251
+[info] Writing video description to:
+  VoolenvVLOG： The Seamstress Tag! [C_cpG65ZGyE].description
+[info] Writing video metadata as JSON to:
+  VoolenvVLOG： The Seamstress Tag! [C_cpG65ZGyE].info.json
+[download] Destination: VoolenvVLOG： The Seamstress Tag! [C_cpG65ZGyE].f137.mp4
+[download] 100% of  115.81MiB in 00:00:23 at 5.03MiB/s
+[download] Destination: VoolenvVLOG： The Seamstress Tag! [C_cpG65ZGyE].f251.webm
+[download] 100% of   12.28MiB in 00:00:02 at 5.49MiB/s
+[Merger] Merging formats into
+  "VoolenvVLOG： The Seamstress Tag! [C_cpG65ZGyE].mkv"
+Deleting original file VoolenvVLOG： The Seamstress Tag! [C_cpG65ZGyE].f137.mp4 (pass -k to keep)
+Deleting original file VoolenvVLOG： The Seamstress Tag! [C_cpG65ZGyE].f251.webm (pass -k to keep)
+$ sha256sum VoolenvVLOG：\ The\ Seamstress\ Tag\!\ \[C_cpG65ZGyE\].mkv
+26d8f585d3f683bd21a158954da41103b163bb99b88c6e1cb508bf292d9076be
+VoolenvVLOG： The Seamstress Tag! [C_cpG65ZGyE].mkv
 ```
 
+Terminal output has been manually newlined for ease of printing.
+
+```
+$ yt-dlp --write-info-json --write-description \
+  https://www.youtube.com/watch\?v\=adTrJzjOXbc \
+  https://www.youtube.com/watch\?v\=BicN7eyA2U4 \
+  https://www.youtube.com/watch\?v\=O66xjOf4DhM
+[youtube] Extracting URL: https://www.youtube.com/watch?v=adTrJzjOXbc
+[youtube] adTrJzjOXbc: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found.
+Only deno is enabled by default; to use another runtime add
+--js-runtimes RUNTIME[:PATH]  to your command/config. YouTube
+extraction without a JS runtime has been deprecated, and some
+formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS
+for details on installing one
+[youtube] adTrJzjOXbc: Downloading android vr player API JSON
+[info] adTrJzjOXbc: Downloading 1 format(s): 135+251
+[info] Writing video description to:
+  YARNGASM： Episode 273 - ＂I Say Tomato, You Say ...＂ [adTrJzjOXbc].description
+[info] Writing video metadata as JSON to:
+  YARNGASM： Episode 273 - ＂I Say Tomato, You Say ...＂ [adTrJzjOXbc].info.json
+[download] Destination:
+  YARNGASM： Episode 273 - ＂I Say Tomato, You Say ...＂ [adTrJzjOXbc].f135.mp4
+[download] 100% of   98.67MiB in 00:00:22 at 4.47MiB/s
+[download] Destination:
+  YARNGASM： Episode 273 - ＂I Say Tomato, You Say ...＂ [adTrJzjOXbc].f251.webm
+[download] 100% of   30.10MiB in 00:00:05 at 5.58MiB/s
+[Merger] Merging formats into "YARNGASM： Episode 273 - ＂I Say Tomato, You Say ...＂ [adTrJzjOXbc].mkv"
+Deleting original file
+  YARNGASM： Episode 273 - ＂I Say Tomato, You Say ...＂ [adTrJzjOXbc].f135.mp4
+  (pass -k to keep)
+Deleting original file
+  YARNGASM： Episode 273 - ＂I Say Tomato, You Say ...＂ [adTrJzjOXbc].f251.webm
+  (pass -k to keep)
+[youtube] Extracting URL: https://www.youtube.com/watch?v=BicN7eyA2U4
+[youtube] BicN7eyA2U4: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found.
+Only deno is enabled by default; to use another runtime add
+--js-runtimes RUNTIME[:PATH]  to your command/config. YouTube
+extraction without a JS runtime has been deprecated, and some
+formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS
+for details on installing one
+[youtube] BicN7eyA2U4: Downloading android vr player API JSON
+[info] BicN7eyA2U4: Downloading 1 format(s): 135+251
+[info] Writing video description to:
+  YARNGASM： Episode 278 - ＂Living On the Edge＂ [BicN7eyA2U4].description
+[info] Writing video metadata as JSON to:
+  YARNGASM： Episode 278 - ＂Living On the Edge＂ [BicN7eyA2U4].info.json
+[download] Destination:
+  YARNGASM： Episode 278 - ＂Living On the Edge＂ [BicN7eyA2U4].f135.mp4
+[download] 100% of  126.58MiB in 00:00:59 at 2.12MiB/s
+[download] Destination:
+  YARNGASM： Episode 278 - ＂Living On the Edge＂ [BicN7eyA2U4].f251.webm
+[download] 100% of   32.26MiB in 00:00:11 at 2.88MiB/s
+[Merger] Merging formats into "YARNGASM： Episode 278 - ＂Living On the Edge＂ [BicN7eyA2U4].mkv"
+Deleting original file
+  YARNGASM： Episode 278 - ＂Living On the Edge＂ [BicN7eyA2U4].f251.webm
+  (pass -k to keep)
+Deleting original file
+  YARNGASM： Episode 278 - ＂Living On the Edge＂ [BicN7eyA2U4].f135.mp4
+  (pass -k to keep)
+[youtube] Extracting URL: https://www.youtube.com/watch?v=O66xjOf4DhM
+[youtube] O66xjOf4DhM: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found.
+Only deno is enabled by default; to use another runtime add
+--js-runtimes RUNTIME[:PATH]  to your command/config. YouTube
+extraction without a JS runtime has been deprecated, and some
+formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS
+for details on installing one
+[youtube] O66xjOf4DhM: Downloading android vr player API JSON
+[info] O66xjOf4DhM: Downloading 1 format(s): 135+251
+[info] Writing video description to:
+  YARNGASM： Episode 281 - ＂There's Been Spinning＂ [O66xjOf4DhM].description
+[info] Writing video metadata as JSON to:
+  YARNGASM： Episode 281 - ＂There's Been Spinning＂ [O66xjOf4DhM].info.json
+[download] Destination: YARNGASM： Episode 281 - ＂There's Been Spinning＂ [O66xjOf4DhM].f135.mp4
+[download] 100% of  193.72MiB in 00:01:06 at 2.92MiB/s
+[download] Destination: YARNGASM： Episode 281 - ＂There's Been Spinning＂ [O66xjOf4DhM].f251.webm
+[download] 100% of   38.61MiB in 00:00:10 at 3.57MiB/s
+[Merger] Merging formats into "YARNGASM： Episode 281 - ＂There's Been Spinning＂ [O66xjOf4DhM].mkv"
+Deleting original file
+  YARNGASM： Episode 281 - ＂There's Been Spinning＂ [O66xjOf4DhM].f251.webm
+  (pass -k to keep)
+Deleting original file
+  YARNGASM： Episode 281 - ＂There's Been Spinning＂ [O66xjOf4DhM].f135.mp4
+  (pass -k to keep)
+``` 
+
+```
+0914ac6be8ed66acb413a553157cc57d8b8286a5173818045f2e643ec65e290c
+YARNGASM： Episode 273 - ＂I Say Tomato, You Say ...＂ [adTrJzjOXbc].mkv
+
+496d067484a1f313eab59b28faef186cda44e3b9aad87d3608e34991b8743e9a
+YARNGASM： Episode 278 - ＂Living On the Edge＂ [BicN7eyA2U4].mkv
+
+7d85936541d0f863f96fe09724a6e5af37dc352eaf29f082ae8da46cceb0ff34
+YARNGASM： Episode 281 - ＂There's Been Spinning＂ [O66xjOf4DhM].mkv
 ```
 
-### *Kewisia bernicae* {#sec-k-bernicae}
-### *Kewisia evae* {#sec-k-evae}
-### *Kewisia fionae* {#sec-k-fionae}
-### *Kewisia latae* {#sec-k-latae}
-### *Kewisia lizae* {#sec-k-lizae}
-### *Kewisia mariae* {#sec-k-mariae}
-### *Kewisia modistaflora* {#sec-k-modistaflora}
-### *Kewisia modistarubera* {#sec-k-modistarubera}
-### *Kewisia rachaelae* {#sec-k-rachaelae}
-### *Kewisia reginarunae* {#sec-k-reginarunae}
-### *Kewisia sarae* {#sec-k-sarae}
+#### *Kewisia latae* {#sec-k-latae}
+***Kewisia latae*** Lemuria, 2026; first public desc.
 
-### *Kewasalia pimsia* {#sec-k-pimsia}
+#### *Kewisia lizae* {#sec-k-lizae}
+***Kewisia lizae*** Lemuria, 2026; first public desc.
+
+#### *Kewisia mariae* {#sec-k-mariae}
+***Kewisia mariae*** Lemuria, 2026; first public desc.
+
+#### *Kewisia modistaflora* {#sec-k-modistaflora}
+***Kewisia modistaflora*** Lemuria, 2026; first public desc.
+
+#### *Kewisia modistarubera* {#sec-k-modistarubera}
+***Kewisia modistarubera*** Lemuria, 2026; first public desc.
+
+#### *Kewisia rachaelae* {#sec-k-rachaelae}
+***Kewisia rachaelae*** Lemuria, 2026; first public desc.
+
+#### *Kewisia reginarunae* {#sec-k-reginarunae}
+***Kewisia reginarunae*** Lemuria, 2026; first public desc.
+
+#### *Kewisia sarae* {#sec-k-sarae}
+***Kewisia sarae*** Lemuria, 2026; first public desc.
+
+### Genus *Kewpepla* {#sec-genus-kewpepla}
+#### *Kewpepla lornae* {#sec-kp-lornae}
+***Kewpepla lornae*** Lemuria, 2026; first public desc.
+
+#### *Kewpepla lornaebis* {#sec-kp-lornaebis}
+***Kewpepla lornaebis*** Lemuria, 2026; first public desc.
+
+### Genus *Kewthea* {#sec-genus-kewthea}
+#### *Kewthea lornae* {#sec-kt-lornae}
+***Kewthea lornae*** Lemuria, 2026; first public desc.
+
+#### *Kewthea lornoblae* {#sec-kt-lornoblae}
+***Kewthea lornoblae*** Lemuria, 2026; first public desc.
+
+#### *Kewthea luscinia* {#sec-kt-luscinia}
+***Kewthea luscinia*** Lemuria, 2026; first public desc.
+
+#### *Kewthea evae* {#sec-kt-evae}
+***Kewthea evae*** Lemuria, 2026; first public desc.
+
+#### *Kewthea chantellae* {#sec-kt-chantellae}
+***Kewthea chantellae*** Lemuria, 2026; first public desc.
+
+### Monotypic genera  {#sec-monotypic-genera}
+#### *Kewasalia pimsia* {#sec-k-pimsia}
 ***Kewasalia pimsia*** sp. nov.
 
 **Holotype**: Photograph. 801&times;1184. EXIF metadata stripped; exposure, f-stop, lens foc. len unknown. Screenshotted by Chang-Smith, inferred from filename. Unknown location. Ventral view. Subject's head is to her right. Left strap (wearer's perspective) slightly obscured by ventrally positioned hair. Legs slightly crossed, obscuring medial interlimb space. SHA2-256: `3a1763dad87fa6f2dc2edef01c20db87e5e65f2f4f0e6e46bee83ce3ba49e7d0`. *Kewasalia pimsia* wb. &commat;pimsyfaitdestrucs, c. 2018.  &copy; unknown, unknown year, all rights reserved.
@@ -289,9 +581,7 @@ First public description (first public desc.) indicates that this paper is the f
 
 **Specimens examined**: See holotype information.
 
-### *Trunkewia ninae* {#sec-t-ninae}
-
-### *Kewabotonia nuptirachaelae* {#sec-k-nuptirachaelae}
+#### *Trunkewia ninae* {#sec-t-ninae}
 
 ```{=latex}
 \newpage
@@ -337,17 +627,16 @@ To determine the genera in which a Kew dress is placed:
 : Garment bottom similar in appearance to Kewbello: *Helikewbellini* (19). Garment has skirt: tribe Helikewini (20).
 
 18
-: Genus *Trunkewia*.
+: Genus *Trunkewia*. End.
 
 19
-: Genus *Helikewbellia*.
+: Genus *Helikewbellia*. End.
 
 20
 : Straight skirt (same as default skirt in @chang-smith_kew_2017): genus *Helikewisia* (21). Gathering at superior end: genus *Helikewplicata* (22). Slight parabolic shape before shallow inward angle (as seen on the rightmost skirt of @chang-smith_kew_nodate): genus *Helikewparabola* (23).
 
 21, 22, 23
 : End.
-
 
 ## Appendix 
 ::: {#fig-polyphyletic}
@@ -357,11 +646,25 @@ An expanded polyphyletic tree of the Kew dresses. New Kewbello taxa in bold ital
 :::
 
 ### Person abbreviations
+In this paper, we used the following person abbreviations.
+
+* **Bernice** &mdash; Bernice (Instagram: &commat;sewbee73), a sewist based in the San Francisco Bay Area.
+* **Erin.M.** &mdash; Erin Madalone (Instagram: &commat;poeticmemorysewing), an American sewist based in New Jersey.
+* **Eva** &mdash; Kate Eva
+* **Gingerthread** &mdash; Gingerthread Girl (Jen Walker)
+* **Lehrer** &mdash; Kristin Lehrer, known online as Voolenvine
+* **Lorna.R.** &mdash; Lorna Rothery (<https://lornarothery.com/>; abbreviated Lorna.R. in the LCT-01), is the most prolific sewist among the Kewthidae, with four documented specimens.
+* **Marie.K.** &mdash; Marie Koupparis of *A Stitching Odyssey*
+* **Nina** &mdash; Nina Chang-Smith
+* **Rachael** &mdash; Rachael Beaumont
+* **Ruth.Pr.** &mdash; Ruth Procter, author of the blog *Nightingale & Dolittle*
 
 ### Acknowledgements
 We used iTOL to generate the polyphyletic tree for Kewoidea. See @letunic_interactive_2024.
 
 We make the iTOL tree available at <https://itol.embl.de/tree/1562369552211801773596077>.
+
+We thank Nina Lee for her amazing pattern, and for helping bolster a culture of home sewing and the slow fashion movement. We thank all the sewists and the sources we have cited for documenting their projects in intricate detail.
 
 ### Information
 *Lemuria's (Informal) Journal of Clothing Taxonomy* is a non-peer-reviewed, single-author, citizen science/gray literature publication with no institutional backing.
@@ -370,4 +673,4 @@ Publisher article ID: 2026.0005
 
 At publication, the journal did not have a DOI prefix.
 
-&copy; Lemuria 2026. All original text and image content by Lemuria is licensed under CC BY-SA 4.0, unless explicitly noted. Linked images are &copy; their respective owners.
+&copy; Lemuria 2026. All original text and image content by Lemuria is licensed under CC BY-SA 4.0, unless explicitly noted. Linked images and other content are &copy; their respective owners or copyright holders.
