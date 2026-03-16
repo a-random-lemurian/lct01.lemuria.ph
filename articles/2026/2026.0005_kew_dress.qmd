@@ -1,0 +1,373 @@
+---
+title: "A taxonomy of Nina Lee's Kew and Kewbello"
+author:
+  name: Lemuria
+  email: lemuria@lemuria.ph
+license: CC BY-SA
+journal:
+  title: "Lemuria's (Informal) Journal of Clothing Taxonomy"
+date: 2026-03-16
+lang: en
+execute: 
+  freeze: true
+publisher-id: "lict2026.0005"
+abstract: |
+  The Kew dress, released in August 2017, is one of the earliest patterns from the British pattern label Nina Lee, founded in March 2017 by Nina Chang-Smith. It features three bodice options, a cold-shoulder (a trend at the time of release), a sleeveless sundress, and sleeved tea dress. The later Kewbello combined the bodice of the Kew with her Portobello trousers design. The Kew and Kewbello, collectively, are an example of how the LCT-01's hybrid phylogenetic-phenetic methodology results in the polyphyletic classification of sewing patterns based on their available design options, and the phylogenetic classification of individual design options.
+draft: true
+bibliography: 2026.0005-refs.bib
+number-sections: true
+citation:
+  author: Lemuria
+  citation-key: lemuria_kew_2026
+  title: A taxonomy of Nina Lee's Kew and Kewbello
+  original-date: 2026-03-16
+  publisher: Lemuria
+  article-id: lict2026.0005
+  publisher-place: Philippines
+format:
+  html: default
+  aft-pdf:
+    toc: true
+    toc-depth: 3
+keywords: kew dress, kewoidea, kewthidae, helikewidae, nina lee
+---
+
+```{=latex}
+\begin{multicols}{2}
+```
+
+## Background
+In January 2016, Jessica Bain wrote that the traditional practice of home sewing, specifically dressmaking, was experiencing a revival [@bain2016]. At the time, the *Great British Sewing Bee* had just finished its third season, and not only that, bloggers and Twitter users were building their own community, one that Bain describes as "digital dressmakers". We use the term "British indie sewing culture".
+
+### Nina Chang-Smith
+Perhaps part of the revival that Bain described, in March 2017, Nina Chang-Smith, known at the time as just Nina Chang, a British designer, launched her pattern label, Nina Lee, in London [@chang2017]^[Chang-Smith has since taken down her old blog, but the post is still available on the Wayback Machine. It does not link to the specific blog post, but to the homepage where the post in question is embedded.]. Lee and Chang-Smith are distinct concepts, and should not be confused.
+
+Chang-Smith learned basic sewing in childhood from her mother. She began dressmaking in earnest in her middle teenage years; at 14, she sewed her first garment, a lilac gingham sundress with an empire line waist and puffy sleeves [@svetvilas2023].
+
+In November 2021, she moved to the San Francisco Bay Area, due to her husband's employment. As a result, she discontinued physical printed patterns and now exclusively sells PDFs. [@svetvilas2023].
+
+### Nina Lee
+Since the launch of Nina Lee in 2017, Chang-Smith has released ~22 designs. These are named for places in London (e.g. Kew, Bakerloo, Camden, Southbank, Mayfair), with more recent patterns drawing from California (e.g. Carmel, Mariposa).
+
+## Kew
+The Kew dress, released in August 2017, is the fourth pattern from Nina Lee [@kewrelease]. It features three bodice variants; a tea dress variant with sleeves; a cold-shoulder variant with straps superior to the scapula and sleeves lateral to the upper arm; and a sundress variant with the same straps, but without the sleeves.
+
+An expansion pack is also available, which adds two additional skirts, which totals out to three bodice and three skirt options, which multiply to nine. Chang-Smith claims on the expansion pack that it increases the number of "possible Kew creations" to 12. This claim is true, but slightly counterintuitive. The lack of a bodice entirely is considered the fourth bodice option, and given the exact language of Chang-Smith's claim, this math is nearly correct. But when the options to make a Kewbello, or to make the bodice standalone is added, we reach four bodice options and five skirt options, making for 19 possible creations^[Not wearing a Kew bodice or a Kew skirt is either full nudity or a non-Kew taxon.], showing that Chang-Smith underpromised and overdelivered.
+
+Chang-Smith describes the Kew as "feminine, elegant and stylish", inspired by "the delights of British summertime" in her 2017 Instagram post announcing its release [@kewrelease].
+
+We present a matrix of all possible bodice&ndash;bottom^[We use the term "bottom" instead of "skirt" as using no skirt or using the Portobello, which are trousers, is also an option.] combinations that involve components from either the Kew or Kewbello patterns.
+
+```{=latex}
+\end{multicols}
+```
+
+::: {#tbl-speciesmatrix}
+| - | Sundress | Cold-shoulder | Tea | No bodice
+|---|---|---|---|---|
+| **Gathered** | (*Helikewplicata*) | (*Kewplicata*) | &mdash; | *inc. sed.*
+| **Straight** | *Helikewisia* | *Kewisia* | *Kewthea* | *inc. sed.*
+| **Parabola** | (*Helikewparabola*) | (*Kewparabola*) | &mdash; | *inc. sed.*
+| **Portobello** | (*Helikewbellia*) | &mdash; | (*Kewbellothea*) | non-Kew
+| **No bottom** | *Trunkewia* | &mdash; | *Kewpepla* | non-Kew
+
+A matrix of Kew species. An emdash (&mdash;) indicates that a specific skirt&ndash;bodice combo has not been described so far, while parentheses indicate that while the genus name has been coined, no species have been described.
+:::
+
+```{=latex}
+\begin{multicols}{2}
+```
+
+### Bodices
+The vast majority of the Kew dresses, with the exception of *Kewabotonia*, feature a ventral medial (center front) button row. Button counts vary with the wearer; from as low as zero (the defining characteristic of *Kewabotonia*), to ~17 (as seen on the line art in @chang-smith_kew_nodate), of which five are on the bodice and the remaining 12 are on the skirt.
+
+The bodices of the Kewoidea and Helikewidae feature bilateral ventral seams that originate at around the bust. These seams extend to the parabola skirt (see @sec-skirts), as seen in @chang-smith_kew_nodate. Laterally, they feature a horizontal seam [as seen in @chang-smith_kew_nodate; and @chang-smith_kew_2018]. The seam extends to the lateral vertical seams (as seen on *K. rachaelae*, *Lateral view 1*).
+
+The characteristics of the Kewthidae are described in @sec-kewthidae.
+
+#### Kewoidea
+The cold-shoulder variant encompasses the superfamily Kewoidea. The primary character distinguishing Kewoidea from its closest relative, the sundress bodice (Kewidae), is the presence of bilateral sleeves. The sleeves attach to the bodice narrowly, but widen asymmetrically in the inferior direction, and reach their widest directly lateral to the upper arm, before narrowing again towards its dorsal attachment point to the bodice.
+
+It is further divided into two families, Kewidae and Plesikewidae, which have three genera each. Kewidae is the *sensu stricto* family, consisting of *Kewisia* (straight skirt), and the empty genera *Kewplicata* and *Kewparabola*. Plesikewidae encompasses hacked versions of the Kew, split across three genera.
+
+*Kewisia* is the largest genus in Kewidae, with 12 species:
+*bernicae* wb. Bernice, 2022;
+*evae* wb. Eva, 2018;
+*fionae* wb. Parker, 2018;
+*kristinae* wb. Lehrer (Voolenvine), 2018;
+*latae* wb. Vic Broad, 2017;
+*lizae* wb. Liz, 2018;
+*mariae* wb. Marie, 2018;
+*modistaflora* wb. Sally, 2019;
+*modistarubera* wb. Sally, 2019;
+*rachaelae* wb. Rachael, 2018;
+*reginarunae* wb. Alice, 2018;
+*sarae* wb. Sarah, 2019;
+
+*Florankewia* is home to two species, *F. libera* (described in @sec-f-libera) and *F. valentina* (described in @sec-f-valentina) are two hacks created by Kate Eva. Though the bodice of the By Hand London Flora and the skirt of the By Hand London Anna account for the majority of the dress, the *Florankewia* incorporates the off-shoulder sleeves of the Kew.
+
+*Kewabotonia* is a larger genus, encompassing five species. Four of these descend from a hack by Jen Walker, known as the Gingerthread Girl, as described in @walker_kewhack_2018. Walker's specific hack of the Kew encompasses *Kewabotonia zingibera* (described in @sec-k-zingibera), which is also the type species. *Kewabotonia* lacks the ventral medial button row entirely, and has a dorsal medial zipper, which is completely absent among the Kewidae. Chang-Smith herself praised Walker's hack as "the Queen of all the Kew hacks" [-@chang-smith_kew_2018]. The three other species in *Kewabotonia* that descend from Walker's hack are *eleanorae* wb. Eleanor, 2018; *sarae* wb. Sarah, 2018; and *elsae* wb. Elsa, 2021.
+
+The fifth species, *Kewabotonia nuptirachaelae* (described in @sec-k-nuptirachaelae), was sewn by the British sewist Rachael Beaumont sewed it in 2018 for one of her bridesmaids, Lizzy [@beaumont_handmade_2018]. *Kewabotonia nuptirachaelae* does not explicitly diverge from Walker's hack; she does not mention it in her blog post. It is distinguished from the rest of genus in its full-circle skirt.
+
+*Kewasalia* is a monotypic genus, containing *Kewasalia pimsia*. It is attested in @chang-smith_kew_2018, which describes the garment as a jumpsuit. She credited it to &commat;pimsyfaitdestrucs, whose Instagram account is no longer available.
+
+#### Helikewidae
+The sundress variant encompasses the family Helikewidae. It is similar to Kewoidea, but is sleeveless. Helikewidae is further divided into the subfamilies Helikewinae and Trunkewinae.
+
+Trunkewinae is home to the monotypic genus *Trunkewia*, containing the species *Trunkewia ninae* (described in @sec-t-ninae). Helikewinae is further divided into two tribes, Helikewbellini and Helikewini.
+
+Helikewbellini (see @sec-kewbello) is monotypic, containing the genus *Helikewbellia*, with no species described at present.
+
+Helikewini is divided into three genera, based on the three skirt options; *Helikewisia*, *Helikewplicata*, and *Helikewparabola*. Like Kewidae, only *Helikewisia* is populated with species.
+
+*Helikewisia* contains four species. 
+
+#### Kewthidae {#sec-kewthidae}
+The tea dress variant encompasses the family Kewthidae, split into the subfamilies Kewthinae and Kewbellinae. The Kewthidae are characterized by ruched sleeves that terminate slightly superior to the elbow. *Kewthea* is home to five species; *lornae*, *lornoblae* wb. Lorna.R, 2020; *luscinia* wb. Ruth.Pr. 2019; *eva* wb. Eva, 2018; and *chantellae* wb. Chantelle, 2018.
+
+<!-- Kewthinae is divided into two genera, *Kewthea* and *Kewpepla*. *Kewthea* is the tea dress variant, with ruched sleeves. Chang-Smith herself describes Kewthidae (or *Version 1* on the product page) as having "a touch of 1940s' tea dress" [@kewrelease]. -->
+
+### Skirts {#sec-skirts}
+The standalone gathered, straight, and parabola skirts are *incertae sedis* within the phylum Castula (Latin for "skirt"). While a taxonomic treatment of the skirts on their own are out of scope, the terminology used to describe them is not.
+
+The LCT-01's terminology for the Kew skirts are somewhat counterintuitive; in the LCT-01 sense, the *straight* skirt refers to the skirt from the base Kew pattern (rightmost line art in @chang-smith_kew_2017), while the expansion pack explicitly names two skirts, a *gathered* and *straight* skirt. The line art for the aforementioned two skirts is on the left and right side of "Version 3" respectively in @chang-smith_kew_nodate. The *straight* skirt from the expansion pack is referred to as the *parabola* skirt in the LCT-01, due to its shape.
+
+Arguably, the base skirt from the original pattern could be considered parabolic in shape. The *straight* skirt itself from the expansion pack bulges slightly before it begins to curve inward at a shallow 181&ndash;185&deg; angle.
+
+Even if the terminology is inaccurate, it is now set in stone, both in the names of Kew genera and the standardized terminology of LCT-01 descriptions. We will not be revising this terminology, but have described it for ease of reference.
+
+<!-- 
+::: {#tbl-speciesname tbl-env="table"}
+| LCT-01 | Nina Lee
+|---|---|
+| Straight | *unnamed*
+| Parabola | Straight
+| Gathered | Gathered
+
+A matrix of the differing terminology for the Kew skirts, between the LCT-01 and Nina Lee's marketing materials.
+:::
+-->
+
+#### Kewbello {#sec-kewbello}
+New to the taxonomy, and first introduced in this paper, in the sense that its documentation predates the first edits on Lemuria's internal MediaWiki site, is the Kewbello, a jumpsuit created as a hybrid of the Kew dress and Portobello trousers.
+
+## Taxonomic history
+Lemuria discovered the Kew dress through a 2017 vid`eo by the American YouTuber and vlogger Kristin Lehrer, known online as Voolenvine (see @lehrer_voolenvvlog_2018). In the video, she wore a Kew dress (her specific make is now known in the taxonomy as *Kewisia kristinae* Lemuria, 2026); in the description, she includes a link to the Nina Lee product page for the Kew.
+
+Though the LCT-01 was developed in September 2025, it was "dormant" at the time he first saw Lehrer's video. He began another period of activity regarding the taxonomy in January 2026; the earliest edits on his internal MediaWiki site, the Lemuria Wiki, pertaining to the Kew, specifically *K. kristinae*, date back to the end of January.
+
+```{=latex}
+\end{multicols}
+```
+
+## Methods
+The author conducted his research on a computer running Ubuntu 24.04, with the XFCE desktop environment. He used the SHA2-256 algorithms to compute the cryptographic hashes of the photographic specimens he examined for species descriptions. He used Firefox 139.0.4. His monitor is a 55.8 cm (22 in) wide, 30.48 cm (12 in) tall, 63.5 cm (25 in) diagonal monitor, the NVISION S2515-B 25" IPS with a 100Hz refresh rate. He is not colorblind. He is near sighted and wears glasses.
+
+The versions of the `sha256sum` and `openssl` utilities on his system at the time of the paper are given in the below terminal output:
+```
+$ sha256sum --version
+sha256sum (GNU coreutils) 9.4
+Copyright (C) 2023 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <https://gnu.org/licenses/gpl.html>.
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+
+Written by Ulrich Drepper, Scott Miller, and David Madore.
+$ openssl --version
+OpenSSL 3.5.0 8 Apr 2025 (Library: OpenSSL 3.5.0 8 Apr 2025)
+$ sha256sum /usr/bin/sha256sum /usr/bin/openssl
+f293048f656688883ee919eb3f4b12926aaa13362de0eb6e3b5716b915b18b35  /usr/bin/sha256sum
+724acbe911513d13f52bae0b8969b20336cd8618fc67898a6bf7847bf1a270ad  /usr/bin/openssl
+```
+
+## New species
+We also present additional species descriptions of the taxa we have covered.
+
+First public description (first public desc.) indicates that this paper is the first public description of the species, and that the taxon was first documented privately on Lemuria's MediaWiki site.
+
+### *Florankewia libera* {#sec-f-libera}
+***Florankewia libera*** Lemuria, 2026; first public desc.
+
+**Holotype**: Photograph. **SHA2-256**: `2db411c534a464ef21bcb247128f3583a006954b7c16d7b3e188fe381eec1f0b`
+
+<!--801&times;1184. EXIF metadata stripped; exposure, f-stop, lens foc. len unknown. Screenshotted by Chang-Smith, inferred from filename. Unknown location. Ventral view. Subject's head is to her right. Left strap (wearer's perspective) slightly obscured by ventrally positioned hair. Legs slightly crossed, obscuring medial interlimb space. *Kewasalia pimsia* wb. &commat;pimsyfaitdestrucs, c. 2018.  &copy; unknown, unknown year, all rights reserved.-->
+
+* **Page**: See @eva_gifted_2019.
+* **Raw image URLs**
+  * **Original**: OriginalURL
+  * **IA**: InternetArchiveURL
+
+**Description**: 
+
+**Etymology**:
+
+**Specimens examined**: See holotype information.
+
+### *Florankewia valentina* {#sec-f-valentina}
+***Florankewia valentina*** Lemuria, 2026; first public desc.
+
+**Holotype**: Photograph. 1440&times;1440. EXIF metadata stripped; exposure, f-stop, lens foc. len unknown. London, United Kingdom. Ventral full-body view. Dorsally positioned hair. *Florankewia valentina* wb. Eva, 2019. &copy; Kate Eva or unknown photographer, all rights reserved. 259d9687e6e09752364856a59620d7ffa15d28ded0e669b529a08f5e8bbc3332
+
+* **Page**: See @eva_valentino_2019.
+* **Raw image URLs**
+  * **Original**: <https://kateevadesigns.com/wp-content/uploads/2019/09/9a19be8e-4b8a-472f-9f03-1b917380098c.jpg>
+  * **IA**: <https://web.archive.org/web/20260315224227/https://kateevadesigns.com/wp-content/uploads/2019/09/9a19be8e-4b8a-472f-9f03-1b917380098c.jpg>
+
+**Description**: Flat neckline. Sleeves typical to that of Kewoidea. Medial torso segment of neckline superior to sleeve segment of neckline. Dorsal medial zipper, sky blue. Straps extended by unspecified number of inches. Neckline lowered ventrally, and to a greater degree dorsally. Skirt drapes, terminates inferior to knee. ***Fabric.*** Ex-designer fabric, from Fabric Godmother pop up at New Craft House. Purchased c. 2018 by Eva. Shell pattern with pale sky blue background and scallop-like print, white background with black border and lines. ***Lining.*** Bluish pink gossamer crepe on bodice. Skirt fully unlined.
+
+**Etymology**: Feminine form of *valentino*.
+
+**Specimens examined**:
+
+* Holotype.
+* *Dorsal view 1* &mdash; Photograph. 1440&times;1440. EXIF metadata stripped; exposure, f-stop, lens foc. len unknown. London, United Kingdom. Dorsal half-body view . ***Original***: <https://kateevadesigns.com/wp-content/uploads/2019/09/c573e2db-5b6d-4658-8832-2b6145a9ec96.jpg>; ***IA***: <https://web.archive.org/web/20260316080324/https://kateevadesigns.com/wp-content/uploads/2019/09/c573e2db-5b6d-4658-8832-2b6145a9ec96.jpg>; ***SHA2-256***: `c4b0476878da7f7011d353fed70da76235731be5edd1416c21203809c74291af`
+
+### *Kewabotonia zingibera* {#sec-k-zingibera}
+***Kewabotonia zingibera*** Lemuria, 2026; first public desc.
+
+**Holotype**: Photograph. 1200&times;1800. EXIF metadata stripped; exposure, f-stop, lens foc. len unknown. Unknown. Ventral full-body view. Tied hair. Arms spread laterally. *Kewabotonia zingibera* wb. Gingerthread, 2018. SHA2-256: `b4d1008027f701f3b22f523bdc3796e64a0cb99ddb17cfd27c186d3d79849bc4`. &copy; Jen Walker or unknown photographer, 2018, all rights reserved.
+
+* **Page**: See @walker_kewhack_2018.
+* **Raw image URLs**
+  * **Original**: <https://cdn.shopify.com/s/files/1/0725/7833/5029/files/IMG_0212.jpg>
+
+**Description**: Shallow angle V-neck. Bilateral single straps. Lack of ventral medial button row. Sleeves typical to that of Kewoidea and level with bodice. Skirt terminates superior to knee. Left strap fully plain black ventrally, right strap features two dots ventrally. **Fabric.** Atelier Brunette "Stardust Night" double gauze. Black background, low-density white dots.
+
+**Etymology**: Feminine form of Latin *zingiberi* ("ginger") from the wearer's alias, Gingerthread Girl.
+
+**Specimens examined**: See holotype information.
+
+### *Kewisia kristinae* {#sec-k-kristinae}
+***Kewisia kristinae*** Lemuria, 2026; first public desc.
+
+**Holotype**: Photograph.
+
+<!--801&times;1184. EXIF metadata stripped; exposure, f-stop, lens foc. len unknown. Screenshotted by Chang-Smith, inferred from filename. Unknown location. Ventral view. Subject's head is to her right. Left strap (wearer's perspective) slightly obscured by ventrally positioned hair. Legs slightly crossed, obscuring medial interlimb space. *Kewasalia pimsia* wb. &commat;pimsyfaitdestrucs, c. 2018.  &copy; unknown, unknown year, all rights reserved.-->
+
+* **Page**:
+* **Raw image URLs**
+  * **Original**: OriginalURL
+  * **IA**: InternetArchiveURL
+
+**Description**: 
+
+**Etymology**:
+
+**Specimens examined**: See holotype information.
+
+**SHA2-256**:
+```
+
+```
+
+### *Kewisia bernicae* {#sec-k-bernicae}
+### *Kewisia evae* {#sec-k-evae}
+### *Kewisia fionae* {#sec-k-fionae}
+### *Kewisia latae* {#sec-k-latae}
+### *Kewisia lizae* {#sec-k-lizae}
+### *Kewisia mariae* {#sec-k-mariae}
+### *Kewisia modistaflora* {#sec-k-modistaflora}
+### *Kewisia modistarubera* {#sec-k-modistarubera}
+### *Kewisia rachaelae* {#sec-k-rachaelae}
+### *Kewisia reginarunae* {#sec-k-reginarunae}
+### *Kewisia sarae* {#sec-k-sarae}
+
+### *Kewasalia pimsia* {#sec-k-pimsia}
+***Kewasalia pimsia*** sp. nov.
+
+**Holotype**: Photograph. 801&times;1184. EXIF metadata stripped; exposure, f-stop, lens foc. len unknown. Screenshotted by Chang-Smith, inferred from filename. Unknown location. Ventral view. Subject's head is to her right. Left strap (wearer's perspective) slightly obscured by ventrally positioned hair. Legs slightly crossed, obscuring medial interlimb space. SHA2-256: `3a1763dad87fa6f2dc2edef01c20db87e5e65f2f4f0e6e46bee83ce3ba49e7d0`. *Kewasalia pimsia* wb. &commat;pimsyfaitdestrucs, c. 2018.  &copy; unknown, unknown year, all rights reserved.
+
+* **Page**: See @chang-smith_kew_2018.
+* **Raw image URLs**
+  * **Original**: <https://cdn.shopify.com/s/files/1/0725/7833/5029/files/Screen-Shot-2018-08-07-at-13_20_04.jpg>
+  * **IA**: <https://web.archive.org/web/20260315221454/https://cdn.shopify.com/s/files/1/0725/7833/5029/files/Screen-Shot-2018-08-07-at-13_20_04.jpg>
+
+**Description**:  Fabric of unknown material, similar appearance to [Ankara print](https://en.wikipedia.org/wiki/African_wax_prints). **Fabric.** Pattern consists of multiple square regions divided by vertical bands of dark blue background with white diamonds. Square regions consist of three distinct patterns. Pattern 1, red two-spiral galaxy-like shape on dark blue background. Pattern 2, dark-blue two-spiral galaxy-like shape on mostly gold background. Pattern 3, diamond split into four segments, white borders, against background of repeating dark red&ndash;light red&ndash;yellow pattern. Medial area of bodice features alternating pattern 2 and 3, while lateral area alternates between 1 and 3. Trousers alternate 1 and 3 ventrally, and 2 and 3 laterally in alternating order. No proof of explicit descent from Portobello.
+
+**Etymology**: *pimsia* is derived from the wearer's Instagram handle, &commat;pimsyfaitdestrucs.
+
+**Specimens examined**: See holotype information.
+
+### *Trunkewia ninae* {#sec-t-ninae}
+
+### *Kewabotonia nuptirachaelae* {#sec-k-nuptirachaelae}
+
+```{=latex}
+\newpage
+```
+
+## Identification key
+To determine the genera in which a Kew dress is placed:
+
+01
+: Shoulders exposed: 02; Shoulders covered: family Kewthidae (03).
+
+02
+: Sleeves lateral to upper arm: superfamily Kewoidea (04). No sleeves: family Helikewidae (05).
+
+03
+: Garment has skirt: genus *Kewthea* (06). Garment lacks skirt: genus *Kewpepla* (07).
+
+04
+: Ventral medial button row (VMBR) present: family Kewidae (08). VMBR absent: family Plesikewidae (09).
+
+05
+: Garment has bottom: tribe Helikewinae (17). Garment lacks bottom: tribe Trunkewinae (18).
+
+06, 07
+: End.
+
+08
+: Straight skirt (same as default skirt in @chang-smith_kew_2017): genus *Kewisia* (10). Gathering at superior end: genus *Kewplicata* (11). Slight parabolic shape before shallow inward angle (as seen on the rightmost skirt of @chang-smith_kew_nodate): genus *Kewparabola* (12).
+
+09
+: Neckline of sleeve and bodice at different levels: genus *Florankewia* (13). Parallel levels: 14.
+
+13
+: End.
+
+14
+: Skirt: genus *Kewabotonia* (15). Trousers: genus *Kewasalia* (16).
+
+15, 16
+: End.
+
+17
+: Garment bottom similar in appearance to Kewbello: *Helikewbellini* (19). Garment has skirt: tribe Helikewini (20).
+
+18
+: Genus *Trunkewia*.
+
+19
+: Genus *Helikewbellia*.
+
+20
+: Straight skirt (same as default skirt in @chang-smith_kew_2017): genus *Helikewisia* (21). Gathering at superior end: genus *Helikewplicata* (22). Slight parabolic shape before shallow inward angle (as seen on the rightmost skirt of @chang-smith_kew_nodate): genus *Helikewparabola* (23).
+
+21, 22, 23
+: End.
+
+
+## Appendix 
+::: {#fig-polyphyletic}
+![](https://static.lemuria.ph/lct01/kew-kewbello-extended-tree.png)
+
+An expanded polyphyletic tree of the Kew dresses. New Kewbello taxa in bold italics.
+:::
+
+### Person abbreviations
+
+### Acknowledgements
+We used iTOL to generate the polyphyletic tree for Kewoidea. See @letunic_interactive_2024.
+
+We make the iTOL tree available at <https://itol.embl.de/tree/1562369552211801773596077>.
+
+### Information
+*Lemuria's (Informal) Journal of Clothing Taxonomy* is a non-peer-reviewed, single-author, citizen science/gray literature publication with no institutional backing.
+
+Publisher article ID: 2026.0005
+
+At publication, the journal did not have a DOI prefix.
+
+&copy; Lemuria 2026. All original text and image content by Lemuria is licensed under CC BY-SA 4.0, unless explicitly noted. Linked images are &copy; their respective owners.
