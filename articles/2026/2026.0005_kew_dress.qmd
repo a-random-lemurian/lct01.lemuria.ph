@@ -558,6 +558,19 @@ YARNGASM： Episode 281 - ＂There's Been Spinning＂ [O66xjOf4DhM].mkv
 #### *Kewthea luscinia* {#sec-kt-luscinia}
 ***Kewthea luscinia*** Lemuria, 2026; first public desc.
 
+**Holotype**: Photograph. 1365&times;2048. EXIF metadata stripped; exposure, f-stop, lens foc. len unknown. United Kingdom. Ventral view. ***SHA2-256***: `89aa8f34f0e84ad09bb11d3893802b1cd300eb0cdb6b67fac5e5ad99d98bc175`. *Kewthea luscinia* wb. Ruth.Pr., 2019. &copy; Ruth Procter, 2019, all rights reserved.
+
+* **Page**: See @procter_kew_2019
+* **Raw image URLs**
+  * **Original**: <https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTFuBwQrb4iHrqyA3EjhD2oW-6dgTD8dzk-lf6iBe3Qj4LFl3kOdR0upk68Tx72jI5l8S9gMVKewmD8M8zUYx3T5YE6Zorj6jSLSYtgwrmR2D8ONDK2JgUdDRpCvQcH7_ob5RizD5hqig/s0/Nina-Lee-Kew-Dress-Sewing-Pattern-Expansion-Pack-5.JPG=s0?imgmax=0>
+  * **IA**: <https://web.archive.org/web/20260316200715/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTFuBwQrb4iHrqyA3EjhD2oW-6dgTD8dzk-lf6iBe3Qj4LFl3kOdR0upk68Tx72jI5l8S9gMVKewmD8M8zUYx3T5YE6Zorj6jSLSYtgwrmR2D8ONDK2JgUdDRpCvQcH7_ob5RizD5hqig/s0/Nina-Lee-Kew-Dress-Sewing-Pattern-Expansion-Pack-5.JPG=s0?imgmax=0>
+
+**Description**: Sleeves terminate superior to elbow. Ventral medial button row of 15 buttons, rainbow pattern, two button holes. 5 buttons on bodice, 10 on skirt. Row pattern pink, red, orange, yellow, green, cyan. Row pattern terminates at orange at most inferior button. Bilateral pockets in skirt, estimated volume equivalent to approx. one human hand and distal part of lower arm up to medial area. ***Fabric***. Spotted chambray from Minerva Crafts, cotton. Dot size half of each button. Dark blue background with white polka dot background.
+
+**Etymology**: *luscinia* is derived from the biological genus *Luscinia* T. Forster, 1817, the nightingale. The name *luscinia* was chosen because of the blog's title, *Nightingale & Dolittle*. The blog itself was named *Nightingale & Dolittle* after two girls in Procter's extended family named Florence and Eliza were born; ultimately in reference to both Florence Nightingale and Eliza Doolittle. *Dolittle*, in reference to the blog, is not a typo.
+
+**Specimens examined**: See holotype information.
+
 #### *Kewthea evae* {#sec-kt-evae}
 ***Kewthea evae*** Lemuria, 2026; first public desc.
 
