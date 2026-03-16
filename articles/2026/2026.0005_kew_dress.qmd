@@ -582,6 +582,20 @@ YARNGASM： Episode 281 - ＂There's Been Spinning＂ [O66xjOf4DhM].mkv
 **Specimens examined**: See holotype information.
 
 #### *Trunkewia ninae* {#sec-t-ninae}
+***Trunkewia ninae*** Lemuria, 2026; first public desc.
+
+**Holotype**: Photograph. 2668&times;3707. EXIF metadata stripped; exposure, f-stop, lens foc. len unknown. London, United Kingdom. Zoomed-out view. Right strap (wearer's perspective) slightly obscrubed by ventrally positioned hair. ***SHA2-256***: `a8962c67667a028febbd6b9bbfa1a6af25f3296a2fbf430f7cde3a5ecbb56a22`. *Trunkewia ninae* wb. Nina, 2018. &copy; Nina Chang-Smith or unknown photographer, 2018, all rights reserved.
+
+* **Page**: See @chang-smith_kew_2018.
+* **Raw image URLs**
+  * **Original**: <https://cdn.shopify.com/s/files/1/0725/7833/5029/files/IMG_0296-1.jpg>
+  * **IA**: <https://web.archive.org/web/20260316191704/https://cdn.shopify.com/s/files/1/0725/7833/5029/files/IMG_0296-1.jpg>
+
+**Description**: Ventral medial row of 5 buttons. Terminates at transpyloric plane. Shallow-angle V-neck. Bilateral ventral lateral darts extend until parallel to third button. **Fabric.** Plain white.
+
+**Etymology**: *Nina* + *-ae*, feminine genitive form.
+
+**Specimens examined**: See holotype information.
 
 ```{=latex}
 \newpage
