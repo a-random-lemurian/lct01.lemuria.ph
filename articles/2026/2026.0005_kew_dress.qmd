@@ -349,6 +349,40 @@ First public description (first public desc.) indicates that this paper is the f
 #### *Helikewisia aemilia* {#sec-h-aemilia}
 ***Helikewisia aemilia*** Lemuria, 2026; first public desc.
 
+**Holotype**: *Emily 3668HA* &mdash;
+Photograph. 1184&times;1480.
+Exposure: 1/80s. F-stop: 2. Focal: 23 mm. Lens: unknown. Camera: Fujifilm X100T.
+Ventral view. *Helikewisia aemilia* wb. Emily, 2017.
+&copy; Emily or unknown photographer, 2017, all rights reserved.
+
+* **SHA2-256**: `91098a2dd37df4410add3dd1b148aaebb1ddda1f0e6958ff736f83b59d5f7191`
+* **Page**: See @emily_kew_2017
+* **Raw image URLs**
+  * **Original**: <https://selfassemblyrequired.co.uk/wp-content/uploads/2017/09/img_3668.jpg>
+  * **IA**: <https://web.archive.org/web/20260317182014/https://selfassemblyrequired.co.uk/wp-content/uploads/2017/09/img_3668.jpg>
+
+**Description**: Shallow V-neck. Ventral medial button row. UK size 10. Bilateral single straps. Straps pattern-match with bodice; dark blue transition bilaterally superior to dorsal attachment point. Skirt terminates inferior to knee. **Fabric.** Striped poly crepe, vertical lines. From wearer's left to right, dark blue, pink, sky blue, cyan, orange, white, dark blue, orange, red, white, cyan, purple, sky blue, dark blue, white, red, orange, dark blue. Color bands horizontal on straps. **Buttons.** Unknown black reflective material, circular inset. Unknown color of thread, unknown number of thread holes on button.
+
+**Etymology**: *Aemilia*, Latin form of *Emily*.
+
+**Specimens examined**:
+
+* Holotype.
+* *Emily 3670HA* &mdash;
+Photograph. 1184&times;1480.
+Exposure: 1/80s. F-stop: 2. Focal: 23 mm. Lens: unknown. Camera: Fujifilm X100T.
+Dorsal view. *Helikewisia aemilia* wb. Emily, 2017.
+&copy; Emily or unknown photographer, 2017, all rights reserved.
+  * **Page**: See @emily_kew_2017
+  * **SHA2-256**: `ec3e3d936e67833f60199384f2f824afe2bf8d3ac771e1a526800815659f2575`
+  * **Raw image URLs**
+    * **Original**: <https://selfassemblyrequired.co.uk/wp-content/uploads/2017/09/img_3670.jpg>
+    * **IA**: <https://web.archive.org/web/20260317182001/https://selfassemblyrequired.co.uk/wp-content/uploads/2017/09/img_3670.jpg>
+
+**Remarks**:
+
+* In *Emily 3668HA*, the dress drapes and obscures the inferior part of the ventral medial button row.
+
 #### *Helikewisia ceciliae* {#sec-h-ceciliae}
 ***Helikewisia ceciliae*** Lemuria, 2026; first public desc.
 
