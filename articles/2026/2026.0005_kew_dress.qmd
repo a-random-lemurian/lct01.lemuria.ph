@@ -380,6 +380,21 @@ First public description (first public desc.) indicates that this paper is the f
 #### *Helikewisia irvinae* {#sec-h-irvinae}
 ***Helikewisia irvinae*** Lemuria, 2026; first public desc.
 
+**Holotype**: Photograph. 2736&times;3648. Exposure 1/665 sec, f-stop 1.6, lens foc. len 5.6mm (35mm equiv. 27.0mm), ISO 50, FOV 67.4&deg;, no flash. United Kingdom. Ventral full-body view. Tied hair. Hands in bilateral pockets. *Helikewisia irvinae* wb. Alice.Ir., 2020. &copy; Alice Irvine or unknown photographer, 2020, all rights reserved.
+
+* **Page**: See @irvine_ode_2020.
+* **Raw image URLs**
+  * **Original**: <https://aliceirvine.com/wp-content/uploads/2020/07/nina-lee-kew-dress-1.jpg>
+  * **IA**: <https://web.archive.org/web/20260316225915/https://aliceirvine.com/wp-content/uploads/2020/07/nina-lee-kew-dress-1.jpg>
+
+**Description**: Bilateral single straps with medial tie. Straight skirt with lateral gathering. Ventral medial button row of nine buttons; three on bodice, six on skirt. Skirt terminates inferior to knee. Diamond-shaped buttons, orange. Button thread holes and thread line at 45&deg; angle to edges. Ventral lateral darts lowered by 2 cm. Subaxilliary seam lowered by 1 cm. Bodice lengthened by 4 cm. Side seams sewed at 1 cm allowance for slightly relaxed fit. Bilateral ventral pockets run from parallel to fifth button and terminate slightly superior to seventh button's parallel. Four pleats on pocket. Bodice lined.
+
+**Etymology**: *Irvine* + *-ae*, feminine genitive form.
+
+**Specimens examined**: See holotype information.
+
+**Remarks**: Irvine wrote in @irvine_ode_2020 that after washing *H. irvinae*, the shorter seam allowance softened. Prior to this, it had sat "strangely" on the bust. The buttons were repurposed from a Tilly and the Buttons Arielle skirt Irvine made earlier (unclassified). Irvine wrote a tutorial for the pockets in @irvine_how_2020.
+
 #### *Helikewisia kristinae* {#sec-h-kristinae}
 ***Helikewisia kristinae*** Lemuria, sp. nov.
 
