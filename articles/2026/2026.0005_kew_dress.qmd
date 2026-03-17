@@ -516,6 +516,45 @@ Exposure: 1/1250s. F-stop: 4.5. Focal: 70 mm. Lens: EF70-200mm f/2.8L IS II USM.
 #### *Kewisia bernicae* {#sec-k-bernicae}
 ***Kewisia bernicae*** Lemuria, 2026; first public desc.
 
+**Holotype**: *Bernice 37957KB* &mdash;
+Photograph. 655&times;980.
+EXIF metadata stripped; exposure, f-stop, lens foc. len unknown.
+Published 2020-04-02.
+United States, California, San Francisco Bay Area.
+Ventral view. Hair mostly positioned dorsally, with slight amount of hair obscuring left strap ventrally.
+*Kewisia bernicae* wb. Bernice, 2020;
+&copy; Bernice or unknown photographer, 2020, all rights reserved.
+
+* **SHA2-256**: `f6b6caff6c4e25c48fe6fb5320fbe9119704bed364869b8409b84670ac2af642`
+* **Blog post**: See @bernice_hello_2020
+* **Raw image URLs**
+  * **Original**: <https://cdn.minerva.com/feed/original/image-sa-1031540-1000312-37957.jpg>
+  * **IA**: <https://web.archive.org/web/20260317204805/https://cdn.minerva.com/feed/original/image-sa-1031540-1000312-37957.jpg>
+
+**Description**: Shallow angle V-neck. Bilateral single straps. Sleeves typical to that of Kewoidea and level with bodice. Bodice shortened by 19 mm (0.75 in), skirt shortened by 38 mm (1.5 in), due to Bernice's height of 156 cm (5 ft 1 in). **Buttons.** 12 buttons, four on bodice, eight on skirt, divergence from typical 15 buttons. Four thread holes, white dome buttons. Button size more typical of shirts (Camibotonia). **Fabric.** Lady McElroy Amerilis Cotton Lawn. White background, floral, stylized depictions of tulips (*Tulipa* L.). Four distinct cuts of fabric inferred from abrupt pattern changes, converging between fourth and fifth button.
+
+**Specimens examined**:
+
+* Holotype.
+* ***Bernice 48621KB*** &mdash;
+Photograph. 735&times;980.
+EXIF metadata stripped; exposure, f-stop, lens foc. len unknown.
+Published 2020-04-02.
+United States, California, San Francisco Bay Area.
+Ventral side of dress laid out on wood table. Image truncates medial portions of shoulder strap.
+&copy; Bernice or unknown photographer, 2020, all rights reserved.
+  * **SHA2-256**: `be388a4ba51c7e8544cba5f091615195410d009735da2704dc49fd9db7884d1e`
+  * **Raw image URLs**
+    * **Original**: <https://cdn.minerva.com/feed/original/image-sa-1031540-1000312-48621.jpg>
+    * **IA**: <https://web.archive.org/web/20260317211238/https://cdn.minerva.com/feed/original/image-sa-1031540-1000312-48621.jpg>
+
+**Remarks**:
+
+* Instagram specimens exist for *K. bernicae*, but due to the instability and non-reproducibility of image retrievals from Facebook's CDN, as discussed in @sec-h-erinae, we have decided to prioritize reproducibility for *Kewisia bernicae*.
+* Minerva processes JPG images using gd-jpeg v1.0, with quality set to 100; `CREATOR: gd-jpeg v1.0 (using IJG JPEG v62), quality = 100`.
+* In @bernice_hello_2020, Bernice writes that her husband is Dutch, and as a result, prefers fabrics with tulips.
+* Bernice also reported that some of the images showed the red pencil marks she had placed to mark buttonhole locations; she washed the dress, ironed it, and retool photographs.
+
 #### *Kewisia evae* {#sec-k-evae}
 ***Kewisia evae*** Lemuria, 2026
 
