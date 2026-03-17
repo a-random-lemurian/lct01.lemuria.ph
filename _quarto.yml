@@ -1,6 +1,9 @@
 project:
   type: website
   title: Lemuria's (Informal) Journal of Clothing Taxonomy
+  resources:
+    - pdfs/
+    - assets/
 
 website:
   title: "Lemuria's (Informal) Journal of Clothing Taxonomy"
@@ -13,13 +16,11 @@ website:
   page-footer:
     center: "Original content &copy; 2026 Lemuria. CC BY-SA 4.0 unless noted. *Lemuria’s (Informal) Journal of Clothing Taxonomy* is a non-peer-reviewed, single-author, citizen science publication with no institutional backing.<br><br>[Privacy policy](https://lemuria.ph/privacy-policy/) | [Source code](https://github.com/a-random-lemurian/lct01.lemuria.ph)<br><br>[![](https://lemuria.ph/lemuria.svg)](https://lemuria.ph)<br><br>"
 
-
 format:
   html:
     theme: darkly
     css: styles.css
     toc: true
-  aft-pdf: default
 
 execute:
   freeze: true
