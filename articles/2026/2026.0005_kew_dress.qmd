@@ -131,7 +131,7 @@ A tree is as follows:
 :::
 
 #### Taxonomic history
-Lemuria discovered the Kew dress through a 2017 vid`eo by the American YouTuber and vlogger Kristin Lehrer, known online as Voolenvine (see @lehrer_voolenvvlog_2018). In the video, she wore a Kew dress (her specific make is now known in the taxonomy as *Kewisia kristinae* Lemuria, 2026); in the description, she includes a link to the Nina Lee product page for the Kew.
+Lemuria discovered the Kew dress through a 2017 video by the American YouTuber and vlogger Kristin Lehrer, known online as Voolenvine (see @lehrer_voolenvvlog_2018). In the video, she wore a Kew dress (her specific make is now known in the taxonomy as *Kewisia kristinae* Lemuria, 2026); in the description, she includes a link to the Nina Lee product page for the Kew.
 
 Though the LCT-01 was developed in September 2025, it was "dormant" at the time he first saw Lehrer's video. He began another period of activity regarding the taxonomy in January 2026; the earliest edits on his internal MediaWiki site, the Lemuria Wiki, pertaining to the Kew, specifically *K. kristinae*, date back to the end of January.
 
@@ -140,11 +140,17 @@ Throughout February and early March, Lemuria continued taxonomizing sewing patte
 As of March 16, 2026, the LCT-01 now encompasses some 250 species and 70 genera.
 
 ## Kew
-The Kew dress, released in August 2017, is the fourth pattern from Nina Lee [@kewrelease]. It features three bodice variants; a tea dress variant with sleeves; a cold-shoulder variant with straps superior to the scapula and sleeves lateral to the upper arm; and a sundress variant with the same straps, but without the sleeves.
+The Kew dress, released in August 2017, is the fourth pattern from Nina Lee. Chang-Smith describes the Kew as "feminine, elegant and stylish", inspired by "the delights of British summertime" in her 2017 Instagram post announcing its release [@kewrelease].
+
+### Trends
+The cold shoulder, which the Kewoidea offers, was a major trend around 2017. This can be inferred from the temporal range of the Kewoidea, which clusters mostly around the late 2010s. Since then, the cold shoulder has fallen out of trend; by 2026, the year this paper was written, it has certainly done so. The fashion cycle may eventually revive the cold shoulder trend, but we do not have the ability to predict this.
+
+The tea dress and the sundress variant are less vulnerable to changing trends; the continued range of the Kewthidae towards 2025 (as seen in *Kewthea lornae*, @sec-kt-lornae).
+
+### Combination matrix
+The Kew features three bodice variants; a tea dress variant with sleeves; a cold-shoulder variant with straps superior to the scapula and sleeves lateral to the upper arm; and a sundress variant with the same straps, but without the sleeves.
 
 An expansion pack is also available, which adds two additional skirts, which totals out to three bodice and three skirt options, which multiply to nine. Chang-Smith claims on the expansion pack that it increases the number of "possible Kew creations" to 12. This claim is true, but slightly counterintuitive. The lack of a bodice entirely is considered the fourth bodice option, and given the exact language of Chang-Smith's claim, this math is nearly correct. But when the options to make a Kewbello, or to make the bodice standalone is added, we reach four bodice options and five skirt options, making for 19 possible creations^[Not wearing a Kew bodice or a Kew skirt is either full nudity or a non-Kew taxon.], showing that Chang-Smith underpromised and overdelivered.
-
-Chang-Smith describes the Kew as "feminine, elegant and stylish", inspired by "the delights of British summertime" in her 2017 Instagram post announcing its release [@kewrelease].
 
 We present a matrix of all possible bodice&ndash;bottom^[We use the term "bottom" instead of "skirt" as using no skirt or using the Portobello, which are trousers, is also an option.] combinations that involve components from either the Kew or Kewbello patterns.
 
@@ -299,6 +305,11 @@ We used the query `(cue | kew | q) NEAR\10 dress`. YouTube's automatic captionin
 
 The URL for the query is as follows: <https://filmot.com/search/(cue%20%7C%20kew%20%7C%20q)%20NEAR%5C10%20dress/1?channelID=UCKOvDKc-vLr_pbVJL7KoLXg&gridView=1&>
 
+### `holotyper` tool
+During work on this paper, we authored a small Golang command-line tool to read EXIF metadata from photos to automatically fill in certain details, such as focal length, f-stop, and exposure, to save time and allow us to focus on writing descriptions and examining the specimens.
+
+The code is rudimentary and unpolished, but we hope to release it eventually to allow transparency and reproducibility.
+
 ## New species
 We also present additional species descriptions of the taxa we have covered.
 
@@ -404,12 +415,12 @@ Dorsal view. *Helikewisia aemilia* wb. Emily, 2017.
 **Specimens examined**:
 
 * Holotype.
-* ***Instaloader 1*** &mdash; Photograph. 1080&times;1350, EXIF metadata stripped; exposure, f-stop, lens foc. len unknown. United States, New Jersey, Monmouth County, Holland Ridge Farms. Approx. GPS: 40.16936&deg;N 74.50087&deg;W ± 50m (WGS84). Instagram. Ventral view. Hair positioned ventrally, partially obscuring view of left strap (wearer's perspective). *Helikewisia erinae* wb. Erin.M., 2021. Higher-resolution version of holotype, but unreproducible due to Meta CDN implementation details. Instagram &copy; Erin Madalone or unknown photographer, 2021, all rights reserved.
+* ***Madalone Inst-1HE*** &mdash; Photograph. 1080&times;1350, EXIF metadata stripped; exposure, f-stop, lens foc. len unknown. United States, New Jersey, Monmouth County, Holland Ridge Farms. Approx. GPS: 40.16936&deg;N 74.50087&deg;W ± 50m (WGS84). Instagram. Ventral view. Hair positioned ventrally, partially obscuring view of left strap (wearer's perspective). *Helikewisia erinae* wb. Erin.M., 2021. Higher-resolution version of holotype, but unreproducible due to Meta CDN implementation details. Instagram &copy; Erin Madalone or unknown photographer, 2021, all rights reserved.
   * **SHA2-256**: `062cd32b6a0eb3b2c8803055384cc473db1fd5959d5616b5229bacb6488baac8`.
 
 **Remarks**:
 
-* *Instaloader 1* specimen was obtained using instaloader. Direct right-click from original Instagram page returns slightly higher-resolution image. Meta's CDN infrastructure is in general, unreceptive to reproducible image retrievals due to the large amount of parameters involved. URLs also appear to have expiring signatures.
+* *Madalone Inst-1HE* specimen was obtained using instaloader. Direct right-click from original Instagram page returns slightly higher-resolution image. Meta's CDN infrastructure is in general, unreceptive to reproducible image retrievals due to the large amount of parameters involved. URLs also appear to have expiring signatures.
 * Holotype specimen is of significantly lower quality, but it is reproducible. A debate is due as to whether image quality or image reproducibility should be valued more in selecting a holotype.
 * The degree to which floral patterns should be documented; and whether the LCT-01 should create a new domain dedicated to fabric taxonomy, is a subject of future discussion. Most of the flowers are likely stylized, and if they correspond to valid botanical names, cannot be conclusively identified due to the author's lack of experience in botany.
 
@@ -1054,8 +1065,48 @@ In this paper, we used the following person abbreviations.
 * **Marie.K.** &mdash; Marie Koupparis of *A Stitching Odyssey*
 * **Nina** &mdash; Nina Chang-Smith
 * **Parker** &mdash; Fiona Parker, British sewist, author of the blog *Diary of a Chain Stitcher* (<https://chainstitcher.blogspot.com/>)
-* **Rachael** &mdash; Rachael Beaumont
+* **Rachael** &mdash; Rachael, author of the blog *Sew Prettyful*
 * **Ruth.Pr.** &mdash; Ruth Procter, author of the blog *Nightingale & Dolittle*
+
+### Image specimen list
+We present a list of the image specimen identifiers we have assigned in this paper for ease of reference or future database creation.
+
+```{=latex}
+\begin{multicols}{2}
+```
+* *Emily 3670HA*
+* *Emily 3668HA*
+* *Eva 0098FV*
+* *Eva 0120KE*
+* *Eva 2947KE*
+* *Eva 3222FV*
+* *Eva 3318KE*
+* *Eva 4be-FL*
+* *Gingerthread 0212KZ*
+* *Irvine 0001HI*
+* *Lehrer 0001/G65Z*
+* *Madalone 4823HE*
+* *Madalone Inst-1HE*
+* *Marie 2451a-KM*
+* *Marie 2456a-KM*
+* *Marie 2468a-KM*
+* *Marie 2470a-KM*
+* *Marie 2485KM*
+* *Marie 2494KM*
+* *Nina 0296TN*
+* *Parker 0001KF*
+* *Pimsy 0001KP*
+* *Procter 0005KL*
+* *Rachael 0063*
+* *Rachael 0412*
+* *Rothery 3603KL*
+* *Rothery 3618KL*
+* *Rothery 613D/KL*
+* *Rothery E530/KL*
+* *Yarngasm 281* (V)
+```{=latex}
+\end{multicols}
+```
 
 ### Acknowledgements
 We used iTOL to generate the polyphyletic tree for Kewoidea. See @letunic_interactive_2024.
@@ -1065,10 +1116,14 @@ We make the iTOL tree available at <https://itol.embl.de/tree/156236955221180177
 We thank Nina Lee for her amazing patterns, and for helping bolster a culture of home sewing and the slow fashion movement. We thank all the sewists and the sources we have cited for documenting their projects in intricate detail.
 
 ### Information
-*Lemuria's (Informal) Journal of Clothing Taxonomy* is a non-peer-reviewed, single-author, citizen science/gray literature publication with no institutional backing.
+*Lemuria's (Informal) Journal of Clothing Taxonomy* is the gray literature journal of the First Lemurian Clothing Taxonomy, a system by Lemuria to assign Latin names to dresses using biological methods. The author, known mononymically as just Lemuria, is a Filipino programmer and gray literature researcher.
+
+**Disclaimer**: *Lemuria's (Informal) Journal of Clothing Taxonomy* is a non-peer-reviewed, single-author, citizen science/gray literature publication with no institutional backing.
 
 Publisher article ID: 2026.0005
 
 At publication, the journal did not have a DOI prefix.
+
+Visit us at: <https://lct01.lemuria.ph>
 
 &copy; Lemuria 2026. All original text and image content by Lemuria is licensed under CC BY-SA 4.0, unless explicitly noted. Linked images and other content are &copy; their respective owners or copyright holders.
