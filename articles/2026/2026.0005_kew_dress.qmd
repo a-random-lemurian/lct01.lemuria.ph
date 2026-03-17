@@ -402,11 +402,12 @@ First public description (first public desc.) indicates that this paper is the f
 #### *Kewabotonia zingibera* {#sec-k-zingibera}
 ***Kewabotonia zingibera*** Lemuria, 2026; first public desc.
 
-**Holotype**: Photograph. 1200&times;1800. EXIF metadata stripped; exposure, f-stop, lens foc. len unknown. Unknown. Ventral full-body view. Tied hair. Arms spread laterally. *Kewabotonia zingibera* wb. Gingerthread, 2018. SHA2-256: `b4d1008027f701f3b22f523bdc3796e64a0cb99ddb17cfd27c186d3d79849bc4`. &copy; Jen Walker or unknown photographer, 2018, all rights reserved.
+**Holotype**: Photograph. 1200&times;1800. EXIF metadata stripped; exposure, f-stop, lens foc. len unknown. United Kingdom. Ventral full-body view. Tied hair. Arms spread laterally. *Kewabotonia zingibera* wb. Gingerthread, 2018. SHA2-256: `b4d1008027f701f3b22f523bdc3796e64a0cb99ddb17cfd27c186d3d79849bc4`. &copy; Jen Walker or unknown photographer, 2018, all rights reserved.
 
 * **Page**: See @walker_kewhack_2018.
 * **Raw image URLs**
   * **Original**: <https://cdn.shopify.com/s/files/1/0725/7833/5029/files/IMG_0212.jpg>
+  * **IA**: <https://web.archive.org/web/20240921120539/https://cdn.shopify.com/s/files/1/0725/7833/5029/files/IMG_0212.jpg>
 
 **Description**: Shallow angle V-neck. Bilateral single straps. Lack of ventral medial button row. Sleeves typical to that of Kewoidea and level with bodice. Skirt terminates superior to knee. Left strap fully plain black ventrally, right strap features two dots ventrally. **Fabric.** Atelier Brunette "Stardust Night" double gauze. Black background, low-density white dots.
 
@@ -746,6 +747,7 @@ An expanded polyphyletic tree of the Kew dresses. New Kewbello taxa in bold ital
 ### Person abbreviations
 In this paper, we used the following person abbreviations.
 
+* **Alice.Ir.** &mdash; Alice Irvine
 * **Bernice** &mdash; Bernice (Instagram: &commat;sewbee73), a sewist based in the San Francisco Bay Area.
 * **Erin.M.** &mdash; Erin Madalone (Instagram: &commat;poeticmemorysewing), an American sewist based in New Jersey.
 * **Eva** &mdash; Kate Eva
