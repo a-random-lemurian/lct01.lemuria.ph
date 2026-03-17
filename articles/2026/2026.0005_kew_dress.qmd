@@ -820,8 +820,8 @@ Lateral view. Hair positioned both ventrally and dorsally. Right shoulder (weare
 * ***Marie 2470a-KM*** &mdash;
 Photograph. 1675&times;2144.
 EXIF metadata stripped; exposure, f-stop, lens foc. len unknown. 
-*Kewisia mariae* wb. Marie.K., 2018.
 Dorsal view. Hair positioned dorsally.
+*Kewisia mariae* wb. Marie.K., 2018.
 &copy; Marie Koupparis or unknown photographer, 2018, all rights reserved.
   * **Page**: See @koupparis2018
   * **SHA2-256**: `d10ebe770098763bafc66333adb9e5cb3e73348cbaabf51e99e0f3347887e646`
@@ -831,6 +831,7 @@ Dorsal view. Hair positioned dorsally.
 * ***Marie 2485KM*** &mdash;
 Photograph. 3128&times;2346.
 EXIF metadata stripped; exposure, f-stop, lens foc. len unknown. 
+Angled lateral view. Buttons 3&ndash;12 visible.
 *Kewisia mariae* wb. Marie.K., 2018.
 &copy; Marie Koupparis or unknown photographer, 2018, all rights reserved.
   * **Page**: See @koupparis2018
@@ -840,7 +841,8 @@ EXIF metadata stripped; exposure, f-stop, lens foc. len unknown.
     * **IA**: <https://web.archive.org/web/20260317191103/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzNsGMTc15tt13dJ9BqC-SWdncvVIOqn4zZOh3SWDN2bK1BdupNHWNhz0vxuplWABq-ShlLuXWzqV_D2Q46Umk77vgBv2oFFRfTU3D5WMlAOpyEsRBxZrnbrG5vJirOp7SNRMEP9hhEeQ/s0/IMG_2485.jpg=s0?imgmax=0>
 * ***Marie 2494KM*** &mdash;
 Photograph. 2346&times;3128.
-EXIF metadata stripped; exposure, f-stop, lens foc. len unknown. 
+EXIF metadata stripped; exposure, f-stop, lens foc. len unknown.
+Ventral view, laid out on table. 
 *Kewisia mariae* wb. Marie.K., 2018.
 &copy; Marie Koupparis or unknown photographer, 2018, all rights reserved.
   * **Page**: See @koupparis2018
