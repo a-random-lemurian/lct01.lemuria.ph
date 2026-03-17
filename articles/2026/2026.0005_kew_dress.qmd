@@ -651,6 +651,82 @@ YARNGASM： Episode 281 - ＂There's Been Spinning＂ [O66xjOf4DhM].mkv
 #### *Kewisia mariae* {#sec-k-mariae}
 ***Kewisia mariae*** Lemuria, 2026; first public desc.
 
+**Holotype**: *Marie 2451a-KM* &mdash;
+Photograph. 1667&times;2304.
+EXIF metadata stripped; exposure, f-stop, lens foc. len unknown.
+*Kewisia mariae* wb. Marie.K., 2018.
+Ventral view. Hair positioned dorsally.
+&copy; Marie Koupparis or unknown photographer, 2018, all rights reserved.
+
+* **Page**: See @koupparis2018
+* **SHA2-256**: `a992ac2dbb3b55320886a28e9778ef7782f8814aeece9f26145e4504fe3cf23d`
+* **Raw image URLs**
+  * **Original**: <https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYDPntuXBiAGWj83JOLH3aTGTEFpo2VGgYgeLT9foDtvpnW2CFbq5JbZ0mZ29jsDbBHQQa61bDCiu-aBxIdJ1tpjRMGG9m-csx8oXVtFgTKadSQ_P_ti_Umu3DkbFG1deGHeL0Q1sD-pY/s0/IMG_2451a.jpg=s0?imgmax=0>
+  * **IA**: <https://web.archive.org/web/20260317191624/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYDPntuXBiAGWj83JOLH3aTGTEFpo2VGgYgeLT9foDtvpnW2CFbq5JbZ0mZ29jsDbBHQQa61bDCiu-aBxIdJ1tpjRMGG9m-csx8oXVtFgTKadSQ_P_ti_Umu3DkbFG1deGHeL0Q1sD-pY/s0/IMG_2451a.jpg=s0?imgmax=0>
+
+**Description**: Shallow angle V-neck. Ventral medial row of 14 buttons. Bilateral single straps, 3 cm (1.2 in) shorter than pattern. Facing along neckline sewn with 1 cm (0.39 in) seam allowance instead of typical 1.5 cm (0.59 in) for modesty reasons. Skirt terminates around the knee. Size 14. **Buttons.** Peach-colored buttons. Two thread holes, curved square shape, sharp squared funnel towards core. Thread color likely white; no distinct color seen against fabric. **Fabric.** Poly crepe from Sew Me Sunshine. Small white dots scattered on background. Apparent background color on monitor is dark sky blue, though it is described by Marie as teal in real life. Floral print, one distinct type of flower, roots and leaves printed, no fully confident correspondence to botanical species; presumably unknown spp. in *Dianthus* L.; most likely *D. caryophyllus* L. or *D. chinensis* L.
+
+**Etymology**: Marie + *-ae*, feminine genitive suffix.
+
+**Remarks**:^[We move the Remarks section above the list of specimens examined for ease of switching, as the specimen list is unusually long for *Kewisia mariae*.]
+
+* Marie sewed the dress in 2018, after being invited to the wedding of Amy Scarr (the author of the blog *Almond Rock*; former editor of *Love Sewing*). Marie decreased the seam allowance on the neckline's facing due to worries about excessive exposure, writing that she is self-conscious about her large bust.
+
+**Specimens examined**:
+
+* ***Marie 2456a-KM*** &mdash;
+Photograph. 1686&times;2122.
+EXIF metadata stripped; exposure, f-stop, lens foc. len unknown. 
+*Kewisia mariae* wb. Marie.K., 2018.
+&copy; Marie Koupparis or unknown photographer, 2018, all rights reserved.
+  * **Page**: See @koupparis2018
+  * **SHA2-256**: `7fdb218a3f4aef12478250d7d3b211c1d0a67c09207ce94ee8a63eb72a2972e0`
+  * **Raw image URLs**
+    * **Original**: <https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPcnVgFo0Gq7kVF9ajjaHRQ8OA-_veNUmHJqwRYGz7Z0cREoqXdn429NYtAfGkxdh82BY0FcrHHmN4DdLR2JdPe0INmN1lXM0ZAhyphenhyphenObL1YZGGI7rsEoEe06CVQ6b8svqrt1OzqT2_N3Ys/s0/IMG_2456a.jpg=s0?imgmax=0>
+    * **IA**: <https://web.archive.org/web/20260317184339/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPcnVgFo0Gq7kVF9ajjaHRQ8OA-_veNUmHJqwRYGz7Z0cREoqXdn429NYtAfGkxdh82BY0FcrHHmN4DdLR2JdPe0INmN1lXM0ZAhyphenhyphenObL1YZGGI7rsEoEe06CVQ6b8svqrt1OzqT2_N3Ys/s0/IMG_2456a.jpg=s0?imgmax=0>
+* ***Marie 2468a-KM*** &mdash;
+Photograph. 1691&times;2097.
+EXIF metadata stripped; exposure, f-stop, lens foc. len unknown. 
+*Kewisia mariae* wb. Marie.K., 2018.
+Lateral view. Hair positioned both ventrally and dorsally. Right shoulder (wearer's perspective) visible.
+&copy; Marie Koupparis or unknown photographer, 2018, all rights reserved.
+  * **Page**: See @koupparis2018
+  * **SHA2-256**: `8c5e46a833c832c4d3d53615dfe9a003a5b173efb8e1e408c1c22886268377eb`
+  * **Raw image URLs**
+    * **Original**: <https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZZScKesEClgC_5eowrJ2CdGFDAYrkyRcbDKwc_47LEwOm2mhGDC8tcAqxD4cE9ai3aOmq1PzE7b0eAtgnHuc4vGWFY6O3rnKSqgwiIs3ZN859_EzYVOZOghMeFHuUsrMuu9G0tp81szs/s0/IMG_2468a.jpg=s0?imgmax=0>
+    * **IA**: <https://web.archive.org/web/20260317185037/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZZScKesEClgC_5eowrJ2CdGFDAYrkyRcbDKwc_47LEwOm2mhGDC8tcAqxD4cE9ai3aOmq1PzE7b0eAtgnHuc4vGWFY6O3rnKSqgwiIs3ZN859_EzYVOZOghMeFHuUsrMuu9G0tp81szs/s0/IMG_2468a.jpg=s0?imgmax=0>
+* ***Marie 2470a-KM*** &mdash;
+Photograph. 1675&times;2144.
+EXIF metadata stripped; exposure, f-stop, lens foc. len unknown. 
+*Kewisia mariae* wb. Marie.K., 2018.
+Dorsal view. Hair positioned dorsally.
+&copy; Marie Koupparis or unknown photographer, 2018, all rights reserved.
+  * **Page**: See @koupparis2018
+  * **SHA2-256**: `d10ebe770098763bafc66333adb9e5cb3e73348cbaabf51e99e0f3347887e646`
+  * **Raw image URLs**
+    * **Original**: <https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgql5hI-kjKPvkeW6EPpXXPgrMT5xDb2L1vfcOR-nmSgJOKoO6E3O7JajKyOXa-CQq1N3-TBDcXlnVnBgXyzN-B7GMfgAUfpthtjfhmcq_hwc87SJSPvIezaLg63meA7JqKcy0jEeRXwac/s0/IMG_2470a.jpg=s0?imgmax=0>
+    * **IA**: <http://web.archive.org/web/20260317191321/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgql5hI-kjKPvkeW6EPpXXPgrMT5xDb2L1vfcOR-nmSgJOKoO6E3O7JajKyOXa-CQq1N3-TBDcXlnVnBgXyzN-B7GMfgAUfpthtjfhmcq_hwc87SJSPvIezaLg63meA7JqKcy0jEeRXwac/s0/IMG_2470a.jpg=s0?imgmax=0>
+* ***Marie 2485KM*** &mdash;
+Photograph. 3128&times;2346.
+EXIF metadata stripped; exposure, f-stop, lens foc. len unknown. 
+*Kewisia mariae* wb. Marie.K., 2018.
+&copy; Marie Koupparis or unknown photographer, 2018, all rights reserved.
+  * **Page**: See @koupparis2018
+  * **SHA2-256**: `b26b958487ab3a10063086f85431eaace3fff18cadbf56655c913f2325620975`
+  * **Raw image URLs**
+    * **Original**: <https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzNsGMTc15tt13dJ9BqC-SWdncvVIOqn4zZOh3SWDN2bK1BdupNHWNhz0vxuplWABq-ShlLuXWzqV_D2Q46Umk77vgBv2oFFRfTU3D5WMlAOpyEsRBxZrnbrG5vJirOp7SNRMEP9hhEeQ/s0/IMG_2485.jpg=s0?imgmax=0>
+    * **IA**: <https://web.archive.org/web/20260317191103/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzNsGMTc15tt13dJ9BqC-SWdncvVIOqn4zZOh3SWDN2bK1BdupNHWNhz0vxuplWABq-ShlLuXWzqV_D2Q46Umk77vgBv2oFFRfTU3D5WMlAOpyEsRBxZrnbrG5vJirOp7SNRMEP9hhEeQ/s0/IMG_2485.jpg=s0?imgmax=0>
+* ***Marie 2494KM*** &mdash;
+Photograph. 2346&times;3128.
+EXIF metadata stripped; exposure, f-stop, lens foc. len unknown. 
+*Kewisia mariae* wb. Marie.K., 2018.
+&copy; Marie Koupparis or unknown photographer, 2018, all rights reserved.
+  * **Page**: See @koupparis2018
+  * **SHA2-256**: `a1ce2b1ee666410ab671b217b926067b0fa7b045d51d30de50cab4112b4168d8`
+  * **Raw image URLs**
+    * **Original**: <https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7KEOSlhev1CSSvTZYGaoZLoqhv2IKlTcnhVGE7snPy_GoqvqLKfJPF70iEO1Y00tkMr3KIkP1iDVIoqRpyuCnrGAc67MAKxAABvtbFAd4olH34USJR4-H52m3BfyGQan3at2Vtcqxmzk/s0/IMG_2494.jpg=s0?imgmax=0>
+    * **IA**: <https://web.archive.org/web/20260317185718/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7KEOSlhev1CSSvTZYGaoZLoqhv2IKlTcnhVGE7snPy_GoqvqLKfJPF70iEO1Y00tkMr3KIkP1iDVIoqRpyuCnrGAc67MAKxAABvtbFAd4olH34USJR4-H52m3BfyGQan3at2Vtcqxmzk/s0/IMG_2494.jpg=s0?imgmax=0>
+
 #### *Kewisia modistaflora* {#sec-k-modistaflora}
 ***Kewisia modistaflora*** Lemuria, 2026; first public desc.
 
