@@ -242,6 +242,8 @@ and
 
 Lorna Rothery (<https://lornarothery.com/>; abbreviated Lorna.R. in the LCT-01), is the most prolific sewist among the Kewthidae, with four documented specimens.
 
+While rereviewing source material, we also discovered new species of *Kewthidae*. From @modistasewing2020, we describe the new species *Kewthea modistaflora*. We first reviewed the material while taxonomizing Modista Sewing's *Kewisia* spp., but at the time had not described the genus *Kewthea* yet, and chose to skip over the other dresses.
+
 <!-- Kewthinae is divided into two genera, *Kewthea* and *Kewpepla*. *Kewthea* is the tea dress variant, with ruched sleeves. Chang-Smith herself describes Kewthidae (or *Version 1* on the product page) as having "a touch of 1940s' tea dress" [@kewrelease]. -->
 
 ### Skirts {#sec-skirts}
@@ -985,6 +987,57 @@ Ventral view, laid out on table.
 **Remarks**:
 
 * Eva reported fit issues, though she attributed them to her body. She wrote in @eva_autumnal_2018 that she learned she had broad shoulders with a smaller waist and bust, from an online course from By Hand London; and theorized that if she purchased an RTW tea dress, the body would be excessively large. As a result, when making *Kewthea evae*, she graded between sizes.
+
+#### *Kewthea modistaflora* {#sec-kt-modistaflora}
+***Kewthea modistaflora*** sp. nov.
+
+**Holotype**: *Modista 9861KM* &mdash;
+Photograph. 3024&times;4032.
+Exposure: 1/17s. F-stop: 9. Focal: 4.0 mm. Lens: iPhone 7 back camera 3.99mm f/1.8. Camera: iPhone 7.
+Ventral view, hair positioned laterally. Image ends superior to hemline.
+*Kewthea modistaflora* wb. Sally of M., 2020.
+&copy; Sally (Modista Sewing), 2020, all rights reserved.
+
+* **Page**: @modistasewing2020
+* **SHA2-256**: `489458a350641f3a0863d78f2b5e7681ce717ec189f7d4b1287b727a2ecae087`
+* **Raw image URLs**
+  * **Original**: <https://modistasewing.wordpress.com/wp-content/uploads/2020/06/img_9861.jpg>
+  * **IA**: <https://web.archive.org/web/20260317232455/https://modistasewing.wordpress.com/wp-content/uploads/2020/06/img_9861.jpg>
+
+**Description**: Sleeves terminate superior to elbow. V-neck. Skirt terminates slightly inferior to knee.
+Five buttons, three on bodice, two on skirt. Curved square, two thread holes, mixed rotation.
+On right sleeve (wearer's perspective), pattern discontinuity at downward angle.
+**Fabric.** Viscose. White background, floral print, no known correlation to any known botanical species.
+
+**Etymology**: Modista, name of the blog, + *flora* "flower".
+
+**Specimens examined**:
+
+* Holotype.
+* *Modista 9929KM* &mdash;
+Photograph. 3024&times;4032.
+Exposure: 1/2907s. F-stop: 1.8. Focal: 4.0 mm. Lens: iPhone 7 back camera 3.99mm f/1.8. Camera: iPhone 7.
+Ventral view. Denim jacket (unclassified) worn above dress, tied together at inferior end.
+*Kewthea modistaflora* wb. Sally of M., 2020.
+&copy; Sally (Modista Sewing), 2020, all rights reserved.
+  * **Page**: See @modistasewing2020
+  * **SHA2-256**: `d4fcc57a8ab9e9c8f622228e2ce919ed9a08a0aab70940d774f96778ef825df7`
+  * **Raw image URLs**
+    * **Original**: <https://modistasewing.wordpress.com/wp-content/uploads/2020/04/img_9929.jpg>
+    * **IA**: <https://web.archive.org/web/20260317233258/https://modistasewing.wordpress.com/wp-content/uploads/2020/04/img_9929.jpg>
+* *Modista 9943KM* &mdash;
+Photograph. 2638&times;3515.
+Exposure: 1/1277s. F-stop: 1.8. Focal: 4.0 mm. Lens: iPhone 7 back camera 3.99mm f/1.8. Camera: iPhone 7.
+Ventral view. Denim jacket (unclassified) worn above dress, tied together at inferior end.
+*Kewthea modistaflora* wb. Sally of M., 2020.
+&copy; Sally (Modista Sewing), 2020, all rights reserved.
+  * **Page**: See @modistasewing2020
+  * **SHA2-256**: `ee0802a12a5f88486ba72d2a9a685eb35e3080dfa6f1bd1474693ebe0e33b231`
+  * **Raw image URLs**
+    * **Original**: <https://modistasewing.wordpress.com/wp-content/uploads/2020/04/img_9943.jpg>
+    * **IA**: <https://web.archive.org/web/20260317233256/https://modistasewing.wordpress.com/wp-content/uploads/2020/04/img_9943.jpg>
+
+**Remarks**:
 
 #### *Kewthea chantellae* {#sec-kt-chantellae}
 ***Kewthea chantellae*** Lemuria, 2026; first public desc.
