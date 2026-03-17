@@ -308,25 +308,27 @@ First public description (first public desc.) indicates that this paper is the f
 #### *Florankewia libera* {#sec-f-libera}
 ***Florankewia libera*** Lemuria, 2026; first public desc.
 
-**Holotype**: Photograph. **SHA2-256**: `2db411c534a464ef21bcb247128f3583a006954b7c16d7b3e188fe381eec1f0b`
+**Holotype**: Photograph. 1104&times;1104. EXIF metadata stripped; exposure, f-stop, lens foc. len unknown. London, United Kingdom. Ventral full-body view. Dorsally positioned hair, straps unobscured. *Florankewia libera* wb. Eva, 2019. &copy; Kate Eva or unknown photographer, all rights reserved.
 
-<!--801&times;1184. EXIF metadata stripped; exposure, f-stop, lens foc. len unknown. Screenshotted by Chang-Smith, inferred from filename. Unknown location. Ventral view. Subject's head is to her right. Left strap (wearer's perspective) slightly obscured by ventrally positioned hair. Legs slightly crossed, obscuring medial interlimb space. *Kewasalia pimsia* wb. &commat;pimsyfaitdestrucs, c. 2018.  &copy; unknown, unknown year, all rights reserved.-->
+**SHA2-256**: `2db411c534a464ef21bcb247128f3583a006954b7c16d7b3e188fe381eec1f0b`
 
 * **Page**: See @eva_gifted_2019.
 * **Raw image URLs**
-  * **Original**: OriginalURL
-  * **IA**: InternetArchiveURL
+  * **Original**: <https://kateevadesigns.com/wp-content/uploads/2019/05/f4f5d0b1-5a27-44d7-9055-77eba812a4be.jpg>
+  * **IA**: <https://web.archive.org/web/20260316223517/https://kateevadesigns.com/wp-content/uploads/2019/05/f4f5d0b1-5a27-44d7-9055-77eba812a4be.jpg>
 
-**Description**: 
+**Description**: Flat neckline. Sleeves typical to that of Kewoidea. Medial torso segment of neckline superior to sleeve segment of neckline. Straps extended by unspecified amount. Neckline lowered ventrally, and to an unknown degree dorsally. Skirt drapes, terminates inferior to knee. Bilateral ventral slits on both legs, originating superior to knee. **Fabric.** Unspecified fabric within the Wildwood collection by Rifle Paper Co. Numerous unidentified flowers.
 
-**Etymology**:
+**Etymology**: *libera* is a pseudo-Latin feminine form of Liberty, the department store where Eva and Bond met.
 
 **Specimens examined**: See holotype information.
+
+**Remarks**: In @eva_gifted_2019, Eva wrote that at the Liberty department store in London, she attended a signing event held by Anna Bond, the chief creative officer of Rifle Paper Co. She approached Bond wearing a Martha dress from Tilly and the Buttons (unclassified as of 2026-03-17), made in rayon from Rifle Paper Co. Bond and Eva then had a friendly interaction; and Bond later sent Eva rayon from an upcoming collection, the Wildwood collection, which arrived some months later. The name of the collection was inferred from imagery of the fabric itself showing the label "RIFLE PAPER CO Wildwood COLLECTION".
 
 #### *Florankewia valentina* {#sec-f-valentina}
 ***Florankewia valentina*** Lemuria, 2026; first public desc.
 
-**Holotype**: Photograph. 1440&times;1440. EXIF metadata stripped; exposure, f-stop, lens foc. len unknown. London, United Kingdom. Ventral full-body view. Dorsally positioned hair. *Florankewia valentina* wb. Eva, 2019. &copy; Kate Eva or unknown photographer, all rights reserved. ***SHA2-256***: `259d9687e6e09752364856a59620d7ffa15d28ded0e669b529a08f5e8bbc3332`
+**Holotype**: Photograph. 1440&times;1440. EXIF metadata stripped; exposure, f-stop, lens foc. len unknown. London, United Kingdom. Ventral full-body view. Dorsally positioned hair. *Florankewia valentina* wb. Eva, 2019. &copy; Kate Eva or unknown photographer, all rights reserved. **SHA2-256**: `259d9687e6e09752364856a59620d7ffa15d28ded0e669b529a08f5e8bbc3332`
 
 * **Page**: See @eva_valentino_2019.
 * **Raw image URLs**
