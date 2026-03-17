@@ -182,7 +182,7 @@ The bodices of the Kewoidea and Helikewidae feature bilateral ventral seams that
 The characteristics of the Kewthidae are described in @sec-kewthidae.
 
 #### Kewoidea {#sec-kewoidea}
-The cold-shoulder variant encompasses the superfamily Kewoidea. The primary character distinguishing Kewoidea from its closest relative, the sundress bodice (Kewidae), is the presence of bilateral sleeves. The sleeves attach to the bodice narrowly, but widen asymmetrically in the inferior direction, and reach their widest directly lateral to the upper arm, before narrowing again towards its dorsal attachment point to the bodice.
+The cold-shoulder variant encompasses the superfamily Kewoidea. The primary character distinguishing Kewoidea from its closest relative, the sundress bodice (Kewidae), is the presence of bilateral sleeves. Ventrally, the sleeve attaches to the bodice narrowly, before widening. It retains its width until it reaches its dorsal bodice attachment point.
 
 It is further divided into two families, Kewidae and Plesikewidae, which have three genera each. Kewidae is the *sensu stricto* family, consisting of *Kewisia* (straight skirt), and the empty genera *Kewplicata* and *Kewparabola*. Plesikewidae encompasses hacked versions of the Kew, split across three genera.
 
