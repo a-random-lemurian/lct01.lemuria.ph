@@ -196,7 +196,7 @@ It is further divided into two families, Kewidae and Plesikewidae, which have th
 
 *Florankewia* is home to two species, *F. libera* (described in @sec-f-libera) and *F. valentina* (described in @sec-f-valentina), which are two hacks created by Kate Eva. Though the bodice of the By Hand London Flora and the skirt of the By Hand London Anna account for the majority of the dress, the *Florankewia* incorporates the off-shoulder sleeves of the Kew.
 
-*Kewabotonia* is a larger genus, encompassing five species. Four of these descend from a hack by Jen Walker, known as the Gingerthread Girl, as described in @walker_kewhack_2018. Walker's specific hack of the Kew encompasses *Kewabotonia zingibera* (described in @sec-k-zingibera), which is also the type species. *Kewabotonia* lacks the ventral medial button row entirely, and has a dorsal medial zipper, which is completely absent among the Kewidae. Chang-Smith herself praised Walker's hack as "the Queen of all the Kew hacks" [-@chang-smith_kew_2018]. The three other species in *Kewabotonia* that descend from Walker's hack are *eleanorae* wb. Eleanor, 2018; *sarae* wb. Sarah, 2018; and *elsae* wb. Elsa, 2021.
+*Kewabotonia* is a larger genus, encompassing five species. Four of these descend from a hack by Jen Walker, known as the Gingerthread Girl, as described in @walker_kewhack_2018. Walker's specific hack of the Kew encompasses *Kewabotonia zingibera* (described in @sec-k-zingibera), which is also the type species. *Kewabotonia* lacks the ventral medial button row entirely, and has a dorsal medial zipper, which is completely absent among the Kewidae. Chang-Smith herself praised Walker's hack as "the Queen of all the Kew hacks" [-@chang-smith_kew_2018]. The three other species in *Kewabotonia* that descend from Walker's hack are *eleanorae* wb. Eleanor, 2018 (see @sec-k-eleanorae); *sarae* wb. Sarah, 2018 (see @sec-kb-sarae); and *elsae* wb. Elsa, 2021 (see @sec-k-elsae).
 
 The fifth species, *Kewabotonia nuptirachaelae* (described in @sec-k-nuptirachaelae), was sewn by the British sewist Rachael Beaumont sewed it in 2018 for one of her bridesmaids, Lizzy [@beaumont_handmade_2018]. *Kewabotonia nuptirachaelae* does not explicitly diverge from Walker's hack; she does not mention it in her blog post. It is distinguished from the rest of genus in its full-circle skirt.
 
@@ -308,10 +308,9 @@ First public description (first public desc.) indicates that this paper is the f
 #### *Florankewia libera* {#sec-f-libera}
 ***Florankewia libera*** Lemuria, 2026; first public desc.
 
-**Holotype**: Photograph. 1104&times;1104. EXIF metadata stripped; exposure, f-stop, lens foc. len unknown. London, United Kingdom. Ventral full-body view. Dorsally positioned hair, straps unobscured. *Florankewia libera* wb. Eva, 2019. &copy; Kate Eva or unknown photographer, all rights reserved.
+**Holotype**: *Eva 4be-FL* Photograph. 1104&times;1104. EXIF metadata stripped; exposure, f-stop, lens foc. len unknown. United Kingdom, London. Ventral full-body view. Dorsally positioned hair, straps unobscured. *Florankewia libera* wb. Eva, 2019. &copy; Kate Eva or unknown photographer, all rights reserved.
 
-**SHA2-256**: `2db411c534a464ef21bcb247128f3583a006954b7c16d7b3e188fe381eec1f0b`
-
+* **SHA2-256**: `2db411c534a464ef21bcb247128f3583a006954b7c16d7b3e188fe381eec1f0b`
 * **Page**: See @eva_gifted_2019.
 * **Raw image URLs**
   * **Original**: <https://kateevadesigns.com/wp-content/uploads/2019/05/f4f5d0b1-5a27-44d7-9055-77eba812a4be.jpg>
@@ -328,8 +327,9 @@ First public description (first public desc.) indicates that this paper is the f
 #### *Florankewia valentina* {#sec-f-valentina}
 ***Florankewia valentina*** Lemuria, 2026; first public desc.
 
-**Holotype**: Photograph. 1440&times;1440. EXIF metadata stripped; exposure, f-stop, lens foc. len unknown. London, United Kingdom. Ventral full-body view. Dorsally positioned hair. *Florankewia valentina* wb. Eva, 2019. &copy; Kate Eva or unknown photographer, all rights reserved. **SHA2-256**: `259d9687e6e09752364856a59620d7ffa15d28ded0e669b529a08f5e8bbc3332`
+**Holotype**: *Eva 0098FV* &mdash; Photograph. 1440&times;1440. EXIF metadata stripped; exposure, f-stop, lens foc. len unknown. United Kingdom, London. Ventral full-body view. Dorsally positioned hair. *Florankewia valentina* wb. Eva, 2019. &copy; Kate Eva or unknown photographer, all rights reserved.
 
+* **SHA2-256**: `259d9687e6e09752364856a59620d7ffa15d28ded0e669b529a08f5e8bbc3332`
 * **Page**: See @eva_valentino_2019.
 * **Raw image URLs**
   * **Original**: <https://kateevadesigns.com/wp-content/uploads/2019/09/9a19be8e-4b8a-472f-9f03-1b917380098c.jpg>
@@ -342,7 +342,8 @@ First public description (first public desc.) indicates that this paper is the f
 **Specimens examined**:
 
 * Holotype.
-* *Dorsal view 1* &mdash; Photograph. 1440&times;1440. EXIF metadata stripped; exposure, f-stop, lens foc. len unknown. London, United Kingdom. Dorsal half-body view . ***Original***: <https://kateevadesigns.com/wp-content/uploads/2019/09/c573e2db-5b6d-4658-8832-2b6145a9ec96.jpg>; ***IA***: <https://web.archive.org/web/20260316080324/https://kateevadesigns.com/wp-content/uploads/2019/09/c573e2db-5b6d-4658-8832-2b6145a9ec96.jpg>; ***SHA2-256***: `c4b0476878da7f7011d353fed70da76235731be5edd1416c21203809c74291af`
+* *Eva 3222FV*^[Derived from `0xc96` converted to decimal.] &mdash; Photograph. 1440&times;1440. EXIF metadata stripped; exposure, f-stop, lens foc. len unknown. United Kingdom, London. Dorsal half-body view . ***Original***: <https://kateevadesigns.com/wp-content/uploads/2019/09/c573e2db-5b6d-4658-8832-2b6145a9ec96.jpg>; ***IA***: <https://web.archive.org/web/20260316080324/https://kateevadesigns.com/wp-content/uploads/2019/09/c573e2db-5b6d-4658-8832-2b6145a9ec96.jpg>;
+  * **SHA2-256**: `c4b0476878da7f7011d353fed70da76235731be5edd1416c21203809c74291af`
 
 ### Genus *Helikewisia* {#sec-genus-helikewisia}
 #### *Helikewisia aemilia* {#sec-h-aemilia}
@@ -354,8 +355,9 @@ First public description (first public desc.) indicates that this paper is the f
 #### *Helikewisia erinae* {#sec-h-erinae}
 ***Helikewisia erinae*** Lemuria, 2026; first public desc.
 
-**Holotype**: Photograph. 427&times;640, EXIF metadata stripped; exposure, f-stop, lens foc. len unknown. United States, New Jersey, Monmouth County, Holland Ridge Farms. Approx. GPS: 40.16936&deg;N 74.50087&deg;W ± 50m (WGS84). Instagram. Ventral view. Hair positioned ventrally, partially obscuring view of left strap (wearer's perspective). *Helikewisia erinae* wb. Erin.M., 2021. SHA2-256: `ff6af1347c0f4ae0d17d74efce69ded5702681b0ea356233daa18e4c690f9a29`. Instagram &copy; Erin Madalone or unknown photographer, 2021, all rights reserved.
+**Holotype**: *Madalone 4823HE* &mdash; Photograph. 427&times;640, EXIF metadata stripped; exposure, f-stop, lens foc. len unknown. United States, New Jersey, Monmouth County, Holland Ridge Farms. Approx. GPS: 40.16936&deg;N 74.50087&deg;W ± 50m (WGS84). Instagram. Ventral view. Hair positioned ventrally, partially obscuring view of left strap (wearer's perspective). *Helikewisia erinae* wb. Erin.M., 2021. Instagram. &copy; Erin Madalone or unknown photographer, 2021, all rights reserved.
 
+* **SHA2-256**: `ff6af1347c0f4ae0d17d74efce69ded5702681b0ea356233daa18e4c690f9a29`. 
 * **Page**: See @madalone_kew_2021 and @madalone_tulips_2021.
 * **Raw image URLs**
   * **Original**: <https://mypoeticmemory.wordpress.com/wp-content/uploads/2021/04/9f49e8f1-0424-4b0a-ada4-5829431c4823.jpeg>
@@ -380,7 +382,7 @@ First public description (first public desc.) indicates that this paper is the f
 #### *Helikewisia irvinae* {#sec-h-irvinae}
 ***Helikewisia irvinae*** Lemuria, 2026; first public desc.
 
-**Holotype**: Photograph. 2736&times;3648. Exposure 1/665 sec, f-stop 1.6, lens foc. len 5.6mm (35mm equiv. 27.0mm), ISO 50, FOV 67.4&deg;, no flash. United Kingdom. Ventral full-body view. Tied hair. Hands in bilateral pockets. *Helikewisia irvinae* wb. Alice.Ir., 2020. &copy; Alice Irvine or unknown photographer, 2020, all rights reserved.
+**Holotype**: *Irvine 0001HI* &mdash; Photograph. 2736&times;3648. Exposure 1/665 sec, f-stop 1.6, lens foc. len 5.6mm (35mm equiv. 27.0mm), ISO 50, FOV 67.4&deg;, no flash. United Kingdom. Ventral full-body view. Tied hair. Hands in bilateral pockets. *Helikewisia irvinae* wb. Alice.Ir., 2020. &copy; Alice Irvine or unknown photographer, 2020, all rights reserved.
 
 * **Page**: See @irvine_ode_2020.
 * **Raw image URLs**
@@ -402,7 +404,7 @@ First public description (first public desc.) indicates that this paper is the f
 #### *Kewabotonia zingibera* {#sec-k-zingibera}
 ***Kewabotonia zingibera*** Lemuria, 2026; first public desc.
 
-**Holotype**: Photograph. 1200&times;1800. EXIF metadata stripped; exposure, f-stop, lens foc. len unknown. United Kingdom. Ventral full-body view. Tied hair. Arms spread laterally. *Kewabotonia zingibera* wb. Gingerthread, 2018. SHA2-256: `b4d1008027f701f3b22f523bdc3796e64a0cb99ddb17cfd27c186d3d79849bc4`. &copy; Jen Walker or unknown photographer, 2018, all rights reserved.
+**Holotype**: *Gingerthread 0212KZ* &mdash; Photograph. 1200&times;1800. EXIF metadata stripped; exposure, f-stop, lens foc. len unknown. United Kingdom. Ventral full-body view. Tied hair. Arms spread laterally. *Kewabotonia zingibera* wb. Gingerthread, 2018. SHA2-256: `b4d1008027f701f3b22f523bdc3796e64a0cb99ddb17cfd27c186d3d79849bc4`. &copy; Jen Walker or unknown photographer, 2018, all rights reserved.
 
 * **Page**: See @walker_kewhack_2018.
 * **Raw image URLs**
@@ -418,7 +420,7 @@ First public description (first public desc.) indicates that this paper is the f
 #### *Kewabotonia eleanorae* {#sec-k-eleanorae}
 ***Kewabotonia eleanorae*** Lemuria, 2026; first public desc.
 
-#### *Kewabotonia sarae* {#sec-k-sarae}
+#### *Kewabotonia sarae* {#sec-kb-sarae}
 ***Kewabotonia sarae*** Lemuria, 2026; first public desc.
 
 #### *Kewabotonia elsae* {#sec-k-elsae}
@@ -432,22 +434,69 @@ First public description (first public desc.) indicates that this paper is the f
 ***Kewisia bernicae*** Lemuria, 2026; first public desc.
 
 #### *Kewisia evae* {#sec-k-evae}
-***Kewisia evae*** Lemuria, 2026; first public desc.
+***Kewisia evae*** Lemuria, 2026
+
+**Holotype**: *Eva 3318KE* &mdash;
+Photograph. 3024&times;4032.
+EXIF metadata stripped; exposure, f-stop, lens foc. len unknown.
+Published 2018-09-18.
+London, United Kingdom.
+Ventral (front) view. Hair positioned dorsally.
+&copy; Kate Eva or unknown photographer, 2018, all rights reserved.
+
+* **SHA2-256**: `95da481e925293acde9fab746a0ca97ca64366726218958b9bb76e5cfafa7502`
+* **Blog post**: See @eva_blue_2018.
+* **Raw image URLs**
+  * **Original**: <https://kateevadesigns.com/wp-content/uploads/2018/09/img_3318.jpg>
+  * **IA**: <https://web.archive.org/web/20260314183108/https://kateevadesigns.com/wp-content/uploads/2018/09/img_3318.jpg>
+
+**Description**: Shallow angle V-neck. Bilateral single straps. Sleeves typical to that of Kewoidea and level with bodice. Skirt terminates inferior to knee. Ventral medial row of 13 buttons. 4 on bodice, 8 on skirt, single button at bodice&ndash;skirt seam. **Fabric.** Blue linen, plain. Fabrics Galore.
+
+**Remarks**:
+
+* Eva reported difficulty in accurately photographing the color of *Kewisia evae*. She describes it as "somewhere between a smurf and the Victoria Line", and "lighter than a cobalt blue but still quite bright".
+* *Kewisia evae* was first described in @lemuria_general_2026, but it was shortened for brevity. We describe it here in more detail.
 
 #### *Kewisia fionae* {#sec-k-fionae}
 ***Kewisia fionae*** Lemuria, 2026; first public desc.
 
+**Holotype**: *Parker 0001KF* &mdash;
+Photograph. 1536&times;2048.
+EXIF metadata stripped; exposure, f-stop, lens foc. len unknown.
+Original 2018-06-03.
+London, United Kingdom.
+Ventral view. Hair positioned dorsally.
+&copy; Fiona Parker or unknown photographer, 2018, all rights reserved.
+
+* **SHA2-256**: `bd626b8a6f1310021d4ff6a1660814af1677ab1354e2fe17dfaca8f4c113d893`
+* **Blog post**: See @parker_floral_2018
+* **Raw image URLs**
+  * **Original**: <https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimpa9buEQSTCOXcTc4UUSCbSNK_KdN57fJmXpUOxb9rUApekLFckiR44QXxuCQAt0oOQiPFKUA3mb7f3HZ3vJU92gu1aFPa0IuSeCABx3J03NQSo6GH2eh0ViuGiKnOFMBZSIiz0KfFLQ/s0/Floral+Viscose+Kew+Dress+Front.jpg=s0?imgmax=0>
+  * **IA**: <https://web.archive.org/web/20260317141612/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimpa9buEQSTCOXcTc4UUSCbSNK_KdN57fJmXpUOxb9rUApekLFckiR44QXxuCQAt0oOQiPFKUA3mb7f3HZ3vJU92gu1aFPa0IuSeCABx3J03NQSo6GH2eh0ViuGiKnOFMBZSIiz0KfFLQ/s0/Floral+Viscose+Kew+Dress+Front.jpg=s0?imgmax=0>
+
+**Description**: Shallow angle V-neck. Bilateral single straps. Sleeves typical to that of Kewoidea and level with bodice. Skirt terminates inferior to knee. Ventral medial row of 15 buttons, solid black with two thread holes, white thread, sourced from The Cloth House on Berwick Street. Straps shortened by 2.5 cm (1 in). Bust cut at size 8, graded to 10 towards transpyloric plane. **Fabric.** Dahlia viscose crepe, from the company Til The Sun Goes Down, operated by Andree Holden.^[Also known as Andree Hansen; inconsistent names observed.] Floral pattern, black, yellow, and white.
+
+**Etymology**: Fiona + *-ae*, feminine genitive suffix.
+
+**Specimens examined**:
+
+* Holotype.
+
+**Remarks**:
+
+* Parker purchased the pattern from Chang-Smith herself at the Great British Sewing Bee in January 2018, and began work on the dress by July 2018. In Spring 2018, Andree gifted Parker 1.5 meters of the fabric, 138 cm wide.
+
 #### *Kewisia kristinae* {#sec-k-kristinae}
 ***Kewisia kristinae*** Lemuria, 2026; first public desc.
 
-**Holotype**: YouTube video. *VoolenvVLOG: The Seamstress Tag!*. 00h15m48.648s. 1920&times;1080, 23.976fps. 48KHz Opus stereo audio. ***Encoder***: Lavf60.16.100. ***YouTube ID***: `C_cpG65ZGyE`. Ventral view, subject in center. Frame cuts inferior to fourth button. Uploaded 2018-09-04. *Kewisia kristinae* wb. Lehrer, 2018. &copy; Kristin Lehrer, 2018, all rights reserved.
+**Holotype**: *Lehrer 0001/G65Z*^[Derived from portion of YouTube alphanumeric video ID.] &mdash; YouTube video. *VoolenvVLOG: The Seamstress Tag!*. 00h15m48.648s. 1920&times;1080, 23.976fps. 48KHz Opus stereo audio. ***Encoder***: Lavf60.16.100. ***YouTube ID***: `C_cpG65ZGyE`. Ventral view, subject in center. Frame cuts inferior to fourth button. Uploaded 2018-09-04. *Kewisia kristinae* wb. Lehrer, 2018. &copy; Kristin Lehrer, 2018, all rights reserved.
 
 * **Page**: See @lehrer_voolenvvlog_2018.
-* **Raw image URLs**
+* **Video URLs**
   * **Original**: OriginalURL
   * **IA**: InternetArchiveURL
 
-**Description**: Shallow angle V-neck. Bilateral single straps. Lack of ventral medial button row. Sleeves typical to that of Kewoidea and level with bodice. Skirt terminates superior to knee. **Fabric.** Black fabric. Floral patterns, featuring ferns (botanical division Polypodiophhyta and class Polypodiopsida <small>Cronquist, Takht. &* W.Zimm.</small>)
+**Description**: Shallow angle V-neck. Bilateral single straps. Sleeves typical to that of Kewoidea and level with bodice. Skirt terminates superior to knee. **Fabric.** Black fabric. Floral patterns, featuring ferns (botanical division Polypodiophhyta and class Polypodiopsida <small>Cronquist, Takht. & W.Zimm.</small>)
 
 **Etymology**: *Kristin* + *-ae* feminine genitive prefix.
 
@@ -457,6 +506,10 @@ First public description (first public desc.) indicates that this paper is the f
 * ***Yarngasm 281*** &mdash; YouTube video. *Yarngasm* ep. 281, "There's Been Spinning". 00h39m17.408s. 854&times;480, 30fps. 48KHz Opus stereo audio. ***Encoder***: Lavf60.16.100. ***YouTube ID***: `O66xjOf4DhM`. Ventral and lateral view. Subject is mostly seated, but at 00h20m48s, stands up to show ventral medial button row and lateral seams. Uploaded 2018-08-03. *Kewisia kristinae* wb. Lehrer, 2018. &copy; Kristin Lehrer, 2018, all rights reserved.
 
 <!-- 273 278 is for Helikewisia kristinae -->
+
+**Remarks**
+
+* No method of reliably reproducible video downloads is known.
 
 **`yt-dlp` provenance:**
 ```
@@ -617,20 +670,85 @@ YARNGASM： Episode 281 - ＂There's Been Spinning＂ [O66xjOf4DhM].mkv
 #### *Kewpepla lornae* {#sec-kp-lornae}
 ***Kewpepla lornae*** Lemuria, 2026; first public desc.
 
+**Holotype**: *Rothery 613D/KL* &mdash; Photograph. EXIF metadata stripped; exposure, f-stop, lens foc. len. unknown. United Kingdom. *Kewpepla lornae* on wooden hanger held by Rothery. &copy; Lorna Rothery or Lorna Malkin (name seen in EXIF data; see @sec-malkin), 2020, all rights reserved.
+
+* **Page**: See @rothery_kew_2020-05.
+  * **Original**: <https://lornarothery.com/wp-content/uploads/2020/05/7bd2d058-6968-4c5f-8163-c195a33c613d.jpg>
+  * **IA**: <https://web.archive.org/web/20260317104813/https://lornarothery.com/wp-content/uploads/2020/05/7bd2d058-6968-4c5f-8163-c195a33c613d.jpg>
+
+**Description**: V-neck at approx. 47&deg; angle. Sleeve terminates superior to arm. Distal lateral fabric gathering. Ventral medial row of 4 buttons. **Fabric.** Double gauze from Rico Design. White background, blue and pink splotch-like patterns, faded blue rectangular brush-like patterns. Procured by Rothery in Bordeaux, France.
+
+**Etymology**: Lorna + *-ae*, feminine genitive suffix.
+
+**Specimens examined**:
+
+* Holotype.
+* ***Rothery E530/KL*** &mdash; Photograph. United Kingdom. wb. Lorna.R., &copy; Lorna Rothery or Lorna Malkin (name seen in EXIF data; see @sec-malkin), 202, all rights reserved.
+  * **Original**: <https://lornarothery.com/wp-content/uploads/2020/05/165d5796-3a33-4292-a302-c1f879b4e530.jpg>
+  * **IA**: <https://web.archive.org/web/20260317104650/https://lornarothery.com/wp-content/uploads/2020/05/165d5796-3a33-4292-a302-c1f879b4e530.jpg>
+
+**Remarks**:
+
+* In early 2020, presumably before March 2020 when the COVID-19 pandemic began to spread intensely, Rothery visited Bordeaux, France. She found a local fabric shop which had 1.5 m remaining of a double gauze fabric from Rico Design; she bought and stashed it (@rothery_kew_2020-05).
+* We note a discrepancy in Lorna's family name in the EXIF metadata; see @sec-malkin.
+
 #### *Kewpepla lornaebis* {#sec-kp-lornaebis}
 ***Kewpepla lornaebis*** Lemuria, 2026; first public desc.
+
+**Holotype**:
+
+* **Page**: See @rothery_kew_2020-06
+
+**Description**:  
+
+**Etymology**: Lorna + *-ae*, feminine genitive suffix + *-bis* "twice", as it is the second *Kewpepla* sp. from Rothery to be described.
+
+**Remarks**:
+
+* We note a discrepancy in Lorna's family name in the EXIF metadata; see @sec-malkin.
 
 ### Genus *Kewthea* {#sec-genus-kewthea}
 #### *Kewthea lornae* {#sec-kt-lornae}
 ***Kewthea lornae*** Lemuria, 2026; first public desc.
 
+**Holotype**: *Rothery 3618KL* &mdash; Photograph. 983&times;1748. Exposure 1/30s, f-stop 6.3, lens foc. len 18mm (35mm equiv. 33.5mm), ISO 400. Camera `Canon EOS 90D` with lens `EF-S18-55mm f/3.5-5.6 IS STM`. United Kingdom. *Kewthea lornae* wb. Lorna.R., 2025. **SHA2-256**: `eab2676a36834c7d23b82b731268c7a3dc0ca3dc8b33453d30990648369df092`. &copy; Lorna Rothery or Lorna Malkin (name seen in EXIF data; see @sec-malkin), 2025, all rights reserved. 
+
+* **Page**: See @rothery_perfect_2025
+* **Raw image URLs**
+  * **Original**: <https://lornarothery.com/wp-content/uploads/2025/07/img_3618-1.jpg>
+  * **IA**: <https://web.archive.org/web/20260317093131/https://lornarothery.com/wp-content/uploads/2025/07/img_3618-1.jpg>
+
+**Description**: Sleeves terminate superior to elbow. Ventral medial button row of 14 buttons, two thread holes running horizontally. 4 buttons on bodice, 10 on skirt. Thread color varies between white and red. Fabric gathers distally on right arm (wearer's perspective). Sewn on Janome DKS100 machine, stitch len. 2.6 mm, width 3 mm. Gutermann polyester thread, color 659 for dress; button thread unspecified cotton thread from Aurifil. **Fabric.** Meet MILK Two-Tone Check Tencel Lyocell Twill Fabric in Powder Pink. Check pattern, two subtle shades.
+
+**Etymology**: Lorna + *-ae*, feminine genitive suffix.
+
+**Specimens examined**:
+
+* Holotype.
+* ***Rothery 3603KL*** &mdash; Photograph. 926&times;1218. Exposure 1/250s, f-stop 3.5, lens foc. len 18mm (35mm equiv. 33.5), ISO 500. Camera `Canon EOS 90D` with lens `EF-S18-55mm f/3.5-5.6 IS STM`. Dress in incomplete state, laid on table, ventral side up. &copy; Lorna Rothery or Lorna Malkin (name seen in EXIF data; see @sec-malkin), 2025, all rights reserved.
+  * **SHA2-256**: `5b0ff8b5d9ddb59d32181859adefe177e1ef99de31681e3d8fe24c1ba6d080d2`
+  * **Original**: <https://lornarothery.com/wp-content/uploads/2025/07/img_3603-1.jpg>
+  * **IA**: <https://web.archive.org/web/20260317093137/https://lornarothery.com/wp-content/uploads/2025/07/img_3603-1.jpg>
+* ***Rothery 3637KL*** &mdash; Photograph. 1080&times;1920. Exposure 1/30s, f-stop 6.3, lens foc. len 18mm (35mm equiv. 33.5mm), ISO 400. Camera `Canon EOS 90D` with lens `EF-S18-55mm f/3.5-5.6 IS STM`. *Kewthea lornae* wb. Lorna.R., 2025, &copy; Lorna Rothery or Lorna Malkin (name seen in EXIF data; see @sec-malkin), 2025, all rights reserved.
+  * **SHA2-256**: `3def2839e8e0686b451d3fd216290a69fc8b5cf567dff45da71b5444908ad77d`
+  * **Original**: <https://lornarothery.com/wp-content/uploads/2025/07/img_3637-1.jpg>
+  * **IA**: <https://web.archive.org/web/20260317093300/https://lornarothery.com/wp-content/uploads/2025/07/img_3637-1.jpg>
+
+**Remarks**:
+
+* Cameras such as the 90D typically produce larger images than 983&times;1748. We do not have a 90D in our possession, but theorize that Rothery likely downscaled the original image before publication to her blog, or less likely, used a lower-quality setting in the camera. We found the usage of `Adobe Lightroom 10.4.1 (iOS)` in the EXIF metadata of the holotype. We observe a consistent `-1` suffix in image filenames (e.g. `img_3618-1.jpg`), and 404 errors in attempting to retrieve unsuffixed versions (e.g. `img_3618.jpg`), suggesting the existence of a higher-quality image type inaccessible to us.
+* We note a discrepancy in Lorna's family in the EXIF metadata; see @sec-malkin.
+* *Kewthea lornae* is perhaps the most recent specimen of *Kewthea* and of the Kew dress, showing that it still ranges to 2025. The Kewoidea (cold-shoulder Kew), while still sewable, has not seen any specimens dating to the 2020s; while the Kewthidae (tea dress) and Helikewidae (sundress), less prone to the fashion cycle, still persist today.
+
 #### *Kewthea lornoblae* {#sec-kt-lornoblae}
 ***Kewthea lornoblae*** Lemuria, 2026; first public desc.
+
+**Holotype**:
 
 #### *Kewthea luscinia* {#sec-kt-luscinia}
 ***Kewthea luscinia*** Lemuria, 2026; first public desc.
 
-**Holotype**: Photograph. 1365&times;2048. EXIF metadata stripped; exposure, f-stop, lens foc. len unknown. United Kingdom. Ventral view. ***SHA2-256***: `89aa8f34f0e84ad09bb11d3893802b1cd300eb0cdb6b67fac5e5ad99d98bc175`. *Kewthea luscinia* wb. Ruth.Pr., 2019. &copy; Ruth Procter, 2019, all rights reserved.
+**Holotype**: *Procter 0005KL* &mdash; Photograph. 1365&times;2048. EXIF metadata stripped; exposure, f-stop, lens foc. len unknown. United Kingdom. Ventral view. ***SHA2-256***: `89aa8f34f0e84ad09bb11d3893802b1cd300eb0cdb6b67fac5e5ad99d98bc175`. *Kewthea luscinia* wb. Ruth.Pr., 2019. &copy; Ruth Procter, 2019, all rights reserved.
 
 * **Page**: See @procter_kew_2019
 * **Raw image URLs**
@@ -644,7 +762,29 @@ YARNGASM： Episode 281 - ＂There's Been Spinning＂ [O66xjOf4DhM].mkv
 **Specimens examined**: See holotype information.
 
 #### *Kewthea evae* {#sec-kt-evae}
-***Kewthea evae*** Lemuria, 2026; first public desc.
+***Kewthea evae*** Lemuria, 2026
+
+**Holotype**: *Eva 2947KE* &mdash; Photograph. 900&times;900. EXIF metadata stripped; exposure, f-stop, lens foc. len unknown. Mirror selfie. Ventral view. **SHA2-256**: ``. *Kewthea evae* wb. Eva, 2019. &copy; Kate Eva, 2019, all rights reserved.
+
+* **Page**: See @eva_autumnal_2018.
+* **Raw image URLs**
+  * **Original**: <https://kateevadesigns.com/wp-content/uploads/2018/09/img_2947.jpg>
+  * **IA**: <https://web.archive.org/web/20260317075603/https%3A//kateevadesigns.com/wp-content/uploads/2018/09/img_2947.jpg>
+
+**Description**: Sleeves terminate superior to elbow. Ventral medial button row of 8 buttons. Buttons 1&ndash;3 have two holes. Thread line vertical. Buttons 4&ndash;8 have four holes. Buttons sourced from Eva's vintage stash. **Fabric.** Crepe. Black background with stylized floral print. Flowers do not correspond to any known species. Floral print color roughly caramel/pale yellow. Sourced from Guthrie & Ghani.
+
+**Etymology**: Eva + *-ae*, feminine genitive suffix.
+
+**Specimens examined**:
+
+* Holotype.
+* ***Eva 0120KE*** &mdash; Photograph. 1536&times;2048. EXIF metadata stripped; exposure, f-stop, lens foc. len unknown. Ventral view. Jacket worn over dress (unclassified). **SHA2-256**: ``. *Kewthea evae* wb. Eva, 2019. &copy; Kate Eva or unknown photographer, 2019, all rights reserved.
+  * **Original**: <https://kateevadesigns.com/wp-content/uploads/2018/10/img_0120.jpg>
+  * **IA**: <https://web.archive.org/web/20260317080030/https%3A//kateevadesigns.com/wp-content/uploads/2018/10/img_0120.jpg>
+
+**Remarks**:
+
+* Eva reported fit issues, though she attributed them to her body. She wrote in @eva_autumnal_2018 that she learned she had broad shoulders with a smaller waist and bust, from an online course from By Hand London; and theorized that if she purchased an RTW tea dress, the body would be excessively large. As a result, when making *Kewthea evae*, she graded between sizes.
 
 #### *Kewthea chantellae* {#sec-kt-chantellae}
 ***Kewthea chantellae*** Lemuria, 2026; first public desc.
@@ -653,14 +793,14 @@ YARNGASM： Episode 281 - ＂There's Been Spinning＂ [O66xjOf4DhM].mkv
 #### *Kewasalia pimsia* {#sec-k-pimsia}
 ***Kewasalia pimsia*** sp. nov.
 
-**Holotype**: Photograph. 801&times;1184. EXIF metadata stripped; exposure, f-stop, lens foc. len unknown. Screenshotted by Chang-Smith, inferred from filename. Unknown location. Ventral view. Subject's head is to her right. Left strap (wearer's perspective) slightly obscured by ventrally positioned hair. Legs slightly crossed, obscuring medial interlimb space. ***SHA2-256***: `3a1763dad87fa6f2dc2edef01c20db87e5e65f2f4f0e6e46bee83ce3ba49e7d0`. *Kewasalia pimsia* wb. &commat;pimsyfaitdestrucs, c. 2018.  &copy; unknown, unknown year, all rights reserved.
+**Holotype**: *Pimsy 0001KP* Photograph. 801&times;1184. EXIF metadata stripped; exposure, f-stop, lens foc. len unknown. Screenshotted by Chang-Smith, inferred from filename. Unknown location. Ventral view. Subject's head is to her right. Left strap (wearer's perspective) slightly obscured by ventrally positioned hair. Legs slightly crossed, obscuring medial interlimb space. ***SHA2-256***: `3a1763dad87fa6f2dc2edef01c20db87e5e65f2f4f0e6e46bee83ce3ba49e7d0`. *Kewasalia pimsia* wb. &commat;pimsyfaitdestrucs, c. 2018.  &copy; unknown, unknown year, all rights reserved.
 
 * **Page**: See @chang-smith_kew_2018.
 * **Raw image URLs**
   * **Original**: <https://cdn.shopify.com/s/files/1/0725/7833/5029/files/Screen-Shot-2018-08-07-at-13_20_04.jpg>
   * **IA**: <https://web.archive.org/web/20260315221454/https://cdn.shopify.com/s/files/1/0725/7833/5029/files/Screen-Shot-2018-08-07-at-13_20_04.jpg>
 
-**Description**:  Fabric of unknown material, similar appearance to [Ankara print](https://en.wikipedia.org/wiki/African_wax_prints). **Fabric.** Pattern consists of multiple square regions divided by vertical bands of dark blue background with white diamonds. Square regions consist of three distinct patterns. Pattern 1, red two-spiral galaxy-like shape on dark blue background. Pattern 2, dark-blue two-spiral galaxy-like shape on mostly gold background. Pattern 3, diamond split into four segments, white borders, against background of repeating dark red&ndash;light red&ndash;yellow pattern. Medial area of bodice features alternating pattern 2 and 3, while lateral area alternates between 1 and 3. Trousers alternate 1 and 3 ventrally, and 2 and 3 laterally in alternating order. No proof of explicit descent from Portobello.
+**Description**: Fabric of unknown material, similar appearance to [Ankara print](https://en.wikipedia.org/wiki/African_wax_prints). **Fabric.** Pattern consists of multiple square regions divided by vertical bands of dark blue background with white diamonds. Square regions consist of three distinct patterns. Pattern 1, red two-spiral galaxy-like shape on dark blue background. Pattern 2, dark-blue two-spiral galaxy-like shape on mostly gold background. Pattern 3, diamond split into four segments, white borders, against background of repeating dark red&ndash;light red&ndash;yellow pattern. Medial area of bodice features alternating pattern 2 and 3, while lateral area alternates between 1 and 3. Trousers alternate 1 and 3 ventrally, and 2 and 3 laterally in alternating order. No proof of explicit descent from Portobello.
 
 **Etymology**: *pimsia* is derived from the wearer's Instagram handle, &commat;pimsyfaitdestrucs.
 
@@ -669,7 +809,7 @@ YARNGASM： Episode 281 - ＂There's Been Spinning＂ [O66xjOf4DhM].mkv
 #### *Trunkewia ninae* {#sec-t-ninae}
 ***Trunkewia ninae*** Lemuria, 2026; first public desc.
 
-**Holotype**: Photograph. 2668&times;3707. EXIF metadata stripped; exposure, f-stop, lens foc. len unknown. London, United Kingdom. Zoomed-out view. Right strap (wearer's perspective) slightly obscrubed by ventrally positioned hair. ***SHA2-256***: `a8962c67667a028febbd6b9bbfa1a6af25f3296a2fbf430f7cde3a5ecbb56a22`. *Trunkewia ninae* wb. Nina, 2018. &copy; Nina Chang-Smith or unknown photographer, 2018, all rights reserved.
+**Holotype**: *Nina 0296TN* &mdash; Photograph. 2668&times;3707. EXIF metadata stripped; exposure, f-stop, lens foc. len unknown. United Kingdom, London. Zoomed-out view. Right strap (wearer's perspective) slightly obscrubed by ventrally positioned hair. ***SHA2-256***: `a8962c67667a028febbd6b9bbfa1a6af25f3296a2fbf430f7cde3a5ecbb56a22`. *Trunkewia ninae* wb. Nina, 2018. &copy; Nina Chang-Smith or unknown photographer, 2018, all rights reserved.
 
 * **Page**: See @chang-smith_kew_2018.
 * **Raw image URLs**
@@ -685,6 +825,15 @@ YARNGASM： Episode 281 - ＂There's Been Spinning＂ [O66xjOf4DhM].mkv
 ```{=latex}
 \newpage
 ```
+
+## General remarks
+### Lorna Rothery {#sec-malkin}
+While examining the EXIF metadata of Rothery's images, we discovered the name *Lorna Malkin*. We have no information on this name, but suspect that it is one of Rothery's alternative names.
+
+Lorna's two *Kewpepla* makes had the same blog post titles; we were uncertain as to which was *Kewpepla lornae* and which was *Kewpepla lornaebis*. Given that *-bis* means "twice", we decided the May and June 2020 posts *lornae* and *lornaebis* respectively. Our internal MediaWiki site is also unclear on the distinction; we plan to formally resolve it in this paper.
+
+### Type specimen naming
+We also find it important to develop naming conventions for type specimen photographs. So far, we have settled on a convention of a single name for the wearer (either given or family), followed by either an alphanumeric identifier or numeric identifier, with the initials of the species in question suffixed for more disambiguation.
 
 ## Identification key
 To determine the genera in which a Kew dress is placed:
@@ -756,6 +905,7 @@ In this paper, we used the following person abbreviations.
 * **Lorna.R.** &mdash; Lorna Rothery (<https://lornarothery.com/>; abbreviated Lorna.R. in the LCT-01), is the most prolific sewist among the Kewthidae, with four documented specimens.
 * **Marie.K.** &mdash; Marie Koupparis of *A Stitching Odyssey*
 * **Nina** &mdash; Nina Chang-Smith
+* **Parker** &mdash; Fiona Parker, British sewist, author of the blog *Diary of a Chain Stitcher* (<https://chainstitcher.blogspot.com/>)
 * **Rachael** &mdash; Rachael Beaumont
 * **Ruth.Pr.** &mdash; Ruth Procter, author of the blog *Nightingale & Dolittle*
 
