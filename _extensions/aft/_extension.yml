@@ -33,7 +33,7 @@ contributes:
       # This format use a bst file with natbib
       biblio-style: te
       cite-method: biblatex
-      biblatexoptions: "backend=biber,style=authoryear,maxnames=99,doi=true,url=true,isbn=true,date=long"
+      biblatexoptions: "backend=biber,style=authoryear,maxnames=99,doi=true,url=true,isbn=true,date=iso"
       # Set this below (`biblio-config: false`) if your cls already load a bst file
       # biblio-config: false
       # Content to add in header that your format is using
