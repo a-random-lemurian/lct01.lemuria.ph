@@ -312,6 +312,10 @@ During work on this paper, we authored a small Golang command-line tool to read 
 
 The code is rudimentary and unpolished, but we hope to release it eventually to allow transparency and reproducibility.
 
+```{=latex}
+\newpage
+```
+
 ## New species
 We also present additional species descriptions of the taxa we have covered.
 
@@ -348,15 +352,17 @@ First public description (first public desc.) indicates that this paper is the f
   * **Original**: <https://kateevadesigns.com/wp-content/uploads/2019/09/9a19be8e-4b8a-472f-9f03-1b917380098c.jpg>
   * **IA**: <https://web.archive.org/web/20260315224227/https://kateevadesigns.com/wp-content/uploads/2019/09/9a19be8e-4b8a-472f-9f03-1b917380098c.jpg>
 
-**Description**: Flat neckline. Sleeves typical to that of Kewoidea. Medial torso segment of neckline superior to sleeve segment of neckline. Dorsal medial zipper, sky blue. Straps extended by unspecified number of inches. Neckline lowered ventrally, and to a greater degree dorsally. Skirt drapes, terminates inferior to knee. ***Fabric.*** Ex-designer fabric, from Fabric Godmother pop up at New Craft House. Purchased c. 2018 by Eva. Shell pattern with pale sky blue background and scallop-like print, white background with black border and lines. ***Lining.*** Bluish pink gossamer crepe on bodice. Skirt fully unlined.
+**Description**: Flat neckline. Sleeves typical to that of Kewoidea. Medial torso segment of neckline superior to sleeve segment of neckline. Dorsal medial zipper, sky blue. Straps extended by unspecified number of inches. Neckline lowered ventrally, and to a greater degree dorsally. Skirt drapes, terminates inferior to knee. **Fabric.** Ex-designer fabric, from Fabric Godmother pop up at New Craft House. Purchased c. 2018 by Eva. Shell pattern with pale sky blue background and scallop-like print, white background with black border and lines. **Lining.** Bluish pink gossamer crepe on bodice. Skirt fully unlined.
 
 **Etymology**: Feminine form of *valentino*.
 
 **Specimens examined**:
 
 * Holotype.
-* *Eva 3222FV*^[Derived from `0xc96` converted to decimal.] &mdash; Photograph. 1440&times;1440. EXIF metadata stripped; exposure, f-stop, lens foc. len unknown. United Kingdom, London. Dorsal half-body view . ***Original***: <https://kateevadesigns.com/wp-content/uploads/2019/09/c573e2db-5b6d-4658-8832-2b6145a9ec96.jpg>; ***IA***: <https://web.archive.org/web/20260316080324/https://kateevadesigns.com/wp-content/uploads/2019/09/c573e2db-5b6d-4658-8832-2b6145a9ec96.jpg>;
+* ***Eva 3222FV***^[Derived from `0xc96` converted to decimal.] &mdash; Photograph. 1440&times;1440. EXIF metadata stripped; exposure, f-stop, lens foc. len unknown. United Kingdom, London. Dorsal half-body view.
   * **SHA2-256**: `c4b0476878da7f7011d353fed70da76235731be5edd1416c21203809c74291af`
+  * **Original**: <https://kateevadesigns.com/wp-content/uploads/2019/09/c573e2db-5b6d-4658-8832-2b6145a9ec96.jpg>;
+  * **IA**: <https://web.archive.org/web/20260316080324/https://kateevadesigns.com/wp-content/uploads/2019/09/c573e2db-5b6d-4658-8832-2b6145a9ec96.jpg>;
 
 ### Genus *Helikewisia* {#sec-genus-helikewisia}
 #### *Helikewisia aemilia* {#sec-h-aemilia}
@@ -381,7 +387,7 @@ Ventral view. *Helikewisia aemilia* wb. Emily, 2017.
 **Specimens examined**:
 
 * Holotype.
-* *Emily 3670HA* &mdash;
+* ***Emily 3670HA*** &mdash;
 Photograph. 1184&times;1480.
 Exposure: 1/80s. F-stop: 2. Focal: 23 mm. Lens: unknown. Camera: Fujifilm X100T.
 Dorsal view. *Helikewisia aemilia* wb. Emily, 2017.
@@ -398,6 +404,28 @@ Dorsal view. *Helikewisia aemilia* wb. Emily, 2017.
 
 #### *Helikewisia ceciliae* {#sec-h-ceciliae}
 ***Helikewisia ceciliae*** Lemuria, 2026; first public desc.
+
+**Holotype**: *Cecilia 849728HC* &mdash; Photograph.
+1080&times;1080.
+EXIF metadata stripped; exposure, f-stop, lens foc. len unknown.
+United Kingdom, London, Kew, Kew Gardens.
+Angled ventral view, roughly 45&deg; horizontal, 45&deg; vertical, subject on stairs. *Helikewisia ceciliae* wb. Cecilia.C., 2018.
+&copy; Cecilia Cook or unknown photographer, 2017, all rights reserved.
+
+* **Raw image URLs**
+  * **IA**: <https://web.archive.org/web/20260318084447/https://scontent.fmnl35-1.fna.fbcdn.net/v/t1.6435-9/38796551_2234719783416504_779248449227849728_n.jpg?_nc_ohc=OfvYHoRETDIQ7kNvwGegeMe&_nc_oc=AdkuqDYsozC3fEwo02nMCm-dwyBiAQmRw-KsWR-1xgDLFo1nRiLEyiLr78MbWb6UOJQ&_nc_zt=23&_nc_ht=scontent.fmnl35-1.fna&_nc_gid=nqbWH-IXJHbF6PSN-NvPOg&_nc_ss=8&oh=00_AfwMIGiSC8FvYlPD4FjhqdZm52v_78oVvwDlvPKQf6WK9w&oe=69E1D8BB>
+
+**Description**: Shallow-angle V-neck. Bilateral single straps. Straps 2 in (5.08 cm) longer. Ventral medial button row. Buttons fabric-covered, ~12 buttons visible; some buttons in holotype image obscured by skirt. Skirt termination point unknown due to angle of holotype image. **Fabric.** Jennifer crepe from Sew Me Sunshine, sunshine yellow background. Monochrome black and white floral line art print. Flower most closely resembles Chrysanthemum &times; morifolium (Ramat.) Hemsl.
+
+**Etymology**: Cecilia + *-ae*, feminine genitive suffix.
+
+**Specimens examined**:
+
+* Holotype.
+
+**Remarks**:
+
+* The Internet Archive is capable of capturing Meta CDN links. Though they lack long-term reproducibility, the Internet Archive can retrieve the same bytes, effectively "freezing" the image in time. We are thus able to maintain reproducibility for the Meta CDN, but here, we advise that the Internet Archive URL should be considered the canonical URL; the Meta CDN url is not expected to be reproducible long-term and is only included for reference.
 
 #### *Helikewisia erinae* {#sec-h-erinae}
 ***Helikewisia erinae*** Lemuria, 2026; first public desc.
@@ -844,8 +872,7 @@ Angled lateral view. Buttons 3&ndash;12 visible.
 * ***Marie 2494KM*** &mdash;
 Photograph. 2346&times;3128.
 EXIF metadata stripped; exposure, f-stop, lens foc. len unknown.
-Ventral view, laid out on table. 
-*Kewisia mariae* wb. Marie.K., 2018.
+Ventral view, laid out on table.
 &copy; Marie Koupparis or unknown photographer, 2018, all rights reserved.
   * **Page**: See @koupparis2018
   * **SHA2-256**: `a1ce2b1ee666410ab671b217b926067b0fa7b045d51d30de50cab4112b4168d8`
@@ -874,6 +901,7 @@ Ventral view, laid out on table.
 
 **Holotype**: *Rothery 613D/KL* &mdash; Photograph. EXIF metadata stripped; exposure, f-stop, lens foc. len. unknown. United Kingdom. *Kewpepla lornae* on wooden hanger held by Rothery. &copy; Lorna Rothery or Lorna Malkin (name seen in EXIF data; see @sec-malkin), 2020, all rights reserved.
 
+* **SHA2-256**: `827245bb3491960ea11f5a40fc7e4b966c335abef490c1ddc2cff5067ccc5522`
 * **Page**: See @rothery_kew_2020-05.
   * **Original**: <https://lornarothery.com/wp-content/uploads/2020/05/7bd2d058-6968-4c5f-8163-c195a33c613d.jpg>
   * **IA**: <https://web.archive.org/web/20260317104813/https://lornarothery.com/wp-content/uploads/2020/05/7bd2d058-6968-4c5f-8163-c195a33c613d.jpg>
@@ -886,6 +914,7 @@ Ventral view, laid out on table.
 
 * Holotype.
 * ***Rothery E530/KL*** &mdash; Photograph. United Kingdom. wb. Lorna.R., &copy; Lorna Rothery or Lorna Malkin (name seen in EXIF data; see @sec-malkin), 202, all rights reserved.
+  * **SHA2-256**: `a48b736b7bb47f251db41d827ca4d7024fb4882889178347d65276eddb153ca5`
   * **Original**: <https://lornarothery.com/wp-content/uploads/2020/05/165d5796-3a33-4292-a302-c1f879b4e530.jpg>
   * **IA**: <https://web.archive.org/web/20260317104650/https://lornarothery.com/wp-content/uploads/2020/05/165d5796-3a33-4292-a302-c1f879b4e530.jpg>
 
@@ -897,24 +926,35 @@ Ventral view, laid out on table.
 #### *Kewpepla lornaebis* {#sec-kp-lornaebis}
 ***Kewpepla lornaebis*** Lemuria, 2026; first public desc.
 
-**Holotype**:
+**Holotype**: *Rothery 8861KL* &mdash;
+Photograph. 3024&times;3024.
+Exposure: 1/50s. F-stop: 1.8. Focal: 4.0 mm. Lens: iPhone 7 back camera 3.99mm f/1.8. Camera: iPhone 7. 
+Ventral view, hair positioned ventrally and obscuring wearer's left.
+*Kewthea lornoblae* wb. Lorna.R., 2020.
+&copy; Lorna Rothery, 2020, all rights reserved.
 
+* **SHA2-256**: `64f8a8b8d6b0d38129abb2259e0c1fb8667c5e1a5f4633644158636c27875947`
 * **Page**: See @rothery_kew_2020-06
+* **Raw image URLs**
+  * **Original**: <https://lornarothery.com/wp-content/uploads/2020/06/img_8861.jpg>
+  * **IA**: <https://web.archive.org/web/20260318102735/https://lornarothery.com/wp-content/uploads/2020/06/img_8861.jpg>
 
-**Description**:  
+**Description**: Shallow-angle V-neck. Ventral medial row of 4 buttons. **Buttons.** Wooden-like material, two thread holes, thread line vertical. Thread holes lie in circular inset. Sourced from Minerva. Bodice in UK size 8, sleeve significantly shortened, terminates roughly parallel to first button. Pleated gathered section immediately inferior to fourth button. **Fabric.** Meadow Dim in Rayon from Art Gallery Fabrics. R-46302. 76 g / m2. Floral, 9 species, no known correlation to any botanical taxa. Est. 0.5 m of fabric used.
 
 **Etymology**: Lorna + *-ae*, feminine genitive suffix + *-bis* "twice", as it is the second *Kewpepla* sp. from Rothery to be described.
 
 **Remarks**:
 
-* We note a discrepancy in Lorna's family name in the EXIF metadata; see @sec-malkin.
+* This is Rothery's second make of a *Kewpepla*, published with a similar title as her first make, *Kewpepla lornae*. As such, confusion may ensue.
 
 ### Genus *Kewthea* {#sec-genus-kewthea}
 #### *Kewthea lornae* {#sec-kt-lornae}
 ***Kewthea lornae*** Lemuria, 2026; first public desc.
 
-**Holotype**: *Rothery 3618KL* &mdash; Photograph. 983&times;1748. Exposure 1/30s, f-stop 6.3, lens foc. len 18mm (35mm equiv. 33.5mm), ISO 400. Camera `Canon EOS 90D` with lens `EF-S18-55mm f/3.5-5.6 IS STM`. United Kingdom. *Kewthea lornae* wb. Lorna.R., 2025. **SHA2-256**: `eab2676a36834c7d23b82b731268c7a3dc0ca3dc8b33453d30990648369df092`. &copy; Lorna Rothery or Lorna Malkin (name seen in EXIF data; see @sec-malkin), 2025, all rights reserved. 
+**Holotype**: *Rothery 3618KL* &mdash; Photograph. 983&times;1748. Exposure 1/30s, f-stop 6.3, lens foc. len 18mm (35mm equiv. 33.5mm), ISO 400. Camera `Canon EOS 90D` with lens `EF-S18-55mm f/3.5-5.6 IS STM`. United Kingdom. *Kewthea lornae* wb. Lorna.R., 2025.
+&copy; Lorna Rothery or Lorna Malkin (name seen in EXIF data; see @sec-malkin), 2025, all rights reserved. 
 
+* **SHA2-256**: `eab2676a36834c7d23b82b731268c7a3dc0ca3dc8b33453d30990648369df092`.
 * **Page**: See @rothery_perfect_2025
 * **Raw image URLs**
   * **Original**: <https://lornarothery.com/wp-content/uploads/2025/07/img_3618-1.jpg>
@@ -945,13 +985,13 @@ Ventral view, laid out on table.
 #### *Kewthea lornoblae* {#sec-kt-lornoblae}
 ***Kewthea lornoblae*** Lemuria, 2026; first public desc.
 
-**Holotype**:
-
 #### *Kewthea luscinia* {#sec-kt-luscinia}
 ***Kewthea luscinia*** Lemuria, 2026; first public desc.
 
-**Holotype**: *Procter 0005KL* &mdash; Photograph. 1365&times;2048. EXIF metadata stripped; exposure, f-stop, lens foc. len unknown. United Kingdom. Ventral view. ***SHA2-256***: `89aa8f34f0e84ad09bb11d3893802b1cd300eb0cdb6b67fac5e5ad99d98bc175`. *Kewthea luscinia* wb. Ruth.Pr., 2019. &copy; Ruth Procter, 2019, all rights reserved.
+**Holotype**: *Procter 0005KL* &mdash; Photograph. 1365&times;2048. EXIF metadata stripped; exposure, f-stop, lens foc. len unknown. United Kingdom. Ventral view. 
+*Kewthea luscinia* wb. Ruth.Pr., 2019. &copy; Ruth Procter, 2019, all rights reserved.
 
+* **SHA2-256**: `89aa8f34f0e84ad09bb11d3893802b1cd300eb0cdb6b67fac5e5ad99d98bc175`.
 * **Page**: See @procter_kew_2019
 * **Raw image URLs**
   * **Original**: <https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTFuBwQrb4iHrqyA3EjhD2oW-6dgTD8dzk-lf6iBe3Qj4LFl3kOdR0upk68Tx72jI5l8S9gMVKewmD8M8zUYx3T5YE6Zorj6jSLSYtgwrmR2D8ONDK2JgUdDRpCvQcH7_ob5RizD5hqig/s0/Nina-Lee-Kew-Dress-Sewing-Pattern-Expansion-Pack-5.JPG=s0?imgmax=0>
@@ -966,8 +1006,10 @@ Ventral view, laid out on table.
 #### *Kewthea evae* {#sec-kt-evae}
 ***Kewthea evae*** Lemuria, 2026
 
-**Holotype**: *Eva 2947KE* &mdash; Photograph. 900&times;900. EXIF metadata stripped; exposure, f-stop, lens foc. len unknown. Mirror selfie. Ventral view. **SHA2-256**: ``. *Kewthea evae* wb. Eva, 2019. &copy; Kate Eva, 2019, all rights reserved.
+**Holotype**: *Eva 2947KE* &mdash; Photograph. 900&times;900. EXIF metadata stripped; exposure, f-stop, lens foc. len unknown. Mirror selfie. Ventral view. 
+*Kewthea evae* wb. Eva, 2019. &copy; Kate Eva, 2019, all rights reserved.
 
+* **SHA2-256**: `79d6e4321fd0295ceb7bc6434aec7596c2a4c2b83e3e7b265d704891dc8eb14f`.
 * **Page**: See @eva_autumnal_2018.
 * **Raw image URLs**
   * **Original**: <https://kateevadesigns.com/wp-content/uploads/2018/09/img_2947.jpg>
@@ -980,7 +1022,8 @@ Ventral view, laid out on table.
 **Specimens examined**:
 
 * Holotype.
-* ***Eva 0120KE*** &mdash; Photograph. 1536&times;2048. EXIF metadata stripped; exposure, f-stop, lens foc. len unknown. Ventral view. Jacket worn over dress (unclassified). **SHA2-256**: ``. *Kewthea evae* wb. Eva, 2019. &copy; Kate Eva or unknown photographer, 2019, all rights reserved.
+* ***Eva 0120KE*** &mdash; Photograph. 1536&times;2048. EXIF metadata stripped; exposure, f-stop, lens foc. len unknown. Ventral view. Jacket worn over dress (unclassified). *Kewthea evae* wb. Eva, 2019. &copy; Kate Eva or unknown photographer, 2019, all rights reserved.
+  * **SHA2-256**: `4cf40acd6dde11352f2cf0b993849f641ae94e3064991184f0f053ceaa81914b`.
   * **Original**: <https://kateevadesigns.com/wp-content/uploads/2018/10/img_0120.jpg>
   * **IA**: <https://web.archive.org/web/20260317080030/https%3A//kateevadesigns.com/wp-content/uploads/2018/10/img_0120.jpg>
 
@@ -1046,8 +1089,10 @@ Ventral view. Denim jacket (unclassified) worn above dress, tied together at inf
 #### *Kewasalia pimsia* {#sec-k-pimsia}
 ***Kewasalia pimsia*** sp. nov.
 
-**Holotype**: *Pimsy 0001KP* Photograph. 801&times;1184. EXIF metadata stripped; exposure, f-stop, lens foc. len unknown. Screenshotted by Chang-Smith, inferred from filename. Unknown location. Ventral view. Subject's head is to her right. Left strap (wearer's perspective) slightly obscured by ventrally positioned hair. Legs slightly crossed, obscuring medial interlimb space. ***SHA2-256***: `3a1763dad87fa6f2dc2edef01c20db87e5e65f2f4f0e6e46bee83ce3ba49e7d0`. *Kewasalia pimsia* wb. &commat;pimsyfaitdestrucs, c. 2018.  &copy; unknown, unknown year, all rights reserved.
+**Holotype**: *Pimsy 0001KP* &mdash; Photograph. 801&times;1184. EXIF metadata stripped; exposure, f-stop, lens foc. len unknown. Screenshotted by Chang-Smith, inferred from filename. Unknown location. Ventral view. Subject's head is to her right. Left strap (wearer's perspective) slightly obscured by ventrally positioned hair. Legs slightly crossed, obscuring medial interlimb space.
+*Kewasalia pimsia* wb. &commat;pimsyfaitdestrucs, c. 2018.  &copy; unknown, unknown year, all rights reserved.
 
+* **SHA2-256**: `3a1763dad87fa6f2dc2edef01c20db87e5e65f2f4f0e6e46bee83ce3ba49e7d0`.
 * **Page**: See @chang-smith_kew_2018.
 * **Raw image URLs**
   * **Original**: <https://cdn.shopify.com/s/files/1/0725/7833/5029/files/Screen-Shot-2018-08-07-at-13_20_04.jpg>
@@ -1062,8 +1107,10 @@ Ventral view. Denim jacket (unclassified) worn above dress, tied together at inf
 #### *Trunkewia ninae* {#sec-t-ninae}
 ***Trunkewia ninae*** Lemuria, 2026; first public desc.
 
-**Holotype**: *Nina 0296TN* &mdash; Photograph. 2668&times;3707. EXIF metadata stripped; exposure, f-stop, lens foc. len unknown. United Kingdom, London. Zoomed-out view. Right strap (wearer's perspective) slightly obscrubed by ventrally positioned hair. ***SHA2-256***: `a8962c67667a028febbd6b9bbfa1a6af25f3296a2fbf430f7cde3a5ecbb56a22`. *Trunkewia ninae* wb. Nina, 2018. &copy; Nina Chang-Smith or unknown photographer, 2018, all rights reserved.
+**Holotype**: *Nina 0296TN* &mdash; Photograph. 2668&times;3707. EXIF metadata stripped; exposure, f-stop, lens foc. len unknown. United Kingdom, London. Zoomed-out view. Right strap (wearer's perspective) slightly obscrubed by ventrally positioned hair.
+*Trunkewia ninae* wb. Nina, 2018. &copy; Nina Chang-Smith or unknown photographer, 2018, all rights reserved.
 
+* **SHA2-256**: `a8962c67667a028febbd6b9bbfa1a6af25f3296a2fbf430f7cde3a5ecbb56a22`.
 * **Page**: See @chang-smith_kew_2018.
 * **Raw image URLs**
   * **Original**: <https://cdn.shopify.com/s/files/1/0725/7833/5029/files/IMG_0296-1.jpg>
@@ -1161,6 +1208,10 @@ In this paper, we used the following person abbreviations.
 * **Parker** &mdash; Fiona Parker, British sewist, author of the blog *Diary of a Chain Stitcher* (<https://chainstitcher.blogspot.com/>)
 * **Rachael** &mdash; Rachael, author of the blog *Sew Prettyful*
 * **Ruth.Pr.** &mdash; Ruth Procter, author of the blog *Nightingale & Dolittle*
+* **Sally of M.** &mdash; Sally, author of the blog *Modista Sewing*. Her last name is unknown, as such, we use a genitive disambiguator. Short form of *Sally of Modista*.
+
+#### Botanical abbreviations
+These botanical abbreviations were used
 
 ### Image specimen list
 We present a list of the image specimen identifiers we have assigned in this paper for ease of reference or future database creation.
@@ -1197,6 +1248,7 @@ We present a list of the image specimen identifiers we have assigned in this pap
 * *Rothery 3618KL*
 * *Rothery 613D/KL*
 * *Rothery E530/KL*
+* *Rothery 8861KL*
 * *Yarngasm 281* (V)
 ```{=latex}
 \end{multicols}
