@@ -1419,7 +1419,13 @@ In this paper, we used the following person abbreviations.
 * **Sally of M.** &mdash; Sally, author of the blog *Modista Sewing*. Her last name is unknown, as such, we use a genitive disambiguator. Short form of *Sally of Modista*.
 
 #### Botanical abbreviations
-These botanical abbreviations were used
+These botanical abbreviations were used:
+
+* **L.** &mdash; Carl Linnaeus
+* **Thunb.** &mdash; Carl Peter Thunberg
+* **Cronquist** &mdash; Cronquist
+* **Takht** &mdash; Armen Takhtajian
+* **W.Zimm.** &mdash; Walter Max Zimmermann
 
 ### Image specimen list
 We present a list of the image specimen identifiers we have assigned in this paper for ease of reference or future database creation.
