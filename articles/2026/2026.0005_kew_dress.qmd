@@ -174,6 +174,11 @@ A matrix of Kew species. An emdash (&mdash;) indicates that a specific skirt&nda
 \begin{multicols}{2}
 ```
 
+### Population and distribution
+So far, the Kew dresses cluster primarily in the United Kingdom, the source of the pattern, and to a lesser extent, the United States. 
+
+Google results for "nina lee kew dress" claim some 114,000 results, while "nina lee kew" claims 536,000 results. 
+
 ### Bodices
 The vast majority of the Kew dresses, with the exception of *Kewabotonia*, feature a ventral medial (center front) button row. Button counts vary with the wearer; from as low as zero (the defining characteristic of *Kewabotonia*), to ~17 (as seen on the line art in @chang-smith_kew_nodate), of which five are on the bodice and the remaining 12 are on the skirt.
 
@@ -217,11 +222,13 @@ Helikewbellini (see @sec-kewbello) is monotypic, containing the genus *Helikewbe
 
 Helikewini is divided into three genera, based on the three skirt options; *Helikewisia*, *Helikewplicata*, and *Helikewparabola*. Like Kewidae, only *Helikewisia* is populated with species.
 
-*Helikewisia* contains four species;
+*Helikewisia* contains six species;
 *aemilia* wb. Emily, 2017, see @sec-h-aemilia;
 *ceciliae* wb. Cecilia, 2018, see @sec-h-ceciliae;
 *erinae* wb. Erin.M., 2021, see @sec-h-erinae;
 *irvinae* wb. Alice.Ir., 2020, see @sec-h-irvinae;
+*arbor* wb. Emma of N., 2019, see @sec-h-arbor;
+*quagga* wb. Emma of N. and unknown friend, 2019, see @sec-h-quagga;
 
 We also describe the new species *Helikewisia kristinae*, Lehrer's first make of the Kew dress, previously unknown. We became aware of it while reviewing holotype material for *Kewisia kristinae*. See @sec-h-kristinae.
 
@@ -475,12 +482,55 @@ Angled ventral view, roughly 45&deg; horizontal, 45&deg; vertical, subject on st
 #### *Helikewisia kristinae* {#sec-h-kristinae}
 ***Helikewisia kristinae*** Lemuria, sp. nov.
 
+### Genus *Helikewisia* subg. *Emmae* {#sec-h-subg-emmae}
+In August 2019, Emma, the author of the blog *Crafty Clyde*, sewed three Kew dresses; two of which have a ventral medial button row. We place the new species *H. arbor* and *H. quagga* into the subgenus *Emmae*.
+
+#### *Helikewisia arbor* {#sec-h-arbor}
+***Helikewisia arbor*** sp. nov.
+
+#### *Helikewisia quagga* {#sec-h-quagga}
+***Helikewisia quagga*** sp. nov.
+
+**Holotype**: *Emma K01/HQ* &mdash;
+Photograph. 1067&times;2048.
+Exposure: unknown. F-stop: unknown. Focal: unknown. ISO: unknown. Lens: unknown. Camera: unknown.
+Dress on mannequin.
+&copy; Emma of *Crafty Clyde*, 2019, all rights reserved.
+
+* **Page**: @emma2019
+* **SHA2-256**: `81faf393fa07bc693730e7a261e4286fb5a9fa406babb6be6bd883fc8e0bd9c9`
+* **Raw image URLs**
+  * **Original**:
+  * **IA**:
+
+**Description**: Shallow-angle V neck. Bilateral pockets. 
+**Buttons.** Ventral medial button row, approx. 11&ndash;12 buttons. Three on bodice, one roughly parallel to bodice&ndash;skirt transition line. 7&ndash;8 on skirt.Dark orange. Four thread holes, circular inset. Thread hole alignment variable.
+**Fabric.** Cotton fabric from Fabrics Galore. Yellow background. Zebra print (*Equus quagga* Boddaert, 1785).
+
+**Etymology**: From the specific name of *Equus quagga* Boddaert, 1785, due to the zebra print.
+
+**Remarks**:
+
+* The inferiormost button is unfastened in *Emma K01/HQ*, and the fabric drape conceals it, if it exists. Thus, its existence cannot be proven.
+* *Emma K01/HQ* only shows the dress on a mannequin; there is no human body for reference, so the length of the skirt cannot be determined.
+* Emma sewed the dress for her sister.
+
+**Specimens examined**: See holotype information.
+
+### Genus *Helikewabotonia* {#sec-genus-helikewabotonia}
+One of the Kew dresses sewn by Emma [@emma2019] lacks the ventral medial button row, thus warranting the new genus *Helikewabotonia*.
+
+#### *Helikewabotonia stadile* {#sec-h-stadile}
+***Helikewabotonia stadile*** sp. nov.
+
 ### Genus *Kewabotonia* {#sec-genus-kewabotonia}
 #### *Kewabotonia zingibera* {#sec-k-zingibera}
 ***Kewabotonia zingibera*** Lemuria, 2026; first public desc.
 
-**Holotype**: *Gingerthread 0212KZ* &mdash; Photograph. 1200&times;1800. EXIF metadata stripped; exposure, f-stop, lens foc. len unknown. United Kingdom. Ventral full-body view. Tied hair. Arms spread laterally. *Kewabotonia zingibera* wb. Gingerthread, 2018. SHA2-256: `b4d1008027f701f3b22f523bdc3796e64a0cb99ddb17cfd27c186d3d79849bc4`. &copy; Jen Walker or unknown photographer, 2018, all rights reserved.
+**Holotype**: *Gingerthread 0212KZ* &mdash; Photograph. 1200&times;1800. EXIF metadata stripped; exposure, f-stop, lens foc. len unknown. United Kingdom. Ventral full-body view. Tied hair. Arms spread laterally. *Kewabotonia zingibera* wb. Gingerthread, 2018.
+&copy; Jen Walker or unknown photographer, 2018, all rights reserved.
 
+* **SHA2-256**: `b4d1008027f701f3b22f523bdc3796e64a0cb99ddb17cfd27c186d3d79849bc4`.
 * **Page**: See @walker_kewhack_2018.
 * **Raw image URLs**
   * **Original**: <https://cdn.shopify.com/s/files/1/0725/7833/5029/files/IMG_0212.jpg>
@@ -936,8 +986,44 @@ Ventral view, laid out on table.
 #### *Kewisia modistaflora* {#sec-k-modistaflora}
 ***Kewisia modistaflora*** Lemuria, 2026; first public desc.
 
+**Holotype**: *Sally M40C8B-KR* &mdash;
+Photograph. 2048&times;2048.
+Exposure: unknown. F-stop: unknown. Focal: unknown. ISO: unknown. Lens: unknown. Camera: unknown.
+Collage. Left panel ventral view, right panel angled dorsal view, subject on stairs. Hair terminates superior to collarbone.
+*Kewisia modistaflora* wb. Sally of M., unknown.
+&copy; Sally of Modista Sewing, unknown, all rights reserved.
+
+* **Page**: See @modistasewing2020
+* **SHA2-256**: `f51f778838d18bf96f628bca17d327e0363d2b8008e03150e2e1277e5bcc67d8`
+* **Raw image URLs**
+  * **Original**: <https://modistasewing.wordpress.com/wp-content/uploads/2020/06/0bcc5ecb-0e67-445d-9415-468f7bf40c8b.jpg>
+  * **IA**: <https://web.archive.org/web/20260318222032/https://modistasewing.wordpress.com/wp-content/uploads/2020/06/0bcc5ecb-0e67-445d-9415-468f7bf40c8b.jpg>
+
+**Description**: Shallow-angle V-neck. Bilateral single straps. Skirt terminates inferior to knee. shoulder sleeve inverted. **Buttons.** Button count inconclusive due to image quality. **Fabric.** Cotton lawn from Abakhan. Black background. Floral; yellow and pink flowers.
+
+**Specimens examined**: See holotype information.
+
 #### *Kewisia modistarubera* {#sec-k-modistarubera}
 ***Kewisia modistarubera*** Lemuria, 2026; first public desc.
+
+**Holotype**: *Sally M8644KR* &mdash;
+Photograph. 1241&times;3353.
+Exposure: 1/33s. F-stop: 1.8. Focal: 3.99 mm. ISO: unknown. Lens: iPhone 7 back camera 3.99mm f/1.8. Camera: iPhone 7. 
+Ventral view, mirror selfie.
+*Kewisia modistarubera* wb. Sally of M., 2019.
+&copy; Sally of Modista Sewing, 2019, all rights reserved.
+
+* **Page**: See @modistasewing2020
+* **SHA2-256**: `d94142e9d1d2e4875b26f3917df933bfce1c96e5e0e04679ca3322e9eb16ff92`
+* **Raw image URLs**
+  * **Original**: <https://modistasewing.wordpress.com/wp-content/uploads/2020/06/img_8644.jpg>
+  * **IA**: <https://web.archive.org/web/20260318220504/https://modistasewing.wordpress.com/wp-content/uploads/2020/06/img_8644.jpg>
+
+**Description**: Shallow-angle V-neck. Bilateral single straps. Skirt terminates slightly inferior to knee. **Buttons.** Ventral medial row of 6 buttons. Circular, two thread holes, horizontal. Three on bodice, three on skirt. **Fabric.** Red stretch jacquard from Abakhan. Raised embroidery.
+
+**Specimens examined**: See holotype information.
+
+**Remarks**: After Sally wore her *K. modistaflora* to a 2019 wedding in Scotland, the dress proved popular amongst her friends; and one of them requested a red Kew dress from her. She was unable to photograph the friend wearing it, leaving the mirror selfie as the only available type.
 
 #### *Kewisia rachaelae* {#sec-k-rachaelae}
 ***Kewisia rachaelae*** Lemuria, 2026; first public desc.
@@ -1457,9 +1543,13 @@ An expanded polyphyletic tree of the Kew dresses. New Kewbello taxa in bold ital
 ### Person abbreviations
 In this paper, we used the following person abbreviations.
 
+```{=latex}
+\begin{multicols}{2}
+```
 * **Alice.Ir.** &mdash; Alice Irvine
 * **Bernice** &mdash; Bernice (Instagram: &commat;sewbee73), a sewist based in the San Francisco Bay Area.
 * **Erin.M.** &mdash; Erin Madalone (Instagram: &commat;poeticmemorysewing), an American sewist based in New Jersey.
+* **Emma of N.** &mdash; Emma, author of *Crafty Clyde*. As her last name is unavailable, we assign her the LCT-01 disambiguated name Emma of Norfolk, shortened to Emma of N.
 * **Eva** &mdash; Kate Eva
 * **Gingerthread** &mdash; Gingerthread Girl (Jen Walker)
 * **Lehrer** &mdash; Kristin Lehrer, known online as Voolenvine
@@ -1468,13 +1558,19 @@ In this paper, we used the following person abbreviations.
 * **Marie.K.** &mdash; Marie Koupparis of *A Stitching Odyssey*
 * **Nina** &mdash; Nina Chang-Smith
 * **Parker** &mdash; Fiona Parker, British sewist, author of the blog *Diary of a Chain Stitcher* (<https://chainstitcher.blogspot.com/>)
-* **Rachael** &mdash; Rachael, author of the blog *Sew Prettyful*
+* **Rachael** &mdash; Rachael Beaumont, author of the blog *Sew Prettyful*
 * **Ruth.Pr.** &mdash; Ruth Procter, author of the blog *Nightingale & Dolittle*
 * **Sally of M.** &mdash; Sally, author of the blog *Modista Sewing*. Her last name is unknown, as such, we use a genitive disambiguator. Short form of *Sally of Modista*.
+```{=latex}
+\end{multicols}
+```
 
 #### Botanical abbreviations
 These botanical abbreviations were used:
 
+```{=latex}
+\begin{multicols}{2}
+```
 * **L.** &mdash; Carl Linnaeus
 * **Thunb.** &mdash; Carl Peter Thunberg
 * **Cronquist** &mdash; Cronquist
@@ -1482,6 +1578,9 @@ These botanical abbreviations were used:
 * **W.Zimm.** &mdash; Walter Max Zimmermann
 * **Leichtlin** &mdash; Max Leichtlin
 * **Lam.** &mdash; Jean-Baptiste Lamarck
+```{=latex}
+\end{multicols}
+```
 
 ### Image specimen list
 We present a list of the image specimen identifiers we have assigned in this paper for ease of reference or future database creation.
