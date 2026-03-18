@@ -800,6 +800,59 @@ YARNGASM： Episode 281 - ＂There's Been Spinning＂ [O66xjOf4DhM].mkv
 #### *Kewisia lizae* {#sec-k-lizae}
 ***Kewisia lizae*** Lemuria, 2026; first public desc.
 
+**Holotype**: *Liz GCS2018/004KL* &mdash;
+Photograph 1800&times;2048. PNG.
+EXIF metadata stripped; exposure, f-stop, lens foc. len unknown.
+*Kewisia lizae* wb. Liz of G., 2018.
+Zoomed out angled ventral view. Hair positioned dorsally. Subject interacting with *Ficus carica* L.
+&copy; Liz of *Girl Can Sew* or unknown photographer, 2018, all rights reserved.
+
+* **Page**: See @
+* **SHA2-256**: `4d0e2020c3e69548761f8881c493e15eb6b52abecdc3ff1ec084c6e6e95888ef`
+* **Raw image URLs**
+  * **Original**: <https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSRIQVOGfqGiY41H2S3oQjjbDYUBGW3hH2kaKgs32_enX2VI9YLYILKit6V4uXEZWeMrp9px0Jb4WrEUjf_A3JhZzea7eVOs7CmE_U2KJVJ0p0CsvILDsmxuK-eM_zRkevs5Aqw7LxRXA/s1600/kew+dress+fig.png>
+  * **IA**: <https://web.archive.org/web/20260318201220/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSRIQVOGfqGiY41H2S3oQjjbDYUBGW3hH2kaKgs32_enX2VI9YLYILKit6V4uXEZWeMrp9px0Jb4WrEUjf_A3JhZzea7eVOs7CmE_U2KJVJ0p0CsvILDsmxuK-eM_zRkevs5Aqw7LxRXA/s1600/kew+dress+fig.png>
+
+**Description**: Shallow angle V-neck. Ventral medial button row. Superior edge of strap slightly inferior to superior edge of bodice.
+**Buttons.** 14 buttons. Possible 15th button, most inferior, uncertain due to image angles. Yellow, floral-shaped edges, two thread holes, aligned mostly horizontally. Sourced from Walthamstow Market.
+**Fabric.** Cotton with meadow print, gray/brown background. Grass, flora. Species include but not limited to *Leucanthemum vulgare* Lam., orange flowers most likely  *Calendula officinalis* though pistil is white. Pink and orange stylized depictions of *Amanita muscaria*. (L.) Lam. (1783), and *Muscari armeniacum* Leichtlin.
+
+**Etymology**: Liz + *-ae*, feminine genitive suffix.
+
+**Specimens examined**:
+
+* ***Liz GCS2018/001KL*** &mdash;
+Photograph 2048&times;1710. PNG.
+EXIF metadata stripped; exposure, f-stop, lens foc. len unknown.
+*Kewisia lizae* wb. Liz of G., 2018.
+Truncated ventral view, from neckline to sixth button.
+&copy; Liz of *Girl Can Sew* or unknown photographer, 2018, all rights reserved.
+  * **SHA2-256**: `2917f507f50e9dcfd28ef9c852e9bd93b1278d98922b9e3372b28f6d931719b5`
+  * **Raw image URLs**
+    * **Original**: <https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAfGLBo7XXYtJiIekZCHC_tIcdhCwxIQq_hmUru6QuosQ51fK2fFHOWlOj8lPCZIkcQhLw8YwIDUusJ-IFxYv0OkEkNP_nZedAOIdbfvUOVuJsPzFuqqV4BqTn2tUtaCGbVQUcKWiiVto/s0/kew+close+up.png=s0?imgmax=0>
+    * **IA**: <https://web.archive.org/web/20260318202213/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAfGLBo7XXYtJiIekZCHC_tIcdhCwxIQq_hmUru6QuosQ51fK2fFHOWlOj8lPCZIkcQhLw8YwIDUusJ-IFxYv0OkEkNP_nZedAOIdbfvUOVuJsPzFuqqV4BqTn2tUtaCGbVQUcKWiiVto/s0/kew+close+up.png=s0?imgmax=0>
+* ***Liz GCS2018/002KL*** &mdash;
+Photograph 1264&times;2048. PNG.
+EXIF metadata stripped; exposure, f-stop, lens foc. len unknown.
+*Kewisia lizae* wb. Liz of G., 2018.
+Zoomed out ventral view. Hair tied, wearer's left strap obscured. Subject looking upward at *Wisteria* L. plant in blue vase.
+&copy; Liz of *Girl Can Sew* or unknown photographer, 2018, all rights reserved.
+  * **SHA2-256**: `486862f315a8f307bf1691f90577ddc4f21f409d4c2a89b76693942c98db73af`
+  * **Raw image URLs**
+    * **Original**: <https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqmp9lLmXbE3UDWakmFKhVMgyJSpnF5tf_1RjFGDceMbZ8grPcLqPGCdEO1n77hL43nK7UgZBbTkKXyTCT_iRKi8EhpD7duJ4XJhwSDwZSOAt8WWlxxazwEIRUOffY7bAShX2ltg2tHMM/s0/kew+dress+wysteria.png=s0?imgmax=0>
+    * **IA**: <https://web.archive.org/web/20260318204902/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqmp9lLmXbE3UDWakmFKhVMgyJSpnF5tf_1RjFGDceMbZ8grPcLqPGCdEO1n77hL43nK7UgZBbTkKXyTCT_iRKi8EhpD7duJ4XJhwSDwZSOAt8WWlxxazwEIRUOffY7bAShX2ltg2tHMM/s0/kew+dress+wysteria.png=s0?imgmax=0>
+* ***Liz GCS2018/003KL*** &mdash;
+Photograph 1122&times;2048. PNG.
+EXIF metadata stripped; exposure, f-stop, lens foc. len unknown.
+*Kewisia lizae* wb. Liz of G., 2018.
+Zoomed out dorsal view. Hair positioned dorsally. Subject interacting with *Wisteria* L. plant in blue vase.
+&copy; Liz of *Girl Can Sew* or unknown photographer, 2018, all rights reserved.
+  * **SHA2-256**: `d83d649efb74a7296095e99ca8a871f8942b4f759f943514ce786534a26fbc14`
+  * **Raw image URLs**
+    * **Original**: <https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2tKHL-yMVyts7S9-ROPAVKPl_W5VI00Yuox9eM8wV6WFjMKHokyzP57lon_jZ1mKPOLsJDX2v56t5ngjQgpd-bW1syGJAZOiqnWSVo51cANw4ZJhVDJEvAI8IddaeB1x0ccwhTGG7yHw/s0/kew+dress+back.png=s0?imgmax=0>
+    * **IA**: <https://web.archive.org/web/20260318202027/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2tKHL-yMVyts7S9-ROPAVKPl_W5VI00Yuox9eM8wV6WFjMKHokyzP57lon_jZ1mKPOLsJDX2v56t5ngjQgpd-bW1syGJAZOiqnWSVo51cANw4ZJhVDJEvAI8IddaeB1x0ccwhTGG7yHw/s0/kew+dress+back.png=s0?imgmax=0>
+
+
 #### *Kewisia mariae* {#sec-k-mariae}
 ***Kewisia mariae*** Lemuria, 2026; first public desc.
 
@@ -1410,6 +1463,7 @@ In this paper, we used the following person abbreviations.
 * **Eva** &mdash; Kate Eva
 * **Gingerthread** &mdash; Gingerthread Girl (Jen Walker)
 * **Lehrer** &mdash; Kristin Lehrer, known online as Voolenvine
+* **Liz of G.** &mdash; Liz of the blog *Girl Can Sew*
 * **Lorna.R.** &mdash; Lorna Rothery (<https://lornarothery.com/>; abbreviated Lorna.R. in the LCT-01), is the most prolific sewist among the Kewthidae, with four documented specimens.
 * **Marie.K.** &mdash; Marie Koupparis of *A Stitching Odyssey*
 * **Nina** &mdash; Nina Chang-Smith
@@ -1426,6 +1480,8 @@ These botanical abbreviations were used:
 * **Cronquist** &mdash; Cronquist
 * **Takht** &mdash; Armen Takhtajian
 * **W.Zimm.** &mdash; Walter Max Zimmermann
+* **Leichtlin** &mdash; Max Leichtlin
+* **Lam.** &mdash; Jean-Baptiste Lamarck
 
 ### Image specimen list
 We present a list of the image specimen identifiers we have assigned in this paper for ease of reference or future database creation.
@@ -1449,6 +1505,10 @@ We present a list of the image specimen identifiers we have assigned in this pap
 * *Gingerthread 0212KZ*
 * *Irvine 0001HI*
 * *Lehrer 0001/G65Z*
+* *Liz GCS2018/004KL*
+* *Liz GCS2018/001KL*
+* *Liz GCS2018/002KL*
+* *Liz GCS2018/003KL*
 * *Madalone 4823HE*
 * *Madalone Inst-1HE*
 * *Marie 2451a-KM*
