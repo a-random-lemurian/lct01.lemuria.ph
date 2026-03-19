@@ -529,6 +529,69 @@ Photograph. 1080&times;1350. EXIF metadata stripped by Meta CDN.
   * **SHA2-256**: `e49d36f1d0da97a674453c3073e3437dab5835e8f4be30b1e2ba0a5808e38fee`
   * **IA**: <https://web.archive.org/web/20260319154052/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.2885-15/32203412_2115508038733054_3655784219990294528_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=MTc4NjUyMjU5NjAxMjA3MjI3OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTM1MC5zZHIuZGVmYXVsdF9pbWFnZS5DMyJ9&_nc_ohc=dRqDySO0u6wQ7kNvwGU3ovf&_nc_oc=AdpJH8WTAbtySRnddi8ij7ZEKr1SK1zXI-bvBZnBI0-NjGnQ9LIqTxoa0MFQsob6pS4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_ss=8&oh=00_AfxJnBJAutMp2fVzH8EAgnz_7LFzuzcHFbMpNxCX43ICGA&oe=69C1D48D>
 
+#### *Helikewisia sarae* {#sec-h-sarae}
+***Helikewisia sarae*** sp. nov.
+
+<!-- File: p1040082.jpg (HOLOTYPE INFO TEMPLATE FROM LCT01-HOLOTYPER)-->
+**Holotype**: *Sarah 0082.AU-TAS* &mdash;
+Photograph. 902&times;1280.
+Exposure: 1/60s. F-stop: 3.3. Focal: 4.30 mm. ISO: 100. Lens: unknown. Camera: DMC-TZ40. 
+*Helikewisia sarae* wb. Sarah of T., 2019.
+Ventral view, subject looking to right.
+&copy; Sarah of *Craftily Handmade*, 2019, all rights reserved.
+
+* **Page**: See @sarah_floral_2019
+* **SHA2-256**: `122bc658b0851718566a03e7a74bbb8c1b14f4464c65fe928ee9f5ab9de81690`
+* **Raw image URLs**
+  * **Original**: <https://craftilyhandmade.wordpress.com/wp-content/uploads/2019/02/p1040085.jpg>
+  * **IA**:
+
+**Description**: Shallow-angle V neck, bilateral single straps. Buttonholes made of white thread.
+**Buttons.** Ventral medial button row, 12 buttons. Two thread holes, thread line vertical, 
+**Fabric.** Floral rayon. White background. No known correspondence of artistic depictions to botanical taxa.
+
+**Remarks**:
+
+* The *Craftily Handmade* blog returns HTML previews of images, which has impeded archival in the Internet Archive's Wayback Machine.
+
+**Specimens examined**:
+
+<!-- File: p1040085.jpg (HOLOTYPE INFO TEMPLATE FROM LCT01-HOLOTYPER)-->
+* *Sarah 0085HS.AU-TAS*
+Photograph. 960&times;1280.
+Exposure: 1/60s. F-stop: 3.3. Focal: 4.30 mm. ISO: 100. Lens: unknown. Camera: DMC-TZ40. 
+*Helikewisia sarae* wb. Sarah of T., 2019.
+Angled ventral view, subject looking down.
+&copy; Sarah of *Craftily Handmade*, 2019, all rights reserved.
+  * **Page**: See @sarah_floral_2019
+  * **SHA2-256**: `b5aeadf6a255e68882965fbbe93f03231974fb02e199a6da3277f2c77cbdee42`
+  * **Raw image URLs**
+    * **Original**: <https://craftilyhandmade.wordpress.com/wp-content/uploads/2019/02/p1040088.jpg>
+    * **IA**:
+<!-- File: p1040087.jpg (HOLOTYPE INFO TEMPLATE FROM LCT01-HOLOTYPER)-->
+* *Sarah 0087HS.AU-TAS*
+Photograph. 960&times;1280.
+Exposure: 1/60s. F-stop: 3.3. Focal: 4.30 mm. ISO: 100. Lens: unknown. Camera: DMC-TZ40. 
+Dorsal view, hair positioned ventrally.
+*Helikewisia sarae* wb. Sarah of T., 2019.
+&copy; Sarah of *Craftily Handmade*, 2019, all rights reserved.
+  * **Page**: See @sarah_floral_2019
+  * **SHA2-256**: `0870318792544de291a1d5b8b74f8efb1c9e11bf5af062db37d19650f6822bec`
+  * **Raw image URLs**
+    * **Original**: <https://craftilyhandmade.wordpress.com/wp-content/uploads/2019/02/p1040082.jpg>
+    * **IA**:
+<!-- File: p1040088.jpg (HOLOTYPE INFO TEMPLATE FROM LCT01-HOLOTYPER)-->
+* *Sarah 0088HS.AU-TAS*
+Photograph. 960&times;1280.
+Exposure: 1/80s. F-stop: 5.6. Focal: 38.20 mm. ISO: unknown. Lens: unknown. Camera: DMC-TZ40. 
+Close ventral view of button row.
+&copy; Sarah of *Craftily Handmade*, 2019, all rights reserved.
+  * **Page**: See
+  * **SHA2-256**: `c6915eed7b3a04d442317a160b5c39f97bb71efd05427380c9db416a3d674aa4`
+  * **Raw image URLs**
+    * **Original**: <https://craftilyhandmade.wordpress.com/wp-content/uploads/2019/03/p1040087.jpg>
+    * **IA**:
+
 ### Genus *Helikewisia* subg. *Emmae* {#sec-h-subg-emmae}
 In August 2019, Emma, the author of the blog *Crafty Clyde*, sewed three Kew dresses; two of which have a ventral medial button row. We place the new species *H. arbor* and *H. quagga* into the subgenus *Emmae*.
 
@@ -1731,6 +1794,7 @@ In this paper, we used the following person abbreviations.
 * **Rachael** &mdash; Rachael Beaumont, author of the blog *Sew Prettyful*
 * **Ruth.Pr.** &mdash; Ruth Procter, author of the blog *Nightingale & Dolittle*
 * **Sally of M.** &mdash; Sally, author of the blog *Modista Sewing*. Her last name is unknown, as such, we use a genitive disambiguator. Short form of *Sally of Modista*.
+* **Sarah of T.** &mdash; Sarah, author of *Craftily Handmade*. As her last name is unavailable, we assign her the LCT-01 disambiguated name Sarah of Tasmania.
 ```{=latex}
 \end{multicols}
 ```
