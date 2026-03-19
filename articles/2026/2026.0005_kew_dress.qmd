@@ -487,6 +487,48 @@ Angled ventral view, roughly 45&deg; horizontal, 45&deg; vertical, subject on st
 #### *Helikewisia kristinae* {#sec-h-kristinae}
 ***Helikewisia kristinae*** Lemuria, sp. nov.
 
+**Holotype**: *Lehrer 2018.88823HKEW* &mdash; Photograph. 1080&times;1350. EXIF metadata stripped by Meta CDN.
+Truncated ventral view, subject facing slightly downward.
+*Helikewisia kristinae* wb. Lehrer, 2018.
+&copy; Kristin Lehrer, 2018, all rights reserved.
+
+* **SHA2-256**: `7cd9db2581b2d8e914edd7fb3d04d2fa54ff4b0d09f644cb7bf96d7efd66334b`
+* **IA**: <https://web.archive.org/web/20260319132037/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/651304872_18342211174243233_2394920789214788823_n.jpg?stp=dst-jpg_e35_tt6&_nc_ohc=FwrXTiN1G5wQ7kNvwFy_jZE&_nc_oc=AdpK-2DaeK0qlOT9rNzxyo0CRbOSvu3b-5B_Nz1RWhsRQzAizagKjJ8v1JxkgG1ziIE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=K4_6pwiUZqSjFpoiu745AQ&_nc_ss=8&oh=00_AfweZfEjv2dAnJkONXV1jObK6mrzxkeRGxQhN5JYjG_sHQ&oe=69C1D13A>
+
+**Description**: Shallow angle V-neck. Bilateral single straps. Skirt terminates superior to knee.
+**Buttons.** Ventral medial button row, 13 buttons. Five on bodice, eight on skirt. Circular, two thread holes, black thread. Thread line mostly horizontal.
+**Fabric.** Black background. Repeating pattern of cat (*Felis catus*)-like facial expression. Two whiskers, two eyes. Cat pattern in white.
+
+**Specimens examined**:
+
+* Holotype.
+* ***Lehrer 2018.43603HKEW*** &mdash;
+Photograph. 1080&times;1345. EXIF metadata stripped by Meta CDN.
+Truncated ventral view, first three buttons visible.
+*Helikewisia kristinae* wb. Lehrer, 2018.
+&copy; Kristin Lehrer, 2018, all rights reserved.
+  * **SHA2-256**: `7b1625cfe7649681197ae5840382c3596e66f74910362e54f9c18eeca56475e5`
+  * **IA**: <https://web.archive.org/web/20260319132504/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/653489959_18391307863150239_6596263911806943603_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=MTc4NjUyMjU4ODE5NDAwODUzOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTM0NS5zZHIuQzMifQ%3D%3D&_nc_ohc=g0bLlb5Xx7MQ7kNvwFDxEeV&_nc_oc=AdqOJQDOWeGNSK4gMIdnmZKuMUlRSQdhuEQ6h3ClRrQtmgJNmpx3nYc-0A2jPpPYkcE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=cTsd1WJdPGRH6GhiGPqNBg&_nc_ss=8&oh=00_Afx1XhjsuVToExkKX3XO8_ruhQ9gBxwOeUCTkdi1TdGDZg&oe=69C1D9D8>
+* ***Lehrer 2018.22063HKEW*** &mdash;
+Photograph. 1080&times;1350. EXIF metadata stripped by Meta CDN.
+*Helikewisia kristinae* wb. Lehrer, 2018.
+Full-body angled dorsal view, subject facing camera.
+&copy; Kristin Lehrer, 2018, all rights reserved.
+  * **SHA2-256**: `e34d04a4f4577ff12a97e703981e379fd4d86d5f2c161b61279c34b17f55c33c`
+  * **IA**: <https://web.archive.org/web/20260319132312/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/649224321_18310689463248562_3345583525819022063_n.jpg?stp=dst-jpg_e35_tt6&_nc_ohc=wmaMrt1JTo8Q7kNvwHh_cwn&_nc_oc=Adqm16almXh5DWJO1q2Ys7bNZbWdpHNzLws3N8gYbkUJ9n6SD4CJZ1tJ-R0wBThvBu8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=cTsd1WJdPGRH6GhiGPqNBg&_nc_ss=8&oh=00_Afz1hUBh7L5Olq8hXF0WMDV7aA0ETNm2ihpyAuru7huOfg&oe=69C1DF5A>
+* ***Lehrer 2018.86738HKEW*** &mdash;
+Photograph. 1080&times;1350. EXIF metadata stripped by Meta CDN.
+*Helikewisia kristinae* wb. Lehrer, 2018.
+&copy; Kristin Lehrer, 2018, all rights reserved.
+  * **SHA2-256**: `814fa9cfad20ad414a965623eae02d11b82ecaa54b0522f0537d9ec7f762dac3`
+  * **IA**: <https://web.archive.org/web/20260319154054/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/652736560_18566358889030125_2343636094538386738_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=MTc4NjUyMjU3NDc0Njk0MDk3NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTM1MC5zZHIuQzMifQ%3D%3D&_nc_ohc=Ew8gBj5VlYgQ7kNvwGttAYi&_nc_oc=Adpd5jT5MgxYi8_Xuhv40GkC3THp8hpp-hiyebzQ4gVXsxuD18DEnMlAJiahBqE8pHk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=4TKyJZiquFSWjl8edc6GHg&_nc_ss=8&oh=00_Afw-JqGGlsITxvVm6q7wykt5hwaPefNMpeL01lfeI6AGUw&oe=69C2079B>
+* ***Lehrer 2018.94528HKEW*** &mdash;
+Photograph. 1080&times;1350. EXIF metadata stripped by Meta CDN.
+*Helikewisia kristinae* wb. Lehrer, 2018.
+&copy; Kristin Lehrer, 2018, all rights reserved.
+  * **SHA2-256**: `e49d36f1d0da97a674453c3073e3437dab5835e8f4be30b1e2ba0a5808e38fee`
+  * **IA**: <https://web.archive.org/web/20260319154052/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.2885-15/32203412_2115508038733054_3655784219990294528_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=MTc4NjUyMjU5NjAxMjA3MjI3OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTM1MC5zZHIuZGVmYXVsdF9pbWFnZS5DMyJ9&_nc_ohc=dRqDySO0u6wQ7kNvwGU3ovf&_nc_oc=AdpJH8WTAbtySRnddi8ij7ZEKr1SK1zXI-bvBZnBI0-NjGnQ9LIqTxoa0MFQsob6pS4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_ss=8&oh=00_AfxJnBJAutMp2fVzH8EAgnz_7LFzuzcHFbMpNxCX43ICGA&oe=69C1D48D>
+
 ### Genus *Helikewisia* subg. *Emmae* {#sec-h-subg-emmae}
 In August 2019, Emma, the author of the blog *Crafty Clyde*, sewed three Kew dresses; two of which have a ventral medial button row. We place the new species *H. arbor* and *H. quagga* into the subgenus *Emmae*.
 
@@ -736,6 +778,7 @@ Ventral view. Hair positioned dorsally.
 EXIF metadata stripped. Sourced from Meta CDN, original URL non-permanent.
 Ventral view, Lehrer looking down.
 *Kewisia kristinae* wb. Lehrer, 2018. &copy; Kristin Lehrer, 2018, all rights reserved.
+
   * **Page**: See @lehrer_voolenvvlog_2018.
   * **SHA2-256**: `f37209aae5875c28c61f718c51d5752c70e58c8e1b7b62cf147966e3d3971769`
   * **IA**: <https://web.archive.org/web/20260319132608/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.2885-15/37916165_271939026870446_3584395751792312320_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=MTgzNTc5NTc1OTQ2Mzg1MDg1Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTM1MC5zZHIuZGVmYXVsdF9pbWFnZS5DMyJ9&_nc_ohc=ohE9edBqAhwQ7kNvwH1a-vW&_nc_oc=AdoBj2wPIzck737gF5Z2tZoZUXyVGWIa74qUPSuFNYexgX3yT0QBe_GqczxysLbQ0qE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_ss=8&oh=00_AfyJ92sFgYXkhTPQ4ZxPIIWGP6khWt6K3IJTf2ImxlRq1g&oe=69C1DBC8>
@@ -778,7 +821,6 @@ Fabric and buttons of *Kewisia kristinae* pre-assembly.
   * **SHA2-256**: `c5dbd79fe03d2f3ebf40cbe06340e785aa141f2ffa0472fd7c04ec4b7277bd35`
   * **IA**: <https://web.archive.org/web/20260319135834/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/625821393_18445416712105093_1850098667885446021_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=MTc5MjEzMDAwODY3MDUyNjkyNg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=DOdHCUirR-UQ7kNvwGKQvd9&_nc_oc=AdrFBFll-FmrDDOIYeHiENVJZFoSR9-kMtlzE37JPxSHZtPz6cBOot1aMvHNM6J5280&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=X8WJNR8snzyK4kFDawLysg&_nc_ss=8&oh=00_AfwiMoVGSiKV4jiwNtmAbqFlnN8dm_EjawBycobkLKfXOQ&oe=69C1E1C5>
 * ***Lehrer 0001/G65Z***^[Derived from portion of YouTube alphanumeric video ID.] &mdash; YouTube video. *VoolenvVLOG: The Seamstress Tag!*. 00h15m48.648s. 1920&times;1080, 23.976fps. 48KHz Opus stereo audio. ***Encoder***: Lavf60.16.100. ***YouTube ID***: `C_cpG65ZGyE`. Ventral view, subject in center. Frame cuts inferior to fourth button. Uploaded 2018-09-04. *Kewisia kristinae* wb. Lehrer, 2018. &copy; Kristin Lehrer, 2018, all rights reserved.
-<!-- 273 278 is for Helikewisia kristinae -->
 
 **Remarks**
 
@@ -1703,6 +1745,11 @@ We present a list of the image specimen identifiers we have assigned in this pap
 * *Gingerthread 0212KZ*
 * *Irvine 0001HI*
 * *Lehrer 0001/G65Z*
+* *Lehrer 2018.88823HKEW*
+* *Lehrer 2018.43603HKEW*
+* *Lehrer 2018.22063HKEW*
+* *Lehrer 2018.86738HKEW*
+* *Lehrer 2018.94528HKEW*
 * *Liz GCS2018/001KL*
 * *Liz GCS2018/002KL*
 * *Liz GCS2018/003KL*
