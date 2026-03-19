@@ -1725,17 +1725,17 @@ We present a list of the image specimen identifiers we have assigned in this pap
 ```{=latex}
 \begin{multicols}{2}
 ```
-* *Chantelle 2018/02KC*
-* *Chantelle 2018/03KC*
-* *Chantelle 2018/04KC*
-* *Chantelle 2018/06KC*
-* *Chantelle 2018/07KC*
-* *Elsa 2021/0013KE*
+* *Chantelle 2018.02KC*
+* *Chantelle 2018.03KC*
+* *Chantelle 2018.04KC*
+* *Chantelle 2018.06KC*
+* *Chantelle 2018.07KC*
+* *Elsa 2021.0013KE*
 * *Emily 3668HA*
 * *Emily 3670HA*
-* *Emma 2019-001/HA*
-* *Emma 2019-001/HS*
-* *Emma K01/HQ*
+* *Emma 2019-001HA*
+* *Emma 2019-001HS*
+* *Emma K01.HQ*
 * *Eva 0098FV*
 * *Eva 0120KE*
 * *Eva 2947KE*
@@ -1744,16 +1744,16 @@ We present a list of the image specimen identifiers we have assigned in this pap
 * *Eva 4be-FL*
 * *Gingerthread 0212KZ*
 * *Irvine 0001HI*
-* *Lehrer 0001/G65Z*
-* *Lehrer 2018.88823HKEW*
-* *Lehrer 2018.43603HKEW*
+* *Lehrer 0001.G65Z*
 * *Lehrer 2018.22063HKEW*
+* *Lehrer 2018.43603HKEW*
 * *Lehrer 2018.86738HKEW*
+* *Lehrer 2018.88823HKEW*
 * *Lehrer 2018.94528HKEW*
-* *Liz GCS2018/001KL*
-* *Liz GCS2018/002KL*
-* *Liz GCS2018/003KL*
-* *Liz GCS2018/004KL*
+* *Liz GCS2018.001KL*
+* *Liz GCS2018.002KL*
+* *Liz GCS2018.003KL*
+* *Liz GCS2018.004KL*
 * *Madalone 4823HE*
 * *Madalone Inst-1HE*
 * *Marie 2451a-KM*
@@ -1768,21 +1768,28 @@ We present a list of the image specimen identifiers we have assigned in this pap
 * *Procter 0005KL*
 * *Rachael 0063*
 * *Rachael 0412*
-* *Rachael 2018/KL05*
-* *Rachael 2018/KL08*
-* *Rachael 2018/KL10*
-* *Rachael 2018/KL11*
-* *Rachael 2018/KL13*
-* *Rachael 2018/KL15*
-* *Rachael 2018/KL16*
-* *Rachael 2018/KL17*
-* *Rachael 2018/KL19* 
-* *Rachael 2018/KL20*
+* *Rachael 2018.KL05*
+* *Rachael 2018.KL08*
+* *Rachael 2018.KL10*
+* *Rachael 2018.KL11*
+* *Rachael 2018.KL13*
+* *Rachael 2018.KL15*
+* *Rachael 2018.KL16*
+* *Rachael 2018.KL17*
+* *Rachael 2018.KL19* 
+* *Rachael 2018.KL20*
+* *Rothery 0402KL*
+* *Rothery 2234KL*
 * *Rothery 3603KL*
 * *Rothery 3618KL*
-* *Rothery 613D/KL*
+* *Rothery 613D.KL*
+* *Rothery 6377KL*
 * *Rothery 8861KL*
 * *Rothery E530/KL*
+* *Sarah 0088HS.AU-TAS*
+* *Sarah 0087HS.AU-TAS*
+* *Sarah 0085HS.AU-TAS*
+* *Sarah 0082HS.AU-TAS*
 * *Yarngasm 281* (V)
 ```{=latex}
 \end{multicols}
