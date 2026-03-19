@@ -1367,6 +1367,39 @@ Ventral view, hair positioned ventrally and obscuring wearer's left.
 #### *Kewthea lornoblae* {#sec-kt-lornoblae}
 ***Kewthea lornoblae*** Lemuria, 2026; first public desc.
 
+**Holotype**: *Rothery 6377KL* &mdash; Photograph. 1200&times;1600. EXIF metadata stripped.
+*Kewthea lornoblae* wb. Lorna.R., 2020.
+Ventral view, full body, subject smiling, hair positioned ventrally. Closer to subject, subject facing slightly to her right.
+&copy; Lorna Rothery, 2020, all rights reserved. 
+
+* **SHA2-256**: `36cd6fa2214d996b69b14b0e49ad8a7a4b0216a6666f9f461a18263293cd7d96`
+* **Raw image URLs**
+  * **Original**: <https://lornarothery.com/wp-content/uploads/2020/04/e88a93f9-3466-4082-b898-aa11e637ef7a.jpg> 
+  * **IA**: <https://web.archive.org/web/20260319183540/https://lornarothery.com/wp-content/uploads/2020/04/e88a93f9-3466-4082-b898-aa11e637ef7a.jpg>
+
+**Description**: Sleeves ruched, terminating superior to elbow. Skirt terminates at knee. Numerous clumps of fabric along hem.
+**Buttons.** Ventral medial button row, 9 buttons. 3 on bodice, 6 on skirt. Spacing unequal between second and third button. Top three buttonholes sewn by machine. Rest of buttonholes hand-sewn due to machine malfunction.
+**Fabric.** Viscose, from Fabricate. Navy-blue background, stylized flowers, most second common color by surface area teal.
+
+**Specimens examined**:
+
+* ***Rothery 2234KL*** &mdash; Photograph. 1200&times;1600. EXIF metadata stripped.
+*Kewthea lornoblae* wb. Lorna.R., 2020.
+Ventral view, full body, subject smiling, hair positioned ventrally.
+&copy; Lorna Rothery, 2020, all rights reserved.
+  * **SHA2-256**: `587495621ba7f44e3c1788d6649f88869bce261781b0d9cea28769c9cca17c1c`
+  * **Raw image URLs**
+    * **Original**: <https://lornarothery.com/wp-content/uploads/2020/04/01cd536c-1ac9-4dfb-8a53-a3c0e2234f5f.jpg> 
+    * **IA**: <https://web.archive.org/web/20260319183543/https://lornarothery.com/wp-content/uploads/2020/04/01cd536c-1ac9-4dfb-8a53-a3c0e2234f5f.jpg>
+* ***Rothery 0402KL*** &mdash; Photograph. 827&times;1446. EXIF metadata stripped.
+Ventral view, subject sitting on floor, looking down.
+*Kewthea lornoblae* wb. Lorna.R., 2020.
+&copy; Lorna Rothery, 2020, all rights reserved.
+  * **SHA2-256**: `7b5312096ac8833f362fd0e2f3b2595816a98059dd5cd0e43d4ccc92d423783b`
+  * **Raw image URLs**
+    * **Original**: <https://lornarothery.com/wp-content/uploads/2020/04/image.jpg>
+    * **IA**: <https://web.archive.org/web/20260319184423/https://lornarothery.com/wp-content/uploads/2020/04/image.jpg>
+
 #### *Kewthea luscinia* {#sec-kt-luscinia}
 ***Kewthea luscinia*** Lemuria, 2026; first public desc.
 
