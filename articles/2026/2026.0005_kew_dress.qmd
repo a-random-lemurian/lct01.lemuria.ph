@@ -599,7 +599,7 @@ In August 2019, Emma, the author of the blog *Crafty Clyde*, sewed three Kew dre
 ***Helikewisia arbor*** sp. nov.
 
 <!-- File: kew+green+2.JPG=s0?imgmax=0 (HOLOTYPE INFO TEMPLATE FROM LCT01-HOLOTYPER)-->
-**Holotype**: *Emma 2019-001/HA* &mdash;
+**Holotype**: *Emma 2019-001.HA* &mdash;
 Photograph. 1819&times;2048.
 Exposure: unknown. F-stop: unknown. Focal: unknown. ISO: unknown. Lens: unknown. Camera: unknown. 
 *Helikewisia arbor* wb. Emma of N., 2019.
@@ -622,7 +622,7 @@ Exposure: unknown. F-stop: unknown. Focal: unknown. ISO: unknown. Lens: unknown.
 #### *Helikewisia quagga* {#sec-h-quagga}
 ***Helikewisia quagga*** sp. nov.
 
-**Holotype**: *Emma K01/HQ* &mdash;
+**Holotype**: *Emma K01.HQ* &mdash;
 Photograph. 1067&times;2048.
 Exposure: unknown. F-stop: unknown. Focal: unknown. ISO: unknown. Lens: unknown. Camera: unknown.
 Dress on mannequin.
@@ -642,8 +642,8 @@ Dress on mannequin.
 
 **Remarks**:
 
-* The inferiormost button is unfastened in *Emma K01/HQ*, and the fabric drape conceals it, if it exists. Thus, its existence cannot be proven.
-* *Emma K01/HQ* only shows the dress on a mannequin; there is no human body for reference, so the length of the skirt cannot be determined.
+* The inferiormost button is unfastened in *Emma K01.HQ*, and the fabric drape conceals it, if it exists. Thus, its existence cannot be proven.
+* *Emma K01.HQ* only shows the dress on a mannequin; there is no human body for reference, so the length of the skirt cannot be determined.
 * Emma sewed the dress for her sister.
 
 **Specimens examined**: See holotype information.
@@ -677,7 +677,7 @@ Dress on mannequin.
 ***Kewabotonia elsae*** Lemuria, 2026; first public desc.
 
 <!-- File: kew_13.jpg (HOLOTYPE INFO TEMPLATE FROM LCT01-HOLOTYPER)-->
-**Holotype**: *Elsa 2021/0013KE* &mdash;
+**Holotype**: *Elsa 2021.0013KE* &mdash;
 Photograph. 640&times;1080.
 Exposure: 1/50s. F-stop: 2.0. Focal: 3.51 mm. ISO: unknown. Lens: unknown. Camera: Redmi Note 7. 
 *Kewabotonia elsae* wb. Elsa, 2021.
@@ -834,7 +834,7 @@ Ventral view. Hair positioned dorsally.
 #### *Kewisia kristinae* {#sec-k-kristinae}
 ***Kewisia kristinae*** Lemuria, 2026; first public desc.
 
-**Holotype**: *Lehrer 2018/12320KK* &mdash; Photograph.
+**Holotype**: *Lehrer 2018.12320KK* &mdash; Photograph.
 1080&times;1350.
 EXIF metadata stripped. Sourced from Meta CDN, original URL non-permanent.
 Ventral view, Lehrer looking down.
@@ -855,14 +855,14 @@ Ventral view, Lehrer looking down.
 
 * Holotype.
 * ***Yarngasm 281*** &mdash; YouTube video. *Yarngasm* ep. 281, "There's Been Spinning". 00h39m17.408s. 854&times;480, 30fps. 48KHz Opus stereo audio. ***Encoder***: Lavf60.16.100. ***YouTube ID***: `O66xjOf4DhM`. Ventral and lateral view. Subject is mostly seated, but at 00h20m48s, stands up to show ventral medial button row and lateral seams. Uploaded 2018-08-03. *Kewisia kristinae* wb. Lehrer, 2018. &copy; Kristin Lehrer, 2018, all rights reserved.
-* ***Lehrer 2018/25504KK*** &mdash; Photograph.
+* ***Lehrer 2018.25504KK*** &mdash; Photograph.
 1080&times;1350.
 EXIF metadata stripped. Sourced from Meta CDN, original URL non-permanent.
 Dorsal view, truncated at medial point of skirt vertically and wearer's right edge of skirt.
 *Kewisia kristinae* wb. Lehrer, 2018. &copy; Kristin Lehrer, 2018, all rights reserved.
   * **SHA2-256**: `c5dbd79fe03d2f3ebf40cbe06340e785aa141f2ffa0472fd7c04ec4b7277bd35`
   * **IA**: <https://web.archive.org/web/20260319132612/https%3A//instagram.fmnl35-1.fna.fbcdn.net/v/t51.2885-15/37316534_1166569746843394_2798195026117525504_n.jpg?stp%3Ddst-jpg_e35_tt6%26_nc_cat%3D102%26ig_cache_key%3DMTgzNTc5NTc4MjcwODc1MjA0Nw%3D%3D.3-ccb7-5%26ccb%3D7-5%26_nc_sid%3D58cdad%26efg%3DeyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTM1MC5zZHIuZGVmYXVsdF9pbWFnZS5DMyJ9%26_nc_ohc%3Dd85sT6RYe_YQ7kNvwEyfGjO%26_nc_oc%3DAdqVnv2wBUDK-OaR7q2-a8GQq3dheknmR6XeqvFbD3WeW7jvJvHgVWgQpBd_ngvb5WQ%26_nc_ad%3Dz-m%26_nc_cid%3D0%26_nc_zt%3D23%26_nc_ht%3Dinstagram.fmnl35-1.fna%26_nc_ss%3D8%26oh%3D00_AfzkD-g5EzthnKYwiyM2RfjjC_p-w329JVz5LwT44lgFIg%26oe%3D69C1E46A>
-* ***Lehrer 2018/23250KK*** &mdash; Photograph.
+* ***Lehrer 2018.23250KK*** &mdash; Photograph.
 1080&times;1350.
 EXIF metadata stripped. Sourced from Meta CDN, original URL non-permanent.
 *Kewisia kristinae* wb. Lehrer, 2018. &copy; Kristin Lehrer, 2018, all rights reserved.
@@ -881,7 +881,7 @@ Fabric and buttons of *Kewisia kristinae* pre-assembly.
 &copy; Kristin Lehrer, 2018, all rights reserved.
   * **SHA2-256**: `c5dbd79fe03d2f3ebf40cbe06340e785aa141f2ffa0472fd7c04ec4b7277bd35`
   * **IA**: <https://web.archive.org/web/20260319135834/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/625821393_18445416712105093_1850098667885446021_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=MTc5MjEzMDAwODY3MDUyNjkyNg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=DOdHCUirR-UQ7kNvwGKQvd9&_nc_oc=AdrFBFll-FmrDDOIYeHiENVJZFoSR9-kMtlzE37JPxSHZtPz6cBOot1aMvHNM6J5280&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=X8WJNR8snzyK4kFDawLysg&_nc_ss=8&oh=00_AfwiMoVGSiKV4jiwNtmAbqFlnN8dm_EjawBycobkLKfXOQ&oe=69C1E1C5>
-* ***Lehrer 0001/G65Z***^[Derived from portion of YouTube alphanumeric video ID.] &mdash; YouTube video. *VoolenvVLOG: The Seamstress Tag!*. 00h15m48.648s. 1920&times;1080, 23.976fps. 48KHz Opus stereo audio. ***Encoder***: Lavf60.16.100. ***YouTube ID***: `C_cpG65ZGyE`. Ventral view, subject in center. Frame cuts inferior to fourth button. Uploaded 2018-09-04. *Kewisia kristinae* wb. Lehrer, 2018. &copy; Kristin Lehrer, 2018, all rights reserved.
+* ***Lehrer 0001.G65Z***^[Derived from portion of YouTube alphanumeric video ID.] &mdash; YouTube video. *VoolenvVLOG: The Seamstress Tag!*. 00h15m48.648s. 1920&times;1080, 23.976fps. 48KHz Opus stereo audio. ***Encoder***: Lavf60.16.100. ***YouTube ID***: `C_cpG65ZGyE`. Ventral view, subject in center. Frame cuts inferior to fourth button. Uploaded 2018-09-04. *Kewisia kristinae* wb. Lehrer, 2018. &copy; Kristin Lehrer, 2018, all rights reserved.
 
 **Remarks**
 
@@ -1025,7 +1025,7 @@ YARNGASM： Episode 281 - ＂There's Been Spinning＂ [O66xjOf4DhM].mkv
 #### *Kewisia lizae* {#sec-k-lizae}
 ***Kewisia lizae*** Lemuria, 2026; first public desc.
 
-**Holotype**: *Liz GCS2018/004KL* &mdash;
+**Holotype**: *Liz GCS2018.004KL* &mdash;
 Photograph 1800&times;2048. PNG.
 EXIF metadata stripped; exposure, f-stop, lens foc. len unknown.
 *Kewisia lizae* wb. Liz of G., 2018.
@@ -1047,7 +1047,7 @@ Zoomed out angled ventral view. Hair positioned dorsally. Subject interacting wi
 **Specimens examined**:
 
 * Holotype.
-* ***Liz GCS2018/001KL*** &mdash;
+* ***Liz GCS2018.001KL*** &mdash;
 Photograph 2048&times;1710. PNG.
 EXIF metadata stripped; exposure, f-stop, lens foc. len unknown.
 *Kewisia lizae* wb. Liz of G., 2018.
@@ -1057,7 +1057,7 @@ Truncated ventral view, from neckline to sixth button.
   * **Raw image URLs**
     * **Original**: <https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAfGLBo7XXYtJiIekZCHC_tIcdhCwxIQq_hmUru6QuosQ51fK2fFHOWlOj8lPCZIkcQhLw8YwIDUusJ-IFxYv0OkEkNP_nZedAOIdbfvUOVuJsPzFuqqV4BqTn2tUtaCGbVQUcKWiiVto/s0/kew+close+up.png=s0?imgmax=0>
     * **IA**: <https://web.archive.org/web/20260318202213/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAfGLBo7XXYtJiIekZCHC_tIcdhCwxIQq_hmUru6QuosQ51fK2fFHOWlOj8lPCZIkcQhLw8YwIDUusJ-IFxYv0OkEkNP_nZedAOIdbfvUOVuJsPzFuqqV4BqTn2tUtaCGbVQUcKWiiVto/s0/kew+close+up.png=s0?imgmax=0>
-* ***Liz GCS2018/002KL*** &mdash;
+* ***Liz GCS2018.002KL*** &mdash;
 Photograph 1264&times;2048. PNG.
 EXIF metadata stripped; exposure, f-stop, lens foc. len unknown.
 *Kewisia lizae* wb. Liz of G., 2018.
@@ -1067,7 +1067,7 @@ Zoomed out ventral view. Hair tied, wearer's left strap obscured. Subject lookin
   * **Raw image URLs**
     * **Original**: <https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqmp9lLmXbE3UDWakmFKhVMgyJSpnF5tf_1RjFGDceMbZ8grPcLqPGCdEO1n77hL43nK7UgZBbTkKXyTCT_iRKi8EhpD7duJ4XJhwSDwZSOAt8WWlxxazwEIRUOffY7bAShX2ltg2tHMM/s0/kew+dress+wysteria.png=s0?imgmax=0>
     * **IA**: <https://web.archive.org/web/20260318204902/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqmp9lLmXbE3UDWakmFKhVMgyJSpnF5tf_1RjFGDceMbZ8grPcLqPGCdEO1n77hL43nK7UgZBbTkKXyTCT_iRKi8EhpD7duJ4XJhwSDwZSOAt8WWlxxazwEIRUOffY7bAShX2ltg2tHMM/s0/kew+dress+wysteria.png=s0?imgmax=0>
-* ***Liz GCS2018/003KL*** &mdash;
+* ***Liz GCS2018.003KL*** &mdash;
 Photograph 1122&times;2048. PNG.
 EXIF metadata stripped; exposure, f-stop, lens foc. len unknown.
 *Kewisia lizae* wb. Liz of G., 2018.
@@ -1206,7 +1206,7 @@ Ventral view, mirror selfie.
 ***Kewisia rachaelae*** Lemuria, 2026; first public desc.
 
 <!-- File: holotype/nina-leee-kew-dress-20.jpg (HOLOTYPE INFO TEMPLATE FROM LCT01-HOLOTYPER)-->
-**Holotype**: *Rachael 2018/KL20* &mdash;
+**Holotype**: *Rachael 2018.KL20* &mdash;
 Photograph. 2652&times;4031.
 Exposure: 1/60s. F-stop: 1.7. Focal: 4.20 mm. ISO: unknown. Lens: unknown. Camera: SM-G950F.
 Ventral view. Wearer's left arm placed on bodice, inferior to bodice&ndash;skirt line.
@@ -1224,7 +1224,7 @@ Ventral view. Wearer's left arm placed on bodice, inferior to bodice&ndash;skirt
 
 * Holotype.
 <!-- File: nina-leee-kew-dress-5.jpg (HOLOTYPE INFO TEMPLATE FROM LCT01-HOLOTYPER)-->
-* ***Rachael 2018/KL05*** &mdash;
+* ***Rachael 2018.KL05*** &mdash;
 Photograph. 1934&times;3497.
 Exposure: 1/50s. F-stop: 1.7. Focal: 4.20 mm. ISO: unknown. Lens: unknown. Camera: SM-G950F.
 Angled lateral view, wearer's left.
@@ -1236,7 +1236,7 @@ Angled lateral view, wearer's left.
     * **Original**: <https://sewprettyful.wordpress.com/wp-content/uploads/2018/03/nina-leee-kew-dress-5.jpg>
     * **IA**:
 <!-- File: nina-leee-kew-dress-8.jpg (HOLOTYPE INFO TEMPLATE FROM LCT01-HOLOTYPER)-->
-* ***Rachael 2018/KL08*** &mdash;
+* ***Rachael 2018.KL08*** &mdash;
 Photograph. 1955&times;3956.
 Exposure: 1/50s. F-stop: 1.7. Focal: 4.20 mm. ISO: unknown. Lens: unknown. Camera: SM-G950F. 
 Dorsal view. Hair positioned ventrally.
@@ -1248,7 +1248,7 @@ Dorsal view. Hair positioned ventrally.
     * **Original**: <https://sewprettyful.wordpress.com/wp-content/uploads/2018/03/nina-leee-kew-dress-8.jpg>
     * **IA**:
 <!-- File: nina-leee-kew-dress-10.jpg (HOLOTYPE INFO TEMPLATE FROM LCT01-HOLOTYPER)-->
-* ***Rachael 2018/KL10*** &mdash;
+* ***Rachael 2018.KL10*** &mdash;
 Photograph. 1758&times;3356.
 Exposure: 1/50s. F-stop: 1.7. Focal: 4.20 mm. ISO: unknown. Lens: unknown. Camera: SM-G950F.
 Angled ventral view, wearer's right.
@@ -1260,7 +1260,7 @@ Angled ventral view, wearer's right.
     * **Original**: <https://sewprettyful.wordpress.com/wp-content/uploads/2018/03/nina-leee-kew-dress-10.jpg>
     * **IA**:
 <!-- File: nina-leee-kew-dress-11.jpg (HOLOTYPE INFO TEMPLATE FROM LCT01-HOLOTYPER)-->
-* ***Rachael 2018/KL11*** &mdash;
+* ***Rachael 2018.KL11*** &mdash;
 Photograph. 1952&times;3333.
 Exposure: 1/50s. F-stop: 1.7. Focal: 4.20 mm. ISO: unknown. Lens: unknown. Camera: SM-G950F. 
 Slightly angled ventral view. hair positioned ventrally and obscuring straps on wearer's left.
@@ -1272,7 +1272,7 @@ Slightly angled ventral view. hair positioned ventrally and obscuring straps on 
     * **Original**: <https://sewprettyful.wordpress.com/wp-content/uploads/2018/03/nina-leee-kew-dress-11.jpg>
     * **IA**:
 <!-- File: nina-leee-kew-dress-13.jpg (HOLOTYPE INFO TEMPLATE FROM LCT01-HOLOTYPER)-->
-* ***Rachael 2018/KL13*** &mdash;
+* ***Rachael 2018.KL13*** &mdash;
 Photograph. 3024&times;4032.
 Exposure: 1/50s. F-stop: 1.7. Focal: 4.20 mm. ISO: unknown. Lens: unknown. Camera: SM-G950F. 
 Slightly angled ventral view, wearer's left, tighter crop.
@@ -1284,7 +1284,7 @@ Slightly angled ventral view, wearer's left, tighter crop.
     * **Original**: <https://sewprettyful.wordpress.com/wp-content/uploads/2018/03/nina-leee-kew-dress-13.jpg>
     * **IA**:
 <!-- File: nina-leee-kew-dress-15.jpg (HOLOTYPE INFO TEMPLATE FROM LCT01-HOLOTYPER)-->
-* ***Rachael 2018/KL15*** &mdash;
+* ***Rachael 2018.KL15*** &mdash;
 Photograph. 2091&times;2683.
 Exposure: 1/50s. F-stop: 1.7. Focal: 4.20 mm. ISO: unknown. Lens: unknown. Camera: SM-G950F.
 Ventral view of fabric, buttons 4&ndash;8.
@@ -1296,7 +1296,7 @@ Ventral view of fabric, buttons 4&ndash;8.
     * **Original**: <https://sewprettyful.wordpress.com/wp-content/uploads/2018/03/nina-leee-kew-dress-15.jpg>
     * **IA**:
 <!-- File: nina-leee-kew-dress-16.jpg (HOLOTYPE INFO TEMPLATE FROM LCT01-HOLOTYPER)-->
-* ***Rachael 2018/KL16*** &mdash;
+* ***Rachael 2018.KL16*** &mdash;
 Photograph. 2134&times;2990.
 Exposure: 1/50s. F-stop: 1.7. Focal: 4.20 mm. ISO: unknown. Lens: unknown. Camera: SM-G950F.
 Truncated lateral view, wearer's left, shoulder emphasized.
@@ -1308,7 +1308,7 @@ Truncated lateral view, wearer's left, shoulder emphasized.
     * **Original**: <https://sewprettyful.wordpress.com/wp-content/uploads/2018/03/nina-leee-kew-dress-16.jpg>
     * **IA**:
 <!-- File: nina-leee-kew-dress-17.jpg (HOLOTYPE INFO TEMPLATE FROM LCT01-HOLOTYPER)-->
-* ***Rachael 2018/KL17*** &mdash;
+* ***Rachael 2018.KL17*** &mdash;
 Photograph. 2876&times;3337.
 Exposure: 1/50s. F-stop: 1.7. Focal: 4.20 mm. ISO: unknown. Lens: unknown. Camera: SM-G950F.
 Truncated dorsal view, subject likely has arms crossed ventrally.
@@ -1320,7 +1320,7 @@ Truncated dorsal view, subject likely has arms crossed ventrally.
     * **Original**: <https://sewprettyful.wordpress.com/wp-content/uploads/2018/03/nina-leee-kew-dress-17.jpg>
     * **IA**:
 <!-- File: nina-leee-kew-dress-19.jpg (HOLOTYPE INFO TEMPLATE FROM LCT01-HOLOTYPER)-->
-* ***Rachael 2018/KL19*** &mdash;
+* ***Rachael 2018.KL19*** &mdash;
 Photograph. 2518&times;4032.
 Exposure: 1/60s. F-stop: 1.7. Focal: 4.20 mm. ISO: unknown. Lens: unknown. Camera: SM-G950F.
 Ventral view, zoomed out, subject standing straight, hair positioned dorsally.
@@ -1342,7 +1342,7 @@ Ventral view, zoomed out, subject standing straight, hair positioned dorsally.
 #### *Kewpepla lornae* {#sec-kp-lornae}
 ***Kewpepla lornae*** Lemuria, 2026; first public desc.
 
-**Holotype**: *Rothery 613D/KL* &mdash; Photograph. EXIF metadata stripped; exposure, f-stop, lens foc. len. unknown. United Kingdom. *Kewpepla lornae* on wooden hanger held by Rothery. &copy; Lorna Rothery or Lorna Malkin (name seen in EXIF data; see @sec-malkin), 2020, all rights reserved.
+**Holotype**: *Rothery 613D.KL* &mdash; Photograph. EXIF metadata stripped; exposure, f-stop, lens foc. len. unknown. United Kingdom. *Kewpepla lornae* on wooden hanger held by Rothery. &copy; Lorna Rothery or Lorna Malkin (name seen in EXIF data; see @sec-malkin), 2020, all rights reserved.
 
 * **SHA2-256**: `827245bb3491960ea11f5a40fc7e4b966c335abef490c1ddc2cff5067ccc5522`
 * **Page**: See @rothery_kew_2020-05.
@@ -1356,7 +1356,7 @@ Ventral view, zoomed out, subject standing straight, hair positioned dorsally.
 **Specimens examined**:
 
 * Holotype.
-* ***Rothery E530/KL*** &mdash; Photograph. United Kingdom. wb. Lorna.R., &copy; Lorna Rothery or Lorna Malkin (name seen in EXIF data; see @sec-malkin), 202, all rights reserved.
+* ***Rothery E530.KL*** &mdash; Photograph. United Kingdom. wb. Lorna.R., &copy; Lorna Rothery or Lorna Malkin (name seen in EXIF data; see @sec-malkin), 202, all rights reserved.
   * **SHA2-256**: `a48b736b7bb47f251db41d827ca4d7024fb4882889178347d65276eddb153ca5`
   * **Original**: <https://lornarothery.com/wp-content/uploads/2020/05/165d5796-3a33-4292-a302-c1f879b4e530.jpg>
   * **IA**: <https://web.archive.org/web/20260317104650/https://lornarothery.com/wp-content/uploads/2020/05/165d5796-3a33-4292-a302-c1f879b4e530.jpg>
@@ -1564,7 +1564,7 @@ Ventral view. Denim jacket (unclassified) worn above dress, tied together at inf
 ***Kewthea chantellae*** Lemuria, 2026; first public desc.
 
 <!-- File: holo.jpg (HOLOTYPE INFO TEMPLATE FROM LCT01-HOLOTYPER)-->
-**Holotype**: *Chantelle 2018/03KC* &mdash;
+**Holotype**: *Chantelle 2018.03KC* &mdash;
 Photograph. 2268&times;3024.
 Exposure: unknown. F-stop: unknown. Focal: unknown. ISO: unknown. Lens: unknown. Camera: unknown. 
 *Kewthea chantellae* wb. Chantelle, 2018.
@@ -1587,7 +1587,7 @@ Tight crop, features dress in more detail. Hair positioned ventrally, no importa
 
 * Holotype.
 <!-- File: chantelle2.jpg?v=1524850863 (HOLOTYPE INFO TEMPLATE FROM LCT01-HOLOTYPER)-->
-* ***Chantelle 2018/02KC*** &mdash;
+* ***Chantelle 2018.02KC*** &mdash;
 Photograph. 2268&times;3024.
 Exposure: unknown. F-stop: unknown. Focal: unknown. ISO: unknown. Lens: unknown. Camera: unknown.
 Ventral view, subject looking up. Hair positioned ventrally, no important features obscured.
@@ -1600,7 +1600,7 @@ Ventral view, subject looking up. Hair positioned ventrally, no important featur
     * **IA**: <https://web.archive.org/web/20260318172030/https://cdn.shopify.com/s/files/1/2211/5041/files/chantelle2.jpg?v=15s24850863>
 
 <!-- File: chantelle4.jpg?v=1524850906 (HOLOTYPE INFO TEMPLATE FROM LCT01-HOLOTYPER)-->
-* ***Chantelle 2018/04KC*** &mdash;
+* ***Chantelle 2018.04KC*** &mdash;
 Photograph. 2238&times;3024.
 Exposure: unknown. F-stop: unknown. Focal: unknown. ISO: unknown. Lens: unknown. Camera: unknown. 
 Venntral view, subject looking slightly downward. Hair positioned ventrally, no important features obscured.
@@ -1612,7 +1612,7 @@ Venntral view, subject looking slightly downward. Hair positioned ventrally, no 
     * **Original**: <https://cdn.shopify.com/s/files/1/2211/5041/files/chantelle4.jpg?v=1524850906>
     * **IA**: <https://web.archive.org/web/20260318171937/https://cdn.shopify.com/s/files/1/2211/5041/files/chantelle4.jpg?v=1524850906>
 <!-- File: chantelle6.jpg?v=1524850970 (HOLOTYPE INFO TEMPLATE FROM LCT01-HOLOTYPER)-->
-* ***Chantelle 2018/06KC*** &mdash;
+* ***Chantelle 2018.06KC*** &mdash;
 Photograph. 3024&times;4032.
 Exposure: unknown. F-stop: unknown. Focal: unknown. ISO: unknown. Lens: unknown. Camera: unknown. 
 Dress laid ventrally on table, showing buttons.
@@ -1623,7 +1623,7 @@ Dress laid ventrally on table, showing buttons.
     * **Original**: <https://cdn.shopify.com/s/files/1/2211/5041/files/chantelle6.jpg?v=1524850970>
     * **IA**: <https://web.archive.org/web/20260318172049/https://cdn.shopify.com/s/files/1/2211/5041/files/chantelle6.jpg?v=1524850970>
 <!-- File: chantelle7.jpg?v=1524850993 (HOLOTYPE INFO TEMPLATE FROM LCT01-HOLOTYPER)-->
-* ***Chantelle 2018/07KC*** &mdash;
+* ***Chantelle 2018.07KC*** &mdash;
 Photograph. 3024&times;4032.
 Exposure: unknown. F-stop: unknown. Focal: unknown. ISO: unknown. Lens: unknown. Camera: unknown. 
 Zoomed out shot of dress laid on table.
@@ -1676,7 +1676,7 @@ Zoomed out shot of dress laid on table.
 ***Helikewabotonia stadile*** sp. nov.
 
 <!-- File: holland.JPG=s0?imgmax=0 (HOLOTYPE INFO TEMPLATE FROM LCT01-HOLOTYPER)-->
-**Holotype**: *Emma 2019-001/HS* &mdash;
+**Holotype**: *Emma 2019-001.HS* &mdash;
 Photograph. 1102&times;2048.
 Exposure: unknown. F-stop: unknown. Focal: unknown. ISO: unknown. Lens: unknown. Camera: unknown. 
 *Helikewabotonia stabile* wb. WEARER, 2019.
@@ -1882,7 +1882,7 @@ We present a list of the image specimen identifiers we have assigned in this pap
 * *Rothery 613D.KL*
 * *Rothery 6377KL*
 * *Rothery 8861KL*
-* *Rothery E530/KL*
+* *Rothery E530.KL*
 * *Sarah 0088HS.AU-TAS*
 * *Sarah 0087HS.AU-TAS*
 * *Sarah 0085HS.AU-TAS*
