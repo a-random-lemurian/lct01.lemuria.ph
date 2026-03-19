@@ -1310,7 +1310,7 @@ Ventral view, zoomed out, subject standing straight, hair positioned dorsally.
 Photograph. 3024&times;3024.
 Exposure: 1/50s. F-stop: 1.8. Focal: 4.0 mm. Lens: iPhone 7 back camera 3.99mm f/1.8. Camera: iPhone 7. 
 Ventral view, hair positioned ventrally and obscuring wearer's left.
-*Kewthea lornoblae* wb. Lorna.R., 2020.
+*Kewthea lornaebis* wb. Lorna.R., 2020.
 &copy; Lorna Rothery, 2020, all rights reserved.
 
 * **SHA2-256**: `64f8a8b8d6b0d38129abb2259e0c1fb8667c5e1a5f4633644158636c27875947`
