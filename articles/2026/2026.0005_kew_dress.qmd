@@ -572,6 +572,26 @@ Dress on mannequin.
 #### *Kewabotonia elsae* {#sec-k-elsae}
 ***Kewabotonia elsae*** Lemuria, 2026; first public desc.
 
+<!-- File: kew_13.jpg (HOLOTYPE INFO TEMPLATE FROM LCT01-HOLOTYPER)-->
+**Holotype**: *Elsa 2021/0013KE* &mdash;
+Photograph. 640&times;1080.
+Exposure: 1/50s. F-stop: 2.0. Focal: 3.51 mm. ISO: unknown. Lens: unknown. Camera: Redmi Note 7. 
+*Kewabotonia elsae* wb. Elsa, 2021.
+&copy; Elsa of *La Casa Cactus*, 2021, all rights reserved.
+
+* **Page**: @elsa_brocade_2021
+* **SHA2-256**: `801293dddc4076f143b5c2a1eb2a539480a32ea4c7066ecbeb4a8c6932bcfcec`
+* **Raw image URLs**
+  * **Original**:<https://lacasacactus.com/wp-content/uploads/2021/03/kew_13.jpg>
+  * **IA**: <https://web.archive.org/web/20260319105749/https://lacasacactus.com/wp-content/uploads/2021/03/kew_13.jpg>
+
+**Description**: Shallow-angle V neck. Lack of ventral medial button row. Bilateral single straps. Dorsal medial zipper. Skirt terminates superior to knee.
+**Fabric.** Brocade. Medium-weight, unknown brand, unknown name, purple background, purple decorations. Solid light purple/magenta lining.
+
+**Etymology**: *Elsa* + *-ae*, feminine genitive suffix.
+
+**Specimens examined**: See holotype information.
+
 #### *Kewabotonia nuptirachaelae* {#sec-k-nuptirachaelae}
 ***Kewabotonia nuptirachaelae*** Lemuria, 2026; first public desc.
 
@@ -1632,16 +1652,17 @@ We present a list of the image specimen identifiers we have assigned in this pap
 ```{=latex}
 \begin{multicols}{2}
 ```
-* *Chantelle 2018/03KC*
 * *Chantelle 2018/02KC*
+* *Chantelle 2018/03KC*
 * *Chantelle 2018/04KC*
 * *Chantelle 2018/06KC*
 * *Chantelle 2018/07KC*
-* *Emily 3670HA*
+* *Elsa 2021/0013KE*
 * *Emily 3668HA*
+* *Emily 3670HA*
 * *Emma 2019-001/HA*
-* *Emma K01/HQ*
 * *Emma 2019-001/HS*
+* *Emma K01/HQ*
 * *Eva 0098FV*
 * *Eva 0120KE*
 * *Eva 2947KE*
@@ -1651,10 +1672,10 @@ We present a list of the image specimen identifiers we have assigned in this pap
 * *Gingerthread 0212KZ*
 * *Irvine 0001HI*
 * *Lehrer 0001/G65Z*
-* *Liz GCS2018/004KL*
 * *Liz GCS2018/001KL*
 * *Liz GCS2018/002KL*
 * *Liz GCS2018/003KL*
+* *Liz GCS2018/004KL*
 * *Madalone 4823HE*
 * *Madalone Inst-1HE*
 * *Marie 2451a-KM*
@@ -1682,8 +1703,8 @@ We present a list of the image specimen identifiers we have assigned in this pap
 * *Rothery 3603KL*
 * *Rothery 3618KL*
 * *Rothery 613D/KL*
-* *Rothery E530/KL*
 * *Rothery 8861KL*
+* *Rothery E530/KL*
 * *Yarngasm 281* (V)
 ```{=latex}
 \end{multicols}
