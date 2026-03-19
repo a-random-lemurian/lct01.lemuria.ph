@@ -131,33 +131,33 @@ A tree is as follows:
 :::
 
 #### Taxonomic history
-Lemuria discovered the Kew dress through a 2017 video by the American YouTuber and vlogger Kristin Lehrer, known online as Voolenvine (see @lehrer_voolenvvlog_2018). In the video, she wore a Kew dress (her specific make is now known in the taxonomy as *Kewisia kristinae* Lemuria, 2026); in the description, she includes a link to the Nina Lee product page for the Kew.
+Lemuria discovered the Kew dress through a 2017 video by the American YouTuber and vlogger Kristin Lehrer, known online as Voolenvine (see @lehrer_voolenvvlog_2018). In the video, she wore a Kew dress, and in the description included a link to Nina Lee's website for the pattern. This Kew dress is now known as *Kewisia kristinae* Lemuria, 2026.
 
 Though the LCT-01 was developed in September 2025, it was "dormant" at the time he first saw Lehrer's video. He began another period of activity regarding the taxonomy in January 2026; the earliest edits on his internal MediaWiki site, the Lemuria Wiki, pertaining to the Kew, specifically *K. kristinae*, date back to the end of January.
 
 Throughout February and early March, Lemuria continued taxonomizing sewing patterns, including the Kew. In mid-March, he established *Lemuria's (Informal) Journal of Clothing Taxonomy* (LICT) as a citizen science/gray literature journal to share his findings.
 
-As of March 16, 2026, the LCT-01 now encompasses some 250 species and 70 genera.
+As of March 16, 2026, the LCT-01 encompasses some 250 species and 70 genera.
 
 ## Kew
 The Kew dress, released in August 2017, is the fourth pattern from Nina Lee. Chang-Smith describes the Kew as "feminine, elegant and stylish", inspired by "the delights of British summertime" in her 2017 Instagram post announcing its release [@kewrelease].
 
 ### Trends
-The cold shoulder, which the Kewoidea offers, was a major trend around 2017. This can be inferred from the temporal range of the Kewoidea, which clusters mostly around the late 2010s. Two outliers exist; *Kewisia bernicae*, sewn in April 2020 [@bernice_hello_2020]; see @sec-k-bernicae, and *Kewabotonia elsae* (sewn 2021; see @sec-k-elsae). However, in general, the cold shoulder has fallen out of trend; by 2026, the year this paper was written, it has certainly done so. The fashion cycle may eventually revive the cold shoulder trend, but we do not have the ability to predict this.
+The cold shoulder, which the Kewoidea offers, was a major trend around 2017. This can be inferred from the temporal range of the Kewoidea, which clusters mostly around the late 2010s. Two outliers exist; *Kewisia bernicae*, sewn in April 2020 [@bernice_hello_2020]; see @sec-k-bernicae, and *Kewabotonia elsae* (sewn 2021; see @sec-k-elsae). However, in general, the cold shoulder has fallen out of trend; by 2026, the year this paper was written, it has certainly done so. The fashion cycle may eventually revive the cold shoulder trend, but its future trajectory is unpredictable.
 
-The core characteristics of the tea dress and the sundress variant, specifically their strap and sleeve configurations, are less vulnerable to changing trends; the continued range of the Kewthidae towards 2025 (as seen in *Kewthea lornae*, @sec-kt-lornae).
+The core characteristics of the tea dress and the sundress variant, specifically their strap and sleeve configurations, are less vulnerable to changing trends; the continued range of the Kewthidae towards 2025 is seen in *Kewthea lornae*, @sec-kt-lornae.
 
 ### Population and distribution
-So far, the Kew dresses cluster primarily in the United Kingdom, the source of the pattern, and to a lesser extent, the United States. 
+So far, the Kew dresses cluster primarily in the United Kingdom, the source of the pattern, and to a lesser extent, in the United States. 
 
 Google results for "nina lee kew dress", without quotes, claim some 114,000 results, while "nina lee kew" claims 536,000 results. 
 
-A more conservative estimate of the total number of Kew dresses is ~3,200 if "nina lee kew dress" is placed in quotes. If we extrapolate from the top ten search results, five of them document individual makes of the Kew, bringing the figure down to ~1,600. One of the results features three makes of a Kew dress, but this is likely to be statistically insignificant. We also did not account for the same makes being reposted onto multiple sites, which further reduces our most-conservative estimate to the hundreds (10e1).
+A more conservative estimate of the total number of Kew dresses is ~3,200 if "nina lee kew dress" is placed in quotes. If we extrapolate from the top ten search results, five of them document individual makes of the Kew, bringing the figure down to ~1,600. One of the results features three makes of a Kew dress, but this is likely to be statistically insignificant. The same makes may also have been reposted onto multiple sites, which further reduces the most-conservative estimate to the hundreds (10e1).
 
 ### Combination matrix
-The Kew features three bodice variants; a tea dress variant with sleeves; a cold-shoulder variant with straps superior to the scapula and sleeves lateral to the upper arm; and a sundress variant with the same straps, but without the sleeves.
+The Kew features three bodice variants: a tea dress variant with sleeves; a cold-shoulder variant with straps superior to the scapula and sleeves lateral to the upper arm; and a sundress variant with the same straps, but without the sleeves.
 
-An expansion pack is also available, which adds two additional skirts, which totals out to three bodice and three skirt options, which multiply to nine. Chang-Smith claims on the expansion pack that it increases the number of "possible Kew creations" to 12. This claim is true, but slightly counterintuitive. The lack of a bodice entirely is considered the fourth bodice option, and given the exact language of Chang-Smith's claim, this math is nearly correct. But when the options to make a Kewbello, or to make the bodice standalone is added, we reach four bodice options and five skirt options, making for 19 possible creations^[Not wearing a Kew bodice or a Kew skirt is either full nudity or a non-Kew taxon.], showing that Chang-Smith underpromised and overdelivered.
+An expansion pack is also available, which adds two additional skirts, which brings the total to three bodice and three skirt options, which multiply to nine. Chang-Smith claims on the expansion pack that it increases the number of "possible Kew creations" to 12. This claim is true, but slightly counterintuitive. The lack of a bodice entirely is considered the fourth bodice option, and given the exact language of Chang-Smith's claim, this math is nearly correct. When the options to make a Kewbello, or to make the bodice standalone are added, we reach four bodice options and five skirt options, making for 19 possible creations^[Not wearing a Kew bodice or a Kew skirt is either full nudity or a non-Kew taxon.], showing that Chang-Smith underpromised and overdelivered.
 
 We present a matrix of all possible bodice&ndash;bottom^[We use the term "bottom" instead of "skirt" as using no skirt or using the Portobello, which are trousers, is also an option.] combinations that involve components from either the Kew or Kewbello patterns.
 
@@ -174,7 +174,7 @@ We present a matrix of all possible bodice&ndash;bottom^[We use the term "bottom
 | **Portobello** | (*Helikewbellia*) | &mdash; | (*Kewbellothea*) | non-Kew
 | **No bottom** | *Trunkewia* | &mdash; | *Kewpepla* | non-Kew
 
-A matrix of Kew species. An emdash (&mdash;) indicates that a specific skirt&ndash;bodice combo has not been described so far, while parentheses indicate that while the genus name has been coined, no species have been described.
+A matrix of Kew species. An emdash (&mdash;) indicates that a specific skirt&ndash;bodice combo has not been described so far, while parentheses indicate that, while the genus name has been coined, no species have been described.
 :::
 
 ```{=latex}
@@ -182,16 +182,16 @@ A matrix of Kew species. An emdash (&mdash;) indicates that a specific skirt&nda
 ```
 
 ### Bodices
-The vast majority of the Kew dresses, with the exception of *Kewabotonia*, feature a ventral medial (center front) button row. Button counts vary with the wearer; from as low as zero (the defining characteristic of *Kewabotonia*), to ~17 (as seen on the line art in @chang-smith_kew_nodate), of which five are on the bodice and the remaining 12 are on the skirt.
+The vast majority of the Kew dresses, with the exception of *Kewabotonia*, feature a ventral medial (center front) button row. Button counts vary with the wearer, from as low as zero (the defining characteristic of *Kewabotonia*) to ~17 (as seen on the line art in @chang-smith_kew_nodate), of which five are on the bodice and the remaining 12 are on the skirt.
 
-The bodices of the Kewoidea and Helikewidae feature bilateral ventral seams that originate at around the bust. These seams extend to the parabola skirt (see @sec-skirts), as seen in @chang-smith_kew_nodate. Laterally, they feature a horizontal seam [as seen in @chang-smith_kew_nodate; and @chang-smith_kew_2018]. The seam extends to the lateral vertical seams (as seen on *K. rachaelae*, *Lateral view 1*).
+The bodices of the Kewoidea and Helikewidae feature bilateral ventral seams that originate around the bust. These seams extend to the parabola skirt (see @sec-skirts), as seen in @chang-smith_kew_nodate. Laterally, they feature a horizontal seam [as seen in @chang-smith_kew_nodate; and @chang-smith_kew_2018]. The seam extends to the lateral vertical seams (as seen on *K. rachaelae*, *Lateral view 1*).
 
 The characteristics of the Kewthidae are described in @sec-kewthidae.
 
 #### Kewoidea {#sec-kewoidea}
-The cold-shoulder variant encompasses the superfamily Kewoidea. The primary character distinguishing Kewoidea from its closest relative, the sundress bodice (Kewidae), is the presence of bilateral sleeves. Ventrally, the sleeve attaches to the bodice narrowly, before widening. It retains its width until it reaches its dorsal bodice attachment point.
+The cold-shoulder variant encompasses the superfamily Kewoidea. The primary character distinguishing Kewoidea from its closest relative, the sundress bodice (Kewidae), is the presence of bilateral sleeves. Ventrally, the sleeve attaches to the bodice narrowly before widening. It retains its width until it reaches its dorsal bodice attachment point.
 
-It is further divided into two families, Kewidae and Plesikewidae, which have three genera each. Kewidae is the *sensu stricto* family, consisting of *Kewisia* (straight skirt), and the empty genera *Kewplicata* and *Kewparabola*. Plesikewidae encompasses hacked versions of the Kew, split across three genera.
+It is further divided into two families, Kewidae and Plesikewidae, which have three genera each. Kewidae is the *sensu stricto* family, consisting of *Kewisia* (straight skirt) and the empty genera *Kewplicata* and *Kewparabola*. Plesikewidae encompasses hacked versions of the Kew, split across three genera.
 
 *Kewisia* is the largest genus in Kewidae, with 12 species:
 *bernicae* wb. Bernice, 2022, see @sec-k-bernicae;
@@ -207,16 +207,16 @@ It is further divided into two families, Kewidae and Plesikewidae, which have th
 *reginarunae* wb. Alice, 2018, see @sec-k-reginarunae;
 *sarae* wb. Sarah, 2019, see @sec-k-sarae;
 
-*Florankewia* is home to two species, *F. libera* (described in @sec-f-libera) and *F. valentina* (described in @sec-f-valentina), which are two hacks created by Kate Eva. Though the bodice of the By Hand London Flora and the skirt of the By Hand London Anna account for the majority of the dress, the *Florankewia* incorporates the off-shoulder sleeves of the Kew.
+*Florankewia* is home to two species, *F. libera* (described in @sec-f-libera) and *F. valentina* (described in @sec-f-valentina), which are two hacks created by Kate Eva. Though the bodice of the By Hand London Flora and the skirt of the By Hand London Anna account for the majority of the dress, *Florankewia* incorporates the off-shoulder sleeves of the Kew.
 
 *Kewabotonia* is a larger genus, encompassing five species. Four of these descend from a hack by Jen Walker, known as the Gingerthread Girl, as described in @walker_kewhack_2018. Walker's specific hack of the Kew encompasses *Kewabotonia zingibera* (described in @sec-k-zingibera), which is also the type species. *Kewabotonia* lacks the ventral medial button row entirely, and has a dorsal medial zipper, which is completely absent among the Kewidae. Chang-Smith herself praised Walker's hack as "the Queen of all the Kew hacks" [-@chang-smith_kew_2018]. The three other species in *Kewabotonia* that descend from Walker's hack are *eleanorae* wb. Eleanor, 2018 (see @sec-k-eleanorae); *sarae* wb. Sarah, 2018 (see @sec-kb-sarae); and *elsae* wb. Elsa, 2021 (see @sec-k-elsae).
 
-The fifth species, *Kewabotonia nuptirachaelae* (described in @sec-k-nuptirachaelae), was sewn by the British sewist Rachael Beaumont sewed it in 2018 for one of her bridesmaids, Lizzy [@beaumont_handmade_2018]. *Kewabotonia nuptirachaelae* does not explicitly diverge from Walker's hack; she does not mention it in her blog post. It is distinguished from the rest of genus in its full-circle skirt.
+The fifth species, *Kewabotonia nuptirachaelae* (described in @sec-k-nuptirachaelae), was sewn by the British sewist Rachael Beaumont in 2018 for one of her bridesmaids, Lizzy [@beaumont_handmade_2018]. *Kewabotonia nuptirachaelae* does not explicitly diverge from Walker's hack; Beaumont does not mention it in her blog post. It is distinguished from the rest of genus by its full-circle skirt.
 
 *Kewasalia* is a monotypic genus, containing *Kewasalia pimsia*. It is attested in @chang-smith_kew_2018, which describes the garment as a jumpsuit. She credited it to &commat;pimsyfaitdestrucs, whose Instagram account is no longer available.
 
 #### Helikewidae {#sec-helikewidae}
-The sundress variant encompasses the family Helikewidae. It is similar to Kewoidea, but is sleeveless. Helikewidae is further divided into the subfamilies Helikewinae and Trunkewinae.
+The sundress variant encompasses the family Helikewidae. It is similar to Kewoidea but is sleeveless. Helikewidae is further divided into the subfamilies Helikewinae and Trunkewinae.
 
 Trunkewinae is home to the monotypic genus *Trunkewia*, containing the species *Trunkewia ninae* wb. Nina, 2018 (described in @sec-t-ninae).
 
@@ -224,17 +224,17 @@ Helikewinae is further divided into two tribes, Helikewbellini and Helikewini.
 
 Helikewbellini (see @sec-kewbello) is monotypic, containing the genus *Helikewbellia*, with no species described at present.
 
-Helikewini is divided into three genera, based on the three skirt options; *Helikewisia*, *Helikewplicata*, and *Helikewparabola*; alongside the new genus *Helikewabotonia*. Like Kewidae, only *Helikewisia* is populated with species.
+Helikewini is divided into three genera, based on the three skirt options: *Helikewisia*, *Helikewplicata*, and *Helikewparabola*; alongside the new genus *Helikewabotonia*. Like Kewidae, only *Helikewisia* is populated with species.
 
-*Helikewisia* contains six species;
+*Helikewisia* contains six species:
 *aemilia* wb. Emily, 2017, see @sec-h-aemilia;
 *ceciliae* wb. Cecilia, 2018, see @sec-h-ceciliae;
 *erinae* wb. Erin.M., 2021, see @sec-h-erinae;
 *irvinae* wb. Alice.Ir., 2020, see @sec-h-irvinae;
 *arbor* wb. Emma of N., 2019, see @sec-h-arbor;
-*quagga* wb. Emma of N. and unknown friend, 2019, see @sec-h-quagga;
+*quagga* wb. Emma of N. and unknown friend, 2019, see @sec-h-quagga.
 
-We describe the new species *Helikewisia kristinae*, Lehrer's first make of the Kew dress, previously unknown. We became aware of it while reviewing holotype material for *Kewisia kristinae*. See @sec-h-kristinae.
+We describe the new species *Helikewisia kristinae*, Lehrer's first make of the Kew dress, previously unknown. The specimen was identified while reviewing holotype material for *Kewisia kristinae*. See @sec-h-kristinae.
 
 We describe the new monotypic genus *Helikewabotonia* and its sole species, *H. stadile* in @sec-h-stadile. 
 
@@ -242,20 +242,19 @@ We describe the new monotypic genus *Helikewabotonia* and its sole species, *H. 
 The tea dress variant encompasses the family Kewthidae, split into the subfamilies Kewthinae and Kewbellinae. The Kewthidae are characterized by ruched sleeves that terminate slightly superior to the elbow.
 
 Kewthinae is divided into two genera, *Kewthea* and *Kewpepla*.
-*Kewthea* is home to five species;
+*Kewthea* is home to five species:
 *lornae* wb. Lorna.R., 2020, see @sec-kt-lornae;
 *lornoblae* wb. Lorna.R., 2020, see @sec-kt-lornoblae;
 *luscinia* wb. Ruth.Pr., 2019, see @sec-kt-luscinia;
-*evae* wb. Eva, 2018, see @sec-kt-evae;
-and
+*evae* wb. Eva, 2018, see @sec-kt-evae; and
 *chantellae* wb. Chantelle, 2018, see @sec-kt-chantellae.
-*Kewpepla* is home to two species,
+*Kewpepla* is home to two species:
 *lornae* wb. Lorna.R., 2020, see @sec-kp-lornae; and
 *lornaebis* wb. Lorna.R., 2020, see @sec-kp-lornaebis.
 
 Lorna Rothery (<https://lornarothery.com/>; abbreviated Lorna.R. in the LCT-01), is the most prolific sewist among the Kewthidae, with four documented specimens.
 
-While rereviewing source material, we also discovered new species of *Kewthidae*. From @modistasewing2020, we describe the new species *Kewthea modistaflora*. We first reviewed the material while taxonomizing Modista Sewing's *Kewisia* spp., but at the time had not described the genus *Kewthea* yet, and chose to skip over the other dresses.
+While rereviewing source material, new species of *Kewthidae* were also discovered. From @modistasewing2020, we describe the new species *Kewthea modistaflora*. The material was first reviewed while taxonomizing Modista Sewing's *Kewisia* spp., but at the time the genus *Kewthea* had not been described, and was thus omitted.
 
 <!-- Kewthinae is divided into two genera, *Kewthea* and *Kewpepla*. *Kewthea* is the tea dress variant, with ruched sleeves. Chang-Smith herself describes Kewthidae (or *Version 1* on the product page) as having "a touch of 1940s' tea dress" [@kewrelease]. -->
 
