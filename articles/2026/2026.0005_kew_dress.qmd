@@ -488,6 +488,27 @@ In August 2019, Emma, the author of the blog *Crafty Clyde*, sewed three Kew dre
 #### *Helikewisia arbor* {#sec-h-arbor}
 ***Helikewisia arbor*** sp. nov.
 
+<!-- File: kew+green+2.JPG=s0?imgmax=0 (HOLOTYPE INFO TEMPLATE FROM LCT01-HOLOTYPER)-->
+**Holotype**: *Emma 2019-001/HA* &mdash;
+Photograph. 1819&times;2048.
+Exposure: unknown. F-stop: unknown. Focal: unknown. ISO: unknown. Lens: unknown. Camera: unknown. 
+*Helikewisia arbor* wb. Emma of N., 2019.
+&copy; Emma of *Crafty Clyde*, 2019, all rights reserved.
+
+* **Page**:
+* **SHA2-256**: `1cc632efa01d6e9461407572896ed51146b1c3e28e6375ba1231aa3f66742981`
+* **Raw image URLs**
+  * **Original**: <https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinnVlIBaxEn9dtuWLb4GfXT-IO_aw_XzTxP0CE_fS_BuvuZ-ZqyFUUzCN01ub2TsumDbvTAxQI-V8T13sxg2M4BSUEuLCitYk2L5QwSKSw87jt4rA9JIqtHMbgpozynAsuxzv4RxhhCpw/s0/kew+green+2.JPG=s0?imgmax=0>
+  * **IA**: <https://web.archive.org/web/20260319091343/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinnVlIBaxEn9dtuWLb4GfXT-IO_aw_XzTxP0CE_fS_BuvuZ-ZqyFUUzCN01ub2TsumDbvTAxQI-V8T13sxg2M4BSUEuLCitYk2L5QwSKSw87jt4rA9JIqtHMbgpozynAsuxzv4RxhhCpw/s0/kew+green+2.JPG=s0?imgmax=0>
+
+**Description**: Shallow-angle V neck. Bilateral pockets.
+**Buttons.** Ventral medial button row, approx. 12 buttons. Four on bodice, eight on skirt. Buttonholes have white thread. Buttons are pink, four thread holes. White/off-white thread cross each other.
+**Fabric.** "Divine Landscapes" viscose from Sewisfaction. Primary colors teal and green, repeating tree print. No known correlation to botanical taxa.
+
+**Etymology**: From Latin *arbor* "tree".
+
+**Specimens examined**: See holotype information.
+
 #### *Helikewisia quagga* {#sec-h-quagga}
 ***Helikewisia quagga*** sp. nov.
 
@@ -500,8 +521,8 @@ Dress on mannequin.
 * **Page**: @emma2019
 * **SHA2-256**: `81faf393fa07bc693730e7a261e4286fb5a9fa406babb6be6bd883fc8e0bd9c9`
 * **Raw image URLs**
-  * **Original**:
-  * **IA**:
+  * **Original**: <https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIozsKfbe9TE4sQKFm3DkT4aSsYMRCZEmLvsoYW0c-oCjuIKia4ZrRGBoWaCizBJLCEyFkS6G8S-4BR7Y4Nec7DUWdZT7wQzRp9I1UGIUK3jQmICcH2-N58lNMQVDDe7tzhhylr75_Ogc/s0/zebra+kew.JPG=s0?imgmax=0>
+  * **IA**: <https://web.archive.org/web/20260318235744/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIozsKfbe9TE4sQKFm3DkT4aSsYMRCZEmLvsoYW0c-oCjuIKia4ZrRGBoWaCizBJLCEyFkS6G8S-4BR7Y4Nec7DUWdZT7wQzRp9I1UGIUK3jQmICcH2-N58lNMQVDDe7tzhhylr75_Ogc/s0/zebra+kew.JPG=s0?imgmax=0>
 
 **Description**: Shallow-angle V neck. Bilateral pockets. 
 **Buttons.** Ventral medial button row, approx. 11&ndash;12 buttons. Three on bodice, one roughly parallel to bodice&ndash;skirt transition line. 7&ndash;8 on skirt.Dark orange. Four thread holes, circular inset. Thread hole alignment variable.
@@ -522,6 +543,23 @@ One of the Kew dresses sewn by Emma [@emma2019] lacks the ventral medial button 
 
 #### *Helikewabotonia stadile* {#sec-h-stadile}
 ***Helikewabotonia stadile*** sp. nov.
+
+<!-- File: holland.JPG=s0?imgmax=0 (HOLOTYPE INFO TEMPLATE FROM LCT01-HOLOTYPER)-->
+**Holotype**: *Emma 2019-001/HS* &mdash;
+Photograph. 1102&times;2048.
+Exposure: unknown. F-stop: unknown. Focal: unknown. ISO: unknown. Lens: unknown. Camera: unknown. 
+*Helikewabotonia stabile* wb. WEARER, 2019.
+&copy; Emma of *Crafty Clyde*, 2019, all rights reserved.
+
+* **Page**:
+* **SHA2-256**: `db9b04c2fad0a27e80a5da3a32f0cade8420b281acb1fec4f3e8d7be38ae39cb`
+* **Raw image URLs**
+  * **Original**: <https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgWW0S9_NZtJgvjQW7vIAuJP0D5T0WcWoC86-LKxsiHtzShlKg5RfpbLMxvovfHudGigTls3Qgz_7ynh3cf4ouH034OqbHHVw9jI-GJsZyJxof5sk77qXgw7oO6OQOlVdOmzQ7ybIWV_Q/s0/holland.JPG=s0?imgmax=0>
+  * **IA**: <https://web.archive.org/web/20260319090301/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgWW0S9_NZtJgvjQW7vIAuJP0D5T0WcWoC86-LKxsiHtzShlKg5RfpbLMxvovfHudGigTls3Qgz_7ynh3cf4ouH034OqbHHVw9jI-GJsZyJxof5sk77qXgw7oO6OQOlVdOmzQ7ybIWV_Q/s0/holland.JPG=s0?imgmax=0>
+
+**Description**: Shallow angle V-neck. Lack of ventral medial button row. Bilateral single straps. Bilateral pockets on skirt. Size 14. Skirt terminates superior to knee. **Fabric.** "Dutch Farm" print from Timeless Treasures. Bodice depicts front of red barn, doors open. Skirt features field of tulips (*Tulipa* L.). Pattern discontinuity at bodice&ndash;skirt seam.
+
+**Etymology**: From Medieval Latin *stadile* "barn".
 
 ### Genus *Kewabotonia* {#sec-genus-kewabotonia}
 #### *Kewabotonia zingibera* {#sec-k-zingibera}
@@ -1528,9 +1566,12 @@ To determine the genera in which a Kew dress is placed:
 : Genus *Helikewbellia*. End.
 
 20
-: Straight skirt (same as default skirt in @chang-smith_kew_2017): genus *Helikewisia* (21). Gathering at superior end: genus *Helikewplicata* (22). Slight parabolic shape before shallow inward angle (as seen on the rightmost skirt of @chang-smith_kew_nodate): genus *Helikewparabola* (23).
+: Ventral medial button row present: 21. Ventral medial button row absent: genus *Helikewabotonia* (25).
 
-21, 22, 23
+21
+: Straight skirt (same as default skirt in @chang-smith_kew_2017): genus *Helikewisia* (22). Gathering at superior end: genus *Helikewplicata* (23). Slight parabolic shape before shallow inward angle (as seen on the rightmost skirt of @chang-smith_kew_nodate): genus *Helikewparabola* (24).
+
+22, 23, 24, 25
 : End.
 
 ## Appendix 
@@ -1595,6 +1636,9 @@ We present a list of the image specimen identifiers we have assigned in this pap
 * *Chantelle 2018/07KC*
 * *Emily 3670HA*
 * *Emily 3668HA*
+* *Emma 2019-001/HA*
+* *Emma K01/HQ*
+* *Emma 2019-001/HS*
 * *Eva 0098FV*
 * *Eva 0120KE*
 * *Eva 2947KE*
