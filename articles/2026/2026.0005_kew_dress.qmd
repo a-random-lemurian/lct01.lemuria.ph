@@ -731,14 +731,19 @@ Ventral view. Hair positioned dorsally.
 #### *Kewisia kristinae* {#sec-k-kristinae}
 ***Kewisia kristinae*** Lemuria, 2026; first public desc.
 
-**Holotype**: *Lehrer 0001/G65Z*^[Derived from portion of YouTube alphanumeric video ID.] &mdash; YouTube video. *VoolenvVLOG: The Seamstress Tag!*. 00h15m48.648s. 1920&times;1080, 23.976fps. 48KHz Opus stereo audio. ***Encoder***: Lavf60.16.100. ***YouTube ID***: `C_cpG65ZGyE`. Ventral view, subject in center. Frame cuts inferior to fourth button. Uploaded 2018-09-04. *Kewisia kristinae* wb. Lehrer, 2018. &copy; Kristin Lehrer, 2018, all rights reserved.
+**Holotype**: *Lehrer 2018/12320KK* &mdash; Photograph.
+1080&times;1350.
+EXIF metadata stripped. Sourced from Meta CDN, original URL non-permanent.
+Ventral view, Lehrer looking down.
+*Kewisia kristinae* wb. Lehrer, 2018. &copy; Kristin Lehrer, 2018, all rights reserved.
+  * **Page**: See @lehrer_voolenvvlog_2018.
+  * **SHA2-256**: `f37209aae5875c28c61f718c51d5752c70e58c8e1b7b62cf147966e3d3971769`
+  * **IA**: <https://web.archive.org/web/20260319132608/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.2885-15/37916165_271939026870446_3584395751792312320_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=MTgzNTc5NTc1OTQ2Mzg1MDg1Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTM1MC5zZHIuZGVmYXVsdF9pbWFnZS5DMyJ9&_nc_ohc=ohE9edBqAhwQ7kNvwH1a-vW&_nc_oc=AdoBj2wPIzck737gF5Z2tZoZUXyVGWIa74qUPSuFNYexgX3yT0QBe_GqczxysLbQ0qE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_ss=8&oh=00_AfyJ92sFgYXkhTPQ4ZxPIIWGP6khWt6K3IJTf2ImxlRq1g&oe=69C1DBC8>
 
-* **Page**: See @lehrer_voolenvvlog_2018.
-* **Video URLs**
-  * **Original**: OriginalURL
-  * **IA**: InternetArchiveURL
 
-**Description**: Shallow angle V-neck. Bilateral single straps. Sleeves typical to that of Kewoidea and level with bodice. Skirt terminates superior to knee. **Fabric.** Black fabric. Floral patterns, featuring ferns (botanical division Polypodiophhyta and class Polypodiopsida <small>Cronquist, Takht. & W.Zimm.</small>)
+**Description**: Shallow angle V-neck. Bilateral single straps. Sleeves typical to that of Kewoidea and level with bodice. Skirt terminates superior to knee.
+**Buttons.** Ventral medial row of 15 buttons. Buttons reflective, two thread holes, floral decorations. Background brownish in color. Black thread sewn through. Thread hole alignment variable, thread line of second button est. 20&deg;.
+**Fabric.** Black fabric. Floral patterns, featuring ferns (botanical division Polypodiophhyta and class Polypodiopsida <small>Cronquist, Takht. & W.Zimm.</small>)
 
 **Etymology**: *Kristin* + *-ae* feminine genitive prefix.
 
@@ -746,12 +751,39 @@ Ventral view. Hair positioned dorsally.
 
 * Holotype.
 * ***Yarngasm 281*** &mdash; YouTube video. *Yarngasm* ep. 281, "There's Been Spinning". 00h39m17.408s. 854&times;480, 30fps. 48KHz Opus stereo audio. ***Encoder***: Lavf60.16.100. ***YouTube ID***: `O66xjOf4DhM`. Ventral and lateral view. Subject is mostly seated, but at 00h20m48s, stands up to show ventral medial button row and lateral seams. Uploaded 2018-08-03. *Kewisia kristinae* wb. Lehrer, 2018. &copy; Kristin Lehrer, 2018, all rights reserved.
-
+* ***Lehrer 2018/25504KK*** &mdash; Photograph.
+1080&times;1350.
+EXIF metadata stripped. Sourced from Meta CDN, original URL non-permanent.
+Dorsal view, truncated at medial point of skirt vertically and wearer's right edge of skirt.
+*Kewisia kristinae* wb. Lehrer, 2018. &copy; Kristin Lehrer, 2018, all rights reserved.
+  * **SHA2-256**: `c5dbd79fe03d2f3ebf40cbe06340e785aa141f2ffa0472fd7c04ec4b7277bd35`
+  * **IA**: <https://web.archive.org/web/20260319132612/https%3A//instagram.fmnl35-1.fna.fbcdn.net/v/t51.2885-15/37316534_1166569746843394_2798195026117525504_n.jpg?stp%3Ddst-jpg_e35_tt6%26_nc_cat%3D102%26ig_cache_key%3DMTgzNTc5NTc4MjcwODc1MjA0Nw%3D%3D.3-ccb7-5%26ccb%3D7-5%26_nc_sid%3D58cdad%26efg%3DeyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTM1MC5zZHIuZGVmYXVsdF9pbWFnZS5DMyJ9%26_nc_ohc%3Dd85sT6RYe_YQ7kNvwEyfGjO%26_nc_oc%3DAdqVnv2wBUDK-OaR7q2-a8GQq3dheknmR6XeqvFbD3WeW7jvJvHgVWgQpBd_ngvb5WQ%26_nc_ad%3Dz-m%26_nc_cid%3D0%26_nc_zt%3D23%26_nc_ht%3Dinstagram.fmnl35-1.fna%26_nc_ss%3D8%26oh%3D00_AfzkD-g5EzthnKYwiyM2RfjjC_p-w329JVz5LwT44lgFIg%26oe%3D69C1E46A>
+* ***Lehrer 2018/23250KK*** &mdash; Photograph.
+1080&times;1350.
+EXIF metadata stripped. Sourced from Meta CDN, original URL non-permanent.
+*Kewisia kristinae* wb. Lehrer, 2018. &copy; Kristin Lehrer, 2018, all rights reserved.
+  * **SHA2-256**: `77af3ae6d745d43459b95f1c033580d12d6af5795cb1adbe777b497ff68ea302`
+  * **IA**: <https://web.archive.org/web/20260319132619/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/649173683_18316866949301930_5983435372631823250_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=MTgzNTc5NTc5NDY4NzQ3MDM3MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTM1MC5zZHIuQzIifQ%3D%3D&_nc_ohc=vt8MweSfn4UQ7kNvwFuXwxO&_nc_oc=AdqWiLnrQ4eBjyJsfoPUKg3yDydNUTjp6-Wgds_khLGVPLhIGWivwwhlhR0mM7ZBDfw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=IOTvQ_IqLO9tqwOTu7G2Dw&_nc_ss=8&oh=00_Afx1FyLjdzYaluIEOFHjy8ZWKfaAT7SzujMBKeWEsrZLQQ&oe=69C1C026>
+* ***Lehrer 2018.73568KK*** &mdash; Photograph.
+1080&times;1350.
+EXIF metadata stripped. Sourced from Meta CDN, original URL non-permanent.
+*Kewisia kristinae* wb. Lehrer, 2018. &copy; Kristin Lehrer, 2018, all rights reserved.
+  * **SHA2-256**: `1e064765de0c603ba33da49a4cb94728919c751a2dea24202c3a6a3d339f774c`
+  * **IA**: <https://web.archive.org/web/20260319134425/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/650185604_18353554276224234_5543024147734773568_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=MTgzNTc5NTczNDI1NTg5NTUxMQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTM1MC5zZHIuQzMifQ%3D%3D&_nc_ohc=Da3G1LZCA8gQ7kNvwFmAk2A&_nc_oc=AdoPl_d9ofCr3qFIrNARoqVHnlpazMS_WVZoKjrfOkIz3FaS2qIbQKJH0HTYeKisg_k&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=IOTvQ_IqLO9tqwOTu7G2Dw&_nc_ss=8&oh=00_AfxKbEt19a5Jwc6dPho57qoyCcSapjpQrD1hI046QK1Riw&oe=69C1BC19>
+* ***Lehrer 2018.46021KK*** &mdash; Photograph.
+1080&times;1080.
+EXIF metadata stripped. Sourced from Meta CDN, original URL non-permanent.
+Fabric and buttons of *Kewisia kristinae* pre-assembly.
+&copy; Kristin Lehrer, 2018, all rights reserved.
+  * **SHA2-256**: `c5dbd79fe03d2f3ebf40cbe06340e785aa141f2ffa0472fd7c04ec4b7277bd35`
+  * **IA**: <https://web.archive.org/web/20260319135834/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/625821393_18445416712105093_1850098667885446021_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=MTc5MjEzMDAwODY3MDUyNjkyNg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=DOdHCUirR-UQ7kNvwGKQvd9&_nc_oc=AdrFBFll-FmrDDOIYeHiENVJZFoSR9-kMtlzE37JPxSHZtPz6cBOot1aMvHNM6J5280&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=X8WJNR8snzyK4kFDawLysg&_nc_ss=8&oh=00_AfwiMoVGSiKV4jiwNtmAbqFlnN8dm_EjawBycobkLKfXOQ&oe=69C1E1C5>
+* ***Lehrer 0001/G65Z***^[Derived from portion of YouTube alphanumeric video ID.] &mdash; YouTube video. *VoolenvVLOG: The Seamstress Tag!*. 00h15m48.648s. 1920&times;1080, 23.976fps. 48KHz Opus stereo audio. ***Encoder***: Lavf60.16.100. ***YouTube ID***: `C_cpG65ZGyE`. Ventral view, subject in center. Frame cuts inferior to fourth button. Uploaded 2018-09-04. *Kewisia kristinae* wb. Lehrer, 2018. &copy; Kristin Lehrer, 2018, all rights reserved.
 <!-- 273 278 is for Helikewisia kristinae -->
 
 **Remarks**
 
 * No method of reliably reproducible video downloads is known.
+* On March 19, 2026, we visited Lehrer's Instagram page using Imginn to retrieve photographic evidence. Instagram can now be considered a reproducible source when Save Page Now is used to submit CDN URLs.
 
 **`yt-dlp` provenance:**
 ```
