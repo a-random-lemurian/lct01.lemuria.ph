@@ -929,7 +929,7 @@ EXIF metadata stripped; exposure, f-stop, lens foc. len unknown.
 Zoomed out angled ventral view. Hair positioned dorsally. Subject interacting with *Ficus carica* L.
 &copy; Liz of *Girl Can Sew* or unknown photographer, 2018, all rights reserved.
 
-* **Page**: See @
+* **Page**: See @liz_pattern_2018
 * **SHA2-256**: `4d0e2020c3e69548761f8881c493e15eb6b52abecdc3ff1ec084c6e6e95888ef`
 * **Raw image URLs**
   * **Original**: <https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSRIQVOGfqGiY41H2S3oQjjbDYUBGW3hH2kaKgs32_enX2VI9YLYILKit6V4uXEZWeMrp9px0Jb4WrEUjf_A3JhZzea7eVOs7CmE_U2KJVJ0p0CsvILDsmxuK-eM_zRkevs5Aqw7LxRXA/s1600/kew+dress+fig.png>
