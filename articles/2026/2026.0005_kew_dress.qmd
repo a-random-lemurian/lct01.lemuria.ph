@@ -145,7 +145,14 @@ The Kew dress, released in August 2017, is the fourth pattern from Nina Lee. Cha
 ### Trends
 The cold shoulder, which the Kewoidea offers, was a major trend around 2017. This can be inferred from the temporal range of the Kewoidea, which clusters mostly around the late 2010s. Two outliers exist; *Kewisia bernicae*, sewn in April 2020 [@bernice_hello_2020]; see @sec-k-bernicae, and *Kewabotonia elsae* (sewn 2021; see @sec-k-elsae). However, in general, the cold shoulder has fallen out of trend; by 2026, the year this paper was written, it has certainly done so. The fashion cycle may eventually revive the cold shoulder trend, but we do not have the ability to predict this.
 
-The tea dress and the sundress variant are less vulnerable to changing trends; the continued range of the Kewthidae towards 2025 (as seen in *Kewthea lornae*, @sec-kt-lornae).
+The core characteristics of the tea dress and the sundress variant, specifically their strap and sleeve configurations, are less vulnerable to changing trends; the continued range of the Kewthidae towards 2025 (as seen in *Kewthea lornae*, @sec-kt-lornae).
+
+### Population and distribution
+So far, the Kew dresses cluster primarily in the United Kingdom, the source of the pattern, and to a lesser extent, the United States. 
+
+Google results for "nina lee kew dress", without quotes, claim some 114,000 results, while "nina lee kew" claims 536,000 results. 
+
+A more conservative estimate of the total number of Kew dresses is ~3,200 if "nina lee kew dress" is placed in quotes. If we extrapolate from the top ten search results, five of them document individual makes of the Kew, bringing the figure down to ~1,600. One of the results features three makes of a Kew dress, but this is likely to be statistically insignificant. We also did not account for the same makes being reposted onto multiple sites, which further reduces our most-conservative estimate to the hundreds (10e1).
 
 ### Combination matrix
 The Kew features three bodice variants; a tea dress variant with sleeves; a cold-shoulder variant with straps superior to the scapula and sleeves lateral to the upper arm; and a sundress variant with the same straps, but without the sleeves.
@@ -173,11 +180,6 @@ A matrix of Kew species. An emdash (&mdash;) indicates that a specific skirt&nda
 ```{=latex}
 \begin{multicols}{2}
 ```
-
-### Population and distribution
-So far, the Kew dresses cluster primarily in the United Kingdom, the source of the pattern, and to a lesser extent, the United States. 
-
-Google results for "nina lee kew dress" claim some 114,000 results, while "nina lee kew" claims 536,000 results. 
 
 ### Bodices
 The vast majority of the Kew dresses, with the exception of *Kewabotonia*, feature a ventral medial (center front) button row. Button counts vary with the wearer; from as low as zero (the defining characteristic of *Kewabotonia*), to ~17 (as seen on the line art in @chang-smith_kew_nodate), of which five are on the bodice and the remaining 12 are on the skirt.
@@ -216,11 +218,13 @@ The fifth species, *Kewabotonia nuptirachaelae* (described in @sec-k-nuptirachae
 #### Helikewidae {#sec-helikewidae}
 The sundress variant encompasses the family Helikewidae. It is similar to Kewoidea, but is sleeveless. Helikewidae is further divided into the subfamilies Helikewinae and Trunkewinae.
 
-Trunkewinae is home to the monotypic genus *Trunkewia*, containing the species *Trunkewia ninae* wb. Nina, 2018 (described in @sec-t-ninae). Helikewinae is further divided into two tribes, Helikewbellini and Helikewini.
+Trunkewinae is home to the monotypic genus *Trunkewia*, containing the species *Trunkewia ninae* wb. Nina, 2018 (described in @sec-t-ninae).
+
+Helikewinae is further divided into two tribes, Helikewbellini and Helikewini.
 
 Helikewbellini (see @sec-kewbello) is monotypic, containing the genus *Helikewbellia*, with no species described at present.
 
-Helikewini is divided into three genera, based on the three skirt options; *Helikewisia*, *Helikewplicata*, and *Helikewparabola*. Like Kewidae, only *Helikewisia* is populated with species.
+Helikewini is divided into three genera, based on the three skirt options; *Helikewisia*, *Helikewplicata*, and *Helikewparabola*; alongside the new genus *Helikewabotonia*. Like Kewidae, only *Helikewisia* is populated with species.
 
 *Helikewisia* contains six species;
 *aemilia* wb. Emily, 2017, see @sec-h-aemilia;
@@ -230,7 +234,9 @@ Helikewini is divided into three genera, based on the three skirt options; *Heli
 *arbor* wb. Emma of N., 2019, see @sec-h-arbor;
 *quagga* wb. Emma of N. and unknown friend, 2019, see @sec-h-quagga;
 
-We also describe the new species *Helikewisia kristinae*, Lehrer's first make of the Kew dress, previously unknown. We became aware of it while reviewing holotype material for *Kewisia kristinae*. See @sec-h-kristinae.
+We describe the new species *Helikewisia kristinae*, Lehrer's first make of the Kew dress, previously unknown. We became aware of it while reviewing holotype material for *Kewisia kristinae*. See @sec-h-kristinae.
+
+We describe the new monotypic genus *Helikewabotonia* and its sole species, *H. stadile* in @sec-h-stadile. 
 
 #### Kewthidae {#sec-kewthidae}
 The tea dress variant encompasses the family Kewthidae, split into the subfamilies Kewthinae and Kewbellinae. The Kewthidae are characterized by ruched sleeves that terminate slightly superior to the elbow.
@@ -537,29 +543,6 @@ Dress on mannequin.
 * Emma sewed the dress for her sister.
 
 **Specimens examined**: See holotype information.
-
-### Genus *Helikewabotonia* {#sec-genus-helikewabotonia}
-One of the Kew dresses sewn by Emma [@emma2019] lacks the ventral medial button row, thus warranting the new genus *Helikewabotonia*.
-
-#### *Helikewabotonia stadile* {#sec-h-stadile}
-***Helikewabotonia stadile*** sp. nov.
-
-<!-- File: holland.JPG=s0?imgmax=0 (HOLOTYPE INFO TEMPLATE FROM LCT01-HOLOTYPER)-->
-**Holotype**: *Emma 2019-001/HS* &mdash;
-Photograph. 1102&times;2048.
-Exposure: unknown. F-stop: unknown. Focal: unknown. ISO: unknown. Lens: unknown. Camera: unknown. 
-*Helikewabotonia stabile* wb. WEARER, 2019.
-&copy; Emma of *Crafty Clyde*, 2019, all rights reserved.
-
-* **Page**:
-* **SHA2-256**: `db9b04c2fad0a27e80a5da3a32f0cade8420b281acb1fec4f3e8d7be38ae39cb`
-* **Raw image URLs**
-  * **Original**: <https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgWW0S9_NZtJgvjQW7vIAuJP0D5T0WcWoC86-LKxsiHtzShlKg5RfpbLMxvovfHudGigTls3Qgz_7ynh3cf4ouH034OqbHHVw9jI-GJsZyJxof5sk77qXgw7oO6OQOlVdOmzQ7ybIWV_Q/s0/holland.JPG=s0?imgmax=0>
-  * **IA**: <https://web.archive.org/web/20260319090301/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgWW0S9_NZtJgvjQW7vIAuJP0D5T0WcWoC86-LKxsiHtzShlKg5RfpbLMxvovfHudGigTls3Qgz_7ynh3cf4ouH034OqbHHVw9jI-GJsZyJxof5sk77qXgw7oO6OQOlVdOmzQ7ybIWV_Q/s0/holland.JPG=s0?imgmax=0>
-
-**Description**: Shallow angle V-neck. Lack of ventral medial button row. Bilateral single straps. Bilateral pockets on skirt. Size 14. Skirt terminates superior to knee. **Fabric.** "Dutch Farm" print from Timeless Treasures. Bodice depicts front of red barn, doors open. Skirt features field of tulips (*Tulipa* L.). Pattern discontinuity at bodice&ndash;skirt seam.
-
-**Etymology**: From Medieval Latin *stadile* "barn".
 
 ### Genus *Kewabotonia* {#sec-genus-kewabotonia}
 #### *Kewabotonia zingibera* {#sec-k-zingibera}
@@ -1499,6 +1482,26 @@ Zoomed out shot of dress laid on table.
 **Etymology**: *Nina* + *-ae*, feminine genitive form.
 
 **Specimens examined**: See holotype information.
+
+#### *Helikewabotonia stadile* {#sec-h-stadile}
+***Helikewabotonia stadile*** sp. nov.
+
+<!-- File: holland.JPG=s0?imgmax=0 (HOLOTYPE INFO TEMPLATE FROM LCT01-HOLOTYPER)-->
+**Holotype**: *Emma 2019-001/HS* &mdash;
+Photograph. 1102&times;2048.
+Exposure: unknown. F-stop: unknown. Focal: unknown. ISO: unknown. Lens: unknown. Camera: unknown. 
+*Helikewabotonia stabile* wb. WEARER, 2019.
+&copy; Emma of *Crafty Clyde*, 2019, all rights reserved.
+
+* **Page**:
+* **SHA2-256**: `db9b04c2fad0a27e80a5da3a32f0cade8420b281acb1fec4f3e8d7be38ae39cb`
+* **Raw image URLs**
+  * **Original**: <https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgWW0S9_NZtJgvjQW7vIAuJP0D5T0WcWoC86-LKxsiHtzShlKg5RfpbLMxvovfHudGigTls3Qgz_7ynh3cf4ouH034OqbHHVw9jI-GJsZyJxof5sk77qXgw7oO6OQOlVdOmzQ7ybIWV_Q/s0/holland.JPG=s0?imgmax=0>
+  * **IA**: <https://web.archive.org/web/20260319090301/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgWW0S9_NZtJgvjQW7vIAuJP0D5T0WcWoC86-LKxsiHtzShlKg5RfpbLMxvovfHudGigTls3Qgz_7ynh3cf4ouH034OqbHHVw9jI-GJsZyJxof5sk77qXgw7oO6OQOlVdOmzQ7ybIWV_Q/s0/holland.JPG=s0?imgmax=0>
+
+**Description**: Shallow angle V-neck. Lack of ventral medial button row. Bilateral single straps. Bilateral pockets on skirt. Size 14. Skirt terminates superior to knee. **Fabric.** "Dutch Farm" print from Timeless Treasures. Bodice depicts front of red barn, doors open. Skirt features field of tulips (*Tulipa* L.). Pattern discontinuity at bodice&ndash;skirt seam.
+
+**Etymology**: From Medieval Latin *stadile* "barn".
 
 ```{=latex}
 \newpage
