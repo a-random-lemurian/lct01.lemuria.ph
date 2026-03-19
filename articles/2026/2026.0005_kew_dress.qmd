@@ -762,9 +762,7 @@ Ventral view. Hair positioned dorsally.
 
 **Etymology**: Fiona + *-ae*, feminine genitive suffix.
 
-**Specimens examined**:
-
-* Holotype.
+**Specimens examined**: See holotype information.
 
 **Remarks**:
 
@@ -985,6 +983,7 @@ Zoomed out angled ventral view. Hair positioned dorsally. Subject interacting wi
 
 **Specimens examined**:
 
+* Holotype.
 * ***Liz GCS2018/001KL*** &mdash;
 Photograph 2048&times;1710. PNG.
 EXIF metadata stripped; exposure, f-stop, lens foc. len unknown.
@@ -1043,6 +1042,7 @@ Ventral view. Hair positioned dorsally.
 
 **Specimens examined**:
 
+* Holotype.
 * ***Marie 2456a-KM*** &mdash;
 Photograph. 1686&times;2122.
 EXIF metadata stripped; exposure, f-stop, lens foc. len unknown. 
@@ -1191,12 +1191,11 @@ Exposure: 1/50s. F-stop: 1.7. Focal: 4.20 mm. ISO: unknown. Lens: unknown. Camer
 Angled ventral view, wearer's right.
 *Kewisia rachaelae* wb. Rachael, 2018.
 &copy; Rachael Beaumont or unknown photographer, 2018, all rights reserved.
-
-* **Page**: See @beaumont_kew_2018
-* **SHA2-256**: `058879679b2ee772611cf037226ac87f37a7cffcaeb029669e339be206f8486f`
-* **Raw image URLs**
-  * **Original**: <https://sewprettyful.wordpress.com/wp-content/uploads/2018/03/nina-leee-kew-dress-10.jpg>
-  * **IA**:
+  * **Page**: See @beaumont_kew_2018
+  * **SHA2-256**: `058879679b2ee772611cf037226ac87f37a7cffcaeb029669e339be206f8486f`
+  * **Raw image URLs**
+    * **Original**: <https://sewprettyful.wordpress.com/wp-content/uploads/2018/03/nina-leee-kew-dress-10.jpg>
+    * **IA**:
 <!-- File: nina-leee-kew-dress-11.jpg (HOLOTYPE INFO TEMPLATE FROM LCT01-HOLOTYPER)-->
 * ***Rachael 2018/KL11*** &mdash;
 Photograph. 1952&times;3333.
@@ -1490,6 +1489,7 @@ Tight crop, features dress in more detail. Hair positioned ventrally, no importa
 
 **Specimens examined**:
 
+* Holotype.
 <!-- File: chantelle2.jpg?v=1524850863 (HOLOTYPE INFO TEMPLATE FROM LCT01-HOLOTYPER)-->
 * ***Chantelle 2018/02KC*** &mdash;
 Photograph. 2268&times;3024.
