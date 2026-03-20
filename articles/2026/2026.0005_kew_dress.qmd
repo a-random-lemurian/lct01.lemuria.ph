@@ -1879,6 +1879,9 @@ We present a list of the image specimen identifiers we have assigned in this pap
 ```{=latex}
 \begin{multicols}{2}
 ```
+* *Bernice 37957KB*
+* *Bernice 48621KB*
+* *Cecilia 849728HC*
 * *Chantelle 2018.02KC*
 * *Chantelle 2018.03KC*
 * *Chantelle 2018.04KC*
@@ -1887,8 +1890,8 @@ We present a list of the image specimen identifiers we have assigned in this pap
 * *Elsa 2021.0013KE*
 * *Emily 3668HA*
 * *Emily 3670HA*
-* *Emma 2019-001HA*
-* *Emma 2019-001HS*
+* *Emma 2019-001.HA*
+* *Emma 2019-001.HS*
 * *Emma K01.HQ*
 * *Eva 0098FV*
 * *Eva 0120KE*
@@ -1898,6 +1901,7 @@ We present a list of the image specimen identifiers we have assigned in this pap
 * *Eva 4be-FL*
 * *Gingerthread 0212KZ*
 * *Irvine 0001HI*
+* *Joy 112.26042HL*
 * *Lehrer 0001.G65Z*
 * *Lehrer 2018.22063HKEW*
 * *Lehrer 2018.43603HKEW*
@@ -1916,6 +1920,9 @@ We present a list of the image specimen identifiers we have assigned in this pap
 * *Marie 2470a-KM*
 * *Marie 2485KM*
 * *Marie 2494KM*
+* *Modista 9861KM*
+* *Modista 9929KM*
+* *Modista 9943KM*
 * *Nina 0296TN*
 * *Parker 0001KF*
 * *Pimsy 0001KP*
@@ -1940,10 +1947,12 @@ We present a list of the image specimen identifiers we have assigned in this pap
 * *Rothery 6377KL*
 * *Rothery 8861KL*
 * *Rothery E530.KL*
-* *Sarah 0088HS.AU-TAS*
-* *Sarah 0087HS.AU-TAS*
-* *Sarah 0085HS.AU-TAS*
+* *Sally M40C8B-KR*
+* *Sally M8644KR*
 * *Sarah 0082HS.AU-TAS*
+* *Sarah 0085HS.AU-TAS*
+* *Sarah 0087HS.AU-TAS*
+* *Sarah 0088HS.AU-TAS*
 * *Sarah SC.12274KS*
 * *Yarngasm 281* (V)
 ```{=latex}
