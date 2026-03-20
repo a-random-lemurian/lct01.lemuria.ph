@@ -588,6 +588,25 @@ Photograph. 1080&times;1350. EXIF metadata stripped by Meta CDN.
   * **SHA2-256**: `e49d36f1d0da97a674453c3073e3437dab5835e8f4be30b1e2ba0a5808e38fee`
   * **IA**: <https://web.archive.org/web/20260319154052/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.2885-15/32203412_2115508038733054_3655784219990294528_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=MTc4NjUyMjU5NjAxMjA3MjI3OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTM1MC5zZHIuZGVmYXVsdF9pbWFnZS5DMyJ9&_nc_ohc=dRqDySO0u6wQ7kNvwGU3ovf&_nc_oc=AdpJH8WTAbtySRnddi8ij7ZEKr1SK1zXI-bvBZnBI0-NjGnQ9LIqTxoa0MFQsob6pS4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_ss=8&oh=00_AfxJnBJAutMp2fVzH8EAgnz_7LFzuzcHFbMpNxCX43ICGA&oe=69C1D48D>
 
+#### *Helikewisia mariae* {#sec-h-mariae}
+**Holotype**: *Maria 0001HM* &mdash; Photograph. 1454&times;2560. EXIF metadata stripped.
+*Helikewisia mariae* wb. Maria (pattern tester; W/2026 F1^[An "Unnamable Human(oid) Center" identifier, assigned for disambiguation purposes.]), c. 2023.
+&copy; Maria or unknown photographer
+
+* **Page**: See @chang-smith_kew_productpage
+* **SHA2-256**: `ba74c7feec707a9bb6c815f761ebc1916697dfa1ab06c1be353133cc896a2f77`
+* **Raw image URLs**:
+  * **Original**: <https://www.ninalee.co.uk/cdn/shop/products/Maria-Nina-Lee-Kew-Dress-Expansion-16-28-scaled.jpg?v=1677871708>
+  * **IA**: <https://web.archive.org/web/20260320193417/https://www.ninalee.co.uk/cdn/shop/products/Maria-Nina-Lee-Kew-Dress-Expansion-16-28-scaled.jpg?v=1677871708>
+
+**Description**: Shallow angle V-neck. Bilateral single straps.
+**Buttons.** Ventral medial button row of 23 buttons. Wood-like color. Four thread holes.
+**Fabric.** Unknown material. Plain pink fabric.
+
+**Remarks**:
+
+* Date inferred from Shopify CDN `v` parameter.
+
 #### *Helikewisia sarae* {#sec-h-sarae}
 ***Helikewisia sarae*** sp. nov.
 
@@ -1905,6 +1924,7 @@ We present a list of the image specimen identifiers we have assigned in this pap
 * *Liz GCS2018.004KL*
 * *Madalone 4823HE*
 * *Madalone Inst-1HE*
+* *Maria 0001HM*
 * *Marie 2451a-KM*
 * *Marie 2456a-KM*
 * *Marie 2468a-KM*
