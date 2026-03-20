@@ -604,7 +604,7 @@ Photograph. 1080&times;1350. EXIF metadata stripped by Meta CDN.
 *Helikewisia mariae* wb. Maria (pattern tester; W/2026 F1^[An "Unnamable Human(oid) Center" identifier, assigned for disambiguation purposes.]), c. 2023.
 &copy; Maria or unknown photographer
 
-* **Page**: See @chang-smith_kew_productpage
+* **Page**: See @kewdressexpansion1628
 * **SHA2-256**: `ba74c7feec707a9bb6c815f761ebc1916697dfa1ab06c1be353133cc896a2f77`
 * **Raw image URLs**:
   * **Original**: <https://www.ninalee.co.uk/cdn/shop/products/Maria-Nina-Lee-Kew-Dress-Expansion-16-28-scaled.jpg?v=1677871708>
@@ -955,7 +955,7 @@ Ventral view. Inferiormost two buttons unfastened.
 *Kewisia genyae* wb. Genya (W/2026 F2), 2023.
 &copy; Genya or unknown photographer, 2023, all rights reserved.
 
-* **Page**: @chang-smith_kew_productpage
+* **Page**: @kewdressexpansion1628
 * **SHA2-256**: `c5896da2fc77396abdec02d0fd35c3254e536c334f886c2e3cb8a312a0bf2016`
 * **Raw image URLs**:
   * **Original**: <https://www.ninalee.co.uk/cdn/shop/products/Genya-4-scaled.jpg?v=1677871708>
