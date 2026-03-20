@@ -1298,6 +1298,79 @@ Ventral view, zoomed out, subject standing straight, hair positioned dorsally.
 #### *Kewisia reginarunae* {#sec-k-reginarunae}
 ***Kewisia reginarunae*** Lemuria, 2026; first public desc.
 
+**Holotype**: *Alice 88719KR* &mdash; Photograph. 1334&times;2000. EXIF metadata stripped.
+Ventral view. Hair positioned ventrally, wearer's right strap obscured.
+*Kewisia reginarunae* wb. Alice.W., 2021.
+
+* **SHA2-256**: `94067b4af92cf45d7aaf9432f81c9e6a5c1093c3ef49c8b055145385551d2579`
+* **Page**: See @wang2021
+* **Raw image URLs**
+  * **Original**: <https://cdn.minerva.com/feed/original/image-sa-1066483-1000155-88719.jpg>
+  * **IA**: <https://web.archive.org/web/20260320181642/https://cdn.minerva.com/feed/original/image-sa-1066483-1000155-88719.jpg>
+
+**Description**: Shallow-angle V neck. Based on outdated measurements, size 6, graded to size 8 at waist. Bodice shortened by 2.54 cm (1 in).
+**Buttons.** Ventral medial row of 13 buttons.
+**Fabric.** Viscose from Art Gallery Fabrics. Blue background, floral, no known correspondence to botanical taxa.
+
+**Etymology**: Latin *regina* "queen" + *runa* "dart" + *-ae*, feminine genitive suffix.
+
+**Remarks**:
+
+* She purchased the pattern in July 2019, then printed it in April 2020, and by January 2021, cut the viscose to create the dress. She first began wearing it in February 2021.
+* Due to the COVID-19 pandemic, Alice's physical activity was significantly reduced, which caused her body mass to increase. As a result, when she wore it, Alice wrote in her blog post that she felt "quite restricted in it". However, it still fit; no major gaps emerged between the buttons.
+
+**Specimens examined**:
+
+* Holotype.
+* ***Alice 94531KR*** &mdash; Photograph. 1334&times;2000.
+EXIF metadata stripped.
+Dorsal view. Hair positioned dorsally, terminating superior to sleeve. Straps not obscured.
+*Kewisia reginarunae* wb. Alice W., 2021.
+&copy; Alice of *Queen of Darts*, 2021, all rights reserved.
+  * **SHA2-256**: `d8ac52970bd74dfd6d49c6ff255c1796b6975d68179a306808f5adec2e12158b`
+  * **Page**: See @wang2021
+  * **Raw image URLs**
+    * **Original**:
+    * **IA**: <https://cdn.minerva.com/feed/original/image-sa-1066483-1000155-94531.jpg> <https://web.archive.org/web/20260320181638/https://cdn.minerva.com/feed/original/image-sa-1066483-1000155-94531.jpg>
+* ***Alice 33000KR*** &mdash; Photograph. 1334&times;2000.
+EXIF metadata stripped.
+Angled ventral view, hair positioned laterally, straps not obscured.
+*Kewisia reginarunae* wb. Alice W., 2021.
+&copy; Alice of *Queen of Darts*, 2021, all rights reserved.
+  * **SHA2-256**: `095dfeea27b6c77408c1b0abff70aa1188a3e5b47091bcea7d8d4cc96751e8f1`
+  * **Page**: See @wang2021
+  * **Raw image URLs**
+    * **Original**:
+    * **IA**: <https://cdn.minerva.com/feed/original/image-sa-1066483-1000155-33300.jpg> <https://web.archive.org/web/20260320181644/https://cdn.minerva.com/feed/original/image-sa-1066483-1000155-33300.jpg>
+* ***Alice 29682KR*** &mdash; Photograph. 1334&times;2000.
+EXIF metadata stripped.
+Left lateral view. Left elbow extended out.
+*Kewisia reginarunae* wb. Alice W., 2021.
+&copy; Alice of *Queen of Darts*, 2021, all rights reserved.
+  * **SHA2-256**: `e97a99a05cc41f27c5f3bf414123b2933ef4a81e8dfa5b3a7f3a23b61e36066a`
+  * **Page**: See @wang2021
+  * **Raw image URLs**
+    * **Original**:
+    * **IA**: <https://cdn.minerva.com/feed/original/image-sa-1066483-1000155-29682.jpg> <https://web.archive.org/web/20260320181636/https://cdn.minerva.com/feed/original/image-sa-1066483-1000155-29682.jpg>
+* ***Alice 18651KR*** &mdash; Photograph. 1334&times;2000.
+EXIF metadata stripped.
+Dress on red mannequin, truncated ventral view from first to eighth buttons.
+&copy; Alice of *Queen of Darts*, 2021, all rights reserved.
+  * **SHA2-256**: `0bfaa8acf7e17c8f07b86cdad15be8c77783ba15515e12da12454ab1a4f17af1`
+  * **Page**: See @wang2021
+  * **Raw image URLs**
+    * **Original**:
+    * **IA**: <https://cdn.minerva.com/feed/original/image-sa-1066483-1000155-18651.jpg> <https://web.archive.org/web/20260320181702/https://cdn.minerva.com/feed/original/image-sa-1066483-1000155-18651.jpg>
+* ***Alice 27962KR*** &mdash; Photograph. 1334&times;2000.
+EXIF metadata stripped.
+Dress on red mannequin, angled ventral view of sleeve and strap.
+&copy; Alice of *Queen of Darts*, 2021, all rights reserved.
+  * **SHA2-256**: `ca0b7444873272bdc8262139cd20fdf871fb29523a88a407e5a84dd0d4de4fb3`
+  * **Page**: See @wang2021
+  * **Raw image URLs**
+    * **Original**:
+    * **IA**: <https://cdn.minerva.com/feed/original/image-sa-1066483-1000155-27962.jpg> <https://web.archive.org/web/20260320181712/https://cdn.minerva.com/feed/original/image-sa-1066483-1000155-27962.jpg>
+
 #### *Kewisia sarae* {#sec-k-sarae}
 ***Kewisia sarae*** Lemuria, 2026; first public desc.
 
@@ -1726,6 +1799,7 @@ In this paper, we used the following person abbreviations.
 \begin{multicols}{2}
 ```
 * **Alice.Ir.** &mdash; Alice Irvine
+* **Alice.W.** &mdash; Alice Wang (Instagram: &commat;alice_x_wang), author of the blog *Queen of Darts*
 * **Bernice** &mdash; Bernice (Instagram: &commat;sewbee73), a sewist based in the San Francisco Bay Area.
 * **Emma of N.** &mdash; Emma, author of *Crafty Clyde*. As her last name is unavailable, we assign her the LCT-01 disambiguated name Emma of Norfolk, shortened to Emma of N.
 * **Erin.M.** &mdash; Erin Madalone (Instagram: &commat;poeticmemorysewing), an American sewist based in New Jersey.
@@ -1770,6 +1844,12 @@ We present a list of the image specimen identifiers we have assigned in this pap
 ```{=latex}
 \begin{multicols}{2}
 ```
+* *Alice 94531KR*
+* *Alice 88719KR*
+* *Alice 33000KR*
+* *Alice 29682KR*
+* *Alice 18651KR*
+* *Alice 27962KR*
 * *Bernice 37957KB*
 * *Bernice 48621KB*
 * *Cecilia 849728HC*
