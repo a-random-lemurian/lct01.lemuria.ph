@@ -917,6 +917,25 @@ Ventral view. Hair positioned dorsally.
 
 * Parker purchased the pattern from Chang-Smith herself at the Great British Sewing Bee in January 2018, and began work on the dress by July 2018. In Spring 2018, Andree gifted Parker 1.5 meters of the fabric, 138 cm wide.
 
+#### *Kewisia genyae* {#sec-k-genyae}
+***Kewisia genyae*** sp. nov.
+
+**Holotype**: *Genya 2023.0004KG* &mdash; Photograph.
+1920&times;2560. EXIF metadata stripped. Ventral view.
+Ventral view. Inferiormost two buttons unfastened.
+*Kewisia genyae* wb. Genya, 2023.
+&copy; Genya or unknown photographer, 2023, all rights reserved.
+
+* **Page**: @chang-smith_kew_productpage
+* **SHA2-256**: `c5896da2fc77396abdec02d0fd35c3254e536c334f886c2e3cb8a312a0bf2016`
+* **Raw image URLs**:
+  * **Original**: <https://www.ninalee.co.uk/cdn/shop/products/Genya-4-scaled.jpg?v=1677871708>
+  * **IA**: <https://web.archive.org/web/20260320191618/https://www.ninalee.co.uk/cdn/shop/products/Genya-4-scaled.jpg?v=1677871708>
+
+**Description**: Bilateral straps, considerably more medial. Shallow-angle V neck. Strap neckline curves medially, with abrupt straight line laterally, roughly 45&deg;.
+**Buttons.** Ventral medial button row. Buttons on wearer's left. 15 buttons.
+**Fabric.** Emerald-green, plain, unknown material.
+
 #### *Kewisia kristinae* {#sec-k-kristinae}
 ***Kewisia kristinae*** Lemuria, 2026; first public desc.
 
@@ -1870,6 +1889,7 @@ We present a list of the image specimen identifiers we have assigned in this pap
 * *Eva 3222FV*
 * *Eva 3318KE*
 * *Eva 4be-FL*
+* *Genya 2023.0004KG*
 * *Gingerthread 0212KZ*
 * *Irvine 0001HI*
 * *Joy 112.26042HL*
