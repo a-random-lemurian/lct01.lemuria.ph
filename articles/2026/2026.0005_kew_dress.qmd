@@ -1226,11 +1226,15 @@ Ventral view. Wearer's left arm placed on bodice, inferior to bodice&ndash;skirt
 * **SHA2-256**: `81942cc72cfce9de1edca8fa6309b02bf8d9bd3927a4422f23863d8b7871c51d`
 * **Raw image URLs**
   * **Original**: <https://sewprettyful.wordpress.com/wp-content/uploads/2018/03/nina-leee-kew-dress-20.jpg>
-  * **IA**:
 
 **Description**: Shallow-angle V-neck. Bilateral single straps. **Buttons.** 12 buttons, 5 on bodice, 7 on skirt. Fabric covered. Bodice size 10, with 1 in (2.54 cm) bust adjustment. 1.5 cm seam allowance. Skirt terminates parallel to knee, shortened by 3.25 in (8.25 cm). **Fabric.** Lavender background. Floral. Plants include but are not limited to *Adiantum capillus-veneris* L. (maidenhair fern), *Hydrangea macrophylla* (Thunb.) Ser. (bigleaf hydrangea). On sleeves, stylized bird most similar to *Irena puella* (Latham, 1790), the Asian fairy-bluebird.
 
 **Etymology**: *Rachael* + *-ae*, feminine genitive suffix.
+
+**Remarks**:
+* Due to content negotiation issues between the Wayback Machine's crawler and Rachael's site (where images return HTML previews instead), we recommend these links for verifying the archive:
+  * <https://archive.org/details/archiveteam_archivebot_go_20260320094602_3d45c6e0>
+  * Other Archiveteam archives for Rachael's blog may be indexed at <https://archive.fart.website/archivebot/viewer/domain/sewprettyful.wordpress.com>.
 
 **Specimens examined**:
 
@@ -1246,7 +1250,6 @@ Angled lateral view, wearer's left.
   * **SHA2-256**: `16b1992272a5f1b39d7d3d26d2c8d56684c1de369c3d8a28bc34288ed8eb1d09`
   * **Raw image URLs**
     * **Original**: <https://sewprettyful.wordpress.com/wp-content/uploads/2018/03/nina-leee-kew-dress-5.jpg>
-    * **IA**:
 <!-- File: nina-leee-kew-dress-8.jpg (HOLOTYPE INFO TEMPLATE FROM LCT01-HOLOTYPER)-->
 * ***Rachael 2018.KL08*** &mdash;
 Photograph. 1955&times;3956.
@@ -1258,7 +1261,6 @@ Dorsal view. Hair positioned ventrally.
   * **SHA2-256**: `6032dc87d20e92423d5c75cf0dd22449f7eb9eceb326a1bcb5dcd0c268a3f457`
   * **Raw image URLs**
     * **Original**: <https://sewprettyful.wordpress.com/wp-content/uploads/2018/03/nina-leee-kew-dress-8.jpg>
-    * **IA**:
 <!-- File: nina-leee-kew-dress-10.jpg (HOLOTYPE INFO TEMPLATE FROM LCT01-HOLOTYPER)-->
 * ***Rachael 2018.KL10*** &mdash;
 Photograph. 1758&times;3356.
@@ -1270,7 +1272,6 @@ Angled ventral view, wearer's right.
   * **SHA2-256**: `058879679b2ee772611cf037226ac87f37a7cffcaeb029669e339be206f8486f`
   * **Raw image URLs**
     * **Original**: <https://sewprettyful.wordpress.com/wp-content/uploads/2018/03/nina-leee-kew-dress-10.jpg>
-    * **IA**:
 <!-- File: nina-leee-kew-dress-11.jpg (HOLOTYPE INFO TEMPLATE FROM LCT01-HOLOTYPER)-->
 * ***Rachael 2018.KL11*** &mdash;
 Photograph. 1952&times;3333.
@@ -1282,7 +1283,6 @@ Slightly angled ventral view. hair positioned ventrally and obscuring straps on 
   * **SHA2-256**: `d30c31b86de13d7c0a4dc09cf6d735da4821a284f230d190b747022b60c24654`
   * **Raw image URLs**
     * **Original**: <https://sewprettyful.wordpress.com/wp-content/uploads/2018/03/nina-leee-kew-dress-11.jpg>
-    * **IA**:
 <!-- File: nina-leee-kew-dress-13.jpg (HOLOTYPE INFO TEMPLATE FROM LCT01-HOLOTYPER)-->
 * ***Rachael 2018.KL13*** &mdash;
 Photograph. 3024&times;4032.
@@ -1294,7 +1294,6 @@ Slightly angled ventral view, wearer's left, tighter crop.
   * **SHA2-256**: `eac1a6b5a97f262ff1c9600b1c896ee873c258e41488456a8090f087641f961e`
   * **Raw image URLs**
     * **Original**: <https://sewprettyful.wordpress.com/wp-content/uploads/2018/03/nina-leee-kew-dress-13.jpg>
-    * **IA**:
 <!-- File: nina-leee-kew-dress-15.jpg (HOLOTYPE INFO TEMPLATE FROM LCT01-HOLOTYPER)-->
 * ***Rachael 2018.KL15*** &mdash;
 Photograph. 2091&times;2683.
@@ -1306,7 +1305,6 @@ Ventral view of fabric, buttons 4&ndash;8.
   * **SHA2-256**: `21272992a994272686afd4c56f97b4d85588b7791c5fd463e8f5febfd4d9aefc`
   * **Raw image URLs**
     * **Original**: <https://sewprettyful.wordpress.com/wp-content/uploads/2018/03/nina-leee-kew-dress-15.jpg>
-    * **IA**:
 <!-- File: nina-leee-kew-dress-16.jpg (HOLOTYPE INFO TEMPLATE FROM LCT01-HOLOTYPER)-->
 * ***Rachael 2018.KL16*** &mdash;
 Photograph. 2134&times;2990.
@@ -1318,7 +1316,6 @@ Truncated lateral view, wearer's left, shoulder emphasized.
   * **SHA2-256**: `9a3beb36341ad12a37e3ad41165a661740ebe4b81c86c278e627a43088d9be7f`
   * **Raw image URLs**
     * **Original**: <https://sewprettyful.wordpress.com/wp-content/uploads/2018/03/nina-leee-kew-dress-16.jpg>
-    * **IA**:
 <!-- File: nina-leee-kew-dress-17.jpg (HOLOTYPE INFO TEMPLATE FROM LCT01-HOLOTYPER)-->
 * ***Rachael 2018.KL17*** &mdash;
 Photograph. 2876&times;3337.
@@ -1330,7 +1327,6 @@ Truncated dorsal view, subject likely has arms crossed ventrally.
   * **SHA2-256**: `6ae8e3847828e6027db7a211ee7a77584b7d7a88eff99845bf4d67f06b5336ec`
   * **Raw image URLs**
     * **Original**: <https://sewprettyful.wordpress.com/wp-content/uploads/2018/03/nina-leee-kew-dress-17.jpg>
-    * **IA**:
 <!-- File: nina-leee-kew-dress-19.jpg (HOLOTYPE INFO TEMPLATE FROM LCT01-HOLOTYPER)-->
 * ***Rachael 2018.KL19*** &mdash;
 Photograph. 2518&times;4032.
@@ -1342,7 +1338,6 @@ Ventral view, zoomed out, subject standing straight, hair positioned dorsally.
   * **SHA2-256**: `813e05079ef6ace0692a867eaad489504ae8edd030358333d75f75d269fdc8c2`
   * **Raw image URLs**
     * **Original**: <https://sewprettyful.wordpress.com/wp-content/uploads/2018/03/nina-leee-kew-dress-19.jpg>
-    * **IA**:
 
 #### *Kewisia reginarunae* {#sec-k-reginarunae}
 ***Kewisia reginarunae*** Lemuria, 2026; first public desc.
@@ -1379,8 +1374,8 @@ Dorsal view. Hair positioned dorsally, terminating superior to sleeve. Straps no
   * **SHA2-256**: `d8ac52970bd74dfd6d49c6ff255c1796b6975d68179a306808f5adec2e12158b`
   * **Page**: See @wang2021
   * **Raw image URLs**
-    * **Original**:
-    * **IA**: <https://cdn.minerva.com/feed/original/image-sa-1066483-1000155-94531.jpg> <https://web.archive.org/web/20260320181638/https://cdn.minerva.com/feed/original/image-sa-1066483-1000155-94531.jpg>
+    * **Original**: <https://cdn.minerva.com/feed/original/image-sa-1066483-1000155-94531.jpg>
+    * **IA**: <https://web.archive.org/web/20260320181638/https://cdn.minerva.com/feed/original/image-sa-1066483-1000155-94531.jpg>
 * ***Alice 33000KR*** &mdash; Photograph. 1334&times;2000.
 EXIF metadata stripped.
 Angled ventral view, hair positioned laterally, straps not obscured.
@@ -1389,8 +1384,8 @@ Angled ventral view, hair positioned laterally, straps not obscured.
   * **SHA2-256**: `095dfeea27b6c77408c1b0abff70aa1188a3e5b47091bcea7d8d4cc96751e8f1`
   * **Page**: See @wang2021
   * **Raw image URLs**
-    * **Original**:
-    * **IA**: <https://cdn.minerva.com/feed/original/image-sa-1066483-1000155-33300.jpg> <https://web.archive.org/web/20260320181644/https://cdn.minerva.com/feed/original/image-sa-1066483-1000155-33300.jpg>
+    * **Original**: <https://cdn.minerva.com/feed/original/image-sa-1066483-1000155-33300.jpg>
+    * **IA**: <https://web.archive.org/web/20260320181644/https://cdn.minerva.com/feed/original/image-sa-1066483-1000155-33300.jpg>
 * ***Alice 29682KR*** &mdash; Photograph. 1334&times;2000.
 EXIF metadata stripped.
 Left lateral view. Left elbow extended out.
@@ -1399,8 +1394,8 @@ Left lateral view. Left elbow extended out.
   * **SHA2-256**: `e97a99a05cc41f27c5f3bf414123b2933ef4a81e8dfa5b3a7f3a23b61e36066a`
   * **Page**: See @wang2021
   * **Raw image URLs**
-    * **Original**:
-    * **IA**: <https://cdn.minerva.com/feed/original/image-sa-1066483-1000155-29682.jpg> <https://web.archive.org/web/20260320181636/https://cdn.minerva.com/feed/original/image-sa-1066483-1000155-29682.jpg>
+    * **Original**: <https://cdn.minerva.com/feed/original/image-sa-1066483-1000155-29682.jpg>
+    * **IA**: <https://web.archive.org/web/20260320181636/https://cdn.minerva.com/feed/original/image-sa-1066483-1000155-29682.jpg>
 * ***Alice 18651KR*** &mdash; Photograph. 1334&times;2000.
 EXIF metadata stripped.
 Dress on red mannequin, truncated ventral view from first to eighth buttons.
@@ -1408,8 +1403,8 @@ Dress on red mannequin, truncated ventral view from first to eighth buttons.
   * **SHA2-256**: `0bfaa8acf7e17c8f07b86cdad15be8c77783ba15515e12da12454ab1a4f17af1`
   * **Page**: See @wang2021
   * **Raw image URLs**
-    * **Original**:
-    * **IA**: <https://cdn.minerva.com/feed/original/image-sa-1066483-1000155-18651.jpg> <https://web.archive.org/web/20260320181702/https://cdn.minerva.com/feed/original/image-sa-1066483-1000155-18651.jpg>
+    * **Original**: <https://cdn.minerva.com/feed/original/image-sa-1066483-1000155-18651.jpg>
+    * **IA**: <https://web.archive.org/web/20260320181702/https://cdn.minerva.com/feed/original/image-sa-1066483-1000155-18651.jpg>
 * ***Alice 27962KR*** &mdash; Photograph. 1334&times;2000.
 EXIF metadata stripped.
 Dress on red mannequin, angled ventral view of sleeve and strap.
@@ -1417,8 +1412,8 @@ Dress on red mannequin, angled ventral view of sleeve and strap.
   * **SHA2-256**: `ca0b7444873272bdc8262139cd20fdf871fb29523a88a407e5a84dd0d4de4fb3`
   * **Page**: See @wang2021
   * **Raw image URLs**
-    * **Original**:
-    * **IA**: <https://cdn.minerva.com/feed/original/image-sa-1066483-1000155-27962.jpg> <https://web.archive.org/web/20260320181712/https://cdn.minerva.com/feed/original/image-sa-1066483-1000155-27962.jpg>
+    * **Original**: <https://cdn.minerva.com/feed/original/image-sa-1066483-1000155-27962.jpg>
+    * **IA**: <https://web.archive.org/web/20260320181712/https://cdn.minerva.com/feed/original/image-sa-1066483-1000155-27962.jpg>
 
 #### *Kewisia sarae* {#sec-k-sarae}
 ***Kewisia sarae*** Lemuria, 2026; first public desc.
