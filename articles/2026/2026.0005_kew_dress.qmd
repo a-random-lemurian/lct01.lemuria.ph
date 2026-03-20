@@ -400,7 +400,7 @@ Exposure: unknown. F-stop: unknown. Focal: unknown. ISO: unknown. Lens: unknown.
 
 **Specimens examined**: See holotype information.
 
-### *Helikewabotonia lanata* {#sec-h-lanata}
+#### *Helikewabotonia lanata* {#sec-h-lanata}
 ***Helikewabotonia lanata*** sp. nov.
 
 **Holotype**: *Joy 112.26042HL* &mdash;
@@ -426,6 +426,7 @@ Ventral view, hair positioned ventrally, obscuring straps.
 
 **Specimens examined**:
 
+* Holotype.
 * ***Joy 112.69087HL*** &mdash;
 Photograph. 1080&times;1253.
 EXIF metadata stripped. Photographed 2018-05-06.
@@ -489,11 +490,9 @@ Angled ventral view, roughly 45&deg; horizontal, 45&deg; vertical, subject on st
 
 **Description**: Shallow-angle V-neck. Bilateral single straps. Straps 2 in (5.08 cm) longer. Ventral medial button row. Buttons fabric-covered, ~12 buttons visible; some buttons in holotype image obscured by skirt. Skirt termination point unknown due to angle of holotype image. **Fabric.** Jennifer crepe from Sew Me Sunshine, sunshine yellow background. Monochrome black and white floral line art print. Flower most closely resembles Chrysanthemum &times; morifolium (Ramat.) Hemsl.
 
-**Etymology**: Cecilia + *-ae*, feminine genitive suffix.
+**Etymology**: *Cecilia* + *-ae*, feminine genitive suffix.
 
-**Specimens examined**:
-
-* Holotype.
+**Specimens examined**: See holotype information.
 
 **Remarks**:
 
@@ -512,7 +511,7 @@ Angled ventral view, roughly 45&deg; horizontal, 45&deg; vertical, subject on st
 
 **Description**: Shallow angle V-neck. Bilateral single straps. **Fabric.** Rayon. "Strawberry Fields Rayon in Ivory", Rifle Paper Co. Wildflowers. Numerous flowers, including but not limited to, *Centaurea cyanus* L.;  *Ranunculus repens* L. **Buttons.** Emerald-green like. Unknown reflective material, likely plastic. White thread, two thread holes. Buttons attached to left side of bodice (wearer's perspective).
 
-**Etymology**: Erin + *-ae*, feminine genitive suffix.
+**Etymology**: *Erin* + *-ae*, feminine genitive suffix.
 
 **Specimens examined**:
 
@@ -610,12 +609,15 @@ Ventral view, subject looking to right.
 **Buttons.** Ventral medial button row, 12 buttons. Two thread holes, thread line vertical, 
 **Fabric.** Floral rayon. White background. No known correspondence of artistic depictions to botanical taxa.
 
+**Etymology**: *Sarah* + *-ae*, feminine genitive suffix.
+
 **Remarks**:
 
 * The *Craftily Handmade* blog returns HTML previews of images, which has impeded archival in the Internet Archive's Wayback Machine.
 
 **Specimens examined**:
 
+* Holotype
 <!-- File: p1040085.jpg (HOLOTYPE INFO TEMPLATE FROM LCT01-HOLOTYPER)-->
 * *Sarah 0085HS.AU-TAS*
 Photograph. 960&times;1280.
@@ -747,6 +749,8 @@ EXIF metadata stripped.
 **Description**: Shallow angle V-neck, curving medially. Bilateral single straps. Skirt terminates superior to knee.
 **Fabric.** Unknown material. Light cyan background, floral, yellow flowers, green leaves. No known correspondence to botanical taxa.
 
+**Etymology**: *Sarah* + *-ae*, feminine genitive suffix.
+
 **Specimens examined**: See holotype information.
 
 #### *Kewabotonia elsae* {#sec-k-elsae}
@@ -789,7 +793,7 @@ Exposure: 1/125s. F-stop: 8. Focal: 41 mm. Lens: EF24-105mm f/4L IS II USM. Came
 
 **Description**: Bilateral single straps. Lack of ventral medial button row. Full circle skirt. Interior white lining, with purple ink "Hand Crafted by Sewprettyful" label positioned medially on interior dorsal lining. Full overlay on bodice and skirt, plain band at bodice&ndash;skirt transition on transpyloric plane. White layers of fabric deep to outer layer. **Fabric.**
 
-**Etymology**: Latin *nuptiae* "marriage" + Rachael's name + *-ae*, feminine genitive suffix.
+**Etymology**: Latin *nuptiae* "marriage" + *Rachael* + *-ae*, feminine genitive suffix.
 
 **Specimens examined**:
 
@@ -834,6 +838,8 @@ Ventral view. Hair mostly positioned dorsally, with slight amount of hair obscur
 
 **Description**: Shallow angle V-neck. Bilateral single straps. Sleeves typical to that of Kewoidea and level with bodice. Bodice shortened by 19 mm (0.75 in), skirt shortened by 38 mm (1.5 in), due to Bernice's height of 156 cm (5 ft 1 in). **Buttons.** 12 buttons, four on bodice, eight on skirt, divergence from typical 15 buttons. Four thread holes, white dome buttons. Button size more typical of shirts (Camibotonia). **Fabric.** Lady McElroy Amerilis Cotton Lawn. White background, floral, stylized depictions of tulips (*Tulipa* L.). Four distinct cuts of fabric inferred from abrupt pattern changes, converging between fourth and fifth button.
 
+**Etymology**: *Bernice* + *-ae*, feminine genitive suffix.
+
 **Specimens examined**:
 
 * Holotype.
@@ -875,10 +881,14 @@ Ventral (front) view. Hair positioned dorsally.
 
 **Description**: Shallow angle V-neck. Bilateral single straps. Sleeves typical to that of Kewoidea and level with bodice. Skirt terminates inferior to knee. Ventral medial row of 13 buttons. 4 on bodice, 8 on skirt, single button at bodice&ndash;skirt seam. **Fabric.** Blue linen, plain. Fabrics Galore.
 
+**Etymology**: *Eva* + *-ae*, feminine genitive suffix.
+
 **Remarks**:
 
 * Eva reported difficulty in accurately photographing the color of *Kewisia evae*. She describes it as "somewhere between a smurf and the Victoria Line", and "lighter than a cobalt blue but still quite bright".
 * *Kewisia evae* was first described in @lemuria_general_2026, but it was shortened for brevity. We describe it here in more detail.
+
+**Specimens examined**: See holotype information.
 
 #### *Kewisia fionae* {#sec-k-fionae}
 ***Kewisia fionae*** Lemuria, 2026; first public desc.
@@ -899,7 +909,7 @@ Ventral view. Hair positioned dorsally.
 
 **Description**: Shallow angle V-neck. Bilateral single straps. Sleeves typical to that of Kewoidea and level with bodice. Skirt terminates inferior to knee. Ventral medial row of 15 buttons, solid black with two thread holes, white thread, sourced from The Cloth House on Berwick Street. Straps shortened by 2.5 cm (1 in). Bust cut at size 8, graded to 10 towards transpyloric plane. **Fabric.** Dahlia viscose crepe, from the company Til The Sun Goes Down, operated by Andree Holden.^[Also known as Andree Hansen; inconsistent names observed.] Floral pattern, black, yellow, and white.
 
-**Etymology**: Fiona + *-ae*, feminine genitive suffix.
+**Etymology**: *Fiona* + *-ae*, feminine genitive suffix.
 
 **Specimens examined**: See holotype information.
 
@@ -916,9 +926,9 @@ EXIF metadata stripped. Sourced from Meta CDN, original URL non-permanent.
 Ventral view, Lehrer looking down.
 *Kewisia kristinae* wb. Lehrer, 2018. &copy; Kristin Lehrer, 2018, all rights reserved.
 
-  * **Page**: See @lehrer_voolenvvlog_2018.
-  * **SHA2-256**: `f37209aae5875c28c61f718c51d5752c70e58c8e1b7b62cf147966e3d3971769`
-  * **IA**: <https://web.archive.org/web/20260319132608/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.2885-15/37916165_271939026870446_3584395751792312320_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=MTgzNTc5NTc1OTQ2Mzg1MDg1Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTM1MC5zZHIuZGVmYXVsdF9pbWFnZS5DMyJ9&_nc_ohc=ohE9edBqAhwQ7kNvwH1a-vW&_nc_oc=AdoBj2wPIzck737gF5Z2tZoZUXyVGWIa74qUPSuFNYexgX3yT0QBe_GqczxysLbQ0qE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_ss=8&oh=00_AfyJ92sFgYXkhTPQ4ZxPIIWGP6khWt6K3IJTf2ImxlRq1g&oe=69C1DBC8>
+* **Page**: See @lehrer_voolenvvlog_2018.
+* **SHA2-256**: `f37209aae5875c28c61f718c51d5752c70e58c8e1b7b62cf147966e3d3971769`
+* **IA**: <https://web.archive.org/web/20260319132608/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.2885-15/37916165_271939026870446_3584395751792312320_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=MTgzNTc5NTc1OTQ2Mzg1MDg1Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTM1MC5zZHIuZGVmYXVsdF9pbWFnZS5DMyJ9&_nc_ohc=ohE9edBqAhwQ7kNvwH1a-vW&_nc_oc=AdoBj2wPIzck737gF5Z2tZoZUXyVGWIa74qUPSuFNYexgX3yT0QBe_GqczxysLbQ0qE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_ss=8&oh=00_AfyJ92sFgYXkhTPQ4ZxPIIWGP6khWt6K3IJTf2ImxlRq1g&oe=69C1DBC8>
 
 
 **Description**: Shallow angle V-neck. Bilateral single straps. Sleeves typical to that of Kewoidea and level with bodice. Skirt terminates superior to knee.
@@ -964,136 +974,7 @@ Fabric and buttons of *Kewisia kristinae* pre-assembly.
 * No method of reliably reproducible video downloads is known.
 * On March 19, 2026, we visited Lehrer's Instagram page using Imginn to retrieve photographic evidence. Instagram can now be considered a reproducible source when Save Page Now is used to submit CDN URLs.
 
-**`yt-dlp` provenance:**
-```
-$ yt-dlp --version                                                                                      0
-2026.03.13.083652
-$ yt-dlp --write-info-json --write-description 'https://www.youtube.com/watch?v=C_cpG65ZGyE'
-[youtube] Extracting URL: https://www.youtube.com/watch?v=C_cpG65ZGyE
-[youtube] C_cpG65ZGyE: Downloading webpage
-WARNING: [youtube] No supported JavaScript runtime could be found.
-Only deno is enabled by default; to use another runtime add
---js-runtimes RUNTIME[:PATH]  to your command/config. YouTube
-extraction without a JS runtime has been deprecated, and some
-formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS
-for details on installing one
-[youtube] C_cpG65ZGyE: Downloading android vr player API JSON
-[info] C_cpG65ZGyE: Downloading 1 format(s): 137+251
-[info] Writing video description to:
-  VoolenvVLOG： The Seamstress Tag! [C_cpG65ZGyE].description
-[info] Writing video metadata as JSON to:
-  VoolenvVLOG： The Seamstress Tag! [C_cpG65ZGyE].info.json
-[download] Destination: VoolenvVLOG： The Seamstress Tag! [C_cpG65ZGyE].f137.mp4
-[download] 100% of  115.81MiB in 00:00:23 at 5.03MiB/s
-[download] Destination: VoolenvVLOG： The Seamstress Tag! [C_cpG65ZGyE].f251.webm
-[download] 100% of   12.28MiB in 00:00:02 at 5.49MiB/s
-[Merger] Merging formats into
-  "VoolenvVLOG： The Seamstress Tag! [C_cpG65ZGyE].mkv"
-Deleting original file VoolenvVLOG： The Seamstress Tag! [C_cpG65ZGyE].f137.mp4 (pass -k to keep)
-Deleting original file VoolenvVLOG： The Seamstress Tag! [C_cpG65ZGyE].f251.webm (pass -k to keep)
-$ sha256sum VoolenvVLOG：\ The\ Seamstress\ Tag\!\ \[C_cpG65ZGyE\].mkv
-26d8f585d3f683bd21a158954da41103b163bb99b88c6e1cb508bf292d9076be
-VoolenvVLOG： The Seamstress Tag! [C_cpG65ZGyE].mkv
-```
-
-Terminal output has been manually newlined for ease of printing.
-
-```
-$ yt-dlp --write-info-json --write-description \
-  https://www.youtube.com/watch\?v\=adTrJzjOXbc \
-  https://www.youtube.com/watch\?v\=BicN7eyA2U4 \
-  https://www.youtube.com/watch\?v\=O66xjOf4DhM
-[youtube] Extracting URL: https://www.youtube.com/watch?v=adTrJzjOXbc
-[youtube] adTrJzjOXbc: Downloading webpage
-WARNING: [youtube] No supported JavaScript runtime could be found.
-Only deno is enabled by default; to use another runtime add
---js-runtimes RUNTIME[:PATH]  to your command/config. YouTube
-extraction without a JS runtime has been deprecated, and some
-formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS
-for details on installing one
-[youtube] adTrJzjOXbc: Downloading android vr player API JSON
-[info] adTrJzjOXbc: Downloading 1 format(s): 135+251
-[info] Writing video description to:
-  YARNGASM： Episode 273 - ＂I Say Tomato, You Say ...＂ [adTrJzjOXbc].description
-[info] Writing video metadata as JSON to:
-  YARNGASM： Episode 273 - ＂I Say Tomato, You Say ...＂ [adTrJzjOXbc].info.json
-[download] Destination:
-  YARNGASM： Episode 273 - ＂I Say Tomato, You Say ...＂ [adTrJzjOXbc].f135.mp4
-[download] 100% of   98.67MiB in 00:00:22 at 4.47MiB/s
-[download] Destination:
-  YARNGASM： Episode 273 - ＂I Say Tomato, You Say ...＂ [adTrJzjOXbc].f251.webm
-[download] 100% of   30.10MiB in 00:00:05 at 5.58MiB/s
-[Merger] Merging formats into "YARNGASM： Episode 273 - ＂I Say Tomato, You Say ...＂ [adTrJzjOXbc].mkv"
-Deleting original file
-  YARNGASM： Episode 273 - ＂I Say Tomato, You Say ...＂ [adTrJzjOXbc].f135.mp4
-  (pass -k to keep)
-Deleting original file
-  YARNGASM： Episode 273 - ＂I Say Tomato, You Say ...＂ [adTrJzjOXbc].f251.webm
-  (pass -k to keep)
-[youtube] Extracting URL: https://www.youtube.com/watch?v=BicN7eyA2U4
-[youtube] BicN7eyA2U4: Downloading webpage
-WARNING: [youtube] No supported JavaScript runtime could be found.
-Only deno is enabled by default; to use another runtime add
---js-runtimes RUNTIME[:PATH]  to your command/config. YouTube
-extraction without a JS runtime has been deprecated, and some
-formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS
-for details on installing one
-[youtube] BicN7eyA2U4: Downloading android vr player API JSON
-[info] BicN7eyA2U4: Downloading 1 format(s): 135+251
-[info] Writing video description to:
-  YARNGASM： Episode 278 - ＂Living On the Edge＂ [BicN7eyA2U4].description
-[info] Writing video metadata as JSON to:
-  YARNGASM： Episode 278 - ＂Living On the Edge＂ [BicN7eyA2U4].info.json
-[download] Destination:
-  YARNGASM： Episode 278 - ＂Living On the Edge＂ [BicN7eyA2U4].f135.mp4
-[download] 100% of  126.58MiB in 00:00:59 at 2.12MiB/s
-[download] Destination:
-  YARNGASM： Episode 278 - ＂Living On the Edge＂ [BicN7eyA2U4].f251.webm
-[download] 100% of   32.26MiB in 00:00:11 at 2.88MiB/s
-[Merger] Merging formats into "YARNGASM： Episode 278 - ＂Living On the Edge＂ [BicN7eyA2U4].mkv"
-Deleting original file
-  YARNGASM： Episode 278 - ＂Living On the Edge＂ [BicN7eyA2U4].f251.webm
-  (pass -k to keep)
-Deleting original file
-  YARNGASM： Episode 278 - ＂Living On the Edge＂ [BicN7eyA2U4].f135.mp4
-  (pass -k to keep)
-[youtube] Extracting URL: https://www.youtube.com/watch?v=O66xjOf4DhM
-[youtube] O66xjOf4DhM: Downloading webpage
-WARNING: [youtube] No supported JavaScript runtime could be found.
-Only deno is enabled by default; to use another runtime add
---js-runtimes RUNTIME[:PATH]  to your command/config. YouTube
-extraction without a JS runtime has been deprecated, and some
-formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS
-for details on installing one
-[youtube] O66xjOf4DhM: Downloading android vr player API JSON
-[info] O66xjOf4DhM: Downloading 1 format(s): 135+251
-[info] Writing video description to:
-  YARNGASM： Episode 281 - ＂There's Been Spinning＂ [O66xjOf4DhM].description
-[info] Writing video metadata as JSON to:
-  YARNGASM： Episode 281 - ＂There's Been Spinning＂ [O66xjOf4DhM].info.json
-[download] Destination: YARNGASM： Episode 281 - ＂There's Been Spinning＂ [O66xjOf4DhM].f135.mp4
-[download] 100% of  193.72MiB in 00:01:06 at 2.92MiB/s
-[download] Destination: YARNGASM： Episode 281 - ＂There's Been Spinning＂ [O66xjOf4DhM].f251.webm
-[download] 100% of   38.61MiB in 00:00:10 at 3.57MiB/s
-[Merger] Merging formats into "YARNGASM： Episode 281 - ＂There's Been Spinning＂ [O66xjOf4DhM].mkv"
-Deleting original file
-  YARNGASM： Episode 281 - ＂There's Been Spinning＂ [O66xjOf4DhM].f251.webm
-  (pass -k to keep)
-Deleting original file
-  YARNGASM： Episode 281 - ＂There's Been Spinning＂ [O66xjOf4DhM].f135.mp4
-  (pass -k to keep)
-``` 
-
-```
-0914ac6be8ed66acb413a553157cc57d8b8286a5173818045f2e643ec65e290c
-YARNGASM： Episode 273 - ＂I Say Tomato, You Say ...＂ [adTrJzjOXbc].mkv
-
-496d067484a1f313eab59b28faef186cda44e3b9aad87d3608e34991b8743e9a
-YARNGASM： Episode 278 - ＂Living On the Edge＂ [BicN7eyA2U4].mkv
-
-7d85936541d0f863f96fe09724a6e5af37dc352eaf29f082ae8da46cceb0ff34
-YARNGASM： Episode 281 - ＂There's Been Spinning＂ [O66xjOf4DhM].mkv
-```
+**`yt-dlp` provenance:** See @sec-yt-dlp-k-kristinae.
 
 #### *Kewisia latae* {#sec-k-latae}
 ***Kewisia latae*** Lemuria, 2026; first public desc.
@@ -1118,7 +999,7 @@ Zoomed out angled ventral view. Hair positioned dorsally. Subject interacting wi
 **Buttons.** 14 buttons. Possible 15th button, most inferior, uncertain due to image angles. Yellow, floral-shaped edges, two thread holes, aligned mostly horizontally. Sourced from Walthamstow Market.
 **Fabric.** Cotton with meadow print, gray/brown background. Grass, flora. Species include but not limited to *Leucanthemum vulgare* Lam., orange flowers most likely  *Calendula officinalis* though pistil is white. Pink and orange stylized depictions of *Amanita muscaria*. (L.) Lam. (1783), and *Muscari armeniacum* Leichtlin.
 
-**Etymology**: Liz + *-ae*, feminine genitive suffix.
+**Etymology**: *Liz* + *-ae*, feminine genitive suffix.
 
 **Specimens examined**:
 
@@ -1173,7 +1054,7 @@ Ventral view. Hair positioned dorsally.
 
 **Description**: Shallow angle V-neck. Ventral medial row of 14 buttons. Bilateral single straps, 3 cm (1.2 in) shorter than pattern. Facing along neckline sewn with 1 cm (0.39 in) seam allowance instead of typical 1.5 cm (0.59 in) for modesty reasons. Skirt terminates around the knee. Size 14. **Buttons.** Peach-colored buttons. Two thread holes, curved square shape, sharp squared funnel towards core. Thread color likely white; no distinct color seen against fabric. **Fabric.** Poly crepe from Sew Me Sunshine. Small white dots scattered on background. Apparent background color on monitor is dark sky blue, though it is described by Marie as teal in real life. Floral print, one distinct type of flower, roots and leaves printed, no fully confident correspondence to botanical species; presumably unknown spp. in *Dianthus* L.; most likely *D. caryophyllus* L. or *D. chinensis* L.
 
-**Etymology**: Marie + *-ae*, feminine genitive suffix.
+**Etymology**: *Marie* + *-ae*, feminine genitive suffix.
 
 **Remarks**:^[We move the Remarks section above the list of specimens examined for ease of switching, as the specimen list is unusually long for *Kewisia mariae*.]
 
@@ -1254,6 +1135,8 @@ Collage. Left panel ventral view, right panel angled dorsal view, subject on sta
 
 **Description**: Shallow-angle V-neck. Bilateral single straps. Skirt terminates inferior to knee. shoulder sleeve inverted. **Buttons.** Button count inconclusive due to image quality. **Fabric.** Cotton lawn from Abakhan. Black background. Floral; yellow and pink flowers.
 
+**Etymology**: *Modista* + *flora* "flower".
+
 **Specimens examined**: See holotype information.
 
 #### *Kewisia modistarubera* {#sec-k-modistarubera}
@@ -1273,6 +1156,8 @@ Ventral view, mirror selfie.
   * **IA**: <https://web.archive.org/web/20260318220504/https://modistasewing.wordpress.com/wp-content/uploads/2020/06/img_8644.jpg>
 
 **Description**: Shallow-angle V-neck. Bilateral single straps. Skirt terminates slightly inferior to knee. **Buttons.** Ventral medial row of 6 buttons. Circular, two thread holes, horizontal. Three on bodice, three on skirt. **Fabric.** Red stretch jacquard from Abakhan. Raised embroidery.
+
+**Etymology**: *Modista* + Latin *rubera* "red".
 
 **Specimens examined**: See holotype information.
 
@@ -1295,6 +1180,8 @@ Ventral view. Wearer's left arm placed on bodice, inferior to bodice&ndash;skirt
   * **IA**:
 
 **Description**: Shallow-angle V-neck. Bilateral single straps. **Buttons.** 12 buttons, 5 on bodice, 7 on skirt. Fabric covered. Bodice size 10, with 1 in (2.54 cm) bust adjustment. 1.5 cm seam allowance. Skirt terminates parallel to knee, shortened by 3.25 in (8.25 cm). **Fabric.** Lavender background. Floral. Plants include but are not limited to *Adiantum capillus-veneris* L. (maidenhair fern), *Hydrangea macrophylla* (Thunb.) Ser. (bigleaf hydrangea). On sleeves, stylized bird most similar to *Irena puella* (Latham, 1790), the Asian fairy-bluebird.
+
+**Etymology**: *Rachael* + *-ae*, feminine genitive suffix.
 
 **Specimens examined**:
 
@@ -1427,7 +1314,7 @@ Ventral view, zoomed out, subject standing straight, hair positioned dorsally.
 
 **Description**: V-neck at approx. 47&deg; angle. Sleeve terminates superior to arm. Distal lateral fabric gathering. Ventral medial row of 4 buttons. **Fabric.** Double gauze from Rico Design. White background, blue and pink splotch-like patterns, faded blue rectangular brush-like patterns. Procured by Rothery in Bordeaux, France.
 
-**Etymology**: Lorna + *-ae*, feminine genitive suffix.
+**Etymology**: *Lorna* + *-ae*, feminine genitive suffix.
 
 **Specimens examined**:
 
@@ -1460,7 +1347,7 @@ Ventral view, hair positioned ventrally and obscuring wearer's left.
 
 **Description**: Shallow-angle V-neck. Ventral medial row of 4 buttons. **Buttons.** Wooden-like material, two thread holes, thread line vertical. Thread holes lie in circular inset. Sourced from Minerva. Bodice in UK size 8, sleeve significantly shortened, terminates roughly parallel to first button. Pleated gathered section immediately inferior to fourth button. **Fabric.** Meadow Dim in Rayon from Art Gallery Fabrics. R-46302. 76 g / m2. Floral, 9 species, no known correlation to any botanical taxa. Est. 0.5 m of fabric used.
 
-**Etymology**: Lorna + *-ae*, feminine genitive suffix + *-bis* "twice", as it is the second *Kewpepla* sp. from Rothery to be described.
+**Etymology**: *Lorna* + *-ae*, feminine genitive suffix + *-bis* "twice", as it is the second *Kewpepla* sp. from Rothery to be described.
 
 **Specimens examined**: See holotype information.
 
@@ -1483,7 +1370,7 @@ Ventral view, hair positioned ventrally and obscuring wearer's left.
 
 **Description**: Sleeves terminate superior to elbow. Ventral medial button row of 14 buttons, two thread holes running horizontally. 4 buttons on bodice, 10 on skirt. Thread color varies between white and red. Fabric gathers distally on right arm (wearer's perspective). Sewn on Janome DKS100 machine, stitch len. 2.6 mm, width 3 mm. Gutermann polyester thread, color 659 for dress; button thread unspecified cotton thread from Aurifil. **Fabric.** Meet MILK Two-Tone Check Tencel Lyocell Twill Fabric in Powder Pink. Check pattern, two subtle shades.
 
-**Etymology**: Lorna + *-ae*, feminine genitive suffix.
+**Etymology**: *Lorna* + *-ae*, feminine genitive suffix.
 
 **Specimens examined**:
 
@@ -1520,8 +1407,11 @@ Ventral view, full body, subject smiling, hair positioned ventrally. Closer to s
 **Buttons.** Ventral medial button row, 9 buttons. 3 on bodice, 6 on skirt. Spacing unequal between second and third button. Top three buttonholes sewn by machine. Rest of buttonholes hand-sewn due to machine malfunction.
 **Fabric.** Viscose, from Fabricate. Navy-blue background, stylized flowers, most second common color by surface area teal.
 
+**Etymology**: Blend of *Lorna* + *skoroblae*, corrupted form of Greek σκούρο μπλε (*skoúro ble*, "dark blue, navy blue").
+
 **Specimens examined**:
 
+* Holotype.
 * ***Rothery 2234KL*** &mdash; Photograph. 1200&times;1600. EXIF metadata stripped.
 *Kewthea lornoblae* wb. Lorna.R., 2020.
 Ventral view, full body, subject smiling, hair positioned ventrally.
@@ -1571,7 +1461,7 @@ Ventral view, subject sitting on floor, looking down.
 
 **Description**: Sleeves terminate superior to elbow. Ventral medial button row of 8 buttons. Buttons 1&ndash;3 have two holes. Thread line vertical. Buttons 4&ndash;8 have four holes. Buttons sourced from Eva's vintage stash. **Fabric.** Crepe. Black background with stylized floral print. Flowers do not correspond to any known species. Floral print color roughly caramel/pale yellow. Sourced from Guthrie & Ghani.
 
-**Etymology**: Eva + *-ae*, feminine genitive suffix.
+**Etymology**: *Eva* + *-ae*, feminine genitive suffix.
 
 **Specimens examined**:
 
@@ -1606,7 +1496,7 @@ Five buttons, three on bodice, two on skirt. Curved square, two thread holes, mi
 On right sleeve (wearer's perspective), pattern discontinuity at downward angle.
 **Fabric.** Viscose. White background, floral print, no known correlation to any known botanical species.
 
-**Etymology**: Modista, name of the blog, + *flora* "flower".
+**Etymology**: *Modista*, name of the blog, + *flora* "flower".
 
 **Specimens examined**:
 
@@ -1655,7 +1545,7 @@ Tight crop, features dress in more detail. Hair positioned ventrally, no importa
 
 **Description**: Shallow angle V-neck. Ventral medial button row. Skirt terminates slightly superior to knee. Sleeves terminate superior to elbow. **Buttons.** Seashell-like button. Green, yellow, and cyan reflection. **Fabric.** Square fabric. Stylized yellow and red flower; two yellow leaves, red petals. Second style of flower stylized orange, gray, and red flower, with light bronze stem. No correspondence to real-world botanical taxa.
 
-**Etymology**: Chantelle + *-ae*, feminine genitive suffix.
+**Etymology**: *Chantelle* + *-ae*, feminine genitive suffix.
 
 **Remarks**: The post is attributed to Harriet Cleary, but the post is written in the first-person perspective from Chantelle's perspective.
 
@@ -1756,7 +1646,7 @@ Zoomed out shot of dress laid on table.
 ### Lorna Rothery {#sec-malkin}
 While examining the EXIF metadata of Rothery's images, we discovered the name *Lorna Malkin*. We have no information on this name, but suspect that it is one of Rothery's alternative names.
 
-Lorna's two *Kewpepla* makes had the same blog post titles; we were uncertain as to which was *Kewpepla lornae* and which was *Kewpepla lornaebis*. Given that *-bis* means "twice", we decided the May and June 2020 posts *lornae* and *lornaebis* respectively. Our internal MediaWiki site is also unclear on the distinction; we plan to formally resolve it in this paper.
+Lorna's two *Kewpepla* makes had the same blog post titles; we were uncertain as to which was *Kewpepla lornae* and which was *Kewpepla lornaebis*. Given that *-bis* means "twice", we decided to name the tops in the May and June 2020 posts *lornae* and *lornaebis* respectively. Our internal MediaWiki site is also unclear on the distinction; we plan to formally resolve it in this paper.
 
 ### Type specimen naming
 We also find it important to develop naming conventions for type specimen photographs. So far, we have settled on a convention of a single name for the wearer (either given or family), followed by either an alphanumeric identifier or numeric identifier, with the initials of the species in question suffixed for more disambiguation.
@@ -1841,6 +1731,7 @@ In this paper, we used the following person abbreviations.
 * **Erin.M.** &mdash; Erin Madalone (Instagram: &commat;poeticmemorysewing), an American sewist based in New Jersey.
 * **Eva** &mdash; Kate Eva
 * **Gingerthread** &mdash; Gingerthread Girl (Jen Walker)
+* **Joy of B.** &mdash; Joy (Instagram: &commat;sew.with.joy), a sewist based in Brooklyn
 * **Lehrer** &mdash; Kristin Lehrer, known online as Voolenvine
 * **Liz of G.** &mdash; Liz of the blog *Girl Can Sew*
 * **Lorna.R.** &mdash; Lorna Rothery (<https://lornarothery.com/>; abbreviated Lorna.R. in the LCT-01), is the most prolific sewist among the Kewthidae, with four documented specimens.
@@ -1978,3 +1869,135 @@ At publication, the journal did not have a DOI prefix.
 Visit us at: <https://lct01.lemuria.ph>
 
 &copy; Lemuria 2026. All original text and image content by Lemuria is licensed under CC BY-SA 4.0, unless explicitly noted. Linked images and other content are &copy; their respective owners or copyright holders.
+
+### `yt-dlp` provenance for *Kewisia kristinae* {#sec-yt-dlp-k-kristinae}
+
+```
+$ yt-dlp --version                                                                                      0
+2026.03.13.083652
+$ yt-dlp --write-info-json --write-description 'https://www.youtube.com/watch?v=C_cpG65ZGyE'
+[youtube] Extracting URL: https://www.youtube.com/watch?v=C_cpG65ZGyE
+[youtube] C_cpG65ZGyE: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found.
+Only deno is enabled by default; to use another runtime add
+--js-runtimes RUNTIME[:PATH]  to your command/config. YouTube
+extraction without a JS runtime has been deprecated, and some
+formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS
+for details on installing one
+[youtube] C_cpG65ZGyE: Downloading android vr player API JSON
+[info] C_cpG65ZGyE: Downloading 1 format(s): 137+251
+[info] Writing video description to:
+  VoolenvVLOG： The Seamstress Tag! [C_cpG65ZGyE].description
+[info] Writing video metadata as JSON to:
+  VoolenvVLOG： The Seamstress Tag! [C_cpG65ZGyE].info.json
+[download] Destination: VoolenvVLOG： The Seamstress Tag! [C_cpG65ZGyE].f137.mp4
+[download] 100% of  115.81MiB in 00:00:23 at 5.03MiB/s
+[download] Destination: VoolenvVLOG： The Seamstress Tag! [C_cpG65ZGyE].f251.webm
+[download] 100% of   12.28MiB in 00:00:02 at 5.49MiB/s
+[Merger] Merging formats into
+  "VoolenvVLOG： The Seamstress Tag! [C_cpG65ZGyE].mkv"
+Deleting original file VoolenvVLOG： The Seamstress Tag! [C_cpG65ZGyE].f137.mp4 (pass -k to keep)
+Deleting original file VoolenvVLOG： The Seamstress Tag! [C_cpG65ZGyE].f251.webm (pass -k to keep)
+$ sha256sum VoolenvVLOG：\ The\ Seamstress\ Tag\!\ \[C_cpG65ZGyE\].mkv
+26d8f585d3f683bd21a158954da41103b163bb99b88c6e1cb508bf292d9076be
+VoolenvVLOG： The Seamstress Tag! [C_cpG65ZGyE].mkv
+```
+
+Terminal output has been manually newlined for ease of printing.
+
+```
+$ yt-dlp --write-info-json --write-description \
+  https://www.youtube.com/watch\?v\=adTrJzjOXbc \
+  https://www.youtube.com/watch\?v\=BicN7eyA2U4 \
+  https://www.youtube.com/watch\?v\=O66xjOf4DhM
+[youtube] Extracting URL: https://www.youtube.com/watch?v=adTrJzjOXbc
+[youtube] adTrJzjOXbc: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found.
+Only deno is enabled by default; to use another runtime add
+--js-runtimes RUNTIME[:PATH]  to your command/config. YouTube
+extraction without a JS runtime has been deprecated, and some
+formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS
+for details on installing one
+[youtube] adTrJzjOXbc: Downloading android vr player API JSON
+[info] adTrJzjOXbc: Downloading 1 format(s): 135+251
+[info] Writing video description to:
+  YARNGASM： Episode 273 - ＂I Say Tomato, You Say ...＂ [adTrJzjOXbc].description
+[info] Writing video metadata as JSON to:
+  YARNGASM： Episode 273 - ＂I Say Tomato, You Say ...＂ [adTrJzjOXbc].info.json
+[download] Destination:
+  YARNGASM： Episode 273 - ＂I Say Tomato, You Say ...＂ [adTrJzjOXbc].f135.mp4
+[download] 100% of   98.67MiB in 00:00:22 at 4.47MiB/s
+[download] Destination:
+  YARNGASM： Episode 273 - ＂I Say Tomato, You Say ...＂ [adTrJzjOXbc].f251.webm
+[download] 100% of   30.10MiB in 00:00:05 at 5.58MiB/s
+[Merger] Merging formats into "YARNGASM： Episode 273 - ＂I Say Tomato, You Say ...＂ [adTrJzjOXbc].mkv"
+Deleting original file
+  YARNGASM： Episode 273 - ＂I Say Tomato, You Say ...＂ [adTrJzjOXbc].f135.mp4
+  (pass -k to keep)
+Deleting original file
+  YARNGASM： Episode 273 - ＂I Say Tomato, You Say ...＂ [adTrJzjOXbc].f251.webm
+  (pass -k to keep)
+[youtube] Extracting URL: https://www.youtube.com/watch?v=BicN7eyA2U4
+[youtube] BicN7eyA2U4: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found.
+Only deno is enabled by default; to use another runtime add
+--js-runtimes RUNTIME[:PATH]  to your command/config. YouTube
+extraction without a JS runtime has been deprecated, and some
+formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS
+for details on installing one
+[youtube] BicN7eyA2U4: Downloading android vr player API JSON
+[info] BicN7eyA2U4: Downloading 1 format(s): 135+251
+[info] Writing video description to:
+  YARNGASM： Episode 278 - ＂Living On the Edge＂ [BicN7eyA2U4].description
+[info] Writing video metadata as JSON to:
+  YARNGASM： Episode 278 - ＂Living On the Edge＂ [BicN7eyA2U4].info.json
+[download] Destination:
+  YARNGASM： Episode 278 - ＂Living On the Edge＂ [BicN7eyA2U4].f135.mp4
+[download] 100% of  126.58MiB in 00:00:59 at 2.12MiB/s
+[download] Destination:
+  YARNGASM： Episode 278 - ＂Living On the Edge＂ [BicN7eyA2U4].f251.webm
+[download] 100% of   32.26MiB in 00:00:11 at 2.88MiB/s
+[Merger] Merging formats into "YARNGASM： Episode 278 - ＂Living On the Edge＂ [BicN7eyA2U4].mkv"
+Deleting original file
+  YARNGASM： Episode 278 - ＂Living On the Edge＂ [BicN7eyA2U4].f251.webm
+  (pass -k to keep)
+Deleting original file
+  YARNGASM： Episode 278 - ＂Living On the Edge＂ [BicN7eyA2U4].f135.mp4
+  (pass -k to keep)
+[youtube] Extracting URL: https://www.youtube.com/watch?v=O66xjOf4DhM
+[youtube] O66xjOf4DhM: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found.
+Only deno is enabled by default; to use another runtime add
+--js-runtimes RUNTIME[:PATH]  to your command/config. YouTube
+extraction without a JS runtime has been deprecated, and some
+formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS
+for details on installing one
+[youtube] O66xjOf4DhM: Downloading android vr player API JSON
+[info] O66xjOf4DhM: Downloading 1 format(s): 135+251
+[info] Writing video description to:
+  YARNGASM： Episode 281 - ＂There's Been Spinning＂ [O66xjOf4DhM].description
+[info] Writing video metadata as JSON to:
+  YARNGASM： Episode 281 - ＂There's Been Spinning＂ [O66xjOf4DhM].info.json
+[download] Destination: YARNGASM： Episode 281 - ＂There's Been Spinning＂ [O66xjOf4DhM].f135.mp4
+[download] 100% of  193.72MiB in 00:01:06 at 2.92MiB/s
+[download] Destination: YARNGASM： Episode 281 - ＂There's Been Spinning＂ [O66xjOf4DhM].f251.webm
+[download] 100% of   38.61MiB in 00:00:10 at 3.57MiB/s
+[Merger] Merging formats into "YARNGASM： Episode 281 - ＂There's Been Spinning＂ [O66xjOf4DhM].mkv"
+Deleting original file
+  YARNGASM： Episode 281 - ＂There's Been Spinning＂ [O66xjOf4DhM].f251.webm
+  (pass -k to keep)
+Deleting original file
+  YARNGASM： Episode 281 - ＂There's Been Spinning＂ [O66xjOf4DhM].f135.mp4
+  (pass -k to keep)
+``` 
+
+```
+0914ac6be8ed66acb413a553157cc57d8b8286a5173818045f2e643ec65e290c
+YARNGASM： Episode 273 - ＂I Say Tomato, You Say ...＂ [adTrJzjOXbc].mkv
+
+496d067484a1f313eab59b28faef186cda44e3b9aad87d3608e34991b8743e9a
+YARNGASM： Episode 278 - ＂Living On the Edge＂ [BicN7eyA2U4].mkv
+
+7d85936541d0f863f96fe09724a6e5af37dc352eaf29f082ae8da46cceb0ff34
+YARNGASM： Episode 281 - ＂There's Been Spinning＂ [O66xjOf4DhM].mkv
+```
