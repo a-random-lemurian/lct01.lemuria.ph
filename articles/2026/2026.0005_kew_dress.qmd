@@ -632,7 +632,8 @@ Ventral view, subject looking to right.
 **Remarks**:
 
 * The *Craftily Handmade* blog returns HTML previews of images, which has impeded archival in the Internet Archive's Wayback Machine.
-* We recommend verifying using the WARC files at <https://archive.fart.website/archivebot/viewer/domain/craftilyhandmade.wordpress.com>.
+* We recommend verifying using the WARC files listed at <https://archive.fart.website/archivebot/viewer/domain/craftilyhandmade.wordpress.com>.
+  * We were able to reproduce the SHA2-256 signatures using the WARC files in <https://archive.org/download/archiveteam_archivebot_go_20260319211301_2cc8aa60>.
 
 **Specimens examined**:
 
@@ -805,7 +806,6 @@ Exposure: 1/125s. F-stop: 8. Focal: 41 mm. Lens: EF24-105mm f/4L IS II USM. Came
 * **SHA2-256**: `e2bd19110cb129884424e0a9cb40356b6d8f4913ccf2c50b9742b6de638e498e`
 * **Raw image URLs**
   * **Original**: <https://sewprettyful.wordpress.com/wp-content/uploads/2018/08/0063-ra.jpg>
-  * **IA**: <https://web.archive.org/web/20260317150922/https://sewprettyful.wordpress.com/wp-content/uploads/2018/08/0063-ra.jpg>
 
 **Description**: Bilateral single straps. Lack of ventral medial button row. Full circle skirt. Interior white lining, with purple ink "Hand Crafted by Sewprettyful" label positioned medially on interior dorsal lining. Full overlay on bodice and skirt, plain band at bodice&ndash;skirt transition on transpyloric plane. White layers of fabric deep to outer layer. **Fabric.**
 
@@ -823,7 +823,6 @@ Exposure: 1/1250s. F-stop: 4.5. Focal: 70 mm. Lens: EF70-200mm f/2.8L IS II USM.
   * **SHA2-256**: `631592f926a502692fdc21802c721d1d6da2795a150e63e4fdce14515530ca2f`
   * **Raw image URLs**
     * **Original**: <https://sewprettyful.wordpress.com/wp-content/uploads/2018/08/0412-ra.jpg>
-    * **IA**: <https://web.archive.org/web/20260317173359/https://sewprettyful.wordpress.com/wp-content/uploads/2018/08/0412-ra.jpg>
 
 **Remarks**:
 
@@ -832,6 +831,9 @@ Exposure: 1/1250s. F-stop: 4.5. Focal: 70 mm. Lens: EF70-200mm f/2.8L IS II USM.
 * The other four dresses that Rachael sewed for her bridesmaids warrant their own taxonomic treatment.
 * Only *Kewabotonia nuptirachaelae* had an overlay on its skirt; Rachael's other four bridesmaids had plain full-circle skirts instead.
 * While submitting <https://web.archive.org/web/20260317150922/https://sewprettyful.wordpress.com/wp-content/uploads/2018/08/0063-ra.jpg> to the Internet Archive, Save Page Now failed to capture the JPG image properly due to improper content negotiation. WordPress instead returned an HTML preview of the image.
+* As such, we recommend these links for verifying the archive:
+  * <https://archive.org/details/archiveteam_archivebot_go_20260320094602_3d45c6e0>
+  * Other Archiveteam archives for Rachael's blog may be indexed at <https://archive.fart.website/archivebot/viewer/domain/sewprettyful.wordpress.com>.
 
 ### Genus *Kewisia* {#sec-genus-kewisia}
 #### *Kewisia bernicae* {#sec-k-bernicae}
@@ -939,7 +941,7 @@ Ventral view. Hair positioned dorsally.
 **Holotype**: *Genya 2023.0004KG* &mdash; Photograph.
 1920&times;2560. EXIF metadata stripped. Ventral view.
 Ventral view. Inferiormost two buttons unfastened.
-*Kewisia genyae* wb. Genya, 2023.
+*Kewisia genyae* wb. Genya (W/2026 F2), 2023.
 &copy; Genya or unknown photographer, 2023, all rights reserved.
 
 * **Page**: @chang-smith_kew_productpage
@@ -963,7 +965,8 @@ Ventral view, Lehrer looking down.
 
 * **Page**: See @lehrer_voolenvvlog_2018.
 * **SHA2-256**: `f37209aae5875c28c61f718c51d5752c70e58c8e1b7b62cf147966e3d3971769`
-* **IA**: <https://web.archive.org/web/20260319132608/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.2885-15/37916165_271939026870446_3584395751792312320_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=MTgzNTc5NTc1OTQ2Mzg1MDg1Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTM1MC5zZHIuZGVmYXVsdF9pbWFnZS5DMyJ9&_nc_ohc=ohE9edBqAhwQ7kNvwH1a-vW&_nc_oc=AdoBj2wPIzck737gF5Z2tZoZUXyVGWIa74qUPSuFNYexgX3yT0QBe_GqczxysLbQ0qE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_ss=8&oh=00_AfyJ92sFgYXkhTPQ4ZxPIIWGP6khWt6K3IJTf2ImxlRq1g&oe=69C1DBC8>
+* **Raw image URLs**:
+  * **IA**: <https://web.archive.org/web/20260319132608/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.2885-15/37916165_271939026870446_3584395751792312320_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=MTgzNTc5NTc1OTQ2Mzg1MDg1Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTM1MC5zZHIuZGVmYXVsdF9pbWFnZS5DMyJ9&_nc_ohc=ohE9edBqAhwQ7kNvwH1a-vW&_nc_oc=AdoBj2wPIzck737gF5Z2tZoZUXyVGWIa74qUPSuFNYexgX3yT0QBe_GqczxysLbQ0qE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_ss=8&oh=00_AfyJ92sFgYXkhTPQ4ZxPIIWGP6khWt6K3IJTf2ImxlRq1g&oe=69C1DBC8>
 
 
 **Description**: Shallow angle V-neck. Bilateral single straps. Sleeves typical to that of Kewoidea and level with bodice. Skirt terminates superior to knee.
