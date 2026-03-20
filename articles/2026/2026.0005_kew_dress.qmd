@@ -673,6 +673,22 @@ Dress on mannequin.
 #### *Kewabotonia sarae* {#sec-kb-sarae}
 ***Kewabotonia sarae*** Lemuria, 2026; first public desc.
 
+**Holotype**: *Sarah SC.12274KS* &mdash;
+Photograph. 768&times;960.
+EXIF metadata stripped.
+*Kewabotonia sarae* wb. Sarah's S.C., 2018.
+&copy; Sarah's Sewing Chronicles, 2018, all rights reserved.
+
+* **Page**: @sarah_sc_2018
+* **SHA2-256**: `b5bca18b6114bca9db8de2c1c78acea3fd0622d42df449064636d241c571bbf1`
+* **Raw image URLs**:
+  * **IA**: <https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/627696672_18327776389174806_2043516935416512274_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=MTgyOTI2Mjg0MDUwMzIzMzQzMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjc2OHg5NjAuc2RyLkMzIn0%3D&_nc_ohc=aBa1bCRWqhgQ7kNvwHCA36c&_nc_oc=AdounD-lxRYEUHB1gwNxwNwn3lTjUgBA49qiqQ8fF6EWCrLU6Slz-a16ZA6hndHbhEc&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=Bt9fr8_x0I07PnVZ-pwtCA&_nc_ss=7a30f&oh=00_Afzn7zG3lzQloMNPZkZnxpfWDPP-bQ0HvtoS4XKEReA_tA&oe=69C2ACFA>
+
+**Description**: Shallow angle V-neck, curving medially. Bilateral single straps. Skirt terminates superior to knee.
+**Fabric.** Unknown material. Light cyan background, floral, yellow flowers, green leaves. No known correspondence to botanical taxa.
+
+**Specimens examined**: See holotype information.
+
 #### *Kewabotonia elsae* {#sec-k-elsae}
 ***Kewabotonia elsae*** Lemuria, 2026; first public desc.
 
@@ -1795,6 +1811,7 @@ In this paper, we used the following person abbreviations.
 * **Ruth.Pr.** &mdash; Ruth Procter, author of the blog *Nightingale & Dolittle*
 * **Sally of M.** &mdash; Sally, author of the blog *Modista Sewing*. Her last name is unknown, as such, we use a genitive disambiguator. Short form of *Sally of Modista*.
 * **Sarah of T.** &mdash; Sarah, author of *Craftily Handmade*. As her last name is unavailable, we assign her the LCT-01 disambiguated name Sarah of Tasmania.
+* **Sarah's S.C.** &mdash; Sarah (Instagram: &commat;sarahssewingchronicles), a Minerva ambassador.
 ```{=latex}
 \end{multicols}
 ```
@@ -1887,6 +1904,7 @@ We present a list of the image specimen identifiers we have assigned in this pap
 * *Sarah 0087HS.AU-TAS*
 * *Sarah 0085HS.AU-TAS*
 * *Sarah 0082HS.AU-TAS*
+* *Sarah SC.12274KS*
 * *Yarngasm 281* (V)
 ```{=latex}
 \end{multicols}
