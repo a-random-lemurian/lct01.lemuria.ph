@@ -622,7 +622,6 @@ Ventral view, subject looking to right.
 * **SHA2-256**: `122bc658b0851718566a03e7a74bbb8c1b14f4464c65fe928ee9f5ab9de81690`
 * **Raw image URLs**
   * **Original**: <https://craftilyhandmade.wordpress.com/wp-content/uploads/2019/02/p1040085.jpg>
-  * **IA**:
 
 **Description**: Shallow-angle V neck, bilateral single straps. Buttonholes made of white thread.
 **Buttons.** Ventral medial button row, 12 buttons. Two thread holes, thread line vertical, 
@@ -633,6 +632,7 @@ Ventral view, subject looking to right.
 **Remarks**:
 
 * The *Craftily Handmade* blog returns HTML previews of images, which has impeded archival in the Internet Archive's Wayback Machine.
+* We recommend verifying using the WARC files at <https://archive.fart.website/archivebot/viewer/domain/craftilyhandmade.wordpress.com>.
 
 **Specimens examined**:
 
@@ -648,7 +648,6 @@ Angled ventral view, subject looking down.
   * **SHA2-256**: `b5aeadf6a255e68882965fbbe93f03231974fb02e199a6da3277f2c77cbdee42`
   * **Raw image URLs**
     * **Original**: <https://craftilyhandmade.wordpress.com/wp-content/uploads/2019/02/p1040088.jpg>
-    * **IA**:
 <!-- File: p1040087.jpg (HOLOTYPE INFO TEMPLATE FROM LCT01-HOLOTYPER)-->
 * *Sarah 0087HS.AU-TAS*
 Photograph. 960&times;1280.
@@ -660,7 +659,6 @@ Dorsal view, hair positioned ventrally.
   * **SHA2-256**: `0870318792544de291a1d5b8b74f8efb1c9e11bf5af062db37d19650f6822bec`
   * **Raw image URLs**
     * **Original**: <https://craftilyhandmade.wordpress.com/wp-content/uploads/2019/02/p1040082.jpg>
-    * **IA**:
 <!-- File: p1040088.jpg (HOLOTYPE INFO TEMPLATE FROM LCT01-HOLOTYPER)-->
 * *Sarah 0088HS.AU-TAS*
 Photograph. 960&times;1280.
@@ -671,7 +669,6 @@ Close ventral view of button row.
   * **SHA2-256**: `c6915eed7b3a04d442317a160b5c39f97bb71efd05427380c9db416a3d674aa4`
   * **Raw image URLs**
     * **Original**: <https://craftilyhandmade.wordpress.com/wp-content/uploads/2019/03/p1040087.jpg>
-    * **IA**:
 
 ### Genus *Helikewisia* subg. *Emmae* {#sec-h-subg-emmae}
 In August 2019, Emma, the author of the blog *Crafty Clyde*, sewed three Kew dresses; two of which have a ventral medial button row. We place the new species *H. arbor* and *H. quagga* into the subgenus *Emmae*.
