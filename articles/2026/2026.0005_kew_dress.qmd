@@ -1762,6 +1762,8 @@ Ventral view. Denim jacket (unclassified) worn above dress, tied together at inf
 ***Kewthicata juliae*** sp. nov.
 
 ### Genus *Trunkewia* {#sec-genus-trunkewia}
+***Trunkewia*** Lemuria, 2026
+
 #### *Trunkewia ninae* {#sec-t-ninae}
 ***Trunkewia ninae*** Lemuria, 2026; first public desc.
 
@@ -1781,15 +1783,50 @@ Ventral view. Denim jacket (unclassified) worn above dress, tied together at inf
 **Specimens examined**: See holotype information.
 
 ### Genus *Trunkewia* subg. *Illecebrosus* {#sec-genus-trunkewia-subg-illecebrosus}
+***Trunkewia* subgenus *Illecebrosus*** subg. nov.
+
+All three species in *T.* subg. *Illecebrosus* are defined by the holotype *Roseberry Trunkewia-1*, a three-image collage assembled by Nina Lee for @chang-smith_kew_2018, and the only surviving evidence of *T.* subg. *Illecebrosus* due to the deletion of &commat;epp.roseberry.couture's account.
+
+**Etymology**: From the species *Rubus illecebrosus* Focke 1899, known in Japan as バライチゴ, literally "roseberry". It was the first result when searching for "roseberry". Roseberry is in turn, taken from the wearer's Instagram handle.
+
+**Holotype**: *Roseberry Trunkewia-1* &mdash; Photograph, collage. 3711&times;1194. EXIF metadata stripped; collage format not amenable to per-image metadata. *T. rosacrania*, *rubera*, and *viridis* wb. Stéphanie.T.
+
+* **SHA2-256**: `7f90faa8a161da4b1dea5b9c6c1262e6e5c2008dc2ac4384bb42723f7c8b262a`
+* **Raw image URLs**:
+  * **Original**: <https://cdn.shopify.com/s/files/1/0725/7833/5029/files/Kew-tops.jpg>
+  * **IA**: <https://web.archive.org/web/20260321015534/https://cdn.shopify.com/s/files/1/0725/7833/5029/files/Kew-tops.jpg>
+
+**Type species** (for subgenus): *Trunkewia rosacrania*.
 
 #### *Trunkewia rosacrania* {#sec-t-rosacrania}
 ***Trunkewia rosacrania*** sp. nov.
 
+**Holotype**: *Roseberry Trunkewia-1*, left panel.
+
+**Etymology**: Latin *rosa* "rose" + *crania*, psuedo-Latin feminine form of *cranium* "skull", from the features on the fabric.
+
+**Description**: Shallow angle V-neck. Bilateral single straps. Ventral medial button row of eight buttons. Bodice terminates between navel and pelvic area.
+**Fabric.** Black background, stylized skulls in a variety of facial expressions, multiple roses with full leaves (*Rosa* L.). Unknown material.
+
 #### *Trunkewia rubera* {#sec-t-rubera}
 ***Trunkewia rubera*** sp. nov.
 
+**Holotype**: *Roseberry Trunkewia-1*, center panel.
+
+**Etymology**: Latin *ruber* "red".
+
+**Description**: Shallow angle V-neck. Bilateral single straps. Ventral medial button row of five buttons. Bodice tied together medially at inferior end, and terminates superior to navel.
+**Fabric.** White background, vaguely floral pattern, red. Unknown material.
+
 #### *Trunkewia viridis* {#sec-t-viridis}
 ***Trunkewia viridis*** sp. nov.
+
+**Holotype**: *Roseberry Trunkewia-1*, right panel.
+
+**Etymology**: Latin *viridis* "green".
+
+**Description**: Shallow angle V-neck. Bilateral single straps. Ventral medial button row of ~seven buttons. Bodice terminates between navel and superior to pelvic area.
+**Fabric.** Vaguely off-white background with multiple light green and dark blue/indigo patterns. Unknown material.
 
 ```{=latex}
 \newpage
@@ -1913,6 +1950,8 @@ In this paper, we used the following person abbreviations.
 * **Sally of M.** &mdash; Sally, author of the blog *Modista Sewing*. Her last name is unknown, as such, we use a genitive disambiguator. Short form of *Sally of Modista*.
 * **Sarah of T.** &mdash; Sarah, author of *Craftily Handmade*. As her last name is unavailable, we assign her the LCT-01 disambiguated name Sarah of Tasmania.
 * **Sarah's S.C.** &mdash; Sarah (Instagram: &commat;sarahssewingchronicles), a Minerva ambassador.
+* **Stéphanie.T.** &mdash; Stéphanie Terranova / Terranova Stéphanie. Order of name elements unknown. 
+
 ```{=latex}
 \end{multicols}
 ```
