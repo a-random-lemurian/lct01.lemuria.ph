@@ -1993,27 +1993,28 @@ In this paper, we used the following person abbreviations.
 ```{=latex}
 \begin{multicols}{2}
 ```
-* **Alice.Ir.** &mdash; Alice Irvine
-* **Alice.W.** &mdash; Alice Wang (Instagram: &commat;alice_x_wang), author of the blog *Queen of Darts*
+* **Alice.Ir.** &mdash; Alice Irvine.
+* **Alice.W.** &mdash; Alice Wang (Instagram: &commat;alice_x_wang), author of the blog *Queen of Darts*.
 * **Bernice** &mdash; Bernice (Instagram: &commat;sewbee73), a sewist based in the San Francisco Bay Area.
-* **Emma of N.** &mdash; Emma, author of *Crafty Clyde*. As her last name is unavailable, we assign her the LCT-01 disambiguated name Emma of Norfolk, shortened to Emma of N.
+* **Emily of L.** &mdash; Emily, author of the blog *Self Assembly Required*. Abbreviation stands for *Emily of London*.
+* **Emma of N.** &mdash; Emma, author of the blog *Crafty Clyde*. Abbreviation stands for *Emma of Norfolk*.
 * **Erin.M.** &mdash; Erin Madalone (Instagram: &commat;poeticmemorysewing), an American sewist based in New Jersey.
-* **Eva** &mdash; Kate Eva
-* **Gingerthread** &mdash; Gingerthread Girl (Jen Walker)
-* **Joy of B.** &mdash; Joy (Instagram: &commat;sew.with.joy), a sewist based in Brooklyn
-* **Julie of the W.M.** &mdash; Julie of the West Midlands (Instagram: &commat;julielovestosew)
-* **Lehrer** &mdash; Kristin Lehrer, known online as Voolenvine
-* **Liz of G.** &mdash; Liz of the blog *Girl Can Sew*
-* **Lorna.R.** &mdash; Lorna Rothery (<https://lornarothery.com/>; abbreviated Lorna.R. in the LCT-01), is the most prolific sewist among the Kewthidae, with four documented specimens.
-* **Marie.K.** &mdash; Marie Koupparis of *A Stitching Odyssey*
-* **Nina** &mdash; Nina Chang-Smith
-* **Parker** &mdash; Fiona Parker, British sewist, author of the blog *Diary of a Chain Stitcher* (<https://chainstitcher.blogspot.com/>)
-* **Rachael** &mdash; Rachael Beaumont, author of the blog *Sew Prettyful*
-* **Ruth.Pr.** &mdash; Ruth Procter, author of the blog *Nightingale & Dolittle*
-* **Sally of M.** &mdash; Sally, author of the blog *Modista Sewing*. Her last name is unknown, as such, we use a genitive disambiguator. Short form of *Sally of Modista*.
-* **Sarah of T.** &mdash; Sarah, author of *Craftily Handmade*. As her last name is unavailable, we assign her the LCT-01 disambiguated name Sarah of Tasmania.
-* **Sarah's S.C.** &mdash; Sarah (Instagram: &commat;sarahssewingchronicles), a Minerva ambassador.
-* **Stéphanie.T.** &mdash; Stéphanie Terranova / Terranova Stéphanie. Order of name elements unknown. 
+* **Eva** &mdash; Kate Eva.
+* **Gingerthread** &mdash; Gingerthread Girl (Jen Walker).
+* **Joy of B.** &mdash; Joy (Instagram: &commat;sew.with.joy), a sewist based in Brooklyn. Abbreviation stands for *Joy of Brooklyn*.
+* **Julie of the W.M.** &mdash; Julie (Instagram: &commat;julielovestosew). Abbreviation stands for *Julie of the West Midlands*.
+* **Lehrer** &mdash; Kristin Lehrer, known online as Voolenvine.
+* **Liz of G.** &mdash; Liz, author of the blog *Girl Can Sew*. Abbreviation stands for *Liz of Girl Can Sew*.
+* **Lorna.R.** &mdash; Lorna Rothery (<https://lornarothery.com/>), the most prolific sewist among the Kewthidae, with four documented specimens.
+* **Marie.K.** &mdash; Marie Koupparis, author of the blog *A Stitching Odyssey*.
+* **Nina** &mdash; Nina Chang-Smith.
+* **Parker** &mdash; Fiona Parker, British sewist, author of the blog *Diary of a Chain Stitcher* (<https://chainstitcher.blogspot.com/>).
+* **Rachael** &mdash; Rachael Beaumont, author of the blog *Sew Prettyful*.
+* **Ruth.Pr.** &mdash; Ruth Procter, author of the blog *Nightingale & Dolittle*.
+* **Sally of M.** &mdash; Sally, author of the blog *Modista Sewing*. Abbreviation stands for *Sally of Modista*.
+* **Sarah of T.** &mdash; Sarah, author of the blog *Craftily Handmade*. Abbreviation stands for *Sarah of Tasmania.*
+* **Sarah's S.C.** &mdash; Sarah (Instagram: &commat;sarahssewingchronicles), a Minerva ambassador. Abbreviation stands for *Sarah's Sewing Chronicles*.
+* **Stéphanie.T.** &mdash; Stéphanie Terranova / Terranova Stéphanie. Order of name elements unknown.
 
 ```{=latex}
 \end{multicols}
