@@ -375,9 +375,9 @@ First public description (first public desc.) indicates that this paper is the f
 
 **Etymology**: *libera* is a pseudo-Latin feminine form of Liberty, the department store where Eva and Bond met.
 
-**Specimens examined**: See holotype information.
-
 **Remarks**: In @eva_gifted_2019, Eva wrote that at the Liberty department store in London, she attended a signing event held by Anna Bond, the chief creative officer of Rifle Paper Co. She approached Bond wearing a Martha dress from Tilly and the Buttons (unclassified as of 2026-03-17), made in rayon from Rifle Paper Co. Bond and Eva then had a friendly interaction; and Bond later sent Eva rayon from an upcoming collection, the Wildwood collection, which arrived some months later. The name of the collection was inferred from imagery of the fabric itself showing the label "RIFLE PAPER CO Wildwood COLLECTION".
+
+**Specimens examined**: See holotype information.
 
 #### *Florankewia valentina* {#sec-f-valentina}
 ***Florankewia valentina*** Lemuria, 2026; first public desc.
@@ -427,12 +427,12 @@ Ventral view, hair positioned ventrally, obscuring straps.
 **Description**: Shallow-angle V neck. Curved neckline medially. Lack of ventral medial button row. Bilateral single straps.
 **Fabric.** Unknown material. Extremely light cyan background, stylized watermelon slice pattern.
 
+**Etymology**: Feminine form of *lanatus*, specific epithet of the watermelon (*Citrullus lanatus* (Thunb.) Matsum. & Nakai), from the fabric.
+
 **Remarks**:
 
 * Joy lives in Brooklyn. As a disambiguator prefix, Brooklyn's post code, 112, is appended.
 * In her Instagram post, Joy mentioned that she used the Gingerthread Girl's hack.
-
-**Etymology**: Feminine form of *lanatus*, specific epithet of the watermelon (*Citrullus lanatus* (Thunb.) Matsum. & Nakai), from the fabric.
 
 **Specimens examined**:
 
@@ -493,6 +493,10 @@ Ventral view. *Helikewisia aemilia* wb. Emily, 2017.
 
 **Etymology**: *Aemilia*, Latin form of *Emily*.
 
+**Remarks**:
+
+* In *Emily 3668HA*, the dress drapes and obscures the inferior part of the ventral medial button row.
+
 **Specimens examined**:
 
 * Holotype.
@@ -506,10 +510,6 @@ Dorsal view. *Helikewisia aemilia* wb. Emily, 2017.
   * **Raw image URLs**
     * **Original**: <https://selfassemblyrequired.co.uk/wp-content/uploads/2017/09/img_3670.jpg>
     * **IA**: <https://web.archive.org/web/20260317182001/https://selfassemblyrequired.co.uk/wp-content/uploads/2017/09/img_3670.jpg>
-
-**Remarks**:
-
-* In *Emily 3668HA*, the dress drapes and obscures the inferior part of the ventral medial button row.
 
 #### *Helikewisia ceciliae* {#sec-h-ceciliae}
 ***Helikewisia ceciliae*** Lemuria, 2026; first public desc.
@@ -528,11 +528,12 @@ Angled ventral view, roughly 45&deg; horizontal, 45&deg; vertical, subject on st
 
 **Etymology**: *Cecilia* + *-ae*, feminine genitive suffix.
 
-**Specimens examined**: See holotype information.
 
 **Remarks**:
 
 * The Internet Archive is capable of capturing Meta CDN links. Though they lack long-term reproducibility, the Internet Archive can retrieve the same bytes, effectively "freezing" the image in time. We are thus able to maintain reproducibility for the Meta CDN, but here, we advise that the Internet Archive URL should be considered the canonical URL; the Meta CDN url is not expected to be reproducible long-term and is only included for reference.
+
+**Specimens examined**: See holotype information.
 
 #### *Helikewisia erinae* {#sec-h-erinae}
 ***Helikewisia erinae*** Lemuria, 2026; first public desc.
@@ -549,17 +550,17 @@ Angled ventral view, roughly 45&deg; horizontal, 45&deg; vertical, subject on st
 
 **Etymology**: *Erin* + *-ae*, feminine genitive suffix.
 
-**Specimens examined**:
-
-* Holotype.
-* ***Madalone Inst-1HE*** &mdash; Photograph. 1080&times;1350, EXIF metadata stripped; exposure, f-stop, lens foc. len unknown. United States, New Jersey, Monmouth County, Holland Ridge Farms. Approx. GPS: 40.16936&deg;N 74.50087&deg;W ± 50m (WGS84). Instagram. Ventral view. Hair positioned ventrally, partially obscuring view of left strap (wearer's perspective). *Helikewisia erinae* wb. Erin.M., 2021. Higher-resolution version of holotype, but unreproducible due to Meta CDN implementation details. Instagram &copy; Erin Madalone or unknown photographer, 2021, all rights reserved.
-  * **SHA2-256**: `062cd32b6a0eb3b2c8803055384cc473db1fd5959d5616b5229bacb6488baac8`.
-
 **Remarks**:
 
 * *Madalone Inst-1HE* specimen was obtained using instaloader. Direct right-click from original Instagram page returns slightly higher-resolution image. Meta's CDN infrastructure is in general, unreceptive to reproducible image retrievals due to the large amount of parameters involved. URLs also appear to have expiring signatures.
 * Holotype specimen is of significantly lower quality, but it is reproducible. A debate is due as to whether image quality or image reproducibility should be valued more in selecting a holotype.
 * The degree to which floral patterns should be documented; and whether the LCT-01 should create a new domain dedicated to fabric taxonomy, is a subject of future discussion. Most of the flowers are likely stylized, and if they correspond to valid botanical names, cannot be conclusively identified due to the author's lack of experience in botany.
+
+**Specimens examined**:
+
+* Holotype.
+* ***Madalone Inst-1HE*** &mdash; Photograph. 1080&times;1350, EXIF metadata stripped; exposure, f-stop, lens foc. len unknown. United States, New Jersey, Monmouth County, Holland Ridge Farms. Approx. GPS: 40.16936&deg;N 74.50087&deg;W ± 50m (WGS84). Instagram. Ventral view. Hair positioned ventrally, partially obscuring view of left strap (wearer's perspective). *Helikewisia erinae* wb. Erin.M., 2021. Higher-resolution version of holotype, but unreproducible due to Meta CDN implementation details. Instagram &copy; Erin Madalone or unknown photographer, 2021, all rights reserved.
+  * **SHA2-256**: `062cd32b6a0eb3b2c8803055384cc473db1fd5959d5616b5229bacb6488baac8`.
 
 #### *Helikewisia irvinae* {#sec-h-irvinae}
 ***Helikewisia irvinae*** Lemuria, 2026; first public desc.
@@ -576,9 +577,9 @@ Angled ventral view, roughly 45&deg; horizontal, 45&deg; vertical, subject on st
 
 **Etymology**: *Irvine* + *-ae*, feminine genitive form.
 
-**Specimens examined**: See holotype information.
-
 **Remarks**: Irvine wrote in @irvine_ode_2020 that after washing *H. irvinae*, the shorter seam allowance softened. Prior to this, it had sat "strangely" on the bust. The buttons were repurposed from a Tilly and the Buttons Arielle skirt Irvine made earlier (unclassified). Irvine wrote a tutorial for the pockets in @irvine_how_2020.
+
+**Specimens examined**: See holotype information.
 
 #### *Helikewisia kristinae* {#sec-h-kristinae}
 ***Helikewisia kristinae*** Lemuria, sp. nov.
@@ -595,6 +596,8 @@ Truncated ventral view, subject facing slightly downward.
 **Description**: Shallow angle V-neck. Bilateral single straps. Skirt terminates superior to knee.
 **Buttons.** Ventral medial button row, 13 buttons. Five on bodice, eight on skirt. Circular, two thread holes, black thread. Thread line mostly horizontal.
 **Fabric.** Black background. Repeating pattern of cat (*Felis catus*)-like facial expression. Two whiskers, two eyes. Cat pattern in white.
+
+**Etymology**: *Kristin* + *-ae*, feminine genitive suffix.
 
 **Specimens examined**:
 
@@ -645,11 +648,14 @@ Photograph. 1080&times;1350. EXIF metadata stripped by Meta CDN.
 **Buttons.** Ventral medial button row of 23 buttons. Wood-like color. Four thread holes.
 **Fabric.** Unknown material. Plain pink fabric.
 
+**Etymology**: *Maria* + *-ae*, feminine genitive suffix.
+
+**Specimens examined**: See holotype information.
+
 **Remarks**:
 
 * Date inferred from Shopify CDN `v` parameter.
 
-**Specimens examined**: See holotype information.
 
 #### *Helikewisia sarae* {#sec-h-sarae}
 ***Helikewisia sarae*** sp. nov.
@@ -681,9 +687,9 @@ Ventral view, subject looking to right.
 
 **Specimens examined**:
 
-* Holotype
+* Holotype.
 <!-- File: p1040085.jpg (HOLOTYPE INFO TEMPLATE FROM LCT01-HOLOTYPER)-->
-* *Sarah 0085HS.AU-TAS*
+* ***Sarah 0085HS.AU-TAS*** &mdash;
 Photograph. 960&times;1280.
 Exposure: 1/60s. F-stop: 3.3. Focal: 4.30 mm. ISO: 100. Lens: unknown. Camera: DMC-TZ40. 
 *Helikewisia sarae* wb. Sarah of T., 2019.
@@ -694,7 +700,7 @@ Angled ventral view, subject looking down.
   * **Raw image URLs**
     * **Original**: <https://craftilyhandmade.wordpress.com/wp-content/uploads/2019/02/p1040088.jpg>
 <!-- File: p1040087.jpg (HOLOTYPE INFO TEMPLATE FROM LCT01-HOLOTYPER)-->
-* *Sarah 0087HS.AU-TAS*
+* ***Sarah 0087HS.AU-TAS*** &mdash;
 Photograph. 960&times;1280.
 Exposure: 1/60s. F-stop: 3.3. Focal: 4.30 mm. ISO: 100. Lens: unknown. Camera: DMC-TZ40. 
 Dorsal view, hair positioned ventrally.
@@ -705,7 +711,7 @@ Dorsal view, hair positioned ventrally.
   * **Raw image URLs**
     * **Original**: <https://craftilyhandmade.wordpress.com/wp-content/uploads/2019/02/p1040082.jpg>
 <!-- File: p1040088.jpg (HOLOTYPE INFO TEMPLATE FROM LCT01-HOLOTYPER)-->
-* *Sarah 0088HS.AU-TAS*
+* ***Sarah 0088HS.AU-TAS*** &mdash;
 Photograph. 960&times;1280.
 Exposure: 1/80s. F-stop: 5.6. Focal: 38.20 mm. ISO: unknown. Lens: unknown. Camera: DMC-TZ40. 
 Close ventral view of button row.
@@ -830,6 +836,17 @@ Exposure: 1/125s. F-stop: 8. Focal: 41 mm. Lens: EF24-105mm f/4L IS II USM. Came
 
 **Etymology**: Latin *nuptiae* "marriage" + *Rachael* + *-ae*, feminine genitive suffix.
 
+**Remarks**:
+
+* Rachael sewed five dresses for her wedding's bridesmaids. The maid of honor amongst the five, Lizzy, desired a cold-shoulder look, and Rachael accordingly used the Kew pattern, after modifying it to remove the ventral medial button row.
+* We could not determine if there was any phylogenetic descent from Walker's hack, which we are confident exists in the other four spp. of *Kewabotonia*.
+* The other four dresses that Rachael sewed for her bridesmaids warrant their own taxonomic treatment.
+* Only *Kewabotonia nuptirachaelae* had an overlay on its skirt; Rachael's other four bridesmaids had plain full-circle skirts instead.
+* While submitting <https://web.archive.org/web/20260317150922/https://sewprettyful.wordpress.com/wp-content/uploads/2018/08/0063-ra.jpg> to the Internet Archive, Save Page Now failed to capture the JPG image properly due to improper content negotiation. WordPress instead returned an HTML preview of the image.
+* As such, we recommend these links for verifying the archive:
+  * <https://archive.org/details/archiveteam_archivebot_go_20260320094602_3d45c6e0>
+  * Other Archiveteam archives for Rachael's blog may be indexed at <https://archive.fart.website/archivebot/viewer/domain/sewprettyful.wordpress.com>.
+
 **Specimens examined**:
 
 * Holotype.
@@ -842,17 +859,6 @@ Exposure: 1/1250s. F-stop: 4.5. Focal: 70 mm. Lens: EF70-200mm f/2.8L IS II USM.
   * **SHA2-256**: `631592f926a502692fdc21802c721d1d6da2795a150e63e4fdce14515530ca2f`
   * **Raw image URLs**
     * **Original**: <https://sewprettyful.wordpress.com/wp-content/uploads/2018/08/0412-ra.jpg>
-
-**Remarks**:
-
-* Rachael sewed five dresses for her wedding's bridesmaids. The maid of honor amongst the five, Lizzy, desired a cold-shoulder look, and Rachael accordingly used the Kew pattern, after modifying it to remove the ventral medial button row.
-* We could not determine if there was any phylogenetic descent from Walker's hack, which we are confident exists in the other four spp. of *Kewabotonia*.
-* The other four dresses that Rachael sewed for her bridesmaids warrant their own taxonomic treatment.
-* Only *Kewabotonia nuptirachaelae* had an overlay on its skirt; Rachael's other four bridesmaids had plain full-circle skirts instead.
-* While submitting <https://web.archive.org/web/20260317150922/https://sewprettyful.wordpress.com/wp-content/uploads/2018/08/0063-ra.jpg> to the Internet Archive, Save Page Now failed to capture the JPG image properly due to improper content negotiation. WordPress instead returned an HTML preview of the image.
-* As such, we recommend these links for verifying the archive:
-  * <https://archive.org/details/archiveteam_archivebot_go_20260320094602_3d45c6e0>
-  * Other Archiveteam archives for Rachael's blog may be indexed at <https://archive.fart.website/archivebot/viewer/domain/sewprettyful.wordpress.com>.
 
 #### *Kewabotonia sarae* {#sec-kb-sarae}
 ***Kewabotonia sarae*** Lemuria, 2026; first public desc.
@@ -943,6 +949,13 @@ Ventral view. Hair mostly positioned dorsally, with slight amount of hair obscur
 
 **Etymology**: *Bernice* + *-ae*, feminine genitive suffix.
 
+**Remarks**:
+
+* Instagram specimens exist for *K. bernicae*, but due to the instability and non-reproducibility of image retrievals from Facebook's CDN, as discussed in @sec-h-erinae, we have decided to prioritize reproducibility for *Kewisia bernicae*.
+* Minerva processes JPG images using gd-jpeg v1.0, with quality set to 100; `CREATOR: gd-jpeg v1.0 (using IJG JPEG v62), quality = 100`.
+* In @bernice_hello_2020, Bernice writes that her husband is Dutch, and as a result, prefers fabrics with tulips.
+* Bernice also reported that some of the images showed the red pencil marks she had placed to mark buttonhole locations; she washed the dress, ironed it, and retool photographs.
+
 **Specimens examined**:
 
 * Holotype.
@@ -958,13 +971,6 @@ Ventral side of dress laid out on wood table. Image truncates medial portions of
   * **Raw image URLs**
     * **Original**: <https://cdn.minerva.com/feed/original/image-sa-1031540-1000312-48621.jpg>
     * **IA**: <https://web.archive.org/web/20260317211238/https://cdn.minerva.com/feed/original/image-sa-1031540-1000312-48621.jpg>
-
-**Remarks**:
-
-* Instagram specimens exist for *K. bernicae*, but due to the instability and non-reproducibility of image retrievals from Facebook's CDN, as discussed in @sec-h-erinae, we have decided to prioritize reproducibility for *Kewisia bernicae*.
-* Minerva processes JPG images using gd-jpeg v1.0, with quality set to 100; `CREATOR: gd-jpeg v1.0 (using IJG JPEG v62), quality = 100`.
-* In @bernice_hello_2020, Bernice writes that her husband is Dutch, and as a result, prefers fabrics with tulips.
-* Bernice also reported that some of the images showed the red pencil marks she had placed to mark buttonhole locations; she washed the dress, ironed it, and retool photographs.
 
 #### *Kewisia evae* {#sec-k-evae}
 ***Kewisia evae*** Lemuria, 2026
@@ -1013,13 +1019,14 @@ Ventral view. Hair positioned dorsally.
 
 **Description**: Shallow angle V-neck. Bilateral single straps. Sleeves typical to that of Kewoidea and level with bodice. Skirt terminates inferior to knee. Ventral medial row of 15 buttons, solid black with two thread holes, white thread, sourced from The Cloth House on Berwick Street. Straps shortened by 2.5 cm (1 in). Bust cut at size 8, graded to 10 towards transpyloric plane. **Fabric.** Dahlia viscose crepe, from the company Til The Sun Goes Down, operated by Andree Holden.^[Also known as Andree Hansen; inconsistent names observed.] Floral pattern, black, yellow, and white.
 
-**Etymology**: *Fiona* + *-ae*, feminine genitive suffix.
 
-**Specimens examined**: See holotype information.
+**Etymology**: *Fiona* + *-ae*, feminine genitive suffix.
 
 **Remarks**:
 
 * Parker purchased the pattern from Chang-Smith herself at the Great British Sewing Bee in January 2018, and began work on the dress by July 2018. In Spring 2018, Andree gifted Parker 1.5 meters of the fabric, 138 cm wide.
+
+**Specimens examined**: See holotype information.
 
 #### *Kewisia genyae* {#sec-k-genyae}
 ***Kewisia genyae*** sp. nov.
@@ -1054,12 +1061,16 @@ Ventral view, Lehrer looking down.
 * **Raw image URLs**:
   * **IA**: <https://web.archive.org/web/20260319132608/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.2885-15/37916165_271939026870446_3584395751792312320_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=MTgzNTc5NTc1OTQ2Mzg1MDg1Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTM1MC5zZHIuZGVmYXVsdF9pbWFnZS5DMyJ9&_nc_ohc=ohE9edBqAhwQ7kNvwH1a-vW&_nc_oc=AdoBj2wPIzck737gF5Z2tZoZUXyVGWIa74qUPSuFNYexgX3yT0QBe_GqczxysLbQ0qE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_ss=8&oh=00_AfyJ92sFgYXkhTPQ4ZxPIIWGP6khWt6K3IJTf2ImxlRq1g&oe=69C1DBC8>
 
-
 **Description**: Shallow angle V-neck. Bilateral single straps. Sleeves typical to that of Kewoidea and level with bodice. Skirt terminates superior to knee.
 **Buttons.** Ventral medial row of 15 buttons. Buttons reflective, two thread holes, floral decorations. Background brownish in color. Black thread sewn through. Thread hole alignment variable, thread line of second button est. 20&deg;.
 **Fabric.** Black fabric. Floral patterns, featuring ferns (botanical division Polypodiophhyta and class Polypodiopsida <small>Cronquist, Takht. & W.Zimm.</small>)
 
 **Etymology**: *Kristin* + *-ae* feminine genitive prefix.
+
+**Remarks**
+
+* No method of reliably reproducible video downloads is known.
+* On March 19, 2026, we visited Lehrer's Instagram page using Imginn to retrieve photographic evidence. Instagram can now be considered a reproducible source when Save Page Now is used to submit CDN URLs.
 
 **Specimens examined**:
 
@@ -1096,11 +1107,6 @@ Fabric and buttons of *Kewisia kristinae* pre-assembly.
   * **SHA2-256**: `c5dbd79fe03d2f3ebf40cbe06340e785aa141f2ffa0472fd7c04ec4b7277bd35`
   * **IA**: <https://web.archive.org/web/20260319135834/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/625821393_18445416712105093_1850098667885446021_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=MTc5MjEzMDAwODY3MDUyNjkyNg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=DOdHCUirR-UQ7kNvwGKQvd9&_nc_oc=AdrFBFll-FmrDDOIYeHiENVJZFoSR9-kMtlzE37JPxSHZtPz6cBOot1aMvHNM6J5280&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=X8WJNR8snzyK4kFDawLysg&_nc_ss=8&oh=00_AfwiMoVGSiKV4jiwNtmAbqFlnN8dm_EjawBycobkLKfXOQ&oe=69C1E1C5>
 * ***Lehrer 0001.G65Z***^[Derived from portion of YouTube alphanumeric video ID.] &mdash; YouTube video. *VoolenvVLOG: The Seamstress Tag!*. 00h15m48.648s. 1920&times;1080, 23.976fps. 48KHz Opus stereo audio. ***Encoder***: Lavf60.16.100. ***YouTube ID***: `C_cpG65ZGyE`. Ventral view, subject in center. Frame cuts inferior to fourth button. Uploaded 2018-09-04. *Kewisia kristinae* wb. Lehrer, 2018. &copy; Kristin Lehrer, 2018, all rights reserved. See @lehrer_voolenvvlog_2018.
-
-**Remarks**
-
-* No method of reliably reproducible video downloads is known.
-* On March 19, 2026, we visited Lehrer's Instagram page using Imginn to retrieve photographic evidence. Instagram can now be considered a reproducible source when Save Page Now is used to submit CDN URLs.
 
 **`yt-dlp` provenance:** See @sec-yt-dlp-k-kristinae.
 
@@ -1186,7 +1192,7 @@ Ventral view. Hair positioned dorsally.
 
 **Etymology**: *Marie* + *-ae*, feminine genitive suffix.
 
-**Remarks**:^[We move the Remarks section above the list of specimens examined for ease of switching, as the specimen list is unusually long for *Kewisia mariae*.]
+**Remarks**:
 
 * Marie sewed the dress in 2018, after being invited to the wedding of Amy Scarr (the author of the blog *Almond Rock*; former editor of *Love Sewing*). Marie decreased the seam allowance on the neckline's facing due to worries about excessive exposure, writing that she is self-conscious about her large bust.
 
@@ -1289,9 +1295,9 @@ Ventral view, mirror selfie.
 
 **Etymology**: *Modista* + Latin *rubera* "red".
 
-**Specimens examined**: See holotype information.
-
 **Remarks**: After Sally wore her *K. modistaflora* to a 2019 wedding in Scotland, the dress proved popular amongst her friends; and one of them requested a red Kew dress from her. She was unable to photograph the friend wearing it, leaving the mirror selfie as the only available type.
+
+**Specimens examined**: See holotype information.
 
 #### *Kewisia rachaelae* {#sec-k-rachaelae}
 ***Kewisia rachaelae*** Lemuria, 2026; first public desc.
@@ -1520,6 +1526,11 @@ Dress on red mannequin, angled ventral view of sleeve and strap.
 
 **Etymology**: *Lorna* + *-ae*, feminine genitive suffix.
 
+**Remarks**:
+
+* In early 2020, presumably before March 2020 when the COVID-19 pandemic began to spread intensely, Rothery visited Bordeaux, France. She found a local fabric shop which had 1.5 m remaining of a double gauze fabric from Rico Design; she bought and stashed it (@rothery_kew_2020-05).
+* We note a discrepancy in Lorna's family name in the EXIF metadata; see @sec-malkin.
+
 **Specimens examined**:
 
 * Holotype.
@@ -1529,11 +1540,6 @@ Dress on red mannequin, angled ventral view of sleeve and strap.
   * **Raw image URLs**
     * **Original**: <https://lornarothery.com/wp-content/uploads/2020/05/165d5796-3a33-4292-a302-c1f879b4e530.jpg>
     * **IA**: <https://web.archive.org/web/20260317104650/https://lornarothery.com/wp-content/uploads/2020/05/165d5796-3a33-4292-a302-c1f879b4e530.jpg>
-
-**Remarks**:
-
-* In early 2020, presumably before March 2020 when the COVID-19 pandemic began to spread intensely, Rothery visited Bordeaux, France. She found a local fabric shop which had 1.5 m remaining of a double gauze fabric from Rico Design; she bought and stashed it (@rothery_kew_2020-05).
-* We note a discrepancy in Lorna's family name in the EXIF metadata; see @sec-malkin.
 
 #### *Kewpepla lornaebis* {#sec-kp-lornaebis}
 ***Kewpepla lornaebis*** Lemuria, 2026; first public desc.
@@ -1555,11 +1561,11 @@ Ventral view, hair positioned ventrally and obscuring wearer's left.
 
 **Etymology**: *Lorna* + *-ae*, feminine genitive suffix + *-bis* "twice", as it is the second *Kewpepla* sp. from Rothery to be described.
 
-**Specimens examined**: See holotype information.
-
 **Remarks**:
 
 * This is Rothery's second make of a *Kewpepla*, published with a similar title as her first make, *Kewpepla lornae*. As such, confusion may ensue.
+
+**Specimens examined**: See holotype information.
 
 #### *Kewpepla mariae* {#sec-kp-mariae}
 ***Kewpepla mariae*** sp. nov.
@@ -1659,6 +1665,10 @@ Zoomed out shot of dress laid on table.
 
 **Etymology**: *Eva* + *-ae*, feminine genitive suffix.
 
+**Remarks**:
+
+* Eva reported fit issues, though she attributed them to her body. She wrote in @eva_autumnal_2018 that she learned she had broad shoulders with a smaller waist and bust, from an online course from By Hand London; and theorized that if she purchased an RTW tea dress, the body would be excessively large. As a result, when making *Kewthea evae*, she graded between sizes.
+
 **Specimens examined**:
 
 * Holotype.
@@ -1666,11 +1676,6 @@ Zoomed out shot of dress laid on table.
   * **SHA2-256**: `4cf40acd6dde11352f2cf0b993849f641ae94e3064991184f0f053ceaa81914b`.
   * **Original**: <https://kateevadesigns.com/wp-content/uploads/2018/10/img_0120.jpg>
   * **IA**: <https://web.archive.org/web/20260317080030/https%3A//kateevadesigns.com/wp-content/uploads/2018/10/img_0120.jpg>
-
-**Remarks**:
-
-* Eva reported fit issues, though she attributed them to her body. She wrote in @eva_autumnal_2018 that she learned she had broad shoulders with a smaller waist and bust, from an online course from By Hand London; and theorized that if she purchased an RTW tea dress, the body would be excessively large. As a result, when making *Kewthea evae*, she graded between sizes.
-
 
 #### *Kewthea lornae* {#sec-kt-lornae}
 ***Kewthea lornae*** Lemuria, 2026; first public desc.
@@ -1688,6 +1693,12 @@ Zoomed out shot of dress laid on table.
 
 **Etymology**: *Lorna* + *-ae*, feminine genitive suffix.
 
+**Remarks**:
+
+* Cameras such as the 90D typically produce larger images than 983&times;1748. We do not have a 90D in our possession, but theorize that Rothery likely downscaled the original image before publication to her blog, or less likely, used a lower-quality setting in the camera. We found the usage of `Adobe Lightroom 10.4.1 (iOS)` in the EXIF metadata of the holotype. We observe a consistent `-1` suffix in image filenames (e.g. `img_3618-1.jpg`), and 404 errors in attempting to retrieve unsuffixed versions (e.g. `img_3618.jpg`), suggesting the existence of a higher-quality image type inaccessible to us.
+* We note a discrepancy in Lorna's family in the EXIF metadata; see @sec-malkin.
+* *Kewthea lornae* is perhaps the most recent specimen of *Kewthea* and of the Kew dress, showing that it still ranges to 2025. The Kewoidea (cold-shoulder Kew), while still sewable, has not seen any specimens dating to the 2020s; while the Kewthidae (tea dress) and Helikewidae (sundress), less prone to the fashion cycle, still persist today.
+
 **Specimens examined**:
 
 * Holotype.
@@ -1703,12 +1714,6 @@ Zoomed out shot of dress laid on table.
   * **Raw image URLs**
     * **Original**: <https://lornarothery.com/wp-content/uploads/2025/07/img_3637-1.jpg>
     * **IA**: <https://web.archive.org/web/20260317093300/https://lornarothery.com/wp-content/uploads/2025/07/img_3637-1.jpg>
-
-**Remarks**:
-
-* Cameras such as the 90D typically produce larger images than 983&times;1748. We do not have a 90D in our possession, but theorize that Rothery likely downscaled the original image before publication to her blog, or less likely, used a lower-quality setting in the camera. We found the usage of `Adobe Lightroom 10.4.1 (iOS)` in the EXIF metadata of the holotype. We observe a consistent `-1` suffix in image filenames (e.g. `img_3618-1.jpg`), and 404 errors in attempting to retrieve unsuffixed versions (e.g. `img_3618.jpg`), suggesting the existence of a higher-quality image type inaccessible to us.
-* We note a discrepancy in Lorna's family in the EXIF metadata; see @sec-malkin.
-* *Kewthea lornae* is perhaps the most recent specimen of *Kewthea* and of the Kew dress, showing that it still ranges to 2025. The Kewoidea (cold-shoulder Kew), while still sewable, has not seen any specimens dating to the 2020s; while the Kewthidae (tea dress) and Helikewidae (sundress), less prone to the fashion cycle, still persist today.
 
 #### *Kewthea lornoblae* {#sec-kt-lornoblae}
 ***Kewthea lornoblae*** Lemuria, 2026; first public desc.
@@ -1818,8 +1823,6 @@ Ventral view. Denim jacket (unclassified) worn above dress, tied together at inf
   * **Raw image URLs**
     * **Original**: <https://modistasewing.wordpress.com/wp-content/uploads/2020/04/img_9943.jpg>
     * **IA**: <https://web.archive.org/web/20260317233256/https://modistasewing.wordpress.com/wp-content/uploads/2020/04/img_9943.jpg>
-
-**Remarks**:
 
 ### Genus *Kewthicata* {#sec-genus-kewthicata}
 ***Kewthicata*** gen. nov., Lemuria, 2026
