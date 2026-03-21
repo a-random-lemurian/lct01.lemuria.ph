@@ -2042,12 +2042,12 @@ We present a list of the image specimen identifiers we have assigned in this pap
 ```{=latex}
 \begin{multicols}{2}
 ```
-* *Alice 94531KR*
-* *Alice 88719KR*
-* *Alice 33000KR*
-* *Alice 29682KR*
 * *Alice 18651KR*
 * *Alice 27962KR*
+* *Alice 29682KR*
+* *Alice 33000KR*
+* *Alice 88719KR*
+* *Alice 94531KR*
 * *Bernice 37957KB*
 * *Bernice 48621KB*
 * *Cecilia 849728HC*
