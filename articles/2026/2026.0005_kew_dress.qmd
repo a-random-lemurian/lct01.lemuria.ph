@@ -356,6 +356,10 @@ We also present additional species descriptions of the taxa we have covered.
 First public description (first public desc.) indicates that this paper is the first public description of the species, and that the taxon was first documented privately on Lemuria's MediaWiki site.
 
 ### Genus *Florankewia* {#sec-genus-florankewia}
+***Florankewia*** Lemuria, 2026; first public desc.
+
+**Diagnosis**: Hybrid of three patterns. Bodice from the By Hand London (BHL) pattern Flora (Behelafloridae; unpublished), with sleeves of Kewoidea, and skirt of the By Hand London pattern Anna.
+
 #### *Florankewia libera* {#sec-f-libera}
 ***Florankewia libera*** Lemuria, 2026; first public desc.
 
@@ -400,6 +404,9 @@ First public description (first public desc.) indicates that this paper is the f
 
 
 ### Genus *Helikewabotonia* {#sec-genus-helikewabotonia}
+***Helikewabotonia*** gen. nov.
+
+**Diagnosis**: Distinguished from *Kewabotonia* by the lack of sleeves lateral to the upper arm.
 
 #### *Helikewabotonia lanata* {#sec-h-lanata}
 ***Helikewabotonia lanata*** sp. nov.
@@ -461,6 +468,10 @@ Exposure: unknown. F-stop: unknown. Focal: unknown. ISO: unknown. Lens: unknown.
 **Specimens examined**: See holotype information.
 
 ### Genus *Helikewisia* {#sec-genus-helikewisia}
+***Helikewisia*** Lemuria, 2026; first public desc.
+
+**Diagnosis**: Distinguished from genera in Kewoidea by the lack of sleeves lateral to upper arm, and a skirt most similar to *Kewisicasa* (straight skirt).
+
 #### *Helikewisia aemilia* {#sec-h-aemilia}
 ***Helikewisia aemilia*** Lemuria, 2026; first public desc.
 
@@ -697,6 +708,8 @@ Close ventral view of button row.
 ### Genus *Helikewisia* subg. *Emmae* {#sec-h-subg-emmae}
 In August 2019, Emma, the author of the blog *Crafty Clyde*, sewed three Kew dresses; two of which have a ventral medial button row. We place the new species *H. arbor* and *H. quagga* into the subgenus *Emmae*.
 
+**Diagnosis**: Having been sewn by Emma of N.
+
 #### *Helikewisia arbor* {#sec-h-arbor}
 ***Helikewisia arbor*** sp. nov.
 
@@ -751,10 +764,18 @@ Dress on mannequin.
 **Specimens examined**: See holotype information.
 
 ### Genus *Helikewplicata* {#sec-genus-helikewplicata}
+***Helikewplicata*** gen. nov.
+
+**Diagnosis**: Distinguished from other genera in tribe Helikewini by the presence of gathering on the superior area of the skirt, immediately inferior to the bodice&ndash;skirt transition.
+
 #### *Helikewplicata ninae* {#sec-hkp-ninae}
 ***Helikewplicata ninae*** sp. nov.
 
 ### Genus *Kewabotonia* {#sec-genus-kewabotonia}
+***Kewabotonia*** Lemuria, 2026
+
+**Diagnosis**: Lack of ventral medial button row on both bodice and skirt. On phylogenetic grounds, descent from Jen Walker's Kew hack (*Kewabotonia zingibera*, see @sec-k-zingibera) or tutorials produced by her pertaining to the hack.
+
 #### *Kewabotonia eleanorae* {#sec-k-eleanorae}
 ***Kewabotonia eleanorae*** Lemuria, 2026; first public desc.
 
@@ -863,6 +884,10 @@ EXIF metadata stripped.
 **Specimens examined**: See holotype information.
 
 ### Genus *Kewasalia* {#sec-genus-kewasalia}
+***Kewasalia*** gen. nov.
+
+**Diagnosis**: Lack of ventral medial button row, two legs bifurcating, and non-descent from the Portobello trouser pattern.
+
 #### *Kewasalia pimsia* {#sec-k-pimsia}
 ***Kewasalia pimsia*** sp. nov.
 
@@ -882,6 +907,10 @@ EXIF metadata stripped.
 **Specimens examined**: See holotype information.
 
 ### Genus *Kewisia* {#sec-genus-kewisia}
+***Kewisia*** Lemuria, 2026; first public desc.
+
+**Diagnosis**: Presence of ventral medial button row, bilateral single straps, and sleeves lateral to the upper arm.
+
 #### *Kewisia bernicae* {#sec-k-bernicae}
 ***Kewisia bernicae*** Lemuria, 2026; first public desc.
 
@@ -1454,6 +1483,10 @@ Dress on red mannequin, angled ventral view of sleeve and strap.
 ***Kewisia sarae*** Lemuria, 2026; first public desc.
 
 ### Genus *Kewpepla* {#sec-genus-kewpepla}
+***Kewpepla*** Lemuria, 2026; first public desc.
+
+**Diagnosis**: Distinguished from *Kewthea* by lack of skirt,
+
 #### *Kewpepla lornae* {#sec-kp-lornae}
 ***Kewpepla lornae*** Lemuria, 2026; first public desc.
 
@@ -1511,6 +1544,10 @@ Ventral view, hair positioned ventrally and obscuring wearer's left.
 ***Kewpepla mariae*** sp. nov.
 
 ### Genus *Kewthea* {#sec-genus-kewthea}
+***Kewthea*** Lemuria, 2026; first public desc.
+
+**Diagnosis**: Presence of V-shaped neckline, ventral medial button row, with sleeves covering shoulders.
+
 #### *Kewthea chantellae* {#sec-kt-chantellae}
 ***Kewthea chantellae*** Lemuria, 2026; first public desc.
 
@@ -1784,6 +1821,8 @@ Zoomed out ventral view. Subject at ease. Multiple buttons unfastened.
 ### Genus *Trunkewia* {#sec-genus-trunkewia}
 ***Trunkewia*** Lemuria, 2026
 
+**Diagnosis**: Distinguished from other members of Helikewidae by the lack of a skirt.
+
 #### *Trunkewia ninae* {#sec-t-ninae}
 ***Trunkewia ninae*** Lemuria, 2026; first public desc.
 
@@ -1806,6 +1845,8 @@ Zoomed out ventral view. Subject at ease. Multiple buttons unfastened.
 ***Trunkewia* subgenus *Illecebrosus*** subg. nov.
 
 All three species in *T.* subg. *Illecebrosus* are defined by the holotype *Roseberry Trunkewia-1*, a three-image collage assembled by Nina Lee for @chang-smith_kew_2018, and the only surviving evidence of *T.* subg. *Illecebrosus* due to the deletion of &commat;epp.roseberry.couture's account.
+
+**Diagnosis**: Having been sewn by Stéphanie.T.
 
 **Etymology**: From the species *Rubus illecebrosus* Focke 1899, known in Japan as バライチゴ, literally "roseberry". It was the first result when searching for "roseberry". Roseberry is in turn, taken from the wearer's Instagram handle.
 
@@ -1959,6 +2000,7 @@ In this paper, we used the following person abbreviations.
 * **Eva** &mdash; Kate Eva
 * **Gingerthread** &mdash; Gingerthread Girl (Jen Walker)
 * **Joy of B.** &mdash; Joy (Instagram: &commat;sew.with.joy), a sewist based in Brooklyn
+* **Julie of the W.M.** &mdash; Julie of the West Midlands (Instagram: &commat;julielovestosew)
 * **Lehrer** &mdash; Kristin Lehrer, known online as Voolenvine
 * **Liz of G.** &mdash; Liz of the blog *Girl Can Sew*
 * **Lorna.R.** &mdash; Lorna Rothery (<https://lornarothery.com/>; abbreviated Lorna.R. in the LCT-01), is the most prolific sewist among the Kewthidae, with four documented specimens.
@@ -2029,6 +2071,7 @@ We present a list of the image specimen identifiers we have assigned in this pap
 * *Gingerthread 0212KZ*
 * *Irvine 0001HI*
 * *Joy 112.26042HL*
+* *Julie 2018.28918KJ*
 * *Lehrer 0001.G65Z*
 * *Lehrer 2018.22063HKEW*
 * *Lehrer 2018.43603HKEW*
