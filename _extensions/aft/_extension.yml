@@ -1,5 +1,5 @@
-title: Article Format Template
-author: Christophe Dervieux
+title: Lemuria's (Informal) Journal of Clothing Taxonomy
+author: Lemuria
 version: 0.2.0
 quarto-required: ">= 1.7.24"
 contributes:
@@ -41,10 +41,13 @@ contributes:
         \definecolor{mypink}{RGB}{219, 48, 122}
       template-partials:
         # Add here the partials your format is using
-        - "partials/title.tex"
         - "partials/_authors.tex"
+        - "partials/before-bib.tex"
         - "partials/before-body.tex"
-        - "partials/toc.tex"
+        - "partials/before-title.tex"
+        - "partials/biblio.tex"
+        - "partials/doc-class.tex"
+        - "partials/title.tex"
       format-resources:
         # Add here the resources required for the PDF rendering
         - aft.cls
