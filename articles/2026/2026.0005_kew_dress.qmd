@@ -243,7 +243,7 @@ Helikewbellini (see @sec-kewbello) is monotypic, containing the genus *Helikewbe
 Helikewini is divided into three genera, based on the three skirt options: *Helikewisia*, *Helikewplicata*, and *Helikewparabola*; alongside the new genus *Helikewabotonia*. Like Kewidae, only *Helikewisia* is populated with species.
 
 *Helikewisia* contains six species:
-*aemilia* wb. Emily, 2017, see @sec-h-aemilia;
+*aemilia* wb. Emily of L., 2017, see @sec-h-aemilia;
 *ceciliae* wb. Cecilia, 2018, see @sec-h-ceciliae;
 *erinae* wb. Erin.M., 2021, see @sec-h-erinae;
 *irvinae* wb. Alice.Ir., 2020, see @sec-h-irvinae;
@@ -365,8 +365,8 @@ First public description (first public desc.) indicates that this paper is the f
 
 **Holotype**: *Eva 4be-FL* Photograph. 1104&times;1104. EXIF metadata stripped; exposure, f-stop, lens foc. len unknown. United Kingdom, London. Ventral full-body view. Dorsally positioned hair, straps unobscured. *Florankewia libera* wb. Eva, 2019. &copy; Kate Eva or unknown photographer, all rights reserved.
 
-* **SHA2-256**: `2db411c534a464ef21bcb247128f3583a006954b7c16d7b3e188fe381eec1f0b`
 * **Page**: See @eva_gifted_2019.
+* **SHA2-256**: `2db411c534a464ef21bcb247128f3583a006954b7c16d7b3e188fe381eec1f0b`
 * **Raw image URLs**
   * **Original**: <https://kateevadesigns.com/wp-content/uploads/2019/05/f4f5d0b1-5a27-44d7-9055-77eba812a4be.jpg>
   * **IA**: <https://web.archive.org/web/20260316223517/https://kateevadesigns.com/wp-content/uploads/2019/05/f4f5d0b1-5a27-44d7-9055-77eba812a4be.jpg>
@@ -384,8 +384,8 @@ First public description (first public desc.) indicates that this paper is the f
 
 **Holotype**: *Eva 0098FV* &mdash; Photograph. 1440&times;1440. EXIF metadata stripped; exposure, f-stop, lens foc. len unknown. United Kingdom, London. Ventral full-body view. Dorsally positioned hair. *Florankewia valentina* wb. Eva, 2019. &copy; Kate Eva or unknown photographer, all rights reserved.
 
-* **SHA2-256**: `259d9687e6e09752364856a59620d7ffa15d28ded0e669b529a08f5e8bbc3332`
 * **Page**: See @eva_valentino_2019.
+* **SHA2-256**: `259d9687e6e09752364856a59620d7ffa15d28ded0e669b529a08f5e8bbc3332`
 * **Raw image URLs**
   * **Original**: <https://kateevadesigns.com/wp-content/uploads/2019/09/9a19be8e-4b8a-472f-9f03-1b917380098c.jpg>
   * **IA**: <https://web.archive.org/web/20260315224227/https://kateevadesigns.com/wp-content/uploads/2019/09/9a19be8e-4b8a-472f-9f03-1b917380098c.jpg>
@@ -398,9 +398,11 @@ First public description (first public desc.) indicates that this paper is the f
 
 * Holotype.
 * ***Eva 3222FV***^[Derived from `0xc96` converted to decimal.] &mdash; Photograph. 1440&times;1440. EXIF metadata stripped; exposure, f-stop, lens foc. len unknown. United Kingdom, London. Dorsal half-body view.
+  * **Page**: See @eva_valentino_2019.
   * **SHA2-256**: `c4b0476878da7f7011d353fed70da76235731be5edd1416c21203809c74291af`
-  * **Original**: <https://kateevadesigns.com/wp-content/uploads/2019/09/c573e2db-5b6d-4658-8832-2b6145a9ec96.jpg>;
-  * **IA**: <https://web.archive.org/web/20260316080324/https://kateevadesigns.com/wp-content/uploads/2019/09/c573e2db-5b6d-4658-8832-2b6145a9ec96.jpg>;
+  * **Raw image URLs**
+    * **Original**: <https://kateevadesigns.com/wp-content/uploads/2019/09/c573e2db-5b6d-4658-8832-2b6145a9ec96.jpg>;
+    * **IA**: <https://web.archive.org/web/20260316080324/https://kateevadesigns.com/wp-content/uploads/2019/09/c573e2db-5b6d-4658-8832-2b6145a9ec96.jpg>;
 
 
 ### Genus *Helikewabotonia* {#sec-genus-helikewabotonia}
@@ -455,7 +457,7 @@ Exposure: unknown. F-stop: unknown. Focal: unknown. ISO: unknown. Lens: unknown.
 *Helikewabotonia stabile* wb. WEARER, 2019.
 &copy; Emma of *Crafty Clyde*, 2019, all rights reserved.
 
-* **Page**:
+* **Page**: See @emma2019
 * **SHA2-256**: `db9b04c2fad0a27e80a5da3a32f0cade8420b281acb1fec4f3e8d7be38ae39cb`
 * **Raw image URLs**
   * **Original**: <https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgWW0S9_NZtJgvjQW7vIAuJP0D5T0WcWoC86-LKxsiHtzShlKg5RfpbLMxvovfHudGigTls3Qgz_7ynh3cf4ouH034OqbHHVw9jI-GJsZyJxof5sk77qXgw7oO6OQOlVdOmzQ7ybIWV_Q/s0/holland.JPG=s0?imgmax=0>
@@ -481,8 +483,8 @@ Exposure: 1/80s. F-stop: 2. Focal: 23 mm. Lens: unknown. Camera: Fujifilm X100T.
 Ventral view. *Helikewisia aemilia* wb. Emily, 2017.
 &copy; Emily or unknown photographer, 2017, all rights reserved.
 
-* **SHA2-256**: `91098a2dd37df4410add3dd1b148aaebb1ddda1f0e6958ff736f83b59d5f7191`
 * **Page**: See @emily_kew_2017
+* **SHA2-256**: `91098a2dd37df4410add3dd1b148aaebb1ddda1f0e6958ff736f83b59d5f7191`
 * **Raw image URLs**
   * **Original**: <https://selfassemblyrequired.co.uk/wp-content/uploads/2017/09/img_3668.jpg>
   * **IA**: <https://web.archive.org/web/20260317182014/https://selfassemblyrequired.co.uk/wp-content/uploads/2017/09/img_3668.jpg>
@@ -537,8 +539,8 @@ Angled ventral view, roughly 45&deg; horizontal, 45&deg; vertical, subject on st
 
 **Holotype**: *Madalone 4823HE* &mdash; Photograph. 427&times;640, EXIF metadata stripped; exposure, f-stop, lens foc. len unknown. United States, New Jersey, Monmouth County, Holland Ridge Farms. Approx. GPS: 40.16936&deg;N 74.50087&deg;W ± 50m (WGS84). Instagram. Ventral view. Hair positioned ventrally, partially obscuring view of left strap (wearer's perspective). *Helikewisia erinae* wb. Erin.M., 2021. Instagram. &copy; Erin Madalone or unknown photographer, 2021, all rights reserved.
 
+* **Page**: See @madalone_kew_2021 and @madalone_tulips_2021
 * **SHA2-256**: `ff6af1347c0f4ae0d17d74efce69ded5702681b0ea356233daa18e4c690f9a29`. 
-* **Page**: See @madalone_kew_2021 and @madalone_tulips_2021.
 * **Raw image URLs**
   * **Original**: <https://mypoeticmemory.wordpress.com/wp-content/uploads/2021/04/9f49e8f1-0424-4b0a-ada4-5829431c4823.jpeg>
   * **IA**: <https://web.archive.org/web/20260316212935/https://mypoeticmemory.wordpress.com/wp-content/uploads/2021/04/9f49e8f1-0424-4b0a-ada4-5829431c4823.jpeg>
@@ -565,6 +567,7 @@ Angled ventral view, roughly 45&deg; horizontal, 45&deg; vertical, subject on st
 **Holotype**: *Irvine 0001HI* &mdash; Photograph. 2736&times;3648. Exposure 1/665 sec, f-stop 1.6, lens foc. len 5.6mm (35mm equiv. 27.0mm), ISO 50, FOV 67.4&deg;, no flash. United Kingdom. Ventral full-body view. Tied hair. Hands in bilateral pockets. *Helikewisia irvinae* wb. Alice.Ir., 2020. &copy; Alice Irvine or unknown photographer, 2020, all rights reserved.
 
 * **Page**: See @irvine_ode_2020.
+* **SHA2-256**: `56018b2b4de1d041abe40308ea36c514cbc2a433348038445e94c1a17ae3a34d`
 * **Raw image URLs**
   * **Original**: <https://aliceirvine.com/wp-content/uploads/2020/07/nina-lee-kew-dress-1.jpg>
   * **IA**: <https://web.archive.org/web/20260316225915/https://aliceirvine.com/wp-content/uploads/2020/07/nina-lee-kew-dress-1.jpg>
@@ -585,6 +588,7 @@ Truncated ventral view, subject facing slightly downward.
 *Helikewisia kristinae* wb. Lehrer, 2018.
 &copy; Kristin Lehrer, 2018, all rights reserved.
 
+* **Page**: See @lehrer_memade_2018.
 * **SHA2-256**: `7cd9db2581b2d8e914edd7fb3d04d2fa54ff4b0d09f644cb7bf96d7efd66334b`
 * **IA**: <https://web.archive.org/web/20260319132037/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/651304872_18342211174243233_2394920789214788823_n.jpg?stp=dst-jpg_e35_tt6&_nc_ohc=FwrXTiN1G5wQ7kNvwFy_jZE&_nc_oc=AdpK-2DaeK0qlOT9rNzxyo0CRbOSvu3b-5B_Nz1RWhsRQzAizagKjJ8v1JxkgG1ziIE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=K4_6pwiUZqSjFpoiu745AQ&_nc_ss=8&oh=00_AfweZfEjv2dAnJkONXV1jObK6mrzxkeRGxQhN5JYjG_sHQ&oe=69C1D13A>
 
@@ -600,6 +604,7 @@ Photograph. 1080&times;1345. EXIF metadata stripped by Meta CDN.
 Truncated ventral view, first three buttons visible.
 *Helikewisia kristinae* wb. Lehrer, 2018.
 &copy; Kristin Lehrer, 2018, all rights reserved.
+  * **Page**: See @lehrer_memade_2018.
   * **SHA2-256**: `7b1625cfe7649681197ae5840382c3596e66f74910362e54f9c18eeca56475e5`
   * **IA**: <https://web.archive.org/web/20260319132504/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/653489959_18391307863150239_6596263911806943603_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=MTc4NjUyMjU4ODE5NDAwODUzOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTM0NS5zZHIuQzMifQ%3D%3D&_nc_ohc=g0bLlb5Xx7MQ7kNvwFDxEeV&_nc_oc=AdqOJQDOWeGNSK4gMIdnmZKuMUlRSQdhuEQ6h3ClRrQtmgJNmpx3nYc-0A2jPpPYkcE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=cTsd1WJdPGRH6GhiGPqNBg&_nc_ss=8&oh=00_Afx1XhjsuVToExkKX3XO8_ruhQ9gBxwOeUCTkdi1TdGDZg&oe=69C1D9D8>
 * ***Lehrer 2018.22063HKEW*** &mdash;
@@ -607,18 +612,21 @@ Photograph. 1080&times;1350. EXIF metadata stripped by Meta CDN.
 *Helikewisia kristinae* wb. Lehrer, 2018.
 Full-body angled dorsal view, subject facing camera.
 &copy; Kristin Lehrer, 2018, all rights reserved.
+  * **Page**: See @lehrer_memade_2018.
   * **SHA2-256**: `e34d04a4f4577ff12a97e703981e379fd4d86d5f2c161b61279c34b17f55c33c`
   * **IA**: <https://web.archive.org/web/20260319132312/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/649224321_18310689463248562_3345583525819022063_n.jpg?stp=dst-jpg_e35_tt6&_nc_ohc=wmaMrt1JTo8Q7kNvwHh_cwn&_nc_oc=Adqm16almXh5DWJO1q2Ys7bNZbWdpHNzLws3N8gYbkUJ9n6SD4CJZ1tJ-R0wBThvBu8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=cTsd1WJdPGRH6GhiGPqNBg&_nc_ss=8&oh=00_Afz1hUBh7L5Olq8hXF0WMDV7aA0ETNm2ihpyAuru7huOfg&oe=69C1DF5A>
 * ***Lehrer 2018.86738HKEW*** &mdash;
 Photograph. 1080&times;1350. EXIF metadata stripped by Meta CDN.
 *Helikewisia kristinae* wb. Lehrer, 2018.
 &copy; Kristin Lehrer, 2018, all rights reserved.
+  * **Page**: See @lehrer_memade_2018.
   * **SHA2-256**: `814fa9cfad20ad414a965623eae02d11b82ecaa54b0522f0537d9ec7f762dac3`
   * **IA**: <https://web.archive.org/web/20260319154054/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/652736560_18566358889030125_2343636094538386738_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=MTc4NjUyMjU3NDc0Njk0MDk3NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTM1MC5zZHIuQzMifQ%3D%3D&_nc_ohc=Ew8gBj5VlYgQ7kNvwGttAYi&_nc_oc=Adpd5jT5MgxYi8_Xuhv40GkC3THp8hpp-hiyebzQ4gVXsxuD18DEnMlAJiahBqE8pHk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=4TKyJZiquFSWjl8edc6GHg&_nc_ss=8&oh=00_Afw-JqGGlsITxvVm6q7wykt5hwaPefNMpeL01lfeI6AGUw&oe=69C2079B>
 * ***Lehrer 2018.94528HKEW*** &mdash;
 Photograph. 1080&times;1350. EXIF metadata stripped by Meta CDN.
 *Helikewisia kristinae* wb. Lehrer, 2018.
 &copy; Kristin Lehrer, 2018, all rights reserved.
+  * **Page**: See @lehrer_memade_2018.
   * **SHA2-256**: `e49d36f1d0da97a674453c3073e3437dab5835e8f4be30b1e2ba0a5808e38fee`
   * **IA**: <https://web.archive.org/web/20260319154052/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.2885-15/32203412_2115508038733054_3655784219990294528_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=MTc4NjUyMjU5NjAxMjA3MjI3OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTM1MC5zZHIuZGVmYXVsdF9pbWFnZS5DMyJ9&_nc_ohc=dRqDySO0u6wQ7kNvwGU3ovf&_nc_oc=AdpJH8WTAbtySRnddi8ij7ZEKr1SK1zXI-bvBZnBI0-NjGnQ9LIqTxoa0MFQsob6pS4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_ss=8&oh=00_AfxJnBJAutMp2fVzH8EAgnz_7LFzuzcHFbMpNxCX43ICGA&oe=69C1D48D>
 
@@ -640,6 +648,8 @@ Photograph. 1080&times;1350. EXIF metadata stripped by Meta CDN.
 **Remarks**:
 
 * Date inferred from Shopify CDN `v` parameter.
+
+**Specimens examined**: See holotype information.
 
 #### *Helikewisia sarae* {#sec-h-sarae}
 ***Helikewisia sarae*** sp. nov.
@@ -700,7 +710,7 @@ Photograph. 960&times;1280.
 Exposure: 1/80s. F-stop: 5.6. Focal: 38.20 mm. ISO: unknown. Lens: unknown. Camera: DMC-TZ40. 
 Close ventral view of button row.
 &copy; Sarah of *Craftily Handmade*, 2019, all rights reserved.
-  * **Page**: See
+  * **Page**: See @sarah_floral_2019
   * **SHA2-256**: `c6915eed7b3a04d442317a160b5c39f97bb71efd05427380c9db416a3d674aa4`
   * **Raw image URLs**
     * **Original**: <https://craftilyhandmade.wordpress.com/wp-content/uploads/2019/03/p1040087.jpg>
@@ -720,7 +730,7 @@ Exposure: unknown. F-stop: unknown. Focal: unknown. ISO: unknown. Lens: unknown.
 *Helikewisia arbor* wb. Emma of N., 2019.
 &copy; Emma of *Crafty Clyde*, 2019, all rights reserved.
 
-* **Page**:
+* **Page**: See @emma2019
 * **SHA2-256**: `1cc632efa01d6e9461407572896ed51146b1c3e28e6375ba1231aa3f66742981`
 * **Raw image URLs**
   * **Original**: <https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinnVlIBaxEn9dtuWLb4GfXT-IO_aw_XzTxP0CE_fS_BuvuZ-ZqyFUUzCN01ub2TsumDbvTAxQI-V8T13sxg2M4BSUEuLCitYk2L5QwSKSw87jt4rA9JIqtHMbgpozynAsuxzv4RxhhCpw/s0/kew+green+2.JPG=s0?imgmax=0>
@@ -743,7 +753,7 @@ Exposure: unknown. F-stop: unknown. Focal: unknown. ISO: unknown. Lens: unknown.
 Dress on mannequin.
 &copy; Emma of *Crafty Clyde*, 2019, all rights reserved.
 
-* **Page**: @emma2019
+* **Page**: See @emma2019
 * **SHA2-256**: `81faf393fa07bc693730e7a261e4286fb5a9fa406babb6be6bd883fc8e0bd9c9`
 * **Raw image URLs**
   * **Original**: <https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIozsKfbe9TE4sQKFm3DkT4aSsYMRCZEmLvsoYW0c-oCjuIKia4ZrRGBoWaCizBJLCEyFkS6G8S-4BR7Y4Nec7DUWdZT7wQzRp9I1UGIUK3jQmICcH2-N58lNMQVDDe7tzhhylr75_Ogc/s0/zebra+kew.JPG=s0?imgmax=0>
@@ -789,7 +799,7 @@ Exposure: 1/50s. F-stop: 2.0. Focal: 3.51 mm. ISO: unknown. Lens: unknown. Camer
 *Kewabotonia elsae* wb. Elsa, 2021.
 &copy; Elsa of *La Casa Cactus*, 2021, all rights reserved.
 
-* **Page**: @elsa_brocade_2021
+* **Page**: See @elsa_brocade_2021
 * **SHA2-256**: `801293dddc4076f143b5c2a1eb2a539480a32ea4c7066ecbeb4a8c6932bcfcec`
 * **Raw image URLs**
   * **Original**:<https://lacasacactus.com/wp-content/uploads/2021/03/kew_13.jpg>
@@ -853,7 +863,7 @@ EXIF metadata stripped.
 *Kewabotonia sarae* wb. Sarah's S.C., 2018.
 &copy; Sarah's Sewing Chronicles, 2018, all rights reserved.
 
-* **Page**: @sarah_sc_2018
+* **Page**: See @sarah_sc_2018
 * **SHA2-256**: `b5bca18b6114bca9db8de2c1c78acea3fd0622d42df449064636d241c571bbf1`
 * **Raw image URLs**:
   * **IA**: <https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/627696672_18327776389174806_2043516935416512274_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=MTgyOTI2Mjg0MDUwMzIzMzQzMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjc2OHg5NjAuc2RyLkMzIn0%3D&_nc_ohc=aBa1bCRWqhgQ7kNvwHCA36c&_nc_oc=AdounD-lxRYEUHB1gwNxwNwn3lTjUgBA49qiqQ8fF6EWCrLU6Slz-a16ZA6hndHbhEc&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=Bt9fr8_x0I07PnVZ-pwtCA&_nc_ss=7a30f&oh=00_Afzn7zG3lzQloMNPZkZnxpfWDPP-bQ0HvtoS4XKEReA_tA&oe=69C2ACFA>
@@ -871,8 +881,8 @@ EXIF metadata stripped.
 **Holotype**: *Gingerthread 0212KZ* &mdash; Photograph. 1200&times;1800. EXIF metadata stripped; exposure, f-stop, lens foc. len unknown. United Kingdom. Ventral full-body view. Tied hair. Arms spread laterally. *Kewabotonia zingibera* wb. Gingerthread, 2018.
 &copy; Jen Walker or unknown photographer, 2018, all rights reserved.
 
-* **SHA2-256**: `b4d1008027f701f3b22f523bdc3796e64a0cb99ddb17cfd27c186d3d79849bc4`.
 * **Page**: See @walker_kewhack_2018.
+* **SHA2-256**: `b4d1008027f701f3b22f523bdc3796e64a0cb99ddb17cfd27c186d3d79849bc4`.
 * **Raw image URLs**
   * **Original**: <https://cdn.shopify.com/s/files/1/0725/7833/5029/files/IMG_0212.jpg>
   * **IA**: <https://web.archive.org/web/20240921120539/https://cdn.shopify.com/s/files/1/0725/7833/5029/files/IMG_0212.jpg>
@@ -894,8 +904,8 @@ EXIF metadata stripped.
 **Holotype**: *Pimsy 0001KP* &mdash; Photograph. 801&times;1184. EXIF metadata stripped; exposure, f-stop, lens foc. len unknown. Screenshotted by Chang-Smith, inferred from filename. Unknown location. Ventral view. Subject's head is to her right. Left strap (wearer's perspective) slightly obscured by ventrally positioned hair. Legs slightly crossed, obscuring medial interlimb space.
 *Kewasalia pimsia* wb. &commat;pimsyfaitdestrucs, c. 2018.  &copy; unknown, unknown year, all rights reserved.
 
-* **SHA2-256**: `3a1763dad87fa6f2dc2edef01c20db87e5e65f2f4f0e6e46bee83ce3ba49e7d0`.
 * **Page**: See @chang-smith_kew_2018.
+* **SHA2-256**: `3a1763dad87fa6f2dc2edef01c20db87e5e65f2f4f0e6e46bee83ce3ba49e7d0`.
 * **Raw image URLs**
   * **Original**: <https://cdn.shopify.com/s/files/1/0725/7833/5029/files/Screen-Shot-2018-08-07-at-13_20_04.jpg>
   * **IA**: <https://web.archive.org/web/20260315221454/https://cdn.shopify.com/s/files/1/0725/7833/5029/files/Screen-Shot-2018-08-07-at-13_20_04.jpg>
@@ -923,8 +933,8 @@ Ventral view. Hair mostly positioned dorsally, with slight amount of hair obscur
 *Kewisia bernicae* wb. Bernice, 2020;
 &copy; Bernice or unknown photographer, 2020, all rights reserved.
 
+* **Page**: See @bernice_hello_2020
 * **SHA2-256**: `f6b6caff6c4e25c48fe6fb5320fbe9119704bed364869b8409b84670ac2af642`
-* **Blog post**: See @bernice_hello_2020
 * **Raw image URLs**
   * **Original**: <https://cdn.minerva.com/feed/original/image-sa-1031540-1000312-37957.jpg>
   * **IA**: <https://web.archive.org/web/20260317204805/https://cdn.minerva.com/feed/original/image-sa-1031540-1000312-37957.jpg>
@@ -943,6 +953,7 @@ Published 2020-04-02.
 United States, California, San Francisco Bay Area.
 Ventral side of dress laid out on wood table. Image truncates medial portions of shoulder strap.
 &copy; Bernice or unknown photographer, 2020, all rights reserved.
+  * **Page**: See @bernice_hello_2020
   * **SHA2-256**: `be388a4ba51c7e8544cba5f091615195410d009735da2704dc49fd9db7884d1e`
   * **Raw image URLs**
     * **Original**: <https://cdn.minerva.com/feed/original/image-sa-1031540-1000312-48621.jpg>
@@ -966,8 +977,8 @@ London, United Kingdom.
 Ventral (front) view. Hair positioned dorsally.
 &copy; Kate Eva or unknown photographer, 2018, all rights reserved.
 
+* **Page**: See @eva_blue_2018.
 * **SHA2-256**: `95da481e925293acde9fab746a0ca97ca64366726218958b9bb76e5cfafa7502`
-* **Blog post**: See @eva_blue_2018.
 * **Raw image URLs**
   * **Original**: <https://kateevadesigns.com/wp-content/uploads/2018/09/img_3318.jpg>
   * **IA**: <https://web.archive.org/web/20260314183108/https://kateevadesigns.com/wp-content/uploads/2018/09/img_3318.jpg>
@@ -994,8 +1005,8 @@ London, United Kingdom.
 Ventral view. Hair positioned dorsally.
 &copy; Fiona Parker or unknown photographer, 2018, all rights reserved.
 
+* **Page**: See @parker_floral_2018
 * **SHA2-256**: `bd626b8a6f1310021d4ff6a1660814af1677ab1354e2fe17dfaca8f4c113d893`
-* **Blog post**: See @parker_floral_2018
 * **Raw image URLs**
   * **Original**: <https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimpa9buEQSTCOXcTc4UUSCbSNK_KdN57fJmXpUOxb9rUApekLFckiR44QXxuCQAt0oOQiPFKUA3mb7f3HZ3vJU92gu1aFPa0IuSeCABx3J03NQSo6GH2eh0ViuGiKnOFMBZSIiz0KfFLQ/s0/Floral+Viscose+Kew+Dress+Front.jpg=s0?imgmax=0>
   * **IA**: <https://web.archive.org/web/20260317141612/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimpa9buEQSTCOXcTc4UUSCbSNK_KdN57fJmXpUOxb9rUApekLFckiR44QXxuCQAt0oOQiPFKUA3mb7f3HZ3vJU92gu1aFPa0IuSeCABx3J03NQSo6GH2eh0ViuGiKnOFMBZSIiz0KfFLQ/s0/Floral+Viscose+Kew+Dress+Front.jpg=s0?imgmax=0>
@@ -1019,7 +1030,7 @@ Ventral view. Inferiormost two buttons unfastened.
 *Kewisia genyae* wb. Genya (W/2026 F2), 2023.
 &copy; Genya or unknown photographer, 2023, all rights reserved.
 
-* **Page**: @kewdressexpansion1628
+* **Page**: See @kewdressexpansion1628
 * **SHA2-256**: `c5896da2fc77396abdec02d0fd35c3254e536c334f886c2e3cb8a312a0bf2016`
 * **Raw image URLs**:
   * **Original**: <https://www.ninalee.co.uk/cdn/shop/products/Genya-4-scaled.jpg?v=1677871708>
@@ -1038,7 +1049,7 @@ EXIF metadata stripped. Sourced from Meta CDN, original URL non-permanent.
 Ventral view, Lehrer looking down.
 *Kewisia kristinae* wb. Lehrer, 2018. &copy; Kristin Lehrer, 2018, all rights reserved.
 
-* **Page**: See @lehrer_voolenvvlog_2018.
+* **Page**: See @lehrer_feelin_2018.
 * **SHA2-256**: `f37209aae5875c28c61f718c51d5752c70e58c8e1b7b62cf147966e3d3971769`
 * **Raw image URLs**:
   * **IA**: <https://web.archive.org/web/20260319132608/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.2885-15/37916165_271939026870446_3584395751792312320_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=MTgzNTc5NTc1OTQ2Mzg1MDg1Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTM1MC5zZHIuZGVmYXVsdF9pbWFnZS5DMyJ9&_nc_ohc=ohE9edBqAhwQ7kNvwH1a-vW&_nc_oc=AdoBj2wPIzck737gF5Z2tZoZUXyVGWIa74qUPSuFNYexgX3yT0QBe_GqczxysLbQ0qE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_ss=8&oh=00_AfyJ92sFgYXkhTPQ4ZxPIIWGP6khWt6K3IJTf2ImxlRq1g&oe=69C1DBC8>
@@ -1059,18 +1070,21 @@ Ventral view, Lehrer looking down.
 EXIF metadata stripped. Sourced from Meta CDN, original URL non-permanent.
 Dorsal view, truncated at medial point of skirt vertically and wearer's right edge of skirt.
 *Kewisia kristinae* wb. Lehrer, 2018. &copy; Kristin Lehrer, 2018, all rights reserved.
+  * **Page**: See @lehrer_feelin_2018
   * **SHA2-256**: `c5dbd79fe03d2f3ebf40cbe06340e785aa141f2ffa0472fd7c04ec4b7277bd35`
   * **IA**: <https://web.archive.org/web/20260319132612/https%3A//instagram.fmnl35-1.fna.fbcdn.net/v/t51.2885-15/37316534_1166569746843394_2798195026117525504_n.jpg?stp%3Ddst-jpg_e35_tt6%26_nc_cat%3D102%26ig_cache_key%3DMTgzNTc5NTc4MjcwODc1MjA0Nw%3D%3D.3-ccb7-5%26ccb%3D7-5%26_nc_sid%3D58cdad%26efg%3DeyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTM1MC5zZHIuZGVmYXVsdF9pbWFnZS5DMyJ9%26_nc_ohc%3Dd85sT6RYe_YQ7kNvwEyfGjO%26_nc_oc%3DAdqVnv2wBUDK-OaR7q2-a8GQq3dheknmR6XeqvFbD3WeW7jvJvHgVWgQpBd_ngvb5WQ%26_nc_ad%3Dz-m%26_nc_cid%3D0%26_nc_zt%3D23%26_nc_ht%3Dinstagram.fmnl35-1.fna%26_nc_ss%3D8%26oh%3D00_AfzkD-g5EzthnKYwiyM2RfjjC_p-w329JVz5LwT44lgFIg%26oe%3D69C1E46A>
 * ***Lehrer 2018.23250KK*** &mdash; Photograph.
 1080&times;1350.
 EXIF metadata stripped. Sourced from Meta CDN, original URL non-permanent.
 *Kewisia kristinae* wb. Lehrer, 2018. &copy; Kristin Lehrer, 2018, all rights reserved.
+  * **Page**: See @lehrer_feelin_2018
   * **SHA2-256**: `77af3ae6d745d43459b95f1c033580d12d6af5795cb1adbe777b497ff68ea302`
   * **IA**: <https://web.archive.org/web/20260319132619/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/649173683_18316866949301930_5983435372631823250_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=MTgzNTc5NTc5NDY4NzQ3MDM3MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTM1MC5zZHIuQzIifQ%3D%3D&_nc_ohc=vt8MweSfn4UQ7kNvwFuXwxO&_nc_oc=AdqWiLnrQ4eBjyJsfoPUKg3yDydNUTjp6-Wgds_khLGVPLhIGWivwwhlhR0mM7ZBDfw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=IOTvQ_IqLO9tqwOTu7G2Dw&_nc_ss=8&oh=00_Afx1FyLjdzYaluIEOFHjy8ZWKfaAT7SzujMBKeWEsrZLQQ&oe=69C1C026>
 * ***Lehrer 2018.73568KK*** &mdash; Photograph.
 1080&times;1350.
 EXIF metadata stripped. Sourced from Meta CDN, original URL non-permanent.
 *Kewisia kristinae* wb. Lehrer, 2018. &copy; Kristin Lehrer, 2018, all rights reserved.
+  * **Page**: See @lehrer_feelin_2018
   * **SHA2-256**: `1e064765de0c603ba33da49a4cb94728919c751a2dea24202c3a6a3d339f774c`
   * **IA**: <https://web.archive.org/web/20260319134425/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/650185604_18353554276224234_5543024147734773568_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=MTgzNTc5NTczNDI1NTg5NTUxMQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTM1MC5zZHIuQzMifQ%3D%3D&_nc_ohc=Da3G1LZCA8gQ7kNvwFmAk2A&_nc_oc=AdoPl_d9ofCr3qFIrNARoqVHnlpazMS_WVZoKjrfOkIz3FaS2qIbQKJH0HTYeKisg_k&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=IOTvQ_IqLO9tqwOTu7G2Dw&_nc_ss=8&oh=00_AfxKbEt19a5Jwc6dPho57qoyCcSapjpQrD1hI046QK1Riw&oe=69C1BC19>
 * ***Lehrer 2018.46021KK*** &mdash; Photograph.
@@ -1078,9 +1092,10 @@ EXIF metadata stripped. Sourced from Meta CDN, original URL non-permanent.
 EXIF metadata stripped. Sourced from Meta CDN, original URL non-permanent.
 Fabric and buttons of *Kewisia kristinae* pre-assembly.
 &copy; Kristin Lehrer, 2018, all rights reserved.
+  * **Page**: See @lehrer_feelin_2018
   * **SHA2-256**: `c5dbd79fe03d2f3ebf40cbe06340e785aa141f2ffa0472fd7c04ec4b7277bd35`
   * **IA**: <https://web.archive.org/web/20260319135834/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/625821393_18445416712105093_1850098667885446021_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=MTc5MjEzMDAwODY3MDUyNjkyNg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=DOdHCUirR-UQ7kNvwGKQvd9&_nc_oc=AdrFBFll-FmrDDOIYeHiENVJZFoSR9-kMtlzE37JPxSHZtPz6cBOot1aMvHNM6J5280&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=X8WJNR8snzyK4kFDawLysg&_nc_ss=8&oh=00_AfwiMoVGSiKV4jiwNtmAbqFlnN8dm_EjawBycobkLKfXOQ&oe=69C1E1C5>
-* ***Lehrer 0001.G65Z***^[Derived from portion of YouTube alphanumeric video ID.] &mdash; YouTube video. *VoolenvVLOG: The Seamstress Tag!*. 00h15m48.648s. 1920&times;1080, 23.976fps. 48KHz Opus stereo audio. ***Encoder***: Lavf60.16.100. ***YouTube ID***: `C_cpG65ZGyE`. Ventral view, subject in center. Frame cuts inferior to fourth button. Uploaded 2018-09-04. *Kewisia kristinae* wb. Lehrer, 2018. &copy; Kristin Lehrer, 2018, all rights reserved.
+* ***Lehrer 0001.G65Z***^[Derived from portion of YouTube alphanumeric video ID.] &mdash; YouTube video. *VoolenvVLOG: The Seamstress Tag!*. 00h15m48.648s. 1920&times;1080, 23.976fps. 48KHz Opus stereo audio. ***Encoder***: Lavf60.16.100. ***YouTube ID***: `C_cpG65ZGyE`. Ventral view, subject in center. Frame cuts inferior to fourth button. Uploaded 2018-09-04. *Kewisia kristinae* wb. Lehrer, 2018. &copy; Kristin Lehrer, 2018, all rights reserved. See @lehrer_voolenvvlog_2018.
 
 **Remarks**
 
@@ -1123,6 +1138,7 @@ EXIF metadata stripped; exposure, f-stop, lens foc. len unknown.
 *Kewisia lizae* wb. Liz of G., 2018.
 Truncated ventral view, from neckline to sixth button.
 &copy; Liz of *Girl Can Sew* or unknown photographer, 2018, all rights reserved.
+  * **Page**: See @liz_pattern_2018
   * **SHA2-256**: `2917f507f50e9dcfd28ef9c852e9bd93b1278d98922b9e3372b28f6d931719b5`
   * **Raw image URLs**
     * **Original**: <https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAfGLBo7XXYtJiIekZCHC_tIcdhCwxIQq_hmUru6QuosQ51fK2fFHOWlOj8lPCZIkcQhLw8YwIDUusJ-IFxYv0OkEkNP_nZedAOIdbfvUOVuJsPzFuqqV4BqTn2tUtaCGbVQUcKWiiVto/s0/kew+close+up.png=s0?imgmax=0>
@@ -1133,6 +1149,7 @@ EXIF metadata stripped; exposure, f-stop, lens foc. len unknown.
 *Kewisia lizae* wb. Liz of G., 2018.
 Zoomed out ventral view. Hair tied, wearer's left strap obscured. Subject looking upward at *Wisteria* L. plant in blue vase.
 &copy; Liz of *Girl Can Sew* or unknown photographer, 2018, all rights reserved.
+  * **Page**: See @liz_pattern_2018
   * **SHA2-256**: `486862f315a8f307bf1691f90577ddc4f21f409d4c2a89b76693942c98db73af`
   * **Raw image URLs**
     * **Original**: <https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqmp9lLmXbE3UDWakmFKhVMgyJSpnF5tf_1RjFGDceMbZ8grPcLqPGCdEO1n77hL43nK7UgZBbTkKXyTCT_iRKi8EhpD7duJ4XJhwSDwZSOAt8WWlxxazwEIRUOffY7bAShX2ltg2tHMM/s0/kew+dress+wysteria.png=s0?imgmax=0>
@@ -1143,11 +1160,11 @@ EXIF metadata stripped; exposure, f-stop, lens foc. len unknown.
 *Kewisia lizae* wb. Liz of G., 2018.
 Zoomed out dorsal view. Hair positioned dorsally. Subject interacting with *Wisteria* L. plant in blue vase.
 &copy; Liz of *Girl Can Sew* or unknown photographer, 2018, all rights reserved.
+  * **Page**: See @liz_pattern_2018
   * **SHA2-256**: `d83d649efb74a7296095e99ca8a871f8942b4f759f943514ce786534a26fbc14`
   * **Raw image URLs**
     * **Original**: <https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2tKHL-yMVyts7S9-ROPAVKPl_W5VI00Yuox9eM8wV6WFjMKHokyzP57lon_jZ1mKPOLsJDX2v56t5ngjQgpd-bW1syGJAZOiqnWSVo51cANw4ZJhVDJEvAI8IddaeB1x0ccwhTGG7yHw/s0/kew+dress+back.png=s0?imgmax=0>
     * **IA**: <https://web.archive.org/web/20260318202027/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2tKHL-yMVyts7S9-ROPAVKPl_W5VI00Yuox9eM8wV6WFjMKHokyzP57lon_jZ1mKPOLsJDX2v56t5ngjQgpd-bW1syGJAZOiqnWSVo51cANw4ZJhVDJEvAI8IddaeB1x0ccwhTGG7yHw/s0/kew+dress+back.png=s0?imgmax=0>
-
 
 #### *Kewisia mariae* {#sec-k-mariae}
 ***Kewisia mariae*** Lemuria, 2026; first public desc.
@@ -1287,6 +1304,7 @@ Ventral view. Wearer's left arm placed on bodice, inferior to bodice&ndash;skirt
 *Kewisia rachaelae* wb. Rachael, 2018.
 &copy; Rachael Beaumont or unknown photographer, 2018, all rights reserved.
 
+* **Page**: See @beaumont_kew_2018
 * **SHA2-256**: `81942cc72cfce9de1edca8fa6309b02bf8d9bd3927a4422f23863d8b7871c51d`
 * **Raw image URLs**
   * **Original**: <https://sewprettyful.wordpress.com/wp-content/uploads/2018/03/nina-leee-kew-dress-20.jpg>
@@ -1485,15 +1503,16 @@ Dress on red mannequin, angled ventral view of sleeve and strap.
 ### Genus *Kewpepla* {#sec-genus-kewpepla}
 ***Kewpepla*** Lemuria, 2026; first public desc.
 
-**Diagnosis**: Distinguished from *Kewthea* by lack of skirt,
+**Diagnosis**: Distinguished from *Kewthea* by lack of skirt.
 
 #### *Kewpepla lornae* {#sec-kp-lornae}
 ***Kewpepla lornae*** Lemuria, 2026; first public desc.
 
 **Holotype**: *Rothery 613D.KL* &mdash; Photograph. EXIF metadata stripped; exposure, f-stop, lens foc. len. unknown. United Kingdom. *Kewpepla lornae* on wooden hanger held by Rothery. &copy; Lorna Rothery or Lorna Malkin (name seen in EXIF data; see @sec-malkin), 2020, all rights reserved.
 
-* **SHA2-256**: `827245bb3491960ea11f5a40fc7e4b966c335abef490c1ddc2cff5067ccc5522`
 * **Page**: See @rothery_kew_2020-05.
+* **SHA2-256**: `827245bb3491960ea11f5a40fc7e4b966c335abef490c1ddc2cff5067ccc5522`
+* **Raw image URLs**
   * **Original**: <https://lornarothery.com/wp-content/uploads/2020/05/7bd2d058-6968-4c5f-8163-c195a33c613d.jpg>
   * **IA**: <https://web.archive.org/web/20260317104813/https://lornarothery.com/wp-content/uploads/2020/05/7bd2d058-6968-4c5f-8163-c195a33c613d.jpg>
 
@@ -1505,9 +1524,11 @@ Dress on red mannequin, angled ventral view of sleeve and strap.
 
 * Holotype.
 * ***Rothery E530.KL*** &mdash; Photograph. United Kingdom. wb. Lorna.R., &copy; Lorna Rothery or Lorna Malkin (name seen in EXIF data; see @sec-malkin), 202, all rights reserved.
+  * **Page**: See @rothery_kew_2020-05.
   * **SHA2-256**: `a48b736b7bb47f251db41d827ca4d7024fb4882889178347d65276eddb153ca5`
-  * **Original**: <https://lornarothery.com/wp-content/uploads/2020/05/165d5796-3a33-4292-a302-c1f879b4e530.jpg>
-  * **IA**: <https://web.archive.org/web/20260317104650/https://lornarothery.com/wp-content/uploads/2020/05/165d5796-3a33-4292-a302-c1f879b4e530.jpg>
+  * **Raw image URLs**
+    * **Original**: <https://lornarothery.com/wp-content/uploads/2020/05/165d5796-3a33-4292-a302-c1f879b4e530.jpg>
+    * **IA**: <https://web.archive.org/web/20260317104650/https://lornarothery.com/wp-content/uploads/2020/05/165d5796-3a33-4292-a302-c1f879b4e530.jpg>
 
 **Remarks**:
 
@@ -1524,8 +1545,8 @@ Ventral view, hair positioned ventrally and obscuring wearer's left.
 *Kewthea lornaebis* wb. Lorna.R., 2020.
 &copy; Lorna Rothery, 2020, all rights reserved.
 
-* **SHA2-256**: `64f8a8b8d6b0d38129abb2259e0c1fb8667c5e1a5f4633644158636c27875947`
 * **Page**: See @rothery_kew_2020-06
+* **SHA2-256**: `64f8a8b8d6b0d38129abb2259e0c1fb8667c5e1a5f4633644158636c27875947`
 * **Raw image URLs**
   * **Original**: <https://lornarothery.com/wp-content/uploads/2020/06/img_8861.jpg>
   * **IA**: <https://web.archive.org/web/20260318102735/https://lornarothery.com/wp-content/uploads/2020/06/img_8861.jpg>
@@ -1629,7 +1650,7 @@ Zoomed out shot of dress laid on table.
 *Kewthea evae* wb. Eva, 2019. &copy; Kate Eva, 2019, all rights reserved.
 
 * **SHA2-256**: `79d6e4321fd0295ceb7bc6434aec7596c2a4c2b83e3e7b265d704891dc8eb14f`.
-* **Page**: See @eva_autumnal_2018.
+* **Page**: See @eva_autumnal_2018
 * **Raw image URLs**
   * **Original**: <https://kateevadesigns.com/wp-content/uploads/2018/09/img_2947.jpg>
   * **IA**: <https://web.archive.org/web/20260317075603/https%3A//kateevadesigns.com/wp-content/uploads/2018/09/img_2947.jpg>
@@ -1657,8 +1678,8 @@ Zoomed out shot of dress laid on table.
 **Holotype**: *Rothery 3618KL* &mdash; Photograph. 983&times;1748. Exposure 1/30s, f-stop 6.3, lens foc. len 18mm (35mm equiv. 33.5mm), ISO 400. Camera `Canon EOS 90D` with lens `EF-S18-55mm f/3.5-5.6 IS STM`. United Kingdom. *Kewthea lornae* wb. Lorna.R., 2025.
 &copy; Lorna Rothery or Lorna Malkin (name seen in EXIF data; see @sec-malkin), 2025, all rights reserved. 
 
-* **SHA2-256**: `eab2676a36834c7d23b82b731268c7a3dc0ca3dc8b33453d30990648369df092`.
 * **Page**: See @rothery_perfect_2025
+* **SHA2-256**: `eab2676a36834c7d23b82b731268c7a3dc0ca3dc8b33453d30990648369df092`.
 * **Raw image URLs**
   * **Original**: <https://lornarothery.com/wp-content/uploads/2025/07/img_3618-1.jpg>
   * **IA**: <https://web.archive.org/web/20260317093131/https://lornarothery.com/wp-content/uploads/2025/07/img_3618-1.jpg>
@@ -1671,13 +1692,17 @@ Zoomed out shot of dress laid on table.
 
 * Holotype.
 * ***Rothery 3603KL*** &mdash; Photograph. 926&times;1218. Exposure 1/250s, f-stop 3.5, lens foc. len 18mm (35mm equiv. 33.5), ISO 500. Camera `Canon EOS 90D` with lens `EF-S18-55mm f/3.5-5.6 IS STM`. Dress in incomplete state, laid on table, ventral side up. &copy; Lorna Rothery or Lorna Malkin (name seen in EXIF data; see @sec-malkin), 2025, all rights reserved.
+  * **Page**: See @rothery_perfect_2025
   * **SHA2-256**: `5b0ff8b5d9ddb59d32181859adefe177e1ef99de31681e3d8fe24c1ba6d080d2`
-  * **Original**: <https://lornarothery.com/wp-content/uploads/2025/07/img_3603-1.jpg>
-  * **IA**: <https://web.archive.org/web/20260317093137/https://lornarothery.com/wp-content/uploads/2025/07/img_3603-1.jpg>
+  * **Raw image URLs**
+    * **Original**: <https://lornarothery.com/wp-content/uploads/2025/07/img_3603-1.jpg>
+    * **IA**: <https://web.archive.org/web/20260317093137/https://lornarothery.com/wp-content/uploads/2025/07/img_3603-1.jpg>
 * ***Rothery 3637KL*** &mdash; Photograph. 1080&times;1920. Exposure 1/30s, f-stop 6.3, lens foc. len 18mm (35mm equiv. 33.5mm), ISO 400. Camera `Canon EOS 90D` with lens `EF-S18-55mm f/3.5-5.6 IS STM`. *Kewthea lornae* wb. Lorna.R., 2025, &copy; Lorna Rothery or Lorna Malkin (name seen in EXIF data; see @sec-malkin), 2025, all rights reserved.
+  * **Page**: See @rothery_perfect_2025
   * **SHA2-256**: `3def2839e8e0686b451d3fd216290a69fc8b5cf567dff45da71b5444908ad77d`
-  * **Original**: <https://lornarothery.com/wp-content/uploads/2025/07/img_3637-1.jpg>
-  * **IA**: <https://web.archive.org/web/20260317093300/https://lornarothery.com/wp-content/uploads/2025/07/img_3637-1.jpg>
+  * **Raw image URLs**
+    * **Original**: <https://lornarothery.com/wp-content/uploads/2025/07/img_3637-1.jpg>
+    * **IA**: <https://web.archive.org/web/20260317093300/https://lornarothery.com/wp-content/uploads/2025/07/img_3637-1.jpg>
 
 **Remarks**:
 
@@ -1693,6 +1718,7 @@ Zoomed out shot of dress laid on table.
 Ventral view, full body, subject smiling, hair positioned ventrally. Closer to subject, subject facing slightly to her right.
 &copy; Lorna Rothery, 2020, all rights reserved. 
 
+* **Page**: See @rothery_kew_2020.
 * **SHA2-256**: `36cd6fa2214d996b69b14b0e49ad8a7a4b0216a6666f9f461a18263293cd7d96`
 * **Raw image URLs**
   * **Original**: <https://lornarothery.com/wp-content/uploads/2020/04/e88a93f9-3466-4082-b898-aa11e637ef7a.jpg> 
@@ -1711,6 +1737,7 @@ Ventral view, full body, subject smiling, hair positioned ventrally. Closer to s
 *Kewthea lornoblae* wb. Lorna.R., 2020.
 Ventral view, full body, subject smiling, hair positioned ventrally.
 &copy; Lorna Rothery, 2020, all rights reserved.
+  * **Page**: See @rothery_kew_2020.
   * **SHA2-256**: `587495621ba7f44e3c1788d6649f88869bce261781b0d9cea28769c9cca17c1c`
   * **Raw image URLs**
     * **Original**: <https://lornarothery.com/wp-content/uploads/2020/04/01cd536c-1ac9-4dfb-8a53-a3c0e2234f5f.jpg> 
@@ -1719,6 +1746,7 @@ Ventral view, full body, subject smiling, hair positioned ventrally.
 Ventral view, subject sitting on floor, looking down.
 *Kewthea lornoblae* wb. Lorna.R., 2020.
 &copy; Lorna Rothery, 2020, all rights reserved.
+  * **Page**: See @rothery_kew_2020.
   * **SHA2-256**: `7b5312096ac8833f362fd0e2f3b2595816a98059dd5cd0e43d4ccc92d423783b`
   * **Raw image URLs**
     * **Original**: <https://lornarothery.com/wp-content/uploads/2020/04/image.jpg>
@@ -1730,8 +1758,8 @@ Ventral view, subject sitting on floor, looking down.
 **Holotype**: *Procter 0005KL* &mdash; Photograph. 1365&times;2048. EXIF metadata stripped; exposure, f-stop, lens foc. len unknown. United Kingdom. Ventral view. 
 *Kewthea luscinia* wb. Ruth.Pr., 2019. &copy; Ruth Procter, 2019, all rights reserved.
 
-* **SHA2-256**: `89aa8f34f0e84ad09bb11d3893802b1cd300eb0cdb6b67fac5e5ad99d98bc175`.
 * **Page**: See @procter_kew_2019
+* **SHA2-256**: `89aa8f34f0e84ad09bb11d3893802b1cd300eb0cdb6b67fac5e5ad99d98bc175`.
 * **Raw image URLs**
   * **Original**: <https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTFuBwQrb4iHrqyA3EjhD2oW-6dgTD8dzk-lf6iBe3Qj4LFl3kOdR0upk68Tx72jI5l8S9gMVKewmD8M8zUYx3T5YE6Zorj6jSLSYtgwrmR2D8ONDK2JgUdDRpCvQcH7_ob5RizD5hqig/s0/Nina-Lee-Kew-Dress-Sewing-Pattern-Expansion-Pack-5.JPG=s0?imgmax=0>
   * **IA**: <https://web.archive.org/web/20260316200715/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTFuBwQrb4iHrqyA3EjhD2oW-6dgTD8dzk-lf6iBe3Qj4LFl3kOdR0upk68Tx72jI5l8S9gMVKewmD8M8zUYx3T5YE6Zorj6jSLSYtgwrmR2D8ONDK2JgUdDRpCvQcH7_ob5RizD5hqig/s0/Nina-Lee-Kew-Dress-Sewing-Pattern-Expansion-Pack-5.JPG=s0?imgmax=0>
@@ -1741,7 +1769,6 @@ Ventral view, subject sitting on floor, looking down.
 **Etymology**: *luscinia* is derived from the biological genus *Luscinia* T. Forster, 1817, the nightingale. The name *luscinia* was chosen because of the blog's title, *Nightingale & Dolittle*. The blog itself was named *Nightingale & Dolittle* after two girls in Procter's extended family named Florence and Eliza were born; ultimately in reference to both Florence Nightingale and Eliza Doolittle. *Dolittle*, in reference to the blog, is not a typo.
 
 **Specimens examined**: See holotype information.
-
 
 #### *Kewthea modistaflora* {#sec-kt-modistaflora}
 ***Kewthea modistaflora*** sp. nov.
@@ -1830,8 +1857,8 @@ Zoomed out ventral view. Subject at ease. Multiple buttons unfastened.
 **Holotype**: *Nina 0296TN* &mdash; Photograph. 2668&times;3707. EXIF metadata stripped; exposure, f-stop, lens foc. len unknown. United Kingdom, London. Zoomed-out view. Right strap (wearer's perspective) slightly obscrubed by ventrally positioned hair.
 *Trunkewia ninae* wb. Nina, 2018. &copy; Nina Chang-Smith or unknown photographer, 2018, all rights reserved.
 
-* **SHA2-256**: `a8962c67667a028febbd6b9bbfa1a6af25f3296a2fbf430f7cde3a5ecbb56a22`.
 * **Page**: See @chang-smith_kew_2018.
+* **SHA2-256**: `a8962c67667a028febbd6b9bbfa1a6af25f3296a2fbf430f7cde3a5ecbb56a22`.
 * **Raw image URLs**
   * **Original**: <https://cdn.shopify.com/s/files/1/0725/7833/5029/files/IMG_0296-1.jpg>
   * **IA**: <https://web.archive.org/web/20260316191704/https://cdn.shopify.com/s/files/1/0725/7833/5029/files/IMG_0296-1.jpg>
@@ -1853,6 +1880,7 @@ All three species in *T.* subg. *Illecebrosus* are defined by the holotype *Rose
 
 **Holotype**: *Roseberry Trunkewia-1* &mdash; Photograph, collage. 3711&times;1194. EXIF metadata stripped; collage format not amenable to per-image metadata. *T. rosacrania*, *rubera*, and *viridis* wb. Stéphanie.T.
 
+* **Page**: See @chang-smith_kew_2018.
 * **SHA2-256**: `7f90faa8a161da4b1dea5b9c6c1262e6e5c2008dc2ac4384bb42723f7c8b262a`
 * **Raw image URLs**:
   * **Original**: <https://cdn.shopify.com/s/files/1/0725/7833/5029/files/Kew-tops.jpg>
