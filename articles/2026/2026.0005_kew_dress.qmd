@@ -1758,8 +1758,28 @@ Ventral view. Denim jacket (unclassified) worn above dress, tied together at inf
 **Remarks**:
 
 ### Genus *Kewthicata* {#sec-genus-kewthicata}
+***Kewthicata*** gen. nov., Lemuria, 2026
+
+**Diagnosis**: *Kewthicata* is distinguished by the presence of gathering on the superior area of the skirt, immediately inferior to the bodice&ndash;skirt transition.
+
 #### *Kewthicata juliae* {#sec-kth-juliae}
 ***Kewthicata juliae*** sp. nov.
+
+**Holotype**: *Julie 2018.28918KJ* &mdash; Photograph.
+1080&times;1350. EXIF metadata stripped.
+Zoomed out ventral view. Subject at ease. Multiple buttons unfastened.
+*Kewthicata juliae* wb. Julie of the W.M.
+&copy; 20
+
+* **SHA2-256**: `5e210bb4de5c05338465e8ca884fa57bbfcccb2badfc584e14f430b0192ce098`
+* **Raw image URLs**:
+  * **IA**: <https://web.archive.org/web/20260321151521/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/622827767_18343980316233138_7161215710540728918_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=MTgyMzUyMTU1NDM3ODk2NjYxMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTM1MC5zZHIuQzMifQ%3D%3D&_nc_ohc=6eiudw8PanYQ7kNvwFUn9vZ&_nc_oc=Adrus9lSjUSUaxhuJ4aOoM2_0wqtx5UaSOuwja6FYZLwHt36vbH3a5dnFcLS3-y-m6c&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=T6i1d0NsFhwF1OBVvhLqHA&_nc_ss=7a30f&oh=00_AfzOMwulSGsnROshWqlyEUzqJBE3cjDQopcQaEPdh8oizw&oe=69C47E5B>
+
+**Description**: Sleeves terminate superior to elbow at distal upper arm. Shallow-angle V neck. Skirt terminates slightly superior to knee, with gathering at bodice&ndash;skirt transition.
+**Buttons.** Ventral medial button row, 16 buttonholes. Buttons circular, two thread holes, thread line horizontal. Numerous buttons unfastened in holotype.
+**Fabric.** Black/dark background. Orange, pale orange, and caramel-colored print on fabric, low density. Unknown material.
+
+**Specimens examined**: See holotype information.
 
 ### Genus *Trunkewia* {#sec-genus-trunkewia}
 ***Trunkewia*** Lemuria, 2026
