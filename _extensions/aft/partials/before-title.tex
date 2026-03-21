@@ -13,3 +13,9 @@ $-- %%%%%%%%%%%%%%%%
 \fancyfoot[R]{$publisher-id$}
 
 \renewcommand{\footrulewidth}{0.4pt}
+
+\renewcommand{\sectionmark}[1]{\markboth{\thesection\. \hspace{0.3cm} #1}{}}
+\renewcommand{\subsectionmark}[1]{\markright{\thesubsection\. \hspace{0.3cm} #1}}
+
+\fancyhead[L]{\rightmark}
+\fancyhead[R]{\leftmark}
