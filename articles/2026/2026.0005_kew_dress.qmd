@@ -1986,7 +1986,7 @@ To determine the genera in which a Kew dress is placed:
 : Sleeves lateral to upper arm: superfamily Kewoidea (04). No sleeves: family Helikewidae (05).
 
 03
-: Garment has skirt: genus *Kewthea* (06). Garment lacks skirt: genus *Kewpepla* (07).
+: Garment has skirt or no bottom: subfamily Kewthinae (06). Garment has Portobello trousers: subfamily Kewbellinae.
 
 04
 : Ventral medial button row (VMBR) present: family Kewidae (08). VMBR absent: family Plesikewidae (09).
@@ -1994,8 +1994,11 @@ To determine the genera in which a Kew dress is placed:
 05
 : Garment has bottom: tribe Helikewinae (17). Garment lacks bottom: tribe Trunkewinae (18).
 
-06, 07
-: End.
+06
+: Garment has skirt: Tribe Kewthini (07). Garment has no skirt: Genus *Kewpepla*.
+
+07
+: Garment has gathering at superior end of skirt: Genus *Kewthicasa* (26). Otherwise, genus *Kewthea* (27).
 
 08
 : Straight skirt (same as default skirt in @chang-smith_kew_2017): genus *Kewisia* (10). Gathering at superior end: genus *Kewplicata* (11). Slight parabolic shape before shallow inward angle (as seen on the rightmost skirt of @chang-smith_kew_nodate): genus *Kewparabola* (12).
@@ -2027,7 +2030,7 @@ To determine the genera in which a Kew dress is placed:
 21
 : Straight skirt (same as default skirt in @chang-smith_kew_2017): genus *Helikewisia* (22). Gathering at superior end: genus *Helikewplicata* (23). Slight parabolic shape before shallow inward angle (as seen on the rightmost skirt of @chang-smith_kew_nodate): genus *Helikewparabola* (24).
 
-22, 23, 24, 25
+22, 23, 24, 25, 26, 27
 : End.
 
 ## Appendix 
