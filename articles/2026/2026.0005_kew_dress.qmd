@@ -179,7 +179,7 @@ We present a matrix of all possible bodice&ndash;bottom^[We use the term "bottom
 ::: {#tbl-speciesmatrix}
 | - | **Sundress** | **Cold-shoulder** | **Tea** | **No bodice**
 |---|---|---|---|---|
-| **Gathered** | (*Helikewplicata*) | (*Kewplicata*) | &mdash; | *Kewplicasa*
+| **Gathered** | *Helikewplicata* | (*Kewplicata*) | *Kewthicata* | *Kewplicasa*
 | **Straight** | *Helikewisia* | *Kewisia* | *Kewthea* | *Kewisicasa*
 | **Parabola** | (*Helikewparabola*) | (*Kewparabola*) | &mdash; | *Kewparacasa*
 | **Portobello** | (*Helikewbellia*) | &mdash; | (*Kewbellothea*) | non-Kew
@@ -208,6 +208,7 @@ It is further divided into two families, Kewidae and Plesikewidae, which have th
 *bernicae* wb. Bernice, 2022, see @sec-k-bernicae;
 *evae* wb. Eva, 2018, see @sec-k-evae;
 *fionae* wb. Parker, 2018, see @sec-k-fionae;
+*genyae* wb. Genya, 2023, see @sec-k-genyae;
 *kristinae* wb. Lehrer (Voolenvine), 2018, see @sec-k-kristinae;
 *latae* wb. Vic Broad, 2017, see @sec-k-latae;
 *lizae* wb. Liz, 2018, see @sec-k-lizae;
@@ -229,7 +230,11 @@ The fifth species, *Kewabotonia nuptirachaelae* (described in @sec-k-nuptirachae
 #### Helikewidae {#sec-helikewidae}
 The sundress variant encompasses the family Helikewidae. It is similar to Kewoidea but is sleeveless. Helikewidae is further divided into the subfamilies Helikewinae and Trunkewinae.
 
-Trunkewinae is home to the monotypic genus *Trunkewia*, containing the species *Trunkewia ninae* wb. Nina, 2018 (described in @sec-t-ninae).
+Trunkewinae is home to the genus *Trunkewia*. In addition to the first public description of *Trunkewia ninae* wb. Nina, 2018 (described in @sec-t-ninae), we describe the new subgenus *Illecebrosus*, and its three species
+*rosacrania*, see @sec-t-rosacrania;
+*rubera*, see @sec-t-rubera; and
+*viridis*, see @sec-t-viridis.
+All three were made by &commat;epp.roseberry.couture (Terranova Stéphanie), whose Instagram account is no longer available.
 
 Helikewinae is further divided into two tribes, Helikewbellini and Helikewini.
 
@@ -261,11 +266,13 @@ Kewthinae is divided into two genera, *Kewthea* and *Kewpepla*.
 *lornae* wb. Lorna.R., 2020, see @sec-kt-lornae;
 *lornoblae* wb. Lorna.R., 2020, see @sec-kt-lornoblae;
 *luscinia* wb. Ruth.Pr., 2019, see @sec-kt-luscinia;
+*modistaflora* wb. Sally of M., 2019, see @sec-kt-modistaflora;
 *evae* wb. Eva, 2018, see @sec-kt-evae; and
 *chantellae* wb. Chantelle, 2018, see @sec-kt-chantellae.
-*Kewpepla* is home to two species:
-*lornae* wb. Lorna.R., 2020, see @sec-kp-lornae; and
-*lornaebis* wb. Lorna.R., 2020, see @sec-kp-lornaebis.
+*Kewpepla* is home to three species:
+*lornae* wb. Lorna.R., 2020, see @sec-kp-lornae;
+*lornaebis* wb. Lorna.R., 2020, see @sec-kp-lornaebis; and
+*mariae* wb. Marie, 2018, see @sec-kp-mariae.
 
 Lorna Rothery (<https://lornarothery.com/>; abbreviated Lorna.R. in the LCT-01), is the most prolific sewist among the Kewthidae, with four documented specimens.
 
@@ -343,7 +350,7 @@ The code is rudimentary and unpolished, but we hope to release it eventually to 
 \newpage
 ```
 
-## New species
+## Species descriptions
 We also present additional species descriptions of the taxa we have covered.
 
 First public description (first public desc.) indicates that this paper is the first public description of the species, and that the taxon was first documented privately on Lemuria's MediaWiki site.
@@ -743,6 +750,10 @@ Dress on mannequin.
 
 **Specimens examined**: See holotype information.
 
+### Genus *Helikewplicata* {#sec-genus-helikewplicata}
+#### *Helikewplicata ninae* {#sec-hkp-ninae}
+***Helikewplicata ninae*** sp. nov.
+
 ### Genus *Kewabotonia* {#sec-genus-kewabotonia}
 #### *Kewabotonia eleanorae* {#sec-k-eleanorae}
 ***Kewabotonia eleanorae*** Lemuria, 2026; first public desc.
@@ -848,6 +859,25 @@ EXIF metadata stripped.
 **Description**: Shallow angle V-neck. Bilateral single straps. Lack of ventral medial button row. Sleeves typical to that of Kewoidea and level with bodice. Skirt terminates superior to knee. Left strap fully plain black ventrally, right strap features two dots ventrally. **Fabric.** Atelier Brunette "Stardust Night" double gauze. Black background, low-density white dots.
 
 **Etymology**: Feminine form of Latin *zingiberi* ("ginger") from the wearer's alias, Gingerthread Girl.
+
+**Specimens examined**: See holotype information.
+
+### Genus *Kewasalia* {#sec-genus-kewasalia}
+#### *Kewasalia pimsia* {#sec-k-pimsia}
+***Kewasalia pimsia*** sp. nov.
+
+**Holotype**: *Pimsy 0001KP* &mdash; Photograph. 801&times;1184. EXIF metadata stripped; exposure, f-stop, lens foc. len unknown. Screenshotted by Chang-Smith, inferred from filename. Unknown location. Ventral view. Subject's head is to her right. Left strap (wearer's perspective) slightly obscured by ventrally positioned hair. Legs slightly crossed, obscuring medial interlimb space.
+*Kewasalia pimsia* wb. &commat;pimsyfaitdestrucs, c. 2018.  &copy; unknown, unknown year, all rights reserved.
+
+* **SHA2-256**: `3a1763dad87fa6f2dc2edef01c20db87e5e65f2f4f0e6e46bee83ce3ba49e7d0`.
+* **Page**: See @chang-smith_kew_2018.
+* **Raw image URLs**
+  * **Original**: <https://cdn.shopify.com/s/files/1/0725/7833/5029/files/Screen-Shot-2018-08-07-at-13_20_04.jpg>
+  * **IA**: <https://web.archive.org/web/20260315221454/https://cdn.shopify.com/s/files/1/0725/7833/5029/files/Screen-Shot-2018-08-07-at-13_20_04.jpg>
+
+**Description**: Fabric of unknown material, similar appearance to [Ankara print](https://en.wikipedia.org/wiki/African_wax_prints). **Fabric.** Pattern consists of multiple square regions divided by vertical bands of dark blue background with white diamonds. Square regions consist of three distinct patterns. Pattern 1, red two-spiral galaxy-like shape on dark blue background. Pattern 2, dark-blue two-spiral galaxy-like shape on mostly gold background. Pattern 3, diamond split into four segments, white borders, against background of repeating dark red&ndash;light red&ndash;yellow pattern. Medial area of bodice features alternating pattern 2 and 3, while lateral area alternates between 1 and 3. Trousers alternate 1 and 3 ventrally, and 2 and 3 laterally in alternating order. No proof of explicit descent from Portobello.
+
+**Etymology**: *pimsia* is derived from the wearer's Instagram handle, &commat;pimsyfaitdestrucs.
 
 **Specimens examined**: See holotype information.
 
@@ -1477,7 +1507,113 @@ Ventral view, hair positioned ventrally and obscuring wearer's left.
 
 * This is Rothery's second make of a *Kewpepla*, published with a similar title as her first make, *Kewpepla lornae*. As such, confusion may ensue.
 
+#### *Kewpepla mariae* {#sec-kp-mariae}
+***Kewpepla mariae*** sp. nov.
+
 ### Genus *Kewthea* {#sec-genus-kewthea}
+#### *Kewthea chantellae* {#sec-kt-chantellae}
+***Kewthea chantellae*** Lemuria, 2026; first public desc.
+
+<!-- File: holo.jpg (HOLOTYPE INFO TEMPLATE FROM LCT01-HOLOTYPER)-->
+**Holotype**: *Chantelle 2018.03KC* &mdash;
+Photograph. 2268&times;3024.
+Exposure: unknown. F-stop: unknown. Focal: unknown. ISO: unknown. Lens: unknown. Camera: unknown. 
+*Kewthea chantellae* wb. Chantelle, 2018.
+Tight crop, features dress in more detail. Hair positioned ventrally, no important features obscured. Holding lateral edges of skirt apart.
+&copy; Chantelle or unknown photographer, 2018, all rights reserved.
+
+* **Page**: See @cleary2018
+* **SHA2-256**: `d481e016d0b805bb693d43e1fa8195b03ffd72c02cbe4d0938d7517e8fee4e57`
+* **Raw image URLs**
+  * **Original**: <https://cdn.shopify.com/s/files/1/2211/5041/files/chantelle3.jpg?v=1524850885>
+  * **IA**: <https://web.archive.org/web/20260318171723/https://cdn.shopify.com/s/files/1/2211/5041/files/chantelle3.jpg?v=1524850885>
+
+**Description**: Shallow angle V-neck. Ventral medial button row. Skirt terminates slightly superior to knee. Sleeves terminate superior to elbow. **Buttons.** Seashell-like button. Green, yellow, and cyan reflection. **Fabric.** Square fabric. Stylized yellow and red flower; two yellow leaves, red petals. Second style of flower stylized orange, gray, and red flower, with light bronze stem. No correspondence to real-world botanical taxa.
+
+**Etymology**: *Chantelle* + *-ae*, feminine genitive suffix.
+
+**Remarks**: The post is attributed to Harriet Cleary, but the post is written in the first-person perspective from Chantelle's perspective.
+
+**Specimens examined**:
+
+* Holotype.
+<!-- File: chantelle2.jpg?v=1524850863 (HOLOTYPE INFO TEMPLATE FROM LCT01-HOLOTYPER)-->
+* ***Chantelle 2018.02KC*** &mdash;
+Photograph. 2268&times;3024.
+Exposure: unknown. F-stop: unknown. Focal: unknown. ISO: unknown. Lens: unknown. Camera: unknown.
+Ventral view, subject looking up. Hair positioned ventrally, no important features obscured.
+*Kewthea chantellae* wb. Chantelle, 2018.
+&copy; Chantelle or unknown photographer, 2018, all rights reserved.
+  * **Page**: See @cleary2018
+  * **SHA2-256**: `9e05b1f7611cba990c075f4f471aead5662ac39d96876e6f8712757f39b2c938`
+  * **Raw image URLs**
+    * **Original**: <https://cdn.shopify.com/s/files/1/2211/5041/files/chantelle2.jpg?v=1524850863>
+    * **IA**: <https://web.archive.org/web/20260318172030/https://cdn.shopify.com/s/files/1/2211/5041/files/chantelle2.jpg?v=15s24850863>
+
+<!-- File: chantelle4.jpg?v=1524850906 (HOLOTYPE INFO TEMPLATE FROM LCT01-HOLOTYPER)-->
+* ***Chantelle 2018.04KC*** &mdash;
+Photograph. 2238&times;3024.
+Exposure: unknown. F-stop: unknown. Focal: unknown. ISO: unknown. Lens: unknown. Camera: unknown. 
+Venntral view, subject looking slightly downward. Hair positioned ventrally, no important features obscured.
+*Kewthea chantellae* wb. Chantelle, 2018.
+&copy; Chantelle or unknown photographer, 2018, all rights reserved.
+  * **Page**: See @cleary2018
+  * **SHA2-256**: `ec8998c45b2c4d08ab551a801f2a148848f1ce0e3c9387ec66e8632f2819418b`
+  * **Raw image URLs**
+    * **Original**: <https://cdn.shopify.com/s/files/1/2211/5041/files/chantelle4.jpg?v=1524850906>
+    * **IA**: <https://web.archive.org/web/20260318171937/https://cdn.shopify.com/s/files/1/2211/5041/files/chantelle4.jpg?v=1524850906>
+<!-- File: chantelle6.jpg?v=1524850970 (HOLOTYPE INFO TEMPLATE FROM LCT01-HOLOTYPER)-->
+* ***Chantelle 2018.06KC*** &mdash;
+Photograph. 3024&times;4032.
+Exposure: unknown. F-stop: unknown. Focal: unknown. ISO: unknown. Lens: unknown. Camera: unknown. 
+Dress laid ventrally on table, showing buttons.
+&copy; Chantelle or unknown photographer, 2018, all rights reserved.
+  * **Page**: See @cleary2018
+  * **SHA2-256**: `9af50852035cc5669b8523a0e3b197d5135284cbc551d509e3c5e3997859328a`
+  * **Raw image URLs**
+    * **Original**: <https://cdn.shopify.com/s/files/1/2211/5041/files/chantelle6.jpg?v=1524850970>
+    * **IA**: <https://web.archive.org/web/20260318172049/https://cdn.shopify.com/s/files/1/2211/5041/files/chantelle6.jpg?v=1524850970>
+<!-- File: chantelle7.jpg?v=1524850993 (HOLOTYPE INFO TEMPLATE FROM LCT01-HOLOTYPER)-->
+* ***Chantelle 2018.07KC*** &mdash;
+Photograph. 3024&times;4032.
+Exposure: unknown. F-stop: unknown. Focal: unknown. ISO: unknown. Lens: unknown. Camera: unknown. 
+Zoomed out shot of dress laid on table.
+&copy; Chantelle or unknown photographer, 2018, all rights reserved.
+  * **Page**: See @cleary2018
+  * **SHA2-256**: `1017fd78cc3f2e158b0bcf9c86f28c13a63d4599aa8311bcbbdc4948a31c3ca7`
+  * **Raw image URLs**
+    * **Original**: <https://cdn.shopify.com/s/files/1/2211/5041/files/chantelle7.jpg?v=1524850993>
+    * **IA**: <https://web.archive.org/web/20260318172051/https://cdn.shopify.com/s/files/1/2211/5041/files/chantelle7.jpg?v=1524850993>
+
+#### *Kewthea evae* {#sec-kt-evae}
+***Kewthea evae*** Lemuria, 2026
+
+**Holotype**: *Eva 2947KE* &mdash; Photograph. 900&times;900. EXIF metadata stripped; exposure, f-stop, lens foc. len unknown. Mirror selfie. Ventral view. 
+*Kewthea evae* wb. Eva, 2019. &copy; Kate Eva, 2019, all rights reserved.
+
+* **SHA2-256**: `79d6e4321fd0295ceb7bc6434aec7596c2a4c2b83e3e7b265d704891dc8eb14f`.
+* **Page**: See @eva_autumnal_2018.
+* **Raw image URLs**
+  * **Original**: <https://kateevadesigns.com/wp-content/uploads/2018/09/img_2947.jpg>
+  * **IA**: <https://web.archive.org/web/20260317075603/https%3A//kateevadesigns.com/wp-content/uploads/2018/09/img_2947.jpg>
+
+**Description**: Sleeves terminate superior to elbow. Ventral medial button row of 8 buttons. Buttons 1&ndash;3 have two holes. Thread line vertical. Buttons 4&ndash;8 have four holes. Buttons sourced from Eva's vintage stash. **Fabric.** Crepe. Black background with stylized floral print. Flowers do not correspond to any known species. Floral print color roughly caramel/pale yellow. Sourced from Guthrie & Ghani.
+
+**Etymology**: *Eva* + *-ae*, feminine genitive suffix.
+
+**Specimens examined**:
+
+* Holotype.
+* ***Eva 0120KE*** &mdash; Photograph. 1536&times;2048. EXIF metadata stripped; exposure, f-stop, lens foc. len unknown. Ventral view. Jacket worn over dress (unclassified). *Kewthea evae* wb. Eva, 2019. &copy; Kate Eva or unknown photographer, 2019, all rights reserved.
+  * **SHA2-256**: `4cf40acd6dde11352f2cf0b993849f641ae94e3064991184f0f053ceaa81914b`.
+  * **Original**: <https://kateevadesigns.com/wp-content/uploads/2018/10/img_0120.jpg>
+  * **IA**: <https://web.archive.org/web/20260317080030/https%3A//kateevadesigns.com/wp-content/uploads/2018/10/img_0120.jpg>
+
+**Remarks**:
+
+* Eva reported fit issues, though she attributed them to her body. She wrote in @eva_autumnal_2018 that she learned she had broad shoulders with a smaller waist and bust, from an online course from By Hand London; and theorized that if she purchased an RTW tea dress, the body would be excessively large. As a result, when making *Kewthea evae*, she graded between sizes.
+
+
 #### *Kewthea lornae* {#sec-kt-lornae}
 ***Kewthea lornae*** Lemuria, 2026; first public desc.
 
@@ -1569,33 +1705,6 @@ Ventral view, subject sitting on floor, looking down.
 
 **Specimens examined**: See holotype information.
 
-#### *Kewthea evae* {#sec-kt-evae}
-***Kewthea evae*** Lemuria, 2026
-
-**Holotype**: *Eva 2947KE* &mdash; Photograph. 900&times;900. EXIF metadata stripped; exposure, f-stop, lens foc. len unknown. Mirror selfie. Ventral view. 
-*Kewthea evae* wb. Eva, 2019. &copy; Kate Eva, 2019, all rights reserved.
-
-* **SHA2-256**: `79d6e4321fd0295ceb7bc6434aec7596c2a4c2b83e3e7b265d704891dc8eb14f`.
-* **Page**: See @eva_autumnal_2018.
-* **Raw image URLs**
-  * **Original**: <https://kateevadesigns.com/wp-content/uploads/2018/09/img_2947.jpg>
-  * **IA**: <https://web.archive.org/web/20260317075603/https%3A//kateevadesigns.com/wp-content/uploads/2018/09/img_2947.jpg>
-
-**Description**: Sleeves terminate superior to elbow. Ventral medial button row of 8 buttons. Buttons 1&ndash;3 have two holes. Thread line vertical. Buttons 4&ndash;8 have four holes. Buttons sourced from Eva's vintage stash. **Fabric.** Crepe. Black background with stylized floral print. Flowers do not correspond to any known species. Floral print color roughly caramel/pale yellow. Sourced from Guthrie & Ghani.
-
-**Etymology**: *Eva* + *-ae*, feminine genitive suffix.
-
-**Specimens examined**:
-
-* Holotype.
-* ***Eva 0120KE*** &mdash; Photograph. 1536&times;2048. EXIF metadata stripped; exposure, f-stop, lens foc. len unknown. Ventral view. Jacket worn over dress (unclassified). *Kewthea evae* wb. Eva, 2019. &copy; Kate Eva or unknown photographer, 2019, all rights reserved.
-  * **SHA2-256**: `4cf40acd6dde11352f2cf0b993849f641ae94e3064991184f0f053ceaa81914b`.
-  * **Original**: <https://kateevadesigns.com/wp-content/uploads/2018/10/img_0120.jpg>
-  * **IA**: <https://web.archive.org/web/20260317080030/https%3A//kateevadesigns.com/wp-content/uploads/2018/10/img_0120.jpg>
-
-**Remarks**:
-
-* Eva reported fit issues, though she attributed them to her body. She wrote in @eva_autumnal_2018 that she learned she had broad shoulders with a smaller waist and bust, from an online course from By Hand London; and theorized that if she purchased an RTW tea dress, the body would be excessively large. As a result, when making *Kewthea evae*, she graded between sizes.
 
 #### *Kewthea modistaflora* {#sec-kt-modistaflora}
 ***Kewthea modistaflora*** sp. nov.
@@ -1648,100 +1757,11 @@ Ventral view. Denim jacket (unclassified) worn above dress, tied together at inf
 
 **Remarks**:
 
-#### *Kewthea chantellae* {#sec-kt-chantellae}
-***Kewthea chantellae*** Lemuria, 2026; first public desc.
+### Genus *Kewthicata* {#sec-genus-kewthicata}
+#### *Kewthicata juliae* {#sec-kth-juliae}
+***Kewthicata juliae*** sp. nov.
 
-<!-- File: holo.jpg (HOLOTYPE INFO TEMPLATE FROM LCT01-HOLOTYPER)-->
-**Holotype**: *Chantelle 2018.03KC* &mdash;
-Photograph. 2268&times;3024.
-Exposure: unknown. F-stop: unknown. Focal: unknown. ISO: unknown. Lens: unknown. Camera: unknown. 
-*Kewthea chantellae* wb. Chantelle, 2018.
-Tight crop, features dress in more detail. Hair positioned ventrally, no important features obscured. Holding lateral edges of skirt apart.
-&copy; Chantelle or unknown photographer, 2018, all rights reserved.
-
-* **Page**: See @cleary2018
-* **SHA2-256**: `d481e016d0b805bb693d43e1fa8195b03ffd72c02cbe4d0938d7517e8fee4e57`
-* **Raw image URLs**
-  * **Original**: <https://cdn.shopify.com/s/files/1/2211/5041/files/chantelle3.jpg?v=1524850885>
-  * **IA**: <https://web.archive.org/web/20260318171723/https://cdn.shopify.com/s/files/1/2211/5041/files/chantelle3.jpg?v=1524850885>
-
-**Description**: Shallow angle V-neck. Ventral medial button row. Skirt terminates slightly superior to knee. Sleeves terminate superior to elbow. **Buttons.** Seashell-like button. Green, yellow, and cyan reflection. **Fabric.** Square fabric. Stylized yellow and red flower; two yellow leaves, red petals. Second style of flower stylized orange, gray, and red flower, with light bronze stem. No correspondence to real-world botanical taxa.
-
-**Etymology**: *Chantelle* + *-ae*, feminine genitive suffix.
-
-**Remarks**: The post is attributed to Harriet Cleary, but the post is written in the first-person perspective from Chantelle's perspective.
-
-**Specimens examined**:
-
-* Holotype.
-<!-- File: chantelle2.jpg?v=1524850863 (HOLOTYPE INFO TEMPLATE FROM LCT01-HOLOTYPER)-->
-* ***Chantelle 2018.02KC*** &mdash;
-Photograph. 2268&times;3024.
-Exposure: unknown. F-stop: unknown. Focal: unknown. ISO: unknown. Lens: unknown. Camera: unknown.
-Ventral view, subject looking up. Hair positioned ventrally, no important features obscured.
-*Kewthea chantellae* wb. Chantelle, 2018.
-&copy; Chantelle or unknown photographer, 2018, all rights reserved.
-  * **Page**: See @cleary2018
-  * **SHA2-256**: `9e05b1f7611cba990c075f4f471aead5662ac39d96876e6f8712757f39b2c938`
-  * **Raw image URLs**
-    * **Original**: <https://cdn.shopify.com/s/files/1/2211/5041/files/chantelle2.jpg?v=1524850863>
-    * **IA**: <https://web.archive.org/web/20260318172030/https://cdn.shopify.com/s/files/1/2211/5041/files/chantelle2.jpg?v=15s24850863>
-
-<!-- File: chantelle4.jpg?v=1524850906 (HOLOTYPE INFO TEMPLATE FROM LCT01-HOLOTYPER)-->
-* ***Chantelle 2018.04KC*** &mdash;
-Photograph. 2238&times;3024.
-Exposure: unknown. F-stop: unknown. Focal: unknown. ISO: unknown. Lens: unknown. Camera: unknown. 
-Venntral view, subject looking slightly downward. Hair positioned ventrally, no important features obscured.
-*Kewthea chantellae* wb. Chantelle, 2018.
-&copy; Chantelle or unknown photographer, 2018, all rights reserved.
-  * **Page**: See @cleary2018
-  * **SHA2-256**: `ec8998c45b2c4d08ab551a801f2a148848f1ce0e3c9387ec66e8632f2819418b`
-  * **Raw image URLs**
-    * **Original**: <https://cdn.shopify.com/s/files/1/2211/5041/files/chantelle4.jpg?v=1524850906>
-    * **IA**: <https://web.archive.org/web/20260318171937/https://cdn.shopify.com/s/files/1/2211/5041/files/chantelle4.jpg?v=1524850906>
-<!-- File: chantelle6.jpg?v=1524850970 (HOLOTYPE INFO TEMPLATE FROM LCT01-HOLOTYPER)-->
-* ***Chantelle 2018.06KC*** &mdash;
-Photograph. 3024&times;4032.
-Exposure: unknown. F-stop: unknown. Focal: unknown. ISO: unknown. Lens: unknown. Camera: unknown. 
-Dress laid ventrally on table, showing buttons.
-&copy; Chantelle or unknown photographer, 2018, all rights reserved.
-  * **Page**: See @cleary2018
-  * **SHA2-256**: `9af50852035cc5669b8523a0e3b197d5135284cbc551d509e3c5e3997859328a`
-  * **Raw image URLs**
-    * **Original**: <https://cdn.shopify.com/s/files/1/2211/5041/files/chantelle6.jpg?v=1524850970>
-    * **IA**: <https://web.archive.org/web/20260318172049/https://cdn.shopify.com/s/files/1/2211/5041/files/chantelle6.jpg?v=1524850970>
-<!-- File: chantelle7.jpg?v=1524850993 (HOLOTYPE INFO TEMPLATE FROM LCT01-HOLOTYPER)-->
-* ***Chantelle 2018.07KC*** &mdash;
-Photograph. 3024&times;4032.
-Exposure: unknown. F-stop: unknown. Focal: unknown. ISO: unknown. Lens: unknown. Camera: unknown. 
-Zoomed out shot of dress laid on table.
-&copy; Chantelle or unknown photographer, 2018, all rights reserved.
-  * **Page**: See @cleary2018
-  * **SHA2-256**: `1017fd78cc3f2e158b0bcf9c86f28c13a63d4599aa8311bcbbdc4948a31c3ca7`
-  * **Raw image URLs**
-    * **Original**: <https://cdn.shopify.com/s/files/1/2211/5041/files/chantelle7.jpg?v=1524850993>
-    * **IA**: <https://web.archive.org/web/20260318172051/https://cdn.shopify.com/s/files/1/2211/5041/files/chantelle7.jpg?v=1524850993>
-
-
-### Monotypic genera  {#sec-monotypic-genera}
-#### *Kewasalia pimsia* {#sec-k-pimsia}
-***Kewasalia pimsia*** sp. nov.
-
-**Holotype**: *Pimsy 0001KP* &mdash; Photograph. 801&times;1184. EXIF metadata stripped; exposure, f-stop, lens foc. len unknown. Screenshotted by Chang-Smith, inferred from filename. Unknown location. Ventral view. Subject's head is to her right. Left strap (wearer's perspective) slightly obscured by ventrally positioned hair. Legs slightly crossed, obscuring medial interlimb space.
-*Kewasalia pimsia* wb. &commat;pimsyfaitdestrucs, c. 2018.  &copy; unknown, unknown year, all rights reserved.
-
-* **SHA2-256**: `3a1763dad87fa6f2dc2edef01c20db87e5e65f2f4f0e6e46bee83ce3ba49e7d0`.
-* **Page**: See @chang-smith_kew_2018.
-* **Raw image URLs**
-  * **Original**: <https://cdn.shopify.com/s/files/1/0725/7833/5029/files/Screen-Shot-2018-08-07-at-13_20_04.jpg>
-  * **IA**: <https://web.archive.org/web/20260315221454/https://cdn.shopify.com/s/files/1/0725/7833/5029/files/Screen-Shot-2018-08-07-at-13_20_04.jpg>
-
-**Description**: Fabric of unknown material, similar appearance to [Ankara print](https://en.wikipedia.org/wiki/African_wax_prints). **Fabric.** Pattern consists of multiple square regions divided by vertical bands of dark blue background with white diamonds. Square regions consist of three distinct patterns. Pattern 1, red two-spiral galaxy-like shape on dark blue background. Pattern 2, dark-blue two-spiral galaxy-like shape on mostly gold background. Pattern 3, diamond split into four segments, white borders, against background of repeating dark red&ndash;light red&ndash;yellow pattern. Medial area of bodice features alternating pattern 2 and 3, while lateral area alternates between 1 and 3. Trousers alternate 1 and 3 ventrally, and 2 and 3 laterally in alternating order. No proof of explicit descent from Portobello.
-
-**Etymology**: *pimsia* is derived from the wearer's Instagram handle, &commat;pimsyfaitdestrucs.
-
-**Specimens examined**: See holotype information.
-
+### Genus *Trunkewia* {#sec-genus-trunkewia}
 #### *Trunkewia ninae* {#sec-t-ninae}
 ***Trunkewia ninae*** Lemuria, 2026; first public desc.
 
@@ -1759,6 +1779,17 @@ Zoomed out shot of dress laid on table.
 **Etymology**: *Nina* + *-ae*, feminine genitive form.
 
 **Specimens examined**: See holotype information.
+
+### Genus *Trunkewia* subg. *Illecebrosus* {#sec-genus-trunkewia-subg-illecebrosus}
+
+#### *Trunkewia rosacrania* {#sec-t-rosacrania}
+***Trunkewia rosacrania*** sp. nov.
+
+#### *Trunkewia rubera* {#sec-t-rubera}
+***Trunkewia rubera*** sp. nov.
+
+#### *Trunkewia viridis* {#sec-t-viridis}
+***Trunkewia viridis*** sp. nov.
 
 ```{=latex}
 \newpage
