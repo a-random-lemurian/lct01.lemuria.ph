@@ -389,27 +389,6 @@ First public description (first public desc.) indicates that this paper is the f
 
 
 ### Genus *Helikewabotonia* {#sec-genus-helikewabotonia}
-#### *Helikewabotonia stadile* {#sec-h-stadile}
-***Helikewabotonia stadile*** sp. nov.
-
-<!-- File: holland.JPG=s0?imgmax=0 (HOLOTYPE INFO TEMPLATE FROM LCT01-HOLOTYPER)-->
-**Holotype**: *Emma 2019-001.HS* &mdash;
-Photograph. 1102&times;2048.
-Exposure: unknown. F-stop: unknown. Focal: unknown. ISO: unknown. Lens: unknown. Camera: unknown. 
-*Helikewabotonia stabile* wb. WEARER, 2019.
-&copy; Emma of *Crafty Clyde*, 2019, all rights reserved.
-
-* **Page**:
-* **SHA2-256**: `db9b04c2fad0a27e80a5da3a32f0cade8420b281acb1fec4f3e8d7be38ae39cb`
-* **Raw image URLs**
-  * **Original**: <https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgWW0S9_NZtJgvjQW7vIAuJP0D5T0WcWoC86-LKxsiHtzShlKg5RfpbLMxvovfHudGigTls3Qgz_7ynh3cf4ouH034OqbHHVw9jI-GJsZyJxof5sk77qXgw7oO6OQOlVdOmzQ7ybIWV_Q/s0/holland.JPG=s0?imgmax=0>
-  * **IA**: <https://web.archive.org/web/20260319090301/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgWW0S9_NZtJgvjQW7vIAuJP0D5T0WcWoC86-LKxsiHtzShlKg5RfpbLMxvovfHudGigTls3Qgz_7ynh3cf4ouH034OqbHHVw9jI-GJsZyJxof5sk77qXgw7oO6OQOlVdOmzQ7ybIWV_Q/s0/holland.JPG=s0?imgmax=0>
-
-**Description**: Shallow angle V-neck. Lack of ventral medial button row. Bilateral single straps. Bilateral pockets on skirt. Size 14. Skirt terminates superior to knee. **Fabric.** "Dutch Farm" print from Timeless Treasures. Bodice depicts front of red barn, doors open. Skirt features field of tulips (*Tulipa* L.). Pattern discontinuity at bodice&ndash;skirt seam.
-
-**Etymology**: From Medieval Latin *stadile* "barn".
-
-**Specimens examined**: See holotype information.
 
 #### *Helikewabotonia lanata* {#sec-h-lanata}
 ***Helikewabotonia lanata*** sp. nov.
@@ -447,6 +426,28 @@ Zoomed out ventral view, river in background, outdoors. Worn under unclassified 
   * **Page**: See @joy2018
   * **SHA2-256**: `e672017ce9a8243b070f65f804b27736faefa2fdb6b33396cd6469037cb3343e`
   * **IA**: <https://web.archive.org/web/20260320151536/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/653728557_18563423779053644_4275307087395769087_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=MTc3MzQ4Nzg1NTg2ODc2NzM5OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTI1My5zZHIuQzMifQ%3D%3D&_nc_ohc=jAWlaQR5oPUQ7kNvwFYpiXT&_nc_oc=AdrOcmXdXPWI3FHjFyT1OMRUwmtq28I9T8ASY3frqjXe4i2l9LSFY8TKLm61X8x2IgU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=lLeRgI1OxmGROfj_coFxkw&_nc_ss=7a30f&oh=00_Afw_vCjAySfjeK-Hi6zsUQRpi_pxKEnQRXQOdQHx_01Lmg&oe=69C32662>
+
+#### *Helikewabotonia stadile* {#sec-h-stadile}
+***Helikewabotonia stadile*** sp. nov.
+
+<!-- File: holland.JPG=s0?imgmax=0 (HOLOTYPE INFO TEMPLATE FROM LCT01-HOLOTYPER)-->
+**Holotype**: *Emma 2019-001.HS* &mdash;
+Photograph. 1102&times;2048.
+Exposure: unknown. F-stop: unknown. Focal: unknown. ISO: unknown. Lens: unknown. Camera: unknown. 
+*Helikewabotonia stabile* wb. WEARER, 2019.
+&copy; Emma of *Crafty Clyde*, 2019, all rights reserved.
+
+* **Page**:
+* **SHA2-256**: `db9b04c2fad0a27e80a5da3a32f0cade8420b281acb1fec4f3e8d7be38ae39cb`
+* **Raw image URLs**
+  * **Original**: <https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgWW0S9_NZtJgvjQW7vIAuJP0D5T0WcWoC86-LKxsiHtzShlKg5RfpbLMxvovfHudGigTls3Qgz_7ynh3cf4ouH034OqbHHVw9jI-GJsZyJxof5sk77qXgw7oO6OQOlVdOmzQ7ybIWV_Q/s0/holland.JPG=s0?imgmax=0>
+  * **IA**: <https://web.archive.org/web/20260319090301/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgWW0S9_NZtJgvjQW7vIAuJP0D5T0WcWoC86-LKxsiHtzShlKg5RfpbLMxvovfHudGigTls3Qgz_7ynh3cf4ouH034OqbHHVw9jI-GJsZyJxof5sk77qXgw7oO6OQOlVdOmzQ7ybIWV_Q/s0/holland.JPG=s0?imgmax=0>
+
+**Description**: Shallow angle V-neck. Lack of ventral medial button row. Bilateral single straps. Bilateral pockets on skirt. Size 14. Skirt terminates superior to knee. **Fabric.** "Dutch Farm" print from Timeless Treasures. Bodice depicts front of red barn, doors open. Skirt features field of tulips (*Tulipa* L.). Pattern discontinuity at bodice&ndash;skirt seam.
+
+**Etymology**: From Medieval Latin *stadile* "barn".
+
+**Specimens examined**: See holotype information.
 
 ### Genus *Helikewisia* {#sec-genus-helikewisia}
 #### *Helikewisia aemilia* {#sec-h-aemilia}
@@ -739,47 +740,8 @@ Dress on mannequin.
 **Specimens examined**: See holotype information.
 
 ### Genus *Kewabotonia* {#sec-genus-kewabotonia}
-#### *Kewabotonia zingibera* {#sec-k-zingibera}
-***Kewabotonia zingibera*** Lemuria, 2026; first public desc.
-
-**Holotype**: *Gingerthread 0212KZ* &mdash; Photograph. 1200&times;1800. EXIF metadata stripped; exposure, f-stop, lens foc. len unknown. United Kingdom. Ventral full-body view. Tied hair. Arms spread laterally. *Kewabotonia zingibera* wb. Gingerthread, 2018.
-&copy; Jen Walker or unknown photographer, 2018, all rights reserved.
-
-* **SHA2-256**: `b4d1008027f701f3b22f523bdc3796e64a0cb99ddb17cfd27c186d3d79849bc4`.
-* **Page**: See @walker_kewhack_2018.
-* **Raw image URLs**
-  * **Original**: <https://cdn.shopify.com/s/files/1/0725/7833/5029/files/IMG_0212.jpg>
-  * **IA**: <https://web.archive.org/web/20240921120539/https://cdn.shopify.com/s/files/1/0725/7833/5029/files/IMG_0212.jpg>
-
-**Description**: Shallow angle V-neck. Bilateral single straps. Lack of ventral medial button row. Sleeves typical to that of Kewoidea and level with bodice. Skirt terminates superior to knee. Left strap fully plain black ventrally, right strap features two dots ventrally. **Fabric.** Atelier Brunette "Stardust Night" double gauze. Black background, low-density white dots.
-
-**Etymology**: Feminine form of Latin *zingiberi* ("ginger") from the wearer's alias, Gingerthread Girl.
-
-**Specimens examined**: See holotype information.
-
 #### *Kewabotonia eleanorae* {#sec-k-eleanorae}
 ***Kewabotonia eleanorae*** Lemuria, 2026; first public desc.
-
-#### *Kewabotonia sarae* {#sec-kb-sarae}
-***Kewabotonia sarae*** Lemuria, 2026; first public desc.
-
-**Holotype**: *Sarah SC.12274KS* &mdash;
-Photograph. 768&times;960.
-EXIF metadata stripped.
-*Kewabotonia sarae* wb. Sarah's S.C., 2018.
-&copy; Sarah's Sewing Chronicles, 2018, all rights reserved.
-
-* **Page**: @sarah_sc_2018
-* **SHA2-256**: `b5bca18b6114bca9db8de2c1c78acea3fd0622d42df449064636d241c571bbf1`
-* **Raw image URLs**:
-  * **IA**: <https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/627696672_18327776389174806_2043516935416512274_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=MTgyOTI2Mjg0MDUwMzIzMzQzMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjc2OHg5NjAuc2RyLkMzIn0%3D&_nc_ohc=aBa1bCRWqhgQ7kNvwHCA36c&_nc_oc=AdounD-lxRYEUHB1gwNxwNwn3lTjUgBA49qiqQ8fF6EWCrLU6Slz-a16ZA6hndHbhEc&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=Bt9fr8_x0I07PnVZ-pwtCA&_nc_ss=7a30f&oh=00_Afzn7zG3lzQloMNPZkZnxpfWDPP-bQ0HvtoS4XKEReA_tA&oe=69C2ACFA>
-
-**Description**: Shallow angle V-neck, curving medially. Bilateral single straps. Skirt terminates superior to knee.
-**Fabric.** Unknown material. Light cyan background, floral, yellow flowers, green leaves. No known correspondence to botanical taxa.
-
-**Etymology**: *Sarah* + *-ae*, feminine genitive suffix.
-
-**Specimens examined**: See holotype information.
 
 #### *Kewabotonia elsae* {#sec-k-elsae}
 ***Kewabotonia elsae*** Lemuria, 2026; first public desc.
@@ -845,6 +807,45 @@ Exposure: 1/1250s. F-stop: 4.5. Focal: 70 mm. Lens: EF70-200mm f/2.8L IS II USM.
 * As such, we recommend these links for verifying the archive:
   * <https://archive.org/details/archiveteam_archivebot_go_20260320094602_3d45c6e0>
   * Other Archiveteam archives for Rachael's blog may be indexed at <https://archive.fart.website/archivebot/viewer/domain/sewprettyful.wordpress.com>.
+
+#### *Kewabotonia sarae* {#sec-kb-sarae}
+***Kewabotonia sarae*** Lemuria, 2026; first public desc.
+
+**Holotype**: *Sarah SC.12274KS* &mdash;
+Photograph. 768&times;960.
+EXIF metadata stripped.
+*Kewabotonia sarae* wb. Sarah's S.C., 2018.
+&copy; Sarah's Sewing Chronicles, 2018, all rights reserved.
+
+* **Page**: @sarah_sc_2018
+* **SHA2-256**: `b5bca18b6114bca9db8de2c1c78acea3fd0622d42df449064636d241c571bbf1`
+* **Raw image URLs**:
+  * **IA**: <https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/627696672_18327776389174806_2043516935416512274_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=MTgyOTI2Mjg0MDUwMzIzMzQzMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjc2OHg5NjAuc2RyLkMzIn0%3D&_nc_ohc=aBa1bCRWqhgQ7kNvwHCA36c&_nc_oc=AdounD-lxRYEUHB1gwNxwNwn3lTjUgBA49qiqQ8fF6EWCrLU6Slz-a16ZA6hndHbhEc&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=Bt9fr8_x0I07PnVZ-pwtCA&_nc_ss=7a30f&oh=00_Afzn7zG3lzQloMNPZkZnxpfWDPP-bQ0HvtoS4XKEReA_tA&oe=69C2ACFA>
+
+**Description**: Shallow angle V-neck, curving medially. Bilateral single straps. Skirt terminates superior to knee.
+**Fabric.** Unknown material. Light cyan background, floral, yellow flowers, green leaves. No known correspondence to botanical taxa.
+
+**Etymology**: *Sarah* + *-ae*, feminine genitive suffix.
+
+**Specimens examined**: See holotype information.
+
+#### *Kewabotonia zingibera* {#sec-k-zingibera}
+***Kewabotonia zingibera*** Lemuria, 2026; first public desc.
+
+**Holotype**: *Gingerthread 0212KZ* &mdash; Photograph. 1200&times;1800. EXIF metadata stripped; exposure, f-stop, lens foc. len unknown. United Kingdom. Ventral full-body view. Tied hair. Arms spread laterally. *Kewabotonia zingibera* wb. Gingerthread, 2018.
+&copy; Jen Walker or unknown photographer, 2018, all rights reserved.
+
+* **SHA2-256**: `b4d1008027f701f3b22f523bdc3796e64a0cb99ddb17cfd27c186d3d79849bc4`.
+* **Page**: See @walker_kewhack_2018.
+* **Raw image URLs**
+  * **Original**: <https://cdn.shopify.com/s/files/1/0725/7833/5029/files/IMG_0212.jpg>
+  * **IA**: <https://web.archive.org/web/20240921120539/https://cdn.shopify.com/s/files/1/0725/7833/5029/files/IMG_0212.jpg>
+
+**Description**: Shallow angle V-neck. Bilateral single straps. Lack of ventral medial button row. Sleeves typical to that of Kewoidea and level with bodice. Skirt terminates superior to knee. Left strap fully plain black ventrally, right strap features two dots ventrally. **Fabric.** Atelier Brunette "Stardust Night" double gauze. Black background, low-density white dots.
+
+**Etymology**: Feminine form of Latin *zingiberi* ("ginger") from the wearer's alias, Gingerthread Girl.
+
+**Specimens examined**: See holotype information.
 
 ### Genus *Kewisia* {#sec-genus-kewisia}
 #### *Kewisia bernicae* {#sec-k-bernicae}
