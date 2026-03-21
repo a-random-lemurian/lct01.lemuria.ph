@@ -242,12 +242,16 @@ Helikewini is divided into three genera, based on the three skirt options: *Heli
 *ceciliae* wb. Cecilia, 2018, see @sec-h-ceciliae;
 *erinae* wb. Erin.M., 2021, see @sec-h-erinae;
 *irvinae* wb. Alice.Ir., 2020, see @sec-h-irvinae;
-*arbor* wb. Emma of N., 2019, see @sec-h-arbor;
+*kristinae* wb. Lehrer, 2018, see @sec-h-kristinae;
+*mariae* wb. Maria (W/2026 F1), see @sec-h-mariae; and
+*sarae* wb. Sarah of T., 2019, see @sec-h-sarae.
+*Helikewisia* also contains the subgenus *Emmae*, which contains the two species
+*arbor* wb. Emma of N., 2019, see @sec-h-arbor; and
 *quagga* wb. Emma of N. and unknown friend, 2019, see @sec-h-quagga.
 
-We describe the new species *Helikewisia kristinae*, Lehrer's first make of the Kew dress, previously unknown. The specimen was identified while reviewing holotype material for *Kewisia kristinae*. See @sec-h-kristinae.
+*Helikewisia kristinae*, Lehrer's first make of the Kew dress, was previously unknown. The specimen was identified while reviewing holotype material for *Kewisia kristinae*. See @sec-h-kristinae.
 
-We describe the new monotypic genus *Helikewabotonia* and its sole species, *H. stadile* in @sec-h-stadile. 
+We describe the new genus *Helikewabotonia* and its two species: *stadile* wb. Emma of N., 2019, see @sec-h-stadile; and *lanata* wb. Joy of B., see @sec-h-lanata.
 
 #### Kewthidae {#sec-kewthidae}
 The tea dress variant encompasses the family Kewthidae, split into the subfamilies Kewthinae and Kewbellinae. The Kewthidae are characterized by ruched sleeves that terminate slightly superior to the elbow.
