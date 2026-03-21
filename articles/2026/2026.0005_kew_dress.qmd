@@ -204,7 +204,7 @@ The cold-shoulder variant encompasses the superfamily Kewoidea. The primary char
 
 It is further divided into two families, Kewidae and Plesikewidae, which have three genera each. Kewidae is the *sensu stricto* family, consisting of *Kewisia* (straight skirt) and the empty genera *Kewplicata* and *Kewparabola*. Plesikewidae encompasses hacked versions of the Kew, split across three genera.
 
-*Kewisia* is the largest genus in Kewidae, with 12 species:
+*Kewisia* is the largest genus in Kewidae, with 13 species:
 *bernicae* wb. Bernice, 2022, see @sec-k-bernicae;
 *evae* wb. Eva, 2018, see @sec-k-evae;
 *fionae* wb. Parker, 2018, see @sec-k-fionae;
@@ -242,16 +242,14 @@ Helikewbellini (see @sec-kewbello) is monotypic, containing the genus *Helikewbe
 
 Helikewini is divided into three genera, based on the three skirt options: *Helikewisia*, *Helikewplicata*, and *Helikewparabola*; alongside the new genus *Helikewabotonia*. Like Kewidae, only *Helikewisia* is populated with species.
 
-*Helikewisia* contains six species:
+*Helikewisia* contains nine species:
 *aemilia* wb. Emily of L., 2017, see @sec-h-aemilia;
 *ceciliae* wb. Cecilia, 2018, see @sec-h-ceciliae;
 *erinae* wb. Erin.M., 2021, see @sec-h-erinae;
 *irvinae* wb. Alice.Ir., 2020, see @sec-h-irvinae;
 *kristinae* wb. Lehrer, 2018, see @sec-h-kristinae;
 *mariae* wb. Maria (W/2026 F1), see @sec-h-mariae; and
-*sarae* wb. Sarah of T., 2019, see @sec-h-sarae.
-*Helikewisia* also contains the subgenus *Emmae*, which contains the two species
-*arbor* wb. Emma of N., 2019, see @sec-h-arbor; and
+*sarae* wb. Sarah of T., 2019, see @sec-h-sarae; alongside the subgenus *Emmae* which contains the remaining two: *arbor* wb. Emma of N., 2019, see @sec-h-arbor; and
 *quagga* wb. Emma of N. and unknown friend, 2019, see @sec-h-quagga.
 
 *Helikewisia kristinae*, Lehrer's first make of the Kew dress, was previously unknown. The specimen was identified while reviewing holotype material for *Kewisia kristinae*. See @sec-h-kristinae.
@@ -261,7 +259,7 @@ We describe the new genus *Helikewabotonia* and its two species: *stadile* wb. E
 #### Kewthidae {#sec-kewthidae}
 The tea dress variant encompasses the family Kewthidae, characterized by ruched sleeves that terminate slightly superior to the elbow. It is split into the subfamilies Kewthinae and Kewbellinae. Kewbellinae has no genera, while Kewthinae is divided into three genera: *Kewthea*, the tea dress, with a skirt; *Kewpepla*, the peplum top; and *Kewthicata*, the tea dress, with a gathered skirt.
 
-*Kewthea* is home to five species:
+*Kewthea* is home to six species:
 *lornae* wb. Lorna.R., 2020, see @sec-kt-lornae;
 *lornoblae* wb. Lorna.R., 2020, see @sec-kt-lornoblae;
 *luscinia* wb. Ruth.Pr., 2019, see @sec-kt-luscinia;
