@@ -785,6 +785,27 @@ Dress on mannequin.
 #### *Helikewplicata ninae* {#sec-hkp-ninae}
 ***Helikewplicata ninae*** sp. nov.
 
+**Holotype**: *Nina 0001HN* &mdash; Photograph. 2538&times;3508.
+EXIF metadata stripped.
+Zoomed-out slightly angled ventral shot. Subject facing downward. Hair positioned ventrally, obscuring wearer's left strap. Subject in shade of tree, unknown species.
+*Helikewplicata ninae* wb. Nina, 2018.
+&copy; Nina Chang-Smith, 2018, all rights reserved.
+
+* **Page**: See @chang-smith_kew_2018
+* **SHA2-256**: `0a345c3809d7807cc00060e18700868e18035eaa4d5122836aa8e67ce18617ae`
+* **Raw image URLs**
+  * **Original**: <https://cdn.shopify.com/s/files/1/0725/7833/5029/files/Gathered-Kew-Box-Hill.jpg>
+  * **IA**: <https://web.archive.org/web/20260321204121im_/https://cdn.shopify.com/s/files/1/0725/7833/5029/files/Gathered-Kew-Box-Hill.jpg>
+
+**Description**: Shallow angle V-neck. Bilateral single straps.
+**Buttons.** Ventral medial button row. 15 buttons. Five on bodice, ten on skirt. Unknown reflective material. Eighth button reflects light; possibly two thread holes.
+**Skirt.** Skirt terminates inferior to skirt. Two vertical regions; first region runs from end of bodice to roughly 2.5 button lengths inferior to final button, with vertical stripes, before transition to rotated fabric pattern with horizontal stripes, sometimes slightly angled downward.
+**Fabric.** Unknown material. White&ndash;light blue stripes; ~4&ndash;5 bars in same space as width of 1 button.
+
+**Etymology**: *Nina* + *-ae*, feminine genitive suffix.
+
+**Specimens examined**: See holotype information.
+
 ### Genus *Kewabotonia* {#sec-genus-kewabotonia}
 ***Kewabotonia*** Lemuria, 2026
 
@@ -2125,6 +2146,7 @@ We present a list of the image specimen identifiers we have assigned in this pap
 * *Modista 9861KM*
 * *Modista 9929KM*
 * *Modista 9943KM*
+* *Nina 0001HN*
 * *Nina 0296TN*
 * *Parker 0001KF*
 * *Pimsy 0001KP*
