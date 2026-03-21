@@ -15,12 +15,12 @@ execute:
 abstract: |
   We describe the new family Bisigunnidae and its first genus, *Gunnelaurentia*, based on the pattern Simplicity 9015, and designate the holotype as *Gunnelaurentia johnsonia* sp. nov., an off-shoulder dress sewn by the American sewist Lauren Johnson in July 2024.
 draft: true
-# bibliography: esteridae.bib
+bibliography: gunnelaurentia_johnsonia.bib
 number-sections: true
 citation:
   author: Lemuria
   # citation-key: lemuria_kew_2026
-  title: "*Gunnelaurentia* genus nova (Umerostentida: Bilourida: Biligamentum: Bisigunnidae)"
+  title: "*Gunnelaurentia* genus nova (Biligamentum: Biligasimplicia: Bisigunnidae)"
   original-date: 2026-03-19
   publisher: Lemuria
   # article-id: lict2026.0005
@@ -28,31 +28,96 @@ citation:
 format:
   html: default
   aft-pdf:
-    toc: true
-    toc-depth: 3
+    toc: false
     include-in-header:
       text: |
         \usepackage{forest}
-keywords: ester in flow, esteridae
+keywords: simplicity 9015, lauren johnson, home sewing, vintage sewing, gunnelaurentia, umerostentida, biligamentum
 ---
+
+```{=latex}
+\begin{multicols}{2}
+```
 
 ## Background
 In 1979, Simplicitly released a pattern numbered 9015, an off-shoulder dress featuring bilateral single straps with a medial ribbon (referred to in the pattern as "shoulder ties"). There exist multiple Simplicity patterns numbered 9015; hereafter, we use the term "Simplicity 9015" to mean only the pattern from Gunne Sax released by Simplicity, numbered 9015.
 
-The class Umerostentida, from Latin *umerus* "shoulder" + *ostenta* "expose", "shoulder exposer", encompasses garments with a sleeve lateral to the upper arm that expose the shoulder.
+### Lauren Johnson
+Lauren Johnson (Instagram: &commat;justlaurenjohnson) is an American sewist from Little Rock, Arkansas. She owns the indie pattern company Bouquet Pattern Co. (<https://bouquetclothing.com>), which sells three sewing patterns so far, none of which have received taxonomic treatments.
+
+In 2018, she created the blog *Bouquet*, which while no longer live, remains available on the Internet Archive's Wayback Machine. On YouTube, as &commat;LaurenJohnson (<https://www.youtube.com/channel/UCY3XsTBr0lJPMXqk4S5FX8g>), she has ~60,000 subscribers and ~570 videos.
+
+#### Sewing the dress
+In July 2024, Johnson began sewing the dress for her birthday [@johnson_i_2024]. She also released a 26-minute YouTube video, *SEWING MY BIRTHDAY DRESS! Vintage Gunne Sax Meets Bridgerton: Sew with Me!*^[Emojis removed due to font incompatibility.]
+
+### Taxonomic history
+We discovered *Gunnelaurentia johnsonia* through browsing the social media presence of the American sewist Lauren Johnson, who we discovered while researching Nina Lee's Kew dress for our March 2026 monograph (see ). In 2018, she sewed a Kew dress with flutter sleeves, most similar to *Helikewisia* Lemuria, 2026 and *incertae sedis* within Kewthea; which was featured on Nina Lee's blog []. Further research into Johnson led to the discovery of *Gunnelaurentia*, which we now describe in this paper.
+
+We describe the new suborder Biligasimplicia, containing the family Bisigunnidae, which contains the new monotypic genus *Gunnelaurentia*, and the species *Gunnelaurentia johnsonia*.
+
+```{=latex}
+\end{multicols}
+```
+
+```{=latex}
+\newpage
+```
+
+## Species description
+### Suborder Biligasimplicia
+**Biligasimplicia** Lemuria, 2026, subordo novus
+
+**Taxonomic placement**: Placed under the order Biligamentum Lemuria, 2026.
+
+**Diagnosis**: Phylogenetically, characterized by descent from any Simplicity pattern, and phenetically, meeting the requirements of its parent taxa.
+
+**Etymology**: Biliga- from Biligamentum + simplicia, pseudo-Latin feminine form of "Simplicity".
+
+### Family Bisigunnidae
+**Bisigunnidae** Lemuria, 2026, familia nova
+
+**Taxonomic placement**: Placed under the suborder Biligasimplicia Lemuria, 2026.
+
+**Diagnosis**: Phylogenetically, characterized by descent from any Simplicity pattern by Gunne Sax.
+
+**Etymology**: Bi- from Biligamentum, si- from simplicia, gunni from Gunne, and -idae (family suffix).
 
 ### Genus *Gunnelaurentia*
 ***Gunnelaurentia*** Lemuria, 2026, gen. nov.
 
-**Etymology**: *Gunne* from Gunne Sax + *Laurentia*, pseudo-Latin feminine form of *Laurentius*, the name from which *Lauren* originated.
+**Taxonomic placement**: Placed under the family Bisigunnidae Lemuria, 2026.
 
-#### *Gunnelaurentia johnsonia*
+**Type species**: *Gunnelaurentia johnsonia*, see @sec-g-johnsonia.
+
+**Diagnosis**: Phylogenetically, characterized by descent from the Simplicity 9015 pattern.
+
+**Etymology**: *Gunne* from Gunne Sax + *Laurentia*, pseudo-Latin feminine form of *Laurentius*, the name from which *Lauren* originated. Pronounced /ˌgʌ.niː.lə.ˈɹɛn.ʃ(i)ə dʒɔn.ˈsɑː.niə/.
+
+#### *Gunnelaurentia johnsonia* {#sec-g-johnsonia}
 ***Gunnelaurentia johnsonia*** Lemuria, 2026, sp. nov.
 
 **Holotype**: *Lauren 2018.SGS9015-01* &mdash;
 
-**Etymology**: Johnson + *-ia*, feminine suffix.
+**Etymology**: *Johnson* + *-ia*, feminine suffix.
 
 **Description**: Off-shoulder dress. Skirt terminates at ankle-level. Elastic at superior edge of bodice. Flounce hangs from sleeve, terminating within distal upper arm. Terminates superior to bust when arms adducted. Blue elastic with lateral stitches, and lace trim at inferior end. Two elastic bands inferior to inframammary fold. Dorsal medial zipper. Dorsal fabric band with bow-like tie slightly lateral to zipper, on wearer's left. Fabric band drapes inferiorly and terminates freely.
 **Straps**: Bilateral single straps, ribbon tied medially. No adjustment clips. Straps run at slight diagonal angle across scapula.
 **Fabric**: Bridgerton cotton from Liberty Fabrics. Floral. Bouquets of yellow and red flowers tied at stems with blue ribbon tied as a bow. No known correspondence to biological taxa.
+
+```{=latex}
+\newpage
+```
+
+## Appendix
+### Information
+*Lemuria's (Informal) Journal of Clothing Taxonomy* is the gray literature journal of the First Lemurian Clothing Taxonomy, a system by Lemuria to assign Latin names to dresses using biological methods. The author, known mononymically as just Lemuria, is a Filipino programmer and gray literature researcher.
+
+**Disclaimer**: *Lemuria's (Informal) Journal of Clothing Taxonomy* is a non-peer-reviewed, single-author, citizen science/gray literature publication with no institutional backing.
+
+<!-- Publisher article ID: 2026.0005 -->
+
+At publication, the journal did not have a DOI prefix.
+
+Visit us at: <https://lct01.lemuria.ph>
+
+&copy; Lemuria 2026. All original text and image content by Lemuria is licensed under CC BY-SA 4.0, unless explicitly noted. Linked images and other content are &copy; their respective owners or copyright holders.
