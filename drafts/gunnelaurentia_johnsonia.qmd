@@ -1,3 +1,43 @@
+---
+title: "*Gunnelaurentia* genus nova (Umerostentida: Bilourida: Biligamentum: Bisigunnidae)"
+author:
+  name: Lemuria
+  affiliation: Independent researcher; Manila, Philippines
+  email: lemuria@lemuria.ph
+license: CC BY-SA
+journal:
+  title: "Lemuria's (Informal) Journal of Clothing Taxonomy"
+# date: 2026-03-17
+lang: en
+execute: 
+  freeze: true
+# publisher-id: "lict2026.0005"
+abstract: |
+
+draft: true
+# bibliography: esteridae.bib
+number-sections: true
+citation:
+  author: Lemuria
+  # citation-key: lemuria_kew_2026
+  title: "Family Esteridae (Abtruncusa: Amicula: Blazeria: Bitectibotonia)"
+  original-date: 2026-03-19
+  publisher: Lemuria
+  # article-id: lict2026.0005
+  publisher-place: Philippines
+format:
+  html: default
+  aft-pdf:
+    toc: true
+    toc-depth: 3
+    include-in-header:
+      text: |
+        \usepackage{forest}
+keywords: ester in flow, esteridae
+---
+
+## Background
+
 ### Genus *Gunnelaurentia*
 ***Gunnelaurentia*** Lemuria, 2026, gen. nov.
 
