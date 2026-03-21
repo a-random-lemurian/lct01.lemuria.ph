@@ -259,9 +259,8 @@ Helikewini is divided into three genera, based on the three skirt options: *Heli
 We describe the new genus *Helikewabotonia* and its two species: *stadile* wb. Emma of N., 2019, see @sec-h-stadile; and *lanata* wb. Joy of B., see @sec-h-lanata.
 
 #### Kewthidae {#sec-kewthidae}
-The tea dress variant encompasses the family Kewthidae, split into the subfamilies Kewthinae and Kewbellinae. The Kewthidae are characterized by ruched sleeves that terminate slightly superior to the elbow.
+The tea dress variant encompasses the family Kewthidae, characterized by ruched sleeves that terminate slightly superior to the elbow. It is split into the subfamilies Kewthinae and Kewbellinae. Kewbellinae has no genera, while Kewthinae is divided into three genera: *Kewthea*, the tea dress, with a skirt; *Kewpepla*, the peplum top; and *Kewthicasa*, the tea dress, with a gathered skirt.
 
-Kewthinae is divided into two genera, *Kewthea* and *Kewpepla*.
 *Kewthea* is home to five species:
 *lornae* wb. Lorna.R., 2020, see @sec-kt-lornae;
 *lornoblae* wb. Lorna.R., 2020, see @sec-kt-lornoblae;
@@ -269,6 +268,7 @@ Kewthinae is divided into two genera, *Kewthea* and *Kewpepla*.
 *modistaflora* wb. Sally of M., 2019, see @sec-kt-modistaflora;
 *evae* wb. Eva, 2018, see @sec-kt-evae; and
 *chantellae* wb. Chantelle, 2018, see @sec-kt-chantellae.
+
 *Kewpepla* is home to three species:
 *lornae* wb. Lorna.R., 2020, see @sec-kp-lornae;
 *lornaebis* wb. Lorna.R., 2020, see @sec-kp-lornaebis; and
@@ -278,7 +278,7 @@ Lorna Rothery (<https://lornarothery.com/>; abbreviated Lorna.R. in the LCT-01),
 
 While rereviewing source material, new species of *Kewthidae* were also discovered. From @modistasewing2020, we describe the new species *Kewthea modistaflora*. The material was first reviewed while taxonomizing Modista Sewing's *Kewisia* spp., but at the time the genus *Kewthea* had not been described, and was thus omitted.
 
-<!-- Kewthinae is divided into two genera, *Kewthea* and *Kewpepla*. *Kewthea* is the tea dress variant, with ruched sleeves. Chang-Smith herself describes Kewthidae (or *Version 1* on the product page) as having "a touch of 1940s' tea dress" [@kewrelease]. -->
+We also describe the new monotypic genus *Kewthicasa* and its sole species, *Kewthicasa juliae*.
 
 ### Skirts {#sec-skirts}
 The standalone gathered, straight, and parabola skirts are *incertae sedis* within the phylum Castula (Latin for "skirt").
