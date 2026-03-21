@@ -48,6 +48,7 @@ contributes:
         - "partials/biblio.tex"
         - "partials/doc-class.tex"
         - "partials/title.tex"
+        - "partials/toc.tex"
       format-resources:
         # Add here the resources required for the PDF rendering
         - aft.cls
