@@ -1339,6 +1339,7 @@ Ventral view. Wearer's left arm placed on bodice, inferior to bodice&ndash;skirt
 **Etymology**: *Rachael* + *-ae*, feminine genitive suffix.
 
 **Remarks**:
+
 * Due to content negotiation issues between the Wayback Machine's crawler and Rachael's site (where images return HTML previews instead), we recommend these links for verifying the archive:
   * <https://archive.org/details/archiveteam_archivebot_go_20260320094602_3d45c6e0>
   * Other Archiveteam archives for Rachael's blog may be indexed at <https://archive.fart.website/archivebot/viewer/domain/sewprettyful.wordpress.com>.
