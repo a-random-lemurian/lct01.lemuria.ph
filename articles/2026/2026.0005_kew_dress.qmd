@@ -259,7 +259,7 @@ Helikewini is divided into three genera, based on the three skirt options: *Heli
 We describe the new genus *Helikewabotonia* and its two species: *stadile* wb. Emma of N., 2019, see @sec-h-stadile; and *lanata* wb. Joy of B., see @sec-h-lanata.
 
 #### Kewthidae {#sec-kewthidae}
-The tea dress variant encompasses the family Kewthidae, characterized by ruched sleeves that terminate slightly superior to the elbow. It is split into the subfamilies Kewthinae and Kewbellinae. Kewbellinae has no genera, while Kewthinae is divided into three genera: *Kewthea*, the tea dress, with a skirt; *Kewpepla*, the peplum top; and *Kewthicasa*, the tea dress, with a gathered skirt.
+The tea dress variant encompasses the family Kewthidae, characterized by ruched sleeves that terminate slightly superior to the elbow. It is split into the subfamilies Kewthinae and Kewbellinae. Kewbellinae has no genera, while Kewthinae is divided into three genera: *Kewthea*, the tea dress, with a skirt; *Kewpepla*, the peplum top; and *Kewthicata*, the tea dress, with a gathered skirt.
 
 *Kewthea* is home to five species:
 *lornae* wb. Lorna.R., 2020, see @sec-kt-lornae;
@@ -278,7 +278,7 @@ Lorna Rothery (<https://lornarothery.com/>; abbreviated Lorna.R. in the LCT-01),
 
 While rereviewing source material, new species of *Kewthidae* were also discovered. From @modistasewing2020, we describe the new species *Kewthea modistaflora*. The material was first reviewed while taxonomizing Modista Sewing's *Kewisia* spp., but at the time the genus *Kewthea* had not been described, and was thus omitted.
 
-We also describe the new monotypic genus *Kewthicasa* and its sole species, *Kewthicasa juliae*.
+We also describe the new monotypic genus *Kewthicata* and its sole species, *Kewthicata juliae*.
 
 ### Skirts {#sec-skirts}
 The standalone gathered, straight, and parabola skirts are *incertae sedis* within the phylum Castula (Latin for "skirt").
@@ -1806,8 +1806,9 @@ Ventral view. Denim jacket (unclassified) worn above dress, tied together at inf
 1080&times;1350. EXIF metadata stripped.
 Zoomed out ventral view. Subject at ease. Multiple buttons unfastened.
 *Kewthicata juliae* wb. Julie of the W.M.
-&copy; 20
+&copy; Julie (&commat;julielovestosew), 2018, all rights reserved.
 
+* **Page**: See @julie2018.
 * **SHA2-256**: `5e210bb4de5c05338465e8ca884fa57bbfcccb2badfc584e14f430b0192ce098`
 * **Raw image URLs**:
   * **IA**: <https://web.archive.org/web/20260321151521/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/622827767_18343980316233138_7161215710540728918_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=MTgyMzUyMTU1NDM3ODk2NjYxMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTM1MC5zZHIuQzMifQ%3D%3D&_nc_ohc=6eiudw8PanYQ7kNvwFUn9vZ&_nc_oc=Adrus9lSjUSUaxhuJ4aOoM2_0wqtx5UaSOuwja6FYZLwHt36vbH3a5dnFcLS3-y-m6c&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=T6i1d0NsFhwF1OBVvhLqHA&_nc_ss=7a30f&oh=00_AfzOMwulSGsnROshWqlyEUzqJBE3cjDQopcQaEPdh8oizw&oe=69C47E5B>
