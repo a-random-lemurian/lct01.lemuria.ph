@@ -13,14 +13,14 @@ execute:
   freeze: true
 # publisher-id: "lict2026.0005"
 abstract: |
-
+  We describe the new family Bisigunnidae and its first genus, *Gunnelaurentia*, based on the pattern Simplicity 9015, and designate the holotype as *Gunnelaurentia johnsonia* sp. nov., an off-shoulder dress sewn by the American sewist Lauren Johnson in July 2024.
 draft: true
 # bibliography: esteridae.bib
 number-sections: true
 citation:
   author: Lemuria
   # citation-key: lemuria_kew_2026
-  title: "Family Esteridae (Abtruncusa: Amicula: Blazeria: Bitectibotonia)"
+  title: "*Gunnelaurentia* genus nova (Umerostentida: Bilourida: Biligamentum: Bisigunnidae)"
   original-date: 2026-03-19
   publisher: Lemuria
   # article-id: lict2026.0005
@@ -37,19 +37,22 @@ keywords: ester in flow, esteridae
 ---
 
 ## Background
+In 1979, Simplicitly released a pattern numbered 9015, an off-shoulder dress featuring bilateral single straps with a medial ribbon (referred to in the pattern as "shoulder ties"). There exist multiple Simplicity patterns numbered 9015; hereafter, we use the term "Simplicity 9015" to mean only the pattern from Gunne Sax released by Simplicity, numbered 9015.
+
+The class Umerostentida, from Latin *umerus* "shoulder" + *ostenta* "expose", "shoulder exposer", encompasses garments with a sleeve lateral to the upper arm that expose the shoulder.
 
 ### Genus *Gunnelaurentia*
 ***Gunnelaurentia*** Lemuria, 2026, gen. nov.
 
-**Etymology**: *Gunne* from Gunne Sax + *Laurentia*, psuedo-Latin feminine form of *Laurentius*, the name from which *Lauren* originated.
+**Etymology**: *Gunne* from Gunne Sax + *Laurentia*, pseudo-Latin feminine form of *Laurentius*, the name from which *Lauren* originated.
 
 #### *Gunnelaurentia johnsonia*
 ***Gunnelaurentia johnsonia*** Lemuria, 2026, sp. nov.
 
-**Holotype**:
+**Holotype**: *Lauren 2018.SGS9015-01* &mdash;
 
 **Etymology**: Johnson + *-ia*, feminine suffix.
 
-**Description**: Off-shoulder dress. Skirt terminates at ankle-level. Elastic at superior edge of bodice. Flounce hangs from sleeve and terminates slightly superior to the mammary region, and medially between subaxilliary gap and elbow. Blue elastic with lateral stitches, and lace trim at inferior end. Two elastic bands inferior to inframammary fold. Dorsal medial zipper. Dorsal fabric band with bow-like tie slightly lateral to zipper, on wearer's left. Fabric band 
-**Straps**: Bilateral single straps, ribbon tied medially. No adjustment clips. Straps run diagonally across scapula.
+**Description**: Off-shoulder dress. Skirt terminates at ankle-level. Elastic at superior edge of bodice. Flounce hangs from sleeve, terminating within distal upper arm. Terminates superior to bust when arms adducted. Blue elastic with lateral stitches, and lace trim at inferior end. Two elastic bands inferior to inframammary fold. Dorsal medial zipper. Dorsal fabric band with bow-like tie slightly lateral to zipper, on wearer's left. Fabric band drapes inferiorly and terminates freely.
+**Straps**: Bilateral single straps, ribbon tied medially. No adjustment clips. Straps run at slight diagonal angle across scapula.
 **Fabric**: Bridgerton cotton from Liberty Fabrics. Floral. Bouquets of yellow and red flowers tied at stems with blue ribbon tied as a bow. No known correspondence to biological taxa.
