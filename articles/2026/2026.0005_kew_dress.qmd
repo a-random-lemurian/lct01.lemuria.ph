@@ -557,7 +557,7 @@ Angled ventral view, roughly 45&deg; horizontal, 45&deg; vertical, subject on st
 **Specimens examined**:
 
 * Holotype.
-* ***Madalone Inst-1HE*** &mdash; Photograph. 1080&times;1350, EXIF metadata stripped; exposure, f-stop, lens foc. len unknown. United States, New Jersey, Monmouth County, Holland Ridge Farms. Approx. GPS: 40.16936&deg;N 74.50087&deg;W ± 50m (WGS84). Instagram. Ventral view. Hair positioned ventrally, partially obscuring view of left strap (wearer's perspective). *Helikewisia erinae* wb. Erin.M., 2021. Higher-resolution version of holotype, but unreproducible due to Meta CDN implementation details. Instagram &copy; Erin Madalone or unknown photographer, 2021, all rights reserved.
+* ***Madalone Inst-1HE*** &mdash; Photograph. 1080&times;1350, EXIF metadata stripped; exposure, f-stop, lens foc. len unknown. United States, New Jersey, Monmouth County, Holland Ridge Farms. Approx. GPS: 40.16936&deg;N 74.50087&deg;W ± 50m (WGS84). Instagram. Ventral view. Hair positioned ventrally, partially obscuring view of left strap (wearer's perspective). *Helikewisia erinae* wb. Erin.M., 2021. Higher-resolution version of holotype, but unreproducible due to Meta CDN implementation details. &copy; Erin Madalone or unknown photographer, 2021, all rights reserved.
   * **SHA2-256**: `062cd32b6a0eb3b2c8803055384cc473db1fd5959d5616b5229bacb6488baac8`.
 
 #### *Helikewisia irvinae* {#sec-h-irvinae}
