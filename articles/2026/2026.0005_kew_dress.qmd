@@ -48,7 +48,9 @@ keywords: kew dress, kewoidea, kewthidae, helikewidae, nina lee, clothing taxono
 ```
 
 ## Background
-In January 2016, Jessica Bain wrote that the traditional practice of home sewing, specifically dressmaking, was experiencing a revival [@bain2016]. At the time, the *Great British Sewing Bee* had just finished its third season, and not only that, bloggers and Twitter users were building their own community, one that Bain describes as "digital dressmakers". We use the term "British indie sewing culture".
+In January 2016, Jessica Bain, at the University of Leicester's Department of Media and Communication, wrote that the traditional practice of home sewing, specifically dressmaking, was experiencing a revival [@bain2016]. She cited papers primarily from 2009&ndash;2011 in her statement about this. At the time, the BBC's *Great British Sewing Bee* had just finished its third season. Not only that, bloggers and Twitter users were building their own community, one that Bain describes as "digital dressmakers".
+
+@bain2016 also features quotes from some of the sewists we have studied as part of our taxonomy; such as Marie Koupparis of *A Stitching Odyssey*, and Tilly Walnes of Tilly and the Buttons.
 
 ### Nina Chang-Smith
 Perhaps part of the revival that Bain described, in March 2017, Nina Chang-Smith, known at the time as just Nina Chang^[Her maiden name; she married in June 2019 [@chang-smith2020; @sara_img_7007jpg_2019].], a British designer, launched her pattern label, Nina Lee, in London [@chang2017]^[Chang-Smith has since taken down her old blog, but the post is still available on the Wayback Machine. It does not link to the specific blog post, but to the homepage where the post in question is embedded.]. Lee and Chang-Smith are distinct concepts, and should not be confused.
