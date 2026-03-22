@@ -702,7 +702,7 @@ Photograph. 1080&times;1350. EXIF metadata stripped by Meta CDN.
 ***Helikewisia sarae*** sp. nov.
 
 <!-- File: p1040082.jpg (HOLOTYPE INFO TEMPLATE FROM LCT01-HOLOTYPER)-->
-**Holotype**: *Sarah 0082.AU-TAS* &mdash;
+**Holotype**: *Sarah 0082HS.AU-TAS* &mdash;
 Photograph. 902&times;1280.
 Exposure: 1/60s. F-stop: 3.3. Focal: 4.30 mm. ISO: 100. Lens: unknown. Camera: DMC-TZ40. 
 *Helikewisia sarae* wb. Sarah of T., 2019.
@@ -739,7 +739,7 @@ Angled ventral view, subject looking down.
   * **Page**: See @sarah_floral_2019
   * **SHA2-256**: `b5aeadf6a255e68882965fbbe93f03231974fb02e199a6da3277f2c77cbdee42`
   * **Raw image URLs**
-    * **Original**: <https://craftilyhandmade.wordpress.com/wp-content/uploads/2019/02/p1040088.jpg>
+    * **Original**: <https://craftilyhandmade.wordpress.com/wp-content/uploads/2019/02/p1040085.jpg>
 <!-- File: p1040087.jpg (HOLOTYPE INFO TEMPLATE FROM LCT01-HOLOTYPER)-->
 * ***Sarah 0087HS.AU-TAS*** &mdash;
 Photograph. 960&times;1280.
@@ -750,7 +750,7 @@ Dorsal view, hair positioned ventrally.
   * **Page**: See @sarah_floral_2019
   * **SHA2-256**: `0870318792544de291a1d5b8b74f8efb1c9e11bf5af062db37d19650f6822bec`
   * **Raw image URLs**
-    * **Original**: <https://craftilyhandmade.wordpress.com/wp-content/uploads/2019/02/p1040082.jpg>
+    * **Original**: <https://craftilyhandmade.wordpress.com/wp-content/uploads/2019/02/p1040087.jpg>
 <!-- File: p1040088.jpg (HOLOTYPE INFO TEMPLATE FROM LCT01-HOLOTYPER)-->
 * ***Sarah 0088HS.AU-TAS*** &mdash;
 Photograph. 960&times;1280.
@@ -760,7 +760,7 @@ Close ventral view of button row.
   * **Page**: See @sarah_floral_2019
   * **SHA2-256**: `c6915eed7b3a04d442317a160b5c39f97bb71efd05427380c9db416a3d674aa4`
   * **Raw image URLs**
-    * **Original**: <https://craftilyhandmade.wordpress.com/wp-content/uploads/2019/03/p1040087.jpg>
+    * **Original**: <https://craftilyhandmade.wordpress.com/wp-content/uploads/2019/03/p1040088.jpg>
 
 ### Genus *Helikewisia* subg. *Emmae* {#sec-h-subg-emmae}
 In August 2019, Emma, the author of the blog *Crafty Clyde*, sewed three Kew dresses; two of which have a ventral medial button row. We place the new species *H. arbor* and *H. quagga* into the subgenus *Emmae*.
@@ -2216,27 +2216,34 @@ We present a list of the image specimen identifiers we have assigned in this pap
 * *Chantelle 2018.04KC*
 * *Chantelle 2018.06KC*
 * *Chantelle 2018.07KC*
+* *Eleanor 2018.64378KE*
 * *Elsa 2021.0013KE*
 * *Emily 3668HA*
 * *Emily 3670HA*
 * *Emma 2019-001.HA*
 * *Emma 2019-001.HS*
 * *Emma K01.HQ*
-* *Eleanor 2018.64378KE*
 * *Eva 0098FV*
 * *Eva 0120KE*
 * *Eva 2947KE*
 * *Eva 3222FV*
 * *Eva 3318KE*
 * *Eva 4be-FL*
+* *Eva 4be-FL* 
 * *Genya 2023.0004KG*
 * *Gingerthread 0212KZ*
 * *Irvine 0001HI*
 * *Joy 112.26042HL*
+* *Joy 112.69087HL*
 * *Julie 2018.28918KJ*
 * *Lehrer 0001.G65Z*
+* *Lehrer 2018.12320KK*
 * *Lehrer 2018.22063HKEW*
+* *Lehrer 2018.23250KK*
+* *Lehrer 2018.25504KK*
 * *Lehrer 2018.43603HKEW*
+* *Lehrer 2018.46021KK*
+* *Lehrer 2018.73568KK*
 * *Lehrer 2018.86738HKEW*
 * *Lehrer 2018.88823HKEW*
 * *Lehrer 2018.94528HKEW*
@@ -2253,6 +2260,7 @@ We present a list of the image specimen identifiers we have assigned in this pap
 * *Marie 2470a-KM*
 * *Marie 2485KM*
 * *Marie 2494KM*
+* *Marie FR.80957KM*
 * *Modista 9861KM*
 * *Modista 9929KM*
 * *Modista 9943KM*
@@ -2271,12 +2279,14 @@ We present a list of the image specimen identifiers we have assigned in this pap
 * *Rachael 2018.KL15*
 * *Rachael 2018.KL16*
 * *Rachael 2018.KL17*
-* *Rachael 2018.KL19* 
+* *Rachael 2018.KL19*
 * *Rachael 2018.KL20*
+* *Roseberry Trunkewia-1*
 * *Rothery 0402KL*
 * *Rothery 2234KL*
 * *Rothery 3603KL*
 * *Rothery 3618KL*
+* *Rothery 3637KL*
 * *Rothery 613D.KL*
 * *Rothery 6377KL*
 * *Rothery 8861KL*
