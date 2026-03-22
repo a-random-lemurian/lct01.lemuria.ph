@@ -41,6 +41,7 @@ contributes:
         \definecolor{mypink}{RGB}{219, 48, 122}
       template-partials:
         # Add here the partials your format is using
+        - "partials/_affiliations.tex"
         - "partials/_authors.tex"
         - "partials/before-bib.tex"
         - "partials/before-body.tex"

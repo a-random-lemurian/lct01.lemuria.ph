@@ -166,6 +166,7 @@
     \let\sectionmark\@gobble
     \let\subsectionmark\@gobble
     }
+
 \if@titlepage
   \newcommand\maketitle{\begin{titlepage}%
   \let\footnotesize\small
@@ -254,6 +255,7 @@
   \par
   \vskip 1.5em}
 \fi
+
 \setcounter{secnumdepth}{3}
 \newcounter {part}
 \newcounter {section}
