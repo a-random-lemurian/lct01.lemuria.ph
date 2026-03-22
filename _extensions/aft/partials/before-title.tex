@@ -4,3 +4,21 @@ $--
 $-- %%%% TODO %%%%%
 $-- Customize is needed, otherwise remove this partials to use Quarto default one
 $-- %%%%%%%%%%%%%%%%
+
+\usepackage{authblk}
+\renewcommand\Affilfont{\small}
+
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+
+\fancyfoot[L]{\textit{Lemuria's (Informal) Journal of Clothing Taxonomy}}
+\fancyfoot[C]{\thepage}
+\fancyfoot[R]{$publisher-id$}
+
+\renewcommand{\footrulewidth}{0.4pt}
+
+\renewcommand{\sectionmark}[1]{\markboth{\thesection\. \hspace{0.3cm} #1}{}}
+\renewcommand{\subsectionmark}[1]{\markright{\thesubsection\. \hspace{0.3cm} #1}}
+
+\fancyhead[L]{\rightmark}
+\fancyhead[R]{\leftmark}
