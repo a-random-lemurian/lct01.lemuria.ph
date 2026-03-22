@@ -1528,6 +1528,22 @@ Dress on red mannequin, angled ventral view of sleeve and strap.
 #### *Kewisia sarae* {#sec-k-sarae}
 ***Kewisia sarae*** Lemuria, 2026; first public desc.
 
+**Holotype**: *Sarah D-2019.44536KS* &mdash; Photograph. 718&times;980. EXIF metadata stripped. United Kingdom. Ventral view. Subject holding glass in left hand, partially obscuring left strap. *Kewisia sarae* wb. Sarah.D., 2019.
+
+* **Page**: See @sewsarahstitch_when_2019
+* **SHA2-256**: `810e225bc5de583db9c1ee64e97bcb00ff9280b7e0b5042923c1c4f736958000`
+* **Raw image URLs**
+  * **Original**: <https://cdn.minerva.com/feed/original/image-sa-1022445-1000882-44536.jpg>
+  * **IA**: <https://web.archive.org/web/20260322150632/https://cdn.minerva.com/feed/original/image-sa-1022445-1000882-44536.jpg>
+
+**Description**: Bilateral single straps. Size 12. High-low hem.
+**Buttons.** Ventral medial button row. Minimum upper bound of button count 10, based on holotype visibility. Black wooden buttons from eBay.
+**Fabric.** Cotton poplin fabric, with poppies (Papaveraceae Juss.). Black background. Poppy flowers at high density, roots included. Pattern discontinuity at bodice&ndash;skirt seam and across ventral medial button row.
+
+**Etymology** *Sarah* + *-ae*, feminine genitive suffix.
+
+**Remarks**: The holotype is of low-resolution, and we could not identify the exact number of buttons. The drape of the skirt also obscured the inferior portions of the button row.
+
 ### Genus *Kewpepla* {#sec-genus-kewpepla}
 ***Kewpepla*** Lemuria, 2026; first public desc.
 
@@ -2103,6 +2119,7 @@ In this paper, we used the following person abbreviations.
 * **Rachael** &mdash; Rachael Beaumont, author of the blog *Sew Prettyful*.
 * **Ruth.Pr.** &mdash; Ruth Procter, author of the blog *Nightingale & Dolittle*.
 * **Sally of M.** &mdash; Sally, author of the blog *Modista Sewing*. Abbreviation stands for *Sally of Modista*.
+* **Sarah.D.** &mdash; Sarah Donnison (Instagram: &commat;sewsarahstitch), the *Sewist Organiser*^[The *Journal* uses Philippine English, which is based on American English. We preserve the original spelling of the rank here.]
 * **Sarah of T.** &mdash; Sarah, author of the blog *Craftily Handmade*. Abbreviation stands for *Sarah of Tasmania.*
 * **Sarah's S.C.** &mdash; Sarah (Instagram: &commat;sarahssewingchronicles), a Minerva ambassador. Abbreviation stands for *Sarah's Sewing Chronicles*.
 * **Stéphanie.T.** &mdash; Stéphanie Terranova / Terranova Stéphanie. Order of name elements unknown.
@@ -2124,6 +2141,7 @@ These botanical abbreviations were used:
 * **W.Zimm.** &mdash; Walter Max Zimmermann
 * **Leichtlin** &mdash; Max Leichtlin
 * **Lam.** &mdash; Jean-Baptiste Lamarck
+* **Juss.** &mdash; Antoine Laurent de Jussieu
 ```{=latex}
 \end{multicols}
 ```
@@ -2218,6 +2236,7 @@ We present a list of the image specimen identifiers we have assigned in this pap
 * *Sarah 0085HS.AU-TAS*
 * *Sarah 0087HS.AU-TAS*
 * *Sarah 0088HS.AU-TAS*
+* *Sarah D-2019.44536KS*
 * *Sarah SC.12274KS*
 * *Yarngasm 281* (V)
 ```{=latex}
