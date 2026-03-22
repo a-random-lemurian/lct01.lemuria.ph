@@ -159,7 +159,7 @@ The cold shoulder, which the Kewoidea offers, was a major trend around 2017. Thi
 The core characteristics of the tea dress and the sundress variant, specifically their strap and sleeve configurations, are less vulnerable to changing trends; the continued range of the Kewthidae towards 2025 is seen in *Kewthea lornae*, @sec-kt-lornae.
 
 ### Population and distribution
-So far, the Kew dresses cluster primarily in the United Kingdom, the source of the pattern, and to a lesser extent, in the United States. 
+So far, the Kew dresses cluster primarily in the United Kingdom, the source of the pattern, and to a lesser extent, in the United States. It has been seen in Australia, and in France. The author has yet to determine if the Kew dress has been sewn in the Philippines.
 
 Google results for "nina lee kew dress", without quotes, claim some 114,000 results, while "nina lee kew" claims 536,000 results. 
 
@@ -200,9 +200,9 @@ The bodices of the Kewoidea and Helikewidae feature bilateral ventral seams that
 The characteristics of the Kewthidae are described in @sec-kewthidae.
 
 #### Kewoidea {#sec-kewoidea}
-The cold-shoulder variant encompasses the superfamily Kewoidea. The primary character distinguishing Kewoidea from its closest relative, the sundress bodice (Kewidae), is the presence of bilateral sleeves. Ventrally, the sleeve attaches to the bodice narrowly before widening. It retains its width until it reaches its dorsal bodice attachment point.
+The cold-shoulder variant encompasses the superfamily Kewoidea. The primary character distinguishing Kewoidea from its closest relative, the sundress bodice (Helikewidae), is the presence of bilateral sleeves. Ventrally, the sleeve attaches to the bodice narrowly before widening. It retains its width until it reaches its dorsal bodice attachment point.
 
-It is further divided into two families, Kewidae and Plesikewidae, which have three genera each. Kewidae is the *sensu stricto* family, consisting of *Kewisia* (straight skirt) and the empty genera *Kewplicata* and *Kewparabola*. Plesikewidae encompasses hacked versions of the Kew, split across three genera.
+It is further divided into two families, Kewidae and Plesikewidae, which have three genera each. Kewidae is the *sensu stricto* family, consisting of *Kewisia* (straight skirt) and the empty genera *Kewplicata* and *Kewparabola*.
 
 *Kewisia* is the largest genus in Kewidae, with 13 species:
 *bernicae* wb. Bernice, 2022, see @sec-k-bernicae;
@@ -218,6 +218,8 @@ It is further divided into two families, Kewidae and Plesikewidae, which have th
 *rachaelae* wb. Rachael, 2018, see @sec-k-rachaelae;
 *reginarunae* wb. Alice, 2018, see @sec-k-reginarunae;
 *sarae* wb. Sarah, 2019, see @sec-k-sarae;
+
+Plesikewidae encompasses hacked versions of the Kew, split across two subfamilies, Plesikewinae, distinguished by a skirt, and Kewasalinae, distinguished by trousers. Plesikewinae contains the genera *Florankewia* and *Kewabotonia*, while Kewasalinae contains *Kewasalia*.
 
 *Florankewia* is home to two species, *F. libera* (described in @sec-f-libera) and *F. valentina* (described in @sec-f-valentina), which are two hacks created by Kate Eva. Though the bodice of the By Hand London Flora and the skirt of the By Hand London Anna account for the majority of the dress, *Florankewia* incorporates the off-shoulder sleeves of the Kew.
 
@@ -2005,13 +2007,13 @@ To determine the genera in which a Kew dress is placed:
 : Straight skirt (same as default skirt in @chang-smith_kew_2017): genus *Kewisia* (10). Gathering at superior end: genus *Kewplicata* (11). Slight parabolic shape before shallow inward angle (as seen on the rightmost skirt of @chang-smith_kew_nodate): genus *Kewparabola* (12).
 
 09
-: Neckline of sleeve and bodice at different levels: genus *Florankewia* (13). Parallel levels: 14.
+: Dress has skirt: Subfamily Plesikewinae (13). Dress has trousers: Subfamily Kewasalinae (14).
 
 13
-: End.
+: Neckline of sleeve and bodice at different levels: genus *Florankewia* (15). Parallel levels, or descent from Jen Walker's hack: genus *Kewabotonia* (16).
 
 14
-: Skirt: genus *Kewabotonia* (15). Trousers: genus *Kewasalia* (16).
+: Trousers not originating from Portobello: genus *Kewasalia*. Trousers are that of Portobello: possible subgenus of *Kewasalia*. End.
 
 15, 16
 : End.
@@ -2035,18 +2037,19 @@ To determine the genera in which a Kew dress is placed:
 : End.
 
 ## Appendix 
+### Tree
 ::: {#fig-polyphyletic}
 <!-- ![](https://static.lemuria.ph/lct01/kew-kewbello-extended-tree.png) -->
 ```{r}
 #| message: false
-#| fig-height: 10
-#| fig-width: 10
+#| fig-height: 8
+#| fig-width: 12
 
 library(ape)
 library(ggplot2)
 library(ggtree)
 
-kew = "(((((((Kewbellothea)Kewbellinae,(Kewpepla,(Kewthicata,Kewthea)Kewthini)Kewthinae)Kewthidae)Vecobotonia)Vecostola)Manubristenta,((((((Trunkewia)Trunkewinae,((Helikewbellia)Helikewbellini,(Helikewabotonia,Helikewparabola,Helikewplicata,Helikewisia)Helikewini)Helikewinae)Helikewidae)Helinina)Helistola)Scapamanica,((((((Kewplicata,Kewparabola,Kewisia)Kewidae,(Florankewia,Kewasalia,Kewabotonia)Plesikewidae)Kewoidea)Biligabotonia)Biligamentum)Bilourida)Umerostentida)Scapunatoria)Abtruncusa,(((((((Kewplicasa,Kewparacasa,Kewisicasa)Kewcasaceae)Ventracasales)Ventracasidna)Botonicasida)Castula)Suprapatella)Subpelvia)Vestimentia;"
+kew = "(((((((Kewbellothea)Kewbellinae,(Kewpepla,(Kewthicata,Kewthea)Kewthini)Kewthinae)Kewthidae)Vecobotonia)Vecostola)Manubristenta,((((((Trunkewia)Trunkewinae,((Helikewbellia)Helikewbellini,(Helikewabotonia,Helikewparabola,Helikewplicata,Helikewisia)Helikewini)Helikewinae)Helikewidae)Helinina)Helistola)Scapamanica,((((((Kewplicata,Kewparabola,Kewisia)Kewidae,((Kewasalia)Kewasalinae,(Florankewia,Kewabotonia)Plesikewinae)Plesikewidae)Kewoidea)Biligabotonia)Biligamentum)Bilourida)Umerostentida)Scapunatoria)Abtruncusa,(((((((Kewplicasa,Kewparacasa,Kewisicasa)Kewcasaceae)Ventracasales)Ventracasidna)Botonicasida)Castula)Suprapatella)Subpelvia)Vestimentia;"
 
 tree <- read.tree(text = kew)
 
@@ -2054,7 +2057,7 @@ ggtree(tree, layout = "rectangular") +
   geom_tiplab(size = 3, fontface = "italic") +
   geom_text(data = td_filter(!isTip), aes(label = label),
             size = 2, hjust = 1.1, vjust = -0.4) +
-  hexpand(0.5)
+  hexpand(0.5) + vexpand(0.8)
 ```
 
 An expanded polyphyletic tree of the Kew dresses.
