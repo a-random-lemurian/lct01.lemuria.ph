@@ -2271,6 +2271,8 @@ We thank Nina Lee for her amazing patterns that help bolster a culture of home s
 
 We thank the people of the Archive Team (<https://wiki.archiveteam.org/wiki/Main_Page>) for assistance in archiving many of the websites we visited, especially the WordPress blogs whose images the Wayback Machine could not save due to improper content negotiation.
 
+We thank the people of the Coffee Shop on [4d2.org](https://4d2.org), where our lead author has posted fragments of the paper time and time again, for being absolutely wonderful people, and being an extra set of eyes to keep errors shallow under Linus's law; and we thank Sarah, the operator of 4d2, for fostering such a wonderful space.
+
 ### Information
 *Lemuria's (Informal) Journal of Clothing Taxonomy* is the gray literature journal of the First Lemurian Clothing Taxonomy, a system by Lemuria to assign Latin names to dresses using biological methods. The author, known mononymically as just Lemuria, is a Filipino programmer and gray literature researcher.
 
