@@ -3,6 +3,10 @@ title: "A taxonomy of Nina Lee's Kew and Kewbello"
 author:
   name: Lemuria
   email: lemuria@lemuria.ph
+  affiliations:
+    - name: Independent researcher
+      city: Manila
+      country: Philippines
 license: CC BY-SA
 journal:
   title: "Lemuria's (Informal) Journal of Clothing Taxonomy"
