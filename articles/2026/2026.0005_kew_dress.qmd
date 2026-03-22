@@ -2038,6 +2038,7 @@ To determine the genera in which a Kew dress is placed:
 ::: {#fig-polyphyletic}
 <!-- ![](https://static.lemuria.ph/lct01/kew-kewbello-extended-tree.png) -->
 ```{r}
+#| message: false
 #| fig-height: 10
 #| fig-width: 10
 
@@ -2206,11 +2207,9 @@ We present a list of the image specimen identifiers we have assigned in this pap
 ```
 
 ### Acknowledgements
-We used iTOL to generate the polyphyletic tree for Kewoidea. See @letunic_interactive_2024.
+We used R; specifically, `ggtree`, to generate @fig-polyphyletic. For information on `ggtree`, see @yuetal2017.
 
-We make the iTOL tree available at <https://itol.embl.de/tree/1562369552211801773596077>.
-
-We thank Nina Lee for her amazing patterns, and for helping bolster a culture of home sewing and the slow fashion movement. We thank all the sewists and the sources we have cited for documenting their projects in intricate detail.
+We thank Nina Lee for her amazing patterns that help bolster a culture of home sewing and advance the slow fashion movement. We thank all the sewists and the sources we have cited for documenting their projects in intricate detail.
 
 We thank the people of the Archive Team (<https://wiki.archiveteam.org/wiki/Main_Page>) for assistance in archiving many of the websites we visited, especially the WordPress blogs whose images the Wayback Machine could not save due to improper content negotiation.
 
