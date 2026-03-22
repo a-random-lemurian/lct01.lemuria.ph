@@ -93,7 +93,7 @@ Superfamily Kewoidea: See @sec-kewoidea.
  
 Subphylum Scapamanica, from its parent Scapunatoria, combined with Greek *a-* "no" + Latin *manica* "sleeve", encompasses sleeveless garments that expose the shoulder.
  
-Class Helistola, from Greek *helios* "sun" + Latin *stola* "dress", encompases sundresses; sleeveless garments that expose the shoulder and have slightly thick straps.
+Class Helistola, from Greek *helios* "sun" + Latin *stola* "dress", encompasses sundresses; sleeveless garments that expose the shoulder and have slightly thick straps.
  
 Order Helinina, from Helistola + Nina's name, encompasses sundresses made from Nina Lee patterns.
  
@@ -346,7 +346,7 @@ A matrix of the differing terminology for the Kew skirts, between the LCT-01 and
 :::
 -->
 
-We place the standalone Kew skirts in the family Kewcasaceae, divded into the genera *Kewplicasa* (gathered), *Kewparacasa* (parabola), and *Kewisicasa* (straight).
+We place the standalone Kew skirts in the family Kewcasaceae, divided into the genera *Kewplicasa* (gathered), *Kewparacasa* (parabola), and *Kewisicasa* (straight).
 
 #### Kewbello {#sec-kewbello}
 New to the taxonomy, and first introduced in this paper, in the sense that its documentation predates the first edits on Lemuria's internal MediaWiki site, is the Kewbello, a jumpsuit created as a hybrid of the Kew dress and Portobello trousers.
@@ -842,7 +842,7 @@ Zoomed-out slightly angled ventral shot. Subject facing downward. Hair positione
 
 **Description**: Shallow angle V-neck. Bilateral single straps.
 **Buttons.** Ventral medial button row. 15 buttons. Five on bodice, ten on skirt. Unknown reflective material. Eighth button reflects light; possibly two thread holes.
-**Skirt.** Skirt terminates inferior to skirt. Two vertical regions; first region runs from end of bodice to roughly 2.5 button lengths inferior to final button, with vertical stripes, before transition to rotated fabric pattern with horizontal stripes, sometimes slightly angled downward.
+**Skirt.** Skirt terminates inferior to knee. Two vertical regions; first region runs from end of bodice to roughly 2.5 button lengths inferior to final button, with vertical stripes, before transition to rotated fabric pattern with horizontal stripes, sometimes slightly angled downward.
 **Fabric.** Unknown material. White&ndash;light blue stripes; ~4&ndash;5 bars in same space as width of 1 button.
 
 **Etymology**: *Nina* + *-ae*, feminine genitive suffix.
@@ -866,7 +866,7 @@ Zoomed-out slightly angled ventral shot. Subject facing downward. Hair positione
 
 **Description**: Shallow angle V-neck. Curved neckline medially. Bilateral single straps. Lack of ventral medial button row.
 **Skirt.** Skirt terminates superior to knee.
-**Fabric.** Unknown poly cotton. Cyan background. Floral; stylized depiction of flamingo (Phoenicopteridae Bonaparte, 1831) standing on *Hibiscus* &times; *rosa-sinensis* L.
+**Fabric.** Unknown poly cotton. Cyan background. Floral; stylized depiction of flamingo (Phoenicopteridae Bonaparte, 1831) standing on *Hibiscus &times; rosa-sinensis* L.
 
 **Etymology**: *Eleanor* + *-ae*, feminine genitive suffix.
 
@@ -1124,6 +1124,8 @@ Ventral view. Inferiormost two buttons unfastened.
 **Buttons.** Ventral medial button row. Buttons on wearer's left. 15 buttons.
 **Fabric.** Emerald-green, plain, unknown material.
 
+**Etymology**: *Genya* (from the filename) + *-ae*, feminine genitive suffix.
+
 #### *Kewisia kristinae* {#sec-k-kristinae}
 ***Kewisia kristinae*** Lemuria, 2026; first public desc.
 
@@ -1190,7 +1192,7 @@ Fabric and buttons of *Kewisia kristinae* pre-assembly.
 #### *Kewisia latae* {#sec-k-latae}
 ***Kewisia latae*** Lemuria, 2026; first public desc.
 
-**Holotype**: *Vic 91147KL* &mdash; 1080&times;1080. EXIF metadata stripped. Collage compiled by Nina; left panel shows ventral view; hair positioned mostly dorsally with some strands obscuring wearer's left strap. Right panel shows lateral angled view; hair positioned almost entirely dorsally. *Kewisia latae* wb. Vic.B., 2017. &copy; Vic Broad (&commat;sewvee), 2017, all rights reserved.
+**Holotype**: *Vic 91147KL* &mdash; Photograph. 1080&times;1080. EXIF metadata stripped. Collage compiled by Nina; left panel shows ventral view; hair positioned mostly dorsally with some strands obscuring wearer's left strap. Right panel shows lateral angled view; hair positioned almost entirely dorsally. *Kewisia latae* wb. Vic.B., 2017. &copy; Vic Broad (&commat;sewvee), 2017, all rights reserved.
 
 * **Page**: See @broad_and_changsmith2017
 * **SHA2-256**: `dacf00ee1e4e44c1e96f9675f0e0a13cf104eeb1f3ed7993edb52b4c076bea58`
@@ -1387,7 +1389,7 @@ Ventral view, mirror selfie.
 
 **Description**: Shallow angle V-neck. Bilateral single straps. Skirt terminates slightly inferior to knee. **Buttons.** Ventral medial row of 6 buttons. Circular, two thread holes, horizontal. Three on bodice, three on skirt. **Fabric.** Red stretch jacquard from Abakhan. Raised embroidery.
 
-**Etymology**: *Modista* + Latin *rubera* "red".
+**Etymology**: *Modista* + Latin *ruber* "red", feminine form *rubra*, accidentally corrupted to *rubera*.
 
 **Remarks**: After Sally wore her *K. modistaflora* to a 2019 wedding in Scotland, the dress proved popular amongst her friends; and one of them requested a red Kew dress from her. She was unable to photograph the friend wearing it, leaving the mirror selfie as the only available type.
 
@@ -1559,7 +1561,7 @@ Dorsal view. Hair positioned dorsally, terminating superior to sleeve. Straps no
   * **Raw image URLs**
     * **Original**: <https://cdn.minerva.com/feed/original/image-sa-1066483-1000155-94531.jpg>
     * **IA**: <https://web.archive.org/web/20260320181638/https://cdn.minerva.com/feed/original/image-sa-1066483-1000155-94531.jpg>
-* ***Alice 33000KR*** &mdash; Photograph. 1334&times;2000.
+* ***Alice 33300KR*** &mdash; Photograph. 1334&times;2000.
 EXIF metadata stripped.
 Angled ventral view, hair positioned laterally, straps not obscured.
 *Kewisia reginarunae* wb. Alice W., 2021.
@@ -1952,7 +1954,7 @@ Ventral view. Denim jacket (unclassified) worn above dress, tied together at inf
     * **IA**: <https://web.archive.org/web/20260317233256/https://modistasewing.wordpress.com/wp-content/uploads/2020/04/img_9943.jpg>
 
 ### Genus *Kewthicata* {#sec-genus-kewthicata}
-***Kewthicata*** gen. nov., Lemuria, 2026
+***Kewthicata*** gen. nov.
 
 **Diagnosis**: *Kewthicata* is distinguished by the presence of gathering on the superior area of the skirt, immediately inferior to the bodice&ndash;skirt transition.
 
@@ -1973,6 +1975,8 @@ Zoomed out ventral view. Subject at ease. Multiple buttons unfastened.
 **Description**: Sleeves terminate superior to elbow at distal upper arm. Shallow angle V neck. Skirt terminates slightly superior to knee, with gathering at bodice&ndash;skirt transition.
 **Buttons.** Ventral medial button row, 16 buttonholes. Buttons circular, two thread holes, thread line horizontal. Numerous buttons unfastened in holotype.
 **Fabric.** Black/dark background. Orange, pale orange, and caramel-colored print on fabric, low density. Unknown material.
+
+**Etymology**: *Julia* + *-ae*, feminine genitive suffix.
 
 **Specimens examined**: See holotype information.
 
@@ -2201,7 +2205,7 @@ We present a list of the image specimen identifiers we have assigned in this pap
 * *Alice 18651KR*
 * *Alice 27962KR*
 * *Alice 29682KR*
-* *Alice 33000KR*
+* *Alice 33300KR*
 * *Alice 88719KR*
 * *Alice 94531KR*
 * *Bernice 37957KB*
