@@ -1456,8 +1456,8 @@ Ventral view, zoomed out, subject standing straight, hair positioned dorsally.
 Ventral view. Hair positioned ventrally, wearer's right strap obscured.
 *Kewisia reginarunae* wb. Alice.W., 2021.
 
-* **SHA2-256**: `94067b4af92cf45d7aaf9432f81c9e6a5c1093c3ef49c8b055145385551d2579`
 * **Page**: See @wang2021
+* **SHA2-256**: `94067b4af92cf45d7aaf9432f81c9e6a5c1093c3ef49c8b055145385551d2579`
 * **Raw image URLs**
   * **Original**: <https://cdn.minerva.com/feed/original/image-sa-1066483-1000155-88719.jpg>
   * **IA**: <https://web.archive.org/web/20260320181642/https://cdn.minerva.com/feed/original/image-sa-1066483-1000155-88719.jpg>
@@ -1481,8 +1481,8 @@ EXIF metadata stripped.
 Dorsal view. Hair positioned dorsally, terminating superior to sleeve. Straps not obscured.
 *Kewisia reginarunae* wb. Alice W., 2021.
 &copy; Alice of *Queen of Darts*, 2021, all rights reserved.
-  * **SHA2-256**: `d8ac52970bd74dfd6d49c6ff255c1796b6975d68179a306808f5adec2e12158b`
   * **Page**: See @wang2021
+  * **SHA2-256**: `d8ac52970bd74dfd6d49c6ff255c1796b6975d68179a306808f5adec2e12158b`
   * **Raw image URLs**
     * **Original**: <https://cdn.minerva.com/feed/original/image-sa-1066483-1000155-94531.jpg>
     * **IA**: <https://web.archive.org/web/20260320181638/https://cdn.minerva.com/feed/original/image-sa-1066483-1000155-94531.jpg>
@@ -1491,8 +1491,8 @@ EXIF metadata stripped.
 Angled ventral view, hair positioned laterally, straps not obscured.
 *Kewisia reginarunae* wb. Alice W., 2021.
 &copy; Alice of *Queen of Darts*, 2021, all rights reserved.
-  * **SHA2-256**: `095dfeea27b6c77408c1b0abff70aa1188a3e5b47091bcea7d8d4cc96751e8f1`
   * **Page**: See @wang2021
+  * **SHA2-256**: `095dfeea27b6c77408c1b0abff70aa1188a3e5b47091bcea7d8d4cc96751e8f1`
   * **Raw image URLs**
     * **Original**: <https://cdn.minerva.com/feed/original/image-sa-1066483-1000155-33300.jpg>
     * **IA**: <https://web.archive.org/web/20260320181644/https://cdn.minerva.com/feed/original/image-sa-1066483-1000155-33300.jpg>
@@ -1501,8 +1501,8 @@ EXIF metadata stripped.
 Left lateral view. Left elbow extended out.
 *Kewisia reginarunae* wb. Alice W., 2021.
 &copy; Alice of *Queen of Darts*, 2021, all rights reserved.
-  * **SHA2-256**: `e97a99a05cc41f27c5f3bf414123b2933ef4a81e8dfa5b3a7f3a23b61e36066a`
   * **Page**: See @wang2021
+  * **SHA2-256**: `e97a99a05cc41f27c5f3bf414123b2933ef4a81e8dfa5b3a7f3a23b61e36066a`
   * **Raw image URLs**
     * **Original**: <https://cdn.minerva.com/feed/original/image-sa-1066483-1000155-29682.jpg>
     * **IA**: <https://web.archive.org/web/20260320181636/https://cdn.minerva.com/feed/original/image-sa-1066483-1000155-29682.jpg>
@@ -1510,8 +1510,8 @@ Left lateral view. Left elbow extended out.
 EXIF metadata stripped.
 Dress on red mannequin, truncated ventral view from first to eighth buttons.
 &copy; Alice of *Queen of Darts*, 2021, all rights reserved.
-  * **SHA2-256**: `0bfaa8acf7e17c8f07b86cdad15be8c77783ba15515e12da12454ab1a4f17af1`
   * **Page**: See @wang2021
+  * **SHA2-256**: `0bfaa8acf7e17c8f07b86cdad15be8c77783ba15515e12da12454ab1a4f17af1`
   * **Raw image URLs**
     * **Original**: <https://cdn.minerva.com/feed/original/image-sa-1066483-1000155-18651.jpg>
     * **IA**: <https://web.archive.org/web/20260320181702/https://cdn.minerva.com/feed/original/image-sa-1066483-1000155-18651.jpg>
@@ -1519,8 +1519,8 @@ Dress on red mannequin, truncated ventral view from first to eighth buttons.
 EXIF metadata stripped.
 Dress on red mannequin, angled ventral view of sleeve and strap.
 &copy; Alice of *Queen of Darts*, 2021, all rights reserved.
-  * **SHA2-256**: `ca0b7444873272bdc8262139cd20fdf871fb29523a88a407e5a84dd0d4de4fb3`
   * **Page**: See @wang2021
+  * **SHA2-256**: `ca0b7444873272bdc8262139cd20fdf871fb29523a88a407e5a84dd0d4de4fb3`
   * **Raw image URLs**
     * **Original**: <https://cdn.minerva.com/feed/original/image-sa-1066483-1000155-27962.jpg>
     * **IA**: <https://web.archive.org/web/20260320181712/https://cdn.minerva.com/feed/original/image-sa-1066483-1000155-27962.jpg>
@@ -1708,8 +1708,8 @@ Zoomed out shot of dress laid on table.
 **Holotype**: *Eva 2947KE* &mdash; Photograph. 900&times;900. EXIF metadata stripped; exposure, f-stop, lens foc. len unknown. Mirror selfie. Ventral view. 
 *Kewthea evae* wb. Eva, 2019. &copy; Kate Eva, 2019, all rights reserved.
 
-* **SHA2-256**: `79d6e4321fd0295ceb7bc6434aec7596c2a4c2b83e3e7b265d704891dc8eb14f`.
 * **Page**: See @eva_autumnal_2018
+* **SHA2-256**: `79d6e4321fd0295ceb7bc6434aec7596c2a4c2b83e3e7b265d704891dc8eb14f`.
 * **Raw image URLs**
   * **Original**: <https://kateevadesigns.com/wp-content/uploads/2018/09/img_2947.jpg>
   * **IA**: <https://web.archive.org/web/20260317075603/https%3A//kateevadesigns.com/wp-content/uploads/2018/09/img_2947.jpg>
@@ -1726,6 +1726,7 @@ Zoomed out shot of dress laid on table.
 
 * Holotype.
 * ***Eva 0120KE*** &mdash; Photograph. 1536&times;2048. EXIF metadata stripped; exposure, f-stop, lens foc. len unknown. Ventral view. Jacket worn over dress (unclassified). *Kewthea evae* wb. Eva, 2019. &copy; Kate Eva or unknown photographer, 2019, all rights reserved.
+  * **Page**: See @eva_autumnal_2018
   * **SHA2-256**: `4cf40acd6dde11352f2cf0b993849f641ae94e3064991184f0f053ceaa81914b`.
   * **Original**: <https://kateevadesigns.com/wp-content/uploads/2018/10/img_0120.jpg>
   * **IA**: <https://web.archive.org/web/20260317080030/https%3A//kateevadesigns.com/wp-content/uploads/2018/10/img_0120.jpg>
@@ -2119,11 +2120,10 @@ In this paper, we used the following person abbreviations.
 * **Rachael** &mdash; Rachael Beaumont, author of the blog *Sew Prettyful*.
 * **Ruth.Pr.** &mdash; Ruth Procter, author of the blog *Nightingale & Dolittle*.
 * **Sally of M.** &mdash; Sally, author of the blog *Modista Sewing*. Abbreviation stands for *Sally of Modista*.
-* **Sarah.D.** &mdash; Sarah Donnison (Instagram: &commat;sewsarahstitch), the *Sewist Organiser*^[The *Journal* uses Philippine English, which is based on American English. We preserve the original spelling of the rank here.]
 * **Sarah of T.** &mdash; Sarah, author of the blog *Craftily Handmade*. Abbreviation stands for *Sarah of Tasmania.*
+* **Sarah.D.** &mdash; Sarah Donnison (Instagram: &commat;sewsarahstitch), the *Sewist Organiser*^[The *Journal* uses Philippine English, which is based on American English. We preserve the original spelling of the rank here.]
 * **Sarah's S.C.** &mdash; Sarah (Instagram: &commat;sarahssewingchronicles), a Minerva ambassador. Abbreviation stands for *Sarah's Sewing Chronicles*.
 * **Stéphanie.T.** &mdash; Stéphanie Terranova / Terranova Stéphanie. Order of name elements unknown.
-
 ```{=latex}
 \end{multicols}
 ```
@@ -2134,14 +2134,14 @@ These botanical abbreviations were used:
 ```{=latex}
 \begin{multicols}{2}
 ```
-* **L.** &mdash; Carl Linnaeus
-* **Thunb.** &mdash; Carl Peter Thunberg
 * **Cronquist** &mdash; Cronquist
-* **Takht** &mdash; Armen Takhtajian
-* **W.Zimm.** &mdash; Walter Max Zimmermann
-* **Leichtlin** &mdash; Max Leichtlin
-* **Lam.** &mdash; Jean-Baptiste Lamarck
 * **Juss.** &mdash; Antoine Laurent de Jussieu
+* **L.** &mdash; Carl Linnaeus
+* **Lam.** &mdash; Jean-Baptiste Lamarck
+* **Leichtlin** &mdash; Max Leichtlin
+* **Takht** &mdash; Armen Takhtajian
+* **Thunb.** &mdash; Carl Peter Thunberg
+* **W.Zimm.** &mdash; Walter Max Zimmermann
 ```{=latex}
 \end{multicols}
 ```
