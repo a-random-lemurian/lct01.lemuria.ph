@@ -36,6 +36,10 @@ format:
     include-in-header:
       text: |
         \usepackage{forest}
+        \usepackage{draftwatermark}
+        \SetWatermarkText{DRAFT}
+        \SetWatermarkScale{1}
+        \SetWatermarkColor[gray]{0.85}
 keywords: kew dress, kewoidea, kewthidae, helikewidae, nina lee, clothing taxonomy, home sewing, sewing pattern
 ---
 
