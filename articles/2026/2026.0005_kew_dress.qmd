@@ -2036,9 +2036,27 @@ To determine the genera in which a Kew dress is placed:
 
 ## Appendix 
 ::: {#fig-polyphyletic}
-![](https://static.lemuria.ph/lct01/kew-kewbello-extended-tree.png)
+<!-- ![](https://static.lemuria.ph/lct01/kew-kewbello-extended-tree.png) -->
+```{r}
+#| fig-height: 10
+#| fig-width: 10
 
-An expanded polyphyletic tree of the Kew dresses. New Kewbello taxa in bold italics.
+library(ape)
+library(ggplot2)
+library(ggtree)
+
+kew = "(((((((Kewbellothea)Kewbellinae,(Kewpepla,(Kewthicata,Kewthea)Kewthini)Kewthinae)Kewthidae)Vecobotonia)Vecostola)Manubristenta,((((((Trunkewia)Trunkewinae,((Helikewbellia)Helikewbellini,(Helikewabotonia,Helikewparabola,Helikewplicata,Helikewisia)Helikewini)Helikewinae)Helikewidae)Helinina)Helistola)Scapamanica,((((((Kewplicata,Kewparabola,Kewisia)Kewidae,(Florankewia,Kewasalia,Kewabotonia)Plesikewidae)Kewoidea)Biligabotonia)Biligamentum)Bilourida)Umerostentida)Scapunatoria)Abtruncusa,(((((((Kewplicasa,Kewparacasa,Kewisicasa)Kewcasaceae)Ventracasales)Ventracasidna)Botonicasida)Castula)Suprapatella)Subpelvia)Vestimentia;"
+
+tree <- read.tree(text = kew)
+
+ggtree(tree, layout = "rectangular") +
+  geom_tiplab(size = 3, fontface = "italic") +
+  geom_text(data = td_filter(!isTip), aes(label = label),
+            size = 2, hjust = 1.1, vjust = -0.4) +
+  hexpand(0.5)
+```
+
+An expanded polyphyletic tree of the Kew dresses.
 :::
 
 ### Person abbreviations
