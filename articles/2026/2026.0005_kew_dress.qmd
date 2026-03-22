@@ -16,7 +16,7 @@ execute:
   freeze: true
 publisher-id: "lict2026.0005"
 abstract: |
-  The Kew dress, released in August 2017, is one of the earliest patterns from the British pattern label Nina Lee, founded in March 2017 by Nina Chang-Smith. It features three bodice options, a cold-shoulder (a trend at the time of release), a sleeveless sundress, and sleeved tea dress. The later Kewbello combined the bodice of the Kew with her Portobello trousers design. The Kew and Kewbello, collectively, are an example of how the LCT-01's hybrid phylogenetic-phenetic methodology results in the polyphyletic classification of sewing patterns based on their available design options, and the phylogenetic classification of individual design options. We describe N species of Kew dresses for the first time publicly, refining the original findings on our internal MediaWiki site.
+  The Kew dress, released in August 2017, is one of the earliest patterns from the British pattern label Nina Lee, founded in March 2017 by Nina Chang-Smith. It features three bodice options, a cold-shoulder (a trend at the time of release), a sleeveless sundress, and sleeved tea dress. The later Kewbello combined the bodice of the Kew with her Portobello trousers design. The Kew and Kewbello, collectively, are an example of how the LCT-01's hybrid phylogenetic-phenetic methodology results in the polyphyletic classification of sewing patterns based on their available design options, and the phylogenetic classification of individual design options. We describe 47 species of Kew dresses for the first time publicly, refining the original findings on our internal MediaWiki site.
 draft: true
 bibliography: 2026.0005-refs.bib
 number-sections: true
@@ -246,7 +246,7 @@ The cold-shoulder variant encompasses the superfamily Kewoidea. The primary char
 It is further divided into two families, Kewidae and Plesikewidae, which have three genera each. Kewidae is the *sensu stricto* family, consisting of *Kewisia* (straight skirt) and the empty genera *Kewplicata* and *Kewparabola*.
 
 *Kewisia* is the largest genus in Kewidae, with 13 species:
-*bernicae* wb. Bernice, 2022, see @sec-k-bernicae;
+*bernicae* wb. Bernice, 2020, see @sec-k-bernicae;
 *evae* wb. Eva, 2018, see @sec-k-evae;
 *fionae* wb. Parker, 2018, see @sec-k-fionae;
 *genyae* wb. Genya, 2023, see @sec-k-genyae;
@@ -285,14 +285,14 @@ Helikewbellini (see @sec-kewbello) is monotypic, containing the genus *Helikewbe
 
 Helikewini is divided into three genera, based on the three skirt options: *Helikewisia*, *Helikewplicata*, and *Helikewparabola*; alongside the new genus *Helikewabotonia*. Like Kewidae, only *Helikewisia* is populated with species.
 
-*Helikewisia* contains nine species:
+*Helikewisia* contains nine species. Directly under it are
 *aemilia* wb. Emily of L., 2017, see @sec-h-aemilia;
 *ceciliae* wb. Cecilia, 2018, see @sec-h-ceciliae;
 *erinae* wb. Erin.M., 2021, see @sec-h-erinae;
 *irvinae* wb. Alice.Ir., 2020, see @sec-h-irvinae;
 *kristinae* wb. Lehrer, 2018, see @sec-h-kristinae;
 *mariae* wb. Maria (W/2026 F1), see @sec-h-mariae; and
-*sarae* wb. Sarah of T., 2019, see @sec-h-sarae; alongside the subgenus *Emmae* which contains the remaining two: *arbor* wb. Emma of N., 2019, see @sec-h-arbor; and
+*sarae* wb. Sarah of T., 2019, see @sec-h-sarae; and the *Emmae* which contains the remaining two: *arbor* wb. Emma of N., 2019, see @sec-h-arbor; and
 *quagga* wb. Emma of N. and unknown friend, 2019, see @sec-h-quagga.
 
 *Helikewisia kristinae*, Lehrer's first make of the Kew dress, was previously unknown. The specimen was identified while reviewing holotype material for *Kewisia kristinae*. See @sec-h-kristinae.
@@ -461,7 +461,7 @@ Ventral view, hair positioned ventrally, obscuring straps.
 * **SHA2-256**: `b71e212b9cc918658913cb8a88e5c7b314652211979a6e3f4d6f2e2203e01631`
 * **IA**: <https://web.archive.org/web/20260320151540/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/649058460_18312888976269800_7157007690988526042_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=MTc3MzQ4Nzg2MzY3ODM3NTU0Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTI1OC5zZHIuQzMifQ%3D%3D&_nc_ohc=EBovqWWs06MQ7kNvwFSvfvr&_nc_oc=AdoPp8j2FsMwCn8fYgS75vcxhWhVHhVNI3T9kd-7VVJbdpBknRF7bJORBJ4duOb38ME&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=lLeRgI1OxmGROfj_coFxkw&_nc_ss=7a30f&oh=00_Afzg-ZNO_vk3brOGiKIUg9BI4MeHPlxORu9QOj3t31f7lg&oe=69C33297>
 
-**Description**: Shallow-angle V neck. Curved neckline medially. Lack of ventral medial button row. Bilateral single straps.
+**Description**: Shallow angle V neck. Curved neckline medially. Lack of ventral medial button row. Bilateral single straps.
 **Fabric.** Unknown material. Extremely light cyan background, stylized watermelon slice pattern.
 
 **Etymology**: Feminine form of *lanatus*, specific epithet of the watermelon (*Citrullus lanatus* (Thunb.) Matsum. & Nakai), from the fabric.
@@ -491,7 +491,7 @@ Zoomed out ventral view, river in background, outdoors. Worn under unclassified 
 **Holotype**: *Emma 2019-001.HS* &mdash;
 Photograph. 1102&times;2048.
 Exposure: unknown. F-stop: unknown. Focal: unknown. ISO: unknown. Lens: unknown. Camera: unknown. 
-*Helikewabotonia stabile* wb. WEARER, 2019.
+*Helikewabotonia stabile* wb. Emma of N., 2019.
 &copy; Emma of *Crafty Clyde*, 2019, all rights reserved.
 
 * **Page**: See @emma2019
@@ -561,7 +561,7 @@ Angled ventral view, roughly 45&deg; horizontal, 45&deg; vertical, subject on st
 * **Raw image URLs**
   * **IA**: <https://web.archive.org/web/20260318084447/https://scontent.fmnl35-1.fna.fbcdn.net/v/t1.6435-9/38796551_2234719783416504_779248449227849728_n.jpg?_nc_ohc=OfvYHoRETDIQ7kNvwGegeMe&_nc_oc=AdkuqDYsozC3fEwo02nMCm-dwyBiAQmRw-KsWR-1xgDLFo1nRiLEyiLr78MbWb6UOJQ&_nc_zt=23&_nc_ht=scontent.fmnl35-1.fna&_nc_gid=nqbWH-IXJHbF6PSN-NvPOg&_nc_ss=8&oh=00_AfwMIGiSC8FvYlPD4FjhqdZm52v_78oVvwDlvPKQf6WK9w&oe=69E1D8BB>
 
-**Description**: Shallow-angle V-neck. Bilateral single straps. Straps 2 in (5.08 cm) longer. Ventral medial button row. Buttons fabric-covered, ~12 buttons visible; some buttons in holotype image obscured by skirt. Skirt termination point unknown due to angle of holotype image. **Fabric.** Jennifer crepe from Sew Me Sunshine, sunshine yellow background. Monochrome black and white floral line art print. Flower most closely resembles Chrysanthemum &times; morifolium (Ramat.) Hemsl.
+**Description**: Shallow angle V-neck. Bilateral single straps. Straps 2 in (5.08 cm) longer. Ventral medial button row. Buttons fabric-covered, ~12 buttons visible; some buttons in holotype image obscured by skirt. Skirt termination point unknown due to angle of holotype image. **Fabric.** Jennifer crepe from Sew Me Sunshine, sunshine yellow background. Monochrome black and white floral line art print. Flower most closely resembles Chrysanthemum &times; morifolium (Ramat.) Hemsl.
 
 **Etymology**: *Cecilia* + *-ae*, feminine genitive suffix.
 
@@ -710,7 +710,7 @@ Ventral view, subject looking to right.
 * **Raw image URLs**
   * **Original**: <https://craftilyhandmade.wordpress.com/wp-content/uploads/2019/02/p1040085.jpg>
 
-**Description**: Shallow-angle V neck, bilateral single straps. Buttonholes made of white thread.
+**Description**: Shallow angle V neck, bilateral single straps. Buttonholes made of white thread.
 **Buttons.** Ventral medial button row, 12 buttons. Two thread holes, thread line vertical, 
 **Fabric.** Floral rayon. White background. No known correspondence of artistic depictions to botanical taxa.
 
@@ -779,7 +779,7 @@ Exposure: unknown. F-stop: unknown. Focal: unknown. ISO: unknown. Lens: unknown.
   * **Original**: <https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinnVlIBaxEn9dtuWLb4GfXT-IO_aw_XzTxP0CE_fS_BuvuZ-ZqyFUUzCN01ub2TsumDbvTAxQI-V8T13sxg2M4BSUEuLCitYk2L5QwSKSw87jt4rA9JIqtHMbgpozynAsuxzv4RxhhCpw/s0/kew+green+2.JPG=s0?imgmax=0>
   * **IA**: <https://web.archive.org/web/20260319091343/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinnVlIBaxEn9dtuWLb4GfXT-IO_aw_XzTxP0CE_fS_BuvuZ-ZqyFUUzCN01ub2TsumDbvTAxQI-V8T13sxg2M4BSUEuLCitYk2L5QwSKSw87jt4rA9JIqtHMbgpozynAsuxzv4RxhhCpw/s0/kew+green+2.JPG=s0?imgmax=0>
 
-**Description**: Shallow-angle V neck. Bilateral pockets.
+**Description**: Shallow angle V neck. Bilateral pockets.
 **Buttons.** Ventral medial button row, approx. 12 buttons. Four on bodice, eight on skirt. Buttonholes have white thread. Buttons are pink, four thread holes. White/off-white thread cross each other.
 **Fabric.** "Divine Landscapes" viscose from Sewisfaction. Primary colors teal and green, repeating tree print. No known correlation to botanical taxa.
 
@@ -802,7 +802,7 @@ Dress on mannequin.
   * **Original**: <https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIozsKfbe9TE4sQKFm3DkT4aSsYMRCZEmLvsoYW0c-oCjuIKia4ZrRGBoWaCizBJLCEyFkS6G8S-4BR7Y4Nec7DUWdZT7wQzRp9I1UGIUK3jQmICcH2-N58lNMQVDDe7tzhhylr75_Ogc/s0/zebra+kew.JPG=s0?imgmax=0>
   * **IA**: <https://web.archive.org/web/20260318235744/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIozsKfbe9TE4sQKFm3DkT4aSsYMRCZEmLvsoYW0c-oCjuIKia4ZrRGBoWaCizBJLCEyFkS6G8S-4BR7Y4Nec7DUWdZT7wQzRp9I1UGIUK3jQmICcH2-N58lNMQVDDe7tzhhylr75_Ogc/s0/zebra+kew.JPG=s0?imgmax=0>
 
-**Description**: Shallow-angle V neck. Bilateral pockets. 
+**Description**: Shallow angle V neck. Bilateral pockets. 
 **Buttons.** Ventral medial button row, approx. 11&ndash;12 buttons. Three on bodice, one roughly parallel to bodice&ndash;skirt transition line. 7&ndash;8 on skirt.Dark orange. Four thread holes, circular inset. Thread hole alignment variable.
 **Fabric.** Cotton fabric from Fabrics Galore. Yellow background. Zebra print (*Equus quagga* Boddaert, 1785).
 
@@ -884,7 +884,7 @@ Exposure: 1/50s. F-stop: 2.0. Focal: 3.51 mm. ISO: unknown. Lens: unknown. Camer
   * **Original**:<https://lacasacactus.com/wp-content/uploads/2021/03/kew_13.jpg>
   * **IA**: <https://web.archive.org/web/20260319105749/https://lacasacactus.com/wp-content/uploads/2021/03/kew_13.jpg>
 
-**Description**: Shallow-angle V neck. Lack of ventral medial button row. Bilateral single straps. Dorsal medial zipper. Skirt terminates superior to knee.
+**Description**: Shallow angle V neck. Lack of ventral medial button row. Bilateral single straps. Dorsal medial zipper. Skirt terminates superior to knee.
 **Fabric.** Brocade. Medium-weight, unknown brand, unknown name, purple background, purple decorations. Solid light purple/magenta lining.
 
 **Etymology**: *Elsa* + *-ae*, feminine genitive suffix.
@@ -945,7 +945,7 @@ EXIF metadata stripped.
 * **Page**: See @sarah_sc_2018
 * **SHA2-256**: `b5bca18b6114bca9db8de2c1c78acea3fd0622d42df449064636d241c571bbf1`
 * **Raw image URLs**:
-  * **IA**: <https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/627696672_18327776389174806_2043516935416512274_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=MTgyOTI2Mjg0MDUwMzIzMzQzMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjc2OHg5NjAuc2RyLkMzIn0%3D&_nc_ohc=aBa1bCRWqhgQ7kNvwHCA36c&_nc_oc=AdounD-lxRYEUHB1gwNxwNwn3lTjUgBA49qiqQ8fF6EWCrLU6Slz-a16ZA6hndHbhEc&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=Bt9fr8_x0I07PnVZ-pwtCA&_nc_ss=7a30f&oh=00_Afzn7zG3lzQloMNPZkZnxpfWDPP-bQ0HvtoS4XKEReA_tA&oe=69C2ACFA>
+  * **IA**: <https://web.archive.org/web/20260320064630/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/627696672_18327776389174806_2043516935416512274_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=MTgyOTI2Mjg0MDUwMzIzMzQzMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjc2OHg5NjAuc2RyLkMzIn0%3D&_nc_ohc=aBa1bCRWqhgQ7kNvwHCA36c&_nc_oc=AdounD-lxRYEUHB1gwNxwNwn3lTjUgBA49qiqQ8fF6EWCrLU6Slz-a16ZA6hndHbhEc&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=Bt9fr8_x0I07PnVZ-pwtCA&_nc_ss=7a30f&oh=00_Afzn7zG3lzQloMNPZkZnxpfWDPP-bQ0HvtoS4XKEReA_tA&oe=69C2ACFA>
 
 **Description**: Shallow angle V-neck, curving medially. Bilateral single straps. Skirt terminates superior to knee.
 **Fabric.** Unknown material. Light cyan background, floral, yellow flowers, green leaves. No known correspondence to botanical taxa.
@@ -1116,7 +1116,7 @@ Ventral view. Inferiormost two buttons unfastened.
   * **Original**: <https://www.ninalee.co.uk/cdn/shop/products/Genya-4-scaled.jpg?v=1677871708>
   * **IA**: <https://web.archive.org/web/20260320191618/https://www.ninalee.co.uk/cdn/shop/products/Genya-4-scaled.jpg?v=1677871708>
 
-**Description**: Bilateral straps, considerably more medial. Shallow-angle V neck. Strap neckline curves medially, with abrupt straight line laterally, roughly 45&deg;.
+**Description**: Bilateral straps, considerably more medial. Shallow angle V neck. Strap neckline curves medially, with abrupt straight line laterally, roughly 45&deg;.
 **Buttons.** Ventral medial button row. Buttons on wearer's left. 15 buttons.
 **Fabric.** Emerald-green, plain, unknown material.
 
@@ -1193,7 +1193,7 @@ Fabric and buttons of *Kewisia kristinae* pre-assembly.
 * **Raw image URLs**:
   * **IA**: <https://web.archive.org/web/20260322191235/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/621826096_18390981547194776_7014351964259491147_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=MTU4OTE1NjM2MDI4MDEwMTAyNg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=8KeAJuReNDsQ7kNvwGWv1y1&_nc_oc=AdpWtE619fPbFBwhaJ_TL0sLGwznfOpPT52O_Se5fbbSZ70NjHiZxsorUB8SNX62Hpg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=qD3sWwcVdqigJXrpW9zxHg&_nc_ss=7a32e&oh=00_AfyN3DFPiTcKPQaCWqmur-pTiAGgcErO5X7Xz_jZ65W1nw&oe=69C6004B>
 
-**Description**: Shallow-angle V neck. Bilateral single straps. Skirt terminates inferior to knee.
+**Description**: Shallow angle V neck. Bilateral single straps. Skirt terminates inferior to knee.
 **Buttons.** Ventral medial button row. 15 visible buttons. Circular, black, unknown number of thread holes; yellow thread seen at center.
 **Fabric.** Unknown material. African wax print / Ankara print; network of black and white line shapes with central square and four protrusions curved at edges, connected by curved yellow lines. Highly superficial resemblance to ripe bananas (fruit produced by *Musa* L.), but likely unintentional on the part of the designer. Consistent grid of horizontal and vertical spaces with thin black lines curving between black and white line shapes. Horizontally, orange blots on white background, and vertically, moss green blots on white background.
 
@@ -1359,7 +1359,7 @@ Collage. Left panel ventral view, right panel angled dorsal view, subject on sta
   * **Original**: <https://modistasewing.wordpress.com/wp-content/uploads/2020/06/0bcc5ecb-0e67-445d-9415-468f7bf40c8b.jpg>
   * **IA**: <https://web.archive.org/web/20260318222032/https://modistasewing.wordpress.com/wp-content/uploads/2020/06/0bcc5ecb-0e67-445d-9415-468f7bf40c8b.jpg>
 
-**Description**: Shallow-angle V-neck. Bilateral single straps. Skirt terminates inferior to knee. shoulder sleeve inverted. **Buttons.** Button count inconclusive due to image quality. **Fabric.** Cotton lawn from Abakhan. Black background. Floral; yellow and pink flowers.
+**Description**: Shallow angle V-neck. Bilateral single straps. Skirt terminates inferior to knee. Shoulder sleeve vertically inverted. **Buttons.** Button count inconclusive due to image quality. **Fabric.** Cotton lawn from Abakhan. Black background. Floral; yellow and pink flowers.
 
 **Etymology**: *Modista* + *flora* "flower".
 
@@ -1381,7 +1381,7 @@ Ventral view, mirror selfie.
   * **Original**: <https://modistasewing.wordpress.com/wp-content/uploads/2020/06/img_8644.jpg>
   * **IA**: <https://web.archive.org/web/20260318220504/https://modistasewing.wordpress.com/wp-content/uploads/2020/06/img_8644.jpg>
 
-**Description**: Shallow-angle V-neck. Bilateral single straps. Skirt terminates slightly inferior to knee. **Buttons.** Ventral medial row of 6 buttons. Circular, two thread holes, horizontal. Three on bodice, three on skirt. **Fabric.** Red stretch jacquard from Abakhan. Raised embroidery.
+**Description**: Shallow angle V-neck. Bilateral single straps. Skirt terminates slightly inferior to knee. **Buttons.** Ventral medial row of 6 buttons. Circular, two thread holes, horizontal. Three on bodice, three on skirt. **Fabric.** Red stretch jacquard from Abakhan. Raised embroidery.
 
 **Etymology**: *Modista* + Latin *rubera* "red".
 
@@ -1405,7 +1405,7 @@ Ventral view. Wearer's left arm placed on bodice, inferior to bodice&ndash;skirt
 * **Raw image URLs**
   * **Original**: <https://sewprettyful.wordpress.com/wp-content/uploads/2018/03/nina-leee-kew-dress-20.jpg>
 
-**Description**: Shallow-angle V-neck. Bilateral single straps. **Buttons.** 12 buttons, 5 on bodice, 7 on skirt. Fabric covered. Bodice size 10, with 1 in (2.54 cm) bust adjustment. 1.5 cm seam allowance. Skirt terminates parallel to knee, shortened by 3.25 in (8.25 cm). **Fabric.** Lavender background. Floral. Plants include but are not limited to *Adiantum capillus-veneris* L. (maidenhair fern), *Hydrangea macrophylla* (Thunb.) Ser. (bigleaf hydrangea). On sleeves, stylized bird most similar to *Irena puella* (Latham, 1790), the Asian fairy-bluebird.
+**Description**: Shallow angle V-neck. Bilateral single straps. **Buttons.** 12 buttons, 5 on bodice, 7 on skirt. Fabric covered. Bodice size 10, with 1 in (2.54 cm) bust adjustment. 1.5 cm seam allowance. Skirt terminates parallel to knee, shortened by 3.25 in (8.25 cm). **Fabric.** Lavender background. Floral. Plants include but are not limited to *Adiantum capillus-veneris* L. (maidenhair fern), *Hydrangea macrophylla* (Thunb.) Ser. (bigleaf hydrangea). On sleeves, stylized bird most similar to *Irena puella* (Latham, 1790), the Asian fairy-bluebird.
 
 **Etymology**: *Rachael* + *-ae*, feminine genitive suffix.
 
@@ -1531,7 +1531,7 @@ Ventral view. Hair positioned ventrally, wearer's right strap obscured.
   * **Original**: <https://cdn.minerva.com/feed/original/image-sa-1066483-1000155-88719.jpg>
   * **IA**: <https://web.archive.org/web/20260320181642/https://cdn.minerva.com/feed/original/image-sa-1066483-1000155-88719.jpg>
 
-**Description**: Shallow-angle V neck. Based on outdated measurements, size 6, graded to size 8 at waist. Bodice shortened by 2.54 cm (1 in).
+**Description**: Shallow angle V neck. Based on outdated measurements, size 6, graded to size 8 at waist. Bodice shortened by 2.54 cm (1 in).
 **Buttons.** Ventral medial row of 13 buttons.
 **Fabric.** Viscose from Art Gallery Fabrics. Blue background, floral, no known correspondence to botanical taxa.
 
@@ -1641,7 +1641,7 @@ Dress on red mannequin, angled ventral view of sleeve and strap.
 **Specimens examined**:
 
 * Holotype.
-* ***Rothery E530.KL*** &mdash; Photograph. United Kingdom. wb. Lorna.R., &copy; Lorna Rothery or Lorna Malkin (name seen in EXIF data; see @sec-malkin), 202, all rights reserved.
+* ***Rothery E530.KL*** &mdash; Photograph. United Kingdom. wb. Lorna.R., &copy; Lorna Rothery or Lorna Malkin (name seen in EXIF data; see @sec-malkin), 2020, all rights reserved.
   * **Page**: See @rothery_kew_2020-05.
   * **SHA2-256**: `a48b736b7bb47f251db41d827ca4d7024fb4882889178347d65276eddb153ca5`
   * **Raw image URLs**
@@ -1655,7 +1655,7 @@ Dress on red mannequin, angled ventral view of sleeve and strap.
 Photograph. 3024&times;3024.
 Exposure: 1/50s. F-stop: 1.8. Focal: 4.0 mm. Lens: iPhone 7 back camera 3.99mm f/1.8. Camera: iPhone 7. 
 Ventral view, hair positioned ventrally and obscuring wearer's left.
-*Kewthea lornaebis* wb. Lorna.R., 2020.
+*Kewpepla lornaebis* wb. Lorna.R., 2020.
 &copy; Lorna Rothery, 2020, all rights reserved.
 
 * **Page**: See @rothery_kew_2020-06
@@ -1664,7 +1664,7 @@ Ventral view, hair positioned ventrally and obscuring wearer's left.
   * **Original**: <https://lornarothery.com/wp-content/uploads/2020/06/img_8861.jpg>
   * **IA**: <https://web.archive.org/web/20260318102735/https://lornarothery.com/wp-content/uploads/2020/06/img_8861.jpg>
 
-**Description**: Shallow-angle V-neck. Ventral medial row of 4 buttons. **Buttons.** Wooden-like material, two thread holes, thread line vertical. Thread holes lie in circular inset. Sourced from Minerva. Bodice in UK size 8, sleeve significantly shortened, terminates roughly parallel to first button. Pleated gathered section immediately inferior to fourth button. **Fabric.** Meadow Dim in Rayon from Art Gallery Fabrics. R-46302. 76 g / m2. Floral, 9 species, no known correlation to any botanical taxa. Est. 0.5 m of fabric used.
+**Description**: Shallow angle V-neck. Ventral medial row of 4 buttons. **Buttons.** Wooden-like material, two thread holes, thread line vertical. Thread holes lie in circular inset. Sourced from Minerva. Bodice in UK size 8, sleeve significantly shortened, terminates roughly parallel to first button. Pleated gathered section immediately inferior to fourth button. **Fabric.** Meadow Dim in Rayon from Art Gallery Fabrics. R-46302. 76 g / m2. Floral, 9 species, no known correlation to any botanical taxa. Est. 0.5 m of fabric used.
 
 **Etymology**: *Lorna* + *-ae*, feminine genitive suffix + *-bis* "twice", as it is the second *Kewpepla* sp. from Rothery to be described.
 
@@ -1740,7 +1740,7 @@ Ventral view, subject looking up. Hair positioned ventrally, no important featur
 * ***Chantelle 2018.04KC*** &mdash;
 Photograph. 2238&times;3024.
 Exposure: unknown. F-stop: unknown. Focal: unknown. ISO: unknown. Lens: unknown. Camera: unknown. 
-Venntral view, subject looking slightly downward. Hair positioned ventrally, no important features obscured.
+Ventral view, subject looking slightly downward. Hair positioned ventrally, no important features obscured.
 *Kewthea chantellae* wb. Chantelle, 2018.
 &copy; Chantelle or unknown photographer, 2018, all rights reserved.
   * **Page**: See @cleary2018
@@ -1966,7 +1966,7 @@ Zoomed out ventral view. Subject at ease. Multiple buttons unfastened.
 * **Raw image URLs**:
   * **IA**: <https://web.archive.org/web/20260321151521/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/622827767_18343980316233138_7161215710540728918_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=MTgyMzUyMTU1NDM3ODk2NjYxMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTM1MC5zZHIuQzMifQ%3D%3D&_nc_ohc=6eiudw8PanYQ7kNvwFUn9vZ&_nc_oc=Adrus9lSjUSUaxhuJ4aOoM2_0wqtx5UaSOuwja6FYZLwHt36vbH3a5dnFcLS3-y-m6c&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=T6i1d0NsFhwF1OBVvhLqHA&_nc_ss=7a30f&oh=00_AfzOMwulSGsnROshWqlyEUzqJBE3cjDQopcQaEPdh8oizw&oe=69C47E5B>
 
-**Description**: Sleeves terminate superior to elbow at distal upper arm. Shallow-angle V neck. Skirt terminates slightly superior to knee, with gathering at bodice&ndash;skirt transition.
+**Description**: Sleeves terminate superior to elbow at distal upper arm. Shallow angle V neck. Skirt terminates slightly superior to knee, with gathering at bodice&ndash;skirt transition.
 **Buttons.** Ventral medial button row, 16 buttonholes. Buttons circular, two thread holes, thread line horizontal. Numerous buttons unfastened in holotype.
 **Fabric.** Black/dark background. Orange, pale orange, and caramel-colored print on fabric, low density. Unknown material.
 
@@ -1989,7 +1989,7 @@ Zoomed out ventral view. Subject at ease. Multiple buttons unfastened.
   * **Original**: <https://cdn.shopify.com/s/files/1/0725/7833/5029/files/IMG_0296-1.jpg>
   * **IA**: <https://web.archive.org/web/20260316191704/https://cdn.shopify.com/s/files/1/0725/7833/5029/files/IMG_0296-1.jpg>
 
-**Description**: Ventral medial row of 5 buttons. Terminates at transpyloric plane. Shallow-angle V-neck. Bilateral ventral lateral darts extend until parallel to third button. **Fabric.** Plain white.
+**Description**: Ventral medial row of 5 buttons. Terminates at transpyloric plane. Shallow angle V-neck. Bilateral ventral lateral darts extend until parallel to third button. **Fabric.** Plain white.
 
 **Etymology**: *Nina* + *-ae*, feminine genitive form.
 
@@ -2019,7 +2019,7 @@ All three species in *T.* subg. *Illecebrosus* are defined by the holotype *Rose
 
 **Holotype**: *Roseberry Trunkewia-1*, left panel.
 
-**Etymology**: Latin *rosa* "rose" + *crania*, psuedo-Latin feminine form of *cranium* "skull", from the features on the fabric.
+**Etymology**: Latin *rosa* "rose" + *crania*, pseudo-Latin feminine form of *cranium* "skull", from the features on the fabric.
 
 **Description**: Shallow angle V-neck. Bilateral single straps. Ventral medial button row of eight buttons. Bodice terminates between navel and pelvic area.
 **Fabric.** Black background, stylized skulls in a variety of facial expressions, multiple roses with full leaves (*Rosa* L.). Unknown material.
@@ -2041,7 +2041,7 @@ All three species in *T.* subg. *Illecebrosus* are defined by the holotype *Rose
 
 **Etymology**: Latin *viridis* "green".
 
-**Description**: Shallow angle V-neck. Bilateral single straps. Ventral medial button row of ~seven buttons. Bodice terminates between navel and superior to pelvic area.
+**Description**: Shallow angle V-neck. Bilateral single straps. Ventral medial button row of ~7 buttons. Bodice terminates between navel and superior to pelvic area.
 **Fabric.** Vaguely off-white background with multiple light green and dark blue/indigo patterns. Unknown material.
 
 ```{=latex}
@@ -2051,7 +2051,7 @@ All three species in *T.* subg. *Illecebrosus* are defined by the holotype *Rose
 ### Lorna Rothery {#sec-malkin}
 While examining the EXIF metadata of Rothery's images, we discovered the name *Lorna Malkin*. We have no information on this name, but suspect that it is one of Rothery's alternative names.
 
-Lorna's two *Kewpepla* makes had the same blog post titles; we were uncertain as to which was *Kewpepla lornae* and which was *Kewpepla lornaebis*. Given that *-bis* means "twice", we decided to name the tops in the May and June 2020 posts *lornae* and *lornaebis* respectively. Our internal MediaWiki site is also unclear on the distinction; we plan to formally resolve it in this paper.
+Lorna's two *Kewpepla* makes had the same blog post titles; we were uncertain as to which was *Kewpepla lornae* and which was *Kewpepla lornaebis*. Given that *-bis* means "twice", we decided to name the tops in the May and June 2020 posts *lornae* and *lornaebis* respectively, based on chronological order.
 
 ### Type specimen naming
 We also find it important to develop naming conventions for type specimen photographs. So far, we have settled on a convention of a single name for the wearer (either given or family), followed by either an alphanumeric identifier or numeric identifier, with the initials of the species in question suffixed for more disambiguation.
@@ -2098,7 +2098,7 @@ To determine the genera in which a Kew dress is placed:
 : Garment has skirt: Tribe Kewthini (07). Garment has no skirt: Genus *Kewpepla*.
 
 07
-: Garment has gathering at superior end of skirt: Genus *Kewthicasa* (26). Otherwise, genus *Kewthea* (27).
+: Garment has gathering at superior end of skirt: Genus *Kewthicata* (26). Otherwise, genus *Kewthea* (27).
 
 08
 : Straight skirt (same as default skirt in @chang-smith_kew_2017): genus *Kewisia* (10). Gathering at superior end: genus *Kewplicata* (11). Slight parabolic shape before shallow inward angle (as seen on the rightmost skirt of @chang-smith_kew_nodate): genus *Kewparabola* (12).
