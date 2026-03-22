@@ -816,6 +816,21 @@ Zoomed-out slightly angled ventral shot. Subject facing downward. Hair positione
 #### *Kewabotonia eleanorae* {#sec-k-eleanorae}
 ***Kewabotonia eleanorae*** Lemuria, 2026; first public desc.
 
+**Holotype**: *Eleanor 2018.64378KE* &mdash; Photograph. 1080&times;1350. EXIF metadata stripped. Ventral view of subject, leaning to her left. *Kewabotonia eleanorae* wb. Eleanor S. (W/2026 F3), 2018. &copy; Eleanor (&commat;eleanor_sews), 2018, all rights reserved.
+
+* **Page**: See @chang-smith_kew_2018 and @eleanor_s_2018
+* **SHA2-256**: `ef9c601074e50d251fd783834625e3b557eea2c25469ab806d6c8770a2b60c81`
+* **Raw image URLs**
+  * **IA**: <https://web.archive.org/web/20260322160151/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/628177705_18425150422142088_1243896957829664378_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=MTgzNjQ4MDI3NDgwMDg4OTc4Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTM1MC5zZHIuQzMifQ%3D%3D&_nc_ohc=AYZw5nr_JeAQ7kNvwEVrRVa&_nc_oc=AdpsMC6QhwWqg7H4F46bfnYuTqX5XDwKSmbcpzT2fvDBtEIq72qKaiD-4_poWLEmPOA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=313aaxPBB4Xxq6LhKBlOlQ&_nc_ss=7a32e&oh=00_Afys_Sq3qMq-DOFfNLGPQz-FJ6oLX_-V01hgwp_mJETibw&oe=69C5E251>
+
+**Description**: Shallow angle V-neck. Curved neckline medially. Bilateral single straps. Lack of ventral medial button row.
+**Skirt.** Skirt terminates superior to knee.
+**Fabric.** Unknown poly cotton. Cyan background. Floral; stylized depiction of flamingo (Phoenicopteridae Bonaparte, 1831) standing on *Hibiscus* &times; *rosa-sinensis* L.
+
+**Etymology**: *Eleanor* + *-ae*, feminine genitive suffix.
+
+**Specimens examined**: See holotype information.
+
 #### *Kewabotonia elsae* {#sec-k-elsae}
 ***Kewabotonia elsae*** Lemuria, 2026; first public desc.
 
@@ -2104,6 +2119,7 @@ In this paper, we used the following person abbreviations.
 * **Alice.Ir.** &mdash; Alice Irvine.
 * **Alice.W.** &mdash; Alice Wang (Instagram: &commat;alice_x_wang), author of the blog *Queen of Darts*.
 * **Bernice** &mdash; Bernice (Instagram: &commat;sewbee73), a sewist based in the San Francisco Bay Area.
+* **Eleanor S.** &mdash; Eleanor (Instagram: &commat;eleanor_sews). Abbreviation stands for *Eleanor Sews*.^[If a surname or second name being treated as a surname is being abbreviated to form a person abbreviation, a dot is placed between the first name and the initial. If a verb, noun, or other word from the person's handle or alias is being abbreviated, a regular space is used instead.]
 * **Emily of L.** &mdash; Emily, author of the blog *Self Assembly Required*. Abbreviation stands for *Emily of London*.
 * **Emma of N.** &mdash; Emma, author of the blog *Crafty Clyde*. Abbreviation stands for *Emma of Norfolk*.
 * **Erin.M.** &mdash; Erin Madalone (Instagram: &commat;poeticmemorysewing), an American sewist based in New Jersey.
@@ -2172,6 +2188,7 @@ We present a list of the image specimen identifiers we have assigned in this pap
 * *Emma 2019-001.HA*
 * *Emma 2019-001.HS*
 * *Emma K01.HQ*
+* *Eleanor 2018.64378KE*
 * *Eva 0098FV*
 * *Eva 0120KE*
 * *Eva 2947KE*
