@@ -12,12 +12,19 @@ $endif$
 $if(subtitle)$
 \usepackage{etoolbox}
 \makeatletter
-\providecommand{\subtitle}[1]{% add subtitle to \maketitle
+\providecommand{\subtitle}[1]{%
   \apptocmd{\@title}{\par {\large #1 \par}}{}{}
 }
 \makeatother
 \subtitle{$subtitle$}
 $endif$
-$-- This supports Quarto's authors normalization
-\author{$for(authors)$$it.name.literal$$sep$ \and $endfor$}
+
+$for(by-author)$
+\author[$for(it.affiliations)$$it.number$$sep$,$endfor$]{$it.name.literal$$if(it.acknowledgements)$\thanks{$it.acknowledgements$}$endif$}
+$endfor$
+
+$for(by-affiliation)$
+\affil[$it.number$]{$if(it.department)$$it.department$, $endif$$it.name$; $if(it.city)$$it.city$ $endif$, $if(it.country)$$it.country$ $endif$}
+$endfor$
+
 \date{$date$}
