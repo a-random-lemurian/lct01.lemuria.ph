@@ -1592,6 +1592,21 @@ Ventral view, hair positioned ventrally and obscuring wearer's left.
 #### *Kewpepla mariae* {#sec-kp-mariae}
 ***Kewpepla mariae*** sp. nov.
 
+**Holotype**: *Marie FR.80957KM* &mdash; Photograph. 1080&times;809. *Kewpepla mariae* laid out on table. &copy; &commat;la_ptite_marie3, 2018, all rights reserved.
+
+* **Page**: See @la_ptite_marie3_2018
+* **SHA2-256**: `3fa353cefbc7ab862b7695a661f84bf9997064e985792f5ac99e399f003a0c48`
+* **Raw image URLs**
+  * **IA**: <https://web.archive.org/web/20260322142053/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/629182385_18447910603096148_441175304354280957_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=MTc4NDAwODIyMzIwNDk5ODIzMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4ODA5LnNkci5DMyJ9&_nc_ohc=0RKgmEWatcMQ7kNvwE5d0e7&_nc_oc=AdpEiMGGgeiNlCzY2hNDE9koQSoLiioLyXsQYFTUK_wLPL6AXgY3DFIgpNy-kexEge0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=LrBodIhguAgDTJzr4G3kzA&_nc_ss=7a32e&oh=00_Afz_onYXQamv3Ej5KBfUXdksIQRjIb8afI__9BlMZO-pjw&oe=69C5B945>
+
+**Description**: Lack of skirt. Two distinct regions on bodice. On superior portion, bilateral ventral dart, from third button to border of inferior portion. White thread serging across top, dorsal interior.
+**Fabric.** Unknown material. Maroon-like color, plain.
+**Buttons.** Ventral medial row of 10 buttons. Metallic shank buttons, no visible thread holes.
+
+**Etymology**: *Marie* + *-ae*, feminine genitive suffix.
+
+**Specimens examined**: See holotype information.
+
 ### Genus *Kewthea* {#sec-genus-kewthea}
 ***Kewthea*** Lemuria, 2026; first public desc.
 
