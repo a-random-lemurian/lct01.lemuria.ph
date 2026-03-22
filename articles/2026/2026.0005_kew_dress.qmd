@@ -149,6 +149,39 @@ A tree is as follows:
         * Family Portobellidae
 :::
 
+```{=latex}
+\end{multicols}
+```
+
+#### Tree
+::: {#fig-polyphyletic}
+```{r}
+#| message: false
+#| fig-height: 8
+#| fig-width: 12
+
+library(ape)
+library(ggplot2)
+library(ggtree)
+
+kew = "(((((((Kewbellothea)Kewbellinae,(Kewpepla,(Kewthicata,Kewthea)Kewthini)Kewthinae)Kewthidae)Vecobotonia)Vecostola)Manubristenta,((((((Trunkewia)Trunkewinae,((Helikewbellia)Helikewbellini,(Helikewabotonia,Helikewparabola,Helikewplicata,Helikewisia)Helikewini)Helikewinae)Helikewidae)Helinina)Helistola)Scapamanica,((((((Kewplicata,Kewparabola,Kewisia)Kewidae,((Kewasalia)Kewasalinae,(Florankewia,Kewabotonia)Plesikewinae)Plesikewidae)Kewoidea)Biligabotonia)Biligamentum)Bilourida)Umerostentida)Scapunatoria)Abtruncusa,(((((((Kewplicasa,Kewparacasa,Kewisicasa)Kewcasaceae)Ventracasales)Ventracasidna)Botonicasida)Castula)Suprapatella)Subpelvia)Vestimentia;"
+
+tree <- read.tree(text = kew)
+
+ggtree(tree, layout = "rectangular") +
+  geom_tiplab(size = 3, fontface = "italic") +
+  geom_text(data = td_filter(!isTip), aes(label = label),
+            size = 2, hjust = 1.1, vjust = -0.4) +
+  hexpand(0.5) + vexpand(0.8)
+```
+
+An expanded polyphyletic tree of the Kew dresses.
+:::
+
+```{=latex}
+\begin{multicols}{2}
+```
+
 #### Taxonomic history
 Lemuria discovered the Kew dress through a 2017 video by the American YouTuber and vlogger Kristin Lehrer, known online as Voolenvine (see @lehrer_voolenvvlog_2018). In the video, she wore a Kew dress, and in the description included a link to Nina Lee's website for the pattern. This Kew dress is now known as *Kewisia kristinae* Lemuria, 2026.
 
@@ -353,10 +386,6 @@ The URL for the query is as follows: <https://filmot.com/search/(cue%20%7C%20kew
 During work on this paper, we authored a small Golang command-line tool to read EXIF metadata from photos to automatically fill in certain details, such as focal length, f-stop, and exposure, to save time and allow us to focus on writing descriptions and examining the specimens.
 
 The code is rudimentary and unpolished, but we hope to release it eventually to allow transparency and reproducibility.
-
-```{=latex}
-\newpage
-```
 
 ## Species descriptions
 We also present additional species descriptions of the taxa we have covered.
@@ -2016,10 +2045,6 @@ All three species in *T.* subg. *Illecebrosus* are defined by the holotype *Rose
 **Fabric.** Vaguely off-white background with multiple light green and dark blue/indigo patterns. Unknown material.
 
 ```{=latex}
-\newpage
-```
-
-```{=latex}
 \begin{multicols}{2}
 ```
 ## General remarks
@@ -2108,32 +2133,7 @@ To determine the genera in which a Kew dress is placed:
 22, 23, 24, 25, 26, 27
 : End.
 
-## Appendix 
-### Tree
-::: {#fig-polyphyletic}
-<!-- ![](https://static.lemuria.ph/lct01/kew-kewbello-extended-tree.png) -->
-```{r}
-#| message: false
-#| fig-height: 8
-#| fig-width: 12
-
-library(ape)
-library(ggplot2)
-library(ggtree)
-
-kew = "(((((((Kewbellothea)Kewbellinae,(Kewpepla,(Kewthicata,Kewthea)Kewthini)Kewthinae)Kewthidae)Vecobotonia)Vecostola)Manubristenta,((((((Trunkewia)Trunkewinae,((Helikewbellia)Helikewbellini,(Helikewabotonia,Helikewparabola,Helikewplicata,Helikewisia)Helikewini)Helikewinae)Helikewidae)Helinina)Helistola)Scapamanica,((((((Kewplicata,Kewparabola,Kewisia)Kewidae,((Kewasalia)Kewasalinae,(Florankewia,Kewabotonia)Plesikewinae)Plesikewidae)Kewoidea)Biligabotonia)Biligamentum)Bilourida)Umerostentida)Scapunatoria)Abtruncusa,(((((((Kewplicasa,Kewparacasa,Kewisicasa)Kewcasaceae)Ventracasales)Ventracasidna)Botonicasida)Castula)Suprapatella)Subpelvia)Vestimentia;"
-
-tree <- read.tree(text = kew)
-
-ggtree(tree, layout = "rectangular") +
-  geom_tiplab(size = 3, fontface = "italic") +
-  geom_text(data = td_filter(!isTip), aes(label = label),
-            size = 2, hjust = 1.1, vjust = -0.4) +
-  hexpand(0.5) + vexpand(0.8)
-```
-
-An expanded polyphyletic tree of the Kew dresses.
-:::
+## Appendix
 
 ### Person abbreviations
 In this paper, we used the following person abbreviations.
@@ -2301,9 +2301,11 @@ We thank the people of the Coffee Shop on [4d2.org](https://4d2.org), where our 
 
 **Disclaimer**: *Lemuria's (Informal) Journal of Clothing Taxonomy* is a non-peer-reviewed, single-author, citizen science/gray literature publication with no institutional backing.
 
-Publisher article ID: 2026.0005
+Publisher article ID: lict2026.0005
 
 At publication, the journal did not have a DOI prefix.
+
+Work began on the paper on 2026-03-14. Descriptions were completed and proofreading began on 2026-03-23.
 
 Visit us at: <https://lct01.lemuria.ph>
 
