@@ -1153,6 +1153,23 @@ Fabric and buttons of *Kewisia kristinae* pre-assembly.
 #### *Kewisia latae* {#sec-k-latae}
 ***Kewisia latae*** Lemuria, 2026; first public desc.
 
+**Holotype**: *Vic 91147KL* &mdash; 1080&times;1080. EXIF metadata stripped. Collage compiled by Nina; left panel shows ventral view; hair positioned mostly dorsally with some strands obscuring wearer's left strap. Right panel shows lateral angled view; hair positioned almost entirely dorsally. *Kewisia latae* wb. Vic.B., 2017. &copy; Vic Broad (&commat;sewvee), 2017, all rights reserved.
+
+* **Page**: See @broad_and_changsmith2017
+* **SHA2-256**: `dacf00ee1e4e44c1e96f9675f0e0a13cf104eeb1f3ed7993edb52b4c076bea58`
+* **Raw image URLs**:
+  * **IA**: <https://web.archive.org/web/20260322191235/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/621826096_18390981547194776_7014351964259491147_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=MTU4OTE1NjM2MDI4MDEwMTAyNg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=8KeAJuReNDsQ7kNvwGWv1y1&_nc_oc=AdpWtE619fPbFBwhaJ_TL0sLGwznfOpPT52O_Se5fbbSZ70NjHiZxsorUB8SNX62Hpg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=qD3sWwcVdqigJXrpW9zxHg&_nc_ss=7a32e&oh=00_AfyN3DFPiTcKPQaCWqmur-pTiAGgcErO5X7Xz_jZ65W1nw&oe=69C6004B>
+
+**Description**: Shallow-angle V neck. Bilateral single straps. Skirt terminates inferior to knee.
+**Buttons.** Ventral medial button row. 15 visible buttons. Circular, black, unknown number of thread holes; yellow thread seen at center.
+**Fabric.** Unknown material. African wax print / Ankara print; network of black and white line shapes with central square and four protrusions curved at edges, connected by curved yellow lines. Highly superficial resemblance to ripe bananas (fruit produced by *Musa* L.), but likely unintentional on the part of the designer. Consistent grid of horizontal and vertical spaces with thin black lines curving between black and white line shapes. Horizontally, orange blots on white background, and vertically, moss green blots on white background.
+
+**Etymology**: Attempted Latinization of the last name Broad to Latin *latus* "broad", with its feminine form *lata* combined with *-ae*, feminine genitive suffix.
+
+**Remarks**: Vic Broad's account (&commat;sewvee) is private, though imagery of *Kewisia latae* is available on the official Nina Lee Instagram account (&commat;ninaleelondon).
+
+**Specimens examined**: See holotype information.
+
 #### *Kewisia lizae* {#sec-k-lizae}
 ***Kewisia lizae*** Lemuria, 2026; first public desc.
 
@@ -2144,6 +2161,7 @@ In this paper, we used the following person abbreviations.
 * **Sarah.D.** &mdash; Sarah Donnison (Instagram: &commat;sewsarahstitch), the *Sewist Organiser*^[The *Journal* uses Philippine English, which is based on American English. We preserve the original spelling of the rank here.]
 * **Sarah's S.C.** &mdash; Sarah (Instagram: &commat;sarahssewingchronicles), a Minerva ambassador. Abbreviation stands for *Sarah's Sewing Chronicles*.
 * **Stéphanie.T.** &mdash; Stéphanie Terranova / Terranova Stéphanie. Order of name elements unknown.
+* **Vic.B.** &mdash; Vic Broad (Instagram: &commat;sewvee), author of the blog *Sewvee*.
 ```{=latex}
 \end{multicols}
 ```
@@ -2259,6 +2277,7 @@ We present a list of the image specimen identifiers we have assigned in this pap
 * *Sarah 0088HS.AU-TAS*
 * *Sarah D-2019.44536KS*
 * *Sarah SC.12274KS*
+* *Vic 91147KL*
 * *Yarngasm 281* (V)
 ```{=latex}
 \end{multicols}
