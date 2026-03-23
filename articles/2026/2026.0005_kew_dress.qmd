@@ -2169,7 +2169,7 @@ For these cases, a numerical identifier system based on comet naming may be most
 ```
 
 ## Identification key
-To determine the genera in which a Kew dress is placed:
+To determine the genus in which a Kew dress is placed:
 
 01
 : Shoulders exposed: 02; Shoulders covered: family Kewthidae (03).
