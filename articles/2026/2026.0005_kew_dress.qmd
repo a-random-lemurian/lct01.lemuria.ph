@@ -383,7 +383,7 @@ f293048f656688883ee919eb3f4b12926aaa13362de0eb6e3b5716b915b18b35  /usr/bin/sha25
 ### Filmot and YouTube
 In taxonomizing *K. kristinae* (see @sec-k-kristinae), we used `yt-dlp`, a command-line tool, to download Lehrer's videos. We include terminal output in the *K. kristinae* section for how each file was downloaded and processed, instead of here.
 
-To locate other videos on Lehrer's channel where she discussed her Kew dress, we used the service Filmot, which indexes captions both automatic and manual, across some, according to its self-reported figures, 1.35 billion videos and 78 million videos.
+To locate other videos on Lehrer's channel where she discussed her Kew dress, we used the service Filmot, which indexes captions both automatic and manual, across some, according to its self-reported figures, 1.35 billion videos and 78 million channels.
 
 We used the query `(cue | kew | q) NEAR\10 dress`. YouTube's automatic captioning system frequently mishears "Kew" as "Q", "queue", or "cue", hence the parenthetical.
 
@@ -502,7 +502,7 @@ Zoomed out ventral view, river in background, outdoors. Worn under unclassified 
 **Holotype**: *Emma 2019-001.HS* &mdash;
 Photograph. 1102&times;2048.
 EXIF metadata stripped. 
-*Helikewabotonia stabile* wb. Emma of N., 2019.
+*Helikewabotonia stadile* wb. Emma of N., 2019.
 &copy; Emma of *Crafty Clyde*, 2019, all rights reserved.
 
 * **Page**: See @emma2019
@@ -636,7 +636,7 @@ Angled ventral view, roughly 45&deg; horizontal, 45&deg; vertical, subject on st
 
 #### *Helikewisia kristinae* {#sec-h-kristinae}
 <!-- PROOFREAD 2026-03-23 -->
-***Helikewisia kristinae*** Lemuria, sp. nov.
+***Helikewisia kristinae*** sp. nov.
 
 **Holotype**: *Lehrer 2018.88823HKEW* &mdash; Photograph. 1080&times;1350. EXIF metadata stripped by Meta CDN.
 Truncated ventral view, subject facing slightly downward.
@@ -693,6 +693,8 @@ Photograph. 1080&times;1350. EXIF metadata stripped by Meta CDN.
     * **IA**: <https://web.archive.org/web/20260319154052/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.2885-15/32203412_2115508038733054_3655784219990294528_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=MTc4NjUyMjU5NjAxMjA3MjI3OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTM1MC5zZHIuZGVmYXVsdF9pbWFnZS5DMyJ9&_nc_ohc=dRqDySO0u6wQ7kNvwGU3ovf&_nc_oc=AdpJH8WTAbtySRnddi8ij7ZEKr1SK1zXI-bvBZnBI0-NjGnQ9LIqTxoa0MFQsob6pS4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_ss=8&oh=00_AfxJnBJAutMp2fVzH8EAgnz_7LFzuzcHFbMpNxCX43ICGA&oe=69C1D48D>
 
 #### *Helikewisia mariae* {#sec-h-mariae}
+***Helikewisia mariae*** sp. nov.
+
 <!-- PROOFREAD 2026-03-23 -->
 **Holotype**: *Maria 0001HM* &mdash; Photograph. 1454&times;2560. EXIF metadata stripped.
 *Helikewisia mariae* wb. Maria (pattern tester; W/2026 F1^[An "Unnamable Human(oid) Center" identifier, assigned for disambiguation purposes.]), c. 2023.
@@ -1071,7 +1073,7 @@ Ventral view. Hair mostly positioned dorsally, with slight amount of hair obscur
 * Instagram specimens exist for *K. bernicae*, but due to the instability and non-reproducibility of image retrievals from Facebook's CDN, as discussed in @sec-h-erinae, we have decided to prioritize reproducibility for *Kewisia bernicae*.
 * Minerva processes JPG images using gd-jpeg v1.0, with quality set to 100; `CREATOR: gd-jpeg v1.0 (using IJG JPEG v62), quality = 100`.
 * In @bernice_hello_2020, Bernice writes that her husband is Dutch, and as a result, prefers fabrics with tulips.
-* Bernice also reported that some of the images showed the red pencil marks she had placed to mark buttonhole locations; she washed the dress, ironed it, and retool photographs.
+* Bernice also reported that some of the images showed the red pencil marks she had placed to mark buttonhole locations; she washed the dress, ironed it, and retook photographs.
 
 **Specimens examined**:
 
@@ -1188,7 +1190,7 @@ Ventral view, Lehrer looking down.
 **Buttons.** Ventral medial row of 15 buttons. Buttons reflective, two thread holes, floral decorations. Background brownish in color. Black thread sewn through. Thread hole alignment variable, thread line of second button est. 20&deg;.
 **Fabric.** Black fabric. Floral patterns, featuring ferns (botanical division Polypodiophhyta and class Polypodiopsida <small>Cronquist, Takht. & W.Zimm.</small>)
 
-**Etymology**: *Kristin* + *-ae* feminine genitive prefix.
+**Etymology**: *Kristin* + *-ae* feminine genitive suffix.
 
 **Remarks**
 
@@ -1516,7 +1518,7 @@ Angled ventral view, wearer's right.
 * ***Rachael 2018.KL11*** &mdash;
 Photograph. 1952&times;3333.
 Exposure: 1/50s. F-stop: 1.7. Focal: 4.20 mm. ISO: unknown. Lens: unknown. Camera: `SM-G950F`.
-Slightly angled ventral view. hair positioned ventrally and obscuring straps on wearer's left.
+Slightly angled ventral view. Hair positioned ventrally and obscuring straps on wearer's left.
 *Kewisia rachaelae* wb. Rachael, 2018.
 &copy; Rachael Beaumont or unknown photographer, 2018, all rights reserved.
   * **Page**: See @beaumont_kew_2018
@@ -1586,6 +1588,7 @@ Ventral view, zoomed out, subject standing straight, hair positioned dorsally.
 **Holotype**: *Alice 88719KR* &mdash; Photograph. 1334&times;2000. EXIF metadata stripped.
 Ventral view. Hair positioned ventrally, wearer's right strap obscured.
 *Kewisia reginarunae* wb. Alice.W., 2021.
+&copy; Alice Wang or unknown photographer, 2021, all rights reserved.
 
 * **Page**: See @wang2021
 * **SHA2-256**: `94067b4af92cf45d7aaf9432f81c9e6a5c1093c3ef49c8b055145385551d2579`
@@ -1803,7 +1806,7 @@ Ventral view, subject looking up. Hair positioned ventrally, no important featur
   * **SHA2-256**: `9e05b1f7611cba990c075f4f471aead5662ac39d96876e6f8712757f39b2c938`
   * **Raw image URLs**
     * **Original**: <https://cdn.shopify.com/s/files/1/2211/5041/files/chantelle2.jpg?v=1524850863>
-    * **IA**: <https://web.archive.org/web/20260318172030/https://cdn.shopify.com/s/files/1/2211/5041/files/chantelle2.jpg?v=15s24850863>
+    * **IA**: <https://web.archive.org/web/20260318172030/https://cdn.shopify.com/s/files/1/2211/5041/files/chantelle2.jpg?v=1524850863>
 
 <!-- File: chantelle4.jpg?v=1524850906 (HOLOTYPE INFO TEMPLATE FROM LCT01-HOLOTYPER)-->
 * ***Chantelle 2018.04KC*** &mdash;
@@ -2134,14 +2137,17 @@ All three species in *T.* subg. *Illecebrosus* are defined by the holotype *Rose
 ```
 ## General remarks
 ### Lorna Rothery {#sec-malkin}
-While examining the EXIF metadata of Rothery's images, we discovered the name *Lorna Malkin*. We have no information on this name, but suspect that it is one of Rothery's alternative names.
+<!-- PROOFREAD 2026-03-23 -->
+While examining the EXIF metadata of Rothery's images, we discovered the name *Lorna Malkin*. We have no information on this name.
 
 Lorna's two *Kewpepla* makes had the same blog post titles; we were uncertain as to which was *Kewpepla lornae* and which was *Kewpepla lornaebis*. Given that *-bis* means "twice", we decided to name the tops in the May and June 2020 posts *lornae* and *lornaebis* respectively, based on chronological order.
 
 ### Type specimen naming
+<!-- PROOFREAD 2026-03-23 -->
 We also find it important to develop naming conventions for type specimen photographs. So far, we have settled on a convention of a single name for the wearer (either given or family), followed by either an alphanumeric identifier or numeric identifier, with the initials of the species in question suffixed for more disambiguation.
 
 ### Per-site archival considerations
+<!-- PROOFREAD 2026-03-23 -->
 Certain websites presented issues during archival; for example, WordPress.com blogs and Meta CDN URLs.
 
 Meta's CDN generates temporary image URLs and appears to serve different-sized versions at random depending on the user and browser; furthermore, URL signing and expiry worsens this problem. However, the Internet Archive is capable of ingesting these temporary URLs, meaning that while the original Meta URL will rot, immediately submitting it to Save Page Now will trigger archival.
@@ -2149,6 +2155,7 @@ Meta's CDN generates temporary image URLs and appears to serve different-sized v
 Many blogs hosted on WordPress.com tend to serve HTML previews of images, despite URLs ending in .jpg or other image file formats. How WordPress.com chooses to serve either raw images or HTML page previews is unpredictable. Content negotiation, while possible, complicates archival. However, the Archive Team has crawlers capable of retrieving the content properly; we thus use WARCs generated by their crawlers as a fallback for when Wayback Machine capture fails.
 
 ### Long-term name disambiguation
+<!-- PROOFREAD 2026-03-23 -->
 On the Internet, and especially the sewing community we document in detail, it is common to only be known mononymically, such as by a first name. The author, Lemuria himself is an example; though "Lemuria" is not his legal given name. The large number of sewists online mean that statistically, collisions are very likely; as an example, the three species *Kewisia sarae*, *Kewabotonia sarae*, and *Helikewisia sarae* were all worn by entirely different people named Sarah.
 
 Often, sewists' last names can be identified through OSINT work, but this has privacy implications, especially when these names are disseminated in a system meant for long-term archival such as the taxonomy and the *Journal*. As such, in place of last names, the LCT-01 has started assigning locational disambiguators to people, based on their locations or their blogs; for example, the sewist Sarah, from Brooklyn, and known on Instagram as &commat;sarahssewingchronicles, has the LCT-01 person abbreviation *Sarah's S.C.*
