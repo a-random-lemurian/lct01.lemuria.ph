@@ -8,7 +8,7 @@ author:
 license: CC BY-SA
 journal:
   title: "Lemuria's (Informal) Journal of Clothing Taxonomy"
-# date: 2026-03-17
+date: 2026-03-21
 lang: en
 execute: 
   freeze: true
@@ -22,7 +22,7 @@ citation:
   author: Lemuria
   # citation-key: lemuria_kew_2026
   title: "*Gunnelaurentia* genus nova (Biligamentum: Biligasimplicia: Bisigunnidae)"
-  original-date: 2026-03-19
+  original-date: 2026-03-21
   publisher: Lemuria
   # article-id: lict2026.0005
   publisher-place: Philippines
@@ -41,7 +41,7 @@ keywords: simplicity 9015, lauren johnson, home sewing, vintage sewing, gunnelau
 ```
 
 ## Background
-In 1979, Simplicity released a pattern numbered 9015, an off-shoulder dress featuring bilateral single straps with a medial ribbon (referred to in the pattern as "shoulder ties"). There exist multiple Simplicity patterns numbered 9015; hereafter, we use the term "Simplicity 9015" to mean only the pattern from Gunne Sax released by Simplicity, numbered 9015.
+In 1979, Simplicity, one of the Big Four, released a pattern numbered 9015, an off-shoulder dress featuring bilateral single straps with a medial ribbon (referred to in the pattern as "shoulder ties"). There exist multiple Simplicity patterns numbered 9015; hereafter, we use the term "Simplicity 9015" to mean only the pattern from Gunne Sax released by Simplicity, numbered 9015.
 
 ### Lauren Johnson
 Lauren Johnson (Instagram: &commat;justlaurenjohnson) is an American sewist from Little Rock, Arkansas. She owns the indie pattern company Bouquet Pattern Co. (<https://bouquetclothing.com>), which sells three sewing patterns so far, none of which have received taxonomic treatments.
@@ -57,7 +57,7 @@ In July 2024, Johnson began sewing the dress for her birthday [@johnson_i_2024].
 As the pattern was not to her size, she graded the pattern. She created a toile (muslin^[The American English term. "Toile" is the standard LCT-01 term.]) using an old bedsheet for the bodice and lining. The toile was eventually incorporated into the main garment as the lining..
 
 ### Taxonomic history
-We discovered *Gunnelaurentia johnsonia* through browsing the social media presence of the American sewist Lauren Johnson, who we discovered while researching Nina Lee's Kew dress for our March 2026 monograph (see ). In 2018, she sewed a Kew dress with flutter sleeves, most similar to *Helikewisia* Lemuria, 2026 and *incertae sedis* within Kewthea; which was featured on Nina Lee's blog []. Further research into Johnson led to the discovery of *Gunnelaurentia*, which we now describe in this paper.
+We discovered *Gunnelaurentia johnsonia* through browsing the social media presence of the American sewist Lauren Johnson, who we discovered while researching Nina Lee's Kew dress for our March 2026 monograph (see ). In 2018, she sewed a Kew dress with flutter sleeves, most similar to *Helikewisia* Lemuria, 2026 and *incertae sedis* within Kewthea; which was featured on Nina Lee's blog [@changsmith_kew_2018]. Further research into Johnson led to the discovery of *Gunnelaurentia*, which we now describe in this paper.
 
 We describe the new suborder Biligasimplicia, containing the family Bisigunnidae, which contains the new monotypic genus *Gunnelaurentia*, and the species *Gunnelaurentia johnsonia*.
 
@@ -68,6 +68,7 @@ We describe the new suborder Biligasimplicia, containing the family Bisigunnidae
 ```{=latex}
 \newpage
 ```
+
 ## Methods
 The author conducted his research on a computer running Ubuntu 24.04, with the XFCE desktop environment. He used the SHA2-256 algorithms to compute the cryptographic hashes of the photographic specimens he examined for species descriptions. He used Firefox 139.0.4, Ristretto 0.13.1, and Quarto 1.9.35. His monitor is a 55.8 cm (22 in) wide, 30.48 cm (12 in) tall, 63.5 cm (25 in) diagonal monitor, the NVISION S2515-B 25" IPS with a 100Hz refresh rate. He is not colorblind. He is near sighted and wears glasses.
 
@@ -149,6 +150,16 @@ f293048f656688883ee919eb3f4b12926aaa13362de0eb6e3b5716b915b18b35  /usr/bin/sha25
 ### Person abbreviations
 In this paper, we establish the new person abbreviation ***Lauren.J.*** for Lauren Johnson.
 
+### Image specimens
+* *Lauren SGS9015.2024.72419GJ*
+* *Lauren SGS9015.2024.10443GJ*
+* *Lauren SGS9015.2024.12171GJ*
+* *Lauren SGS9015.2024.27800GJ*
+* *Lauren SGS9015.2024.71406GJ*
+
+### Acknowledgements
+We thank Lauren Johnson for sharing her sewing process and her creativity with the world on her social media pages. And we thank Nina Lee for creating the pattern that triggered the butterfly effect that led us to discover Lauren Johnson's flutter-sleeve Kew dress and eventually, *Gunnelaurentia johnsonia*.
+
 ### Information
 *Lemuria's (Informal) Journal of Clothing Taxonomy* is the gray literature journal of the First Lemurian Clothing Taxonomy, a system by Lemuria to assign Latin names to dresses using biological methods. The author, known mononymically as just Lemuria, is an Filipino programmer and independent gray literature researcher from Manila.
 
@@ -157,6 +168,8 @@ In this paper, we establish the new person abbreviation ***Lauren.J.*** for Laur
 <!-- Publisher article ID: 2026.0005 -->
 
 At publication, the journal did not have a DOI prefix.
+
+Work on this paper began 2026-03-21.
 
 Visit us at: <https://lct01.lemuria.ph>
 
