@@ -2,7 +2,8 @@
 title: "*Gunnelaurentia* genus nova (Umerostentida: Bilourida: Biligamentum: Bisigunnidae)"
 author:
   name: Lemuria
-  affiliation: Independent researcher; Manila, Philippines
+  affiliation:
+    - name: Independent researcher; Manila, Philippines
   email: lemuria@lemuria.ph
 license: CC BY-SA
 journal:
@@ -40,15 +41,20 @@ keywords: simplicity 9015, lauren johnson, home sewing, vintage sewing, gunnelau
 ```
 
 ## Background
-In 1979, Simplicitly released a pattern numbered 9015, an off-shoulder dress featuring bilateral single straps with a medial ribbon (referred to in the pattern as "shoulder ties"). There exist multiple Simplicity patterns numbered 9015; hereafter, we use the term "Simplicity 9015" to mean only the pattern from Gunne Sax released by Simplicity, numbered 9015.
+In 1979, Simplicity released a pattern numbered 9015, an off-shoulder dress featuring bilateral single straps with a medial ribbon (referred to in the pattern as "shoulder ties"). There exist multiple Simplicity patterns numbered 9015; hereafter, we use the term "Simplicity 9015" to mean only the pattern from Gunne Sax released by Simplicity, numbered 9015.
 
 ### Lauren Johnson
 Lauren Johnson (Instagram: &commat;justlaurenjohnson) is an American sewist from Little Rock, Arkansas. She owns the indie pattern company Bouquet Pattern Co. (<https://bouquetclothing.com>), which sells three sewing patterns so far, none of which have received taxonomic treatments.
 
 In 2018, she created the blog *Bouquet*, which while no longer live, remains available on the Internet Archive's Wayback Machine. On YouTube, as &commat;LaurenJohnson (<https://www.youtube.com/channel/UCY3XsTBr0lJPMXqk4S5FX8g>), she has ~60,000 subscribers and ~570 videos.
 
+#### Equipment
+As seen in @johnson2024, Johnson owns a Kenmore sewing machine.
+
 #### Sewing the dress
 In July 2024, Johnson began sewing the dress for her birthday [@johnson_i_2024]. She also released a 26-minute YouTube video, *SEWING MY BIRTHDAY DRESS! Vintage Gunne Sax Meets Bridgerton: Sew with Me!*^[Emojis removed due to font incompatibility.]
+
+As the pattern was not to her size, she graded the pattern. She created a toile (muslin^[The American English term. "Toile" is the standard LCT-01 term.]) using an old bedsheet for the bodice and lining. The toile was eventually incorporated into the main garment as the lining..
 
 ### Taxonomic history
 We discovered *Gunnelaurentia johnsonia* through browsing the social media presence of the American sewist Lauren Johnson, who we discovered while researching Nina Lee's Kew dress for our March 2026 monograph (see ). In 2018, she sewed a Kew dress with flutter sleeves, most similar to *Helikewisia* Lemuria, 2026 and *incertae sedis* within Kewthea; which was featured on Nina Lee's blog []. Further research into Johnson led to the discovery of *Gunnelaurentia*, which we now describe in this paper.
@@ -61,6 +67,25 @@ We describe the new suborder Biligasimplicia, containing the family Bisigunnidae
 
 ```{=latex}
 \newpage
+```
+## Methods
+The author conducted his research on a computer running Ubuntu 24.04, with the XFCE desktop environment. He used the SHA2-256 algorithms to compute the cryptographic hashes of the photographic specimens he examined for species descriptions. He used Firefox 139.0.4, Ristretto 0.13.1, and Quarto 1.9.35. His monitor is a 55.8 cm (22 in) wide, 30.48 cm (12 in) tall, 63.5 cm (25 in) diagonal monitor, the NVISION S2515-B 25" IPS with a 100Hz refresh rate. He is not colorblind. He is near sighted and wears glasses.
+
+The versions of the `sha256sum` and `openssl` utilities on his system at the time of the paper are given in the below terminal output:
+```
+$ sha256sum --version
+sha256sum (GNU coreutils) 9.4
+Copyright (C) 2023 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <https://gnu.org/licenses/gpl.html>.
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+
+Written by Ulrich Drepper, Scott Miller, and David Madore.
+$ openssl --version
+OpenSSL 3.5.0 8 Apr 2025 (Library: OpenSSL 3.5.0 8 Apr 2025)
+$ sha256sum /usr/bin/sha256sum /usr/bin/openssl
+f293048f656688883ee919eb3f4b12926aaa13362de0eb6e3b5716b915b18b35  /usr/bin/sha256sum
+724acbe911513d13f52bae0b8969b20336cd8618fc67898a6bf7847bf1a270ad  /usr/bin/openssl
 ```
 
 ## Species description
@@ -96,21 +121,36 @@ We describe the new suborder Biligasimplicia, containing the family Bisigunnidae
 #### *Gunnelaurentia johnsonia* {#sec-g-johnsonia}
 ***Gunnelaurentia johnsonia*** Lemuria, 2026, sp. nov.
 
-**Holotype**: *Lauren 2018.SGS9015-01* &mdash;
+**Holotype**: *Lauren SGS9015.2024.72419GJ*^[SGS stands for "Simplicity Gunne Sax".] &mdash; Photograph. 1440&times;1800. Ventral view. Subject's head slightly angled, her left arm raised and curved on neck; hair tied dorsally. *Gunnelaurentia johnsonia* wb. Lauren.J., 2024. &copy; Lauren Johnson or unknown photographer, 2024, all rights reserved.
+
+**Description**: Off-shoulder dress. Skirt terminates at ankle-level (maxi). Elastic at superior edge of bodice. Flounce hangs from sleeve, terminating within distal upper arm. Terminates superior to bust when arms adducted. Blue satin elastic ribbon with lateral stitches, and lace trim from JoAnn at inferior end. Two elastic bands inferior to inframammary fold. Dorsal medial zipper. Dorsal fabric band with bow-like tie slightly lateral to zipper, on wearer's left. Fabric band drapes inferiorly and terminates around gluteal region.
+**Straps.** Bilateral single straps, ribbon tied medially. No adjustment clips. Straps run at slight diagonal angle across scapula.
+**Fabric.** Bridgerton cotton from Liberty Fabrics. Floral. Bouquets of yellow and red flowers tied at stems with blue ribbon tied as a bow. No known correspondence to biological taxa.
 
 **Etymology**: *Johnson* + *-ia*, feminine suffix.
 
-**Description**: Off-shoulder dress. Skirt terminates at ankle-level. Elastic at superior edge of bodice. Flounce hangs from sleeve, terminating within distal upper arm. Terminates superior to bust when arms adducted. Blue elastic with lateral stitches, and lace trim at inferior end. Two elastic bands inferior to inframammary fold. Dorsal medial zipper. Dorsal fabric band with bow-like tie slightly lateral to zipper, on wearer's left. Fabric band drapes inferiorly and terminates freely.
-**Straps**: Bilateral single straps, ribbon tied medially. No adjustment clips. Straps run at slight diagonal angle across scapula.
-**Fabric**: Bridgerton cotton from Liberty Fabrics. Floral. Bouquets of yellow and red flowers tied at stems with blue ribbon tied as a bow. No known correspondence to biological taxa.
+**Remarks**:
+
+* Johnson acquired the lace trim on clearance for US$2.49 at JoAnn Fabrics, which fully closed in May 2025, ~11 months after she published her video on sewing *G. johnsonia*.
+
+**Specimens examined**:
+
+* Holotype.
+* ***Lauren SGS9015.2024.10443GJ*** &mdash; Photograph. 1440&times;1800. EXIF metadata stripped. Ventral view. Subject facing her left. Arms fully adducted. Hair tied dorsally.  *Gunnelaurentia johnsonia* wb. Lauren.J., 2024. &copy; Lauren Johnson or unknown photographer, 2024, all rights reserved.
+* ***Lauren SGS9015.2024.12171GJ*** &mdash; Photograph. 1440&times;1800. EXIF metadata stripped. Left lateral view. Subject facing forward. Arms fully adducted. Hair tied dorsally. *Gunnelaurentia johnsonia* wb. Lauren.J., 2024. &copy; Lauren Johnson or unknown photographer, 2024, all rights reserved.
+* ***Lauren SGS9015.2024.27800GJ*** &mdash; Photograph. 1440&times;1800. EXIF metadata stripped. Angled left dorsal view. *Gunnelaurentia johnsonia* wb. Lauren.J., 2024. &copy; Lauren Johnson or unknown photographer, 2024, all rights reserved.
+* ***Lauren SGS9015.2024.71406GJ*** &mdash; Photograph. 1440&times;1795. EXIF metadata stripped. Truncated dorsal view, from superior hemline to approximately the gluteal region. Dorsal ties shown tied and draping to gluteal region. Dorsal zipper fully fastened. *Gunnelaurentia johnsonia* wb. Lauren.J., 2024. &copy; Lauren Johnson or unknown photographer, 2024, all rights reserved.
 
 ```{=latex}
 \newpage
 ```
 
 ## Appendix
+### Person abbreviations
+In this paper, we establish the new person abbreviation ***Lauren.J.*** for Lauren Johnson.
+
 ### Information
-*Lemuria's (Informal) Journal of Clothing Taxonomy* is the gray literature journal of the First Lemurian Clothing Taxonomy, a system by Lemuria to assign Latin names to dresses using biological methods. The author, known mononymically as just Lemuria, is a Filipino programmer and gray literature researcher.
+*Lemuria's (Informal) Journal of Clothing Taxonomy* is the gray literature journal of the First Lemurian Clothing Taxonomy, a system by Lemuria to assign Latin names to dresses using biological methods. The author, known mononymically as just Lemuria, is an Filipino programmer and independent gray literature researcher from Manila.
 
 **Disclaimer**: *Lemuria's (Informal) Journal of Clothing Taxonomy* is a non-peer-reviewed, single-author, citizen science/gray literature publication with no institutional backing.
 
