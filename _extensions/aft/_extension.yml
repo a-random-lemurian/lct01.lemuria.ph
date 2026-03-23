@@ -16,6 +16,7 @@ contributes:
         opts_chunk:
           echo: false
     pdf:
+      pdf-engine: xelatex
       mainfont: Gentium Book Plus
       sansfont: Noto Sans
       CJKmainfont: Noto Sans CJK JP
