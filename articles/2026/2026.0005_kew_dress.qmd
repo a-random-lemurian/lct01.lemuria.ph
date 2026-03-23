@@ -1894,7 +1894,7 @@ Zoomed out shot of dress laid on table.
 **Remarks**:
 
 * Cameras such as the 90D typically produce larger images than 983&times;1748. We do not have a 90D in our possession, but theorize that Rothery likely downscaled the original image before publication to her blog, or less likely, used a lower-quality setting in the camera. We found the usage of `Adobe Lightroom 10.4.1 (iOS)` in the EXIF metadata of the holotype. We observe a consistent `-1` suffix in image filenames (e.g. `img_3618-1.jpg`), and 404 errors in attempting to retrieve unsuffixed versions (e.g. `img_3618.jpg`), suggesting the existence of a higher-quality image type inaccessible to us.
-* We note a discrepancy in Lorna's family in the EXIF metadata; see @sec-malkin.
+* We note a discrepancy in Lorna's family name in the EXIF metadata; see @sec-malkin.
 * *Kewthea lornae* is perhaps the most recent specimen of *Kewthea* and of the Kew dress, showing that it still ranges to 2025. The Kewoidea (cold-shoulder Kew), while still sewable, has not seen any specimens dating to the 2020s; while the Kewthidae (tea dress) and Helikewidae (sundress), less prone to the fashion cycle, still persist today.
 
 **Specimens examined**:
@@ -2197,6 +2197,9 @@ To determine the genera in which a Kew dress is placed:
 
 09
 : Dress has skirt: Subfamily Plesikewinae (13). Dress has trousers: Subfamily Kewasalinae (14).
+
+10, 11, 12
+: End.
 
 13
 : Neckline of sleeve and bodice at different levels: genus *Florankewia* (15). Parallel levels, or descent from Jen Walker's hack: genus *Kewabotonia* (16).
