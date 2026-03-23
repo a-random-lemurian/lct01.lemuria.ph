@@ -48,29 +48,31 @@ keywords: kew dress, kewoidea, kewthidae, helikewidae, nina lee, clothing taxono
 ```
 
 ## Background
-In January 2016, Jessica Bain, at the University of Leicester's Department of Media and Communication, wrote that the traditional practice of home sewing, specifically dressmaking, was experiencing a revival [@bain2016]. She cited papers primarily from 2009&ndash;2011 in her statement about this. At the time, the BBC's *Great British Sewing Bee* had just finished its third season. Not only that, bloggers and Twitter users were building their own community, one that Bain describes as "digital dressmakers".
+In January 2016, Jessica Bain, at the University of Leicester's Department of Media and Communication, wrote that the traditional practice of home sewing, specifically dressmaking, was experiencing a revival [@bain2016]. She cited papers primarily from 2009&ndash;2011 to support this statement; and furthermore, quotes from some of the sewists we have studied as part of the taxonomy and during this paper; such as Marie Koupparis of *A Stitching Odyssey*, and Tilly Walnes of Tilly and the Buttons. At the time, the BBC's *Great British Sewing Bee* had just finished its third season. Not only that, bloggers and Twitter users were building their own community, one that Bain describes as "digital dressmakers".
 
-Many of these blogs are now the primary source material for significant parts of the LCT-01's British sewing pattern taxonomy work. Though @bain2016 was written nearly one year and eight months before the release of the Kew dress, blogging culture was still strong and remained so on release day. Many newer sewists only publish their work to Instagram, though blogs still exist.
-
-@bain2016 also features quotes from some of the sewists we have studied as part of our taxonomy; such as Marie Koupparis of *A Stitching Odyssey*, and Tilly Walnes of Tilly and the Buttons.
+Many of these blogs are now the primary source material for significant parts of the LCT-01's British sewing pattern taxonomy work. Though @bain2016 was written nearly one year and eight months before the release of the Kew dress, blogging culture was still strong and remained so on the Kew's release day. While in 2026, many sewists only publish their work to Instagram, blogs still exist, and old ones remain accessible and readable. Link rot has taken its toll, but the Internet Archive has prevented most of the damage.
 
 ### Nina Chang-Smith
-Perhaps part of the revival that Bain described, in March 2017, Nina Chang-Smith, known at the time as just Nina Chang^[Her maiden name; she married in June 2019 [@chang-smith2020; @sara_img_7007jpg_2019].], a British designer, launched her pattern label, Nina Lee, in London [@chang2017]^[Chang-Smith has since taken down her old blog, but the post is still available on the Wayback Machine. It does not link to the specific blog post, but to the homepage where the post in question is embedded.]. Lee and Chang-Smith are distinct concepts, and should not be confused.
+Perhaps part of the revival that Bain described, in March 2017, Nina Chang-Smith, known at the time as just Nina Chang^[Her maiden name; she married in June 2019 [@chang-smith2020; @sara_img_7007jpg_2019].], a British designer, launched her pattern label, Nina Lee, in London [@chang2017]^[Chang-Smith has since taken down her old blog, but the post is still available on the Wayback Machine. It does not link to the specific blog post, but to the homepage where the post in question is embedded.]. We again emphasize that special care must be taken to avoid conflating Nina Lee, the brand; with Nina Chang-Smith, the person.
 
 Chang-Smith learned basic sewing in childhood from her mother. She began dressmaking in earnest in her middle teenage years; at 14, she sewed her first garment, a lilac gingham sundress with an empire line waist and puffy sleeves [@svetvilas2023].
 
 In November 2021, she moved to the San Francisco Bay Area, due to her husband's employment. As a result, she discontinued physical printed patterns and now exclusively sells PDFs. [@svetvilas2023].
 
 ### Nina Lee
-Since the launch of Nina Lee in 2017, Chang-Smith has released ~22 designs. These are named for places in London (e.g. Kew, Bakerloo, Camden, Southbank, Mayfair), with more recent patterns drawing from California (e.g. Carmel, Mariposa). They are sold as digital PDFs.
+Since the launch of Nina Lee in 2017, Chang-Smith has released ~22 designs. These are named for places in London (e.g. Kew, Bakerloo, Camden, Southbank, Mayfair), with more recent patterns drawing from California (e.g. Carmel, Mariposa). They are sold as digital PDFs. Physical patterns remain available, but are becoming rarer as the Post-Californian period progresses.^[In the history of Nina Chang-Smith, the Post-Californian is the current period, that started on November 1, 2021.]
 
 Chang-Smith's patterns range from UK sizes 6&ndash;28; she sells them in sets of sizes 6&ndash;20 and 16&ndash;28. She drafts with a height of 165 cm (5 ft 5 in) and a B cup (system unknown). The patterns typically include a 1.5 cm (5/8 in) seam allowance.
 
 ### LCT-01
 #### Focus
-Though the LCT-01's scope is vast, encompassing nearly all clothing, and possibly accessories (pending internal considerations and debates), much of its work has focused on sewing pattern labels. Numerous factors make indie home sewing culture, not just from Britain, exceptionally digestible primary material for the LCT-01; such as the detail and obsessiveness of documentation, traceable lineages to PDF patterns, and a well-described common ancestor; that of a pattern PDF. [@lemuria_general_2026].
+Though the LCT-01's scope is vast, encompassing nearly all clothing, and possibly accessories (pending internal considerations and debates), much of its work has focused on sewing pattern labels.
 
-Major entities that the LCT-01 has covered and has yet to publish taxonomic treatments of, include labels such as Nina Lee (the main focus of this article), By Hand London, and Tilly and the Buttons. Persons include Tilly Walnes (the owner of Tilly and the Buttons); Elisalex de Castro Peake (now known as Elisalex Jewell) and Charlotte Hintzen (though she has since left), the founders of By Hand London; and the focus of this article, Nina Chang-Smith and her Nina Lee label.
+Numerous factors make the blogs written by sewists, part of an indie home sewing culture primarily concentrated in the Western world^[We are aware of Japanese indie sewing culture; however, our lead author only understands English and Tagalog.], exceptionally digestible primary material for the LCT-01. Photographs from multiple angles provide views of the garment, allowing a taxonomist with a good eye to identify features not documented in the text. Their observations can then be synthesized with the text itself, which describes alterations, life stories, and other morphological changes made to fit its wearer, such as divergences from the pattern, that would require a taxonomist to physically inspect the specimen (which is infeasible ethically and practically).
+
+The sewing pattern itself, mostly in PDF format, can be thought of as the last universal common ancestor of its taxon [@lemuria_general_2026] and as the bauplan (body plan) of its child taxa. When a sewist creates a garment from a pattern, a phylogenetic link emerges between the pattern and the garment, significantly more traceable and certain than biological taxa, which can only be hypothesized.
+
+Major entities that the LCT-01 has covered and has yet to publish taxonomic treatments of include labels such as Nina Lee (the main focus of this article), By Hand London, and Tilly and the Buttons. Persons include Tilly Walnes (the owner of Tilly and the Buttons); Elisalex de Castro Peake (now known as Elisalex Jewell) and Charlotte Hintzen (though she has since left), the founders of By Hand London; and the focus of this article, Nina Chang-Smith and her Nina Lee label&mdash;though this paper discusses her Kew dress, and Kewbello trousers, some 20 patterns remain to be taxonomized.
 
 #### Structure
 We present an abridged version of the LCT-01's high level structure, only including the taxa relevant to the Kew dresses at hand. A full graph is presented in @fig-polyphyletic; and here we present basic descriptions of the high level taxa for context, as we have yet to publish more detailed descriptions in the *Journal*.
@@ -157,7 +159,6 @@ A tree is as follows:
 \end{multicols}
 ```
 
-#### Tree
 ::: {#fig-polyphyletic}
 ```{r}
 #| message: false
@@ -196,7 +197,7 @@ Throughout February and early March, Lemuria continued taxonomizing sewing patte
 As of March 16, 2026, the LCT-01 encompasses some 250 species and 70 genera.
 
 ## Kew
-The Kew dress, released in August 2017, is the fourth pattern from Nina Lee. Chang-Smith describes the Kew as "feminine, elegant and stylish", inspired by "the delights of British summertime" in her 2017 Instagram post announcing its release [@kewrelease].
+The Kew dress, released in August 2017, is the fourth pattern from Nina Lee. Chang-Smith describes the Kew as "feminine, elegant and stylish" and inspired by "the delights of British summertime" in her 2017 Instagram post announcing its release [@kewrelease].
 
 ### Trends
 The cold shoulder, which the Kewoidea offers, was a major trend around 2017. This can be inferred from the temporal range of the Kewoidea, which clusters mostly around the late 2010s. Two outliers exist; *Kewisia bernicae*, sewn in April 2020 [@bernice_hello_2020]; see @sec-k-bernicae, and *Kewabotonia elsae* (sewn 2021; see @sec-k-elsae). However, in general, the cold shoulder has fallen out of trend; by 2026, the year this paper was written, it has certainly done so. The fashion cycle may eventually revive the cold shoulder trend, but its future trajectory is unpredictable.
