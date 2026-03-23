@@ -1,0 +1,43 @@
+$ yt-dlp --write-info-json --write-description https://www.youtube.com/watch\?v\=adTrJzjOXbc https://www.youtube.com/watch\?v\=BicN7eyA2U4 https://www.youtube.com/watch\?v\=O66xjOf4DhM
+[youtube] Extracting URL: https://www.youtube.com/watch?v=adTrJzjOXbc
+[youtube] adTrJzjOXbc: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] adTrJzjOXbc: Downloading android vr player API JSON
+[info] adTrJzjOXbc: Downloading 1 format(s): 135+251
+[info] Writing video description to: YARNGASM： Episode 273 - ＂I Say Tomato, You Say ...＂ [adTrJzjOXbc].description
+[info] Writing video metadata as JSON to: YARNGASM： Episode 273 - ＂I Say Tomato, You Say ...＂ [adTrJzjOXbc].info.json
+[download] Destination: YARNGASM： Episode 273 - ＂I Say Tomato, You Say ...＂ [adTrJzjOXbc].f135.mp4
+[download] 100% of   98.67MiB in 00:00:22 at 4.47MiB/s
+[download] Destination: YARNGASM： Episode 273 - ＂I Say Tomato, You Say ...＂ [adTrJzjOXbc].f251.webm
+[download] 100% of   30.10MiB in 00:00:05 at 5.58MiB/s
+[Merger] Merging formats into "YARNGASM： Episode 273 - ＂I Say Tomato, You Say ...＂ [adTrJzjOXbc].mkv"
+Deleting original file YARNGASM： Episode 273 - ＂I Say Tomato, You Say ...＂ [adTrJzjOXbc].f135.mp4 (pass -k to keep)
+Deleting original file YARNGASM： Episode 273 - ＂I Say Tomato, You Say ...＂ [adTrJzjOXbc].f251.webm (pass -k to keep)
+[youtube] Extracting URL: https://www.youtube.com/watch?v=BicN7eyA2U4
+[youtube] BicN7eyA2U4: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] BicN7eyA2U4: Downloading android vr player API JSON
+[info] BicN7eyA2U4: Downloading 1 format(s): 135+251
+[info] Writing video description to: YARNGASM： Episode 278 - ＂Living On the Edge＂ [BicN7eyA2U4].description
+[info] Writing video metadata as JSON to: YARNGASM： Episode 278 - ＂Living On the Edge＂ [BicN7eyA2U4].info.json
+[download] Destination: YARNGASM： Episode 278 - ＂Living On the Edge＂ [BicN7eyA2U4].f135.mp4
+[download] 100% of  126.58MiB in 00:00:59 at 2.12MiB/s
+[download] Destination: YARNGASM： Episode 278 - ＂Living On the Edge＂ [BicN7eyA2U4].f251.webm
+[download] 100% of   32.26MiB in 00:00:11 at 2.88MiB/s
+[Merger] Merging formats into "YARNGASM： Episode 278 - ＂Living On the Edge＂ [BicN7eyA2U4].mkv"
+Deleting original file YARNGASM： Episode 278 - ＂Living On the Edge＂ [BicN7eyA2U4].f251.webm (pass -k to keep)
+Deleting original file YARNGASM： Episode 278 - ＂Living On the Edge＂ [BicN7eyA2U4].f135.mp4 (pass -k to keep)
+[youtube] Extracting URL: https://www.youtube.com/watch?v=O66xjOf4DhM
+[youtube] O66xjOf4DhM: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] O66xjOf4DhM: Downloading android vr player API JSON
+[info] O66xjOf4DhM: Downloading 1 format(s): 135+251
+[info] Writing video description to: YARNGASM： Episode 281 - ＂There's Been Spinning＂ [O66xjOf4DhM].description
+[info] Writing video metadata as JSON to: YARNGASM： Episode 281 - ＂There's Been Spinning＂ [O66xjOf4DhM].info.json
+[download] Destination: YARNGASM： Episode 281 - ＂There's Been Spinning＂ [O66xjOf4DhM].f135.mp4
+[download] 100% of  193.72MiB in 00:01:06 at 2.92MiB/s
+[download] Destination: YARNGASM： Episode 281 - ＂There's Been Spinning＂ [O66xjOf4DhM].f251.webm
+[download] 100% of   38.61MiB in 00:00:10 at 3.57MiB/s
+[Merger] Merging formats into "YARNGASM： Episode 281 - ＂There's Been Spinning＂ [O66xjOf4DhM].mkv"
+Deleting original file YARNGASM： Episode 281 - ＂There's Been Spinning＂ [O66xjOf4DhM].f251.webm (pass -k to keep)
+Deleting original file YARNGASM： Episode 281 - ＂There's Been Spinning＂ [O66xjOf4DhM].f135.mp4 (pass -k to keep)
