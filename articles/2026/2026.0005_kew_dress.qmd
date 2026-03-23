@@ -17,7 +17,7 @@ execute:
 publisher-id: "lict2026.0005"
 abstract: |
   The Kew dress, released in August 2017, is one of the earliest patterns from the British pattern label Nina Lee, founded in March 2017 by Nina Chang-Smith. It features three bodice options, a cold-shoulder (a trend at the time of release), a sleeveless sundress, and sleeved tea dress. The later Kewbello combined the bodice of the Kew with her Portobello trousers design. The Kew and Kewbello, collectively, are an example of how the LCT-01's hybrid phylogenetic-phenetic methodology results in the polyphyletic classification of sewing patterns based on their available design options, and the phylogenetic classification of individual design options. We describe 47 species of Kew dresses for the first time publicly, refining the original findings on our internal MediaWiki site.
-draft: true
+draft: false
 bibliography: 2026.0005-refs.bib
 number-sections: true
 citation:
@@ -35,11 +35,6 @@ format:
     toc-depth: 3
     include-in-header:
       text: |
-        \usepackage{forest}
-        \usepackage{draftwatermark}
-        \SetWatermarkText{DRAFT}
-        \SetWatermarkScale{1}
-        \SetWatermarkColor[gray]{0.85}
         \newfontfamily\greekfont{Gentium Book Plus}[Script=Greek, Language=Greek]
         \newcommand{\textgreek}[1]{{\greekfont #1}}
 keywords: kew dress, kewoidea, kewthidae, helikewidae, nina lee, clothing taxonomy, home sewing, sewing pattern
