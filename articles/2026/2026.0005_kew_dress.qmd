@@ -40,6 +40,8 @@ format:
         \SetWatermarkText{DRAFT}
         \SetWatermarkScale{1}
         \SetWatermarkColor[gray]{0.85}
+        \newfontfamily\greekfont{Gentium Book Plus}[Script=Greek, Language=Greek]
+        \newcommand{\textgreek}[1]{{\greekfont #1}}
 keywords: kew dress, kewoidea, kewthidae, helikewidae, nina lee, clothing taxonomy, home sewing, sewing pattern
 ---
 
@@ -48,7 +50,7 @@ keywords: kew dress, kewoidea, kewthidae, helikewidae, nina lee, clothing taxono
 ```
 
 ## Background
-In January 2016, Jessica Bain, at the University of Leicester's Department of Media and Communication, wrote that the traditional practice of home sewing, specifically dressmaking, was experiencing a revival [@bain2016]. She cited papers primarily from 2009&ndash;2011 to support this statement; and furthermore, quotes from some of the sewists we have studied as part of the taxonomy and during this paper; such as Marie Koupparis of *A Stitching Odyssey*, and Tilly Walnes of Tilly and the Buttons. At the time, the BBC's *Great British Sewing Bee* had just finished its third season. Not only that, bloggers and Twitter users were building their own community, one that Bain describes as "digital dressmakers".
+In January 2016, Jessica Bain, at the University of Leicester's Department of Media and Communication, wrote that the traditional practice of home sewing, specifically dressmaking, was experiencing a revival [@bain2016]. Her paper also quoted some of the sewists we have studied as part of our taxonomy work; such as Marie Koupparis of *A Stitching Odyssey*, and Tilly Walnes of Tilly and the Buttons. At the time, the BBC's *Great British Sewing Bee* had just finished its third season. Not only that, bloggers and Twitter users were building their own community, one that Bain describes as "digital dressmakers".
 
 Many of these blogs are now the primary source material for significant parts of the LCT-01's British sewing pattern taxonomy work. Though @bain2016 was written nearly one year and eight months before the release of the Kew dress, blogging culture was still strong and remained so on the Kew's release day. While in 2026, many sewists only publish their work to Instagram, blogs still exist, and old ones remain accessible and readable. Link rot has taken its toll, but the Internet Archive has prevented most of the damage.
 
@@ -403,6 +405,7 @@ First public description (first public desc.) indicates that this paper is the f
 **Diagnosis**: Hybrid of three patterns. Bodice from the By Hand London (BHL) pattern Flora (Behelafloridae; unpublished), with sleeves of Kewoidea, and skirt of the By Hand London pattern Anna.
 
 #### *Florankewia libera* {#sec-f-libera}
+<!-- PROOFREAD 2026-03-23 -->
 ***Florankewia libera*** Lemuria, 2026; first public desc.
 
 **Holotype**: *Eva 4be-FL* Photograph. 1104&times;1104. EXIF metadata stripped; exposure, f-stop, lens foc. len unknown. United Kingdom, London. Ventral full-body view. Dorsally positioned hair, straps unobscured. *Florankewia libera* wb. Eva, 2019. &copy; Kate Eva or unknown photographer, all rights reserved.
@@ -417,7 +420,7 @@ First public description (first public desc.) indicates that this paper is the f
 
 **Etymology**: *libera* is a pseudo-Latin feminine form of Liberty, the department store where Eva and Bond met.
 
-**Remarks**: In @eva_gifted_2019, Eva wrote that at the Liberty department store in London, she attended a signing event held by Anna Bond, the chief creative officer of Rifle Paper Co. She approached Bond wearing a Martha dress from Tilly and the Buttons (unclassified as of 2026-03-17), made in rayon from Rifle Paper Co. Bond and Eva then had a friendly interaction; and Bond later sent Eva rayon from an upcoming collection, the Wildwood collection, which arrived some months later. The name of the collection was inferred from imagery of the fabric itself showing the label "RIFLE PAPER CO Wildwood COLLECTION".
+**Remarks**: In @eva_gifted_2019, Eva wrote that at the Liberty department store in London, she attended a signing event held by Anna Bond, the chief creative officer of Rifle Paper Co. She approached Bond wearing a Martha dress from Tilly and the Buttons (unclassified as of 2026-03-17), made in rayon from Rifle Paper Co. Bond and Eva then had a friendly interaction; and Bond later sent Eva rayon from the Wildwood collection, unreleased at the time, which arrived some months later. The name of the collection was inferred from imagery of the fabric itself showing the label "RIFLE PAPER CO Wildwood COLLECTION".
 
 **Specimens examined**: See holotype information.
 
@@ -432,7 +435,7 @@ First public description (first public desc.) indicates that this paper is the f
   * **Original**: <https://kateevadesigns.com/wp-content/uploads/2019/09/9a19be8e-4b8a-472f-9f03-1b917380098c.jpg>
   * **IA**: <https://web.archive.org/web/20260315224227/https://kateevadesigns.com/wp-content/uploads/2019/09/9a19be8e-4b8a-472f-9f03-1b917380098c.jpg>
 
-**Description**: Flat neckline. Sleeves typical to that of Kewoidea. Medial torso segment of neckline superior to sleeve segment of neckline. Dorsal medial zipper, sky blue. Straps extended by unspecified number of inches. Neckline lowered ventrally, and to a greater degree dorsally. Skirt drapes, terminates inferior to knee. **Fabric.** Ex-designer fabric, from Fabric Godmother pop up at New Craft House. Purchased c. 2018 by Eva. Shell pattern with pale sky blue background and scallop-like print, white background with black border and lines. **Lining.** Bluish pink gossamer crepe on bodice. Skirt fully unlined.
+**Description**: Flat neckline. Sleeves typical to that of Kewoidea. Medial torso segment of neckline superior to sleeve segment of neckline. Dorsal medial zipper, sky blue. Straps extended by unspecified number of inches. Neckline lowered ventrally, and to a greater degree dorsally. Skirt drapes, terminates inferior to knee. **Fabric.** Ex-designer fabric, from Fabric Godmother pop up at New Craft House. Purchased c. 2018 by Eva. Shell pattern with pale sky blue background and scallop-like print. Scallops have white background with black border and lines. **Lining.** Bluish pink gossamer crepe on bodice. Skirt fully unlined.
 
 **Etymology**: Feminine form of *valentino*.
 
@@ -448,11 +451,13 @@ First public description (first public desc.) indicates that this paper is the f
 
 
 ### Genus *Helikewabotonia* {#sec-genus-helikewabotonia}
+<!-- PROOFREAD 2026-03-23 -->
 ***Helikewabotonia*** gen. nov.
 
 **Diagnosis**: Distinguished from *Kewabotonia* by the lack of sleeves lateral to the upper arm.
 
 #### *Helikewabotonia lanata* {#sec-h-lanata}
+<!-- PROOFREAD 2026-03-23 -->
 ***Helikewabotonia lanata*** sp. nov.
 
 **Holotype**: *Joy 112.26042HL* &mdash;
@@ -490,6 +495,7 @@ Zoomed out ventral view, river in background, outdoors. Worn under unclassified 
   * **IA**: <https://web.archive.org/web/20260320151536/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/653728557_18563423779053644_4275307087395769087_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=MTc3MzQ4Nzg1NTg2ODc2NzM5OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTI1My5zZHIuQzMifQ%3D%3D&_nc_ohc=jAWlaQR5oPUQ7kNvwFYpiXT&_nc_oc=AdrOcmXdXPWI3FHjFyT1OMRUwmtq28I9T8ASY3frqjXe4i2l9LSFY8TKLm61X8x2IgU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=lLeRgI1OxmGROfj_coFxkw&_nc_ss=7a30f&oh=00_Afw_vCjAySfjeK-Hi6zsUQRpi_pxKEnQRXQOdQHx_01Lmg&oe=69C32662>
 
 #### *Helikewabotonia stadile* {#sec-h-stadile}
+<!-- PROOFREAD 2026-03-23 -->
 ***Helikewabotonia stadile*** sp. nov.
 
 <!-- File: holland.JPG=s0?imgmax=0 (HOLOTYPE INFO TEMPLATE FROM LCT01-HOLOTYPER)-->
@@ -517,12 +523,13 @@ Exposure: unknown. F-stop: unknown. Focal: unknown. ISO: unknown. Lens: unknown.
 **Diagnosis**: Distinguished from genera in Kewoidea by the lack of sleeves lateral to upper arm, and a skirt most similar to *Kewisicasa* (straight skirt).
 
 #### *Helikewisia aemilia* {#sec-h-aemilia}
+<!-- PROOFREAD 2026-03-23 -->
 ***Helikewisia aemilia*** Lemuria, 2026; first public desc.
 
 **Holotype**: *Emily 3668HA* &mdash;
 Photograph. 1184&times;1480.
-Exposure: 1/80s. F-stop: 2. Focal: 23 mm. Lens: unknown. Camera: Fujifilm X100T.
-Ventral view. *Helikewisia aemilia* wb. Emily, 2017.
+Exposure: 1/80s. F-stop: 2. Focal: 23 mm. Lens: unknown. Camera: `Fujifilm X100T`.
+Ventral view. *Helikewisia aemilia* wb. Emily of L., 2017.
 &copy; Emily or unknown photographer, 2017, all rights reserved.
 
 * **Page**: See @emily_kew_2017
@@ -544,7 +551,7 @@ Ventral view. *Helikewisia aemilia* wb. Emily, 2017.
 * Holotype.
 * ***Emily 3670HA*** &mdash;
 Photograph. 1184&times;1480.
-Exposure: 1/80s. F-stop: 2. Focal: 23 mm. Lens: unknown. Camera: Fujifilm X100T.
+Exposure: 1/80s. F-stop: 2. Focal: 23 mm. Lens: unknown. Camera: `Fujifilm X100T`.
 Dorsal view. *Helikewisia aemilia* wb. Emily, 2017.
 &copy; Emily or unknown photographer, 2017, all rights reserved.
   * **Page**: See @emily_kew_2017
@@ -554,6 +561,7 @@ Dorsal view. *Helikewisia aemilia* wb. Emily, 2017.
     * **IA**: <https://web.archive.org/web/20260317182001/https://selfassemblyrequired.co.uk/wp-content/uploads/2017/09/img_3670.jpg>
 
 #### *Helikewisia ceciliae* {#sec-h-ceciliae}
+<!-- PROOFREAD 2026-03-23 -->
 ***Helikewisia ceciliae*** Lemuria, 2026; first public desc.
 
 **Holotype**: *Cecilia 849728HC* &mdash; Photograph.
@@ -563,21 +571,23 @@ United Kingdom, London, Kew, Kew Gardens.
 Angled ventral view, roughly 45&deg; horizontal, 45&deg; vertical, subject on stairs. *Helikewisia ceciliae* wb. Cecilia.C., 2018.
 &copy; Cecilia Cook or unknown photographer, 2017, all rights reserved.
 
+* **Page**: See @quirkysewandsew2018
+* **SHA2-256**: `4ba6fc17376db5e455e5f8a76917a9e98d1c7e1602083f3b17da957dc1b04076`
 * **Raw image URLs**
   * **IA**: <https://web.archive.org/web/20260318084447/https://scontent.fmnl35-1.fna.fbcdn.net/v/t1.6435-9/38796551_2234719783416504_779248449227849728_n.jpg?_nc_ohc=OfvYHoRETDIQ7kNvwGegeMe&_nc_oc=AdkuqDYsozC3fEwo02nMCm-dwyBiAQmRw-KsWR-1xgDLFo1nRiLEyiLr78MbWb6UOJQ&_nc_zt=23&_nc_ht=scontent.fmnl35-1.fna&_nc_gid=nqbWH-IXJHbF6PSN-NvPOg&_nc_ss=8&oh=00_AfwMIGiSC8FvYlPD4FjhqdZm52v_78oVvwDlvPKQf6WK9w&oe=69E1D8BB>
 
-**Description**: Shallow angle V-neck. Bilateral single straps. Straps 2 in (5.08 cm) longer. Ventral medial button row. Buttons fabric-covered, ~12 buttons visible; some buttons in holotype image obscured by skirt. Skirt termination point unknown due to angle of holotype image. **Fabric.** Jennifer crepe from Sew Me Sunshine, sunshine yellow background. Monochrome black and white floral line art print. Flower most closely resembles Chrysanthemum &times; morifolium (Ramat.) Hemsl.
+**Description**: Shallow angle V-neck. Bilateral single straps. Straps 2 in (5.08 cm) longer. Ventral medial button row. Buttons fabric-covered, ~12 buttons visible; some buttons in holotype image obscured by skirt. Skirt termination point unknown due to angle of holotype image. **Fabric.** Jennifer crepe from Sew Me Sunshine, sunshine yellow background. Monochrome black and white floral line art print. Flower most closely resembles *Chrysanthemum &times; morifolium* (Ramat.) Hemsl.
 
 **Etymology**: *Cecilia* + *-ae*, feminine genitive suffix.
 
-
 **Remarks**:
 
-* The Internet Archive is capable of capturing Meta CDN links. Though they lack long-term reproducibility, the Internet Archive can retrieve the same bytes, effectively "freezing" the image in time. We are thus able to maintain reproducibility for the Meta CDN, but here, we advise that the Internet Archive URL should be considered the canonical URL; the Meta CDN url is not expected to be reproducible long-term and is only included for reference.
+* The Internet Archive is capable of capturing Meta CDN links. Though they lack long-term reproducibility, the Internet Archive can retrieve the same bytes, effectively "freezing" the image in time. We are thus able to maintain reproducibility for the Meta CDN, but here, we advise that the Internet Archive URL should be considered the canonical URL; the Meta CDN url is not expected to be reproducible long-term. It is embedded in the Internet Archive URL, and need not be printed separately to save space.
 
 **Specimens examined**: See holotype information.
 
 #### *Helikewisia erinae* {#sec-h-erinae}
+<!-- PROOFREAD 2026-03-23 -->
 ***Helikewisia erinae*** Lemuria, 2026; first public desc.
 
 **Holotype**: *Madalone 4823HE* &mdash; Photograph. 427&times;640, EXIF metadata stripped; exposure, f-stop, lens foc. len unknown. United States, New Jersey, Monmouth County, Holland Ridge Farms. Approx. GPS: 40.16936&deg;N 74.50087&deg;W ± 50m (WGS84). Instagram. Ventral view. Hair positioned ventrally, partially obscuring view of left strap (wearer's perspective). *Helikewisia erinae* wb. Erin.M., 2021. Instagram. &copy; Erin Madalone or unknown photographer, 2021, all rights reserved.
@@ -601,10 +611,11 @@ Angled ventral view, roughly 45&deg; horizontal, 45&deg; vertical, subject on st
 **Specimens examined**:
 
 * Holotype.
-* ***Madalone Inst-1HE*** &mdash; Photograph. 1080&times;1350, EXIF metadata stripped; exposure, f-stop, lens foc. len unknown. United States, New Jersey, Monmouth County, Holland Ridge Farms. Approx. GPS: 40.16936&deg;N 74.50087&deg;W ± 50m (WGS84). Instagram. Ventral view. Hair positioned ventrally, partially obscuring view of left strap (wearer's perspective). *Helikewisia erinae* wb. Erin.M., 2021. Higher-resolution version of holotype, but unreproducible due to Meta CDN implementation details. &copy; Erin Madalone or unknown photographer, 2021, all rights reserved.
+* ***Madalone Inst-1HE*** &mdash; Photograph. 1080&times;1350, EXIF metadata stripped; exposure, f-stop, lens foc. len unknown. United States, New Jersey, Monmouth County, Holland Ridge Farms. Approx. GPS: 40.16936&deg;N 74.50087&deg;W ± 50m (WGS84). Instagram. Ventral view. Hair positioned ventrally, partially obscuring view of left strap (wearer's perspective). *Helikewisia erinae* wb. Erin.M., 2021. Higher-resolution version of holotype, but unreproducible due to Meta CDN implementation details. Unshareable due to copyright. &copy; Erin Madalone or unknown photographer, 2021, all rights reserved.
   * **SHA2-256**: `062cd32b6a0eb3b2c8803055384cc473db1fd5959d5616b5229bacb6488baac8`.
 
 #### *Helikewisia irvinae* {#sec-h-irvinae}
+<!-- PROOFREAD 2026-03-23 -->
 ***Helikewisia irvinae*** Lemuria, 2026; first public desc.
 
 **Holotype**: *Irvine 0001HI* &mdash; Photograph. 2736&times;3648. Exposure 1/665 sec, f-stop 1.6, lens foc. len 5.6mm (35mm equiv. 27.0mm), ISO 50, FOV 67.4&deg;, no flash. United Kingdom. Ventral full-body view. Tied hair. Hands in bilateral pockets. *Helikewisia irvinae* wb. Alice.Ir., 2020. &copy; Alice Irvine or unknown photographer, 2020, all rights reserved.
@@ -619,11 +630,12 @@ Angled ventral view, roughly 45&deg; horizontal, 45&deg; vertical, subject on st
 
 **Etymology**: *Irvine* + *-ae*, feminine genitive form.
 
-**Remarks**: Irvine wrote in @irvine_ode_2020 that after washing *H. irvinae*, the shorter seam allowance softened. Prior to this, it had sat "strangely" on the bust. The buttons were repurposed from a Tilly and the Buttons Arielle skirt Irvine made earlier (unclassified). Irvine wrote a tutorial for the pockets in @irvine_how_2020.
+**Remarks**: Irvine wrote in @irvine_ode_2020 that after washing *H. irvinae*, the shorter seam allowance softened. Prior to this, it had sat "strangely" on the bust. The buttons were repurposed from a Tilly and the Buttons Arielle skirt Irvine made earlier^[*incertae sedis* in the family Ariellacasaceae Lemuria, 2026]. Irvine wrote a tutorial for the pockets in @irvine_how_2020.
 
 **Specimens examined**: See holotype information.
 
 #### *Helikewisia kristinae* {#sec-h-kristinae}
+<!-- PROOFREAD 2026-03-23 -->
 ***Helikewisia kristinae*** Lemuria, sp. nov.
 
 **Holotype**: *Lehrer 2018.88823HKEW* &mdash; Photograph. 1080&times;1350. EXIF metadata stripped by Meta CDN.
@@ -633,7 +645,8 @@ Truncated ventral view, subject facing slightly downward.
 
 * **Page**: See @lehrer_memade_2018.
 * **SHA2-256**: `7cd9db2581b2d8e914edd7fb3d04d2fa54ff4b0d09f644cb7bf96d7efd66334b`
-* **IA**: <https://web.archive.org/web/20260319132037/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/651304872_18342211174243233_2394920789214788823_n.jpg?stp=dst-jpg_e35_tt6&_nc_ohc=FwrXTiN1G5wQ7kNvwFy_jZE&_nc_oc=AdpK-2DaeK0qlOT9rNzxyo0CRbOSvu3b-5B_Nz1RWhsRQzAizagKjJ8v1JxkgG1ziIE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=K4_6pwiUZqSjFpoiu745AQ&_nc_ss=8&oh=00_AfweZfEjv2dAnJkONXV1jObK6mrzxkeRGxQhN5JYjG_sHQ&oe=69C1D13A>
+* **Raw image URLs**
+  * **IA**: <https://web.archive.org/web/20260319132037/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/651304872_18342211174243233_2394920789214788823_n.jpg?stp=dst-jpg_e35_tt6&_nc_ohc=FwrXTiN1G5wQ7kNvwFy_jZE&_nc_oc=AdpK-2DaeK0qlOT9rNzxyo0CRbOSvu3b-5B_Nz1RWhsRQzAizagKjJ8v1JxkgG1ziIE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=K4_6pwiUZqSjFpoiu745AQ&_nc_ss=8&oh=00_AfweZfEjv2dAnJkONXV1jObK6mrzxkeRGxQhN5JYjG_sHQ&oe=69C1D13A>
 
 **Description**: Shallow angle V-neck. Bilateral single straps. Skirt terminates superior to knee.
 **Buttons.** Ventral medial button row, 13 buttons. Five on bodice, eight on skirt. Circular, two thread holes, black thread. Thread line mostly horizontal.
@@ -651,7 +664,8 @@ Truncated ventral view, first three buttons visible.
 &copy; Kristin Lehrer, 2018, all rights reserved.
   * **Page**: See @lehrer_memade_2018.
   * **SHA2-256**: `7b1625cfe7649681197ae5840382c3596e66f74910362e54f9c18eeca56475e5`
-  * **IA**: <https://web.archive.org/web/20260319132504/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/653489959_18391307863150239_6596263911806943603_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=MTc4NjUyMjU4ODE5NDAwODUzOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTM0NS5zZHIuQzMifQ%3D%3D&_nc_ohc=g0bLlb5Xx7MQ7kNvwFDxEeV&_nc_oc=AdqOJQDOWeGNSK4gMIdnmZKuMUlRSQdhuEQ6h3ClRrQtmgJNmpx3nYc-0A2jPpPYkcE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=cTsd1WJdPGRH6GhiGPqNBg&_nc_ss=8&oh=00_Afx1XhjsuVToExkKX3XO8_ruhQ9gBxwOeUCTkdi1TdGDZg&oe=69C1D9D8>
+  * **Raw image URLs**
+    * **IA**: <https://web.archive.org/web/20260319132504/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/653489959_18391307863150239_6596263911806943603_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=MTc4NjUyMjU4ODE5NDAwODUzOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTM0NS5zZHIuQzMifQ%3D%3D&_nc_ohc=g0bLlb5Xx7MQ7kNvwFDxEeV&_nc_oc=AdqOJQDOWeGNSK4gMIdnmZKuMUlRSQdhuEQ6h3ClRrQtmgJNmpx3nYc-0A2jPpPYkcE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=cTsd1WJdPGRH6GhiGPqNBg&_nc_ss=8&oh=00_Afx1XhjsuVToExkKX3XO8_ruhQ9gBxwOeUCTkdi1TdGDZg&oe=69C1D9D8>
 * ***Lehrer 2018.22063HKEW*** &mdash;
 Photograph. 1080&times;1350. EXIF metadata stripped by Meta CDN.
 *Helikewisia kristinae* wb. Lehrer, 2018.
@@ -659,23 +673,27 @@ Full-body angled dorsal view, subject facing camera.
 &copy; Kristin Lehrer, 2018, all rights reserved.
   * **Page**: See @lehrer_memade_2018.
   * **SHA2-256**: `e34d04a4f4577ff12a97e703981e379fd4d86d5f2c161b61279c34b17f55c33c`
-  * **IA**: <https://web.archive.org/web/20260319132312/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/649224321_18310689463248562_3345583525819022063_n.jpg?stp=dst-jpg_e35_tt6&_nc_ohc=wmaMrt1JTo8Q7kNvwHh_cwn&_nc_oc=Adqm16almXh5DWJO1q2Ys7bNZbWdpHNzLws3N8gYbkUJ9n6SD4CJZ1tJ-R0wBThvBu8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=cTsd1WJdPGRH6GhiGPqNBg&_nc_ss=8&oh=00_Afz1hUBh7L5Olq8hXF0WMDV7aA0ETNm2ihpyAuru7huOfg&oe=69C1DF5A>
+  * **Raw image URLs**:
+    * **IA**: <https://web.archive.org/web/20260319132312/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/649224321_18310689463248562_3345583525819022063_n.jpg?stp=dst-jpg_e35_tt6&_nc_ohc=wmaMrt1JTo8Q7kNvwHh_cwn&_nc_oc=Adqm16almXh5DWJO1q2Ys7bNZbWdpHNzLws3N8gYbkUJ9n6SD4CJZ1tJ-R0wBThvBu8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=cTsd1WJdPGRH6GhiGPqNBg&_nc_ss=8&oh=00_Afz1hUBh7L5Olq8hXF0WMDV7aA0ETNm2ihpyAuru7huOfg&oe=69C1DF5A>
 * ***Lehrer 2018.86738HKEW*** &mdash;
 Photograph. 1080&times;1350. EXIF metadata stripped by Meta CDN.
 *Helikewisia kristinae* wb. Lehrer, 2018.
 &copy; Kristin Lehrer, 2018, all rights reserved.
   * **Page**: See @lehrer_memade_2018.
   * **SHA2-256**: `814fa9cfad20ad414a965623eae02d11b82ecaa54b0522f0537d9ec7f762dac3`
-  * **IA**: <https://web.archive.org/web/20260319154054/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/652736560_18566358889030125_2343636094538386738_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=MTc4NjUyMjU3NDc0Njk0MDk3NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTM1MC5zZHIuQzMifQ%3D%3D&_nc_ohc=Ew8gBj5VlYgQ7kNvwGttAYi&_nc_oc=Adpd5jT5MgxYi8_Xuhv40GkC3THp8hpp-hiyebzQ4gVXsxuD18DEnMlAJiahBqE8pHk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=4TKyJZiquFSWjl8edc6GHg&_nc_ss=8&oh=00_Afw-JqGGlsITxvVm6q7wykt5hwaPefNMpeL01lfeI6AGUw&oe=69C2079B>
+  * **Raw image URLs**:
+    * **IA**: <https://web.archive.org/web/20260319154054/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/652736560_18566358889030125_2343636094538386738_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=MTc4NjUyMjU3NDc0Njk0MDk3NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTM1MC5zZHIuQzMifQ%3D%3D&_nc_ohc=Ew8gBj5VlYgQ7kNvwGttAYi&_nc_oc=Adpd5jT5MgxYi8_Xuhv40GkC3THp8hpp-hiyebzQ4gVXsxuD18DEnMlAJiahBqE8pHk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=4TKyJZiquFSWjl8edc6GHg&_nc_ss=8&oh=00_Afw-JqGGlsITxvVm6q7wykt5hwaPefNMpeL01lfeI6AGUw&oe=69C2079B>
 * ***Lehrer 2018.94528HKEW*** &mdash;
 Photograph. 1080&times;1350. EXIF metadata stripped by Meta CDN.
 *Helikewisia kristinae* wb. Lehrer, 2018.
 &copy; Kristin Lehrer, 2018, all rights reserved.
   * **Page**: See @lehrer_memade_2018.
   * **SHA2-256**: `e49d36f1d0da97a674453c3073e3437dab5835e8f4be30b1e2ba0a5808e38fee`
-  * **IA**: <https://web.archive.org/web/20260319154052/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.2885-15/32203412_2115508038733054_3655784219990294528_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=MTc4NjUyMjU5NjAxMjA3MjI3OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTM1MC5zZHIuZGVmYXVsdF9pbWFnZS5DMyJ9&_nc_ohc=dRqDySO0u6wQ7kNvwGU3ovf&_nc_oc=AdpJH8WTAbtySRnddi8ij7ZEKr1SK1zXI-bvBZnBI0-NjGnQ9LIqTxoa0MFQsob6pS4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_ss=8&oh=00_AfxJnBJAutMp2fVzH8EAgnz_7LFzuzcHFbMpNxCX43ICGA&oe=69C1D48D>
+  * **Raw image URLs**:
+    * **IA**: <https://web.archive.org/web/20260319154052/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.2885-15/32203412_2115508038733054_3655784219990294528_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=MTc4NjUyMjU5NjAxMjA3MjI3OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTM1MC5zZHIuZGVmYXVsdF9pbWFnZS5DMyJ9&_nc_ohc=dRqDySO0u6wQ7kNvwGU3ovf&_nc_oc=AdpJH8WTAbtySRnddi8ij7ZEKr1SK1zXI-bvBZnBI0-NjGnQ9LIqTxoa0MFQsob6pS4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_ss=8&oh=00_AfxJnBJAutMp2fVzH8EAgnz_7LFzuzcHFbMpNxCX43ICGA&oe=69C1D48D>
 
 #### *Helikewisia mariae* {#sec-h-mariae}
+<!-- PROOFREAD 2026-03-23 -->
 **Holotype**: *Maria 0001HM* &mdash; Photograph. 1454&times;2560. EXIF metadata stripped.
 *Helikewisia mariae* wb. Maria (pattern tester; W/2026 F1^[An "Unnamable Human(oid) Center" identifier, assigned for disambiguation purposes.]), c. 2023.
 &copy; Maria or unknown photographer
@@ -698,14 +716,13 @@ Photograph. 1080&times;1350. EXIF metadata stripped by Meta CDN.
 
 * Date inferred from Shopify CDN `v` parameter.
 
-
 #### *Helikewisia sarae* {#sec-h-sarae}
+<!-- PROOFREAD 2026-03-23 -->
 ***Helikewisia sarae*** sp. nov.
-
 <!-- File: p1040082.jpg (HOLOTYPE INFO TEMPLATE FROM LCT01-HOLOTYPER)-->
 **Holotype**: *Sarah 0082HS.AU-TAS* &mdash;
 Photograph. 902&times;1280.
-Exposure: 1/60s. F-stop: 3.3. Focal: 4.30 mm. ISO: 100. Lens: unknown. Camera: DMC-TZ40. 
+Exposure: 1/60s. F-stop: 3.3. Focal: 4.30 mm. ISO: 100. Camera: `DMC-TZ40`. Lens: unknown.
 *Helikewisia sarae* wb. Sarah of T., 2019.
 Ventral view, subject looking to right.
 &copy; Sarah of *Craftily Handmade*, 2019, all rights reserved.
@@ -714,6 +731,9 @@ Ventral view, subject looking to right.
 * **SHA2-256**: `122bc658b0851718566a03e7a74bbb8c1b14f4464c65fe928ee9f5ab9de81690`
 * **Raw image URLs**
   * **Original**: <https://craftilyhandmade.wordpress.com/wp-content/uploads/2019/02/p1040085.jpg>
+<!-- Note to proofreaders!
+  IA url deliberately omitted because readers must reproduce from the WARCs
+-->
 
 **Description**: Shallow angle V neck, bilateral single straps. Buttonholes made of white thread.
 **Buttons.** Ventral medial button row, 12 buttons. Two thread holes, thread line vertical, 
@@ -733,7 +753,7 @@ Ventral view, subject looking to right.
 <!-- File: p1040085.jpg (HOLOTYPE INFO TEMPLATE FROM LCT01-HOLOTYPER)-->
 * ***Sarah 0085HS.AU-TAS*** &mdash;
 Photograph. 960&times;1280.
-Exposure: 1/60s. F-stop: 3.3. Focal: 4.30 mm. ISO: 100. Lens: unknown. Camera: DMC-TZ40. 
+Exposure: 1/60s. F-stop: 3.3. Focal: 4.30 mm. ISO: 100. Camera: `DMC-TZ40`. Lens: unknown.
 *Helikewisia sarae* wb. Sarah of T., 2019.
 Angled ventral view, subject looking down.
 &copy; Sarah of *Craftily Handmade*, 2019, all rights reserved.
@@ -744,7 +764,7 @@ Angled ventral view, subject looking down.
 <!-- File: p1040087.jpg (HOLOTYPE INFO TEMPLATE FROM LCT01-HOLOTYPER)-->
 * ***Sarah 0087HS.AU-TAS*** &mdash;
 Photograph. 960&times;1280.
-Exposure: 1/60s. F-stop: 3.3. Focal: 4.30 mm. ISO: 100. Lens: unknown. Camera: DMC-TZ40. 
+Exposure: 1/60s. F-stop: 3.3. Focal: 4.30 mm. ISO: 100. Camera: `DMC-TZ40`. Lens: unknown.
 Dorsal view, hair positioned ventrally.
 *Helikewisia sarae* wb. Sarah of T., 2019.
 &copy; Sarah of *Craftily Handmade*, 2019, all rights reserved.
@@ -755,7 +775,7 @@ Dorsal view, hair positioned ventrally.
 <!-- File: p1040088.jpg (HOLOTYPE INFO TEMPLATE FROM LCT01-HOLOTYPER)-->
 * ***Sarah 0088HS.AU-TAS*** &mdash;
 Photograph. 960&times;1280.
-Exposure: 1/80s. F-stop: 5.6. Focal: 38.20 mm. ISO: unknown. Lens: unknown. Camera: DMC-TZ40. 
+Exposure: 1/80s. F-stop: 5.6. Focal: 38.20 mm. ISO: unknown. Camera: `DMC-TZ40`. Lens: unknown.
 Close ventral view of button row.
 &copy; Sarah of *Craftily Handmade*, 2019, all rights reserved.
   * **Page**: See @sarah_floral_2019
@@ -769,6 +789,7 @@ In August 2019, Emma, the author of the blog *Crafty Clyde*, sewed three Kew dre
 **Diagnosis**: Having been sewn by Emma of N.
 
 #### *Helikewisia arbor* {#sec-h-arbor}
+<!-- PROOFREAD 2026-03-23 -->
 ***Helikewisia arbor*** sp. nov.
 
 <!-- File: kew+green+2.JPG=s0?imgmax=0 (HOLOTYPE INFO TEMPLATE FROM LCT01-HOLOTYPER)-->
@@ -793,12 +814,12 @@ Exposure: unknown. F-stop: unknown. Focal: unknown. ISO: unknown. Lens: unknown.
 **Specimens examined**: See holotype information.
 
 #### *Helikewisia quagga* {#sec-h-quagga}
+<!-- PROOFREAD 2026-03-23 -->
 ***Helikewisia quagga*** sp. nov.
 
 **Holotype**: *Emma K01.HQ* &mdash;
-Photograph. 1067&times;2048.
-Exposure: unknown. F-stop: unknown. Focal: unknown. ISO: unknown. Lens: unknown. Camera: unknown.
-Dress on mannequin.
+Photograph. 1067&times;2048. EXIF metadata stripped.
+Ventral view. Dress on mannequin.
 &copy; Emma of *Crafty Clyde*, 2019, all rights reserved.
 
 * **Page**: See @emma2019
@@ -822,11 +843,13 @@ Dress on mannequin.
 **Specimens examined**: See holotype information.
 
 ### Genus *Helikewplicata* {#sec-genus-helikewplicata}
+<!-- PROOFREAD 2026-03-23 -->
 ***Helikewplicata*** gen. nov.
 
 **Diagnosis**: Distinguished from other genera in tribe Helikewini by the presence of gathering on the superior area of the skirt, immediately inferior to the bodice&ndash;skirt transition.
 
 #### *Helikewplicata ninae* {#sec-hkp-ninae}
+<!-- PROOFREAD 2026-03-23 -->
 ***Helikewplicata ninae*** sp. nov.
 
 **Holotype**: *Nina 0001HN* &mdash; Photograph. 2538&times;3508.
@@ -851,11 +874,13 @@ Zoomed-out slightly angled ventral shot. Subject facing downward. Hair positione
 **Specimens examined**: See holotype information.
 
 ### Genus *Kewabotonia* {#sec-genus-kewabotonia}
+<!-- PROOFREAD 2026-03-23 -->
 ***Kewabotonia*** Lemuria, 2026
 
-**Diagnosis**: Lack of ventral medial button row on both bodice and skirt. On phylogenetic grounds, descent from Jen Walker's Kew hack (*Kewabotonia zingibera*, see @sec-k-zingibera) or tutorials produced by her pertaining to the hack.
+**Diagnosis**: Phenetically, lack of ventral medial button row on both bodice and skirt. Phylogenetically, descent from Jen Walker's Kew hack (*Kewabotonia zingibera*, see @sec-k-zingibera).
 
 #### *Kewabotonia eleanorae* {#sec-k-eleanorae}
+<!-- PROOFREAD 2026-03-23 -->
 ***Kewabotonia eleanorae*** Lemuria, 2026; first public desc.
 
 **Holotype**: *Eleanor 2018.64378KE* &mdash; Photograph. 1080&times;1350. EXIF metadata stripped. Ventral view of subject, leaning to her left. *Kewabotonia eleanorae* wb. Eleanor S. (W/2026 F3), 2018. &copy; Eleanor (&commat;eleanor_sews), 2018, all rights reserved.
@@ -874,13 +899,14 @@ Zoomed-out slightly angled ventral shot. Subject facing downward. Hair positione
 **Specimens examined**: See holotype information.
 
 #### *Kewabotonia elsae* {#sec-k-elsae}
+<!-- PROOFREAD 2026-03-23 -->
 ***Kewabotonia elsae*** Lemuria, 2026; first public desc.
 
 <!-- File: kew_13.jpg (HOLOTYPE INFO TEMPLATE FROM LCT01-HOLOTYPER)-->
 **Holotype**: *Elsa 2021.0013KE* &mdash;
 Photograph. 640&times;1080.
-Exposure: 1/50s. F-stop: 2.0. Focal: 3.51 mm. ISO: unknown. Lens: unknown. Camera: Redmi Note 7. 
-*Kewabotonia elsae* wb. Elsa, 2021.
+Exposure: 1/50s. F-stop: 2.0. Focal: 3.51 mm. ISO: unknown. Lens: unknown. Camera: `Redmi Note 7`. 
+*Kewabotonia elsae* wb. Elsa of L., 2021.
 &copy; Elsa of *La Casa Cactus*, 2021, all rights reserved.
 
 * **Page**: See @elsa_brocade_2021
@@ -901,7 +927,7 @@ Exposure: 1/50s. F-stop: 2.0. Focal: 3.51 mm. ISO: unknown. Lens: unknown. Camer
 
 **Holotype**: *Rachael 0063*^[We did not assign the letters KN as the image *Rachael 0063* contains five separate dresses, which warrant a taxonomic treatment in their own paper.] &mdash;
 Photograph. 3600&times;2400.
-Exposure: 1/125s. F-stop: 8. Focal: 41 mm. Lens: EF24-105mm f/4L IS II USM. Camera: Canon EOS 5D Mark IV. 
+Exposure: 1/125s. F-stop: 8. Focal: 41 mm. Camera: `Canon EOS 5D Mark IV`. Lens: `EF24-105mm f/4L IS II USM`.
 *Kewabotonia nuptirachaelae* and 4 other *incertae sedis* species on hangers.
 &copy; Chris Chambers, 2018, all rights reserved.
 
@@ -930,7 +956,7 @@ Exposure: 1/125s. F-stop: 8. Focal: 41 mm. Lens: EF24-105mm f/4L IS II USM. Came
 * Holotype.
 * ***Rachael 0412*** &mdash;
 Photograph. 3600&times;2400.
-Exposure: 1/1250s. F-stop: 4.5. Focal: 70 mm. Lens: EF70-200mm f/2.8L IS II USM. Camera: Canon EOS 5D Mark IV.
+Exposure: 1/1250s. F-stop: 4.5. Focal: 70 mm. Camera: `Canon EOS 5D Mark IV`. Lens: `EF70-200mm f/2.8L IS II USM`.
 *Kewabotonia nuptirachaelae* second dress from left, worn by Lizzy, while twirling.
 &copy; Chris Chambers^[Not explicitly stated in EXIF, but inferred from metadata] or unknown assistant, 2018, all rights reserved.
   * **Page**: See @beaumont_handmade_2018
@@ -1377,7 +1403,7 @@ Collage. Left panel ventral view, right panel angled dorsal view, subject on sta
 
 **Holotype**: *Sally M8644KR* &mdash;
 Photograph. 1241&times;3353.
-Exposure: 1/33s. F-stop: 1.8. Focal: 3.99 mm. ISO: unknown. Lens: iPhone 7 back camera 3.99mm f/1.8. Camera: iPhone 7. 
+Exposure: 1/33s. F-stop: 1.8. Focal: 3.99 mm. ISO: unknown. Camera: `iPhone 7`. Lens: `iPhone 7 back camera 3.99mm f/1.8`.
 Ventral view, mirror selfie.
 *Kewisia modistarubera* wb. Sally of M., 2019.
 &copy; Sally of Modista Sewing, 2019, all rights reserved.
@@ -1402,7 +1428,7 @@ Ventral view, mirror selfie.
 <!-- File: holotype/nina-leee-kew-dress-20.jpg (HOLOTYPE INFO TEMPLATE FROM LCT01-HOLOTYPER)-->
 **Holotype**: *Rachael 2018.KL20* &mdash;
 Photograph. 2652&times;4031.
-Exposure: 1/60s. F-stop: 1.7. Focal: 4.20 mm. ISO: unknown. Lens: unknown. Camera: SM-G950F.
+Exposure: 1/60s. F-stop: 1.7. Focal: 4.20 mm. ISO: unknown. Lens: unknown. Camera: `SM-G950F`.
 Ventral view. Wearer's left arm placed on bodice, inferior to bodice&ndash;skirt line.
 *Kewisia rachaelae* wb. Rachael, 2018.
 &copy; Rachael Beaumont or unknown photographer, 2018, all rights reserved.
@@ -1428,7 +1454,7 @@ Ventral view. Wearer's left arm placed on bodice, inferior to bodice&ndash;skirt
 <!-- File: nina-leee-kew-dress-5.jpg (HOLOTYPE INFO TEMPLATE FROM LCT01-HOLOTYPER)-->
 * ***Rachael 2018.KL05*** &mdash;
 Photograph. 1934&times;3497.
-Exposure: 1/50s. F-stop: 1.7. Focal: 4.20 mm. ISO: unknown. Lens: unknown. Camera: SM-G950F.
+Exposure: 1/50s. F-stop: 1.7. Focal: 4.20 mm. ISO: unknown. Lens: unknown. Camera: `SM-G950F`.
 Angled lateral view, wearer's left.
 *Kewisia rachaelae* wb. Rachael, 2018.
 &copy; Rachael Beaumont or unknown photographer, 2018, all rights reserved.
@@ -1439,7 +1465,7 @@ Angled lateral view, wearer's left.
 <!-- File: nina-leee-kew-dress-8.jpg (HOLOTYPE INFO TEMPLATE FROM LCT01-HOLOTYPER)-->
 * ***Rachael 2018.KL08*** &mdash;
 Photograph. 1955&times;3956.
-Exposure: 1/50s. F-stop: 1.7. Focal: 4.20 mm. ISO: unknown. Lens: unknown. Camera: SM-G950F. 
+Exposure: 1/50s. F-stop: 1.7. Focal: 4.20 mm. ISO: unknown. Lens: unknown. Camera: `SM-G950F`.
 Dorsal view. Hair positioned ventrally.
 *Kewisia rachaelae* wb. Rachael, 2018.
 &copy; Rachael Beaumont or unknown photographer, 2018, all rights reserved.
@@ -1450,7 +1476,7 @@ Dorsal view. Hair positioned ventrally.
 <!-- File: nina-leee-kew-dress-10.jpg (HOLOTYPE INFO TEMPLATE FROM LCT01-HOLOTYPER)-->
 * ***Rachael 2018.KL10*** &mdash;
 Photograph. 1758&times;3356.
-Exposure: 1/50s. F-stop: 1.7. Focal: 4.20 mm. ISO: unknown. Lens: unknown. Camera: SM-G950F.
+Exposure: 1/50s. F-stop: 1.7. Focal: 4.20 mm. ISO: unknown. Lens: unknown. Camera: `SM-G950F`.
 Angled ventral view, wearer's right.
 *Kewisia rachaelae* wb. Rachael, 2018.
 &copy; Rachael Beaumont or unknown photographer, 2018, all rights reserved.
@@ -1461,7 +1487,7 @@ Angled ventral view, wearer's right.
 <!-- File: nina-leee-kew-dress-11.jpg (HOLOTYPE INFO TEMPLATE FROM LCT01-HOLOTYPER)-->
 * ***Rachael 2018.KL11*** &mdash;
 Photograph. 1952&times;3333.
-Exposure: 1/50s. F-stop: 1.7. Focal: 4.20 mm. ISO: unknown. Lens: unknown. Camera: SM-G950F. 
+Exposure: 1/50s. F-stop: 1.7. Focal: 4.20 mm. ISO: unknown. Lens: unknown. Camera: `SM-G950F`.
 Slightly angled ventral view. hair positioned ventrally and obscuring straps on wearer's left.
 *Kewisia rachaelae* wb. Rachael, 2018.
 &copy; Rachael Beaumont or unknown photographer, 2018, all rights reserved.
@@ -1472,7 +1498,7 @@ Slightly angled ventral view. hair positioned ventrally and obscuring straps on 
 <!-- File: nina-leee-kew-dress-13.jpg (HOLOTYPE INFO TEMPLATE FROM LCT01-HOLOTYPER)-->
 * ***Rachael 2018.KL13*** &mdash;
 Photograph. 3024&times;4032.
-Exposure: 1/50s. F-stop: 1.7. Focal: 4.20 mm. ISO: unknown. Lens: unknown. Camera: SM-G950F. 
+Exposure: 1/50s. F-stop: 1.7. Focal: 4.20 mm. ISO: unknown. Lens: unknown. Camera: `SM-G950F`.
 Slightly angled ventral view, wearer's left, tighter crop.
 *Kewisia rachaelae* wb. Rachael, 2018.
 &copy; Rachael Beaumont or unknown photographer, 2018, all rights reserved.
@@ -1483,7 +1509,7 @@ Slightly angled ventral view, wearer's left, tighter crop.
 <!-- File: nina-leee-kew-dress-15.jpg (HOLOTYPE INFO TEMPLATE FROM LCT01-HOLOTYPER)-->
 * ***Rachael 2018.KL15*** &mdash;
 Photograph. 2091&times;2683.
-Exposure: 1/50s. F-stop: 1.7. Focal: 4.20 mm. ISO: unknown. Lens: unknown. Camera: SM-G950F.
+Exposure: 1/50s. F-stop: 1.7. Focal: 4.20 mm. ISO: unknown. Lens: unknown. Camera: `SM-G950F`.
 Ventral view of fabric, buttons 4&ndash;8.
 *Kewisia rachaelae* wb. Rachael, 2018.
 &copy; Rachael Beaumont or unknown photographer, 2018, all rights reserved.
@@ -1494,7 +1520,7 @@ Ventral view of fabric, buttons 4&ndash;8.
 <!-- File: nina-leee-kew-dress-16.jpg (HOLOTYPE INFO TEMPLATE FROM LCT01-HOLOTYPER)-->
 * ***Rachael 2018.KL16*** &mdash;
 Photograph. 2134&times;2990.
-Exposure: 1/50s. F-stop: 1.7. Focal: 4.20 mm. ISO: unknown. Lens: unknown. Camera: SM-G950F.
+Exposure: 1/50s. F-stop: 1.7. Focal: 4.20 mm. ISO: unknown. Lens: unknown. Camera: `SM-G950F`.
 Truncated lateral view, wearer's left, shoulder emphasized.
 *Kewisia rachaelae* wb. Rachael, 2018.
 &copy; Rachael Beaumont or unknown photographer, 2018, all rights reserved.
@@ -1505,7 +1531,7 @@ Truncated lateral view, wearer's left, shoulder emphasized.
 <!-- File: nina-leee-kew-dress-17.jpg (HOLOTYPE INFO TEMPLATE FROM LCT01-HOLOTYPER)-->
 * ***Rachael 2018.KL17*** &mdash;
 Photograph. 2876&times;3337.
-Exposure: 1/50s. F-stop: 1.7. Focal: 4.20 mm. ISO: unknown. Lens: unknown. Camera: SM-G950F.
+Exposure: 1/50s. F-stop: 1.7. Focal: 4.20 mm. ISO: unknown. Lens: unknown. Camera: `SM-G950F`.
 Truncated dorsal view, subject likely has arms crossed ventrally.
 *Kewisia rachaelae* wb. Rachael, 2018.
 &copy; Rachael Beaumont or unknown photographer, 2018, all rights reserved.
@@ -1516,7 +1542,7 @@ Truncated dorsal view, subject likely has arms crossed ventrally.
 <!-- File: nina-leee-kew-dress-19.jpg (HOLOTYPE INFO TEMPLATE FROM LCT01-HOLOTYPER)-->
 * ***Rachael 2018.KL19*** &mdash;
 Photograph. 2518&times;4032.
-Exposure: 1/60s. F-stop: 1.7. Focal: 4.20 mm. ISO: unknown. Lens: unknown. Camera: SM-G950F.
+Exposure: 1/60s. F-stop: 1.7. Focal: 4.20 mm. ISO: unknown. Lens: unknown. Camera: `SM-G950F`.
 Ventral view, zoomed out, subject standing straight, hair positioned dorsally.
 *Kewisia rachaelae* wb. Rachael, 2018.
 &copy; Rachael Beaumont or unknown photographer, 2018, all rights reserved.
@@ -1660,7 +1686,7 @@ Dress on red mannequin, angled ventral view of sleeve and strap.
 
 **Holotype**: *Rothery 8861KL* &mdash;
 Photograph. 3024&times;3024.
-Exposure: 1/50s. F-stop: 1.8. Focal: 4.0 mm. Lens: iPhone 7 back camera 3.99mm f/1.8. Camera: iPhone 7. 
+Exposure: 1/50s. F-stop: 1.8. Focal: 4.0 mm.  Camera: `iPhone 7`. Lens: `iPhone 7 back camera 3.99mm f/1.8`.
 Ventral view, hair positioned ventrally and obscuring wearer's left.
 *Kewpepla lornaebis* wb. Lorna.R., 2020.
 &copy; Lorna Rothery, 2020, all rights reserved.
@@ -1810,7 +1836,7 @@ Zoomed out shot of dress laid on table.
 #### *Kewthea lornae* {#sec-kt-lornae}
 ***Kewthea lornae*** Lemuria, 2026; first public desc.
 
-**Holotype**: *Rothery 3618KL* &mdash; Photograph. 983&times;1748. Exposure 1/30s, f-stop 6.3, lens foc. len 18mm (35mm equiv. 33.5mm), ISO 400. Camera `Canon EOS 90D` with lens `EF-S18-55mm f/3.5-5.6 IS STM`. United Kingdom. *Kewthea lornae* wb. Lorna.R., 2025.
+**Holotype**: *Rothery 3618KL* &mdash; Photograph. 983&times;1748. Exposure 1/30s, f-stop 6.3, lens foc. len 18mm (35mm equiv. 33.5mm), ISO 400. Camera: `Canon EOS 90D`. Lens: `EF-S18-55mm f/3.5-5.6 IS STM`. United Kingdom. *Kewthea lornae* wb. Lorna.R., 2025.
 &copy; Lorna Rothery or Lorna Malkin (name seen in EXIF data; see @sec-malkin), 2025, all rights reserved. 
 
 * **Page**: See @rothery_perfect_2025
@@ -1832,13 +1858,13 @@ Zoomed out shot of dress laid on table.
 **Specimens examined**:
 
 * Holotype.
-* ***Rothery 3603KL*** &mdash; Photograph. 926&times;1218. Exposure 1/250s, f-stop 3.5, lens foc. len 18mm (35mm equiv. 33.5), ISO 500. Camera `Canon EOS 90D` with lens `EF-S18-55mm f/3.5-5.6 IS STM`. Dress in incomplete state, laid on table, ventral side up. &copy; Lorna Rothery or Lorna Malkin (name seen in EXIF data; see @sec-malkin), 2025, all rights reserved.
+* ***Rothery 3603KL*** &mdash; Photograph. 926&times;1218. Exposure 1/250s, f-stop 3.5, lens foc. len 18mm (35mm equiv. 33.5), ISO 500. Camera: `Canon EOS 90D`. Lens `EF-S18-55mm f/3.5-5.6 IS STM`. Dress in incomplete state, laid on table, ventral side up. &copy; Lorna Rothery or Lorna Malkin (name seen in EXIF data; see @sec-malkin), 2025, all rights reserved.
   * **Page**: See @rothery_perfect_2025
   * **SHA2-256**: `5b0ff8b5d9ddb59d32181859adefe177e1ef99de31681e3d8fe24c1ba6d080d2`
   * **Raw image URLs**
     * **Original**: <https://lornarothery.com/wp-content/uploads/2025/07/img_3603-1.jpg>
     * **IA**: <https://web.archive.org/web/20260317093137/https://lornarothery.com/wp-content/uploads/2025/07/img_3603-1.jpg>
-* ***Rothery 3637KL*** &mdash; Photograph. 1080&times;1920. Exposure 1/30s, f-stop 6.3, lens foc. len 18mm (35mm equiv. 33.5mm), ISO 400. Camera `Canon EOS 90D` with lens `EF-S18-55mm f/3.5-5.6 IS STM`. *Kewthea lornae* wb. Lorna.R., 2025, &copy; Lorna Rothery or Lorna Malkin (name seen in EXIF data; see @sec-malkin), 2025, all rights reserved.
+* ***Rothery 3637KL*** &mdash; Photograph. 1080&times;1920. Exposure 1/30s, f-stop 6.3, lens foc. len 18mm (35mm equiv. 33.5mm), ISO 400. Camera: `Canon EOS 90D`. Lens `EF-S18-55mm f/3.5-5.6 IS STM`. *Kewthea lornae* wb. Lorna.R., 2025, &copy; Lorna Rothery or Lorna Malkin (name seen in EXIF data; see @sec-malkin), 2025, all rights reserved.
   * **Page**: See @rothery_perfect_2025
   * **SHA2-256**: `3def2839e8e0686b451d3fd216290a69fc8b5cf567dff45da71b5444908ad77d`
   * **Raw image URLs**
@@ -1863,7 +1889,7 @@ Ventral view, full body, subject smiling, hair positioned ventrally. Closer to s
 **Buttons.** Ventral medial button row, 9 buttons. 3 on bodice, 6 on skirt. Spacing unequal between second and third button. Top three buttonholes sewn by machine. Rest of buttonholes hand-sewn due to machine malfunction.
 **Fabric.** Viscose, from Fabricate. Navy-blue background, stylized flowers, most second common color by surface area teal.
 
-**Etymology**: Blend of *Lorna* + *skoroblae*, corrupted form of Greek σκούρο μπλε (*skoúro ble*, "dark blue, navy blue").
+**Etymology**: Blend of *Lorna* + *skoroblae*, corrupted form of Greek `\textgreek{σκούρο μπλε}`{=latex} (*skoúro ble*, "dark blue, navy blue").
 
 **Specimens examined**:
 
@@ -1910,7 +1936,7 @@ Ventral view, subject sitting on floor, looking down.
 
 **Holotype**: *Modista 9861KM* &mdash;
 Photograph. 3024&times;4032.
-Exposure: 1/17s. F-stop: 9. Focal: 4.0 mm. Lens: iPhone 7 back camera 3.99mm f/1.8. Camera: iPhone 7.
+Exposure: 1/17s. F-stop: 9. Focal: 4.0 mm. Lens: `iPhone 7 back camera 3.99mm f/1.8`. Camera: `iPhone 7`.
 Ventral view, hair positioned laterally. Image ends superior to hemline.
 *Kewthea modistaflora* wb. Sally of M., 2020.
 &copy; Sally (Modista Sewing), 2020, all rights reserved.
@@ -1933,7 +1959,7 @@ On right sleeve (wearer's perspective), pattern discontinuity at downward angle.
 * Holotype.
 * ***Modista 9929KM*** &mdash;
 Photograph. 3024&times;4032.
-Exposure: 1/2907s. F-stop: 1.8. Focal: 4.0 mm. Lens: iPhone 7 back camera 3.99mm f/1.8. Camera: iPhone 7.
+Exposure: 1/2907s. F-stop: 1.8. Focal: 4.0 mm. Lens: `iPhone 7 back camera 3.99mm f/1.8`. Camera: `iPhone 7`.
 Ventral view. Denim jacket (unclassified) worn above dress, tied together at inferior end.
 *Kewthea modistaflora* wb. Sally of M., 2020.
 &copy; Sally (Modista Sewing), 2020, all rights reserved.
@@ -1944,7 +1970,7 @@ Ventral view. Denim jacket (unclassified) worn above dress, tied together at inf
     * **IA**: <https://web.archive.org/web/20260317233258/https://modistasewing.wordpress.com/wp-content/uploads/2020/04/img_9929.jpg>
 * ***Modista 9943KM*** &mdash;
 Photograph. 2638&times;3515.
-Exposure: 1/1277s. F-stop: 1.8. Focal: 4.0 mm. Lens: iPhone 7 back camera 3.99mm f/1.8. Camera: iPhone 7.
+Exposure: 1/1277s. F-stop: 1.8. Focal: 4.0 mm. Lens: `iPhone 7 back camera 3.99mm f/1.8`. Camera: `iPhone 7`.
 Ventral view. Denim jacket (unclassified) worn above dress, tied together at inferior end.
 *Kewthea modistaflora* wb. Sally of M., 2020.
 &copy; Sally (Modista Sewing), 2020, all rights reserved.
@@ -2147,37 +2173,33 @@ To determine the genera in which a Kew dress is placed:
 ### Person abbreviations
 In this paper, we used the following person abbreviations.
 
-```{=latex}
-\begin{multicols}{2}
-```
-* **Alice.Ir.** &mdash; Alice Irvine.
-* **Alice.W.** &mdash; Alice Wang (Instagram: &commat;alice_x_wang), author of the blog *Queen of Darts*.
-* **Bernice** &mdash; Bernice (Instagram: &commat;sewbee73), a sewist based in the San Francisco Bay Area.
-* **Eleanor S.** &mdash; Eleanor (Instagram: &commat;eleanor_sews). Abbreviation stands for *Eleanor Sews*.^[If a surname or second name being treated as a surname is being abbreviated to form a person abbreviation, a dot is placed between the first name and the initial. If a verb, noun, or other word from the person's handle or alias is being abbreviated, a regular space is used instead.]
-* **Emily of L.** &mdash; Emily, author of the blog *Self Assembly Required*. Abbreviation stands for *Emily of London*.
-* **Emma of N.** &mdash; Emma, author of the blog *Crafty Clyde*. Abbreviation stands for *Emma of Norfolk*.
-* **Erin.M.** &mdash; Erin Madalone (Instagram: &commat;poeticmemorysewing), an American sewist based in New Jersey.
+* **Alice.Ir.** &mdash; Alice Irvine (<https://aliceirvine.com/>; Instagram: &commat;[its.alice.irvine](https://instagram.com/its.alice.irvine))
+* **Alice.W.** &mdash; Alice Wang (Instagram: &commat;[alice_x_wang](https://instagram.com/alice_x_wang)), author of the blog *Queen of Darts*.
+* **Bernice** &mdash; Bernice (Instagram: &commat;[sewbee73](https://instagram.com/sewbee73)), a sewist based in the San Francisco Bay Area.
+* **Eleanor S.** &mdash; Eleanor (Instagram: &commat;[eleanor_sews](https://instagram.com/eleanor_sews)). Abbreviation stands for *Eleanor Sews*.^[If a surname or second name being treated as a surname is being abbreviated to form a person abbreviation, a dot is placed between the first name and the initial. If a verb, noun, or other word from the person's handle or alias is being abbreviated, a regular space is used instead.]
+* **Elsa of L.** &mdash; Elsa, author of the blog *La Casa Cactus*. Abbreviation stands for *Elsa of La Casa Cactus*.
+* **Emily of L.** &mdash; Emily (Instagram: &commat;[selfassemblyrequired](https://instagram.com/selfassemblyrequired)), author of the blog *Self Assembly Required*. Abbreviation stands for *Emily of London*.
+* **Emma of N.** &mdash; Emma (Instagram: &commat;[craftyclyde](https://instagram.com/craftyclyde)), author of the blog *Crafty Clyde*. Abbreviation stands for *Emma of Norfolk*.
+* **Erin.M.** &mdash; Erin Madalone (Instagram: &commat;[poeticmemorysewing](https://instagram.com/poeticmemorysewing)), an American sewist based in New Jersey.
 * **Eva** &mdash; Kate Eva.
-* **Gingerthread** &mdash; Gingerthread Girl (Jen Walker).
-* **Joy of B.** &mdash; Joy (Instagram: &commat;sew.with.joy), a sewist based in Brooklyn. Abbreviation stands for *Joy of Brooklyn*.
-* **Julie of the W.M.** &mdash; Julie (Instagram: &commat;julielovestosew). Abbreviation stands for *Julie of the West Midlands*.
-* **Lehrer** &mdash; Kristin Lehrer, known online as Voolenvine.
+* **Gingerthread** &mdash; Gingerthread Girl (Jen Walker; Instagram: &commat;[gingerthreadgirl](https://instagram.com/gingerthreadgirl)).
+* **Joy of B.** &mdash; Joy (Instagram: &commat;[sew.with.joy](https://instagram.com/sew.with.joy)), a sewist based in Brooklyn. Abbreviation stands for *Joy of Brooklyn*.
+* **Julie of the W.M.** &mdash; Julie (Instagram: &commat;[julielovestosew](https://instagram.com/julielovestosew)). Abbreviation stands for *Julie of the West Midlands*.
+* **Lehrer** &mdash; Kristin Lehrer (Instagram: &commat;[voolenvine](https://instagram.com/voolenvine)), known online as Voolenvine. Operator of Voolenvine Yarns (<https://voolenvineyarns.com>).
+* **Lemuria** &mdash; Lemuria (<https://lemuria.ph>), Filipino programmer and independent clothing taxonomist; author of *Lemuria's (Informal) Journal of Clothing Taxonomy* (<https://lct01.lemuria.ph>).
 * **Liz of G.** &mdash; Liz, author of the blog *Girl Can Sew*. Abbreviation stands for *Liz of Girl Can Sew*.
 * **Lorna.R.** &mdash; Lorna Rothery (<https://lornarothery.com/>), the most prolific sewist among the Kewthidae, with four documented specimens.
-* **Marie.K.** &mdash; Marie Koupparis, author of the blog *A Stitching Odyssey*.
-* **Nina** &mdash; Nina Chang-Smith.
-* **Parker** &mdash; Fiona Parker, British sewist, author of the blog *Diary of a Chain Stitcher* (<https://chainstitcher.blogspot.com/>).
-* **Rachael** &mdash; Rachael Beaumont, author of the blog *Sew Prettyful*.
+* **Marie.K.** &mdash; Marie Koupparis (Instagram: &commat;[stitchodyssey](https://instagram.com/stitchodyssey)), author of the blog *A Stitching Odyssey*.
+* **Nina** &mdash; Nina Chang-Smith (Instagram: &commat;[ninaleeloves](https://instagram.com/ninaleeloves)). Operator of Nina Lee Patterns (<https://ninalee.co.uk>).
+* **Parker** &mdash; Fiona Parker (Instagram: &commat;[fionaparker17](https://instagram.com/fionaparker17)), British sewist, author of the blog *Diary of a Chain Stitcher* (<https://chainstitcher.blogspot.com/>).
+* **Rachael** &mdash; Rachael Beaumont (Instagram: &commat;[sew_prettyful](https://instagram.com/sew_prettyful)), author of the blog *Sew Prettyful*.
 * **Ruth.Pr.** &mdash; Ruth Procter, author of the blog *Nightingale & Dolittle*.
 * **Sally of M.** &mdash; Sally, author of the blog *Modista Sewing*. Abbreviation stands for *Sally of Modista*.
-* **Sarah of T.** &mdash; Sarah, author of the blog *Craftily Handmade*. Abbreviation stands for *Sarah of Tasmania.*
-* **Sarah.D.** &mdash; Sarah Donnison (Instagram: &commat;sewsarahstitch), the *Sewist Organiser*^[The *Journal* uses Philippine English, which is based on American English. We preserve the original spelling of the rank here.]
-* **Sarah's S.C.** &mdash; Sarah (Instagram: &commat;sarahssewingchronicles), a Minerva ambassador. Abbreviation stands for *Sarah's Sewing Chronicles*.
+* **Sarah of T.** &mdash; Sarah (Instagram: &commat;[craftily_handmade](https://instagram.com/craftily_handmade)), author of the blog *Craftily Handmade*. Abbreviation stands for *Sarah of Tasmania.*
+* **Sarah.D.** &mdash; Sarah Donnison (Instagram: &commat;[sewsarahstitch](https://instagram.com/sewsarahstitch)), the *Sewist Organiser*^[The *Journal* uses Philippine English, which is based on American English. We preserve the original spelling of the rank here.]
+* **Sarah's S.C.** &mdash; Sarah (Instagram: &commat;[sarahssewingchronicles](https://instagram.com/sarahssewingchronicles)), a Minerva ambassador. Abbreviation stands for *Sarah's Sewing Chronicles*.
 * **Stéphanie.T.** &mdash; Stéphanie Terranova / Terranova Stéphanie. Order of name elements unknown.
-* **Vic.B.** &mdash; Vic Broad (Instagram: &commat;sewvee), author of the blog *Sewvee*.
-```{=latex}
-\end{multicols}
-```
+* **Vic.B.** &mdash; Vic Broad (Instagram: &commat;[sewvee](https://instagram.com/sewvee)), author of the blog *Sewvee*.
 
 #### Botanical abbreviations
 These botanical abbreviations were used:
