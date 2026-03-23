@@ -29,7 +29,12 @@ citation:
   article-id: lict2026.0005
   publisher-place: Philippines
 format:
-  html: default
+  html:
+    format-links: false
+    other-links:
+      - text: PDF
+        href: https://static.lemuria.ph/lct01/pdf/2026/2026.0005_kew_dress.pdf
+        icon: file-pdf
   aft-pdf:
     toc: true
     toc-depth: 3
