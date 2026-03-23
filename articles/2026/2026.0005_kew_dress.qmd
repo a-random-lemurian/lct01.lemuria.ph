@@ -10,7 +10,7 @@ author:
 license: CC BY-SA
 journal:
   title: "Lemuria's (Informal) Journal of Clothing Taxonomy"
-date: 2026-03-17
+date: 2026-03-24
 lang: en
 execute: 
   freeze: true
@@ -24,7 +24,7 @@ citation:
   author: Lemuria
   citation-key: lemuria_kew_2026
   title: A taxonomy of Nina Lee's Kew and Kewbello
-  original-date: 2026-03-16
+  original-date: 2026-03-24
   publisher: Lemuria
   article-id: lict2026.0005
   publisher-place: Philippines
@@ -2406,7 +2406,7 @@ Publisher article ID: lict2026.0005
 
 At publication, the journal did not have a DOI prefix.
 
-Work began on the paper on 2026-03-14. Descriptions were completed and proofreading began on 2026-03-23.
+Work began on the paper on 2026-03-14. Descriptions were completed and proofreading began on 2026-03-23. Proofreading was completed on 2026-03-24 and published the same day.
 
 Visit us at: <https://lct01.lemuria.ph>
 
