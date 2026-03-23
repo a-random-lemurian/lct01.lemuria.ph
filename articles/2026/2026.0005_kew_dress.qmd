@@ -501,7 +501,7 @@ Zoomed out ventral view, river in background, outdoors. Worn under unclassified 
 <!-- File: holland.JPG=s0?imgmax=0 (HOLOTYPE INFO TEMPLATE FROM LCT01-HOLOTYPER)-->
 **Holotype**: *Emma 2019-001.HS* &mdash;
 Photograph. 1102&times;2048.
-Exposure: unknown. F-stop: unknown. Focal: unknown. ISO: unknown. Lens: unknown. Camera: unknown. 
+EXIF metadata stripped. 
 *Helikewabotonia stabile* wb. Emma of N., 2019.
 &copy; Emma of *Crafty Clyde*, 2019, all rights reserved.
 
@@ -795,7 +795,7 @@ In August 2019, Emma, the author of the blog *Crafty Clyde*, sewed three Kew dre
 <!-- File: kew+green+2.JPG=s0?imgmax=0 (HOLOTYPE INFO TEMPLATE FROM LCT01-HOLOTYPER)-->
 **Holotype**: *Emma 2019-001.HA* &mdash;
 Photograph. 1819&times;2048.
-Exposure: unknown. F-stop: unknown. Focal: unknown. ISO: unknown. Lens: unknown. Camera: unknown. 
+EXIF metadata stripped. 
 *Helikewisia arbor* wb. Emma of N., 2019.
 &copy; Emma of *Crafty Clyde*, 2019, all rights reserved.
 
@@ -912,7 +912,7 @@ Exposure: 1/50s. F-stop: 2.0. Focal: 3.51 mm. ISO: unknown. Lens: unknown. Camer
 * **Page**: See @elsa_brocade_2021
 * **SHA2-256**: `801293dddc4076f143b5c2a1eb2a539480a32ea4c7066ecbeb4a8c6932bcfcec`
 * **Raw image URLs**
-  * **Original**:<https://lacasacactus.com/wp-content/uploads/2021/03/kew_13.jpg>
+  * **Original**: <https://lacasacactus.com/wp-content/uploads/2021/03/kew_13.jpg>
   * **IA**: <https://web.archive.org/web/20260319105749/https://lacasacactus.com/wp-content/uploads/2021/03/kew_13.jpg>
 
 **Description**: Shallow angle V neck. Lack of ventral medial button row. Bilateral single straps. Dorsal medial zipper. Skirt terminates superior to knee.
@@ -923,6 +923,7 @@ Exposure: 1/50s. F-stop: 2.0. Focal: 3.51 mm. ISO: unknown. Lens: unknown. Camer
 **Specimens examined**: See holotype information.
 
 #### *Kewabotonia nuptirachaelae* {#sec-k-nuptirachaelae}
+<!-- PROOFREAD 2026-03-23 -->
 ***Kewabotonia nuptirachaelae*** Lemuria, 2026; first public desc.
 
 **Holotype**: *Rachael 0063*^[We did not assign the letters KN as the image *Rachael 0063* contains five separate dresses, which warrant a taxonomic treatment in their own paper.] &mdash;
@@ -935,6 +936,9 @@ Exposure: 1/125s. F-stop: 8. Focal: 41 mm. Camera: `Canon EOS 5D Mark IV`. Lens:
 * **SHA2-256**: `e2bd19110cb129884424e0a9cb40356b6d8f4913ccf2c50b9742b6de638e498e`
 * **Raw image URLs**
   * **Original**: <https://sewprettyful.wordpress.com/wp-content/uploads/2018/08/0063-ra.jpg>
+<!-- Note to proofreaders!
+  IA url deliberately omitted because readers must reproduce from the WARCs
+-->
 
 **Description**: Bilateral single straps. Lack of ventral medial button row. Full circle skirt. Interior white lining, with purple ink "Hand Crafted by Sewprettyful" label positioned medially on interior dorsal lining. Full overlay on bodice and skirt, plain band at bodice&ndash;skirt transition on transpyloric plane. White layers of fabric deep to outer layer. **Fabric.**
 
@@ -963,8 +967,12 @@ Exposure: 1/1250s. F-stop: 4.5. Focal: 70 mm. Camera: `Canon EOS 5D Mark IV`. Le
   * **SHA2-256**: `631592f926a502692fdc21802c721d1d6da2795a150e63e4fdce14515530ca2f`
   * **Raw image URLs**
     * **Original**: <https://sewprettyful.wordpress.com/wp-content/uploads/2018/08/0412-ra.jpg>
+<!-- Note to proofreaders!
+  IA url deliberately omitted because readers must reproduce from the WARCs
+-->
 
 #### *Kewabotonia sarae* {#sec-kb-sarae}
+<!-- PROOFREAD 2026-03-23 -->
 ***Kewabotonia sarae*** Lemuria, 2026; first public desc.
 
 **Holotype**: *Sarah SC.12274KS* &mdash;
@@ -986,6 +994,7 @@ EXIF metadata stripped.
 **Specimens examined**: See holotype information.
 
 #### *Kewabotonia zingibera* {#sec-k-zingibera}
+<!-- PROOFREAD 2026-03-23 -->
 ***Kewabotonia zingibera*** Lemuria, 2026; first public desc.
 
 **Holotype**: *Gingerthread 0212KZ* &mdash; Photograph. 1200&times;1800. EXIF metadata stripped; exposure, f-stop, lens foc. len unknown. United Kingdom. Ventral full-body view. Tied hair. Arms spread laterally. *Kewabotonia zingibera* wb. Gingerthread, 2018.
@@ -1004,11 +1013,13 @@ EXIF metadata stripped.
 **Specimens examined**: See holotype information.
 
 ### Genus *Kewasalia* {#sec-genus-kewasalia}
+<!-- PROOFREAD 2026-03-23 -->
 ***Kewasalia*** gen. nov.
 
 **Diagnosis**: Lack of ventral medial button row, two legs bifurcating, and non-descent from the Portobello trouser pattern.
 
 #### *Kewasalia pimsia* {#sec-k-pimsia}
+<!-- PROOFREAD 2026-03-23 -->
 ***Kewasalia pimsia*** sp. nov.
 
 **Holotype**: *Pimsy 0001KP* &mdash; Photograph. 801&times;1184. EXIF metadata stripped; exposure, f-stop, lens foc. len unknown. Screenshotted by Chang-Smith, inferred from filename. Unknown location. Ventral view. Subject's head is to her right. Left strap (wearer's perspective) slightly obscured by ventrally positioned hair. Legs slightly crossed, obscuring medial interlimb space.
@@ -1027,11 +1038,13 @@ EXIF metadata stripped.
 **Specimens examined**: See holotype information.
 
 ### Genus *Kewisia* {#sec-genus-kewisia}
+<!-- PROOFREAD 2026-03-23 -->
 ***Kewisia*** Lemuria, 2026; first public desc.
 
 **Diagnosis**: Presence of ventral medial button row, bilateral single straps, and sleeves lateral to the upper arm.
 
 #### *Kewisia bernicae* {#sec-k-bernicae}
+<!-- PROOFREAD 2026-03-23 -->
 ***Kewisia bernicae*** Lemuria, 2026; first public desc.
 
 **Holotype**: *Bernice 37957KB* &mdash;
@@ -1077,6 +1090,7 @@ Ventral side of dress laid out on wood table. Image truncates medial portions of
     * **IA**: <https://web.archive.org/web/20260317211238/https://cdn.minerva.com/feed/original/image-sa-1031540-1000312-48621.jpg>
 
 #### *Kewisia evae* {#sec-k-evae}
+<!-- PROOFREAD 2026-03-23 -->
 ***Kewisia evae*** Lemuria, 2026
 
 **Holotype**: *Eva 3318KE* &mdash;
@@ -1105,6 +1119,7 @@ Ventral (front) view. Hair positioned dorsally.
 **Specimens examined**: See holotype information.
 
 #### *Kewisia fionae* {#sec-k-fionae}
+<!-- PROOFREAD 2026-03-23 -->
 ***Kewisia fionae*** Lemuria, 2026; first public desc.
 
 **Holotype**: *Parker 0001KF* &mdash;
@@ -1133,6 +1148,7 @@ Ventral view. Hair positioned dorsally.
 **Specimens examined**: See holotype information.
 
 #### *Kewisia genyae* {#sec-k-genyae}
+<!-- PROOFREAD 2026-03-23 -->
 ***Kewisia genyae*** sp. nov.
 
 **Holotype**: *Genya 2023.0004KG* &mdash; Photograph.
@@ -1154,6 +1170,7 @@ Ventral view. Inferiormost two buttons unfastened.
 **Etymology**: *Genya* (from the filename) + *-ae*, feminine genitive suffix.
 
 #### *Kewisia kristinae* {#sec-k-kristinae}
+<!-- PROOFREAD 2026-03-23 -->
 ***Kewisia kristinae*** Lemuria, 2026; first public desc.
 
 **Holotype**: *Lehrer 2018.12320KK* &mdash; Photograph.
@@ -1193,6 +1210,7 @@ Dorsal view, truncated at medial point of skirt vertically and wearer's right ed
 * ***Lehrer 2018.23250KK*** &mdash; Photograph.
 1080&times;1350.
 EXIF metadata stripped. Sourced from Meta CDN, original URL non-permanent.
+Lehrer sitting on chair, facing her right, leaning to her left.
 *Kewisia kristinae* wb. Lehrer, 2018. &copy; Kristin Lehrer, 2018, all rights reserved.
   * **Page**: See @lehrer_feelin_2018
   * **SHA2-256**: `77af3ae6d745d43459b95f1c033580d12d6af5795cb1adbe777b497ff68ea302`
@@ -1200,6 +1218,7 @@ EXIF metadata stripped. Sourced from Meta CDN, original URL non-permanent.
 * ***Lehrer 2018.73568KK*** &mdash; Photograph.
 1080&times;1350.
 EXIF metadata stripped. Sourced from Meta CDN, original URL non-permanent.
+Truncated ventral view. Slanted posture; only right portion of dress visible; black border at edges.
 *Kewisia kristinae* wb. Lehrer, 2018. &copy; Kristin Lehrer, 2018, all rights reserved.
   * **Page**: See @lehrer_feelin_2018
   * **SHA2-256**: `1e064765de0c603ba33da49a4cb94728919c751a2dea24202c3a6a3d339f774c`
@@ -1217,6 +1236,7 @@ Fabric and buttons of *Kewisia kristinae* pre-assembly.
 **`yt-dlp` provenance:** See @sec-yt-dlp-k-kristinae.
 
 #### *Kewisia latae* {#sec-k-latae}
+<!-- PROOFREAD 2026-03-23 -->
 ***Kewisia latae*** Lemuria, 2026; first public desc.
 
 **Holotype**: *Vic 91147KL* &mdash; Photograph. 1080&times;1080. EXIF metadata stripped. Collage compiled by Nina; left panel shows ventral view; hair positioned mostly dorsally with some strands obscuring wearer's left strap. Right panel shows lateral angled view; hair positioned almost entirely dorsally. *Kewisia latae* wb. Vic.B., 2017. &copy; Vic Broad (&commat;sewvee), 2017, all rights reserved.
@@ -1237,6 +1257,7 @@ Fabric and buttons of *Kewisia kristinae* pre-assembly.
 **Specimens examined**: See holotype information.
 
 #### *Kewisia lizae* {#sec-k-lizae}
+<!-- PROOFREAD 2026-03-23 -->
 ***Kewisia lizae*** Lemuria, 2026; first public desc.
 
 **Holotype**: *Liz GCS2018.004KL* &mdash;
@@ -1296,6 +1317,7 @@ Zoomed out dorsal view. Hair positioned dorsally. Subject interacting with *Wist
     * **IA**: <https://web.archive.org/web/20260318202027/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2tKHL-yMVyts7S9-ROPAVKPl_W5VI00Yuox9eM8wV6WFjMKHokyzP57lon_jZ1mKPOLsJDX2v56t5ngjQgpd-bW1syGJAZOiqnWSVo51cANw4ZJhVDJEvAI8IddaeB1x0ccwhTGG7yHw/s0/kew+dress+back.png=s0?imgmax=0>
 
 #### *Kewisia mariae* {#sec-k-mariae}
+<!-- PROOFREAD 2026-03-23 -->
 ***Kewisia mariae*** Lemuria, 2026; first public desc.
 
 **Holotype**: *Marie 2451a-KM* &mdash;
@@ -1377,11 +1399,12 @@ Ventral view, laid out on table.
     * **IA**: <https://web.archive.org/web/20260317185718/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7KEOSlhev1CSSvTZYGaoZLoqhv2IKlTcnhVGE7snPy_GoqvqLKfJPF70iEO1Y00tkMr3KIkP1iDVIoqRpyuCnrGAc67MAKxAABvtbFAd4olH34USJR4-H52m3BfyGQan3at2Vtcqxmzk/s0/IMG_2494.jpg=s0?imgmax=0>
 
 #### *Kewisia modistaflora* {#sec-k-modistaflora}
+<!-- PROOFREAD 2026-03-23 -->
 ***Kewisia modistaflora*** Lemuria, 2026; first public desc.
 
 **Holotype**: *Sally M40C8B-KR* &mdash;
 Photograph. 2048&times;2048.
-Exposure: unknown. F-stop: unknown. Focal: unknown. ISO: unknown. Lens: unknown. Camera: unknown.
+EXIF metadata stripped.
 Collage. Left panel ventral view, right panel angled dorsal view, subject on stairs. Hair terminates superior to collarbone.
 *Kewisia modistaflora* wb. Sally of M., unknown.
 &copy; Sally of Modista Sewing, unknown, all rights reserved.
@@ -1394,11 +1417,12 @@ Collage. Left panel ventral view, right panel angled dorsal view, subject on sta
 
 **Description**: Shallow angle V-neck. Bilateral single straps. Skirt terminates inferior to knee. Shoulder sleeve vertically inverted. **Buttons.** Button count inconclusive due to image quality. **Fabric.** Cotton lawn from Abakhan. Black background. Floral; yellow and pink flowers.
 
-**Etymology**: *Modista* + *flora* "flower".
+**Etymology**: *Modista* + Pseudo-Latin *flora* "flower"^[The actual Latin word for "flower" is *flos*.], from Latin *Flora*, the goddess of flowers.
 
 **Specimens examined**: See holotype information.
 
 #### *Kewisia modistarubera* {#sec-k-modistarubera}
+<!-- PROOFREAD 2026-03-23 -->
 ***Kewisia modistarubera*** Lemuria, 2026; first public desc.
 
 **Holotype**: *Sally M8644KR* &mdash;
@@ -1423,6 +1447,7 @@ Ventral view, mirror selfie.
 **Specimens examined**: See holotype information.
 
 #### *Kewisia rachaelae* {#sec-k-rachaelae}
+<!-- PROOFREAD 2026-03-23 -->
 ***Kewisia rachaelae*** Lemuria, 2026; first public desc.
 
 <!-- File: holotype/nina-leee-kew-dress-20.jpg (HOLOTYPE INFO TEMPLATE FROM LCT01-HOLOTYPER)-->
@@ -1437,6 +1462,9 @@ Ventral view. Wearer's left arm placed on bodice, inferior to bodice&ndash;skirt
 * **SHA2-256**: `81942cc72cfce9de1edca8fa6309b02bf8d9bd3927a4422f23863d8b7871c51d`
 * **Raw image URLs**
   * **Original**: <https://sewprettyful.wordpress.com/wp-content/uploads/2018/03/nina-leee-kew-dress-20.jpg>
+<!-- Note to proofreaders!
+  IA url deliberately omitted because readers must reproduce from the WARCs
+-->
 
 **Description**: Shallow angle V-neck. Bilateral single straps. **Buttons.** 12 buttons, 5 on bodice, 7 on skirt. Fabric covered. Bodice size 10, with 1 in (2.54 cm) bust adjustment. 1.5 cm seam allowance. Skirt terminates parallel to knee, shortened by 3.25 in (8.25 cm). **Fabric.** Lavender background. Floral. Plants include but are not limited to *Adiantum capillus-veneris* L. (maidenhair fern), *Hydrangea macrophylla* (Thunb.) Ser. (bigleaf hydrangea). On sleeves, stylized bird most similar to *Irena puella* (Latham, 1790), the Asian fairy-bluebird.
 
@@ -1552,6 +1580,7 @@ Ventral view, zoomed out, subject standing straight, hair positioned dorsally.
     * **Original**: <https://sewprettyful.wordpress.com/wp-content/uploads/2018/03/nina-leee-kew-dress-19.jpg>
 
 #### *Kewisia reginarunae* {#sec-k-reginarunae}
+<!-- PROOFREAD 2026-03-23 -->
 ***Kewisia reginarunae*** Lemuria, 2026; first public desc.
 
 **Holotype**: *Alice 88719KR* &mdash; Photograph. 1334&times;2000. EXIF metadata stripped.
@@ -1628,6 +1657,7 @@ Dress on red mannequin, angled ventral view of sleeve and strap.
     * **IA**: <https://web.archive.org/web/20260320181712/https://cdn.minerva.com/feed/original/image-sa-1066483-1000155-27962.jpg>
 
 #### *Kewisia sarae* {#sec-k-sarae}
+<!-- PROOFREAD 2026-03-23 -->
 ***Kewisia sarae*** Lemuria, 2026; first public desc.
 
 **Holotype**: *Sarah D-2019.44536KS* &mdash; Photograph. 718&times;980. EXIF metadata stripped. United Kingdom. Ventral view. Subject holding glass in left hand, partially obscuring left strap. *Kewisia sarae* wb. Sarah.D., 2019.
@@ -1647,11 +1677,13 @@ Dress on red mannequin, angled ventral view of sleeve and strap.
 **Remarks**: The holotype is of low-resolution, and we could not identify the exact number of buttons. The drape of the skirt also obscured the inferior portions of the button row.
 
 ### Genus *Kewpepla* {#sec-genus-kewpepla}
+<!-- PROOFREAD 2026-03-23 -->
 ***Kewpepla*** Lemuria, 2026; first public desc.
 
 **Diagnosis**: Distinguished from *Kewthea* by lack of skirt.
 
 #### *Kewpepla lornae* {#sec-kp-lornae}
+<!-- PROOFREAD 2026-03-23 -->
 ***Kewpepla lornae*** Lemuria, 2026; first public desc.
 
 **Holotype**: *Rothery 613D.KL* &mdash; Photograph. EXIF metadata stripped; exposure, f-stop, lens foc. len. unknown. United Kingdom. *Kewpepla lornae* on wooden hanger held by Rothery. &copy; Lorna Rothery or Lorna Malkin (name seen in EXIF data; see @sec-malkin), 2020, all rights reserved.
@@ -1682,6 +1714,7 @@ Dress on red mannequin, angled ventral view of sleeve and strap.
     * **IA**: <https://web.archive.org/web/20260317104650/https://lornarothery.com/wp-content/uploads/2020/05/165d5796-3a33-4292-a302-c1f879b4e530.jpg>
 
 #### *Kewpepla lornaebis* {#sec-kp-lornaebis}
+<!-- PROOFREAD 2026-03-23 -->
 ***Kewpepla lornaebis*** Lemuria, 2026; first public desc.
 
 **Holotype**: *Rothery 8861KL* &mdash;
@@ -1708,6 +1741,7 @@ Ventral view, hair positioned ventrally and obscuring wearer's left.
 **Specimens examined**: See holotype information.
 
 #### *Kewpepla mariae* {#sec-kp-mariae}
+<!-- PROOFREAD 2026-03-23 -->
 ***Kewpepla mariae*** sp. nov.
 
 **Holotype**: *Marie FR.80957KM* &mdash; Photograph. 1080&times;809. *Kewpepla mariae* laid out on table. &copy; &commat;la_ptite_marie3, 2018, all rights reserved.
@@ -1726,17 +1760,19 @@ Ventral view, hair positioned ventrally and obscuring wearer's left.
 **Specimens examined**: See holotype information.
 
 ### Genus *Kewthea* {#sec-genus-kewthea}
+<!-- PROOFREAD 2026-03-23 -->
 ***Kewthea*** Lemuria, 2026; first public desc.
 
 **Diagnosis**: Presence of V-shaped neckline, ventral medial button row, with sleeves covering shoulders.
 
 #### *Kewthea chantellae* {#sec-kt-chantellae}
+<!-- PROOFREAD 2026-03-23 -->
 ***Kewthea chantellae*** Lemuria, 2026; first public desc.
 
 <!-- File: holo.jpg (HOLOTYPE INFO TEMPLATE FROM LCT01-HOLOTYPER)-->
 **Holotype**: *Chantelle 2018.03KC* &mdash;
 Photograph. 2268&times;3024.
-Exposure: unknown. F-stop: unknown. Focal: unknown. ISO: unknown. Lens: unknown. Camera: unknown. 
+EXIF metadata stripped.
 *Kewthea chantellae* wb. Chantelle, 2018.
 Tight crop, features dress in more detail. Hair positioned ventrally, no important features obscured. Holding lateral edges of skirt apart.
 &copy; Chantelle or unknown photographer, 2018, all rights reserved.
@@ -1759,7 +1795,7 @@ Tight crop, features dress in more detail. Hair positioned ventrally, no importa
 <!-- File: chantelle2.jpg?v=1524850863 (HOLOTYPE INFO TEMPLATE FROM LCT01-HOLOTYPER)-->
 * ***Chantelle 2018.02KC*** &mdash;
 Photograph. 2268&times;3024.
-Exposure: unknown. F-stop: unknown. Focal: unknown. ISO: unknown. Lens: unknown. Camera: unknown.
+EXIF metadata stripped.
 Ventral view, subject looking up. Hair positioned ventrally, no important features obscured.
 *Kewthea chantellae* wb. Chantelle, 2018.
 &copy; Chantelle or unknown photographer, 2018, all rights reserved.
@@ -1772,7 +1808,7 @@ Ventral view, subject looking up. Hair positioned ventrally, no important featur
 <!-- File: chantelle4.jpg?v=1524850906 (HOLOTYPE INFO TEMPLATE FROM LCT01-HOLOTYPER)-->
 * ***Chantelle 2018.04KC*** &mdash;
 Photograph. 2238&times;3024.
-Exposure: unknown. F-stop: unknown. Focal: unknown. ISO: unknown. Lens: unknown. Camera: unknown. 
+EXIF metadata stripped. 
 Ventral view, subject looking slightly downward. Hair positioned ventrally, no important features obscured.
 *Kewthea chantellae* wb. Chantelle, 2018.
 &copy; Chantelle or unknown photographer, 2018, all rights reserved.
@@ -1784,7 +1820,7 @@ Ventral view, subject looking slightly downward. Hair positioned ventrally, no i
 <!-- File: chantelle6.jpg?v=1524850970 (HOLOTYPE INFO TEMPLATE FROM LCT01-HOLOTYPER)-->
 * ***Chantelle 2018.06KC*** &mdash;
 Photograph. 3024&times;4032.
-Exposure: unknown. F-stop: unknown. Focal: unknown. ISO: unknown. Lens: unknown. Camera: unknown. 
+EXIF metadata stripped. 
 Dress laid ventrally on table, showing buttons.
 &copy; Chantelle or unknown photographer, 2018, all rights reserved.
   * **Page**: See @cleary2018
@@ -1795,7 +1831,7 @@ Dress laid ventrally on table, showing buttons.
 <!-- File: chantelle7.jpg?v=1524850993 (HOLOTYPE INFO TEMPLATE FROM LCT01-HOLOTYPER)-->
 * ***Chantelle 2018.07KC*** &mdash;
 Photograph. 3024&times;4032.
-Exposure: unknown. F-stop: unknown. Focal: unknown. ISO: unknown. Lens: unknown. Camera: unknown. 
+EXIF metadata stripped. 
 Zoomed out shot of dress laid on table.
 &copy; Chantelle or unknown photographer, 2018, all rights reserved.
   * **Page**: See @cleary2018
@@ -1805,6 +1841,7 @@ Zoomed out shot of dress laid on table.
     * **IA**: <https://web.archive.org/web/20260318172051/https://cdn.shopify.com/s/files/1/2211/5041/files/chantelle7.jpg?v=1524850993>
 
 #### *Kewthea evae* {#sec-kt-evae}
+<!-- PROOFREAD 2026-03-23 -->
 ***Kewthea evae*** Lemuria, 2026
 
 **Holotype**: *Eva 2947KE* &mdash; Photograph. 900&times;900. EXIF metadata stripped; exposure, f-stop, lens foc. len unknown. Mirror selfie. Ventral view. 
@@ -1830,10 +1867,12 @@ Zoomed out shot of dress laid on table.
 * ***Eva 0120KE*** &mdash; Photograph. 1536&times;2048. EXIF metadata stripped; exposure, f-stop, lens foc. len unknown. Ventral view. Jacket worn over dress (unclassified). *Kewthea evae* wb. Eva, 2019. &copy; Kate Eva or unknown photographer, 2019, all rights reserved.
   * **Page**: See @eva_autumnal_2018
   * **SHA2-256**: `4cf40acd6dde11352f2cf0b993849f641ae94e3064991184f0f053ceaa81914b`.
-  * **Original**: <https://kateevadesigns.com/wp-content/uploads/2018/10/img_0120.jpg>
-  * **IA**: <https://web.archive.org/web/20260317080030/https%3A//kateevadesigns.com/wp-content/uploads/2018/10/img_0120.jpg>
+  * **Raw image URLs**:
+    * **Original**: <https://kateevadesigns.com/wp-content/uploads/2018/10/img_0120.jpg>
+    * **IA**: <https://web.archive.org/web/20260317080030/https%3A//kateevadesigns.com/wp-content/uploads/2018/10/img_0120.jpg>
 
 #### *Kewthea lornae* {#sec-kt-lornae}
+<!-- PROOFREAD 2026-03-23 -->
 ***Kewthea lornae*** Lemuria, 2026; first public desc.
 
 **Holotype**: *Rothery 3618KL* &mdash; Photograph. 983&times;1748. Exposure 1/30s, f-stop 6.3, lens foc. len 18mm (35mm equiv. 33.5mm), ISO 400. Camera: `Canon EOS 90D`. Lens: `EF-S18-55mm f/3.5-5.6 IS STM`. United Kingdom. *Kewthea lornae* wb. Lorna.R., 2025.
@@ -1864,7 +1903,7 @@ Zoomed out shot of dress laid on table.
   * **Raw image URLs**
     * **Original**: <https://lornarothery.com/wp-content/uploads/2025/07/img_3603-1.jpg>
     * **IA**: <https://web.archive.org/web/20260317093137/https://lornarothery.com/wp-content/uploads/2025/07/img_3603-1.jpg>
-* ***Rothery 3637KL*** &mdash; Photograph. 1080&times;1920. Exposure 1/30s, f-stop 6.3, lens foc. len 18mm (35mm equiv. 33.5mm), ISO 400. Camera: `Canon EOS 90D`. Lens `EF-S18-55mm f/3.5-5.6 IS STM`. *Kewthea lornae* wb. Lorna.R., 2025, &copy; Lorna Rothery or Lorna Malkin (name seen in EXIF data; see @sec-malkin), 2025, all rights reserved.
+* ***Rothery 3637KL*** &mdash; Photograph. 1080&times;1920. Exposure 1/30s, f-stop 6.3, lens foc. len 18mm (35mm equiv. 33.5mm), ISO 400. Camera: `Canon EOS 90D`. Lens `EF-S18-55mm f/3.5-5.6 IS STM`. Slightly truncated ventral view. Subject smiling, facing upward. Slight motion blur on hands and inferior portions of skirt. *Kewthea lornae* wb. Lorna.R., 2025, &copy; Lorna Rothery or Lorna Malkin (name seen in EXIF data; see @sec-malkin), 2025, all rights reserved.
   * **Page**: See @rothery_perfect_2025
   * **SHA2-256**: `3def2839e8e0686b451d3fd216290a69fc8b5cf567dff45da71b5444908ad77d`
   * **Raw image URLs**
@@ -1872,6 +1911,7 @@ Zoomed out shot of dress laid on table.
     * **IA**: <https://web.archive.org/web/20260317093300/https://lornarothery.com/wp-content/uploads/2025/07/img_3637-1.jpg>
 
 #### *Kewthea lornoblae* {#sec-kt-lornoblae}
+<!-- PROOFREAD 2026-03-23 -->
 ***Kewthea lornoblae*** Lemuria, 2026; first public desc.
 
 **Holotype**: *Rothery 6377KL* &mdash; Photograph. 1200&times;1600. EXIF metadata stripped.
@@ -1914,6 +1954,7 @@ Ventral view, subject sitting on floor, looking down.
     * **IA**: <https://web.archive.org/web/20260319184423/https://lornarothery.com/wp-content/uploads/2020/04/image.jpg>
 
 #### *Kewthea luscinia* {#sec-kt-luscinia}
+<!-- PROOFREAD 2026-03-23 -->
 ***Kewthea luscinia*** Lemuria, 2026; first public desc.
 
 **Holotype**: *Procter 0005KL* &mdash; Photograph. 1365&times;2048. EXIF metadata stripped; exposure, f-stop, lens foc. len unknown. United Kingdom. Ventral view. 
@@ -1932,6 +1973,7 @@ Ventral view, subject sitting on floor, looking down.
 **Specimens examined**: See holotype information.
 
 #### *Kewthea modistaflora* {#sec-kt-modistaflora}
+<!-- PROOFREAD 2026-03-23 -->
 ***Kewthea modistaflora*** sp. nov.
 
 **Holotype**: *Modista 9861KM* &mdash;
@@ -1960,9 +2002,9 @@ On right sleeve (wearer's perspective), pattern discontinuity at downward angle.
 * ***Modista 9929KM*** &mdash;
 Photograph. 3024&times;4032.
 Exposure: 1/2907s. F-stop: 1.8. Focal: 4.0 mm. Lens: `iPhone 7 back camera 3.99mm f/1.8`. Camera: `iPhone 7`.
-Ventral view. Denim jacket (unclassified) worn above dress, tied together at inferior end.
+Ventral view. Subject facing forward, head slightly leaning right. Denim jacket (unclassified) worn above dress, tied together at inferior end.
 *Kewthea modistaflora* wb. Sally of M., 2020.
-&copy; Sally (Modista Sewing), 2020, all rights reserved.
+&copy; Unknown photographer on behalf of Sally (Modista Sewing), 2020, all rights reserved.
   * **Page**: See @modistasewing2020
   * **SHA2-256**: `d4fcc57a8ab9e9c8f622228e2ce919ed9a08a0aab70940d774f96778ef825df7`
   * **Raw image URLs**
@@ -1971,9 +2013,9 @@ Ventral view. Denim jacket (unclassified) worn above dress, tied together at inf
 * ***Modista 9943KM*** &mdash;
 Photograph. 2638&times;3515.
 Exposure: 1/1277s. F-stop: 1.8. Focal: 4.0 mm. Lens: `iPhone 7 back camera 3.99mm f/1.8`. Camera: `iPhone 7`.
-Ventral view. Denim jacket (unclassified) worn above dress, tied together at inferior end.
+Ventral view. Subject looking to her left. Phone held by unknown photographer in reflection. Denim jacket (unclassified) worn above dress, tied together at inferior end.
 *Kewthea modistaflora* wb. Sally of M., 2020.
-&copy; Sally (Modista Sewing), 2020, all rights reserved.
+&copy; Unknown photographer on behalf of Sally (Modista Sewing), 2020, all rights reserved.
   * **Page**: See @modistasewing2020
   * **SHA2-256**: `ee0802a12a5f88486ba72d2a9a685eb35e3080dfa6f1bd1474693ebe0e33b231`
   * **Raw image URLs**
@@ -1981,17 +2023,19 @@ Ventral view. Denim jacket (unclassified) worn above dress, tied together at inf
     * **IA**: <https://web.archive.org/web/20260317233256/https://modistasewing.wordpress.com/wp-content/uploads/2020/04/img_9943.jpg>
 
 ### Genus *Kewthicata* {#sec-genus-kewthicata}
+<!-- PROOFREAD 2026-03-23 -->
 ***Kewthicata*** gen. nov.
 
 **Diagnosis**: *Kewthicata* is distinguished by the presence of gathering on the superior area of the skirt, immediately inferior to the bodice&ndash;skirt transition.
 
 #### *Kewthicata juliae* {#sec-kth-juliae}
+<!-- PROOFREAD 2026-03-23 -->
 ***Kewthicata juliae*** sp. nov.
 
 **Holotype**: *Julie 2018.28918KJ* &mdash; Photograph.
 1080&times;1350. EXIF metadata stripped.
 Zoomed out ventral view. Subject at ease. Multiple buttons unfastened.
-*Kewthicata juliae* wb. Julie of the W.M.
+*Kewthicata juliae* wb. Julie of the W.M., 2018.
 &copy; Julie (&commat;julielovestosew), 2018, all rights reserved.
 
 * **Page**: See @julie2018.
@@ -2008,11 +2052,13 @@ Zoomed out ventral view. Subject at ease. Multiple buttons unfastened.
 **Specimens examined**: See holotype information.
 
 ### Genus *Trunkewia* {#sec-genus-trunkewia}
+<!-- PROOFREAD 2026-03-23 -->
 ***Trunkewia*** Lemuria, 2026
 
 **Diagnosis**: Distinguished from other members of Helikewidae by the lack of a skirt.
 
 #### *Trunkewia ninae* {#sec-t-ninae}
+<!-- PROOFREAD 2026-03-23 -->
 ***Trunkewia ninae*** Lemuria, 2026; first public desc.
 
 **Holotype**: *Nina 0296TN* &mdash; Photograph. 2668&times;3707. EXIF metadata stripped; exposure, f-stop, lens foc. len unknown. United Kingdom, London. Zoomed-out view. Right strap (wearer's perspective) slightly obscrubed by ventrally positioned hair.
@@ -2031,6 +2077,7 @@ Zoomed out ventral view. Subject at ease. Multiple buttons unfastened.
 **Specimens examined**: See holotype information.
 
 ### Genus *Trunkewia* subg. *Illecebrosus* {#sec-genus-trunkewia-subg-illecebrosus}
+<!-- PROOFREAD 2026-03-23 -->
 ***Trunkewia* subgenus *Illecebrosus*** subg. nov.
 
 All three species in *T.* subg. *Illecebrosus* are defined by the holotype *Roseberry Trunkewia-1*, a three-image collage assembled by Nina Lee for @chang-smith_kew_2018, and the only surviving evidence of *T.* subg. *Illecebrosus* due to the deletion of &commat;epp.roseberry.couture's account.
@@ -2050,6 +2097,7 @@ All three species in *T.* subg. *Illecebrosus* are defined by the holotype *Rose
 **Type species** (for subgenus): *Trunkewia rosacrania*.
 
 #### *Trunkewia rosacrania* {#sec-t-rosacrania}
+<!-- PROOFREAD 2026-03-23 -->
 ***Trunkewia rosacrania*** sp. nov.
 
 **Holotype**: *Roseberry Trunkewia-1*, left panel.
@@ -2060,6 +2108,7 @@ All three species in *T.* subg. *Illecebrosus* are defined by the holotype *Rose
 **Fabric.** Black background, stylized skulls in a variety of facial expressions, multiple roses with full leaves (*Rosa* L.). Unknown material.
 
 #### *Trunkewia rubera* {#sec-t-rubera}
+<!-- PROOFREAD 2026-03-23 -->
 ***Trunkewia rubera*** sp. nov.
 
 **Holotype**: *Roseberry Trunkewia-1*, center panel.
@@ -2070,6 +2119,7 @@ All three species in *T.* subg. *Illecebrosus* are defined by the holotype *Rose
 **Fabric.** White background, vaguely floral pattern, red. Unknown material.
 
 #### *Trunkewia viridis* {#sec-t-viridis}
+<!-- PROOFREAD 2026-03-23 -->
 ***Trunkewia viridis*** sp. nov.
 
 **Holotype**: *Roseberry Trunkewia-1*, right panel.
