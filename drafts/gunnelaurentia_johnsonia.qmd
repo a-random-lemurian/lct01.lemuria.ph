@@ -8,26 +8,30 @@ author:
 license: CC BY-SA
 journal:
   title: "Lemuria's (Informal) Journal of Clothing Taxonomy"
-date: 2026-03-21
+date: 2026-03-25
 lang: en
 execute: 
   freeze: true
-# publisher-id: "lict2026.0005"
+publisher-id: "lict2026.0006"
 abstract: |
   We describe the new family Bisigunnidae and its first genus, *Gunnelaurentia*, based on the pattern Simplicity 9015, and designate the holotype as *Gunnelaurentia johnsonia* sp. nov., an off-shoulder dress sewn by the American sewist Lauren Johnson in July 2024.
-draft: true
 bibliography: gunnelaurentia_johnsonia.bib
 number-sections: true
 citation:
   author: Lemuria
   # citation-key: lemuria_kew_2026
   title: "*Gunnelaurentia* genus nova (Biligamentum: Biligasimplicia: Bisigunnidae)"
-  original-date: 2026-03-21
+  original-date: 2026-03-25
   publisher: Lemuria
-  # article-id: lict2026.0005
+  article-id: lict2026.0006
   publisher-place: Philippines
 format:
-  html: default
+  html:
+    format-links: false
+    other-links:
+      - text: PDF
+        href: https://static.lemuria.ph/lct01/pdf/2026/2026.0006_gunnelaurentia_johnsonia.pdf
+        icon: file-pdf
   aft-pdf:
     toc: false
     include-in-header:
@@ -52,9 +56,9 @@ In 2018, she created the blog *Bouquet*, which while no longer live, remains ava
 As seen in @johnson2024, Johnson owns a Kenmore sewing machine.
 
 #### Sewing the dress
-In July 2024, Johnson began sewing the dress for her birthday [@johnson_i_2024]. She also released a 26-minute YouTube video, *SEWING MY BIRTHDAY DRESS! Vintage Gunne Sax Meets Bridgerton: Sew with Me!*^[Emojis removed due to font incompatibility.]
+In July 2024, Johnson began sewing the dress for her birthday [@johnson_i_2024]. She also released a 26-minute YouTube video, *SEWING MY BIRTHDAY DRESS! Vintage Gunne Sax Meets Bridgerton: Sew with Me!*^[Emojis removed due to font incompatibility.] [@johnson2024].
 
-As the pattern was not to her size, she graded the pattern. She created a toile (muslin^[The American English term. "Toile" is the standard LCT-01 term.]) using an old bedsheet for the bodice and lining. The toile was eventually incorporated into the main garment as the lining..
+As the pattern was not to her size, she graded the pattern. She created a toile (muslin^[The American English term. "Toile" is the standard LCT-01 term.]) using an old bedsheet for the bodice and lining. The toile was eventually incorporated into the main garment as the lining [@johnson2024].
 
 ### Taxonomic history
 We discovered *Gunnelaurentia johnsonia* through browsing the social media presence of the American sewist Lauren Johnson, who we discovered while researching Nina Lee's Kew dress for our March 2026 monograph (see ). In 2018, she sewed a Kew dress with flutter sleeves, most similar to *Helikewisia* Lemuria, 2026 and *incertae sedis* within Kewthea; which was featured on Nina Lee's blog [@changsmith_kew_2018]. Further research into Johnson led to the discovery of *Gunnelaurentia*, which we now describe in this paper.
@@ -91,7 +95,7 @@ f293048f656688883ee919eb3f4b12926aaa13362de0eb6e3b5716b915b18b35  /usr/bin/sha25
 
 ## Species description
 ### Suborder Biligasimplicia
-**Biligasimplicia** Lemuria, 2026, subordo novus
+**Biligasimplicia** Lemuria, 2026; subordo novus
 
 **Taxonomic placement**: Placed under the order Biligamentum Lemuria, 2026.
 
@@ -100,7 +104,7 @@ f293048f656688883ee919eb3f4b12926aaa13362de0eb6e3b5716b915b18b35  /usr/bin/sha25
 **Etymology**: Biliga- from Biligamentum + simplicia, pseudo-Latin feminine form of "Simplicity".
 
 ### Family Bisigunnidae
-**Bisigunnidae** Lemuria, 2026, familia nova
+**Bisigunnidae** Lemuria, 2026; familia nova
 
 **Taxonomic placement**: Placed under the suborder Biligasimplicia Lemuria, 2026.
 
@@ -109,7 +113,7 @@ f293048f656688883ee919eb3f4b12926aaa13362de0eb6e3b5716b915b18b35  /usr/bin/sha25
 **Etymology**: Bi- from Biligamentum, si- from simplicia, gunni from Gunne, and -idae (family suffix).
 
 ### Genus *Gunnelaurentia*
-***Gunnelaurentia*** Lemuria, 2026, gen. nov.
+***Gunnelaurentia*** Lemuria, 2026; gen. nov.
 
 **Taxonomic placement**: Placed under the family Bisigunnidae Lemuria, 2026.
 
@@ -117,18 +121,23 @@ f293048f656688883ee919eb3f4b12926aaa13362de0eb6e3b5716b915b18b35  /usr/bin/sha25
 
 **Diagnosis**: Phylogenetically, characterized by descent from the Simplicity 9015 pattern.
 
-**Etymology**: *Gunne* from Gunne Sax + *Laurentia*, pseudo-Latin feminine form of *Laurentius*, the name from which *Lauren* originated. Pronounced /ˌgʌ.niː.lə.ˈɹɛn.ʃ(i)ə dʒɔn.ˈsɑː.niə/.
+**Etymology**: *Gunne* from Gunne Sax + *Laurentia*, pseudo-Latin feminine form of *Laurentius*, the name from which *Lauren* originated. Pronounced /ˌgʌ.niː.lə.ˈɹɛn.ʃ(i)ə/.
 
 #### *Gunnelaurentia johnsonia* {#sec-g-johnsonia}
-***Gunnelaurentia johnsonia*** Lemuria, 2026, sp. nov.
+***Gunnelaurentia johnsonia*** Lemuria, 2026; sp. nov.
 
 **Holotype**: *Lauren SGS9015.2024.72419GJ*^[SGS stands for "Simplicity Gunne Sax".] &mdash; Photograph. 1440&times;1800. Ventral view. Subject's head slightly angled, her left arm raised and curved on neck; hair tied dorsally. *Gunnelaurentia johnsonia* wb. Lauren.J., 2024. &copy; Lauren Johnson or unknown photographer, 2024, all rights reserved.
+
+* **Page**: See @johnson_vintage_2024
+* **SHA2-256**: `38be6f88915c045035abb4ab83874558acc2978dc6d74cab056c88fffe84d1da`
+* **Raw image URLs**:
+  * **IA**: <https://web.archive.org/web/20260321042048/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/652951653_17974050842848734_1789800092314772419_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=MzQyMjIwMDAyOTM0NjAxMzc5OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTgwMC5zZHIuQzMifQ%3D%3D&_nc_ohc=eZFKrHWm9GsQ7kNvwH-Bp20&_nc_oc=Adq48KeA6dJTrH3ukf9K3t7DW42seGxaHAGphidCtyX2MJ451b60EZKlaC8Ng0f9GKA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=ygvt3bpUuQkEQ-7H8a9-9w&_nc_ss=7a30f&oh=00_AfwkfCBDcRSerCwlWhqoJMok_GNrIlPG0IJMZjwoYTmbGA&oe=69C3DA78>
 
 **Description**: Off-shoulder dress. Skirt terminates at ankle-level (maxi). Elastic at superior edge of bodice. Flounce hangs from sleeve, terminating within distal upper arm. Terminates superior to bust when arms adducted. Blue satin elastic ribbon with lateral stitches, and lace trim from JoAnn at inferior end. Two elastic bands inferior to inframammary fold. Dorsal medial zipper. Dorsal fabric band with bow-like tie slightly lateral to zipper, on wearer's left. Fabric band drapes inferiorly and terminates around gluteal region.
 **Straps.** Bilateral single straps, ribbon tied medially. No adjustment clips. Straps run at slight diagonal angle across scapula.
 **Fabric.** Bridgerton cotton from Liberty Fabrics. Floral. Bouquets of yellow and red flowers tied at stems with blue ribbon tied as a bow. No known correspondence to biological taxa.
 
-**Etymology**: *Johnson* + *-ia*, feminine suffix.
+**Etymology**: *Johnson* + *-ia*, feminine suffix. Pronounced /ˌgʌ.niː.lə.ˈɹɛn.ʃ(i)ə dʒɔn.ˈsɑː.niə/.
 
 **Remarks**:
 
@@ -138,9 +147,25 @@ f293048f656688883ee919eb3f4b12926aaa13362de0eb6e3b5716b915b18b35  /usr/bin/sha25
 
 * Holotype.
 * ***Lauren SGS9015.2024.10443GJ*** &mdash; Photograph. 1440&times;1800. EXIF metadata stripped. Ventral view. Subject facing her left. Arms fully adducted. Hair tied dorsally.  *Gunnelaurentia johnsonia* wb. Lauren.J., 2024. &copy; Lauren Johnson or unknown photographer, 2024, all rights reserved.
+  * **Page**: See @johnson_vintage_2024
+  * **SHA2-256**: `a75de00edd89d900aeac4c6d42c394d0ca5ec34d7f103774191da157b3e75e9a`
+  * **Raw image URLs**:
+    * **IA**: <https://web.archive.org/web/20260321042052/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/653494546_18101328101309090_2174774494879510443_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=MzQyMjIwMDAyOTMzNzYyNzAxNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTgwMC5zZHIuQzMifQ%3D%3D&_nc_ohc=IsDP2eheHW4Q7kNvwHthC-R&_nc_oc=AdpTbg3nW4oMZ2gWLNdnezFb-CSVWwAt2Xs0ldkOcN4BUK2W8TYwM2TxJfajKFqxIMo&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=ygvt3bpUuQkEQ-7H8a9-9w&_nc_ss=7a30f&oh=00_AfwbWjWOJOCDG88k7r4Ka4_aEb_cEf_o6K7_CK3DVe3-CA&oe=69C3D75B>
 * ***Lauren SGS9015.2024.12171GJ*** &mdash; Photograph. 1440&times;1800. EXIF metadata stripped. Left lateral view. Subject facing forward. Arms fully adducted. Hair tied dorsally. *Gunnelaurentia johnsonia* wb. Lauren.J., 2024. &copy; Lauren Johnson or unknown photographer, 2024, all rights reserved.
+  * **Page**: See @johnson_vintage_2024
+  * **SHA2-256**: `38be6f88915c045035abb4ab83874558acc2978dc6d74cab056c88fffe84d1da`
+  * **Raw image URLs**:
+    * **IA**: <https://web.archive.org/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.29350-15/453105881_486014757734109_2880783926021212171_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=MzQyMjIwMDAyOTUxMzk4MTkzMA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTgwMC5zZHIuZGVmYXVsdF9pbWFnZS5DMyJ9&_nc_ohc=8Pxq_w3qBZMQ7kNvwG48vBD&_nc_oc=AdpJ8do5socZM0CybS1gLXhtBxuwg6_e17OAsroE-RJvqIG8R7V2JZD0r1igVNAOX0k&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=ygvt3bpUuQkEQ-7H8a9-9w&_nc_ss=7a30f&oh=00_Afwiu65lrI9q9fjF6bmZabZZTPsjtDeMYKuSCJFASBA2xA&oe=69C40824>
 * ***Lauren SGS9015.2024.27800GJ*** &mdash; Photograph. 1440&times;1800. EXIF metadata stripped. Angled left dorsal view. *Gunnelaurentia johnsonia* wb. Lauren.J., 2024. &copy; Lauren Johnson or unknown photographer, 2024, all rights reserved.
+  * **Page**: See @johnson_vintage_2024
+  * **SHA2-256**: `95ec340577d446fee8ac8e6c1f64114bcf3ae6eb450125dcfd6bac15517cb62a`
+  * **Raw image URLs**:
+    * **IA**: <https://web.archive.org/web/20260321042050/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/654423755_17965299591046636_7451981050951527800_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=MzQyMjIwMDAyOTI3MDc1NTMwOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTgwMC5zZHIuQzMifQ%3D%3D&_nc_ohc=BRd4VlDnv8UQ7kNvwGlUyo9&_nc_oc=Adrm6e7vcTgV-bdLKEFAQ6tL-ABeAXpZzEqSFpJVWBEuDUMLQ_R5Q7vxQPicU2xYS1A&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=ygvt3bpUuQkEQ-7H8a9-9w&_nc_ss=7a30f&oh=00_AfyIFZi8lLctFQshCiaWpTtzeGl0KzXmmpuiV_upHB2wTA&oe=69C3E26B>
 * ***Lauren SGS9015.2024.71406GJ*** &mdash; Photograph. 1440&times;1795. EXIF metadata stripped. Truncated dorsal view, from superior hemline to approximately the gluteal region. Dorsal ties shown tied and draping to gluteal region. Dorsal zipper fully fastened. *Gunnelaurentia johnsonia* wb. Lauren.J., 2024. &copy; Lauren Johnson or unknown photographer, 2024, all rights reserved.
+  * **Page**: See @johnson_vintage_2024
+  * **SHA2-256**: `b7cb82741cb08935adcd61393cab3d2e37a3642de169c9034359cd2b76e4e47d`
+  * **Raw image URLs**:
+    * **IA**: <https://web.archive.org/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/652569734_17966462997038540_7045808589481671406_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=MzQyMjIwMDAyOTQwNDk1ODI1Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTc5NS5zZHIuQzMifQ%3D%3D&_nc_ohc=q9Bqsm3SMBYQ7kNvwFnvfru&_nc_oc=Adqw3zbDIClyv3wI10pfYUTJa9qj9ZSWAXaFlLY7r_LIt1I4kJcv1DpEXYKaSkX4S6M&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=ygvt3bpUuQkEQ-7H8a9-9w&_nc_ss=7a30f&oh=00_AfzvGokdcogWRhaZb_RX-RaBFBYF3Kzhq15-oJaoaj-s5g&oe=69C3DCEA>
 
 ```{=latex}
 \newpage
@@ -165,11 +190,11 @@ We thank Lauren Johnson for sharing her sewing process and her creativity with t
 
 **Disclaimer**: *Lemuria's (Informal) Journal of Clothing Taxonomy* is a non-peer-reviewed, single-author, citizen science/gray literature publication with no institutional backing.
 
-<!-- Publisher article ID: 2026.0005 -->
+Publisher article ID: 2026.0006
 
 At publication, the journal did not have a DOI prefix.
 
-Work on this paper began 2026-03-21.
+Work began on the paper on 2026-03-21. Descriptions were completed and proofreading began on 2026-03-25. Proofreading was completed and the paper was published the same day.
 
 Visit us at: <https://lct01.lemuria.ph>
 
