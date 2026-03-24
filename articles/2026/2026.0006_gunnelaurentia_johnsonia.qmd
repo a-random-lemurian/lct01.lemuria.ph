@@ -15,7 +15,7 @@ execute:
 publisher-id: "lict2026.0006"
 abstract: |
   We describe the new family Bisigunnidae and its first genus, *Gunnelaurentia*, based on the pattern Simplicity 9015, and designate the holotype as *Gunnelaurentia johnsonia* sp. nov., an off-shoulder dress sewn by the American sewist Lauren Johnson in July 2024.
-bibliography: 2026.0006-refs.bib
+bibliography: 2026.0006_refs.bib
 number-sections: true
 citation:
   author: Lemuria
