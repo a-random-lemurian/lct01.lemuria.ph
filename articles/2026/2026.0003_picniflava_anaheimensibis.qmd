@@ -11,6 +11,12 @@ lang: en
 execute: 
   freeze: true
 publisher-id: "lict2026.0003"
+format:
+  html:
+    other-links:
+      - text: PDF
+        href: https://static.lemuria.ph/lct01/pdf/2026/2026.0003_picniflava_anaheimensibis.pdf
+        icon: file-pdf
 abstract: |
   Browsing of Wikimedia Commons has surfaced a new species of *Picniflava*, the summer meadow dress worn by Padmé Amidala in *Star Wars: Episode II – Attack of the Clones* (2002), hereafter *Attack of the Clones*. The holotype is a ventral (front) near-full-body photograph (inferior/bottom end of skirt not in frame) of an unnamed person wearing it. *P. anaheimensibis* is now the 58th sp. of the genus.
 ---
