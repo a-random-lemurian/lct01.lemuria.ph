@@ -48,7 +48,7 @@ keywords: simplicity 9015, lauren johnson, home sewing, vintage sewing, gunnelau
 In 1979, Simplicity, one of the Big Four, released a pattern numbered 9015, an off-shoulder dress featuring bilateral single straps with a medial ribbon (referred to in the pattern as "shoulder ties"). There exist multiple Simplicity patterns numbered 9015; hereafter, we use the term "Simplicity 9015" to mean only the pattern from Gunne Sax released by Simplicity, numbered 9015.
 
 ### Lauren Johnson
-Lauren Johnson (Instagram: &commat;justlaurenjohnson) is an American sewist from Little Rock, Arkansas. She owns the indie pattern company Bouquet Pattern Co. (<https://bouquetclothing.com>), which sells three sewing patterns so far, none of which have received taxonomic treatments.
+Lauren Johnson (Instagram: &commat;justlaurenjohnson) is an American sewist from Little Rock, Arkansas. She owns the indie pattern company Bouquet Pattern Co. (<https://bouquetclothing.com>), which sells three sewing patterns, none of which have received taxonomic treatments so far.
 
 In 2018, she created the blog *Bouquet*, which while no longer live, remains available on the Internet Archive's Wayback Machine. On YouTube, as &commat;LaurenJohnson (<https://www.youtube.com/channel/UCY3XsTBr0lJPMXqk4S5FX8g>), she has ~60,000 subscribers and ~570 videos.
 
@@ -99,7 +99,7 @@ f293048f656688883ee919eb3f4b12926aaa13362de0eb6e3b5716b915b18b35  /usr/bin/sha25
 
 **Taxonomic placement**: Placed under the order Biligamentum Lemuria, 2026.
 
-**Diagnosis**: Phylogenetically, characterized by descent from any Simplicity pattern, and phenetically, meeting the requirements of its parent taxa.
+**Diagnosis**: Phylogenetically, characterized by descent from any Simplicity pattern; and phenetically, meeting the requirements of its parent taxa.
 
 **Etymology**: Biliga- from Biligamentum + simplicia, pseudo-Latin feminine form of "Simplicity".
 
@@ -146,7 +146,7 @@ f293048f656688883ee919eb3f4b12926aaa13362de0eb6e3b5716b915b18b35  /usr/bin/sha25
 **Specimens examined**:
 
 * Holotype.
-* ***Lauren SGS9015.2024.10443GJ*** &mdash; Photograph. 1440&times;1800. EXIF metadata stripped. Ventral view. Subject facing her left. Arms fully adducted. Hair tied dorsally.  *Gunnelaurentia johnsonia* wb. Lauren.J., 2024. &copy; Lauren Johnson or unknown photographer, 2024, all rights reserved.
+* ***Lauren SGS9015.2024.10443GJ*** &mdash; Photograph. 1440&times;1800. EXIF metadata stripped. Ventral view. Subject facing her left. Arms fully adducted. Hair tied dorsally. *Gunnelaurentia johnsonia* wb. Lauren.J., 2024. &copy; Lauren Johnson or unknown photographer, 2024, all rights reserved.
   * **Page**: See @johnson_vintage_2024
   * **SHA2-256**: `a75de00edd89d900aeac4c6d42c394d0ca5ec34d7f103774191da157b3e75e9a`
   * **Raw image URLs**:
