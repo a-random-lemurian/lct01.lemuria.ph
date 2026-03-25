@@ -1,0 +1,162 @@
+---
+title: "On the LCT-01's specimens and holotypes"
+author:
+  name: Lemuria
+  affiliation:
+    - name: Independent researcher; Manila, Philippines
+  email: lemuria@lemuria.ph
+license: CC BY-SA
+journal:
+  title: "Lemuria's (Informal) Journal of Clothing Taxonomy"
+date: 2026-03-26
+lang: en
+execute: 
+  freeze: false
+# publisher-id: "lict2026.0005"
+abstract: |
+  In both biological taxonomy and the LCT-01, species and other taxa are defined on the basis of a specific physical specimen or *illustration*. These are referred to as *types*. The most important of them is the *holotype*, which represents the entirety of its species as a whole. The LCT-01's subject matter, clothing, warrants entirely different conventions than biological taxonomy, which we discuss here.
+draft: true
+bibliography: specimens_and_holotypes.bib
+number-sections: true
+citation:
+  author: Lemuria
+  # citation-key: lemuria_kew_2026
+  title: "On the LCT-01's specimens and holotypes"
+  original-date: 2026-03-26
+  publisher: Lemuria
+  # article-id: lict2026.0005
+  publisher-place: Philippines
+format:
+  html: default
+  aft-pdf:
+    # toc: true
+    # toc-depth: 3
+    include-in-header:
+      text: |
+        \usepackage{caption}
+        \usepackage{forest}
+keywords: image specimen, holotype, integrity, standard
+---
+
+```{=latex}
+\begin{multicols}{2}
+```
+
+## Background
+For a specific taxon, two primary classes of types exist; *physical* and *digital*.
+
+Sewing patterns are slightly more complicated; the PDF 
+
+## Images
+Images are the backbone of the LCT-01's archival work. For a variety of reasons, it is exceedingly impractical for the LCT-01 to obtain and collect specimens of clothing; especially in sewing pattern taxonomy when a species consists only of a singular make.
+
+Information about a species is considered to originate in the physical holotype; the garment itself. In the case of the LCT-01, the physical holotype is most canonical; physical access to it provides information to all human senses; high information, low accessibility. This canonicality is rooted in the physical holotype, much like how the trust anchor is the root of trust for X.509 PKIs. This canonicality flows down to photographs, videos, 3D scans, and other forms of digital media that act as a substitute for the specimen.
+
+```{=latex}
+\end{multicols}
+```
+::: {#fig-canonicality-flow}
+```{mermaid}
+%%| fig-width: 6.5
+flowchart LR
+    physical[Physical garment] -->|photography| photo[Photographs of the garment]
+    photo -->|collages| photo
+    physical -->|indirect| holotype
+    photo -->|direct| holotype
+    holotype[Holotypes]
+    holotype -->|defines| taxon[Taxon]
+    taxon -->|type taxon for parent| taxon
+```
+
+The flow of canonicality from the physical garment to a specific holotype.
+:::
+
+```{=latex}
+\begin{multicols}{2}
+```
+Image types will be the focus of this document, as they are the most common, and most important to the LCT-01.
+
+Images do not explicitly need to be a singular photograph; for example, collages have been used to define three taxa (see *Trunkewia* subg. *Illecebrosus*, @lemuria_kew_2026). images can be thought of more as a binary large object (BLOB) in this case. Image holotypes have a one-to-many relationship to LCT-01 taxa; for example, a photograph of five bridesmaids at a wedding can act as the holotype for multiple taxa.
+
+In the use of image types, the primary criteria are reproducibility and detail.
+
+**Reproducibility**. While the process of photographing the garment does not need to be reproducible, the final published image itself must be reproducible and distributable, byte-by-byte. This is strictly in the technical sense. Copyright and moral concerns are inherent to photography, but are irrelevant. Copyright is mitigated by not embedding images in LCT-01 documentation, but rather providing citations to the website on where the holotype is, with a backup link to the Internet Archive. Moral concerns are mitigated by the fact that the images are public, and that the images were invariably taken with the consent of participating subjects.
+
+**Detail**. No singular photograph can provide all available detail; for example, a ventral view photograph cannot provide a dorsal view, and vice versa. Photographs destroy depth information, but this has been judged an acceptable tradeoff.
+
+### Naming image types
+In this document, we establish standards for naming image types.
+
+The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED",  "MAY", and "OPTIONAL" in this document are to be interpreted as described in RFC 2119.
+
+A new namespace is established for the naming of image types. This namespace shall encompass all photographic holotypes that are named for the purposes of establishing a taxon in the LCT-01.
+
+All image types MUST be uniquely named. For the purposes of defining uniqueness, two identifiers MUST NOT have an overlapping canonical form. This canonical form MUST be determined by lowercasing all letters and removing all spaces and 
+
+Image type naming typically follows the format:
+Eva 	3318KE
+Word 	Alphanumeric string
+
+This example refers to Eva 3318KE, the holotype image for *Kewisia evae*.
+
+The word used SHOULD be pronounceable. It often refers to a name for the wearer, in this case, Eva.
+
+The alphanumeric string SHOULD be a random number derived from part of the original filename, followed by the initials of the species. This is not a strict requirement; for example, an image containing multiple dresses photographed in equal detail SHOULD NOT have the initials of any species, as that image serves as the holotype for all five dresses.
+
+These identifiers are case-insensitive; EVA 3318KE and eva 3318ke are the same. Spaces, dashes, and underscores are also treated as the same character.
+
+Identifiers MUST only use ASCII characters and dots. They SHOULD be encoded in UTF-8, but printable ASCII characters are permissible. Machine-readable identifiers SHOULD use underscores, while human-readable forms SHOULD use spaces.
+
+Identifiers SHOULD be set in italics.
+
+Identifiers in their entirety SHOULD be treated as opaque strings.
+
+The design of these identifiers has been done with DOIs and the Handle System in mind; this system is the groundwork for the idea of a database and a standard for image type data that may someday materialize when the scale justifies it. For now, the small personal scale of the LCT-01 does not warrant such complexity.
+
+### Integrity
+When communicating information about image holotypes, integrity is important. Thus, hashes MUST be provided in *Journal* articles. A cryptographic hash function MUST be used. Insecure functions such as MD5 MUST NOT be used.
+
+SHA2-256 is the hash algorithm of choice for the LCT-01, for its short length which enables printability in PDF documents and HTML, and its availability in the form of the `sha256sum` command-line utility on Linux, and many other operating systems.
+
+## Sewing patterns
+Often, a sewing pattern is used to define a high-level taxon such as a family (e.g. Kewoidea Lemuria, 2026). The sewing pattern does not map 1:1 to the biological concepts reused and adapted for the LCT-01; it can be considered the body plan, or the "DNA". The sewing pattern itself cannot be considered a taxon, as it is not wearable; yet descent from it is still used to define many of the LCT-01's families. The sewing pattern may be a *sui generis* item.
+
+### Distributability
+The vast majority of sewing patterns are proprietary, and copyrighted. However, just as Wikimedia Commons offers millions of images that can be used as holotypes (e.g. *Picniflava anaheimensibis*; [@lemuria_picniflava_2026]), free (both *libre*, as in freedom; and *gratis* as in price) patterns exist, primarily through FreeSewing, a website that contains parametrized sewing patterns, and generates patterns on-demand from a list of measurements.^[This further makes FreeSewing a *sui generis* case.]
+
+Distributability is largely not a concern, as sewing pattern PDFs do not need to be distributed to describe families; and will invariably cause moral and legal issues for the taxonomy that it is not prepared to handle.
+
+### Reproducibility
+Sewing pattern PDFs typically cannot be downloaded from a single highly accessible URL. As with images, PDF files can be hashed.
+
+Some PDF files are however "stamped" with the details of the pattern's buyer; these watermarking mechanisms can occur in many ways, often invisible. These further hurt reproducibility.
+
+In some cases, PDFs have been revised entirely as part of a "new version"; with no option to download the old one or clear version history. The author has yet to purchase a sewing pattern, but theorizes that this kind of situation has arisen before based on statements on websites.
+
+### Conclusion for sewing patterns
+So far, sewing patterns do not need formal standards beyond what is already established in the LCT-01. Storing copies of them on a private file server or a computer may necessitate file organization standards, but these standards are irrelevant to sewing pattern taxonomy.
+
+See also @lemuria_general_2026.
+
+## Appendix
+### Information
+*Lemuria's (Informal) Journal of Clothing Taxonomy* is the gray literature journal of the First Lemurian Clothing Taxonomy, a system by Lemuria to assign Latin names to dresses using biological methods. The author, known mononymically as just Lemuria, is an Filipino programmer and independent gray literature researcher from Manila.
+
+**Disclaimer**: *Lemuria's (Informal) Journal of Clothing Taxonomy* is a non-peer-reviewed, single-author, citizen science/gray literature publication with no institutional backing.
+
+<!-- Publisher article ID: 2026.0005 -->
+
+At publication, the journal did not have a DOI prefix.
+
+Work began on the paper on 2026-03-26.
+<!--
+Descriptions were completed and proofreading began on 2026-03-25. Proofreading was completed and the paper was published the same day. -->
+
+Visit us at: <https://lct01.lemuria.ph>
+
+&copy; Lemuria 2026. All original text and image content by Lemuria is licensed under CC BY-SA 4.0, unless explicitly noted. Linked images and other content are &copy; their respective owners or copyright holders.
+
+v
+```{=latex}
+\end{multicols}
+```
