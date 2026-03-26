@@ -34,6 +34,7 @@ contributes:
       fig-height: 4.5
       # This format use a bst file with natbib
       biblio-style: te
+      csl: cmos.csl
       cite-method: biblatex
       biblatexoptions: "backend=biber,style=authoryear,maxnames=99,doi=true,url=true,isbn=true,date=iso"
       # Set this below (`biblio-config: false`) if your cls already load a bst file
