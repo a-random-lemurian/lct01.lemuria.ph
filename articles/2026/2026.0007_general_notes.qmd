@@ -1,0 +1,82 @@
+---
+title: "General notes; corrections; 2026-03-26"
+author:
+  name: Lemuria
+  affiliation:
+    - name: Independent researcher; Manila, Philippines
+  email: lemuria@lemuria.ph
+license: CC BY-SA
+journal:
+  title: "Lemuria's (Informal) Journal of Clothing Taxonomy"
+date: 2026-03-26
+lang: en
+execute: 
+  freeze: true
+publisher-id: "lict2026.0007"
+abstract: |
+    In this general notes and remarks article, we seek to cover some subjects too small for their own dedicated article.
+bibliography: 2026.0007_refs.bib
+number-sections: true
+citation:
+  author: Lemuria
+  title: "General notes; corrections; 2026-03-26"
+  original-date: 2026-03-26
+  publisher: Lemuria
+  article-id: lict2026.0007
+  publisher-place: Philippines
+format:
+  html:
+    format-links: false
+    other-links:
+      - text: PDF
+        href: https://static.lemuria.ph/lct01/pdf/2026/2026.0007_general_notes.pdf
+        icon: file-pdf
+  aft-pdf:
+    toc: false
+    include-in-header:
+      text: |
+        \usepackage{forest}
+    geometry:
+      - top=20mm
+      - left=20mm
+      - right=20mm
+---
+
+```{=latex}
+\begin{multicols}{2}
+```
+## Notes
+### Missing 2026.0001 and 2026.0002?
+`lict2026.0001` and `lict2026.0002` are deliberately missing from the *Journal*'s listings, as these IDs correspond to these two early blog posts on our lead author's website from the early days of the taxonomy. This is not an error.
+
+- <https://lemuria.ph/blog/2026/the-first-lemurian-clothing-taxonomy/> (lict2026.0001)
+- <https://lemuria.ph/blog/2026/picniflava-chattanoogensis/> (lict2026.0002)
+
+### *G. johnsonia* paper error
+In @lemuria_gunnelaurentia_2026 [sec. 1.2], we made a formatting error by failing to include a reference to @lemuria_taxonomy_2026.
+
+> We discovered *Gunnelaurentia johnsonia* through browsing the social media presence of the American sewist Lauren Johnson, who we discovered while researching Nina Lee's Kew dress for our March 2026 monograph **(see ).**
+
+## Information
+*Lemuria's (Informal) Journal of Clothing Taxonomy* is the gray literature journal of the First Lemurian Clothing Taxonomy, a system by Lemuria to assign Latin names to dresses using biological methods. The author, known mononymically as just Lemuria, is an Filipino programmer and independent gray literature researcher from Manila.
+
+**Disclaimer**: *Lemuria's (Informal) Journal of Clothing Taxonomy* is a non-peer-reviewed, single-author, citizen science/gray literature publication with no institutional backing.
+
+Publisher article ID: 2026.0007
+
+At publication, the journal did not have a DOI prefix.
+
+Work began on the paper on 2026-03-26 and was published the same day.
+
+Visit us at: <https://lct01.lemuria.ph>
+
+&copy; Lemuria 2026. All original text and image content by Lemuria is licensed under CC BY-SA 4.0, unless explicitly noted. Linked images and other content are &copy; their respective owners or copyright holders.
+
+## References
+
+::: {#refs}
+:::
+
+```{=latex}
+\end{multicols}
+```
