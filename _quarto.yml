@@ -23,9 +23,6 @@ format:
     number-sections: true
     toc: true
     theme: darkly
-    # Use a CSL file to style (https://www.zotero.org/styles/)
-    csl: cmos.csl
-
 
 execute:
   freeze: true
