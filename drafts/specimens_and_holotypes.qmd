@@ -35,6 +35,9 @@ format:
       text: |
         \usepackage{caption}
         \usepackage{forest}
+        \usepackage{xurl}
+        \usepackage{listings}
+        \lstset{breaklines=true}
 keywords: image specimen, holotype, integrity, standard
 ---
 
@@ -43,9 +46,7 @@ keywords: image specimen, holotype, integrity, standard
 ```
 
 ## Background
-For a specific taxon, two primary classes of types exist; *physical* and *digital*.
-
-Sewing patterns are slightly more complicated; the PDF 
+For a specific taxon, two primary classes of types exist; *physical* and *digital*. The primary physical specimen is the dress itself, while digital specimens are more diverse and include, but are not limited to PDFs, photographs, videos, 3D scans, and in the *sui generis* case of FreeSewing, the source code that automatically drafts sewing patterns from a set of measurements.
 
 ## Images
 Images are the backbone of the LCT-01's archival work. For a variety of reasons, it is exceedingly impractical for the LCT-01 to obtain and collect specimens of clothing; especially in sewing pattern taxonomy when a species consists only of a singular make.
@@ -93,11 +94,7 @@ A new namespace is established for the naming of image types. This namespace sha
 
 All image types MUST be uniquely named. For the purposes of defining uniqueness, two identifiers MUST NOT have an overlapping canonical form. This canonical form MUST be determined by lowercasing all letters and removing all spaces and 
 
-Image type naming typically follows the format:
-Eva 	3318KE
-Word 	Alphanumeric string
-
-This example refers to Eva 3318KE, the holotype image for *Kewisia evae*.
+Image type naming typically follows the format `Word AlphanumericString`; e.g. `Eva 3318KE`, the holotype image for *Kewisia evae* Lemuria, 2026.
 
 The word used SHOULD be pronounceable. It often refers to a name for the wearer, in this case, Eva.
 
@@ -111,7 +108,54 @@ Identifiers SHOULD be set in italics.
 
 Identifiers in their entirety SHOULD be treated as opaque strings.
 
-The design of these identifiers has been done with DOIs and the Handle System in mind; this system is the groundwork for the idea of a database and a standard for image type data that may someday materialize when the scale justifies it. For now, the small personal scale of the LCT-01 does not warrant such complexity.
+### Handle System
+The design of these identifiers has been done with DOIs and the Handle System in mind; this system is the groundwork for the idea of a database and a standard for image type data that may someday materialize when the scale justifies it.
+
+We have established a new Handle System server on our intranet, as part of early trials for a possible Lemurian Handle System. We have chosen to use the internal prefix `L78` within our infrastructure, and have specifically designated the prefix `L78.1104` for LCT-01 digital specimens. We do not have any Handle System prefixes from the GHR. This system of handles is not intended for external users.
+
+Under this system, *Eva 3318KE*'s handle would be `L78.1104/EVA_3318KE`.
+
+Though integration with the Global Handle Registry is statistically unlikely, and infeasible given the relative age of the LCT-01 project, and the resources of its author; the system nevertheless remains "DOI-ready".
+
+`L78.1104` can easily be substituted with a DOI prefix or a number outside of the tens; and systems both internal and external rewritten for the new standard. This type of internal setup is possible [@noauthor_handlenet_2018, "Configuring an Independent Handle Service"]; and the Corporation for National Research Initiatives offers a reference implementation in Java, with source code included.
+
+```{=latex}
+\end{multicols}
+```
+
+::: {#tbl-lauren}
+```
+1 CHECKSUM      2026-03-26 03:04:43Z a75de00edd89d900aeac4c6d42c394d0
+                                     ca5ec34d7f103774191da157b3e75e9a
+2 CHECKSUM.ALGO 2026-03-26 03:04:43Z SHA2-256
+3 URL           2026-03-26 16:50:33Z https://lct01stash.lemuria02.net.lem/
+                                     Gunnelaurentia/johnsonia/653494546_
+                                     18101328101309090_2174774494879510443
+                                     _n.jpg
+```
+
+The Lemurian Handle System record for `L78.1104/Lauren_SGS9015.2024.10443GJ`, as a demonstration of the schema. Note that `lct01stash.lemuria02.net.lem` is an internal domain and not intended for external access or resolution.
+:::
+
+#### Keys
+
+Though not yet formalized, we have observed ourselves using the following keys, not described in the base specification or other more common uses of the Handle System.
+
+::: {#tbl-handle-types}
+| Key | Description
+|---|---|
+| CHECKSUM | Checksum, in base16-encoded UTF-8, all lowercase.
+| CHECKSUM.ALGO | The name of the algorithm used. Typically `SHA2-256`.
+:::
+
+#### URL targets
+The matter of where handles should go is also unresolved. Human users will typically want a metadata page, such as a MediaWiki File page listing or other HTML page in a metadata system describing the image, programs will want a way of retrieving raw image data. A standard for providing multiple URLs depending on a specific audience is necessary. 
+
+INCOMPLETE
+
+```{=latex}
+\begin{multicols}{2}
+```
 
 ### Integrity
 When communicating information about image holotypes, integrity is important. Thus, hashes MUST be provided in *Journal* articles. A cryptographic hash function MUST be used. Insecure functions such as MD5 MUST NOT be used.
@@ -127,9 +171,38 @@ The vast majority of sewing patterns are proprietary, and copyrighted. However, 
 Distributability is largely not a concern, as sewing pattern PDFs do not need to be distributed to describe families; and will invariably cause moral and legal issues for the taxonomy that it is not prepared to handle.
 
 ### Reproducibility
-Sewing pattern PDFs typically cannot be downloaded from a single highly accessible URL. As with images, PDF files can be hashed.
+Sewing pattern PDFs typically cannot be downloaded from a single highly accessible URL. As with images, PDF files can be hashed, and citations to the original pattern provided so that those wishing to reproduce any results can purchase the pattern, and support the designers.
 
-Some PDF files are however "stamped" with the details of the pattern's buyer; these watermarking mechanisms can occur in many ways, often invisible. These further hurt reproducibility.
+Some PDF files are however "stamped" with the details of the pattern's buyer; these watermarking mechanisms can occur in many ways, which are often invisible. This alters the bytestream, and is often irreversible, further harming reproducibility.
+
+Many PDFs are also encrypted and have flags set that "prohibit" certain actions. In the case of this PDF pattern, the author has "disabled" copying, changing, and note-taking. "Prohibit" and "disabled" are in quotes as if the data is decrypted, the client is not technically prevented from disobeying these restrictions. These protections are moral and legal, not technical.
+
+::: {#fig-pdfinfo}
+```
+$ pdfinfo pattern.pdf
+Title:           [REDACTED]
+Creator:         Adobe Illustrator 28.7 (Windows)
+Producer:        Adobe PDF library 17.00
+CreationDate:    Wed Sep 25 17:00:33 2024 PST
+ModDate:         Wed Sep 25 18:00:33 2024 PST
+Custom Metadata: no
+Metadata Stream: yes
+Tagged:          no
+UserProperties:  no
+Suspects:        no
+Form:            none
+JavaScript:      no
+Pages:           51
+Encrypted:       yes (print:yes copy:no change:no addNotes:no algorithm:AES)
+Page size:       594 x 792 pts
+Page rot:        0
+File size:       3354030 bytes
+Optimized:       no
+PDF version:     1.6
+```
+
+The output of `pdfinfo` when run on a sewing pattern PDF offered *gratis*.
+:::
 
 In some cases, PDFs have been revised entirely as part of a "new version"; with no option to download the old one or clear version history. The author has yet to purchase a sewing pattern, but theorizes that this kind of situation has arisen before based on statements on websites.
 
@@ -156,7 +229,11 @@ Visit us at: <https://lct01.lemuria.ph>
 
 &copy; Lemuria 2026. All original text and image content by Lemuria is licensed under CC BY-SA 4.0, unless explicitly noted. Linked images and other content are &copy; their respective owners or copyright holders.
 
-v
+### References
+
+::: {#refs}
+:::
+
 ```{=latex}
 \end{multicols}
 ```
