@@ -24,7 +24,11 @@ $for(by-author)$
 $endfor$
 
 $for(by-affiliation)$
-\affil[$it.number$]{$if(it.department)$$it.department$, $endif$$it.name$; $if(it.city)$$it.city$$endif$, $if(it.country)$$it.country$ $endif$}
+\affil[$it.number$]{$if(it.department)$$it.department$, $endif$$it.name$; $if(it.city)$$it.city$$endif$$if(it.country)$, $it.country$$endif$}
 $endfor$
 
-\date{$date$}
+\date{$date$%
+$if(doi)$\\[0.5em]\small DOI: $doi$$endif$%
+$if(publisher-id)$\\[0.2em]\small Publisher ID: $publisher-id$$endif$%
+}
+
