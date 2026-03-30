@@ -8,7 +8,7 @@ author:
 license: CC BY-SA
 journal:
   title: "Lemuria's (Informal) Journal of Clothing Taxonomy"
-date: 2026-03-26
+date: 2026-03-30
 lang: en
 execute: 
   freeze: true
@@ -21,7 +21,7 @@ citation:
   author: Lemuria
   # citation-key: lemuria_kew_2026
   title: "More Kew specimens from Nina's product page"
-  original-date: 2026-03-26
+  original-date: 2026-03-30
   publisher: Lemuria
   # article-id: lict2026.0006
   publisher-place: Philippines
@@ -50,20 +50,23 @@ The Kew dress is now perhaps the most extensively-studied sewing pattern in the 
 
 When authoring the Kew monograph, we focused primarily on makes of the pattern in the wild as opposed to official product photos, for a variety of reasons, such as not wanting to have the appearance of a reseller catalog^[This concern is a holdover from our internal MediaWiki site, where we embed images more freely than in the *Journal*. The academic paper format of the *Journal* extensively distinguishes it from a reseller listing or catalog.], and the richer documentation third parties produced compared to official product pages.
 
-Size is typically not considered a relevant morphological character for taxa due to its continuous, non-discrete nature. However, the sale of size ranges of sewing patterns as separate products constitutes useful and discrete phylogenetic information, which is best suited for defining infrageneric taxa. The usage of infrageneric ranks originated in *Heleonora* Lemuria, 2026 (unpublished so far), encompassing the sleeveless variant of the Eleonora by Silversaga Patterns.
+Size is typically not considered a relevant morphological character for taxa due to its continuous, non-discrete nature. However, the sale of size ranges of sewing patterns as separate products constitutes discrete phylogenetic information, which is best suited for defining infrageneric taxa. The usage of infrageneric ranks originated in *Heleonora* Lemuria, 2026 (unpublished so far), encompassing the sleeveless variant of the Eleonora by Silversaga Patterns.
 
 ```{=latex}
 \end{multicols}
 ```
 ## Trees
 
-As with the hybrid phenetic&ndash;phylogenetic structure of the LCT-01, the Kew 
+As previously stated in @lemuria_taxonomy_2026, the hybrid phenetic&ndash;phylogenetic structure of the LCT-01 causes the Kew dresses to scatter polyphyletically across the tree. We present multiple tree figures to show the continued growth of the Kew dress taxa.
 
-::: {#fig-kewthidae}
+::: {#fig-kewisicasa}
 ```{r}
+#| fig-width: 12
+#| fig-height: 20
+
 library(ggtree)
 
-tree <- read.tree(text = "(((K. hawkinsia,K. caledonia,K. eleanorae,K. lauraflora)K. subg. Expansa)Kewthea)Kewthidae;")
+tree <- read.tree(text = "(((((((Kewbellothea)Kewbellinae,((Kewpepla_lornae,Kewpepla_lornaebis,Kewpepla_mariae)Kewpepla,((Kewthicata_juliae)Kewthicata,((((Kewthea_ruberabotonia,Kewthea_venetaflora)Kewthea_subg._Ninae,(Kewthea_hawkinsia,Kewthea_caledonia,Kewthea_eleanorae,Kewthea_lauraflora)Kewthea_subg._Expansa)Kewthea_subg._Expansa,Kewthea_chantellae,Kewthea_evae,Kewthea_lornae,Kewthea_lornoblae,Kewthea_luscinia,Kewthea_modistaflora)Kewthea)Kewthini)Kewthinae)Kewthidae)Vecobotonia)Vecostola)Manubristenta,(((((((Trunkewia_ninae,(Trunkewia_rosacrania,Trunkewia_rubera,Trunkewia_viridis)Trunkewia_subg._Illecebrosus)Trunkewia)Trunkewinae,((Helikewbellia)Helikewbellini,((Helikewabotonia_lanata,Helikewabotonia_stadile)Helikewabotonia,Helikewparabola,(Helikewplicata_ninae)Helikewplicata,(Helikewisia_aemilia,Helikewisia_ceciliae,Helikewisia_erinae,Helikewisia_irvinae,Helikewisia_kristinae,Helikewisia_mariae,Helikewisia_sarae,Helikewisia_roseatulipa,Helikewisia_amyboria,(Helikewisia_arbor,Helikewisia_quagga)Helikewisia_subg._Emmae)Helikewisia)Helikewini)Helikewinae)Helikewidae)Helinina)Helistola)Scapamanica,((((((Kewplicata,Kewparabola(Kewisia_bernicae,Kewisia_evae,Kewisia_fionae,Kewisia_genyae,Kewisia_kristinae,Kewisia_latae,Kewisia_lizae,Kewisia_mariae,Kewisia_modistaflora,Kewisia_modistarubera,Kewisia_rachaelae,Kewisia_reginarunae,Kewisia_sarae(Kewisia_tropiki,Kewisia_roseafolia)Kewisia_subg._Ninae)Kewisia)Kewidae,(((Kewasalia_pimsia)Kewasalia)Kewasalinae,((Florankewia_libera,Florankewia_valentina)Florankewia,(Kewabotonia_eleanorae,Kewabotonia_elsae,Kewabotonia_nuptirachaelae,Kewabotonia_sarae,Kewabotonia_zingibera)Kewabotonia)Plesikewinae)Plesikewidae)Kewoidea)Biligabotonia)Biligamentum)Bilourida)Umerostentida)Scapunatoria)Abtruncusa,(((((((Kewplicasa,Kewparacasa,(Kewisicasa_laria,(Kewisicasa_jessae,Kewisicasa_mandia)Kewisicasa_subg._Expansa)Kewisicasa)Kewcasaceae)Ventracasales)Ventracasidna)Botonicasida)Castula)Suprapatella)Subpelvia)Vestimentia);")
 
 ggtree(tree, layout = "rectangular") +
   geom_tiplab(size = 3, fontface = "italic") +
@@ -72,46 +75,135 @@ ggtree(tree, layout = "rectangular") +
   hexpand(0.5) + vexpand(0.8)
 ```
 
-A tree of *Kewthea* subg. *Expansa*
+The full Kew tree, with all species included.
 :::
 
 ## Descriptions
 ### *Helikewisia*
 ***Helikewisia*** Lemuria, 2026
 
+See @lemuria_taxonomy_2026.
+
 #### *Helikewisia roseatulipa*
 ***Helikewisia roseatulipa*** Lemuria, 2026; sp. nov.
 
-### *Kewisicasa*
-***Kewisicasa*** Lemuria, 2026
+**Holotype**: *Kew 74024.100HR* &mdash; Photograph.
+2067&times;2835.
+EXIF metadata stripped.
+Ventral view. Hair positioned dorsally.
+*Helikewisia roseatulipa* wb. Amy.C., 2017.
+&copy; Nina Chang-Smith or unknown photographer, 2017, all rights reserved.
 
-#### *Kewisicasa laria*
+* **Page**: See @kew6_20
+* **SHA2-256**: `b27c74a092a9222518bb154f79468dd3caa0dd7f894dcdfd3730113885008202`
+* **Raw image URLs**:
+  * **Original**: <https://www.ninalee.co.uk/cdn/shop/products/Kew-Dress-V2-1.jpg?v=1680151814>
+  * **IA**: <https://web.archive.org/web/20260326181302/https://www.ninalee.co.uk/cdn/shop/products/Kew-Dress-V2-1.jpg?v=1680151814>
+
+**Diagnosis**: *Helikewisia roseatulipa* is characterized by its fabric pattern of pink tulips and green leaves against a white background and its ventral medial row of 15 shank button with no thread holes, with a wood-like surface.
+
+**Etymology**: Portmanteau of Latin *rosea*, feminine form of *roseus* ("pink") + *Tulipa* L.
+
+**Specimens examined**: See holotype information.
+
+#### *Helikewisia amyboria*
+***Helikewisia amyboria** Lemuria, 2026; sp. nov.
+
+**Holotype**: *Kew 9018.1728*, person on left. See @sec-image-specimens.
+
+**Diagnosis**: *Helikewisia amyboria* is characterized by its fabric pattern of trees with pink trunks and slight potato/brown/golden-colored leaves, and clouds and a ventral medial row of 15 circular buttons with four thread holes.
+
+**Etymology**: Blend of *Amy* + Latin *arbor* ("tree"), as *Helikewisia arbor* is already used.
+
+**Specimens examined**: See holotype information.
+
+### *Kewisicasa*
+***Kewisicasa*** Lemuria, 2026; gen. nov.
+
+**Type species**: *Kewisicasa laria* (see @sec-kewisicasa-laria)
+
+**Description**: Ventral medial row of 10 buttons. First buttonhole horizontal, others vertical. Seam across entire skirt between first and second buttons. Slight flare, no higher than ~20&deg;.^[For the purposes of defining flare, the silhouette of the fabric is measured, with the inferiormost end being considered north. The wearer is then assumed to be in the standard anatomical position with their head facing downwards; their left is considered 270&deg; and their right is considered 90&deg;.] Terminates roughly at knee-level. Slight drape at inferior end.
+
+**Remarks**: Though we named the genus *Kewisicasa* in @lemuria_taxonomy_2026, we did not formally describe it. We now do so here.
+
+#### *Kewisicasa laria* {#sec-kewisicasa-laria}
 ***Kewisicasa laria*** Lemuria, 2026; sp. nov.
 
-**Holotype**: *Kew 14201.147KL* <!-- No name -->
+**Holotype**: *Kew 14201.147KL* &mdash; Photograph.
+2067&times;2835.
+EXIF metadata stripped.
+Ventral view. White sleeveless shirt tucked underneath skirt.
+*Kewisicasa laria* wb. Amy.C., 2017.
+&copy; Nina Chang-Smith or unknown photographer, 2017, all rights reserved.
+
+* **Page**: See @kew6_20
+* **SHA2-256**: `00067336936823f5c556ec1e2a2796618d300d6becdc6b1d94b6f7b1ddacdf9d`
+* **Raw image URLs**:
+  * **Original**: <https://www.ninalee.co.uk/cdn/shop/products/Kew-Dress-V3-3.jpg?v=1680151814>
+  * **IA**: <https://web.archive.org/web/20260327013520/https://www.ninalee.co.uk/cdn/shop/products/Kew-Dress-V3-3.jpg?v=1680151814>
+
+**Diagnosis**: *Kewisicasa laria* is characterized by a ventral medial button row of 10 buttons, white background with two thread holes; and a sky blue fabric with seagull-like shapes.
 
 **Etymology**: Pseudo-Latin feminine form of larus ("gull"), from the genus *Larus* Linnaeus, 1758.
+
+**Specimens examined**:
+
+* Holotype.
+* ***Kew 14201.158KL*** &mdash; Photograph.
+2067&times;2835.
+EXIF metadata stripped.
+Dorsal view. White sleeveless shirt tucked underneath skirt.
+*Kewisicasa laria* wb. Amy.C., 2017.
+&copy; Nina Chang-Smith or unknown photographer, 2017, all rights reserved.
+  * **Page**: See @kew6_20
+  * **SHA2-256**: `cb235a00a36a79798756de3885310b8469e53fe867fbf52a8fb3d9506b47f782`
+  * **Raw image URLs**:
+    * **Original**: <https://www.ninalee.co.uk/cdn/shop/products/Kew-Dress-V3-4.jpg?v=1680151814>
+    * **IA**: <https://web.archive.org/web/20260327013518/https://www.ninalee.co.uk/cdn/shop/products/Kew-Dress-V3-4.jpg?v=1680151814>
+
+### *Kewisicasa* subg. *Expansa* {#sec-kewisicasa-subg-expansa}
+***Kewisicasa* subg. *Expansa*** Lemuria, 2026; subgen. nov.
+
+**Diagnosis**: Phylogenetically, *Kewisicasa* subg. *Expansa* is defined by origin from size 21 and above of the standalone straight skirt (*Kewisicasa*) variant of the Kew pattern.
+
+**Etymology**: From Latin *expansa*, feminine form of *expansus* ("expanded"), referring to the larger size range.
 
 #### *Kewisicasa jessae* {#sec-kewisicasa-jessae}
 ***Kewisicasa jessae*** Lemuria, 2026; sp. nov.
 
-**Holotype**: *Jess 29081.31.58KJ*
+**Holotype**: *Jess 29081.31.58KJ* &mdash; Photograph.
 
-**Etymology**:
+* **Page**: See @kew6_20
+* **SHA2-256**: `9899938117bf4ffa79c03e6c6b80b4e998351f716eb010e74dbe1dca808f3125`
+* **Raw image URLs**:
+  * **Original**: <https://www.ninalee.co.uk/cdn/shop/products/Jess-Nina-Lee-Kew-Skirt-16-28.jpg?v=1677871695>
+  * **IA**:
 
-**Diagnosis**:
+**Diagnosis**: *Kewisicasa jessae* is characterized by a ventral medial button row of 11 buttons, white background and unknown black pattern, and an unknown amount of threadholes; and a plain magenta fabric. Slightly larger vertical gap between the first, second, and third buttons.
+
+**Etymology**: *Jess* + *-ae*, feminine genitive suffix.
 
 #### *Kewisicasa mandia* {#sec-kewisicasa-mandia}
 ***Kewisicasa mandia*** Lemuria, 2026; sp. nov.
 
-**Holotype**: *Mandy 210535.158.3903KM*
+**Holotype**: *Mandy 210535.158.3903KM* &mdash; Photograph. 1658&times;2560. EXIF metadata stripped.
 
-**Etymology**:
+* **Page**: See @kew6_20
+* **SHA2-256**: `459b5efb70c21f871d81205fbf51142631984ca4f8fdb03be464f10dc794442f`
+* **Raw image URLs**:
+  * **Original**: <https://www.ninalee.co.uk/cdn/shop/products/Mandy-Nina-Lee-Kew-Skirt-16-28-scaled.jpg?v=1677871695>
+  * **IA**: <https://web.archive.org/web/20260330021938/https://www.ninalee.co.uk/cdn/shop/products/Mandy-Nina-Lee-Kew-Skirt-16-28-scaled.jpg?v=1677871695>
 
-**Diagnosis**:
+**Diagnosis**: *Kewisicasa mandia* is characterized by a ventral medial button row of 11 buttons, white with two thread-holes; and a green fabric with a grid of white lines.
+
+**Etymology**: *Mandy* + *-ia*, feminine abstract noun suffix.
 
 ### *Kewisia* subg. *Ninae* {#sec-kewisia-subg-ninae}
 ***Kewisia* subg. *Ninae*** Lemuria, 2026; subgen. nov.
+
+**Diagnosis**: Phylogenetically, *Kewisia* subg. *Ninae* is defined by origin from Nina Chang-Smith or a close relative.
+
+**Etymology**: *Nina* + *-ae*, feminine genitive suffix.
 
 #### *Kewisia tropiki* {#sec-kewisia-tropiki}
 ***Kewisia tropiki*** Lemuria, 2026; sp. nov.
@@ -124,9 +216,14 @@ A tree of *Kewthea* subg. *Expansa*
   * **Original**: <https://www.ninalee.co.uk/cdn/shop/products/Kew-V2-Nina-1.jpg?v=1680151814>
   * **IA**: <https://web.archive.org/web/20230714101532/https://www.ninalee.co.uk/cdn/shop/products/Kew-V2-Nina-1.jpg?v=1680151814>
 
-**Diagnosis**: *K. tropiki* is characterized by a ventral medial button row of 15 circular two thread-hole buttons of a primarily ivory color with slight dark blue accents at random angles, and a consistent vertical threadline; and a fabric with a pink background with blue leaves, and red and purple flowers, the "Tropical Stems" fabric from Lady McElroy.
+**Diagnosis**: *Kewisia tropiki* is characterized by a ventral medial button row of 15 circular two thread-hole buttons of a primarily ivory color with slight dark blue accents at random angles, and a consistent vertical threadline; and a fabric with a pink background with blue leaves, and red and purple flowers, the "Tropical Stems" fabric from Lady McElroy.
 
 **Etymology**: 
+
+**Specimens examined**:
+
+* Holotype.
+* *Kew 4557.234* (see @sec-image-specimens)
 
 #### *Kewisia roseafolia* {#sec-kewisia-roseafolia}
 ***Kewisia roseafolia*** Lemuria, 2026; sp. nov.
@@ -139,18 +236,28 @@ A tree of *Kewthea* subg. *Expansa*
   * **Original**: <https://www.ninalee.co.uk/cdn/shop/products/Kew-Dress-V2-9.jpg?v=1680151814>
   * **IA**: <https://web.archive.org/web/20260326192109/https://www.ninalee.co.uk/cdn/shop/products/Kew-Dress-V2-9.jpg?v=1680151814>
 
-**Diagnosis**: *K. roseafolia* is characterized by a ventral medial button row of 15 circular two thread-hole buttons of a wooden color, and a fabric with stylized depictions of leaves in pink and white.
+**Diagnosis**: *Kewisia roseafolia* is characterized by a ventral medial button row of 15 circular two thread-hole buttons of a wooden color, and a fabric with stylized depictions of leaves in pink and white.
 
 **Etymology**: From Latin *rosea*, feminine form of *roseus* "pink, rose-colored" + *folia*, pseudo-Latin feminine form of *folium* "leaf".
 
-### *Kewthea* subg. *Nina*
+**Specimens examined**: See holotype information.
+
+### *Kewthea* subg. *Ninae*
+***Kewthea* subg. *Ninae*** Lemuria, 2026; subgen. nov.
+
+**Diagnosis**: Phylogenetically, *Kewthea* subg. *Ninae* is defined by origin from Nina Chang-Smith or a close relative.
+
+**Etymology**: *Nina* + *-ae*, feminine genitive suffix.
+
+**Specimens examined**: See holotype information.
+
 #### *Kewthea ruberabotonia* {#sec-kewthea-ruberabotonia}
 ***Kewthea ruberabotonia*** Lemuria, 2026; sp. nov.
 
 **Holotype**: *Kew 4109.187KR* &mdash; Photograph.
 3543&times;5315.
 EXIF metadata stripped.
-*Kewthea ruberabotonia* wb. Amy, c. 2017.
+*Kewthea ruberabotonia* wb. Amy.C. (`W/2026 F7`), c. 2017.
 &copy; Nina Chang-Smith or unknown photographer, 2017, all rights reserved.
 
 * **Page**: See @kew6_20
@@ -159,9 +266,11 @@ EXIF metadata stripped.
   * **Original**: <https://www.ninalee.co.uk/cdn/shop/products/Kew-V1-Amy-close-up-1.jpg?v=1680151814>
   * **IA**: <https://web.archive.org/web/20230714160745/https://www.ninalee.co.uk/cdn/shop/products/Kew-V1-Amy-close-up-1.jpg?v=1680151814>
 
+**Diagnosis**: *Kewthea ruberabotonia* is characterized by a ventral medial row of red buttons, plastic, with two thread holes, and a fabric with a white background and multiple unidentified plants.
+
 **Etymology**: From pseudo-Latin *rubera*, corrupted form of *rubra*, feminine form of *ruber* ("red"). Also interpretable as *ruber* ("red") + *-a-* (epenthetic vowel added for euphony) + *botonia* ("button").
 
-**Remarks**:
+**Specimens examined**: See holotype information.
 
 #### *Kewthea venetaflora* {#sec-kewthea-venetaflora}
 ***Kewthea venetaflora*** Lemuria, 2026; sp. nov.
@@ -169,7 +278,7 @@ EXIF metadata stripped.
 **Holotype**: *Kew 4109.124KV* &mdash; Photograph.
 1937&times;2657.
 EXIF metadata stripped.
-*Kewthea venetaflora* wb. Amy (`W/2026 F7`), c. 2017.
+*Kewthea venetaflora* wb. Amy.C. (`W/2026 F7`), c. 2017.
 &copy; Nina Chang-Smith or unknown photographer, 2017, all rights reserved.
 
 * **Page**: See @kew6_20
@@ -180,10 +289,14 @@ EXIF metadata stripped.
 
 **Etymology**: From Latin *veneta*, feminine form of *venetus* ("sky blue") + pseudo-Latin *flora* "flower", from Latin *Flora*, the goddess of flowers.
 
+**Specimens examined**: See holotype information.
+
 ### *Kewthea* subg. *Expansa* {#sec-kewthea-subg-expansa}
 ***Kewthea* subg. *Expansa*** Lemuria, 2026; subgen. nov.
 
 **Diagnosis**: Phylogenetically, *Kewthea* subg. *Expansa* is defined by origin from size 21 and above of the tea dress (Kewthidae) variant of the Kew pattern.
+
+**Etymology**: From Latin *expansa*, feminine form of *expansus* ("expanded"), referring to the larger size range.
 
 #### *Kewthea hawkinsia* {#sec-kewthea-hawkinsia}
 ***Kewthea hawkinsia*** Lemuria, 2026; sp. nov.
@@ -204,6 +317,8 @@ EXIF metadata stripped.
 
 **Etymology**: From *Hawkins* + *-ia*, feminine abstract noun suffix.
 
+**Specimens examined**: See holotype information.
+
 #### *Kewthea caledonia* {#sec-kewthea-caledonia}
 ***Kewthea caledonia*** Lemuria, 2026; sp. nov.
 
@@ -222,6 +337,8 @@ EXIF metadata stripped.
 **Diagnosis**: *K. caledonia* is characterized by a ventral medial button row of ~15 small buttons.^[Image resolution insufficient to identify buttons.], and a fabric with a dark-blue background and numerous variably-sized sky blue, purple, and pale bright orange dots scattered at random.
 
 **Etymology**: From Latin *Caledonia* ("Scotland"), from Emma's location.
+
+**Specimens examined**: See holotype information.
 
 #### *Kewthea eleanorae* {#sec-kewthea-eleanorae}
 ***Kewthea eleanorae*** Lemuria, 2026; sp. nov.
@@ -242,6 +359,8 @@ EXIF metadata stripped.
 
 **Etymology**: From *Eleanor* + *-ae*, feminine genitive suffix.
 
+**Specimens examined**: See holotype information.
+
 #### *Kewthea lauraflora* {#sec-kewthea-lauraflora}
 ***Kewthea lauraflora*** Lemuria, 2026; sp. nov.
 
@@ -261,31 +380,72 @@ EXIF metadata stripped.
 
 **Etymology**: From *Laura*, pseudo-Latin *flora*, to distinguish from *Kewthea hawkinsia* wb. Laura.Haw., from Latin *Flora*, the goddess of flowers.
 
+**Specimens examined**: See holotype information.
+
 ```{=latex}
 \begin{multicols}{2}
 ```
 
+## General remarks
+At least two distinct persons appear in the official product photography for @kew6_20, with the exception of pattern testers. We were able to identify the first person as Nina Chang-Smith herself.
+
+The second person, the one wearing *Kewisicasa laria*, was slightly harder to identify; but we believe the person's name to be Amy Chang, based on (1) the filename for *Kew 4109.187KR* being "Kew-V1-Amy-close-up-1.jpg", and (2) the presence of the name *Amy Chang* on seating chart signage for Chang-Smith's June 2019 wedding [@changsmith2020, ninth image on page].
+
 ## Appendix
 
 ### Person abbreviations
-The following abbreviations have been defined in @lemuria_taxonomy_2026:
-**Lemuria**,
-**Nina**,
+The abbreviations **Nina** for Nina Chang-Smith and **Lemuria** for Lemuria have been defined in @lemuria_taxonomy_2026.
 
 In this paper, we establish the new person abbreviations:
 
 * **Laura.Haw.** &mdash; Laura Hawkins, pattern tester for the Kew expansion pack
+* **Amy.C.** (`W/2026 F7`), relative of Nina Chang-Smith
 
 We establish the new alphanumeric designations:
-
 * **Eleanor** (`W/2026 F3`), wearer of *Kewthea eleanorae*
 * **Laura** (`W/2026 F4`), wearer of *Kewthea lauraflora*
 * **Emma** (`W/2026 F5`), wearer of *Kewthea caledonia*
-* **Amy** (`W/2026 F7`), wearer of *Kewthea ruberabotonia*
 
-### Image specimens
+### Image specimens {#sec-image-specimens}
+* *Eleanor 2023.001.8404KE*
+* *Emma 2023.001.1402KC*
+* *Jess 29081.31.58KJ*
+* *Kew 14201.147KL*
+* *Kew 14201.158KL*
+* *Kew 4109.124KV*
+* *Kew 4109.187KR*
+* *Kew 74024.100HR*
+* *Kew 9018.1728*
+* *Laura 2023.001.1682KH*
+* *Laura 2023.001.4901KL*
+* *Mandy 210535.158.3903KM*
+* *Nina 2017.013.8289KR*
+* *Nina 2017.013.8377KT*
 
 #### New image specimens
+These image specimens do not correspond to one singular taxon.
+
+* *Kew 9018.1728* 
+(*Kew 4557.234*) &mdash; Photograph.
+3361&times;4618.
+EXIF metadata stripped.
+On left, Amy Chang, standing, facing camera, hair positioned laterally, partial obscuration of straps; on right, Nina Chang-Smith, facing camera, hair positioned laterally, straps minimally obscured. Both standing at angles relative to camera. Inferiormost button of *Helikewisia amyboria* unfastened.
+Left: *Helikewisia amyboria* wb. Amy.C, 2017; right: *Kewisia tropiki* wb. Nina, 2017;
+&copy; Nina Chang-Smith or unknown photographer, c. 2017, all rights reserved.
+  * **Page**: See @kew6_20
+  * **SHA2-256**: `2cf4fe38ca4e664c8a05a60ca0b3b203d7b672f6988e530f0186e724938ae614`
+  * **Raw image URLs**:
+    * **Original**: <https://www.ninalee.co.uk/cdn/shop/products/NinaLeeKewDressversion1.jpg?v=1680151814>
+    * **IA**: <https://web.archive.org/web/20260326190410/https://www.ninalee.co.uk/cdn/shop/products/NinaLeeKewDressversion1.jpg?v=1680151814>
+
+### Acknowledgements
+We used R; specifically, `ggtree`, to render tree figures. For information on `ggtree`, see @yuetal2017.
+
+We thank Nina Lee for her amazing patterns that help bolster a culture of home sewing and advance the slow fashion movement. We thank all the sewists and the sources we have cited for documenting their projects in intricate detail.
+
+We thank the people of the Archive Team (<https://wiki.archiveteam.org/wiki/Main_Page>) for assistance in archiving many of the websites we visited, especially the WordPress blogs whose images the Wayback Machine could not save due to improper content negotiation.
+
+We thank the people of the Coffee Shop on [4d2.org](https://4d2.org), where our lead author has posted fragments of the paper time and time again, for being absolutely wonderful people, and being an extra set of eyes to keep errors shallow under Linus's law; and we thank Sarah, the operator of 4d2, for fostering such a wonderful space.
 
 ### Information
 *Lemuria's (Informal) Journal of Clothing Taxonomy* is the gray literature journal of the First Lemurian Clothing Taxonomy, a system by Lemuria to assign Latin names to dresses using biological methods. The author, known mononymically as just Lemuria, is an Filipino programmer and independent gray literature researcher from Manila.
