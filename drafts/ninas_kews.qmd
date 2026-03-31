@@ -8,20 +8,20 @@ author:
 license: CC BY-SA
 journal:
   title: "Lemuria's (Informal) Journal of Clothing Taxonomy"
-date: 2026-03-30
+date: 2026-03-31
 lang: en
 execute: 
   freeze: true
 # publisher-id: "lict2026.0006"
 abstract: |
-  We build on the monograph of the Kew dresses with additional descriptions for the Kew dress specimens on Nina Lee's product pages; including the first skirt species description in the entire taxonomy, *Kewisicasa laria*. In total, we describe new 14 species and new subgenera.
+  We build on the monograph of the Kew dresses with additional descriptions for the Kew dress specimens on Nina Lee's product pages; including the first skirt species description in the entire taxonomy, *Kewisicasa laria*. In total, we describe new 14 species and four new subgenera.
 bibliography: ninas_kews.bib
 number-sections: true
 citation:
   author: Lemuria
   # citation-key: lemuria_kew_2026
   title: "More Kew specimens from Nina's product page"
-  original-date: 2026-03-30
+  original-date: 2026-03-31
   publisher: Lemuria
   # article-id: lict2026.0006
   publisher-place: Philippines
@@ -46,7 +46,16 @@ keywords: kew dress, kewoidea, kewthidae, helikewidae, nina lee, clothing taxono
 ```
 
 ## Background
-The Kew dress is now perhaps the most extensively-studied sewing pattern in the LCT-01. Earlier in March 2026, we published a 52-page monograph on the Kew dresses, which laid out the structure of Kew dress taxonomy and described over 47 species [@lemuria_taxonomy_2026]. However, the large amount of Kew dresses on the Internet threatened to inflate the scope of @lemuria_taxonomy_2026 excessively; as such, we enacted a "species freeze" where new Kew specimens would be reserved for subsequent papers. We continue our research into the Kew dress as part of this paper.
+The Kew dress is now perhaps the most extensively-studied sewing pattern in the LCT-01. Earlier in March 2026, we published a 52-page monograph on the Kew dresses, which laid out the structure of Kew dress taxonomy and described over 47 species [@lemuria_taxonomy_2026]. However, the large amount of Kew dresses on the Internet threatened to inflate the scope of @lemuria_taxonomy_2026 excessively; as such, we enacted a "species freeze" where new Kew specimens would be reserved for subsequent papers. We continue our research into the Kew dress as part of this paper, describing 14 new species and four subgenera.
+
+The total count of Kew dress taxa now stands at roughly
+1 superfamily, 
+8 families, 
+3 subfamilies, 
+3 tribes, 
+18 genera, 
+6 subgenera, and 
+60 species.
 
 When authoring the Kew monograph, we focused primarily on makes of the pattern in the wild as opposed to official product photos, for a variety of reasons, such as not wanting to have the appearance of a reseller catalog^[This concern is a holdover from our internal MediaWiki site, where we embed images more freely than in the *Journal*. The academic paper format of the *Journal* extensively distinguishes it from a reseller listing or catalog.], and the richer documentation third parties produced compared to official product pages.
 
@@ -55,9 +64,9 @@ Size is typically not considered a relevant morphological character for taxa due
 ```{=latex}
 \end{multicols}
 ```
-## Trees
 
-As previously stated in @lemuria_taxonomy_2026, the hybrid phenetic&ndash;phylogenetic structure of the LCT-01 causes the Kew dresses to scatter polyphyletically across the tree. We present multiple tree figures to show the continued growth of the Kew dress taxa.
+## Trees
+As previously stated in @lemuria_taxonomy_2026, the hybrid phenetic&ndash;phylogenetic structure of the LCT-01 causes the Kew dresses to scatter polyphyletically across the tree. The updated Kew tree is presented in @fig-kewisicasa.
 
 ::: {#fig-kewisicasa}
 ```{r}
@@ -66,7 +75,7 @@ As previously stated in @lemuria_taxonomy_2026, the hybrid phenetic&ndash;phylog
 
 library(ggtree)
 
-tree <- read.tree(text = "(((((((Kewbellothea)Kewbellinae,((Kewpepla_lornae,Kewpepla_lornaebis,Kewpepla_mariae)Kewpepla,((Kewthicata_juliae)Kewthicata,((((Kewthea_ruberabotonia,Kewthea_venetaflora)Kewthea_subg._Ninae,(Kewthea_hawkinsia,Kewthea_caledonia,Kewthea_eleanorae,Kewthea_lauraflora)Kewthea_subg._Expansa)Kewthea_subg._Expansa,Kewthea_chantellae,Kewthea_evae,Kewthea_lornae,Kewthea_lornoblae,Kewthea_luscinia,Kewthea_modistaflora)Kewthea)Kewthini)Kewthinae)Kewthidae)Vecobotonia)Vecostola)Manubristenta,(((((((Trunkewia_ninae,(Trunkewia_rosacrania,Trunkewia_rubera,Trunkewia_viridis)Trunkewia_subg._Illecebrosus)Trunkewia)Trunkewinae,((Helikewbellia)Helikewbellini,((Helikewabotonia_lanata,Helikewabotonia_stadile)Helikewabotonia,Helikewparabola,(Helikewplicata_ninae)Helikewplicata,(Helikewisia_aemilia,Helikewisia_ceciliae,Helikewisia_erinae,Helikewisia_irvinae,Helikewisia_kristinae,Helikewisia_mariae,Helikewisia_sarae,Helikewisia_roseatulipa,Helikewisia_amyboria,(Helikewisia_arbor,Helikewisia_quagga)Helikewisia_subg._Emmae)Helikewisia)Helikewini)Helikewinae)Helikewidae)Helinina)Helistola)Scapamanica,((((((Kewplicata,Kewparabola(Kewisia_bernicae,Kewisia_evae,Kewisia_fionae,Kewisia_genyae,Kewisia_kristinae,Kewisia_latae,Kewisia_lizae,Kewisia_mariae,Kewisia_modistaflora,Kewisia_modistarubera,Kewisia_rachaelae,Kewisia_reginarunae,Kewisia_sarae(Kewisia_tropiki,Kewisia_roseafolia)Kewisia_subg._Ninae)Kewisia)Kewidae,(((Kewasalia_pimsia)Kewasalia)Kewasalinae,((Florankewia_libera,Florankewia_valentina)Florankewia,(Kewabotonia_eleanorae,Kewabotonia_elsae,Kewabotonia_nuptirachaelae,Kewabotonia_sarae,Kewabotonia_zingibera)Kewabotonia)Plesikewinae)Plesikewidae)Kewoidea)Biligabotonia)Biligamentum)Bilourida)Umerostentida)Scapunatoria)Abtruncusa,(((((((Kewplicasa,Kewparacasa,(Kewisicasa_laria,(Kewisicasa_jessae,Kewisicasa_mandia)Kewisicasa_subg._Expansa)Kewisicasa)Kewcasaceae)Ventracasales)Ventracasidna)Botonicasida)Castula)Suprapatella)Subpelvia)Vestimentia);")
+tree <- read.tree(text = "(((((((Kewbellothea)Kewbellinae,((Kewpepla_lornae,Kewpepla_lornaebis,Kewpepla_mariae)Kewpepla,((Kewthicata_juliae)Kewthicata,(((Kewthea_ruberabotonia,Kewthea_venetaflora)Kewthea_subg._Ninae,(Kewthea_hawkinsia,Kewthea_caledonia,Kewthea_eleanorae,Kewthea_lauraflora)Kewthea_subg._Expansa,Kewthea_chantellae,Kewthea_evae,Kewthea_lornae,Kewthea_lornoblae,Kewthea_luscinia,Kewthea_modistaflora)Kewthea)Kewthini)Kewthinae)Kewthidae)Vecobotonia)Vecostola)Manubristenta,(((((((Trunkewia_ninae,(Trunkewia_rosacrania,Trunkewia_rubera,Trunkewia_viridis)Trunkewia_subg._Illecebrosus)Trunkewia)Trunkewinae,((Helikewbellia)Helikewbellini,((Helikewabotonia_lanata,Helikewabotonia_stadile)Helikewabotonia,Helikewparabola,(Helikewplicata_ninae)Helikewplicata,(Helikewisia_aemilia,Helikewisia_ceciliae,Helikewisia_erinae,Helikewisia_irvinae,Helikewisia_kristinae,Helikewisia_mariae,Helikewisia_sarae,Helikewisia_roseatulipa,Helikewisia_amyboria,(Helikewisia_arbor,Helikewisia_quagga)Helikewisia_subg._Emmae)Helikewisia)Helikewini)Helikewinae)Helikewidae)Helinina)Helistola)Scapamanica,((((((Kewplicata,Kewparabola(Kewisia_bernicae,Kewisia_evae,Kewisia_fionae,Kewisia_genyae,Kewisia_kristinae,Kewisia_latae,Kewisia_lizae,Kewisia_mariae,Kewisia_modistaflora,Kewisia_modistarubera,Kewisia_rachaelae,Kewisia_reginarunae,Kewisia_sarae(Kewisia_tropiki,Kewisia_roseafolia)Kewisia_subg._Ninae)Kewisia)Kewidae,(((Kewasalia_pimsia)Kewasalia)Kewasalinae,((Florankewia_libera,Florankewia_valentina)Florankewia,(Kewabotonia_eleanorae,Kewabotonia_elsae,Kewabotonia_nuptirachaelae,Kewabotonia_sarae,Kewabotonia_zingibera)Kewabotonia)Plesikewinae)Plesikewidae)Kewoidea)Biligabotonia)Biligamentum)Bilourida)Umerostentida)Scapunatoria)Abtruncusa,(((((((Kewplicasa,Kewparacasa,(Kewisicasa_laria,(Kewisicasa_jessae,Kewisicasa_mandia)Kewisicasa_subg._Expansa)Kewisicasa)Kewcasaceae)Ventracasales)Ventracasidna)Botonicasida)Castula)Suprapatella)Subpelvia)Vestimentia);")
 
 ggtree(tree, layout = "rectangular") +
   geom_tiplab(size = 3, fontface = "italic") +
@@ -107,7 +116,7 @@ Ventral view. Hair positioned dorsally.
 **Specimens examined**: See holotype information.
 
 #### *Helikewisia amyboria*
-***Helikewisia amyboria** Lemuria, 2026; sp. nov.
+***Helikewisia amyboria*** Lemuria, 2026; sp. nov.
 
 **Holotype**: *Kew 9018.1728*, person on left. See @sec-image-specimens.
 
@@ -172,12 +181,17 @@ Dorsal view. White sleeveless shirt tucked underneath skirt.
 ***Kewisicasa jessae*** Lemuria, 2026; sp. nov.
 
 **Holotype**: *Jess 29081.31.58KJ* &mdash; Photograph.
+1440&times;1440.
+EXIF metadata stripped.
+Ventral view. Ventral medial button row unobscured. Hair terminates significantly superior to skirt. Visibility not obscured.
+*Kewisicasa jessae* wb. Jess (`W/2026 F9`), unknown.
+&copy; Unknown photographer, unknown, all rights reserved.
 
 * **Page**: See @kew6_20
 * **SHA2-256**: `9899938117bf4ffa79c03e6c6b80b4e998351f716eb010e74dbe1dca808f3125`
 * **Raw image URLs**:
   * **Original**: <https://www.ninalee.co.uk/cdn/shop/products/Jess-Nina-Lee-Kew-Skirt-16-28.jpg?v=1677871695>
-  * **IA**:
+  * **IA**: <https://web.archive.org/web/20260330022036/https://www.ninalee.co.uk/cdn/shop/products/Jess-Nina-Lee-Kew-Skirt-16-28.jpg?v=1677871695>
 
 **Diagnosis**: *Kewisicasa jessae* is characterized by a ventral medial button row of 11 buttons, white background and unknown black pattern, and an unknown amount of threadholes; and a plain magenta fabric. Slightly larger vertical gap between the first, second, and third buttons.
 
@@ -187,6 +201,9 @@ Dorsal view. White sleeveless shirt tucked underneath skirt.
 ***Kewisicasa mandia*** Lemuria, 2026; sp. nov.
 
 **Holotype**: *Mandy 210535.158.3903KM* &mdash; Photograph. 1658&times;2560. EXIF metadata stripped.
+Ventral view. Subject looking upward. Drape of skirt obscures inferior portion of ventral medial button row. Arms extended outward.
+*Kewisicasa mandia* wb. Mandy (`W/2026 F10`), unknown.
+&copy; Unknown photographer, unknown, all rights reserved.
 
 * **Page**: See @kew6_20
 * **SHA2-256**: `459b5efb70c21f871d81205fbf51142631984ca4f8fdb03be464f10dc794442f`
@@ -209,6 +226,11 @@ Dorsal view. White sleeveless shirt tucked underneath skirt.
 ***Kewisia tropiki*** Lemuria, 2026; sp. nov.
 
 **Holotype**: *Nina 2017.013.8377KT* &mdash; Photograph.
+3543&times;5313.
+EXIF metadata stripped.
+Ventral view. Subject standing at angle. Hair positioned laterally and draping ventrally, right strap obscured.
+*Kewisia tropiki* wb. Nina, c. 2017.
+&copy; Nina Chang-Smith or unknown photographer, 2017, all rights reserved.
 
 * **Page**: See @kew6_20
 * **SHA2-256**: `42929bfbdf49b423201a3650623216e0cb08cbc41299a1c6f8b555f68ff5fea7`
@@ -229,6 +251,11 @@ Dorsal view. White sleeveless shirt tucked underneath skirt.
 ***Kewisia roseafolia*** Lemuria, 2026; sp. nov.
 
 **Holotype**: *Nina 2017.013.8289KR* &mdash; Photograph.
+1937&times;2657.
+EXIF metadata stripped.
+Angled ventral view. Subject's hair positioned laterally, obscuring her left strap.
+*Kewisia roseafolia* wb. Nina, 2017.
+&copy; Nina Chang-Smith or unknown photographer, 2017, all rights reserved.
 
 * **Page**: See @kew6_20
 * **SHA2-256**: `f4c34767bc2a237da8cfd304e052e3dfa7b97ee57dc0feba8116c11e00405f0a`
@@ -382,10 +409,6 @@ EXIF metadata stripped.
 
 **Specimens examined**: See holotype information.
 
-```{=latex}
-\begin{multicols}{2}
-```
-
 ## General remarks
 At least two distinct persons appear in the official product photography for @kew6_20, with the exception of pattern testers. We were able to identify the first person as Nina Chang-Smith herself.
 
@@ -398,13 +421,15 @@ The abbreviations **Nina** for Nina Chang-Smith and **Lemuria** for Lemuria have
 
 In this paper, we establish the new person abbreviations:
 
-* **Laura.Haw.** &mdash; Laura Hawkins, pattern tester for the Kew expansion pack
+* **Laura.Haw.** &mdash; Laura Hawkins (`W/2026 F6`), pattern tester for the Kew expansion pack
 * **Amy.C.** (`W/2026 F7`), relative of Nina Chang-Smith
 
 We establish the new alphanumeric designations:
 * **Eleanor** (`W/2026 F3`), wearer of *Kewthea eleanorae*
 * **Laura** (`W/2026 F4`), wearer of *Kewthea lauraflora*
 * **Emma** (`W/2026 F5`), wearer of *Kewthea caledonia*
+* **Jess** (`W/2026 F9`), wearer of *Kewisicasa jessae*
+* **Mandy** (`W/2026 F10`), wearer of *Kewisicasa mandia*
 
 ### Image specimens {#sec-image-specimens}
 * *Eleanor 2023.001.8404KE*
@@ -443,8 +468,6 @@ We used R; specifically, `ggtree`, to render tree figures. For information on `g
 
 We thank Nina Lee for her amazing patterns that help bolster a culture of home sewing and advance the slow fashion movement. We thank all the sewists and the sources we have cited for documenting their projects in intricate detail.
 
-We thank the people of the Archive Team (<https://wiki.archiveteam.org/wiki/Main_Page>) for assistance in archiving many of the websites we visited, especially the WordPress blogs whose images the Wayback Machine could not save due to improper content negotiation.
-
 We thank the people of the Coffee Shop on [4d2.org](https://4d2.org), where our lead author has posted fragments of the paper time and time again, for being absolutely wonderful people, and being an extra set of eyes to keep errors shallow under Linus's law; and we thank Sarah, the operator of 4d2, for fostering such a wonderful space.
 
 ### Information
@@ -456,7 +479,7 @@ We thank the people of the Coffee Shop on [4d2.org](https://4d2.org), where our 
 
 At publication, the journal did not have a DOI prefix.
 
-Work began on the paper on 2026-03-26 and was published the same day.
+Work began on the paper on 2026-03-26 and was published ...
 
 Visit us at: <https://lct01.lemuria.ph>
 
@@ -466,7 +489,3 @@ Visit us at: <https://lct01.lemuria.ph>
 
 ::: {#refs}
 :::
-
-```{=latex}
-\end{multicols}
-```
