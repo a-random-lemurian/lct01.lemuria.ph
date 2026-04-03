@@ -14,7 +14,7 @@ execute:
   freeze: true
 # publisher-id: "lict2026.0006"
 abstract: |
-  We build on the monograph of the Kew dresses with additional descriptions for the Kew dress specimens on Nina Lee's product pages; including the first skirt species description in the entire taxonomy, *Kewisicasa laria*. In total, we describe new 14 species and four new subgenera.
+  We build on the monograph of the Kew dresses with additional descriptions for the Kew dress specimens on Nina Lee's product pages; including the first skirt species description in the entire taxonomy, *Kewisicasa laria*. In total, we describe new NNN species and NNN new subgenera.
 bibliography: ninas_kews.bib
 number-sections: true
 citation:
@@ -46,7 +46,7 @@ keywords: kew dress, kewoidea, kewthidae, helikewidae, nina lee, clothing taxono
 ```
 
 ## Background
-The Kew dress is now perhaps the most extensively-studied sewing pattern in the LCT-01. Earlier in March 2026, we published a 52-page monograph on the Kew dresses, which laid out the structure of Kew dress taxonomy and described over 47 species [@lemuria_taxonomy_2026]. However, the large amount of Kew dresses on the Internet threatened to inflate the scope of @lemuria_taxonomy_2026 excessively; as such, we enacted a "species freeze" where new Kew specimens would be reserved for subsequent papers. We continue our research into the Kew dress as part of this paper, describing 14 new species and four subgenera.
+The Kew dress is now perhaps the most extensively-studied sewing pattern in the LCT-01. Earlier in March 2026, we published a 52-page monograph on the Kew dresses, which laid out the structure of Kew dress taxonomy and described over 47 species [@lemuria_taxonomy_2026].
 
 The total count of Kew dress taxa now stands at roughly
 1 superfamily, 
@@ -57,12 +57,65 @@ The total count of Kew dress taxa now stands at roughly
 6 subgenera, and 
 60 species.
 
-When authoring the Kew monograph, we focused primarily on makes of the pattern in the wild as opposed to official product photos, for a variety of reasons, such as not wanting to have the appearance of a reseller catalog^[This concern is a holdover from our internal MediaWiki site, where we embed images more freely than in the *Journal*. The academic paper format of the *Journal* extensively distinguishes it from a reseller listing or catalog.], and the richer documentation third parties produced compared to official product pages.
-
 Size is typically not considered a relevant morphological character for taxa due to its continuous, non-discrete nature. However, the sale of size ranges of sewing patterns as separate products constitutes discrete phylogenetic information, which is best suited for defining infrageneric taxa. The usage of infrageneric ranks originated in *Heleonora* Lemuria, 2026 (unpublished so far), encompassing the sleeveless variant of the Eleonora by Silversaga Patterns.
+
+### Taxonomic history
+The large amount of Kew dresses on the Internet threatened to inflate the scope of @lemuria_taxonomy_2026 excessively; as such, we enacted a "species freeze" where new Kew specimens would be reserved for subsequent papers. We continue our research into the Kew dress as part of this paper, describing  NNN new species and NNN subgenera.
+
+When authoring the Kew monograph, we focused primarily on makes of the pattern in the wild as opposed to official product photos, for a variety of reasons, such as not wanting to have the appearance of a reseller catalog^[This concern is a holdover from our internal MediaWiki site, where we embed images more freely than in the *Journal*. The academic paper format of the *Journal* extensively distinguishes it from a reseller listing or catalog.], and the anecdotal observation that third parties produce richer documentation than official product pages.
+
+Originally, we were unable to identify the wearers of each holotype specimen beyond their first name. However, on April 3, our lead author decided to include a history of how Chang-Smith developed the expanded size ranges, and in the process, decided also to cite posts by Chang-Smith featuring many of the holotypes on Instagram that included information on the persons featured. Though not every single person was identifiable due to broken Instagram links or Imginn not having the requested profile, we were able to further confirm some identities by correlating them with filenames from the Nina Lee website.
+
+Timestamps were also updated based on these posts; we inferred the old timestamps from the `v` variable on Shopify CDN images, which likely do not reflect the image's actual creation date.
+
+### Terminology
+The term "expansion" is rather ambiguous in this context, as it can either refer to the Kew dress expansion pack, which adds two skirt options, or to the expanded size range.
+
+Thus, we use four standardized terms for the four Kew patterns.
+
+* Kew 6-20 refers to the "base" Kew pattern, from UK sizes 6 to 20.
+* Kew 16-28 refers to the "base" Kew pattern, from UK sizes 16 to 28.
+* Kew expansion 6-20 refers to the expansion pack, from UK sizes 6 to 20.
+* Kew expansion 16-28 refers to the expansion pack, from UK sizes 16 to 28.
+
+<!-- | - | 6-20 | 16-28
+|---|---|---|
+| Base | Kew 6-20
+| Expansion | Kew 6-20 expanded
+ -->
+
+### History of the expansion
+The Kew dress's history is extensively discussed in @lemuria_taxonomy_2026. Here, we focus on Nina Chang-Smith's expansion of her size range to UK size 28.
+
+The first public evidence that Chang-Smith was working on the expansion came in October 2019, when she posted an advertisement looking for a UK size 20 fit model to review her adjusted base size with, before grading. In the advertisement, Chang-Smith specified a model with a bust of ~116 cm (46 in), waist of ~98 cm (39 in), and hip of ~124 cm (49 in)^[Exact measurement methodology unknown. We assume that the waist and hip measurements are that of the body's circumference. Our lead author is male and does not trust himself to make assumptions regarding bust size measurements.] [@changsmith2019].
+
+Chang-Smith worked on her expanded ranges in reverse-chronological pattern release order; recruiting testers for the Southbank, Carnaby, and Mayfair in January 2020 [@nlpt_scm]; and later in September, the Kew [@nlpt_kew]. On February 19, 2021, the Kew 16-28 pattern was released
+
+## Methods
+The author conducted his research on a computer running Ubuntu 24.04, with the XFCE desktop environment. He used the SHA2-256 algorithms to compute the cryptographic hashes of the photographic specimens he examined for species descriptions. He used Firefox 139.0.4. His monitor is a 55.8 cm (22 in) wide, 30.48 cm (12 in) tall, 63.5 cm (25 in) diagonal monitor, the NVISION S2515-B 25" IPS with a 100Hz refresh rate. He is not colorblind. He is near sighted and wears glasses.
+
+As our lead author had no Instagram account, he used Imginn, an online service that allows Instagram to be viewed without an account.
 
 ```{=latex}
 \end{multicols}
+```
+
+The versions of the `sha256sum` and `openssl` utilities on his system at the time of the paper are given in the below terminal output:
+
+```
+$ sha256sum --version
+sha256sum (GNU coreutils) 9.4
+Copyright (C) 2023 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <https://gnu.org/licenses/gpl.html>.
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+
+Written by Ulrich Drepper, Scott Miller, and David Madore.
+$ openssl --version
+OpenSSL 3.5.0 8 Apr 2025 (Library: OpenSSL 3.5.0 8 Apr 2025)
+$ sha256sum /usr/bin/sha256sum /usr/bin/openssl
+f293048f656688883ee919eb3f4b12926aaa13362de0eb6e3b5716b915b18b35  /usr/bin/sha256sum
+724acbe911513d13f52bae0b8969b20336cd8618fc67898a6bf7847bf1a270ad  /usr/bin/openssl
 ```
 
 ## Trees
@@ -70,12 +123,13 @@ As previously stated in @lemuria_taxonomy_2026, the hybrid phenetic&ndash;phylog
 
 ::: {#fig-kewisicasa}
 ```{r}
+#| message: false
 #| fig-width: 12
 #| fig-height: 20
 
 library(ggtree)
 
-tree <- read.tree(text = "(((((((Kewbellothea)Kewbellinae,((Kewpepla_lornae,Kewpepla_lornaebis,Kewpepla_mariae)Kewpepla,((Kewthicata_juliae)Kewthicata,(((Kewthea_ruberabotonia,Kewthea_venetaflora)Kewthea_subg._Ninae,(Kewthea_hawkinsia,Kewthea_caledonia,Kewthea_eleanorae,Kewthea_lauraflora)Kewthea_subg._Expansa,Kewthea_chantellae,Kewthea_evae,Kewthea_lornae,Kewthea_lornoblae,Kewthea_luscinia,Kewthea_modistaflora)Kewthea)Kewthini)Kewthinae)Kewthidae)Vecobotonia)Vecostola)Manubristenta,(((((((Trunkewia_ninae,(Trunkewia_rosacrania,Trunkewia_rubera,Trunkewia_viridis)Trunkewia_subg._Illecebrosus)Trunkewia)Trunkewinae,((Helikewbellia)Helikewbellini,((Helikewabotonia_lanata,Helikewabotonia_stadile)Helikewabotonia,Helikewparabola,(Helikewplicata_ninae)Helikewplicata,(Helikewisia_aemilia,Helikewisia_ceciliae,Helikewisia_erinae,Helikewisia_irvinae,Helikewisia_kristinae,Helikewisia_mariae,Helikewisia_sarae,Helikewisia_roseatulipa,Helikewisia_amyboria,(Helikewisia_arbor,Helikewisia_quagga)Helikewisia_subg._Emmae)Helikewisia)Helikewini)Helikewinae)Helikewidae)Helinina)Helistola)Scapamanica,((((((Kewplicata,Kewparabola(Kewisia_bernicae,Kewisia_evae,Kewisia_fionae,Kewisia_genyae,Kewisia_kristinae,Kewisia_latae,Kewisia_lizae,Kewisia_mariae,Kewisia_modistaflora,Kewisia_modistarubera,Kewisia_rachaelae,Kewisia_reginarunae,Kewisia_sarae(Kewisia_tropiki,Kewisia_roseafolia)Kewisia_subg._Ninae)Kewisia)Kewidae,(((Kewasalia_pimsia)Kewasalia)Kewasalinae,((Florankewia_libera,Florankewia_valentina)Florankewia,(Kewabotonia_eleanorae,Kewabotonia_elsae,Kewabotonia_nuptirachaelae,Kewabotonia_sarae,Kewabotonia_zingibera)Kewabotonia)Plesikewinae)Plesikewidae)Kewoidea)Biligabotonia)Biligamentum)Bilourida)Umerostentida)Scapunatoria)Abtruncusa,(((((((Kewplicasa,Kewparacasa,(Kewisicasa_laria,(Kewisicasa_jessae,Kewisicasa_mandia)Kewisicasa_subg._Expansa)Kewisicasa)Kewcasaceae)Ventracasales)Ventracasidna)Botonicasida)Castula)Suprapatella)Subpelvia)Vestimentia);")
+tree <- read.tree(text = "(((((((((Kewplicasa,Kewparacasa,('Kewisicasa laria',('Kewisicasa jessae','Kewisicasa mandia')'Kewisicasa subg. Expansa')Kewisicasa)Kewcasaceae)Ventracasales)Ventracasidna)Botonicasida)Castula)Suprapatella)Subpelvia,((((Kewbellothea,(('Kewpepla lornae','Kewpepla lornaebis','Kewpepla mariae')Kewpepla,((('Kewthicata juliae')Kewthicata,('Kewthea chantellae','Kewthea evae','Kewthea lornae','Kewthea lornoblae','Kewthea luscinia','Kewthea modistaflora',('Kewthea ruberabotonia','Kewthea venetaflora')'Kewthea subg. Ninae',('Kewthea hawkinsia','Kewthea caledonia','Kewthea eleanorae','Kewthea lauraflora')'Kewthea subg. Expansa')Kewthea))Kewthini)Kewthinae)Kewthidae)Vecostola)Manubristenta,((((((('Trunkewia ninae',('Trunkewia rosacrania','Trunkewia rubera','Trunkewia viridis')'Trunkewia subg. Illecebrosus')Trunkewia)Trunkewinae,((Helikewbellia)Helikewbellini,(Helikewparabola,('Helikewplicata ninae')Helikewplicata,('Helikewabotonia lanata','Helikewabotonia stadile')Helikewabotonia,('Helikewisia aemilia','Helikewisia ceciliae','Helikewisia erinae','Helikewisia irvinae','Helikewisia kristinae','Helikewisia mariae','Helikewisia sarae','Helikewisia roseatulipa','Helikewisia amyboria',('Helikewisia arbor','Helikewisia quagga')'Helikewisia subg. Emmae')Helikewisia)Helikewini)Helikewinae)Helikewidae)Helinina)Helistola)Scapamanica,(((((((('Kewasalia pimsia')Kewasalia)Kewasalinae,(('Florankewia libera','Florankewia valentina')Florankewia,('Kewabotonia eleanorae','Kewabotonia elsae','Kewabotonia nuptirachaelae','Kewabotonia sarae','Kewabotonia zingibera')Kewabotonia)Plesikewinae)Plesikewidae,(Kewplicata,Kewparabola,('Kewisia bernicae','Kewisia evae','Kewisia fionae','Kewisia genyae','Kewisia kristinae','Kewisia latae','Kewisia lizae','Kewisia mariae','Kewisia modistaflora','Kewisia modistarubera','Kewisia rachaelae','Kewisia reginarunae','Kewisia sarae',('Kewisia tropiki','Kewisia roseafolia')'Kewisia subg. Ninae')Kewisia)Kewidae)Kewoidea)Biligabotonia)Biligamentum)Bilourida)Umerostentida)Scapunatoria)Abtruncusa)Vestimentia);")
 
 ggtree(tree, layout = "rectangular") +
   geom_tiplab(size = 3, fontface = "italic") +
@@ -214,6 +268,55 @@ Ventral view. Subject looking upward. Drape of skirt obscures inferior portion o
 **Diagnosis**: *Kewisicasa mandia* is characterized by a ventral medial button row of 11 buttons, white with two thread-holes; and a green fabric with a grid of white lines.
 
 **Etymology**: *Mandy* + *-ia*, feminine abstract noun suffix.
+
+#### *Kewisicasa apprichia* {#sec-kewisicasa-apprichia}
+***Kewisicasa apprichia*** Lemuria, 2026; sp. nov.
+
+**Holotype**: *Apprich 48183.493KA* &mdash; Photograph.
+1200&times;1600.
+EXIF metadata stripped.
+Ventral view.
+*Kewisicasa apprichia* wb. Emily.Ap., c. 2021.
+&copy; Emily Apprich or unknown photographer, unknown year, all rights reserved.
+
+* **Page**: @kewdressexpansion1628
+* **SHA2-256**: `c5876e74a42dc028086fe963b1adacd5ef501ae0653418c4313a9bb09988ed28`
+* **Raw image URLs**:
+  * **Original**: <https://www.ninalee.co.uk/cdn/shop/products/Emily-Apprich-Kew-Expansion-pack-16-28-straight-skirt-10.jpg?v=1677871708>
+  * **IA**: <https://web.archive.org/web/20260403143809/https://www.ninalee.co.uk/cdn/shop/products/Emily-Apprich-Kew-Expansion-pack-16-28-straight-skirt-10.jpg?v=1677871708>
+
+**Diagnosis**: *Kewisicasa apprichia* is characterized by a ventral medial button row of 11 buttons, green and yellow with mixed colors, with a slightly larger gap between the first and second buttons; and a plain black fabric.
+
+**Etymology**: *Apprich* + *-ia*.
+
+**Specimens examined**: See holotype information.
+
+#### *Kewisicasa argenta* {#sec-kewisicasa-argenta}
+***Kewisicasa argenta*** Lemuria, 2026; sp. nov.
+
+**Holotype**: *Srebrenka 20180.118KA* &mdash; Photograph.
+1920&times;2560.
+EXIF metadata stripped.
+Ventral view. Subject holding stick in left hand.
+*Kewisicasa argenta* wb. Silverluna, c. 2021.
+&copy; Srebrenka/Silverluna/sewsilverluna888 or unknown photographer, unknown year, all rights reserved.
+
+* **Page**: @kewdressexpansion1628 and @ninaandsilverluna2021
+* **SHA2-256**: `13463549148161ed83df081566e69ce421d0acaf9d54c9382ad2b2c767f48247`
+* **Raw image URLs**:
+  * **Original**: <https://www.ninalee.co.uk/cdn/shop/products/Srebrenka-Kapica-Kew-Expansion-pack-16-28-straight-skirt-1-scaled.jpg?v=1677871708>
+  * **IA**: <https://web.archive.org/web/20260403143813/https://www.ninalee.co.uk/cdn/shop/products/Srebrenka-Kapica-Kew-Expansion-pack-16-28-straight-skirt-1-scaled.jpg?v=1677871708>
+
+**Diagnosis**: *Kewisicasa argenta* is characterized by a ventral medial button row of 13 buttons, black with four thread holes, inconsistently spaced; and a navy-blue military camouflage-like pixel fabric, vaguely resembling ocean waves, with the small letters "OSRM" or "OSBM" scattered across the pattern. One of the most distinct shapes is one resembling the outline of Croatia's borders, in the lightest blue color.
+
+**Remarks**:
+
+* The shape of Croatia appearing on the fabric may be unintentional on the designer's part in designing the fabric, or on Srebrenka's part in choosing a fabric. This may be a form of pareidolia.
+* Due to political sensitivities regarding the countries in the Balkans, we are unable to speculate on Srebrenka's home country beyond a general guess of "the Balkans".
+
+**Etymology**: From Latin *argenta* ("silver").
+
+**Specimens examined**: See holotype information.
 
 ### *Kewisia* subg. *Ninae* {#sec-kewisia-subg-ninae}
 ***Kewisia* subg. *Ninae*** Lemuria, 2026; subgen. nov.
@@ -367,6 +470,15 @@ EXIF metadata stripped.
 
 **Specimens examined**: See holotype information.
 
+#### *Kewthea glaciesedulis* {#sec-kewthea-glaciesedulis}
+***Kewthea glaciesedulis*** Lemuria, 2026; sp. nov.
+
+**Holotype**: *Laura 20
+
+**Diagnosis**: *K. glaciesedulis* is characterized by a ventral medial button row of 15 white buttons; and a fabric with a white background with a pattern of ice cream cones; consisting of cyan-colored ice cream in a cone drawn with black lines.
+
+**Etymology**: From Latin *glacies* ("ice") + *edulis* ("edible"), literally "edible ice". Translation sourced from Wiktionary.
+
 #### *Kewthea eleanorae* {#sec-kewthea-eleanorae}
 ***Kewthea eleanorae*** Lemuria, 2026; sp. nov.
 
@@ -403,11 +515,16 @@ EXIF metadata stripped.
   * **Original**: <https://www.ninalee.co.uk/cdn/shop/products/Laura-Nina-Lee-Kew-Dress-16-28-scaled.jpg>
   * **IA**: <https://web.archive.org/web/20260326192448/https://www.ninalee.co.uk/cdn/shop/products/Laura-Nina-Lee-Kew-Dress-16-28-scaled.jpg>
 
-**Diagnosis**: *K. lauraflora* is characterized by
+**Diagnosis**: *K. lauraflora* is characterized by a ventral medial button row of 13 circular purple buttons with a primarily purple floral pattern.
 
-**Etymology**: From *Laura*, pseudo-Latin *flora*, to distinguish from *Kewthea hawkinsia* wb. Laura.Haw., from Latin *Flora*, the goddess of flowers.
+**Etymology**: From *Laura* + pseudo-Latin *flora*, to distinguish from *Kewthea hawkinsia* wb. Laura.Haw., from Latin *Flora*, the goddess of flowers.
 
 **Specimens examined**: See holotype information.
+
+```{=latex}
+\newpage
+\begin{multicols}{2}
+```
 
 ## General remarks
 At least two distinct persons appear in the official product photography for @kew6_20, with the exception of pattern testers. We were able to identify the first person as Nina Chang-Smith herself.
@@ -422,9 +539,12 @@ The abbreviations **Nina** for Nina Chang-Smith and **Lemuria** for Lemuria have
 In this paper, we establish the new person abbreviations:
 
 * **Laura.Haw.** &mdash; Laura Hawkins (`W/2026 F6`), pattern tester for the Kew expansion pack
-* **Amy.C.** (`W/2026 F7`), relative of Nina Chang-Smith
+* **Amy.C.** &mdash; Amy Chang (`W/2026 F7`), relative of Nina Chang-Smith
+* **Silverluna** &mdash; Srebrenka Kapica (Instagram: &commat;[sewsilverluna888](https://instagram.com/sewsilverluna888); `W/2026 G1`), sewist from Europe (nationality unknown; possibly the Balkans)
+* **Emily.Ap.** &mdash; Emily Apprich (`W/2026 G2`), pattern tester.
 
 We establish the new alphanumeric designations:
+
 * **Eleanor** (`W/2026 F3`), wearer of *Kewthea eleanorae*
 * **Laura** (`W/2026 F4`), wearer of *Kewthea lauraflora*
 * **Emma** (`W/2026 F5`), wearer of *Kewthea caledonia*
@@ -432,6 +552,8 @@ We establish the new alphanumeric designations:
 * **Mandy** (`W/2026 F10`), wearer of *Kewisicasa mandia*
 
 ### Image specimens {#sec-image-specimens}
+We used the following image specimen numbers:
+
 * *Eleanor 2023.001.8404KE*
 * *Emma 2023.001.1402KC*
 * *Jess 29081.31.58KJ*
@@ -447,11 +569,15 @@ We establish the new alphanumeric designations:
 * *Nina 2017.013.8289KR*
 * *Nina 2017.013.8377KT*
 
+```{=latex}
+\end{multicols}
+```
+
 #### New image specimens
 These image specimens do not correspond to one singular taxon.
 
 * *Kew 9018.1728* 
-(*Kew 4557.234*) &mdash; Photograph.
+(a.k.a. *Kew 4557.234*) &mdash; Photograph.
 3361&times;4618.
 EXIF metadata stripped.
 On left, Amy Chang, standing, facing camera, hair positioned laterally, partial obscuration of straps; on right, Nina Chang-Smith, facing camera, hair positioned laterally, straps minimally obscured. Both standing at angles relative to camera. Inferiormost button of *Helikewisia amyboria* unfastened.
@@ -462,6 +588,10 @@ Left: *Helikewisia amyboria* wb. Amy.C, 2017; right: *Kewisia tropiki* wb. Nina,
   * **Raw image URLs**:
     * **Original**: <https://www.ninalee.co.uk/cdn/shop/products/NinaLeeKewDressversion1.jpg?v=1680151814>
     * **IA**: <https://web.archive.org/web/20260326190410/https://www.ninalee.co.uk/cdn/shop/products/NinaLeeKewDressversion1.jpg?v=1680151814>
+
+```{=latex}
+\begin{multicols}{2}
+```
 
 ### Acknowledgements
 We used R; specifically, `ggtree`, to render tree figures. For information on `ggtree`, see @yuetal2017.
@@ -489,3 +619,7 @@ Visit us at: <https://lct01.lemuria.ph>
 
 ::: {#refs}
 :::
+
+```{=latex}
+\end{multicols}
+```
