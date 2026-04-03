@@ -19,13 +19,11 @@ website:
 
 format:
   html:
+    csl: _extensions/aft/lict.csl
     # define default configuration for the html version of your format
     number-sections: true
     toc: true
     theme: darkly
-    # Use a CSL file to style (https://www.zotero.org/styles/)
-    csl: cmos.csl
-
 
 execute:
   freeze: true
