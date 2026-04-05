@@ -214,7 +214,9 @@ for (i in seq_along(plots)) {
 ```
 
 ## Descriptions
-### *Helikewisia*
+### Genus *Helikewbellia* {#sec-helikewbellia}
+
+### Genus *Helikewisia*
 ***Helikewisia*** Lemuria, 2026
 
 See @lemuria_taxonomy_2026.
@@ -252,7 +254,63 @@ Ventral view. Hair positioned dorsally.
 
 **Specimens examined**: See holotype information.
 
-### *Kewisicasa*
+### Genus *Kewbellothea* {#sec-kewbellothea}
+
+### *Kewisia* subg. *Ninae* {#sec-kewisia-subg-ninae}
+***Kewisia* subg. *Ninae*** Lemuria, 2026; subgen. nov.
+
+**Diagnosis**: Phylogenetically, *Kewisia* subg. *Ninae* is defined by origin from Nina Chang-Smith or a close relative.
+
+**Etymology**: *Nina* + *-ae*, feminine genitive suffix.
+
+#### *Kewisia tropiki* {#sec-kewisia-tropiki}
+***Kewisia tropiki*** Lemuria, 2026; sp. nov.
+
+**Holotype**: *Nina 2017.013.8377KT* &mdash; Photograph.
+3543&times;5313.
+EXIF metadata stripped.
+Ventral view. Subject standing at angle. Hair positioned laterally and draping ventrally, right strap obscured.
+*Kewisia tropiki* wb. Nina, c. 2017.
+&copy; Nina Chang-Smith or unknown photographer, 2017, all rights reserved.
+
+* **Page**: See @kew6_20
+* **SHA2-256**: `42929bfbdf49b423201a3650623216e0cb08cbc41299a1c6f8b555f68ff5fea7`
+* **Raw image URLs**:
+  * **Original**: <https://www.ninalee.co.uk/cdn/shop/products/Kew-V2-Nina-1.jpg?v=1680151814>
+  * **IA**: <https://web.archive.org/web/20230714101532/https://www.ninalee.co.uk/cdn/shop/products/Kew-V2-Nina-1.jpg?v=1680151814>
+
+**Diagnosis**: *Kewisia tropiki* is characterized by a ventral medial button row of 15 circular two thread-hole buttons of a primarily ivory color with slight dark blue accents at random angles, and a consistent vertical threadline; and a fabric with a pink background with blue leaves, and red and purple flowers, the "Tropical Stems" fabric from Lady McElroy.
+
+**Etymology**: 
+
+**Specimens examined**:
+
+* Holotype.
+* *Kew 4557.234* (see @sec-image-specimens)
+
+#### *Kewisia roseafolia* {#sec-kewisia-roseafolia}
+***Kewisia roseafolia*** Lemuria, 2026; sp. nov.
+
+**Holotype**: *Nina 2017.013.8289KR* &mdash; Photograph.
+1937&times;2657.
+EXIF metadata stripped.
+Angled ventral view. Subject's hair positioned laterally, obscuring her left strap.
+*Kewisia roseafolia* wb. Nina, 2017.
+&copy; Nina Chang-Smith or unknown photographer, 2017, all rights reserved.
+
+* **Page**: See @kew6_20
+* **SHA2-256**: `f4c34767bc2a237da8cfd304e052e3dfa7b97ee57dc0feba8116c11e00405f0a`
+* **Raw image URLs**:
+  * **Original**: <https://www.ninalee.co.uk/cdn/shop/products/Kew-Dress-V2-9.jpg?v=1680151814>
+  * **IA**: <https://web.archive.org/web/20260326192109/https://www.ninalee.co.uk/cdn/shop/products/Kew-Dress-V2-9.jpg?v=1680151814>
+
+**Diagnosis**: *Kewisia roseafolia* is characterized by a ventral medial button row of 15 circular two thread-hole buttons of a wooden color, and a fabric with stylized depictions of leaves in pink and white.
+
+**Etymology**: From Latin *rosea*, feminine form of *roseus* "pink, rose-colored" + *folia*, pseudo-Latin feminine form of *folium* "leaf".
+
+**Specimens examined**: See holotype information.
+
+### Genus *Kewisicasa* {#sec-kewisicasa}
 ***Kewisicasa*** Lemuria, 2026; gen. nov.
 
 **Type species**: *Kewisicasa laria* (see @sec-kewisicasa-laria)
@@ -387,60 +445,6 @@ Ventral view. Subject holding stick in left hand.
 * Due to political sensitivities regarding the countries in the Balkans, we are unable to speculate on Srebrenka's home country beyond a general guess of "the Balkans".
 
 **Etymology**: From Latin *argenta* ("silver").
-
-**Specimens examined**: See holotype information.
-
-### *Kewisia* subg. *Ninae* {#sec-kewisia-subg-ninae}
-***Kewisia* subg. *Ninae*** Lemuria, 2026; subgen. nov.
-
-**Diagnosis**: Phylogenetically, *Kewisia* subg. *Ninae* is defined by origin from Nina Chang-Smith or a close relative.
-
-**Etymology**: *Nina* + *-ae*, feminine genitive suffix.
-
-#### *Kewisia tropiki* {#sec-kewisia-tropiki}
-***Kewisia tropiki*** Lemuria, 2026; sp. nov.
-
-**Holotype**: *Nina 2017.013.8377KT* &mdash; Photograph.
-3543&times;5313.
-EXIF metadata stripped.
-Ventral view. Subject standing at angle. Hair positioned laterally and draping ventrally, right strap obscured.
-*Kewisia tropiki* wb. Nina, c. 2017.
-&copy; Nina Chang-Smith or unknown photographer, 2017, all rights reserved.
-
-* **Page**: See @kew6_20
-* **SHA2-256**: `42929bfbdf49b423201a3650623216e0cb08cbc41299a1c6f8b555f68ff5fea7`
-* **Raw image URLs**:
-  * **Original**: <https://www.ninalee.co.uk/cdn/shop/products/Kew-V2-Nina-1.jpg?v=1680151814>
-  * **IA**: <https://web.archive.org/web/20230714101532/https://www.ninalee.co.uk/cdn/shop/products/Kew-V2-Nina-1.jpg?v=1680151814>
-
-**Diagnosis**: *Kewisia tropiki* is characterized by a ventral medial button row of 15 circular two thread-hole buttons of a primarily ivory color with slight dark blue accents at random angles, and a consistent vertical threadline; and a fabric with a pink background with blue leaves, and red and purple flowers, the "Tropical Stems" fabric from Lady McElroy.
-
-**Etymology**: 
-
-**Specimens examined**:
-
-* Holotype.
-* *Kew 4557.234* (see @sec-image-specimens)
-
-#### *Kewisia roseafolia* {#sec-kewisia-roseafolia}
-***Kewisia roseafolia*** Lemuria, 2026; sp. nov.
-
-**Holotype**: *Nina 2017.013.8289KR* &mdash; Photograph.
-1937&times;2657.
-EXIF metadata stripped.
-Angled ventral view. Subject's hair positioned laterally, obscuring her left strap.
-*Kewisia roseafolia* wb. Nina, 2017.
-&copy; Nina Chang-Smith or unknown photographer, 2017, all rights reserved.
-
-* **Page**: See @kew6_20
-* **SHA2-256**: `f4c34767bc2a237da8cfd304e052e3dfa7b97ee57dc0feba8116c11e00405f0a`
-* **Raw image URLs**:
-  * **Original**: <https://www.ninalee.co.uk/cdn/shop/products/Kew-Dress-V2-9.jpg?v=1680151814>
-  * **IA**: <https://web.archive.org/web/20260326192109/https://www.ninalee.co.uk/cdn/shop/products/Kew-Dress-V2-9.jpg?v=1680151814>
-
-**Diagnosis**: *Kewisia roseafolia* is characterized by a ventral medial button row of 15 circular two thread-hole buttons of a wooden color, and a fabric with stylized depictions of leaves in pink and white.
-
-**Etymology**: From Latin *rosea*, feminine form of *roseus* "pink, rose-colored" + *folia*, pseudo-Latin feminine form of *folium* "leaf".
 
 **Specimens examined**: See holotype information.
 
