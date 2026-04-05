@@ -545,7 +545,18 @@ EXIF metadata stripped.
 #### *Kewthea glaciesedulis* {#sec-kewthea-glaciesedulis}
 ***Kewthea glaciesedulis*** Lemuria, 2026; sp. nov.
 
-**Holotype**: *Laura 20
+**Holotype**: *Laura 20710.583KG* &mdash;
+Photograph. 2560&times;2560.
+EXIF metadata stripped.
+Ventral view. Outdoors. Hair positioned ventrally, bilaterally obscuring certain parts of neckline. In left hand, subject holding object similar to "ice cream cone"; with a conical cardboard material representing the "cone" and a ball of yarn representing the "ice cream".
+*Kewthea glaciesedulis* wb. Laura.Haw., c. 2023.
+&copy; Laura Hawkins or unknown photographer, c. 2023, all rights reserved.
+
+* **Page**: See @kewdressexpansion1628
+* **SHA2-256**: `adeab545bfd020f27e3900970327930d25ffb1c51b319bfe752cc209d5d41872`
+* **Raw image URLs**:
+  * **Original**: <https://www.ninalee.co.uk/cdn/shop/products/Laura-Hawkins-Specky-Seamstress-Kew-Expansion-16-28-gathered-skirt-1-scaled.jpg?v=1677871708>
+  * **IA**: <https://web.archive.org/web/20260405161421/https://www.ninalee.co.uk/cdn/shop/products/Laura-Hawkins-Specky-Seamstress-Kew-Expansion-16-28-gathered-skirt-1-scaled.jpg?v=1677871708>
 
 **Diagnosis**: *K. glaciesedulis* is characterized by a ventral medial button row of 15 white buttons; and a fabric with a white background with a pattern of ice cream cones; consisting of cyan-colored ice cream in a cone drawn with black lines.
 
