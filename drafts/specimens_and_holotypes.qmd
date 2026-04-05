@@ -46,10 +46,10 @@ keywords: image specimen, holotype, integrity, standard
 ```
 
 ## Background
-For a specific taxon, two primary classes of types exist; *physical* and *digital*. The primary physical specimen is the dress itself, while digital specimens are more diverse and include, but are not limited to PDFs, photographs, videos, 3D scans, and in the *sui generis* case of FreeSewing, the source code that automatically drafts sewing patterns from a set of measurements.
+For types, which are objects or data used to define a taxon; two primary classes of types exist; *physical* and *digital*. While biological taxonomy overwhelmingly prefers physical types, the LCT-01 uses digital types more often. The primary physical specimen is the dress itself, while digital specimens are more diverse and include, but are not limited to PDFs, photographs, videos, 3D scans, and in the *sui generis* case of FreeSewing, the source code that automatically drafts sewing patterns from a set of measurements.
 
 ## Images
-Images are the backbone of the LCT-01's archival work. For a variety of reasons, it is exceedingly impractical for the LCT-01 to obtain and collect specimens of clothing; especially in sewing pattern taxonomy when a species consists only of a singular make.
+Images are the backbone of the LCT-01's archival work. For a variety of reasons, it is exceedingly impractical and even undesirable for the LCT-01 to obtain and collect physical specimens of clothing; especially in sewing pattern taxonomy when a species consists only of a singular make.
 
 Information about a species is considered to originate in the physical holotype; the garment itself. In the case of the LCT-01, the physical holotype is most canonical; physical access to it provides information to all human senses; high information, low accessibility. This canonicality is rooted in the physical holotype, much like how the trust anchor is the root of trust for X.509 PKIs. This canonicality flows down to photographs, videos, 3D scans, and other forms of digital media that act as a substitute for the specimen.
 
@@ -75,20 +75,32 @@ The flow of canonicality from the physical garment to a specific holotype.
 ```{=latex}
 \begin{multicols}{2}
 ```
-Image types will be the focus of this document, as they are the most common, and most important to the LCT-01.
+Image types will be the focus of this document, as they are the most common, most accessible, and thus, the most important to the LCT-01.
 
 Images do not explicitly need to be a singular photograph; for example, collages have been used to define three taxa (see *Trunkewia* subg. *Illecebrosus*, @lemuria_kew_2026). images can be thought of more as a binary large object (BLOB) in this case. Image holotypes have a one-to-many relationship to LCT-01 taxa; for example, a photograph of five bridesmaids at a wedding can act as the holotype for multiple taxa.
 
 In the use of image types, the primary criteria are reproducibility and detail.
 
-**Reproducibility**. While the process of photographing the garment does not need to be reproducible, the final published image itself must be reproducible and distributable, byte-by-byte. This is strictly in the technical sense. Copyright and moral concerns are inherent to photography, but are irrelevant. Copyright is mitigated by not embedding images in LCT-01 documentation, but rather providing citations to the website on where the holotype is, with a backup link to the Internet Archive. Moral concerns are mitigated by the fact that the images are public, and that the images were invariably taken with the consent of participating subjects.
+### Detail
+No singular photograph can provide all available detail; for example, a ventral view photograph cannot provide a dorsal view, and vice versa. Photographs destroy depth information, but this has been judged an acceptable tradeoff.
 
-**Detail**. No singular photograph can provide all available detail; for example, a ventral view photograph cannot provide a dorsal view, and vice versa. Photographs destroy depth information, but this has been judged an acceptable tradeoff.
+Raw images; that of unprocessed data directly from a digital camera, is the "gold standard". These files are low-accessibility, yet high detail; they are often not publicly accessible.
 
-### Naming image types
+Wikimedia Commons only allows free (libre; as in freedom) formats; and as all known raw formats are not libre, they cannot be uploaded to Commons. Furthermore, posession of raw files is often considered proof of authorship, further making photographers unwilling to publish them.
+
+Raw files are also storage-intensive. The Internet Archive, or perhaps Zenodo, with its extremely generous 50-gigabyte upload limit, is perhaps a suitable space for this data.
+
+As a matter of transparency, our lead author plans to release RAW files if he takes them himself. However, for moral and legal reasons, he does not plan to photograph dresses in the wild. First, photographing people requires that they give their full informed consent. The LCT-01's identification requirements for wearers is also likely to require information they may not wish to disclose. Second, photographing garments within retail stores may cause awkward or even hostile interactions with staff, which our lead author does not wish for.
+
+Purchasing the garments, at the scale of the taxonomic work conducted by the LCT-01, is also finanically infeasible given the resources available to him. Even if these considerations were resolved, most clothing worn within the lead author's environment is RTW, and their focus for 2026 is mainly on sewing patterns.^[The Philippines has no strong culture of home sewing outside of small-scale repairs. Fully me-made garments such as the Kews are unheard of. This topic is out of this paper's scope, however.]
+
+### Reproducibility
+While the process of photographing the garment does not need to be reproducible, the final published image itself must be reproducible and distributable, byte-by-byte. This is strictly in the technical sense. Copyright and moral concerns are inherent to photography, but are irrelevant. Copyright is mitigated by not embedding images in LCT-01 documentation, but rather providing citations to the website on where the holotype is, with a backup link to the Internet Archive. Moral concerns are mitigated by the fact that the images are public, and that the images were invariably taken with the consent of participating subjects.
+
+## Naming image types
 In this document, we establish standards for naming image types.
 
-The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED",  "MAY", and "OPTIONAL" in this document are to be interpreted as described in RFC 2119.
+The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED",  "MAY", and "OPTIONAL" in this section are to be interpreted as described in RFC 2119.
 
 A new namespace is established for the naming of image types. This namespace shall encompass all photographic holotypes that are named for the purposes of establishing a taxon in the LCT-01.
 
@@ -111,11 +123,10 @@ Identifiers in their entirety SHOULD be treated as opaque strings.
 ### Handle System
 The design of these identifiers has been done with DOIs and the Handle System in mind; this system is the groundwork for the idea of a database and a standard for image type data that may someday materialize when the scale justifies it.
 
-We have established a new Handle System server on our intranet, as part of early trials for a possible Lemurian Handle System. We have chosen to use the internal prefix `L78` within our infrastructure, and have specifically designated the prefix `L78.1104` for LCT-01 digital specimens. We do not have any Handle System prefixes from the GHR. This system of handles is not intended for external users.
+We have established a new Handle System server on our intranet, as part the nascent Lemurian Handle System. We have chosen to use the internal prefix `L78` within our infrastructure, and have specifically designated the prefix `L78.1104` for LCT-01 digital specimens. So far, it operates entirely independent of the Global Handle Registry (GHR); we do not have any Handle System prefixes from the GHR. This system of handles is not intended for external users.
+Though integration with the Global Handle Registry is statistically unlikely, and infeasible given the relative age of the LCT-01 project, and the resources of its author; the system nevertheless remains "DOI-ready".
 
 Under this system, *Eva 3318KE*'s handle would be `L78.1104/EVA_3318KE`.
-
-Though integration with the Global Handle Registry is statistically unlikely, and infeasible given the relative age of the LCT-01 project, and the resources of its author; the system nevertheless remains "DOI-ready".
 
 `L78.1104` can easily be substituted with a DOI prefix or a number outside of the tens; and systems both internal and external rewritten for the new standard. This type of internal setup is possible [@noauthor_handlenet_2018, "Configuring an Independent Handle Service"]; and the Corporation for National Research Initiatives offers a reference implementation in Java, with source code included.
 
@@ -137,25 +148,18 @@ Though integration with the Global Handle Registry is statistically unlikely, an
 The Lemurian Handle System record for `L78.1104/Lauren_SGS9015.2024.10443GJ`, as a demonstration of the schema. Note that `lct01stash.lemuria02.net.lem` is an internal domain and not intended for external access or resolution.
 :::
 
-#### Keys
-
-Though not yet formalized, we have observed ourselves using the following keys, not described in the base specification or other more common uses of the Handle System.
-
-::: {#tbl-handle-types}
-| Key | Description
-|---|---|
-| CHECKSUM | Checksum, in base16-encoded UTF-8, all lowercase.
-| CHECKSUM.ALGO | The name of the algorithm used. Typically `SHA2-256`.
-:::
-
-#### URL targets
-The matter of where handles should go is also unresolved. Human users will typically want a metadata page, such as a MediaWiki File page listing or other HTML page in a metadata system describing the image, programs will want a way of retrieving raw image data. A standard for providing multiple URLs depending on a specific audience is necessary. 
-
-INCOMPLETE
-
 ```{=latex}
 \begin{multicols}{2}
 ```
+
+#### Keys
+Though not yet formalized, we have observed ourselves using the following keys, not described in the base specification or other more common uses of the Handle System.
+
+- **CHECKSUM** &mdash; Checksum, in base16-encoded UTF-8, all lowercase.
+- **CHECKSUM.ALGO** &mdash; The name of the algorithm used. Typically `SHA2-256`.
+
+#### URL targets
+The matter of where handles should go is also unresolved. Human users will typically want a metadata page, such as a MediaWiki File page listing or other HTML page in a metadata system describing the image, programs will want a way of retrieving raw image data. A standard for providing multiple URLs depending on a specific audience is necessary. 
 
 ### Integrity
 When communicating information about image holotypes, integrity is important. Thus, hashes MUST be provided in *Journal* articles. A cryptographic hash function MUST be used. Insecure functions such as MD5 MUST NOT be used.
@@ -177,11 +181,18 @@ Some PDF files are however "stamped" with the details of the pattern's buyer; th
 
 Many PDFs are also encrypted and have flags set that "prohibit" certain actions. In the case of this PDF pattern, the author has "disabled" copying, changing, and note-taking. "Prohibit" and "disabled" are in quotes as if the data is decrypted, the client is not technically prevented from disobeying these restrictions. These protections are moral and legal, not technical.
 
-::: {#fig-pdfinfo}
+Software such as Adobe Acrobat Reader will obey these flags and disable actions accordingly, but this does not stop users from using software that alters these flags. Our author uses Okular, which does not obey these flags, though as previously said, these protections are a technical way of expressing a moral and legal wish, and he understands them as such and respects them.
+
+In some cases, PDFs have been revised entirely as part of a "new version"; with no option to download the old one or clear version history. The author has yet to purchase a sewing pattern, but theorizes that this kind of situation has arisen before based on statements on websites.
+
+#### `pdfinfo` output
+The output of `pdfinfo` when run on a sewing pattern PDF offered *gratis*.
+
 ```
 $ pdfinfo pattern.pdf
 Title:           [REDACTED]
-Creator:         Adobe Illustrator 28.7 (Windows)
+Creator:         Adobe Illustrator 28.7
+                 (Windows)
 Producer:        Adobe PDF library 17.00
 CreationDate:    Wed Sep 25 17:00:33 2024 PST
 ModDate:         Wed Sep 25 18:00:33 2024 PST
@@ -193,18 +204,15 @@ Suspects:        no
 Form:            none
 JavaScript:      no
 Pages:           51
-Encrypted:       yes (print:yes copy:no change:no addNotes:no algorithm:AES)
+Encrypted:       yes (print:yes copy:no
+                 change:no addNotes:no
+                 algorithm:AES)
 Page size:       594 x 792 pts
 Page rot:        0
 File size:       3354030 bytes
 Optimized:       no
 PDF version:     1.6
 ```
-
-The output of `pdfinfo` when run on a sewing pattern PDF offered *gratis*.
-:::
-
-In some cases, PDFs have been revised entirely as part of a "new version"; with no option to download the old one or clear version history. The author has yet to purchase a sewing pattern, but theorizes that this kind of situation has arisen before based on statements on websites.
 
 ### Conclusion for sewing patterns
 So far, sewing patterns do not need formal standards beyond what is already established in the LCT-01. Storing copies of them on a private file server or a computer may necessitate file organization standards, but these standards are irrelevant to sewing pattern taxonomy.
