@@ -459,6 +459,7 @@ Angled ventral view. Subject's hair positioned laterally, obscuring her left str
 **Holotype**: *Kew 4109.187KR* &mdash; Photograph.
 3543&times;5315.
 EXIF metadata stripped.
+Ventral view. Subject's hair positioned ventrally on her right.
 *Kewthea ruberabotonia* wb. Amy.C. (`W/2026 F7`), c. 2017.
 &copy; Nina Chang-Smith or unknown photographer, 2017, all rights reserved.
 
@@ -480,6 +481,7 @@ EXIF metadata stripped.
 **Holotype**: *Kew 4109.124KV* &mdash; Photograph.
 1937&times;2657.
 EXIF metadata stripped.
+Angled ventral view. Subject's hair positioned entirely dorsally. Subject facing to her right (relative to camera, from her perspective).
 *Kewthea venetaflora* wb. Amy.C. (`W/2026 F7`), c. 2017.
 &copy; Nina Chang-Smith or unknown photographer, 2017, all rights reserved.
 
@@ -506,6 +508,7 @@ EXIF metadata stripped.
 **Holotype**: *Laura 2023.001.1682KH* &mdash;
 Photograph. 1871&times;2551.
 EXIF metadata stripped.
+Ventral view. Hair positioned ventrally, bilaterally obscuring certain parts of neckline. Skirt deliberately held out with hand.
 *Kewthea hawkinsia* wb. Laura.Haw., 2023.
 &copy; Laura Hawkins or unknown photographer, 2023, all rights reserved.
 
@@ -526,7 +529,8 @@ EXIF metadata stripped.
 
 **Holotype**: *Emma 2023.001.1402KC* &mdash;
 Photograph. 1440&times;2560.
-EXIF metadata stripped. 
+EXIF metadata stripped.
+Ventral view. Indoors. Hair positioned ventrally, bilaterally obscuring certain parts of neckline.
 *Kewthea caledonia* wb. Emma (`W/2026 F5`), c. 2023.
 &copy; Emma or unknown photographer, c. 2023, all rights reserved.
 
@@ -650,6 +654,7 @@ We used the following image specimen numbers:
 * *Kew 9018.1728*
 * *Laura 2023.001.1682KH*
 * *Laura 2023.001.4901KL*
+* *Laura 20710.583KG*
 * *Mandy 210535.158.3903KM*
 * *Nina 2017.013.8289KR*
 * *Nina 2017.013.8377KT*
