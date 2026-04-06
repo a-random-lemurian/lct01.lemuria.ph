@@ -215,6 +215,7 @@ for (i in seq_along(plots)) {
 
 ## Descriptions
 ### Genus *Helikewbellia* {#sec-helikewbellia}
+***Helikewbellia*** Lemuria, 2026; first public desc.
 
 ### Genus *Helikewisia*
 ***Helikewisia*** Lemuria, 2026
@@ -255,6 +256,10 @@ Ventral view. Hair positioned dorsally.
 **Specimens examined**: See holotype information.
 
 ### Genus *Kewbellothea* {#sec-kewbellothea}
+***Kewbellothea*** Lemuria, 2026; first public desc.
+
+### Genus *Kewisia* {#sec-kewisia}
+***Kewisia*** Lemuria, 2026
 
 ### *Kewisia* subg. *Ninae* {#sec-kewisia-subg-ninae}
 ***Kewisia* subg. *Ninae*** Lemuria, 2026; subgen. nov.
