@@ -7,3 +7,7 @@ pdf
 **/*.quarto_ipynb
 
 /.luarc.json
+.Rproj.user
+.Rhistory
+
+.vscode
