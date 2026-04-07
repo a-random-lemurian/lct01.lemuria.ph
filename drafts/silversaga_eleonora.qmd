@@ -1,0 +1,56 @@
+---
+title: "An inordinate fondness for Silversaga and her patterns: 2 genera: *Argenteleonora* and *Heleonora*; 50 species total"
+author:
+  name: Lemuria
+  affiliation:
+    - name: Independent researcher; Manila, Philippines
+  email: lemuria@lemuria.ph
+license: CC BY-SA
+journal:
+  title: "Lemuria's (Informal) Journal of Clothing Taxonomy"
+date: 2026-04-07
+lang: en
+execute: 
+  freeze: true
+# publisher-id: "lict2026.0006"
+abstract: |
+  We describe 50 new species across two genera and two families of the Eleonora and sleeveless Eleonora dresses, designed by Jessica Silversaga, a Swedish designer and the operator of Silversaga Patterns.
+bibliography: silversaga_eleonora.bib
+number-sections: true
+citation:
+  author: Lemuria
+  # citation-key: lemuria_kew_2026
+  title: "An inordinate fondness for Silversaga and her patterns: 2 genera: *Argenteleonora* and *Heleonora*; 50 species total"
+  original-date: 2026-04-07
+  publisher: Lemuria
+  # article-id: lict2026.0006
+  publisher-place: Philippines
+format:
+  html:
+    format-links: false
+    # other-links:
+    #   - text: PDF
+    #     href: https://static.lemuria.ph/lct01/pdf/2026/2026.0006_gunnelaurentia_johnsonia.pdf
+    #     icon: file-pdf
+  aft-pdf:
+    toc: false
+    include-in-header:
+      text: |
+        \usepackage{forest}
+keywords: silversaga, eleonora, sleeveless eleonora, silversaga patterns, sewing patterns, clothing taxonomy
+---
+
+## Background
+Jessica Silversaga is a Swedish sewing pattern designer and sewist. She became interested in sewing after taking a beginner's sewing class. She was continually dissatisfied with patterns available at the time, feeling that they did not fit her body. In her 20s, she began learning to draft patterns.
+
+In late 2018, she launched the slow fashion RTW label Silversaga. Many of the patterns now available through Silversaga Patterns were sold RTW during this period. She produced a single colleection yearly and hired an Estonian atelier to produce them in small batches.
+
+Due to the COVID-19 pandemic, in 2023, she transitioned the business to a pattern label, ceasing sales of RTW garments and switchi
+
+The hybrid RTW&ndash;home-sewn nature of many Silversaga garments leads to a taxonomically interesting situation for the LCT-01. In the simplest of cases, RTW taxonomy typically maps the design, colorway, and wearer to the genus, species, and subspecies respectively; while sewing patterns map the design, option (or view), and individual sewist to the family, genus, and species.
+
+## Appendix
+### Person abbreviations
+We define the following new person abbreviations:
+
+* **J.Silversaga** &mdash; Jessica Silversaga
