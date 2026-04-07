@@ -56,6 +56,7 @@ The total count of Kew dress taxa now stands at roughly
 18 genera, 
 6 subgenera, and 
 60 species.
+<!-- TODO: RESTART THIS COUNT FROM SCRATCH! -->
 
 Size is typically not considered a relevant morphological character for taxa due to its continuous, non-discrete nature. However, the sale of size ranges of sewing patterns as separate products constitutes discrete phylogenetic information, which is best suited for defining infrageneric taxa. The usage of infrageneric ranks originated in *Heleonora* Lemuria, 2026 (unpublished so far), encompassing the sleeveless variant of the Eleonora by Silversaga Patterns.
 
@@ -89,13 +90,21 @@ The Kew dress's history is extensively discussed in @lemuria_taxonomy_2026. Here
 
 The first public evidence that Chang-Smith was working on the expansion came in October 2019, when she posted an advertisement looking for a UK size 20 fit model to review her adjusted base size with, before grading. In the advertisement, Chang-Smith specified a model with a bust of ~116 cm (46 in), waist of ~98 cm (39 in), and hip of ~124 cm (49 in)^[Exact measurement methodology unknown. We assume that the waist and hip measurements are that of the body's circumference. Our lead author is male and does not trust himself to make assumptions regarding bust size measurements.] [@changsmith2019].
 
-Chang-Smith worked on her expanded ranges in reverse-chronological pattern release order; recruiting testers for the Southbank, Carnaby, and Mayfair in January 2020 [@nlpt_scm]; and later in September, the Kew [@nlpt_kew]. On February 19, 2021, the Kew 16-28 pattern was released
+Chang-Smith worked on her expanded ranges in reverse-chronological pattern release order; recruiting testers for the Southbank, Carnaby, and Mayfair in January 2020 [@nlpt_scm]; and later in September, the Kew [@nlpt_kew]. On February 19, 2021, the Kew 16-28 pattern was released.
 
 ## Methods
 The author conducted his research on a computer running Ubuntu 24.04, with the XFCE desktop environment. He used the SHA2-256 algorithms to compute the cryptographic hashes of the photographic specimens he examined for species descriptions. He used Firefox 139.0.4. His monitor is a 55.8 cm (22 in) wide, 30.48 cm (12 in) tall, 63.5 cm (25 in) diagonal monitor, the NVISION S2515-B 25" IPS with a 100Hz refresh rate. He is not colorblind. He is near sighted and wears glasses.
 
 As our lead author had no Instagram account, he used Imginn, an online service that allows Instagram to be viewed without an account.
 
+To check EXIF metadata, he used ExifTool version 12.76.
+
+### `lct01-notes`
+During work on this paper, the author created a new tool that automatically generates Quarto template text from structured YAML data. This allows the data to exist in a structured format for future processing with other systems, and further improves standardization. Descriptions and remarks remain human-written; with less administrative and menial work comes the opportunity for more creative work.
+
+A paper dedicated solely to this software has not been started, but may be authored someday. YAML files used to generate the template text are provided with the paper.
+
+### Checksums
 The versions of the `sha256sum` and `openssl` utilities on his system at the time of the paper are given in the below terminal output:
 
 ```{=latex}
@@ -920,12 +929,24 @@ We used the following image specimen numbers:
 * *Kew 4109.187KR*
 * *Kew 74024.100HR*
 * *Kew 9018.1728*
+* *Kewbello 27874.191*
+* *Kewbello 27874.236*
+* *Kewbello 67208.705*
 * *Laura 2023.001.1682KH*
 * *Laura 2023.001.4901KL*
 * *Laura 20710.583KG*
 * *Mandy 210535.158.3903KM*
+* *Mottram 4958.194*
 * *Nina 2017.013.8289KR*
 * *Nina 2017.013.8377KT*
+* *Nina 90184.113*
+* *Nina 90184.148*
+* *Nina 90184.761*
+* *Nina 90340.105*
+* *Nina 90381.248*
+* *Nina 90381.276*
+* *Nina 90387.475*
+* *Nina 90387.478*
 
 ```{=latex}
 \end{multicols}
@@ -948,6 +969,7 @@ Left: *Helikewisia amyboria* wb. Amy.C, 2017; right: *Kewisia tropiki* wb. Nina,
     * **IA**: <https://web.archive.org/web/20260326190410/https://www.ninalee.co.uk/cdn/shop/products/NinaLeeKewDressversion1.jpg?v=1680151814>
 
 ```{=latex}
+\newpage
 \begin{multicols}{2}
 ```
 
@@ -969,7 +991,9 @@ At publication, the journal did not have a DOI prefix.
 
 Work began on the paper on 2026-03-26 and was published ...
 
-Visit us at: <https://lct01.lemuria.ph>
+* Visit us at: <https://lct01.lemuria.ph>
+* Version control: <https://github.com/a-random-lemurian/lct01.lemuria.ph>
+* Zenodo: <https://zenodo.org/communities/lct01>
 
 &copy; Lemuria 2026. All original text and image content by Lemuria is licensed under CC BY-SA 4.0, unless explicitly noted. Linked images and other content are &copy; their respective owners or copyright holders.
 
