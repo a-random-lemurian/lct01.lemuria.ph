@@ -138,7 +138,7 @@ library(dplyr)
 library(ggtext)
 library(knitr)
 
-text <- "(((((((((Kewplicasa,Kewparacasa,(Kewisicasa_laria,(Kewisicasa_jessae,Kewisicasa_mandia)Kewisicasa_subg._Expansa)Kewisicasa[&&NHX:rank=genus])Kewcasaceae[&&NHX:subtree_root=yes])Ventracasales)Ventracasidna)Botonicasida)Castula)Suprapatella)Subpelvia,((((((Kewbellothea[&&NHX:rank=genus])Kewbellinae,((Kewpepla_lornae,Kewpepla_lornaebis,Kewpepla_mariae)Kewpepla[&&NHX:rank=genus],((Kewthicata_juliae)Kewthicata[&&NHX:rank=genus],(Kewthea_chantellae,Kewthea_evae,Kewthea_lornae,Kewthea_lornoblae,Kewthea_luscinia,Kewthea_modistaflora,(Kewthea_ruberabotonia,Kewthea_venetaflora)Kewthea_subg._Ninae,(Kewthea_hawkinsia,Kewthea_caledonia,Kewthea_eleanorae,Kewthea_lauraflora)Kewthea_subg._Expansa)Kewthea[&&NHX:rank=genus])Kewthini)Kewthinae)Kewthidae[&&NHX:subtree_root=yes])Vecobotonia)Vecostola)Manubristenta,(((((((Trunkewia_ninae,(Trunkewia_rosacrania,Trunkewia_rubera,Trunkewia_viridis)Trunkewia_subg._Illecebrosus)Trunkewia[&&NHX:rank=genus])Trunkewinae,((Helikewbellia[&&NHX:rank=genus])Helikewbellini,(Helikewparabola,(Helikewplicata_ninae)Helikewplicata[&&NHX:rank=genus],(Helikewabotonia_lanata,Helikewabotonia_stadile)Helikewabotonia,(Helikewisia_aemilia,Helikewisia_ceciliae,Helikewisia_erinae,Helikewisia_irvinae,Helikewisia_kristinae,Helikewisia_mariae,Helikewisia_sarae,Helikewisia_roseatulipa,Helikewisia_amyboria,(Helikewisia_arbor,Helikewisia_quagga)Helikewisia_subg._Emmae)Helikewisia[&&NHX:rank=genus])Helikewini)Helikewinae)Helikewidae[&&NHX:subtree_root=yes])Helinina)Helistola)Scapamanica,((((((((Kewasalia_pimsia)Kewasalia[&&NHX:rank=genus])Kewasalinae,((Florankewia_libera,Florankewia_valentina)Florankewia[&&NHX:rank=genus],(Kewabotonia_eleanorae,Kewabotonia_elsae,Kewabotonia_nuptirachaelae,Kewabotonia_sarae,Kewabotonia_zingibera)Kewabotonia[&&NHX:rank=genus])Plesikewinae)Plesikewidae,(Kewplicata[&&NHX:rank=genus],Kewparabola[&&NHX:rank=genus],(Kewisia_bernicae,Kewisia_evae,Kewisia_fionae,Kewisia_genyae,Kewisia_kristinae,Kewisia_latae,Kewisia_lizae,Kewisia_mariae,Kewisia_modistaflora,Kewisia_modistarubera,Kewisia_rachaelae,Kewisia_reginarunae,Kewisia_sarae,(Kewisia_tropiki,Kewisia_roseafolia)Kewisia_subg._Ninae)Kewisia[&&NHX:rank=genus])Kewidae)Kewoidea[&&NHX:subtree_root=yes])Biligabotonia)Biligamentum)Bilourida)Umerostentida)Scapunatoria)Abtruncusa)Vestimentia);"
+text <- "(((((((((Kewplicasa,Kewparacasa,(Kewisicasa_laria,(Kewisicasa_jessae,Kewisicasa_mandia)Kewisicasa_subg._Expansa)Kewisicasa[&&NHX:rank=genus])Kewcasaceae[&&NHX:subtree_root=yes])Ventracasales)Ventracasidna)Botonicasida)Castula)Suprapatella)Subpelvia,((((((((Kewbellothea_mottramia,Kewbellothea_lavendula,Kewbellothea_rubera)Kewbellothea_subg._Expansa,(Kewbellothea_aquacolor,Kewbellothea_autumna)Kewbellothea_subg._Ninae)Kewbellothea[&&NHX:rank=genus])Kewbellinae,((Kewpepla_lornae,Kewpepla_lornaebis,Kewpepla_mariae)Kewpepla[&&NHX:rank=genus],((Kewthicata_juliae)Kewthicata[&&NHX:rank=genus],(Kewthea_chantellae,Kewthea_evae,Kewthea_lornae,Kewthea_lornoblae,Kewthea_luscinia,Kewthea_modistaflora,(Kewthea_ruberabotonia,Kewthea_venetaflora)Kewthea_subg._Ninae,(Kewthea_hawkinsia,Kewthea_caledonia,Kewthea_eleanorae,Kewthea_lauraflora)Kewthea_subg._Expansa)Kewthea[&&NHX:rank=genus])Kewthini)Kewthinae)Kewthidae[&&NHX:subtree_root=yes])Vecobotonia)Vecostola)Manubristenta,(((((((Trunkewia_ninae,(Trunkewia_rosacrania,Trunkewia_rubera,Trunkewia_viridis)Trunkewia_subg._Illecebrosus)Trunkewia[&&NHX:rank=genus])Trunkewinae,((((Helikewbellia_melalourida,Helikewbellia_flutteria)Helikewbellia_subg._Ninae)Helikewbellia[&&NHX:rank=genus])Helikewbellini,(Helikewparabola,(Helikewplicata_ninae)Helikewplicata[&&NHX:rank=genus],(Helikewabotonia_lanata,Helikewabotonia_stadile)Helikewabotonia,(Helikewisia_aemilia,Helikewisia_ceciliae,Helikewisia_erinae,Helikewisia_irvinae,Helikewisia_kristinae,Helikewisia_mariae,Helikewisia_sarae,Helikewisia_roseatulipa,Helikewisia_amyboria,(Helikewisia_arbor,Helikewisia_quagga)Helikewisia_subg._Emmae)Helikewisia[&&NHX:rank=genus])Helikewini)Helikewinae)Helikewidae[&&NHX:subtree_root=yes])Helinina)Helistola)Scapamanica,((((((((Kewasalia_pimsia)Kewasalia[&&NHX:rank=genus])Kewasalinae,((Florankewia_libera,Florankewia_valentina)Florankewia[&&NHX:rank=genus],(Kewabotonia_eleanorae,Kewabotonia_elsae,Kewabotonia_nuptirachaelae,Kewabotonia_sarae,Kewabotonia_zingibera)Kewabotonia[&&NHX:rank=genus])Plesikewinae)Plesikewidae,(Kewplicata[&&NHX:rank=genus],Kewparabola[&&NHX:rank=genus],(Kewisia_bernicae,Kewisia_evae,Kewisia_fionae,Kewisia_genyae,Kewisia_kristinae,Kewisia_latae,Kewisia_lizae,Kewisia_mariae,Kewisia_modistaflora,Kewisia_modistarubera,Kewisia_rachaelae,Kewisia_reginarunae,Kewisia_sarae,(Kewisia_tropiki,Kewisia_roseafolia)Kewisia_subg._Ninae)Kewisia[&&NHX:rank=genus])Kewidae)Kewoidea[&&NHX:subtree_root=yes])Biligabotonia)Biligamentum)Bilourida)Umerostentida)Scapunatoria)Abtruncusa)Vestimentia);"
 
 tree <- read.nhx(textConnection(text))
 
@@ -217,6 +217,93 @@ for (i in seq_along(plots)) {
 ### Genus *Helikewbellia* {#sec-helikewbellia}
 ***Helikewbellia*** Lemuria, 2026; first public desc.
 
+**Diagnosis**: Phylogenetically, *Helikewbellia* is characterized by origin from the sleeveless variant of the Kewbello pattern; phenetically, the combination of the Kew sleeveless strappy bodice and Portobello trousers; and the presence of a dorsal medial zipper on the bodice. Bilateral ventral darts present from the third button to the bodice&ndash;skirt seam; bilateral sets of three seams at outward flare angle; bilateral pockets.
+
+**Remarks**: There exist two phylogenetic pathways through which a Kewbello may arise; from the Kewbello pattern itself (pathway 1), or an independent recombination of the Kew sleeveless dress bodice and the Portobello trousers, done without referencing the pattern (pathway 2). Pathway 2 remains unattested.
+
+**Type species**: *Helikewbellia flutteria* (see @sec-helikewbellia-flutteria)
+
+<!-- Template generated with lct01tools and manually filled in by humans! -->
+### *Helikewbellia* subg. *Ninae* {#sec-helikewbellia-subg-ninae}
+***Helikewbellia* subgenus *Ninae*** Lemuria, 2026
+
+**Diagnosis**: Phylogenetically, *Helikewbellia* subg. *Ninae* is defined by having been created by Nina Chang-Smith.
+
+**Etymology**: *Nina* + *-ae*.
+
+<!-- replace taxon with the name of the rank! -->
+**Type species**: *Helikewbellia flutteria* (see @sec-helikewbellia-flutteria)
+
+<!-- Template generated with lct01tools and manually filled in by humans! -->
+#### *Helikewbellia melalourida* {#sec-helikewbellia-melalourida}
+***Helikewbellia melalourida*** Lemuria, 2026
+
+**Holotype**: ***Nina 90381.248*** &mdash; Photograph.
+EXIF metadata stripped.
+*Helikewbellia melalourida* wb. Nina, unknown.
+Angled ventral view. Subject's arms fully adducted, in pockets; ventral medial button row blends into fabric, visibility impeded.
+&copy; Nina Chang-Smith or unknown photographer, all rights reserved.
+
+* **Page**: 
+* **SHA2-256**: `00d5f66d76582d50e753f55b5b7d5c4f197703d159a0777293de27349064418c`
+* **Raw image URLs**
+  * **Original**: <https://www.ninalee.co.uk/cdn/shop/files/Nina_Lee_Kewbello_black_straps_side_view_pink_background.jpg?v=1722462174>
+  * **IA**: <https://web.archive.org/web/20260405171750/https://www.ninalee.co.uk/cdn/shop/files/Nina_Lee_Kewbello_black_straps_side_view_pink_background.jpg?v=1722462174>
+
+**Diagnosis**: *Helikewbellia melalourida* is characterized by a fabric with a black background, with white line drawings of houses and palm trees, consistent with upper-class coastal California communities.
+
+**Remarks**: The description of the fabric as being similar to upper-class coastal California communities may be influenced by the lead author's knowledge that as of 2026, Nina Chang-Smith has lived in California since 2022.
+
+**Etymology**: From Latin *melas* ("black") + Greek  λουρίδα (*lourída*, "strap"), referring to the black color of the straps.
+
+**Specimens examined**:
+
+* Holotype.
+* *Nina 90381.276* &mdash; Photograph.
+EXIF metadata stripped.
+Dorsal view. Hair positioned ventrally.
+*Helikewbellia melalourida* wb. Nina, unknown.
+&copy; Nina Chang-Smith or unknown photographer, all rights reserved.
+
+* **Page**: @kewbello620
+  * **SHA2-256**: `22c2db3b17bd839650280e8f4e51a98d75da5021d20c9c5358adc37894a36fa5`
+  * **Raw image URLs**
+    * **Original**: <https://www.ninalee.co.uk/cdn/shop/files/Nina_Lee_Kewbello_black_straps_back_view_pink_background.jpg?v=1722462174>
+    * **IA**: <https://web.archive.org/web/20260405171750/https://www.ninalee.co.uk/cdn/shop/files/Nina_Lee_Kewbello_black_straps_back_view_pink_background.jpg?v=1722462174>
+
+<!-- Template generated with lct01tools and manually filled in by humans! -->
+#### *Helikewbellia flutteria* {#sec-helikewbellia-flutteria}
+***Helikewbellia flutteria*** Lemuria, 2026
+
+**Holotype**: ***Nina 90387.475*** &mdash; Photograph.
+EXIF metadata stripped.
+*Helikewbellia flutteria* wb. Nina, unknown.
+&copy; Nina Chang-Smith or unknown photographer, all rights reserved.
+
+* **Page**: @kewbello620
+* **SHA2-256**: `c9483d4b827b26e3f9cd41c381380dbe04ca28b2e8ba2ef41ea097d768242c2e`
+* **Raw image URLs**
+  * **Original**: <https://www.ninalee.co.uk/cdn/shop/files/Nina_Lee_Kewbello_yellow_straps_blue_background.jpg?v=1722462244>
+  * **IA**: <https://web.archive.org/web/20260405171750/https://www.ninalee.co.uk/cdn/shop/files/Nina_Lee_Kewbello_yellow_straps_blue_background.jpg?v=1722462244>
+
+**Diagnosis**: *Helikewbellia flutteria* is characterized by a flutter sleeve, with fabric attached to the lateral sides of the straps; and a fabric with a vague watercolor floral pattern, with a yellow background, with smaller amounts of pale orange and olive green color; and a ventral medial button row of five circular buttons with an interior curved square and four thread holes; and yellow thread.
+
+**Remarks**: The classification of *Helikewbellia flutteria* may be a useful example in the eventual classification of Lauren Johnson's flutter Kew dress. 
+
+**Etymology**: From English *flutter*, a word of Germanic origin + *-ia*, for a Latin feel.
+
+**Specimens examined**:
+
+* Holotype.
+* *Nina 90387.478* &mdash; Photograph.
+EXIF metadata stripped.
+*Helikewbellia flutteria* wb. Nina, unknown.
+&copy; Nina Chang-Smith or unknown photographer, all rights reserved.  * **Page**: 
+  * **SHA2-256**: `87425f5d907e3c01382b563e6e276bd506e838159014d2973a6b9d8fb3e79391`
+  * **Raw image URLs**
+    * **Original**: <https://www.ninalee.co.uk/cdn/shop/files/Nina_Lee_Kewbello_yellow_straps_blue_background_v2.jpg?v=1722462174>
+    * **IA**: <https://web.archive.org/web/20260405171750/https://www.ninalee.co.uk/cdn/shop/files/Nina_Lee_Kewbello_yellow_straps_blue_background_v2.jpg?v=1722462174>
+
 ### Genus *Helikewisia*
 ***Helikewisia*** Lemuria, 2026
 
@@ -257,6 +344,176 @@ Ventral view. Hair positioned dorsally.
 
 ### Genus *Kewbellothea* {#sec-kewbellothea}
 ***Kewbellothea*** Lemuria, 2026; first public desc.
+
+**Diagnosis**: Phylogenetically, *Kewbellothea* is characterized by origin from the sleeved variant of the Kewbello pattern; phenetically, the combination of the Kew tea dress bodice and Portobello trousers; and the presence of a dorsal medial zipper on the bodice. Bilateral ventral darts present from the third button to the bodice&ndash;skirt seam; bilateral sets of three seams at outward flare angle; bilateral pockets.
+
+**Remarks**: There exist two phylogenetic pathways through which a Kewbello may arise; from the Kewbello pattern itself (pathway 1), or an independent recombination of the Kew tea dress bodice and the Portobello trousers, done without referencing the pattern (pathway 2). Pathway 2 remains unattested.
+
+**Type species**: *Kewbellothea aquacolor* (see @sec-kewbellothea-aquacolor)
+
+### *Kewbellothea* subg. *Expansa* {#sec-kewbellothea-subg-expansa}
+***Kewbellothea* subgenus *Expansa*** Lemuria, 2026; subgen. nov.
+
+**Diagnosis**: Phylogenetically, *Kewbellothea* subg. *Expansa* is defined by origin from size 21 and above of the Kewbello pattern. See @kewbello1628.
+
+**Etymology**: From Latin *expansa*, feminine form of *expansus* ("expanded"), referring to the larger size range.
+
+<!-- replace taxon with the name of the rank! -->
+**Type species**: *Kewbellothea mottramia* (see @sec-kewbellothea-mottramia)
+
+<!-- Template generated with lct01tools and manually filled in by humans! -->
+#### *Kewbellothea mottramia* {#sec-kewbellothea-mottramia}
+***Kewbellothea mottramia*** Lemuria, 2026; sp. nov.
+
+**Holotype**: *Mottram 4958.194* &mdash;
+Photograph. 1200&times;1646.
+Ventral view. Subject's arms fully adducted. Hair positioned dorsally, dress unobscured. Outdoor lighting conditions, daytime; wooden building in background; dog in bottom right of image.
+*Kewbellothea mottramia* wb. Eleanor.M., unknown.
+&copy; Eleanor Mottram or unknown photographer, all rights reserved.
+
+* **Page**: @kewbello1628
+* **SHA2-256**: `3087d2aeeacba1075e2653eaf93d5f5b09f7bc6467a1d696ddb792696f012433`
+* **Raw image URLs**
+  * **Original**: <https://www.ninalee.co.uk/cdn/shop/files/NinaLeeKewbelloJumpsuitEleanorMottram.jpg?v=1696062971>
+  * **IA**: <https://web.archive.org/web/20260405171751/https://www.ninalee.co.uk/cdn/shop/files/NinaLeeKewbelloJumpsuitEleanorMottram.jpg?v=1696062971>
+
+**Diagnosis**: *Kewbellothea mottramia* is characterized by its olive-green-like color and ventral medial row of six circular vaguely green/gray buttons on the bodice.
+
+**Etymology**: From *Mottram* + *-ia*.
+
+**Specimens examined**: See holotype information.
+
+<!-- Template generated with lct01tools and manually filled in by humans! -->
+#### *Kewbellothea lavendula* {#sec-kewbellothea-lavendula}
+***Kewbellothea lavendula*** Lemuria, 2026; sp. nov.
+
+**Holotype**: *Kewbello 67208.705* &mdash; Photograph.
+3024&times;4032.
+Ventral view. Subject's arms embedded in bilateral pockets. Taken outdoors during the day. Subject standing in shadow of building with plants in background. Hair terminates at roughly chin level; garment not obscured.
+*Kewbellothea lavendula* wb. unknown.
+&copy; unknown photographer, all rights reserved.
+
+* **Page**: @kewbello1628
+* **SHA2-256**: `0623aff976e9cecdc83b18a3a282202b3cc61e5300ecdc51e4b8ecb7977bedeb`
+* **Raw image URLs**
+  * **Original**: <https://www.ninalee.co.uk/cdn/shop/files/image_67208705.jpg?v=1696875452>
+  * **IA**: <https://web.archive.org/web/20260405171751/https://www.ninalee.co.uk/cdn/shop/files/image_67208705.jpg?v=1696875452>
+
+**Diagnosis**: *Kewbellothea lavendula* is characterized by its floral fabric, with a lavender background, multiple flowers, of which a red flower is highly prominent, with subtle cyan leaves.
+
+**Etymology**: From Medieval Latin *lavendula* ("lavender"), from the lavender background of the fabric.
+
+**Specimens examined**: See holotype information.
+
+<!-- Template generated with lct01tools and manually filled in by humans! -->
+#### *Kewbellothea rubera* {#sec-kewbellothea-rubera}
+***Kewbellothea rubera*** Lemuria, 2026; sp. nov.
+
+**Holotype**: *Kewbello 27874.191* &mdash; Photograph.
+2268&times;3024. EXIF metadata stripped.
+Angled right ventral view. Subject's right arm on lateral end of waist. Hair positioned ventrally. Visibility of ventral medial button row significantly impeded by angle of bodice and pattern camouflage.
+*Kewbellothea rubera* wb. , YEAR.
+&copy;  or unknown photographer, all rights reserved.
+
+* **Page**: @kewbello1628
+* **SHA2-256**: `44a7d4f367d05f99db018a2a05fbf073886efca20d4bf1d38fe8d97e73e308a9`
+* **Raw image URLs**
+  * **Original**: <https://www.ninalee.co.uk/cdn/shop/files/20230910_191020_resized.jpg?v=1696875452>
+  * **IA**: <https://web.archive.org/web/20260405171826/https://www.ninalee.co.uk/cdn/shop/files/20230910_191020_resized.jpg?v=1696875452>
+
+**Diagnosis**: *Kewbellothea rubera* is characterized by a dorsal medial zipper that terminates at the bodice&ndash;skirt seam, a ventral medial button row, and a fabric with a red background with a leopard-like pattern of black and pink shapes, some of which superficially resemble human faces.
+
+**Etymology**: From Latin *rubera*, corrupted form of *rubra*, feminine form of *ruber* ("red").
+
+**Specimens examined**:
+
+* Holotype.
+* *Kewbello 27874.236* &mdash; Photograph.
+2268&times;3024. EXIF metadata stripped.
+Dorsal view. Subject's arms fully adducted. Hair positioned ventrally.
+*Kewbellothea rubera* wb. unknown.
+&copy; unknown photographer, all rights reserved.
+  * **Page**: 
+  * **SHA2-256**: `cd6b38f3dd7750cae473f395d6e6ae21807f636e8647c37c9873776988c5d808`
+  * **Raw image URLs**
+    * **Original**: <https://www.ninalee.co.uk/cdn/shop/files/20230910_190855_resized.jpg?v=1696875452>
+    * **IA**: <https://web.archive.org/web/20260405171750/https://www.ninalee.co.uk/cdn/shop/files/20230910_190855_resized.jpg?v=1696875452>
+
+<!-- Template generated with lct01tools and manually filled in by humans! -->
+### *Kewbellothea* subg. *Ninae* {#sec-kewbellothea-subg-ninae}
+***Kewbellothea* subgenus *Ninae*** Lemuria, 2026
+
+**Diagnosis**: Phylogenetically, *Kewbellothea* subg. *Ninae* is defined by having been created by Nina Chang-Smith.
+
+**Etymology**: *Nina* + *-ae*.
+
+<!-- replace taxon with the name of the rank! -->
+**Type species**: *Kewbellothea autumna* (see @sec-kewbellothea-autumna)
+
+<!-- Template generated with lct01tools and manually filled in by humans! -->
+#### *Kewbellothea aquacolor* {#sec-kewbellothea-aquacolor}
+***Kewbellothea aquacolor*** Lemuria, 2026; sp. nov.
+
+**Holotype**: ***Nina 90184.113*** &mdash; Photograph.
+3000&times;4114.
+*Kewbellothea aquacolor* wb. Nina.
+&copy; Nina Chang-Smith or unknown photographer, all rights reserved.
+
+* **Page**: @kewbello620
+* **SHA2-256**: `aa9b9813b98b284c9aba1df3deaa3f0d1e430b499674060f1b047ce070eaad05`
+* **Raw image URLs**
+  * **Original**: <https://www.ninalee.co.uk/cdn/shop/files/Nina_Lee_Kewbello_with_sleeves_purple_background_v2.jpg?v=1722462174>
+  * **IA**: <https://web.archive.org/web/20260405171750/https://www.ninalee.co.uk/cdn/shop/files/Nina_Lee_Kewbello_with_sleeves_purple_background_v2.jpg?v=1722462174>
+
+**Diagnosis**: *Kewbellothea aquacolor* is characterized by its watercolor-like fabric, with a blue background and subtle purple shades; and a ventral medial button row of five circular blue buttons with four thread-holes.
+
+**Etymology**: From Latin *aqua* ("water") + *color* ("color"); "watercolor", from the similarity of the fabric to watercolor.
+
+**Specimens examined**:
+
+* Holotype.
+* *Nina 90184.148* &mdash;
+Photograph. 3000&times;4114.
+EXIF metadata stripped.
+*Kewbellothea aquacolor* wb. Nina, YEAR.
+&copy; Nina Chang-Smith or unknown photographer, all rights reserved.
+  * **Page**: 
+  * **SHA2-256**: `47756822208f53a8ae585e460ae7036811ddf0ab88dc9db7347422cb5876e52f`
+  * **Raw image URLs**
+    * **Original**: <https://www.ninalee.co.uk/cdn/shop/files/Nina_Lee_Kewbello_with_sleeves_purple_background_c3.jpg>
+    * **IA**: <https://web.archive.org/web/20260405171821/https://www.ninalee.co.uk/cdn/shop/files/Nina_Lee_Kewbello_with_sleeves_purple_background_c3.jpg>
+* *Nina 90184.761* &mdash; Photograph.
+3000&times;4114.
+EXIF metadata stripped.
+*Kewbellothea aquacolor* wb. Nina, YEAR.
+&copy; Nina Chang-Smith or unknown photographer, all rights reserved.
+  * **Page**: 
+  * **SHA2-256**: `a5676cb8be0f0537dd26f6c02a0bd046212af4b432990817a4e981e422bd0364`
+  * **Raw image URLs**
+    * **Original**: <https://www.ninalee.co.uk/cdn/shop/files/Nina_Lee_Kewbello_with_sleeves_back_view_purple_background_v2.jpg?v=1722462174>
+    * **IA**: <https://web.archive.org/web/20260405171750/https://www.ninalee.co.uk/cdn/shop/files/Nina_Lee_Kewbello_with_sleeves_back_view_purple_background_v2.jpg?v=1722462174>
+  
+<!-- Template generated with lct01tools and manually filled in by humans! -->
+#### *Kewbellothea autumna* {#sec-kewbellothea-autumna}
+***Kewbellothea autumna*** Lemuria, 2026; sp. nov.
+
+**Holotype**: *Nina 90340.105* &mdash;
+Photograph. 2400&times;2954.
+EXIF metadata stripped.
+*Kewbellothea autumna* wb. Nina, unknown.
+&copy; Nina Chang-Smith or unknown photographer, all rights reserved.
+
+* **Page**: @kewbello620
+* **SHA2-256**: `274e7dbc7069f80d1cb77451eb2a5a1125578e73901f51e5cf09cee74751200f`
+* **Raw image URLs**
+  * **Original**: <https://www.ninalee.co.uk/cdn/shop/files/NinaLeeKewbelloJumpsuitautumnv1.jpg?v=1722462287>
+  * **IA**: <https://web.archive.org/web/20260405171750/https://www.ninalee.co.uk/cdn/shop/files/NinaLeeKewbelloJumpsuitautumnv1.jpg?v=1722462287>
+
+**Diagnosis**: *Kewbellothea autumna* is characterized by its maroon-background fabric with floral patterns. Orange, pink, and white flowers, with berry-like fruits, colored blue. No known correspondence to biological taxa.
+
+**Etymology**: From Latin *autumna* ("autumn"), due to the autumn-like colors of the fabric and the holotype image.
+
+**Specimens examined**: See holotype information.
 
 ### Genus *Kewisia* {#sec-kewisia}
 ***Kewisia*** Lemuria, 2026
