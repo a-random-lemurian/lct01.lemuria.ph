@@ -1,5 +1,5 @@
 ---
-title: "More Kew specimens from Nina's product page"
+title: "Kew monograph 02: More Kew specimens from Nina's product pages"
 author:
   name: Lemuria
   affiliation:
@@ -20,7 +20,7 @@ number-sections: true
 citation:
   author: Lemuria
   # citation-key: lemuria_kew_2026
-  title: "More Kew specimens from Nina's product page"
+  title: "Kew monograph 02: More Kew specimens from Nina's product pages"
   original-date: 2026-03-31
   publisher: Lemuria
   # article-id: lict2026.0006
