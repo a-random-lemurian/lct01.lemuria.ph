@@ -1,0 +1,524 @@
+---
+title: "An inordinate fondness for Silversaga and her patterns: a monograph"
+author:
+  name: Lemuria
+  affiliation:
+    - name: Independent researcher; Manila, Philippines
+  email: lemuria@lemuria.ph
+license: CC BY-SA
+journal:
+  title: "Lemuria's (Informal) Journal of Clothing Taxonomy"
+date: 2026-04-07
+lang: en
+execute: 
+  freeze: true
+# publisher-id: "lict2026.0006"
+abstract: |
+  Jessica Silversaga is a Swedish pattern designer, photographer, and sewist, the owner of Silversaga Patterns, a slow fashion RTW-turned sewing pattern label. In this monograph, we comprehensively describe N species of garments made from Silversaga patterns, across 2 orders, 15 families, N genera, and N species, publishing and refining the early private research conducted on the Eleonora dresses in early 2026.
+bibliography: silversaga.bib
+number-sections: true
+citation:
+  author: Lemuria
+  # citation-key: lemuria_kew_2026
+  title: "An inordinate fondness for Silversaga and her patterns: a monograph"
+  original-date: 2026-04-07
+  publisher: Lemuria
+  # article-id: lict2026.0006
+  publisher-place: Philippines
+format:
+  html:
+    format-links: false
+    # other-links:
+    #   - text: PDF
+    #     href: https://static.lemuria.ph/lct01/pdf/2026/2026.0006_gunnelaurentia_johnsonia.pdf
+    #     icon: file-pdf
+  aft-pdf:
+    toc: true
+    toc-depth: 6
+    include-in-header:
+      text: |
+        \usepackage{forest}
+        \usepackage{seqsplit}
+keywords: silversaga, eleonora, sleeveless eleonora, silversaga patterns, sewing patterns, clothing taxonomy
+---
+
+```{=latex}
+\begin{multicols}{2}
+```
+
+# Background
+## Jessica Silversaga
+Jessica Silversaga is a Swedish sewing pattern designer, photographer, and sewist. She became interested in sewing after taking a beginner's sewing class. She was continually dissatisfied with patterns available at the time, feeling that they did not fit her body. In her 20s, she began learning to draft patterns.
+
+In late 2018, she launched the slow fashion RTW label Silversaga. Many of the patterns now available through Silversaga Patterns were sold RTW during this period. She produced a single collection yearly and hired an Estonian atelier to produce them in small batches.
+
+Due to the COVID-19 pandemic, in 2023, she transitioned the business to a pattern label, ceasing sales of RTW garments and switching to selling PDF patterns.
+
+Silversaga's history is split into two primary periods; the slow fashion period (2018&ndash;2023) and pattern period (2023&ndash;present).
+
+Jessica's online presence dates to the early 2000s. WHOIS records show that the domain `silversaga.se` was registered on December 9, 2004. The earliest Wayback Machine captures for her website, <https://silversaga.se> date to 2006, when it was used as a portfolio website for her photography. Based on snapshots, which the Archive took at seemingly random non-consistent intervals, throughout the 2010s she kept a blog in both English and Swedish on the website. It became an e-commerce website c. 2020, two years into the launch of Silversaga, and with the start of the pattern period, the `silversaga.se` domain became a redirect to <https://silversagapatterns.com>.
+
+### Patterns
+As of April 2026, Silversaga sells 14 sewing patterns; in alphabetical order, they are the
+Alma,
+Amelie,
+Celeste,
+Celine,
+Chloe,
+Clara,
+Eleonora,
+Ella,
+Elsa,
+Emma,
+Francesca,
+Juliette,
+Mina,
+and Ophelia.
+
+These patterns are sold entirely as PDFs with English-language instructions. Patterns are available in sizes EU 34&ndash;54 UK 6&ndash;26, and US 2&ndash;24.
+
+Silversaga's aesthetic is variously described as "romantic minimalism" [@rainey2025]
+
+### Terminology
+We will be referring to Jessica Silversaga by her first name throughout the monograph, to better distinguish her from her company, Silversaga Patterns. She also has the person abbreviation *J.Silversaga* (see @sec-person-abbrs).
+
+The Eleonora comes in two primary variants, sold as two separate patterns; a sleeved variant, known simply as the Eleonora; and a sleeveless variant, sold as the Sleeveless Eleonora.
+
+We will refer to both as the sleeved and sleeveless Eleonora respectively, for clarity; we use the term Eleonora itself to refer to both patterns collectively.
+
+Jessica tests her patterns in one to three rounds, with a total of anywhere from 40 to 70 testers, ranging from EU sizes 34 to 54. [@silversagafaq] With the 15 patterns sold by Silversaga, the species count can be as low as 600, or as high as 1050. The lower bound of 600 is already twice the size of the entire LCT-01.
+
+## Pattern testers
+In this section, we include brief biographies of some of Silversaga's pattern testers. For person abbreviations, see @sec-person-abbr.
+
+<!-- sort these people by last name -->
+### Bethany Lynne
+**Bethany Lynne** (<https://www.bethanylynnemakes.com/about/>; Instagram: &commat;[bethanylynne_makes](https://instagram.com/bethanylynne_makes)) is an American sewist from east Texas. She learned sewing and knitting from her mother and grandmother. Though her earliest interests were in painting, she has since diversified to other creative pursuits such as knitting, crocheting, graphic design, quilting, and most taxonomically relevant, sewing. Her earliest me-made garments date back to 2021.
+
+Bethany has now designed her own patterns; such as the Agnes sweater, Homebody apron, and numerous backpacks, sling bags, and tote bags.
+
+During the early pattern period, Bethany won a copy of five patterns from Silversaga (the entire published collection at the time), which led to the start of her interest in Silversaga. Bethany typically makes garments in EU size 36 [@bethany2025]
+
+**Wearer of**: 9 spp.';
+*Argenteleonora bethanae* (@sec-argenteleonora-bethanae); 
+
+### Madeleine Salisbury
+**Madeleine Salisbury** (Instagram: &commat;[made_by_madeleine.claire](https://instagram.com/made_by_madeleine.claire)) is an American sewist, originally from New York, now living in Prague, Czech Republic. Salisbury herself was discovered as part of yet-to-be-published taxonomic work on other patterns; specifically the Traveller coat by Bella Loves Patterns.
+
+Salisbury is one of Jessica's pattern testers; she has tested the Eleonora [@salisbury2024_eleonora; @salisbury2024_eleonora2], the Juliette [@salisbury2024]
+
+## Taxonomic remarks
+The hybrid RTW&ndash;home-sewn nature of the taxonomic record of Silversaga garments leads to a taxonomically interesting situation for the LCT-01. In the simplest of cases, RTW taxonomy typically maps the design, colorway, and wearer to the genus, species, and subspecies respectively; while sewing patterns map the design, option (or view), and individual sewist to the family, genus, and species. RTW instances of Silversaga taxa are most easily identifiable by a label that reads Silversaga, positioned slightly inferior to the neckline on the dorsal interior surface.
+
+As with Nina Lee's Kew dress, extensively taxonomized in prior monographs published in the *Journal*, some of these patterns are classified polyphyletically, due to the dispersion of their morphological diversity across the higher-level taxa of the LCT-01.
+
+### Taxonomic history
+Our lead author discovered Silversaga through the American sewist Madeleine Salisbury (Instagram: &commat;[made_by_madeleine.claire](https://instagram.com/made_by_madeleine.claire)).
+
+During the early taxonomization of Jessica's patterns, the LCT-01 began using infrageneric taxa; ranks below genus but above species, such as subgenera and sections, due to the increasing awkwardness of incorporating an increasing amount of characters in the genus name itself. 
+
+<!-- ### Scope of the monograph -->
+Originally, we intended for this paper to only cover the Eleonora dress (Argenteleonoridae) and its sleeveless variant (Heleonoridae); but later decided to expand to the other garments within Silversaga's repertoire.
+
+<!--
+if we can publish this by the start of Me Made May
+as an extra nod to the sewing pattern community......
+....
+
+However, we exclude the Celeste pattern, as its 16 views and 12 pattern hacks included with the pattern lead to a lower bound for 192 taxa, over 2.5&times; the number of genera in the LCT-01 as last counted c. February 2026, ~75. -->
+
+### Materials and methods
+The author conducted his research on a computer running Ubuntu 24.04, with the XFCE desktop environment. He used the SHA2-256 algorithms to compute the cryptographic hashes of the photographic specimens he examined for species descriptions. He used Firefox 139.0.4. His monitor is a 55.8 cm (22 in) wide, 30.48 cm (12 in) tall, 63.5 cm (25 in) diagonal monitor, the NVISION S2515-B 25" IPS with a 100Hz refresh rate. He is not colorblind. He is near sighted and wears glasses.
+
+As our lead author had no Instagram account, he used Imginn, an online service that allows Instagram to be viewed without an account.
+
+Specimens were collected from Silversaga Patterns' website; with a focus on the pattern tester galleries. The Silversaga Patterns website uses Shopify as its underlying platform and image storage; EXIF metadata removal is likely consistent with internal Shopify server-side upload processing code.
+
+The images were of exceptionally high quality; resolutions as high as 4000&times;2667 were collected. The majority of the images were in JPG format; some images were stored in the HEIC format.
+
+EXIF metadata was near-universally scarce amongst the Heleonoridae and Argenteleonoridae. To check EXIF metadata, he used ExifTool version 12.76.
+
+<!--
+may need a major update if lct01-notes is further
+refined during the Silversaga monograph
+
+### `lct01-notes`
+During work on this paper, the author created a new tool that automatically generates Quarto template text from structured YAML data. This allows the data to exist in a structured format for future processing with other systems, and further improves standardization. Descriptions and remarks remain human-written; with less administrative and menial work comes the opportunity for more creative work.
+
+A paper dedicated solely to this software has not been started, but may be authored someday. YAML files used to generate the template text are provided with the paper. -->
+
+#### Checksums
+The versions of the `sha256sum` and `openssl` utilities on his system at the time of the paper are given in the below terminal output:
+
+```{=latex}
+\end{multicols}
+```
+
+::: {#fig-sha256sum}
+```
+$ sha256sum --version
+sha256sum (GNU coreutils) 9.4
+Copyright (C) 2023 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <https://gnu.org/licenses/gpl.html>.
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+
+Written by Ulrich Drepper, Scott Miller, and David Madore.
+$ openssl --version
+OpenSSL 3.5.0 8 Apr 2025 (Library: OpenSSL 3.5.0 8 Apr 2025)
+$ sha256sum /usr/bin/sha256sum /usr/bin/openssl
+f293048f656688883ee919eb3f4b12926aaa13362de0eb6e3b5716b915b18b35  /usr/bin/sha256sum
+724acbe911513d13f52bae0b8969b20336cd8618fc67898a6bf7847bf1a270ad  /usr/bin/openssl
+```
+
+A hash of the sha256sum and openssl utilities on the lead author's computer.
+:::
+
+<!--
+(((((((Heleonoridae[&&NHX:subtree_root=yes],Helargemmidae[&&NHX:subtree_root=yes],Helarchloidae[&&NHX:subtree_root=yes])Helargenta)Helistola)Scapamanica)Scapunatoria,(((((Argenteleonoridae[&&NHX:subtree_root=yes],
+Argenkamellidae[&&NHX:subtree_root=yes])Sueciargenta)Kampylilaimosida)Quaracomorpha,(Argentellidae[&&NHX:subtree_root=yes])Vecostola,((Almidae[&&NHX:subtree_root=yes],Juliettidae[&&NHX:subtree_root=yes],Argenclaridae[&&NHX:subtree_root=yes])Isargenta)Isotrapezia)
+Manubristenta))Abtruncusa)Vestimentia)
+
+----
+incertae sedis 1
+
+Elsa    -- Argelsidae
+Ophelia -- Ophelidae
+
+
+-- this pattern is going to be
+-- a nightmare to taxonomize.
+--
+-- 16 style views. 12 pattern hacks.
+-- 192 cells on the punnett square.
+--
+Celeste -- Celestia? Celestistola? (order)
+           Celestidae (family)
+
+----
+incertae sedis 2
+
+Phylum Scapunatoria
+Subphylum Scapamanica
+Class Camisola
+Order Argentisola
+Family Francescidae
+
+Francesca  -- Francescidae
+
+----
+incertae sedis 3
+
+Amelie    -- Amelidae
+
+-->
+
+```{=latex}
+\newpage
+```
+
+### Trees
+```{r}
+#| results: asis
+#| fig-show: asis
+#| message: false
+
+library(treeio)
+library(ggtree)
+library(ggplot2)
+library(ggtreeExtra)
+library(dplyr)
+library(ggtext)
+library(knitr)
+
+text <- "((((((((Heleonora[&&NHX:rank=genus])Heleonoridae[&&NHX:subtree_root=yes],(Helargemmia[&&NHX:rank=genus])Helargemmidae[&&NHX:subtree_root=yes],(Helarchoia[&&NHX:rank=genus])Helarchloidae[&&NHX:subtree_root=yes])Helargenta)Helistola,(((Francesca[&&NHX:rank=genus])Francescidae[&&NHX:subtree_root=yes])Argentisola)Camisola)Scapamanica)Scapunatoria,(((((((Argenteleonora_ariae,Argenteleonora_felicitae,Argenteleonora_madalinae,Argenteleonora_madeleinae,Argenteleonora_madeleinatra,Argenteleonora_mantorae,Argenteleonora_manuelae,Argenteleonora_martae,Argenteleonora_rubra,Argenteleonora_stephania,Argenteleonora_thea,Argenteleonora_veneta)Argenteleonora_subg._Shira,((Argenteleonora_annettae)Argenteleonora_sect._Unilastica,(Argenteleonora_bethanae,Argenteleonora_patriciae,Argenteleonora_katiae)Argenteleonora_sect._Duolastica)Argenteleonora_subg._Elastica)Argenteleonora[&&NHX:rank=genus])Argenteleonoridae[&&NHX:subtree_root=yes],(Argenkamella[&&NHX:rank=genus])Argenkamellidae[&&NHX:subtree_root=yes])Sueciargenta)Kampylilaimosida)Quaracomorpha,((Argentella[&&NHX:rank=genus])Argentellidae[&&NHX:subtree_root=yes])Vecostola,(((Almargenta[&&NHX:rank=genus])Almidae[&&NHX:subtree_root=yes],(Julietta[&&NHX:rank=genus])Juliettidae[&&NHX:subtree_root=yes],(Argenclara[&&NHX:rank=genus])Argenclaridae[&&NHX:subtree_root=yes])Isargenta)Isotrapezia)Manubristenta)Abtruncusa)Vestimentia);"
+
+tree <- read.nhx(textConnection(text))
+
+subtree_nodes <- tree@data %>%
+  filter(subtree_root == "yes") %>%
+  pull(node)
+
+p <- ggtree(tree)
+
+for (n in subtree_nodes) p <- collapse(p, n) + geom_point2(aes(subset=(node==!!n)), shape = 23, size=5, fill='red')
+
+rootTree <- p + geom_tiplab(size = 3) +
+  geom_text(data = td_filter(!isTip), aes(label = label),
+            size = 2, hjust = 1.1, vjust = -0.4, na.rm = TRUE) +
+  hexpand(0.2) + vexpand(0.3)
+
+fig_height <- function(tr) max(3, min(length(tr@phylo$tip.label) * 0.25, 12))
+
+plots <- list(
+  list(p = rootTree, w = 12, h = 8, label = "Overview")
+)
+
+format_node_label <- function(label, rank) {
+  if (!is.na(rank) && rank == "genus") {
+    return(paste0("<i>", gsub("_", " ", label), "</i>"))
+  }
+  components <- unlist(strsplit(label, "_"))
+  if (grepl("subg\\.", label)) {
+    new_label <- paste0("<i>",components[1],"</i> subg. <i>",components[3],"</i>")
+    return(new_label)
+  }
+  paste0(gsub("_", " ", label))
+}
+
+format_species <- function(label) {
+  paste0(gsub("_", " ", label))
+}
+
+for (n in subtree_nodes) {
+  subtree <- tidytree::tree_subset(tree, n, levels_back = 0)
+  if (length(subtree@phylo$tip.label) < 2) next 
+  
+  root_taxon_node <- as_tibble(tree) |> filter(node == n)
+  root_taxon <- root_taxon_node |> pull(label)
+  p_sub <- ggtree(subtree) +
+    geom_tiplab(size = 3, aes(label = mapply(format_species, label)), fontface = "italic") +
+    geom_richtext(
+      data = td_filter(!isTip),
+      aes(label = mapply(format_node_label, label, rank)),
+      size = 2, na.rm = TRUE,
+      fill = 'lightgreen', label.color = NA
+    ) +
+    hexpand(0.3) + vexpand(0.5)
+  plots[[length(plots) + 1]] <- list(p = p_sub, w = 12, h = fig_height(subtree), label = root_taxon)
+}
+
+for (i in seq_along(plots)) {
+  p <- plots[[i]]
+  chunk <- knitr::knit_expand(
+    text = c(
+      "```{r fig-{{label}}, fig.height={{h}}, fig.width=8, fig.cap='{{label}}', echo=FALSE}",
+      "plots[[{{i}}]]$p",
+      "```"
+    ),
+    i = i,
+    h = plots[[i]]$h,
+    label = plots[[i]]$label
+  )
+  cat(knitr::knit(text = chunk, quiet = TRUE))
+  cat("\n\n")
+}
+```
+
+
+```{=latex}
+\newpage
+```
+
+# Descriptions
+
+## Phylum Manubristenta
+**Manubristenta** Lemuria, 2026; first public desc.
+
+**Taxonomic placement**: Placed in the kingdom Abtruncusa.
+
+**Diagnosis**: Phenetically, Manubristenta is characterized by the exposure of the skin superficial to the manubrium, the superior (upper) part of the sternum (breastbone), and covered shoulders.
+
+## Subphylum Quaracomorpha
+**Quaracomorpha** Lemuria, 2026; first public desc.
+
+**Taxonomic placement**: Placed in the phylum Manubristenta.
+
+**Diagnosis**: Phenetically, Quaracomorpha is characterized by a square neckline.
+
+## Class Kampylilaimosida
+**Kampylilaimosida** Lemuria, 2026; first public desc.
+
+**Taxonomic placement**: Placed in the subphylum Quaracomorpha.
+
+**Diagnosis**: Phenetically, Kampylilaimosida is characterized by a square neckline with curved edges.
+
+**Etymology**: From Greek καμπύλη (*kampýli*, 'curve') + λαιμός (*laimós*, "neck"); lit. "curved neck".
+
+## Order Sueciargenta
+**Sueciargenta** Lemuria, 2026; first public desc.
+
+**Taxonomic placement**: Placed in the class Kampylilaimosida.
+<!--
+Domain **Vestimentia** > Kingdom **Abtruncusa** > Phylum **Manubristenta** > Subphylum **Quaracomorpha** > Class **Kampylilaimosida** > Order **Sueciargenta** -->
+
+**Diagnosis**: Phylogenetically, Sueciargenta is characterized by descent from a Silversaga pattern, and phenetically, by a square neckline with curved edges.
+
+**Etymology**: From Latin *Suecia* ("Sweden") + *argenta*, feminine form of *argentum* ("silver").
+
+### Family Argenteleonoridae
+**Argenteleonoridae** Lemuria, 2026; first public desc.
+
+#### Genus *Argenteleonora*
+***Argenteleonora*** Lemuria, 2026; first public desc.
+
+#### *Argenteleonora* subg. *Shira*
+***Argenteleonora* subgenus *Shira*** Lemuria, 2026; first public desc.
+
+##### *Argenteleonora ariae* {#sec-argenteleonora-ariae}
+***Argenteleonora ariae*** Lemuria, 2026; first public desc.
+
+##### *Argenteleonora felicitae* {#sec-argenteleonora-felicitae}
+***Argenteleonora felicitae*** Lemuria, 2026; first public desc.
+
+##### *Argenteleonora madalinae* {#sec-argenteleonora-madalinae}
+***Argenteleonora madalinae*** Lemuria, 2026; first public desc.
+
+##### *Argenteleonora madeleinae* {#sec-argenteleonora-madeleinae}
+***Argenteleonora madeleinae*** Lemuria, 2026; first public desc.
+
+##### *Argenteleonora madeleinatra* {#sec-argenteleonora-madeleinatra}
+***Argenteleonora madeleinatra*** Lemuria, 2026; first public desc.
+
+##### *Argenteleonora mantorae* {#sec-argenteleonora-mantorae}
+***Argenteleonora mantorae*** Lemuria, 2026; first public desc.
+
+##### *Argenteleonora manuelae* {#sec-argenteleonora-manuelae}
+***Argenteleonora manuelae*** Lemuria, 2026; first public desc.
+
+##### *Argenteleonora martae* {#sec-argenteleonora-martae}
+***Argenteleonora martae*** Lemuria, 2026; first public desc.
+
+##### *Argenteleonora rubra* {#sec-argenteleonora-rubra}
+***Argenteleonora rubra*** Lemuria, 2026; first public desc.
+
+##### *Argenteleonora stephania* {#sec-argenteleonora-stephania}
+***Argenteleonora stephania*** Lemuria, 2026; first public desc.
+
+##### *Argenteleonora thea* {#sec-argenteleonora-thea}
+***Argenteleonora thea*** Lemuria, 2026; first public desc.
+
+##### *Argenteleonora veneta* {#sec-argenteleonora-veneta}
+***Argenteleonora veneta*** Lemuria, 2026; first public desc.
+
+#### *Argenteleonora* subg. *Elastica*
+***Argenteleonora* subgenus *Elastica*** Lemuria, 2026; first public desc.
+
+#### *Argenteleonora* sect. *Unilastica*
+***Argenteleonora* section *Unilastica*** Lemuria, 2026; first public desc.
+
+##### *Argenteleonora annettae* {#sec-argenteleonora-annettae}
+***Argenteleonora annettae*** Lemuria, 2026; first public desc.
+
+#### *Argenteleonora* sect. *Duolastica*
+##### *Argenteleonora bethanae* {#sec-argenteleonora-bethanae}
+***Argenteleonora bethanae*** Lemuria, 2026; first public desc.
+
+##### *Argenteleonora patriciae* {#sec-argenteleonora-patriciae}
+***Argenteleonora patriciae*** Lemuria, 2026; first public desc.
+
+##### *Argenteleonora katiae* {#sec-argenteleonora-katiae}
+***Argenteleonora katiae*** Lemuria, 2026; first public desc.
+
+## Order Helargenta
+**Helargenta** Lemuria, 2026; first public desc.
+
+### Family Heleonoridae
+**Heleonoridae** Lemuria, 2026; first public desc.
+
+#### Genus *Heleonora*
+***Heleonora*** Lemuria, 2026; first public desc.
+
+#### *Heleonora* subg. *Shira*
+***Heleonora* subgenus *Shira*** Lemuria, 2026; first public desc.
+
+<!-- anjae:
+fraxina:
+beatricae:
+gabriellae:
+ioanae:
+jessae:
+vanhoofae:
+martinae:
+meganae:
+nellia:
+shreyae:
+garciae:
+rimforsia:
+lizzia: -->
+
+
+#### *Heleonora* subg. *Elastica*
+***Heleonora* subgenus *Elastica*** Lemuria, 2026; first public desc.
+
+#### *Heleonora* sect. *Unilastica*
+***Heleonora* section *Unilastica*** Lemuria, 2026; first public desc.
+
+#### *Heleonora* sect. *Duolastica*
+***Heleonora* section *Duolastica*** Lemuria, 2026; first public desc.
+
+### Family Helargemmidae
+**Helargemmidae** Lemuria, 2026; first public desc.
+
+### Family Helarchloidae
+**Helarchloidae** Lemuria, 2026; first public desc.
+
+```{=latex}
+\begin{multicols}{2}
+```
+
+# General remarks
+## Filenames
+Jessica's naming conventions for patterns are consistent at the pattern-level, but inconsistent as a whole.
+
+For the Ella, Chloe, Celeste, ... patterns, we observed a numerical naming convention, and were thus unable to obtain their names.
+
+
+
+
+<!--
+TODO: Identify all gallery naming conventions for all 15 patterns
+-->
+
+Many filenames include the names of the pattern testers, which allows identification of the wearers.
+<!--
+Juliette
+-->
+
+## Names
+### Laural? Stapleton
+In the filenames, we consistently observed the spelling *Laural* for *Laural Stapleton*. We do not have information on Stapleton; nor whether *Laural* is the correct spelling of her name. Possible names used by Stapleton include *Laura*, *Laurel*, and *Lauren*. We have chosen to abbreviate her by her last name, *Stapleton*, as the spelling is significantly more plausible.
+
+# Appendix
+## Person abbreviations {#sec-person-abbr}
+We define the following new person abbreviations:
+
+* **Anja.S.** &mdash; Anja Scheithauer
+* **Ashley.G.** &mdash; Ashley General
+* **Stapleton** &mdash; Laural Stapleton
+* **J.Silversaga** &mdash; Jessica Silversaga
+
+## Acknowledgements
+We used R; specifically, `ggtree`, to render tree figures. For information on `ggtree`, see @yuetal2017.
+
+We thank Jessica Silversaga for her amazing patterns that help bolster a culture of home sewing and advance the slow fashion movement. We thank all the sewists, pattern testers, and the sources we have cited for documenting their projects in intricate detail.
+
+We thank the people of the Archive Team (<https://wiki.archiveteam.org/wiki/Main_Page>) for assistance in archiving the Silversaga website and making it available through the Wayback Machine.
+
+We thank the people of the Coffee Shop on [4d2.org](https://4d2.org), where our lead author has posted fragments of the paper time and time again, for being absolutely wonderful people, and being an extra set of eyes to keep errors shallow under Linus's law; and we thank Sarah, the operator of 4d2, for fostering such a wonderful space.
+
+## Information
+*Lemuria's (Informal) Journal of Clothing Taxonomy* is the gray literature journal of the First Lemurian Clothing Taxonomy, a system by Lemuria to assign Latin names to dresses using biological methods. The author, known mononymically as just Lemuria, is an Filipino programmer and independent gray literature researcher from Manila.
+
+**Disclaimer**: *Lemuria's (Informal) Journal of Clothing Taxonomy* is a non-peer-reviewed, single-author, citizen science/gray literature publication with no institutional backing.
+
+<!-- Publisher article ID: 2026.0007 -->
+
+At publication, the journal did not have a DOI prefix.
+
+Work began on the paper on 2026-04-08 and was published ...
+
+* Visit us at: <https://lct01.lemuria.ph>
+* Version control: <https://github.com/a-random-lemurian/lct01.lemuria.ph>
+* Zenodo: <https://zenodo.org/communities/lct01>
+
+&copy; Lemuria 2026. All original text and image content by Lemuria is licensed under CC BY-SA 4.0, unless explicitly noted. Linked images and other content are &copy; their respective owners or copyright holders.
+
+# References
+
+::: {#refs}
+:::
+
+```{=latex}
+\end{multicols}
+```
