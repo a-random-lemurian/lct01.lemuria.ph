@@ -244,9 +244,12 @@ p <- ggtree(tree)
 for (n in subtree_nodes) p <- collapse(p, n) + geom_point2(aes(subset=(node==!!n)), shape = 23, size=5, fill='red')
 
 rootTree <- p + geom_tiplab(size = 3) +
-  geom_text(data = td_filter(!isTip), aes(label = label),
-            size = 2, hjust = 1.1, vjust = -0.4, na.rm = TRUE) +
-  hexpand(0.2) + vexpand(0.3)
+  geom_richtext(
+    aes(label = label),
+    data = td_filter(!isTip),
+    size = 2, na.rm = TRUE,
+    fill = 'lightblue', label.color = 'white'
+  ) + vexpand(1)
 
 fig_height <- function(tr) max(3, min(length(tr@phylo$tip.label) * 0.25, 12))
 
@@ -279,7 +282,7 @@ for (n in subtree_nodes) {
   p_sub <- ggtree(subtree) +
     geom_tiplab(size = 3, aes(label = mapply(format_species, label)), fontface = "italic") +
     geom_richtext(
-      data = td_filter(!isTip),
+      fill = 'lightblue', label.color = NA
       aes(label = mapply(format_node_label, label, rank)),
       size = 2, na.rm = TRUE,
       fill = 'lightgreen', label.color = NA
