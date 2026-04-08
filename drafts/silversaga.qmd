@@ -282,10 +282,10 @@ for (n in subtree_nodes) {
   p_sub <- ggtree(subtree) +
     geom_tiplab(size = 3, aes(label = mapply(format_species, label)), fontface = "italic") +
     geom_richtext(
-      fill = 'lightblue', label.color = NA
+      data = td_filter(!isTip),
       aes(label = mapply(format_node_label, label, rank)),
       size = 2, na.rm = TRUE,
-      fill = 'lightgreen', label.color = NA
+      fill = 'lightblue', label.color = NA
     ) +
     hexpand(0.3) + vexpand(0.5)
   plots[[length(plots) + 1]] <- list(p = p_sub, w = 12, h = fig_height(subtree), label = root_taxon)
@@ -425,21 +425,538 @@ Domain **Vestimentia** > Kingdom **Abtruncusa** > Phylum **Manubristenta** > Sub
 #### *Heleonora* subg. *Shira*
 ***Heleonora* subgenus *Shira*** Lemuria, 2026; first public desc.
 
-<!-- anjae:
-fraxina:
-beatricae:
-gabriellae:
-ioanae:
-jessae:
-vanhoofae:
-martinae:
-meganae:
-nellia:
-shreyae:
-garciae:
-rimforsia:
-lizzia: -->
+**Diagnosis**: Phenetically, *Heleonora subg. Shira* is characterized by 
 
+**Etymology**:
+
+<!-- replace taxon with the name of the rank! -->
+**Type taxon**:
+<!-- Template generated with lct01tools and manually filled in by humans! -->
+
+<!-- Template generated with lct01tools and manually filled in by humans! -->
+##### *Heleonora lizzia* {#sec-heleonora-lizzia}
+***Heleonora lizzia*** Lemuria, 2026; first public desc.
+
+**Holotype**: ***McNally 20.23014*** &mdash; Photograph.
+METADATAFROMHOLOTYPER
+*Heleonora lizzia* wb. Elizabeth.M., YEAR.
+&copy; Elizabeth McNally or unknown photographer, all rights reserved.
+
+* **Page**: 
+* **SHA2-256**: `6f27893b736fbebf44fbfc24fec10afd2487c4cda1d91daec6de441a9bfbf77b`
+* **Raw image URLs**
+  * **Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Elizabeth_McNally2.jpg?v=1720291681>
+  * **IA**: <https://web.archive.org/web/20260408095919/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Elizabeth_McNally2.jpg?v=1720291681>
+
+**Diagnosis**: *Heleonora lizzia* is characterized by
+
+**Description**:
+
+**Remarks**:
+
+**Etymology**: From
+
+**Specimens examined**:
+
+* Holotype.
+* *McNally 20.23710* &mdash; Photograph.
+METADATAFROMHOLOTYPER
+*Heleonora lizzia* wb. Elizabeth.M., YEAR.
+&copy; Elizabeth McNally or unknown photographer, all rights reserved.
+  * **Page**: 
+  * **SHA2-256**: `f46504965fb55a6e9a4ac4c7cab6f2e9835967042cf474b5e9162b4f9ec90bee`
+  * **Raw image URLs**
+    * **Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Elizabeth_McNally3.jpg?v=1720291681>
+    * **IA**: <https://web.archive.org/web/20260408095920/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Elizabeth_McNally3.jpg?v=1720291681>
+  
+<!-- Template generated with lct01tools and manually filled in by humans! -->
+##### *Heleonora fraxina* {#sec-heleonora-fraxina}
+***Heleonora fraxina*** Lemuria, 2026; first public desc.
+
+**Holotype**: ***Ashley 931.1620*** &mdash; Photograph.
+METADATAFROMHOLOTYPER
+*Heleonora fraxina* wb. Ashley.G., YEAR.
+&copy; Ashley General or unknown photographer, all rights reserved.
+
+* **Page**: 
+* **SHA2-256**: `3c9c348550c7b6df497d8d64f23d4b320d75f521eae6b518980f0995cff2cee3`
+* **Raw image URLs**
+  * **Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Ashley_General.jpg?v=1720291730>
+  * **IA**: <https://web.archive.org/web/20260408095919/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Ashley_General2.jpg?v=1720291729>
+
+**Diagnosis**: *Heleonora fraxina* is characterized by
+
+**Description**:
+
+**Remarks**:
+
+**Etymology**: From
+
+**Specimens examined**:
+
+* Holotype.
+* *Ashley 931.1744* &mdash; Photograph.
+METADATAFROMHOLOTYPER
+*Heleonora fraxina* wb. Ashley.G., YEAR.
+&copy; Ashley General or unknown photographer, all rights reserved.
+  * **Page**: 
+  * **SHA2-256**: `fe06a0b9b231c960af85b806a2620b21d0e040b42ee4f538f75deeec67210773`
+  * **Raw image URLs**
+    * **Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Ashley_General2.jpg?v=1720291729>
+    * **IA**: <https://web.archive.org/web/20260408095925/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Ashley_General.jpg?v=1720291730>
+  
+* *Ashley 931.1763* &mdash; Photograph.
+METADATAFROMHOLOTYPER
+*Heleonora fraxina* wb. Ashley.G., YEAR.
+&copy; Ashley General or unknown photographer, all rights reserved.
+  * **Page**: 
+  * **SHA2-256**: `9e8cb857a04dfb6b41e9bc7ea8b395eeee8b1bd6b40399cfb958a71b2acf9d0c`
+  * **Raw image URLs**
+    * **Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Ashley_General6.jpg?v=1720291726>
+    * **IA**: <https://web.archive.org/web/20260408100029/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Ashley_General6.jpg?v=1720291726>
+  
+<!-- Template generated with lct01tools and manually filled in by humans! -->
+##### *Heleonora beatricae* {#sec-heleonora-beatricae}
+***Heleonora beatricae*** Lemuria, 2026; first public desc.
+
+**Holotype**: ***Beatrice 210.1631*** &mdash; Photograph.
+METADATAFROMHOLOTYPER
+*Heleonora beatricae* wb. Beatrice.F., YEAR.
+&copy; Beatrice Fletcher or unknown photographer, all rights reserved.
+
+* **Page**: 
+* **SHA2-256**: `52713bac98440233620dc64800dc05459ddb6af333952c459f0a83ba84310402`
+* **Raw image URLs**
+  * **Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Beatrice_Fletcher3.heic?v=1720291673>
+  * **IA**: <https://web.archive.org/web/20260408100107/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Beatrice_Fletcher3.heic?v=1720291673>
+
+**Diagnosis**: *Heleonora beatricae* is characterized by
+
+**Description**:
+
+**Remarks**:
+
+**Etymology**: From
+
+**Specimens examined**:
+
+* Holotype.
+* *Beatrice 210.1651* &mdash; Photograph.
+METADATAFROMHOLOTYPER
+*Heleonora beatricae* wb. Beatrice.F., YEAR.
+&copy; Beatrice Fletcher or unknown photographer, all rights reserved.
+  * **Page**: 
+  * **SHA2-256**: `883570d98927a3cbf540d6c29bbccf307062ab73da1041794ad9d2321f889884`
+  * **Raw image URLs**
+    * **Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Beatrice_Fletcher4.heic?v=1720291673>
+    * **IA**: <https://web.archive.org/web/20260408100108/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Beatrice_Fletcher4.heic?v=1720291673>
+  
+<!-- Template generated with lct01tools and manually filled in by humans! -->
+##### *Heleonora meganae* {#sec-heleonora-meganae}
+***Heleonora meganae*** Lemuria, 2026; first public desc.
+
+**Holotype**: ***Megan 171.4071*** &mdash; Photograph.
+METADATAFROMHOLOTYPER
+*Heleonora meganae* wb. Megan.B., YEAR.
+&copy; Megan Bynum or unknown photographer, all rights reserved.
+
+* **Page**: 
+* **SHA2-256**: `8d57cce69d2db026e6a7a21a939d497b11896aaaed99ce8935aba1e5cc0d3b6b`
+* **Raw image URLs**
+  * **Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Megan_Bynum.jpg?v=1720291697>
+  * **IA**: <https://web.archive.org/web/20260408100428/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Megan_Bynum.jpg?v=1720291697>
+
+**Diagnosis**: *Heleonora meganae* is characterized by
+
+**Description**:
+
+**Remarks**:
+
+**Etymology**: From
+
+**Specimens examined**:
+
+* Holotype.
+* *Megan 171.4098* &mdash; Photograph.
+METADATAFROMHOLOTYPER
+*Heleonora meganae* wb. Megan.B., YEAR.
+&copy; Megan Bynum or unknown photographer, all rights reserved.
+  * **Page**: 
+  * **SHA2-256**: `c2ead0e6bb186daf48fc5e90df12a701c0f32069b7f6b74211094652796f38c7`
+  * **Raw image URLs**
+    * **Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Megan_Bynum2.jpg?v=1720291697>
+    * **IA**: <https://web.archive.org/web/20260408100829/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Megan_Bynum2.jpg?v=1720291697>
+  
+<!-- Template generated with lct01tools and manually filled in by humans! -->
+##### *Heleonora nellia* {#sec-heleonora-nellia}
+***Heleonora nellia*** Lemuria, 2026; first public desc.
+
+**Holotype**: ***Nelly 233.9071*** &mdash; Photograph.
+METADATAFROMHOLOTYPER
+*Heleonora nellia* wb. Nelly.C., YEAR.
+&copy; Nelly Colne or unknown photographer, all rights reserved.
+
+* **Page**: 
+* **SHA2-256**: `d2b3950c36319184ea909bf88d3eb59e7b2947c2dd8b41fc23a4d37851671f12`
+* **Raw image URLs**
+  * **Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Nelly_Colne11.jpg?v=1720292012>
+  * **IA**: <https://web.archive.org/web/20260408100615/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Nelly_Colne11.jpg?v=1720292012>
+
+**Diagnosis**: *Heleonora nellia* is characterized by
+
+**Description**:
+
+**Remarks**:
+
+**Etymology**: From
+
+**Specimens examined**:
+
+* Holotype.
+* *Nelly 233.9085* &mdash; Photograph.
+METADATAFROMHOLOTYPER
+*Heleonora nellia* wb. Nelly.C., YEAR.
+&copy; Nelly Colne or unknown photographer, all rights reserved.
+  * **Page**: 
+  * **SHA2-256**: `dd9d50d4944641371e7220e049d796a90901c293bfdd8dc2f23763e9db9d5c37`
+  * **Raw image URLs**
+    * **Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Nelly_Colne5_a27a2593-3a57-4991-8819-696e1fa73532.jpg?v=1720292984>
+    * **IA**: <https://web.archive.org/web/20260408100725/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Nelly_Colne5_a27a2593-3a57-4991-8819-696e1fa73532.jpg?v=1720292984>
+  
+<!-- Template generated with lct01tools and manually filled in by humans! -->
+##### *Heleonora shreyae* {#sec-heleonora-shreyae}
+***Heleonora shreyae*** Lemuria, 2026; first public desc.
+
+**Holotype**: ***Shreya 59.5165*** &mdash; Photograph.
+METADATAFROMHOLOTYPER
+*Heleonora shreyae* wb. Shreya, YEAR.
+&copy; Shreya or unknown photographer, all rights reserved.
+
+* **Page**: 
+* **SHA2-256**: `9fcf9592f703998480b966a3217d4eb2bfe8c49f8da04ac7d7488f893a632b0d`
+* **Raw image URLs**
+  * **Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Shreya_Eleonora_2.jpg?v=1720291714>
+  * **IA**: <https://web.archive.org/web/20260408100217/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Shreya_Eleonora_2.jpg?v=1720291714>
+
+**Diagnosis**: *Heleonora shreyae* is characterized by
+
+**Description**:
+
+**Remarks**:
+
+**Etymology**: From
+
+**Specimens examined**:
+
+* Holotype.
+* *Shreya 59.5166* &mdash; Photograph.
+METADATAFROMHOLOTYPER
+*Heleonora shreyae* wb. Shreya, YEAR.
+&copy; Shreya or unknown photographer, all rights reserved.
+  * **Page**: 
+  * **SHA2-256**: `d1eea0276e361b393c523ae9fade4d905983e9c9657ef9e3ca3270acd4164da2`
+  * **Raw image URLs**
+    * **Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Shreya_Eleonora_3.jpg?v=1720291714>
+    * **IA**: <https://web.archive.org/web/20260408100230/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Shreya_Eleonora_3.jpg?v=1720291714>
+  
+<!-- Template generated with lct01tools and manually filled in by humans! -->
+##### *Heleonora rimforsia* {#sec-heleonora-rimforsia}
+***Heleonora rimforsia*** Lemuria, 2026; first public desc.
+
+**Holotype**: ***Rimfors 15.1660*** &mdash; Photograph.
+METADATAFROMHOLOTYPER
+*Heleonora rimforsia* wb. Rimfors, YEAR.
+&copy; Tuss Rimfors or unknown photographer, all rights reserved.
+
+* **Page**: 
+* **SHA2-256**: `383343b7930238147ad2ca06e3e59dee8993a8b7bdec559fb567671ba3167ebf`
+* **Raw image URLs**
+  * **Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Tuss_Rimfors.heic?v=1720291720>
+  * **IA**: <https://web.archive.org/web/20260408100536/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Tuss_Rimfors.heic?v=1720291720>
+
+**Diagnosis**: *Heleonora rimforsia* is characterized by
+
+**Description**:
+
+**Remarks**:
+
+**Etymology**: From
+
+**Specimens examined**:
+
+* Holotype.
+* *Rimfors 15.1710* &mdash; Photograph.
+METADATAFROMHOLOTYPER
+*Heleonora rimforsia* wb. Rimfors, YEAR.
+&copy; Tuss Rimfors or unknown photographer, all rights reserved.
+  * **Page**: 
+  * **SHA2-256**: `1bd85dd6679d51c2409bb562bb83f96212eaef3d496e66044a0ba7da89f8f1dd`
+  * **Raw image URLs**
+    * **Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Tuss_Rimfors7.heic?v=1720291721>
+    * **IA**: <https://web.archive.org/web/20260408100511/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Tuss_Rimfors7.heic?v=1720291721>
+  
+<!-- Template generated with lct01tools and manually filled in by humans! -->
+##### *Heleonora anjae* {#sec-heleonora-anjae}
+***Heleonora anjae*** Lemuria, 2026; first public desc.
+
+**Holotype**: ***Anja 930.1871*** &mdash; Photograph.
+METADATAFROMHOLOTYPER
+*Heleonora anjae* wb. Anja.S., YEAR.
+&copy; Anja Scheithauer or unknown photographer, all rights reserved.
+
+* **Page**: 
+* **SHA2-256**: `cfbf249735dc7e95b6bd4f5d1f5accc753b7852bf74e1504450285878030da71`
+* **Raw image URLs**
+  * **Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Anja_Scheithauer2.jpg?v=1720291725>
+  * **IA**: <https://web.archive.org/web/20260318171058/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Anja_Scheithauer2.jpg?v=1720291725>
+
+**Diagnosis**: *Heleonora anjae* is characterized by
+
+**Description**:
+
+**Remarks**:
+
+**Etymology**: From
+
+**Specimens examined**:
+
+* Holotype.
+* *Anja 930.1724* &mdash; Photograph.
+METADATAFROMHOLOTYPER
+*Heleonora anjae* wb. Anja.S., YEAR.
+&copy; Anja Scheithauer or unknown photographer, all rights reserved.
+  * **Page**: 
+  * **SHA2-256**: `52c1bce172348d12f1559de86ed9662dc3e003135e7ef588ce07fa370dabdb33`
+  * **Raw image URLs**
+    * **Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Anja_Scheithauer8.jpg?v=1720291724>
+    * **IA**: <https://web.archive.org/web/20260318171236/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Anja_Scheithauer8.jpg?v=1720291724>
+  
+<!-- Template generated with lct01tools and manually filled in by humans! -->
+##### *Heleonora gabriellae* {#sec-heleonora-gabriellae}
+***Heleonora gabriellae*** Lemuria, 2026; first public desc.
+
+**Holotype**: ***Gabrielle 394.2071*** &mdash; Photograph.
+METADATAFROMHOLOTYPER
+*Heleonora gabriellae* wb. Gabrielle.Sc., YEAR.
+&copy; Gabrielle Scollay or unknown photographer, all rights reserved.
+
+* **Page**: 
+* **SHA2-256**: `e208a4ee05f95f2fe58059b3e655d2195fcf9208d8a9309d99168da0076b6bf4`
+* **Raw image URLs**
+  * **Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Gabrielle_Scollay_jpg.jpg?v=1720381421>
+  * **IA**: <https://web.archive.org/web/20260408100730/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Gabrielle_Scollay_jpg.jpg?v=1720381421>
+
+**Diagnosis**: *Heleonora gabriellae* is characterized by
+
+**Description**:
+
+**Remarks**:
+
+**Etymology**: From
+
+**Specimens examined**:
+
+* Holotype.
+* *Gabrielle 394.2049* &mdash; Photograph.
+METADATAFROMHOLOTYPER
+*Heleonora gabriellae* wb. Gabrielle.Sc., YEAR.
+&copy; Gabrielle Scollay or unknown photographer, all rights reserved.
+  * **Page**: 
+  * **SHA2-256**: `25a03be39971e41e8e91912d46c3801fffb795520926c2484fdba235129e346b`
+  * **Raw image URLs**
+    * **Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Gabrielle_Scollay2.jpg?v=1720381421>
+    * **IA**: <https://web.archive.org/web/20260408100732/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Gabrielle_Scollay2.jpg?v=1720381421>
+  
+<!-- Template generated with lct01tools and manually filled in by humans! -->
+##### *Heleonora ioanae* {#sec-heleonora-ioanae}
+***Heleonora ioanae*** Lemuria, 2026; first public desc.
+
+**Holotype**: ***Ioana 119.1048*** &mdash; Photograph.
+METADATAFROMHOLOTYPER
+*Heleonora ioanae* wb. Ioana.M., YEAR.
+&copy; Ioana Miron or unknown photographer, all rights reserved.
+
+* **Page**: 
+* **SHA2-256**: `713958f9151fc3c00e7d41d68a03edf325fdeaf2da0209ed4e6810738368e2dc`
+* **Raw image URLs**
+  * **Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Ioana_Miron2.jpg?v=1720291682>
+  * **IA**: <https://web.archive.org/web/20260408100107/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Ioana_Miron2.jpg?v=1720291682>
+
+**Diagnosis**: *Heleonora ioanae* is characterized by
+
+**Description**:
+
+**Remarks**:
+
+**Etymology**: From
+
+**Specimens examined**:
+
+* Holotype.
+* *Ioana 119.1057* &mdash; Photograph.
+METADATAFROMHOLOTYPER
+*Heleonora ioanae* wb. Ioana.M., YEAR.
+&copy; Ioana Miron or unknown photographer, all rights reserved.
+  * **Page**: 
+  * **SHA2-256**: `3da5e78b8563bbe3a41410e498241465e37ffe88a9e36bd46c51f7e82a4aa528`
+  * **Raw image URLs**
+    * **Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Ioana_Miron3.jpg?v=1720291682>
+    * **IA**: <https://web.archive.org/web/20260408100223/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Ioana_Miron3.jpg?v=1720291682>
+  
+<!-- Template generated with lct01tools and manually filled in by humans! -->
+##### *Heleonora jessae* {#sec-heleonora-jessae}
+***Heleonora jessae*** Lemuria, 2026; first public desc.
+
+**Holotype**: ***Jessa 157.1490*** &mdash; Photograph.
+METADATAFROMHOLOTYPER
+*Heleonora jessae* wb. Jessa.J., YEAR.
+&copy; Jessa Jones or unknown photographer, all rights reserved.
+
+* **Page**: 
+* **SHA2-256**: `833067180a4227f0ee1acb09558c2daf507b65819925bf058c8b52da085d098f`
+* **Raw image URLs**
+  * **Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Jessa_Jones2_650693fb-5b7a-46e7-8c63-ec487bb29e02.jpg?v=1720291686>
+  * **IA**: <https://web.archive.org/web/20260408100606/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Jessa_Jones2_650693fb-5b7a-46e7-8c63-ec487bb29e02.jpg?v=1720291686>
+
+**Diagnosis**: *Heleonora jessae* is characterized by
+
+**Description**:
+
+**Remarks**:
+
+**Etymology**: From
+
+**Specimens examined**:
+
+* Holotype.
+* *Jessa 157.12676* &mdash; Photograph.
+METADATAFROMHOLOTYPER
+*Heleonora jessae* wb. Jessa.J., YEAR.
+&copy; Jessa Jones or unknown photographer, all rights reserved.
+  * **Page**: 
+  * **SHA2-256**: `b448220751bdb1e5f639cd6cb6f2920d31fc23ab77b6e1f8b3a71980b0ff80b6`
+  * **Raw image URLs**
+    * **Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Jessa_Jones6.jpg?v=1720291687>
+    * **IA**: <https://web.archive.org/web/20260408100607/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Jessa_Jones6.jpg?v=1720291687>
+  
+<!-- Template generated with lct01tools and manually filled in by humans! -->
+##### *Heleonora vanhoofae* {#sec-heleonora-vanhoofae}
+***Heleonora vanhoofae*** Lemuria, 2026; first public desc.
+
+**Holotype**: ***Karen 209.1067*** &mdash; Photograph.
+METADATAFROMHOLOTYPER
+*Heleonora vanhoofae* wb. Karen V.H., YEAR.
+&copy; Karen Van Hoof or unknown photographer, all rights reserved.
+
+* **Page**: 
+* **SHA2-256**: `02aafdc7e4b7b3828656eb09e6f27b06c4a3dc1bf0a096b2e994e8b847595cb8`
+* **Raw image URLs**
+  * **Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Karen_Van_Hoof3.jpg?v=1720291688>
+  * **IA**: <https://web.archive.org/web/20260408100526/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Karen_Van_Hoof3.jpg?v=1720291688>
+
+**Diagnosis**: *Heleonora vanhoofae* is characterized by
+
+**Description**:
+
+**Remarks**:
+
+**Etymology**: From
+
+**Specimens examined**:
+
+* Holotype.
+* *Karen 209.1145* &mdash; Photograph.
+METADATAFROMHOLOTYPER
+*Heleonora vanhoofae* wb. Karen V.H., YEAR.
+&copy; Karen Van Hoof or unknown photographer, all rights reserved.
+  * **Page**: 
+  * **SHA2-256**: `dec9990bd1c603cce11ef2d3e92b642de6905fdd57dca9559952a5fb81f0f99f`
+  * **Raw image URLs**
+    * **Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Karen_Van_Hoof6.jpg?v=1720291689>
+    * **IA**: <https://web.archive.org/web/20260408100300/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Karen_Van_Hoof6.jpg?v=1720291689>
+  
+<!-- Template generated with lct01tools and manually filled in by humans! -->
+##### *Heleonora martinae* {#sec-heleonora-martinae}
+***Heleonora martinae*** Lemuria, 2026; first public desc.
+
+**Holotype**: ***Martina 1057.326*** &mdash; Photograph.
+METADATAFROMHOLOTYPER
+*Heleonora martinae* wb. Garofalo, YEAR.
+&copy; Martina Garofalo or unknown photographer, all rights reserved.
+
+* **Page**: 
+* **SHA2-256**: `a9afef4253cd511a34a90e08a9ed98beff31740fdf76aad8f1296cd847cfd3cf`
+* **Raw image URLs**
+  * **Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Martina_Garofalo_6.jpg?v=1720291695>
+  * **IA**: <https://web.archive.org/web/20260408100404/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Martina_Garofalo_6.jpg?v=1720291696>
+
+**Diagnosis**: *Heleonora martinae* is characterized by
+
+**Description**:
+
+**Remarks**:
+
+**Etymology**: From
+
+**Specimens examined**:
+
+* Holotype.
+* *Martina 1057.118* &mdash; Photograph.
+METADATAFROMHOLOTYPER
+*Heleonora martinae* wb. Garofalo, YEAR.
+&copy; Martina Garofalo or unknown photographer, all rights reserved.
+  * **Page**: 
+  * **SHA2-256**: `fc7e7d791bee0d634e75a87d8078d2164542039f5014c7ce1977f4f2c76f3cd3`
+  * **Raw image URLs**
+    * **Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Martina_Garofalo_1.jpg?v=1720291695>
+    * **IA**: <https://web.archive.org/web/20260408100404/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Martina_Garofalo_1.jpg?v=1720291695>
+  
+<!-- Template generated with lct01tools and manually filled in by humans! -->
+##### *Heleonora garciae* {#sec-heleonora-garciae}
+***Heleonora garciae*** Lemuria, 2026; first public desc.
+
+**Holotype**: ***Garcia 290.1709*** &mdash; Photograph.
+METADATAFROMHOLOTYPER
+*Heleonora garciae* wb. Stephanie.G., YEAR.
+&copy; Stephanie Garcia or unknown photographer, all rights reserved.
+
+* **Page**: 
+* **SHA2-256**: `27781e0ed94d748ef0239503aa1fe6af0a2724ca7d67be1eb4e5b44f76897d54`
+* **Raw image URLs**
+  * **Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Stephanie_Garcia20.jpg?v=1720291718>
+  * **IA**: <https://web.archive.org/web/20260408100028/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Stephanie_Garcia20.jpg?v=1720291718>
+
+**Diagnosis**: *Heleonora garciae* is characterized by
+
+**Description**:
+
+**Remarks**:
+
+**Etymology**: From
+
+**Specimens examined**:
+
+* Holotype.
+* *Garcia 290.1711* &mdash; Photograph.
+METADATAFROMHOLOTYPER
+*Heleonora garciae* wb. Stephanie.G., YEAR.
+&copy; Stephanie Garcia or unknown photographer, all rights reserved.
+  * **Page**: 
+  * **SHA2-256**: `14ef77a944aa73506b213d6d4d01056bfc8c5d1543a935f48430e09ac2d5b12e`
+  * **Raw image URLs**
+    * **Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Stephanie_Garcia22.jpg?v=1720291719>
+    * **IA**: <https://web.archive.org/web/20260408100930/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Stephanie_Garcia22.jpg?v=1720291719>
+
+* *Garcia 290.1736* &mdash; Photograph.
+METADATAFROMHOLOTYPER
+*Heleonora garciae* wb. Stephanie.G., YEAR.
+&copy; Stephanie Garcia or unknown photographer, all rights reserved.
+  * **Page**: 
+  * **SHA2-256**: `2bb4734ba0390956aaae8eb5e29bf937e6292dfe3d5267018758284fd9896a23`
+  * **Raw image URLs**
+    * **Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Stephanie_Garcia6.jpg?v=1720291718>
+    * **IA**: <https://web.archive.org/web/20260408095909/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Stephanie_Garcia6.jpg?v=1720291718>
+  
 
 #### *Heleonora* subg. *Elastica*
 ***Heleonora* subgenus *Elastica*** Lemuria, 2026; first public desc.
@@ -457,6 +974,7 @@ lizzia: -->
 **Helarchloidae** Lemuria, 2026; first public desc.
 
 ```{=latex}
+\newpage
 \begin{multicols}{2}
 ```
 
