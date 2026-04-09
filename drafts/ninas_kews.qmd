@@ -61,7 +61,7 @@ The total count of Kew dress taxa now stands at roughly
 Size is typically not considered a relevant morphological character for taxa due to its continuous, non-discrete nature. However, the sale of size ranges of sewing patterns as separate products constitutes discrete phylogenetic information, which is best suited for defining infrageneric taxa. The usage of infrageneric ranks originated in *Heleonora* Lemuria, 2026 (unpublished so far), encompassing the sleeveless variant of the Eleonora by Silversaga Patterns.
 
 ### Taxonomic history
-The large amount of Kew dresses on the Internet threatened to inflate the scope of @lemuria_taxonomy_2026 excessively; as such, we enacted a "species freeze" where new Kew specimens would be reserved for subsequent papers. We continue our research into the Kew dress as part of this paper, describing  NNN new species and NNN subgenera.
+The large amount of Kew dresses on the Internet threatened to inflate the scope of @lemuria_taxonomy_2026 excessively; as such, we enacted a "species freeze" where new Kew specimens would be reserved for subsequent papers. We continue our research into the Kew dress as part of this paper, describing 21 new species and five new subgenera.
 
 When authoring the Kew monograph, we focused primarily on makes of the pattern in the wild as opposed to official product photos, for a variety of reasons, such as not wanting to have the appearance of a reseller catalog^[This concern is a holdover from our internal MediaWiki site, where we embed images more freely than in the *Journal*. The academic paper format of the *Journal* extensively distinguishes it from a reseller listing or catalog.], and the anecdotal observation that third parties produce richer documentation than official product pages.
 
@@ -93,11 +93,11 @@ The first public evidence that Chang-Smith was working on the expansion came in 
 Chang-Smith worked on her expanded ranges in reverse-chronological pattern release order; recruiting testers for the Southbank, Carnaby, and Mayfair in January 2020 [@nlpt_scm]; and later in September, the Kew [@nlpt_kew]. On February 19, 2021, the Kew 16-28 pattern was released.
 
 ## Methods
-The author conducted his research on a computer running Ubuntu 24.04, with the XFCE desktop environment. He used the SHA2-256 algorithms to compute the cryptographic hashes of the photographic specimens he examined for species descriptions. He used Firefox 139.0.4. His monitor is a 55.8 cm (22 in) wide, 30.48 cm (12 in) tall, 63.5 cm (25 in) diagonal monitor, the NVISION S2515-B 25" IPS with a 100Hz refresh rate. He is not colorblind. He is near sighted and wears glasses.
+The lead author conducted his research on a computer running Ubuntu 24.04, with the XFCE desktop environment. He used the SHA2-256 algorithms to compute the cryptographic hashes of the photographic specimens he examined for species descriptions. He used Firefox 139.0.4. His monitor is a 55.8 cm (22 in) wide, 30.48 cm (12 in) tall, 63.5 cm (25 in) diagonal monitor, the NVISION S2515-B 25" IPS with a 100Hz refresh rate. He is not colorblind. He is near sighted and wears glasses.
 
 As our lead author had no Instagram account, he used Imginn, an online service that allows Instagram to be viewed without an account.
 
-To check EXIF metadata, he used ExifTool version 12.76.
+Specimens were collected from Nina Lee's product pages on <https://ninalee.co.uk>. All images were in JPG format. The website uses Shopify as its underlying platform and image storage; EXIF metadata is scarce, and this removal is likely consistent with internal Shopify server-side upload processing code. EXIF metadata was checke d using ExifTool version 12.76.
 
 ### `lct01-notes`
 During work on this paper, the author created a new tool that automatically generates Quarto template text from structured YAML data. This allows the data to exist in a structured format for future processing with other systems, and further improves standardization. Descriptions and remarks remain human-written; with less administrative and menial work comes the opportunity for more creative work.
@@ -279,8 +279,7 @@ EXIF metadata stripped.
 Dorsal view. Hair positioned ventrally.
 *Helikewbellia melalourida* wb. Nina, unknown.
 &copy; Nina Chang-Smith or unknown photographer, all rights reserved.
-
-* **Page**: @kewbello620
+  * **Page**: @kewbello620
   * **SHA2-256**: `22c2db3b17bd839650280e8f4e51a98d75da5021d20c9c5358adc37894a36fa5`
   * **Raw image URLs**
     * **Original**: <https://www.ninalee.co.uk/cdn/shop/files/Nina_Lee_Kewbello_black_straps_back_view_pink_background.jpg?v=1722462174>
@@ -313,7 +312,8 @@ EXIF metadata stripped.
 * *Nina 90387.478* &mdash; Photograph.
 EXIF metadata stripped.
 *Helikewbellia flutteria* wb. Nina, unknown.
-&copy; Nina Chang-Smith or unknown photographer, all rights reserved.  * **Page**: 
+&copy; Nina Chang-Smith or unknown photographer, all rights reserved.
+  * **Page**: 
   * **SHA2-256**: `87425f5d907e3c01382b563e6e276bd506e838159014d2973a6b9d8fb3e79391`
   * **Raw image URLs**
     * **Original**: <https://www.ninalee.co.uk/cdn/shop/files/Nina_Lee_Kewbello_yellow_straps_blue_background_v2.jpg?v=1722462174>
@@ -533,6 +533,8 @@ EXIF metadata stripped.
 ### Genus *Kewisia* {#sec-kewisia}
 ***Kewisia*** Lemuria, 2026
 
+See @lemuria_taxonomy_2026
+
 ### *Kewisia* subg. *Ninae* {#sec-kewisia-subg-ninae}
 ***Kewisia* subg. *Ninae*** Lemuria, 2026; subgen. nov.
 
@@ -724,6 +726,11 @@ Ventral view. Subject holding stick in left hand.
 **Etymology**: From Latin *argenta* ("silver").
 
 **Specimens examined**: See holotype information.
+
+### *Kewthea*
+***Kewthea*** Lemuria, 2026
+
+See @lemuria_taxonomy_2026
 
 ### *Kewthea* subg. *Ninae*
 ***Kewthea* subg. *Ninae*** Lemuria, 2026; subgen. nov.
@@ -995,7 +1002,7 @@ We thank the people of the Coffee Shop on [4d2.org](https://4d2.org), where our 
 
 At publication, the journal did not have a DOI prefix.
 
-Work began on the paper on 2026-03-26 and was published ...
+Work began on the paper on 2026-03-26 and entered the proofreading stage on 2026-04-09. It was published ...
 
 * Visit us at: <https://lct01.lemuria.ph>
 * Version control: <https://github.com/a-random-lemurian/lct01.lemuria.ph>
