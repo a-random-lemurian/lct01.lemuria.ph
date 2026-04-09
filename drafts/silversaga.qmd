@@ -49,7 +49,7 @@ keywords: silversaga, eleonora, sleeveless eleonora, silversaga patterns, sewing
 ```
 
 # Background
-## Jessica Silversaga
+## Jessica Silversaga {#sec-j-silversaga}
 Jessica Silversaga is a Swedish sewing pattern designer, photographer, and sewist. She became interested in sewing after taking a beginner's sewing class. She was continually dissatisfied with patterns available at the time, feeling that they did not fit her body. In her 20s, she began learning to draft patterns.
 
 In late 2018, she launched the slow fashion RTW label Silversaga. Many of the patterns now available through Silversaga Patterns were sold RTW during this period. She produced a single collection yearly and hired an Estonian atelier to produce them in small batches.
@@ -79,40 +79,82 @@ and Ophelia.
 
 These patterns are sold entirely as PDFs with English-language instructions. Patterns are available in sizes EU 34&ndash;54 UK 6&ndash;26, and US 2&ndash;24.
 
-Silversaga's aesthetic is variously described as "romantic minimalism" [@rainey2025]
-
-### Terminology
-We will be referring to Jessica Silversaga by her first name throughout the monograph, to better distinguish her from her company, Silversaga Patterns. She also has the person abbreviation *J.Silversaga* (see @sec-person-abbrs).
-
 The Eleonora comes in two primary variants, sold as two separate patterns; a sleeved variant, known simply as the Eleonora; and a sleeveless variant, sold as the Sleeveless Eleonora.
-
 We will refer to both as the sleeved and sleeveless Eleonora respectively, for clarity; we use the term Eleonora itself to refer to both patterns collectively.
 
 Jessica tests her patterns in one to three rounds, with a total of anywhere from 40 to 70 testers, ranging from EU sizes 34 to 54. [@silversagafaq] With the 15 patterns sold by Silversaga, the species count can be as low as 600, or as high as 1050. The lower bound of 600 is already twice the size of the entire LCT-01.
 
+Silversaga's aesthetic is variously described as "romantic minimalism" [@rainey2025], <!-- TODO: gather more reviews of what people call Silversaga, please... -->
+
+### Terminology
+We will be referring to Jessica Silversaga by her first name throughout the monograph, to better distinguish her from her company, Silversaga Patterns. She also has the person abbreviation *J.Silversaga* (see @sec-person-abbrs).
+
 ## Pattern testers
 In this section, we include brief biographies of some of Silversaga's pattern testers. For person abbreviations, see @sec-person-abbr.
 
+Pattern testers' names were inferred by reading filenames and browsing Instagram, as elaborated on in @sec-materials-and-methods.
+
 <!-- sort these people by last name -->
+
+<!--
+Lynne is the person's middle name,
+Routamaa is the last name but this is less publicly visible
+so we sort by B
+(and even though we publish the last name,
+the title is still Bethany Lynne, so sort by B still)
+-->
 ### Bethany Lynne
-**Bethany Lynne** (<https://www.bethanylynnemakes.com/about/>; Instagram: &commat;[bethanylynne_makes](https://instagram.com/bethanylynne_makes)) is an American sewist from east Texas. She learned sewing and knitting from her mother and grandmother. Though her earliest interests were in painting, she has since diversified to other creative pursuits such as knitting, crocheting, graphic design, quilting, and most taxonomically relevant, sewing. Her earliest me-made garments date back to 2021.
+**Bethany Lynne Routamaa** (<https://www.bethanylynnemakes.com/about/>; Instagram: &commat;[`bethanylynne_makes`{.hash}](https://instagram.com/bethanylynne_makes)) is an American sewist from east Texas. She learned sewing and knitting from her mother and grandmother. Though her earliest interests were in painting, she has since diversified to other creative pursuits such as knitting, crocheting, graphic design, quilting, and most taxonomically relevant, sewing. Her earliest me-made garments date back to 2021.
 
 Bethany has now designed her own patterns; such as the Agnes sweater, Homebody apron, and numerous backpacks, sling bags, and tote bags.
 
-During the early pattern period, Bethany won a copy of five patterns from Silversaga (the entire published collection at the time), which led to the start of her interest in Silversaga. Bethany typically makes garments in EU size 36 [@bethany2025]
+During the early pattern period, Bethany won a copy of five patterns from Silversaga (the entire published collection at the time), which led to the start of her interest in Silversaga. Bethany typically makes garments in EU size 36 [@bethany2025].
 
-**Wearer of**: 9 spp.';
-*Argenteleonora bethanae* (@sec-argenteleonora-bethanae); 
+Her last name, Routamaa, is attested in pattern tester filenames.
+
+<!-- TODO: REPLACE THIS PLACEHOLDER! -->
+**Wearer of**: 9 spp.;
+Genus *Argenteleonora*: *bethanae* (@sec-argenteleonora-bethanae); 
+
+### Lauren Johnson
+**Lauren Johnson** (<https://bouquetbylauren.com/about/>; Instagram: &commat;[`justlaurenjohnson`{.hash}](https://instagram.com/justlaurenjohnson)) is an American sewist and YouTuber from Little Rock, Arkansas. She runs the Bouquet Pattern Co. First covered in the LCT-01 in @lemuria_gunnelaurentia_2026, a description of *Gunnelaurentia johnsonia* Lemuria, 2026. 
+
+**Wearer of**: 1 sp.;
+*Celina laurentia* (@sec-celina-laurentia)
 
 ### Madeleine Salisbury
-**Madeleine Salisbury** (Instagram: &commat;[made_by_madeleine.claire](https://instagram.com/made_by_madeleine.claire)) is an American sewist, originally from New York, now living in Prague, Czech Republic. Salisbury herself was discovered as part of yet-to-be-published taxonomic work on other patterns; specifically the Traveller coat by Bella Loves Patterns.
+**Madeleine Claire Salisbury** (Instagram: &commat;[`made_by_madeleine.claire`{.hash}](https://instagram.com/made_by_madeleine.claire)) is an American sewist, originally from New York, now living in Prague, Czech Republic. Salisbury herself was discovered as part of yet-to-be-published taxonomic work on other patterns; specifically the Traveller coat by Bella Loves Patterns.
 
 Salisbury is one of Jessica's pattern testers; she has tested the Eleonora [@salisbury2024_eleonora; @salisbury2024_eleonora2], the Juliette [@salisbury2024]
 
+<!-- TODO: REPLACE THIS PLACEHOLDER! -->
+**Wearer of**: N spp.;
+Genus *Argenteleonora*: *madeleinae* (@sec-argenteleonora-madeleinae), *madeleinatra* (@sec-argenteleonora-madeleinatra);
+Genus *Julietta*: *madeleinae* (@sec-julietta-madeleinae)
+
 ## Taxonomic remarks
-The hybrid RTW&ndash;home-sewn nature of the taxonomic record of Silversaga garments leads to a taxonomically interesting situation for the LCT-01. In the simplest of cases, RTW taxonomy typically maps the design, colorway, and wearer to the genus, species, and subspecies respectively; while sewing patterns map the design, option (or view), and individual sewist to the family, genus, and species. RTW instances of Silversaga taxa are most easily identifiable by a label that reads Silversaga, positioned slightly inferior to the neckline on the dorsal interior surface.
+The hybrid RTW&ndash;home-sewn nature of the taxonomic record of Silversaga garments leads to a taxonomically interesting situation for the LCT-01.
+
+Silversaga was historically a slow fashion RTW label, as explained in @sec-j-silversaga. After the COVID-19 pandemic led to the label transitioning to patterns, the first home-sewn Silversaga garments arose.
+
+In the simplest of cases, RTW taxonomy typically maps the design, colorway, and wearer to the genus, species, and subspecies respectively; while sewing patterns map the design, option (or view), and individual sewist to the family, genus, and species [@lemuria_general_2026].
+
+The most reliable morphological character identifying Silversaga garment taxa of RTW origin is the presence of a label reading "Silversaga" on the superior medial point of the garment's dorsal interior surface.
 
 As with Nina Lee's Kew dress, extensively taxonomized in prior monographs published in the *Journal*, some of these patterns are classified polyphyletically, due to the dispersion of their morphological diversity across the higher-level taxa of the LCT-01.
+
+### Varieties and forms
+<!-- 
+maybe the LCT-01 will have a formal code by the time this monograph is finished. who knows, really...
+-->
+
+The LCT-01 makes significant use of infrageneric and subspecific taxa, especially in these monographs. We use the subgenus, section, and series, variety, and form in their botanical sense. RTW instances of Silversaga taxa use subspecies. We use the zoological convention for subspecies; unlike botany, we do not use the *subsp.* or *ssp.* particle.
+
+The variety corresponds to individual, often irreversible small variations in the dress, such as fabric modification (e.g. *Argenteleonora bethanae*, @sec-argenteleonora-bethanae; var. *athea* and var. *brunalana*), trimming, or alterations.
+
+The form corresponds to the positioning of the dress on the human body or the status of easily reversible configurations (e.g. button fastening, tied or untied ribbons, or sleeves pulled downward, lateral to the upper arm).
+
+The LCT-01 makes use of the "blessed form" doctrine; for example, a dress such as the Clara can be worn on or off-shoulder. If it were worn off-shoulder, it would be considered part of the class Umerostentida, subclass Alourida; while if it were worn on-shoulder,  Designer intent is that the sleeves are worn on the shoulder, though the product page explicitly acknowledges the off-shoulder configuration (and notes that it is breastfeeding-friendly).
 
 ### Taxonomic history
 Our lead author discovered Silversaga through the American sewist Madeleine Salisbury (Instagram: &commat;[made_by_madeleine.claire](https://instagram.com/made_by_madeleine.claire)).
@@ -129,16 +171,22 @@ as an extra nod to the sewing pattern community......
 
 However, we exclude the Celeste pattern, as its 16 views and 12 pattern hacks included with the pattern lead to a lower bound for 192 taxa, over 2.5&times; the number of genera in the LCT-01 as last counted c. February 2026, ~75. -->
 
-### Materials and methods
+## Materials and methods {#sec-materials-and-methods}
+### Equipment and software
 The author conducted his research on a computer running Ubuntu 24.04, with the XFCE desktop environment. He used the SHA2-256 algorithms to compute the cryptographic hashes of the photographic specimens he examined for species descriptions. He used Firefox 139.0.4. His monitor is a 55.8 cm (22 in) wide, 30.48 cm (12 in) tall, 63.5 cm (25 in) diagonal monitor, the NVISION S2515-B 25" IPS with a 100Hz refresh rate. He is not colorblind. He is near sighted and wears glasses.
 
+### Images
 As our lead author had no Instagram account, he used Imginn, an online service that allows Instagram to be viewed without an account.
 
-Specimens were collected from Silversaga Patterns' website; with a focus on the pattern tester galleries. The Silversaga Patterns website uses Shopify as its underlying platform and image storage; EXIF metadata removal is likely consistent with internal Shopify server-side upload processing code.
+Images were hashed with the SHA2-256 algorithms, using the `sha256sum` utility on his system. The versions of the `sha256sum` and `openssl` utilities on his system at the time of the paper are given in @fig-sha256sum.
+
+Specimens were collected from Silversaga Patterns' website (<https://silversagapatterns.com>); with a focus on the pattern tester galleries. The Silversaga Patterns website uses Shopify as its underlying platform and image storage; EXIF metadata removal is likely consistent with internal Shopify server-side upload processing code.
 
 The images were of exceptionally high quality; resolutions as high as 4000&times;2667 were collected. The majority of the images were in JPG format; some images were stored in the HEIC format.
 
-EXIF metadata was near-universally scarce amongst the Heleonoridae and Argenteleonoridae. To check EXIF metadata, he used ExifTool version 12.76.
+To check EXIF metadata, he used ExifTool version 12.76.
+
+We inferred the approximate dates of some pattern releases, with maximum confidence in the year and month, with absolutely none on the day, by retrieving sitemaps from the Silversaga website, which we include in supplementary data.
 
 <!--
 may need a major update if lct01-notes is further
@@ -148,9 +196,6 @@ refined during the Silversaga monograph
 During work on this paper, the author created a new tool that automatically generates Quarto template text from structured YAML data. This allows the data to exist in a structured format for future processing with other systems, and further improves standardization. Descriptions and remarks remain human-written; with less administrative and menial work comes the opportunity for more creative work.
 
 A paper dedicated solely to this software has not been started, but may be authored someday. YAML files used to generate the template text are provided with the paper. -->
-
-#### Checksums
-The versions of the `sha256sum` and `openssl` utilities on his system at the time of the paper are given in the below terminal output:
 
 ```{=latex}
 \end{multicols}
