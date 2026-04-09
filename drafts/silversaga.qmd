@@ -25,6 +25,8 @@ citation:
   publisher: Lemuria
   # article-id: lict2026.0006
   publisher-place: Philippines
+filters:
+  - hash.lua
 format:
   html:
     format-links: false
