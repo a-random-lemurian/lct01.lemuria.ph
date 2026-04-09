@@ -486,6 +486,93 @@ EXIF metadata stripped.
 ##### *Argenteleonora patriciae* {#sec-argenteleonora-patriciae}
 ***Argenteleonora patriciae*** Lemuria, 2026; first public desc.
 
+**Diagnosis**: *Argenteleonora patriciae* is characterized by its black rayon crepe fabric, an Indian block print in black, cream, gold taupe, and Irish green. Bodice lengthened by 2 in (5.08 cm) and neckline raised by 1 in (2.54 cm).
+
+**Etymology**: From *Patricia* + *-ae*, Latin feminine genitive suffix.
+
+**Specimens examined**
+
+**Holotype**: ***Rainey 17.15090*** &mdash; Photograph.
+3024&times;4032
+*Argenteleonora patriciae* wb. Patricia.R., 2024.
+&copy; Patricia Rainey or unknown photographer, all rights reserved.
+**Page**: @rainey2025;
+**SHA2-256**: `f9429b926183edb3f89a87181d688a9dd72912cb301f55a22303ccd364e49ce5`{.hash};
+**Original**: <https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1dHKRKxf8cgUtT2Yvqy3nJ_drE48a6FTmAmS9YHGYq5jERJ1o4EOMarz9q8ibmHuyVICN_ZxXDbYrZEC4lmGpK0KbsJi6XzP-F_sIH2K-pPzam5PmLKh88OgyW59mFtLN5ugHjKYnz8srx7Wsq8MtY5PII9PfiYc_yFqfBWWOMvEbmp1KO3y9r5R478U3/s0/Picture%201.jpg=s0?imgmax=0>;
+**IA**: <https://web.archive.org/web/20260409070218/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1dHKRKxf8cgUtT2Yvqy3nJ_drE48a6FTmAmS9YHGYq5jERJ1o4EOMarz9q8ibmHuyVICN_ZxXDbYrZEC4lmGpK0KbsJi6XzP-F_sIH2K-pPzam5PmLKh88OgyW59mFtLN5ugHjKYnz8srx7Wsq8MtY5PII9PfiYc_yFqfBWWOMvEbmp1KO3y9r5R478U3/s0/Picture%201.jpg=s0?imgmax=0>;
+
+*Rainey 17.21134* &mdash; Photograph.
+3024&times;4032
+*Argenteleonora patriciae* wb. Patricia.R., 2024.
+&copy; Patricia Rainey or unknown photographer, all rights reserved.
+**Page**: @rainey2025;
+**SHA2-256**: `9c0eba94ee320e8d77cf71881bdd08958d0eb60263d861a11adb2edb7fac7f9e`{.hash};
+**Original**: <https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJgyEfoyufy0LV2ynuIzvePtJ8E_O8686movABhyphenhyphenY3E7gsy59uYiPzEIHFJeKIU9Tp0RXZaPfXrv12CU-1OiNqyn5fWFmB5odbtdMY3Bdb9j1u8uWAfBS_vjdd0yXHLipqarYTtYsw9rxsbLDNOaC1ZcSrD9Jam7QyPi5AU1gr0QlhPrB4mtQ-F1-mWLBd/s0/Picture%202.jpg=s0?imgmax=0>;
+**IA**: <https://web.archive.org/web/20260409070227/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJgyEfoyufy0LV2ynuIzvePtJ8E_O8686movABhyphenhyphenY3E7gsy59uYiPzEIHFJeKIU9Tp0RXZaPfXrv12CU-1OiNqyn5fWFmB5odbtdMY3Bdb9j1u8uWAfBS_vjdd0yXHLipqarYTtYsw9rxsbLDNOaC1ZcSrD9Jam7QyPi5AU1gr0QlhPrB4mtQ-F1-mWLBd/s0/Picture%202.jpg=s0?imgmax=0>;
+  
+*Rainey 17.21167* &mdash; Photograph.
+3024&times;4032
+*Argenteleonora patriciae* wb. Patricia.R., 2024.
+&copy; Patricia Rainey or unknown photographer, all rights reserved.
+**Page**: @rainey2025;
+**SHA2-256**: `ff5dda3d4bee5c846664cdf790278d490b2b4b63e84e3d0a1da1c53ae92f939a`{.hash};
+**Original**: <https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgI7xEsHxAH_esazviAjnH5Q3x6yc4aGuHpMDO5GaDYQ4cuoI4RYPhIl6F5HVAhQky82YuOeOMcukTjjN1wvdmB_QhbG16I5vEY_SYjFI7uW3B0AHojxjwoQnsEOMXtxEz1OjW76UrDwf8r6rQV5ZCFN0A4QSSRPW5yG2umxcdDIx9WRRDvIrSOvsrMHboL/s0/Picture%204.jpg=s0?imgmax=0>;
+**IA**: <https://web.archive.org/web/20260409070230/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgI7xEsHxAH_esazviAjnH5Q3x6yc4aGuHpMDO5GaDYQ4cuoI4RYPhIl6F5HVAhQky82YuOeOMcukTjjN1wvdmB_QhbG16I5vEY_SYjFI7uW3B0AHojxjwoQnsEOMXtxEz1OjW76UrDwf8r6rQV5ZCFN0A4QSSRPW5yG2umxcdDIx9WRRDvIrSOvsrMHboL/s0/Picture%204.jpg=s0?imgmax=0>;
+  
+*Rainey 17.21190* &mdash; Photograph.
+3024&times;4032
+*Argenteleonora patriciae* wb. Patricia.R., 2024.
+&copy; Patricia Rainey or unknown photographer, all rights reserved.
+**Page**: @rainey2025;
+**SHA2-256**: `6412a063856f56bf77d12e9f312a7da7a3185815534a8a800f95f80b44ff5595`{.hash};
+**Original**: <https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHuYQ9l6wRwPWS9hn5-4ucLrU6KeqZhyphenhyphenC31nl03HMF0uvN_6PzjWsjqPuPHrJX00tpmrePsOSvlPAUTrNkVQ47m1gt-MofkepTqFGk_1WkYLNRg2p_C_UfS0DBtx3iNEtIG8jkwJwzjG-shlWpIN6t_fUQvwBi0TANfI3J1R3ynphEQc9n6EdbRdb9dhNw/s0/Picture%205.jpg=s0?imgmax=0>;
+**IA**: <https://web.archive.org/web/20260409070158/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHuYQ9l6wRwPWS9hn5-4ucLrU6KeqZhyphenhyphenC31nl03HMF0uvN_6PzjWsjqPuPHrJX00tpmrePsOSvlPAUTrNkVQ47m1gt-MofkepTqFGk_1WkYLNRg2p_C_UfS0DBtx3iNEtIG8jkwJwzjG-shlWpIN6t_fUQvwBi0TANfI3J1R3ynphEQc9n6EdbRdb9dhNw/s0/Picture%205.jpg=s0?imgmax=0>;
+  
+*Rainey 17.25400* &mdash; Photograph.
+3024&times;4032
+*Argenteleonora patriciae* wb. Patricia.R., 2024.
+&copy; Patricia Rainey or unknown photographer, all rights reserved.
+**Page**: @rainey2025;
+**SHA2-256**: `2e8f2d6c921bc8eb5bcfb3f670c4351100460134350ae5566b56214f6fb431d8`{.hash};
+**Original**: <https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXOx7LbOzdD139kTIyH6x0TyAd3dwlaaxeGcqit5NGaTbaEe6q_m0Ew473VVvMGVE9mlJdfhCCqyY2rY4r-juqkRasD3ZBCH6PYjObI5eXAI8egaR-sf_jgtfq1615VYTApmJRwRkIUrmaZ-LPIC5BhIV89M97jGGj1ZbQPXr33dp99by_KIunzBEQyq-t/s0/Picture%206.jpg=s0?imgmax=0>;
+**IA**: <https://web.archive.org/web/20260409070147/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXOx7LbOzdD139kTIyH6x0TyAd3dwlaaxeGcqit5NGaTbaEe6q_m0Ew473VVvMGVE9mlJdfhCCqyY2rY4r-juqkRasD3ZBCH6PYjObI5eXAI8egaR-sf_jgtfq1615VYTApmJRwRkIUrmaZ-LPIC5BhIV89M97jGGj1ZbQPXr33dp99by_KIunzBEQyq-t/s0/Picture%206.jpg=s0?imgmax=0>;
+  
+*Rainey 17.25463* &mdash; Photograph.
+3024&times;4032.
+*Argenteleonora patriciae* wb. Patricia.R., 2024.
+&copy; Patricia Rainey or unknown photographer, all rights reserved.
+**Page**: @rainey2025;
+**SHA2-256**: `e1d5f12b877d7337a0e92fba7bef1970900556968f6e330ebdec98766bc733ec`{.hash};
+**Original**: <https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtOVXtLRLIKfMqa5UOnwZ8SOPzKqJ7IXUZ6JtIXsMksHBhZxqUxeQWz0C7GReVb0T1DhFv8Zl9c1PmpvaHkqc55gl3b3IO367mME_cIIGv-nGTWq8LFHwtsH3SBynIBlMy-oii-Pz5C-L50cUbwHqeYlwAvxi6gxkQEMos0ROdTM-VG7NVmfM4_N1rxKwe/s0/Picture%207.jpg=s0?imgmax=0>;
+**IA**: <https://web.archive.org/web/20260409070122/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtOVXtLRLIKfMqa5UOnwZ8SOPzKqJ7IXUZ6JtIXsMksHBhZxqUxeQWz0C7GReVb0T1DhFv8Zl9c1PmpvaHkqc55gl3b3IO367mME_cIIGv-nGTWq8LFHwtsH3SBynIBlMy-oii-Pz5C-L50cUbwHqeYlwAvxi6gxkQEMos0ROdTM-VG7NVmfM4_N1rxKwe/s0/Picture%207.jpg=s0?imgmax=0>;
+  
+*Rainey 17.27101* &mdash; Photograph.
+3024&times;4032.
+*Argenteleonora patriciae* wb. Patricia.R., 2024.
+&copy; Patricia Rainey or unknown photographer, all rights reserved.
+**Page**: @rainey2025;
+**SHA2-256**: `f89399a53bc32584ab42fdf85b47753c5cdbf121b9b87822be1bdf055a1a327e`{.hash};
+**Original**: <https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibdvEZ6RwnNIEfxHqtzxaY6yRXXiQ8fv61O4aCXFv515Cl4eZv-PmUEHcj0eIWmBy8Qm45wUG9PuBQz4iFJEFraBhdTFa3eLULi8GKV-Nd7-XPTqrbhgHoncEkrLiSpuks7IvDxOAxhVUCFpudbopuU5qnO5i3QPIvgHuVmL_WjZtfHe0e8Z3GJlX1QXQm/s0/Picture%2013.jpg=s0?imgmax=0>;
+**IA**: <https://web.archive.org/web/20260409070048/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibdvEZ6RwnNIEfxHqtzxaY6yRXXiQ8fv61O4aCXFv515Cl4eZv-PmUEHcj0eIWmBy8Qm45wUG9PuBQz4iFJEFraBhdTFa3eLULi8GKV-Nd7-XPTqrbhgHoncEkrLiSpuks7IvDxOAxhVUCFpudbopuU5qnO5i3QPIvgHuVmL_WjZtfHe0e8Z3GJlX1QXQm/s0/Picture%2013.jpg=s0?imgmax=0>;
+  
+*Rainey 17.27161* &mdash; Photograph.
+3024&times;4032.
+*Argenteleonora patriciae* wb. Patricia.R., 2024.
+&copy; Patricia Rainey or unknown photographer, all rights reserved.
+**Page**: @rainey2025;
+**SHA2-256**: `da641328888bb56232c686852c6657e5c63bbc39306cb389a63e0ae5c6f02cf3`{.hash};
+**Original**: <https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOADu0sRh_zt8JzZ3U9FiM0VZWDNpDOt9rqGlw-PUV8EuNmLjgnmets4eZfllKD-H1naUZogJ1kOpfafs8mgUSs0sVZSRB2qilfG0roru6qpvxmtz6Q25QB9pzYxi_6mKkNilIus3YYk5mABTT_0ANuHG3EtV0x56cScYK0cTnrKAHpqbDqQVQaUPRQOLY/s0/Picture%2015.jpg=s0?imgmax=0>;
+**IA**: <https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOADu0sRh_zt8JzZ3U9FiM0VZWDNpDOt9rqGlw-PUV8EuNmLjgnmets4eZfllKD-H1naUZogJ1kOpfafs8mgUSs0sVZSRB2qilfG0roru6qpvxmtz6Q25QB9pzYxi_6mKkNilIus3YYk5mABTT_0ANuHG3EtV0x56cScYK0cTnrKAHpqbDqQVQaUPRQOLY/s0/Picture%2015.jpg%3Ds0?imgmax=0>;
+
+*Rainey 17.30145* &mdash; Photograph.
+3024&times;4032.
+*Argenteleonora patriciae* wb. Patricia.R., 2024.
+&copy; Patricia Rainey or unknown photographer, all rights reserved.
+**Page**: @rainey2025;
+**SHA2-256**: `d2eb52cfcecd175041e4bd9ee8d7a7af53ea2ba7fcf53debf9731fb1d179a5b8`{.hash};
+**Original**: <https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgD28QTOKpyC2aCMkxtSbm2Mg1GqVFZNtCZFHRQ3N2S6xZVjDJwjIhd2XP_ifCFRbnSpIoJEoeSvHrOLcIrdruInUDQiCpMzTQ5skfupdCQAumI4DiuLnWGm0khMoV__mCSioPsv0ugleV9bk4l_BGfvDTH-nMVY2w5_SST0F3cyLYfJZeugMTrzza8mkye/s0/Picture%2016.jpg=s0?imgmax=0>;
+**IA**: <https://web.archive.org/web/20260409065957/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgD28QTOKpyC2aCMkxtSbm2Mg1GqVFZNtCZFHRQ3N2S6xZVjDJwjIhd2XP_ifCFRbnSpIoJEoeSvHrOLcIrdruInUDQiCpMzTQ5skfupdCQAumI4DiuLnWGm0khMoV__mCSioPsv0ugleV9bk4l_BGfvDTH-nMVY2w5_SST0F3cyLYfJZeugMTrzza8mkye/s0/Picture%2016.jpg=s0?imgmax=0>;
+
 ##### *Argenteleonora katiae* {#sec-argenteleonora-katiae}
 ***Argenteleonora katiae*** Lemuria, 2026; first public desc.
 
