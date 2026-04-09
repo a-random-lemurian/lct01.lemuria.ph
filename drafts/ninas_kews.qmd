@@ -156,12 +156,16 @@ subtree_nodes <- tree@data %>%
   pull(node)
 
 p <- ggtree(tree)
-for (n in subtree_nodes) p <- collapse(p, n, mode = "mixed")
+
+for (n in subtree_nodes) p <- collapse(p, n) + geom_point2(aes(subset=(node==!!n)), shape = 23, size=5, fill='red')
 
 rootTree <- p + geom_tiplab(size = 3) +
-  geom_text(data = td_filter(!isTip), aes(label = label),
-            size = 2, hjust = 1.1, vjust = -0.4, na.rm = TRUE) +
-  hexpand(0.1) + vexpand(0.5)
+  geom_richtext(
+    aes(label = label),
+    data = td_filter(!isTip),
+    size = 2, na.rm = TRUE,
+    fill = 'lightblue', label.color = 'white'
+  ) + vexpand(1)
 
 fig_height <- function(tr) max(3, min(length(tr@phylo$tip.label) * 0.25, 12))
 
@@ -187,6 +191,8 @@ format_species <- function(label) {
 
 for (n in subtree_nodes) {
   subtree <- tidytree::tree_subset(tree, n, levels_back = 0)
+  if (length(subtree@phylo$tip.label) < 2) next 
+  
   root_taxon_node <- as_tibble(tree) |> filter(node == n)
   root_taxon <- root_taxon_node |> pull(label)
   p_sub <- ggtree(subtree) +
@@ -195,9 +201,9 @@ for (n in subtree_nodes) {
       data = td_filter(!isTip),
       aes(label = mapply(format_node_label, label, rank)),
       size = 2, na.rm = TRUE,
-      fill = 'lightgreen', label.color = NA
+      fill = 'lightblue', label.color = NA
     ) +
-    hexpand(0.1) + vexpand(0.5)
+    hexpand(0.3) + vexpand(0.5)
   plots[[length(plots) + 1]] <- list(p = p_sub, w = 12, h = fig_height(subtree), label = root_taxon)
 }
 
