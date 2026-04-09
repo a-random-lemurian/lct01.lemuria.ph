@@ -406,8 +406,82 @@ Domain **Vestimentia** > Kingdom **Abtruncusa** > Phylum **Manubristenta** > Sub
 ***Argenteleonora annettae*** Lemuria, 2026; first public desc.
 
 #### *Argenteleonora* sect. *Duolastica*
+
+<!-- Template generated with lct01tools and manually filled in by humans! -->
 ##### *Argenteleonora bethanae* {#sec-argenteleonora-bethanae}
-***Argenteleonora bethanae*** Lemuria, 2026; first public desc.
+***Argenteleonora bethanae*** Lemuria, 2026
+
+**Diagnosis**: *Argenteleonora bethanae* is characterized by its fabric, a cotton dimity lawn from Lyrical Fabrics, dyed off-white with tea.
+
+**Remarks**: Bethany made the dress in size EU 38 (US 8, UK 10). She cut two skirt panels at the full width of the fabric (55 in; ~139.7 cm), as opposed to the four panels specified by the pattern [@bethany2025, Eleonora Dress].
+
+**Tea fabric**. In April 2024, Bethany dyed *A. bethanae* in tea to diminish its fabric's bright white color to a slight off-white brown. [@bethany2024].
+
+Bethany used 114 packets of English Breakfast black tea from Benner Tea Co, placed in a pot with 3.8 liters of water. Black tea most likely from leaves of *Camellia sinensis* (L.) Kuntze. Tea bags were gradually added to the boiling water, which was steeped for 15 minutes with occasional stirring. A strainer was then used to remove the tea bags. The tea was strained through scrap fabric into a large bowl. Bethany recommends a loosely woven fabric such as cheesecloth for straining, and the use of a stainless steel bowl to prevent tea stains. [@bethany2024].
+
+*A. bethanae* was submerged in a sink with 15 liters of hot water, mixed with five cups (est. 1182.941 ml) of white vinegar, a roughly 15:1 hot water&ndash;vinegar ratio [@bethany2024], which diverged from the 1:4 ratio recommended by @koshimizu2018.
+
+The tea was then poured into a plastic tub, then diluted with three pots (est. 12 liters; fill height unknown) of water. *A. bethanae* was then submerged in the tea. It was pushed deeper into the water to remove air bubbles and swirled continuously for 15 minutes to ensure even dispersion of the tea dye across the dress. The dress was then held over a sink and rinsed with cool water until the water ran clear. [@bethany2024].
+
+In @koshimizu2018, which Bethany cites, the fabric was soaked in a 1:2 ratio of cold water&ndash;vinegar and then rinsed. However, Bethany skipped this step due to insufficient vinegar. The dress was then squeezed and placed on a plastic hanger to dry. The dress was then placed in a gentle wash cycle with a mild detergent and dried in a dryer [@bethany2024].
+
+Bethany wrote her own blog post detailing the process [@bethany2024], and cited a blog post from the *Woodlark Blog* [@koshimizu2018].
+
+The change in color of the fabric is perhaps the first example of anagenesis in the LCT-01.
+
+**Varieties**:
+
+* *A. bethanae* var. *brunathea* &mdash; type variety. From Medieval Latin *bruna* ("brown") + New Latin *thea* ("tea").
+* &dagger;*A. bethanae* var. *athea* &mdash; pre-dyed variant. From Greek *a-* ("no") + New Latin *thea* ("tea"). Rendered extinct by anagenesis into var. *brunathea* as documented in @bethany2024.
+
+<!-- (Forms are used for configurations in which the dress is worn) -->
+
+**Etymology**: From *Bethany* + *-ae*, Latin feminine genitive suffix.
+
+**Specimens examined**
+
+**Holotype**: ***Bethany 108.5716*** &mdash; Photograph.
+3024&times;4032.
+Ventral view. Daytime lighting. Subject standing indoors, window to her right. Partially in shadow. Subject's arms fully adducted, with her right foot stretched out. Hair positioned ventrally.
+*Argenteleonora bethanae* var. *athea* wb. Bethany.L., YEAR.
+&copy; Bethany Lynne or unknown photographer, all rights reserved.
+**Page**: @eleonora_gallery; 
+**SHA2-256**: `a1aef642f44c5bfbb6f8c00a6911e7a32e5df31252e71fd7a4330e4edf90ddf2`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Bethany_Routamaa.jpg?v=1713471765>;
+**IA**: <https://web.archive.org/web/20260408095302/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Bethany_Routamaa.jpg?v=1713471765>
+
+*Bethany 108.1798* &mdash; Photograph.
+3024&times;4032.
+Dorsal view. Daytime lighting. Subject standing indoors, same room as *Bethany 108.5716*, shadow slightly larger. Hair tied and positioned dorsally, running laterally across right scapula. Subject's right arm adducted.
+EXIF metadata stripped.
+*Argenteleonora bethanae* var. *athea* wb. Bethany.L., YEAR. <!-- TODO: year -->
+&copy; Bethany Lynne or unknown photographer, all rights reserved.
+**Page**: @eleonora_gallery;
+**SHA2-256**: `06ea6f6c2a8b08aebdc8475aa43da82767211842ac11b0162b3bba8b9ccc204f`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Bethany_Routamaa2.jpg?v=1713471798>;
+**IA**: <https://web.archive.org/web/20260408095308/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Bethany_Routamaa2.jpg?v=1713471798>
+
+*Bethany 108.1763* &mdash; Photograph.
+2316&times;3088.
+Ventral view, white wall. Apparent light source from subject's right. Truncated view; subject's head not shown.
+EXIF metadata stripped.
+*Argenteleonora bethanae* var. *athea* wb. Bethany.L., YEAR. <!-- TODO: year -->
+&copy; Bethany Lynne or unknown photographer, all rights reserved.
+**Page**: @eleonora_gallery;
+**SHA2-256**: `9d5ed53970c97a161cdccd7835b1ed80b62a6aac2ae4723c22f9d84e92caaf77`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Bethany_Routamaa4.jpg?v=1713471720>;
+**IA**: <https://web.archive.org/web/20260408095300/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Bethany_Routamaa4.jpg?v=1713471720>
+
+*Bethany 108.1902* &mdash; Photograph. 
+1200&times;1600.
+Ventral view, outdoor lighting. Subject's arms fully adducted. Truncated view; area of head superior to lips not shown.
+EXIF metadata stripped. Last-Modified header 2024-04-19. "Encoded with Blend=1 downsampling" Filename `floral-dress-after-dyeing-with-tea.jpg`.
+EXIF metadata stripped.
+*Argenteleonora bethanae* var. *brunathea* wb. Bethany.L., 2024.
+**Page**: @bethany2024
+**SHA2-256**: `4ae10225373623f7c9235d127f345a7395b5a5fd16c0cd5f56e967e49a34fa43`{.hash}
+**Original**: <https://www.bethanylynnemakes.com/wp-content/uploads/2024/04/floral-dress-after-dyeing-with-tea.jpg>;
+**IA**: <https://web.archive.org/web/20260409051700/https://www.bethanylynnemakes.com/wp-content/uploads/2024/04/floral-dress-after-dyeing-with-tea.jpg>
 
 ##### *Argenteleonora patriciae* {#sec-argenteleonora-patriciae}
 ***Argenteleonora patriciae*** Lemuria, 2026; first public desc.
