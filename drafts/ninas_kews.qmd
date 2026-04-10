@@ -46,17 +46,16 @@ keywords: kew dress, kewoidea, kewthidae, helikewidae, nina lee, clothing taxono
 ```
 
 ## Background
+<!-- FINALIZED 2026-04-11 -->
 The Kew dress is now perhaps the most extensively-studied sewing pattern in the LCT-01. Earlier in March 2026, we published a 52-page monograph on the Kew dresses, which laid out the structure of Kew dress taxonomy and described over 47 species [@lemuria_taxonomy_2026].
 
-The total count of Kew dress taxa now stands at roughly
-1 superfamily, 
-8 families, 
-3 subfamilies, 
-3 tribes, 
-18 genera, 
-6 subgenera, and 
-60 species.
-<!-- TODO: RESTART THIS COUNT FROM SCRATCH! -->
+The total count of Kew dress taxa now stands at
+1 superfamily (Kewoidea);
+5 families (Kewidae, Plesikewidae, Helikewidae, Kewthidae, and Kewcasaceae);
+6 subfamilies (Kewbellinae, Kewthinae, Trunkewinae, Helikewinae, Plesikewinae, and Kewasalinae);
+2 tribes (Helikewini, Helikewbellini, Kewthini);
+19 genera (*Kewplicasa*, *Kewparacasa*, *Kewisicasa*, *Kewbellothea*, *Kewpepla*, *Kewthea*, *Kewthicata*, *Trunkewia*, *Helikewbellia*, *Helikewparabola*, *Helikewplicata*, *Helikewabotonia*, *Helikewisia*, *Kewasalia*, *Florankewia*, *Kewabotonia*, *Kewplicata*, *Kewparabola*, *Kewisia*);
+8 subgenera; and 67 species.
 
 Size is typically not considered a relevant morphological character for taxa due to its continuous, non-discrete nature. However, the sale of size ranges of sewing patterns as separate products constitutes discrete phylogenetic information, which is best suited for defining infrageneric taxa. The usage of infrageneric ranks originated in *Heleonora* Lemuria, 2026 (unpublished so far), encompassing the sleeveless variant of the Eleonora by Silversaga Patterns.
 
