@@ -8,30 +8,31 @@ author:
 license: CC BY-SA
 journal:
   title: "Lemuria's (Informal) Journal of Clothing Taxonomy"
-date: 2026-03-31
+date: 2026-04-11
 lang: en
 execute: 
   freeze: true
-# publisher-id: "lict2026.0006"
+publisher-id: lict2026.0008
 abstract: |
-  We build on the monograph of the Kew dresses with additional descriptions for the Kew dress specimens on Nina Lee's product pages; including the first skirt species description in the entire taxonomy, *Kewisicasa laria*. In total, we describe new NNN species and NNN new subgenera.
+  We build on the monograph of the Kew dresses with additional descriptions for the Kew dress specimens on Nina Lee's product pages; including the first skirt species description in the entire taxonomy, *Kewisicasa laria*. In total, we describe 21 new species and six new subgenera; and populate the genus *Kewisicasa* with new specimens.
 bibliography: ninas_kews.bib
 number-sections: true
+doi: 10.5281/zenodo.19466565
 citation:
   author: Lemuria
-  # citation-key: lemuria_kew_2026
   title: "Kew monograph 02: More Kew specimens from Nina's product pages"
-  original-date: 2026-03-31
+  original-date: 2026-04-11
   publisher: Lemuria
-  # article-id: lict2026.0006
+  article-id: lict2026.0008
   publisher-place: Philippines
+  doi: 10.5281/zenodo.19466565
 format:
   html:
     format-links: false
-    # other-links:
-    #   - text: PDF
-    #     href: https://static.lemuria.ph/lct01/pdf/2026/2026.0006_gunnelaurentia_johnsonia.pdf
-    #     icon: file-pdf
+    other-links:
+      - text: PDF
+        href: https://static.lemuria.ph/lct01/pdf/2026/2026.0008_ninas_kews.pdf
+        icon: file-pdf
   aft-pdf:
     toc: true
     toc-depth: 3
@@ -60,7 +61,8 @@ The total count of Kew dress taxa now stands at
 Size is typically not considered a relevant morphological character for taxa due to its continuous, non-discrete nature. However, the sale of size ranges of sewing patterns as separate products constitutes discrete phylogenetic information, which is best suited for defining infrageneric taxa. The usage of infrageneric ranks originated in *Heleonora* Lemuria, 2026 (unpublished so far), encompassing the sleeveless variant of the Eleonora by Silversaga Patterns.
 
 ### Taxonomic history
-The large amount of Kew dresses on the Internet threatened to inflate the scope of @lemuria_taxonomy_2026 excessively; as such, we enacted a "species freeze" where new Kew specimens would be reserved for subsequent papers. We continue our research into the Kew dress as part of this paper, describing 21 new species and five new subgenera.
+<!-- FINALIZED 2026-04-11 -->
+The large amount of Kew dresses on the Internet threatened to inflate the scope of @lemuria_taxonomy_2026 excessively; as such, we enacted a "species freeze" where new Kew specimens would be reserved for subsequent papers. We continue our research into the Kew dress as part of this paper, describing 21 new species, six new subgenera, and one new genus, *Kewisicasa*.
 
 When authoring the Kew monograph, we focused primarily on makes of the pattern in the wild as opposed to official product photos, for a variety of reasons, such as not wanting to have the appearance of a reseller catalog^[This concern is a holdover from our internal MediaWiki site, where we embed images more freely than in the *Journal*. The academic paper format of the *Journal* extensively distinguishes it from a reseller listing or catalog.], and the anecdotal observation that third parties produce richer documentation than official product pages.
 
@@ -69,10 +71,14 @@ Originally, we were unable to identify the wearers of each holotype specimen bey
 Timestamps were also updated based on these posts; we inferred the old timestamps from the `v` variable on Shopify CDN images, which likely do not reflect the image's actual creation date.
 
 ### Terminology
+<!-- FINALIZED 2026-04-11 -->
 The term "expansion" is rather ambiguous in this context, as it can either refer to the Kew dress expansion pack, which adds two skirt options, or to the expanded size range.
 
 Thus, we use four standardized terms for the four Kew patterns.
 
+
+<!-- TODO: Verify that these terms are being used consistently. Tag with "checked for Concern 1" -->
+<!-- CONCERN 1 passed everywhere; turns out the Expansa subgenera just say "size 21 and above" -->
 * Kew 6-20 refers to the "base" Kew pattern, from UK sizes 6 to 20.
 * Kew 16-28 refers to the "base" Kew pattern, from UK sizes 16 to 28.
 * Kew expansion 6-20 refers to the expansion pack, from UK sizes 6 to 20.
@@ -89,9 +95,11 @@ The Kew dress's history is extensively discussed in @lemuria_taxonomy_2026. Here
 
 The first public evidence that Chang-Smith was working on the expansion came in October 2019, when she posted an advertisement looking for a UK size 20 fit model to review her adjusted base size with, before grading. In the advertisement, Chang-Smith specified a model with a bust of ~116 cm (46 in), waist of ~98 cm (39 in), and hip of ~124 cm (49 in)^[Exact measurement methodology unknown. We assume that the waist and hip measurements are that of the body's circumference. Our lead author is male and does not trust himself to make assumptions regarding bust size measurements.] [@changsmith2019].
 
-Chang-Smith worked on her expanded ranges in reverse-chronological pattern release order; recruiting testers for the Southbank, Carnaby, and Mayfair in January 2020 [@nlpt_scm]; and later in September, the Kew [@nlpt_kew]. On February 19, 2021, the Kew 16-28 pattern was released.
+Chang-Smith worked on her expanded ranges in reverse-chronological pattern release order; recruiting testers for the Southbank, Carnaby, and Mayfair in January 2020 [@nlpt_scm]; and later in September, the Kew [@nlpt_kew]. On February 19, 2021, the Kew 16-28 pattern was released. <!-- FIXME: When was Kew 16-28 released, when was Kew expansion 16-28 released? -->
 
 ## Methods
+<!-- FINALIZED 2026-04-11 -->
+<!-- Checked for Concern 1, 2026-04-11; PASS -->
 The lead author conducted his research on a computer running Ubuntu 24.04, with the XFCE desktop environment. He used the SHA2-256 algorithms to compute the cryptographic hashes of the photographic specimens he examined for species descriptions. He used Firefox 139.0.4. His monitor is a 55.8 cm (22 in) wide, 30.48 cm (12 in) tall, 63.5 cm (25 in) diagonal monitor, the NVISION S2515-B 25" IPS with a 100Hz refresh rate. He is not colorblind. He is near sighted and wears glasses.
 
 As our lead author had no Instagram account, he used Imginn, an online service that allows Instagram to be viewed without an account.
@@ -99,11 +107,15 @@ As our lead author had no Instagram account, he used Imginn, an online service t
 Specimens were collected from Nina Lee's product pages on <https://ninalee.co.uk>. All images were in JPG format. The website uses Shopify as its underlying platform and image storage; EXIF metadata is scarce, and this removal is likely consistent with internal Shopify server-side upload processing code. EXIF metadata was checke d using ExifTool version 12.76.
 
 ### `lct01-notes`
+<!-- FINALIZED 2026-04-11 -->
+<!-- Checked for Concern 1, 2026-04-11; PASS -->
 During work on this paper, the author created a new tool that automatically generates Quarto template text from structured YAML data. This allows the data to exist in a structured format for future processing with other systems, and further improves standardization. Descriptions and remarks remain human-written; with less administrative and menial work comes the opportunity for more creative work.
 
-A paper dedicated solely to this software has not been started, but may be authored someday. YAML files used to generate the template text are provided with the paper.
+A paper dedicated solely to this software has not been started, but may be authored someday. The tool was developed during the creation of this paper; as such, not all entries were automatically templated. YAML files used to generate some of the template texts are provided with the paper.
 
 ### Checksums
+<!-- FINALIZED 2026-04-11 -->
+<!-- Checked for Concern 1, 2026-04-11; PASS -->
 The versions of the `sha256sum` and `openssl` utilities on his system at the time of the paper are given in the below terminal output:
 
 ```{=latex}
@@ -131,6 +143,8 @@ A hash of the sha256sum and openssl utilities on the lead author's computer.
 :::
 
 ## Trees
+<!-- FINALIZED 2026-04-11 -->
+<!-- Checked for Concern 1, 2026-04-11; PASS -->
 As previously stated in @lemuria_taxonomy_2026, the hybrid phenetic&ndash;phylogenetic structure of the LCT-01 causes the Kew dresses to scatter polyphyletically across the tree. The updated Kew trees are presented below.
 
 ```{r}
@@ -228,17 +242,20 @@ for (i in seq_along(plots)) {
 ```
 
 ## Descriptions
+<!-- Checked for Concern 1, 2026-04-11; PASS - IRRELEVANT: Helikewbellia is not from the Kew pattern, Kewbello is separate. -->
 ### Genus *Helikewbellia* {#sec-helikewbellia}
+<!-- FINALIZED 2026-04-11 -->
 ***Helikewbellia*** Lemuria, 2026; first public desc.
 
 **Diagnosis**: Phylogenetically, *Helikewbellia* is characterized by origin from the sleeveless variant of the Kewbello pattern; phenetically, the combination of the Kew sleeveless strappy bodice and Portobello trousers; and the presence of a dorsal medial zipper on the bodice. Bilateral ventral darts present from the third button to the bodice&ndash;skirt seam; bilateral sets of three seams at outward flare angle; bilateral pockets.
 
-**Remarks**: There exist two phylogenetic pathways through which a Kewbello may arise; from the Kewbello pattern itself (pathway 1), or an independent recombination of the Kew sleeveless dress bodice and the Portobello trousers, done without referencing the pattern (pathway 2). Pathway 2 remains unattested.
+**Remarks**: There exist two phylogenetic pathways through which a sleeveless Kewbello may arise; from the Kewbello pattern itself (pathway 1), or an independent recombination of the Kew sleeveless dress bodice and the Portobello trousers, done without referencing the pattern (pathway 2). Pathway 2 remains unattested.
 
 **Type species**: *Helikewbellia flutteria* (see @sec-helikewbellia-flutteria)
 
 <!-- Template generated with lct01tools and manually filled in by humans! -->
 ### *Helikewbellia* subg. *Ninae* {#sec-helikewbellia-subg-ninae}
+<!-- FINALIZED 2026-04-11 -->
 ***Helikewbellia* subgenus *Ninae*** Lemuria, 2026
 
 **Diagnosis**: Phylogenetically, *Helikewbellia* subg. *Ninae* is defined by having been created by Nina Chang-Smith.
@@ -250,6 +267,7 @@ for (i in seq_along(plots)) {
 
 <!-- Template generated with lct01tools and manually filled in by humans! -->
 #### *Helikewbellia melalourida* {#sec-helikewbellia-melalourida}
+<!-- FINALIZED 2026-04-11 -->
 ***Helikewbellia melalourida*** Lemuria, 2026
 
 **Holotype**: ***Nina 90381.248*** &mdash; Photograph.
@@ -258,7 +276,7 @@ EXIF metadata stripped.
 Angled ventral view. Subject's arms fully adducted, in pockets; ventral medial button row blends into fabric, visibility impeded.
 &copy; Nina Chang-Smith or unknown photographer, all rights reserved.
 
-* **Page**: 
+* **Page**: @kewbello620
 * **SHA2-256**: `00d5f66d76582d50e753f55b5b7d5c4f197703d159a0777293de27349064418c`
 * **Raw image URLs**
   * **Original**: <https://www.ninalee.co.uk/cdn/shop/files/Nina_Lee_Kewbello_black_straps_side_view_pink_background.jpg?v=1722462174>
@@ -286,6 +304,7 @@ Dorsal view. Hair positioned ventrally.
 
 <!-- Template generated with lct01tools and manually filled in by humans! -->
 #### *Helikewbellia flutteria* {#sec-helikewbellia-flutteria}
+<!-- FINALIZED 2026-04-11 -->
 ***Helikewbellia flutteria*** Lemuria, 2026
 
 **Holotype**: ***Nina 90387.475*** &mdash; Photograph.
@@ -319,11 +338,13 @@ EXIF metadata stripped.
     * **IA**: <https://web.archive.org/web/20260405171750/https://www.ninalee.co.uk/cdn/shop/files/Nina_Lee_Kewbello_yellow_straps_blue_background_v2.jpg?v=1722462174>
 
 ### Genus *Helikewisia*
+<!-- FINALIZED 2026-04-11 -->
 ***Helikewisia*** Lemuria, 2026
 
 See @lemuria_taxonomy_2026.
 
 #### *Helikewisia roseatulipa*
+<!-- FINALIZED 2026-04-11 -->
 ***Helikewisia roseatulipa*** Lemuria, 2026; sp. nov.
 
 **Holotype**: *Kew 74024.100HR* &mdash; Photograph.
@@ -346,6 +367,7 @@ Ventral view. Hair positioned dorsally.
 **Specimens examined**: See holotype information.
 
 #### *Helikewisia amyboria*
+<!-- FINALIZED 2026-04-11 -->
 ***Helikewisia amyboria*** Lemuria, 2026; sp. nov.
 
 **Holotype**: *Kew 9018.1728*, person on left. See @sec-image-specimens.
@@ -357,26 +379,30 @@ Ventral view. Hair positioned dorsally.
 **Specimens examined**: See holotype information.
 
 ### Genus *Kewbellothea* {#sec-kewbellothea}
+<!-- FINALIZED 2026-04-11 -->
 ***Kewbellothea*** Lemuria, 2026; first public desc.
 
 **Diagnosis**: Phylogenetically, *Kewbellothea* is characterized by origin from the sleeved variant of the Kewbello pattern; phenetically, the combination of the Kew tea dress bodice and Portobello trousers; and the presence of a dorsal medial zipper on the bodice. Bilateral ventral darts present from the third button to the bodice&ndash;skirt seam; bilateral sets of three seams at outward flare angle; bilateral pockets.
 
-**Remarks**: There exist two phylogenetic pathways through which a Kewbello may arise; from the Kewbello pattern itself (pathway 1), or an independent recombination of the Kew tea dress bodice and the Portobello trousers, done without referencing the pattern (pathway 2). Pathway 2 remains unattested.
+**Remarks**: There exist two phylogenetic pathways through which a tea dress Kewbello may arise; from the Kewbello pattern itself (pathway 1), or an independent recombination of the Kew tea dress bodice and the Portobello trousers, done without referencing the pattern (pathway 2). Pathway 2 remains unattested.
 
 **Type species**: *Kewbellothea aquacolor* (see @sec-kewbellothea-aquacolor)
 
 ### *Kewbellothea* subg. *Expansa* {#sec-kewbellothea-subg-expansa}
+<!-- Checked for Concern 1, 2026-04-11; PASS -->
+<!-- FINALIZED 2026-04-11 -->
 ***Kewbellothea* subgenus *Expansa*** Lemuria, 2026; subgen. nov.
 
 **Diagnosis**: Phylogenetically, *Kewbellothea* subg. *Expansa* is defined by origin from size 21 and above of the Kewbello pattern. See @kewbello1628.
 
-**Etymology**: From Latin *expansa*, feminine form of *expansus* ("expanded"), referring to the larger size range.
+**Etymology**: From Latin *expansa*, feminine form of *expansus* ("expanded"), referring to the pattern's expanded size range..
 
 <!-- replace taxon with the name of the rank! -->
 **Type species**: *Kewbellothea mottramia* (see @sec-kewbellothea-mottramia)
 
 <!-- Template generated with lct01tools and manually filled in by humans! -->
 #### *Kewbellothea mottramia* {#sec-kewbellothea-mottramia}
+<!-- FINALIZED 2026-04-11 -->
 ***Kewbellothea mottramia*** Lemuria, 2026; sp. nov.
 
 **Holotype**: *Mottram 4958.194* &mdash;
@@ -399,6 +425,7 @@ Ventral view. Subject's arms fully adducted. Hair positioned dorsally, dress uno
 
 <!-- Template generated with lct01tools and manually filled in by humans! -->
 #### *Kewbellothea lavendula* {#sec-kewbellothea-lavendula}
+<!-- FINALIZED 2026-04-11 -->
 ***Kewbellothea lavendula*** Lemuria, 2026; sp. nov.
 
 **Holotype**: *Kewbello 67208.705* &mdash; Photograph.
@@ -421,12 +448,13 @@ Ventral view. Subject's arms embedded in bilateral pockets. Taken outdoors durin
 
 <!-- Template generated with lct01tools and manually filled in by humans! -->
 #### *Kewbellothea rubera* {#sec-kewbellothea-rubera}
+<!-- FINALIZED 2026-04-11 -->
 ***Kewbellothea rubera*** Lemuria, 2026; sp. nov.
 
 **Holotype**: *Kewbello 27874.191* &mdash; Photograph.
 2268&times;3024. EXIF metadata stripped.
 Angled right ventral view. Subject's right arm on lateral end of waist. Hair positioned ventrally. Visibility of ventral medial button row significantly impeded by angle of bodice and pattern camouflage.
-*Kewbellothea rubera* wb. , YEAR.
+*Kewbellothea rubera* wb. unknown.
 &copy;  or unknown photographer, all rights reserved.
 
 * **Page**: @kewbello1628
@@ -455,6 +483,7 @@ Dorsal view. Subject's arms fully adducted. Hair positioned ventrally.
 
 <!-- Template generated with lct01tools and manually filled in by humans! -->
 ### *Kewbellothea* subg. *Ninae* {#sec-kewbellothea-subg-ninae}
+<!-- FINALIZED 2026-04-11 -->
 ***Kewbellothea* subgenus *Ninae*** Lemuria, 2026
 
 **Diagnosis**: Phylogenetically, *Kewbellothea* subg. *Ninae* is defined by having been created by Nina Chang-Smith.
@@ -466,11 +495,12 @@ Dorsal view. Subject's arms fully adducted. Hair positioned ventrally.
 
 <!-- Template generated with lct01tools and manually filled in by humans! -->
 #### *Kewbellothea aquacolor* {#sec-kewbellothea-aquacolor}
+<!-- FINALIZED 2026-04-11 -->
 ***Kewbellothea aquacolor*** Lemuria, 2026; sp. nov.
 
 **Holotype**: ***Nina 90184.113*** &mdash; Photograph.
 3000&times;4114.
-*Kewbellothea aquacolor* wb. Nina.
+*Kewbellothea aquacolor* wb. Nina, unknown.
 &copy; Nina Chang-Smith or unknown photographer, all rights reserved.
 
 * **Page**: @kewbello620
@@ -489,7 +519,7 @@ Dorsal view. Subject's arms fully adducted. Hair positioned ventrally.
 * *Nina 90184.148* &mdash;
 Photograph. 3000&times;4114.
 EXIF metadata stripped.
-*Kewbellothea aquacolor* wb. Nina, YEAR.
+*Kewbellothea aquacolor* wb. Nina, unknown.
 &copy; Nina Chang-Smith or unknown photographer, all rights reserved.
   * **Page**: 
   * **SHA2-256**: `47756822208f53a8ae585e460ae7036811ddf0ab88dc9db7347422cb5876e52f`
@@ -499,7 +529,7 @@ EXIF metadata stripped.
 * *Nina 90184.761* &mdash; Photograph.
 3000&times;4114.
 EXIF metadata stripped.
-*Kewbellothea aquacolor* wb. Nina, YEAR.
+*Kewbellothea aquacolor* wb. Nina, unknown.
 &copy; Nina Chang-Smith or unknown photographer, all rights reserved.
   * **Page**: 
   * **SHA2-256**: `a5676cb8be0f0537dd26f6c02a0bd046212af4b432990817a4e981e422bd0364`
@@ -509,6 +539,7 @@ EXIF metadata stripped.
   
 <!-- Template generated with lct01tools and manually filled in by humans! -->
 #### *Kewbellothea autumna* {#sec-kewbellothea-autumna}
+<!-- FINALIZED 2026-04-11 -->
 ***Kewbellothea autumna*** Lemuria, 2026; sp. nov.
 
 **Holotype**: *Nina 90340.105* &mdash;
@@ -530,11 +561,13 @@ EXIF metadata stripped.
 **Specimens examined**: See holotype information.
 
 ### Genus *Kewisia* {#sec-kewisia}
+<!-- FINALIZED 2026-04-11 -->
 ***Kewisia*** Lemuria, 2026
 
 See @lemuria_taxonomy_2026
 
 ### *Kewisia* subg. *Ninae* {#sec-kewisia-subg-ninae}
+<!-- FINALIZED 2026-04-11 -->
 ***Kewisia* subg. *Ninae*** Lemuria, 2026; subgen. nov.
 
 **Diagnosis**: Phylogenetically, *Kewisia* subg. *Ninae* is defined by origin from Nina Chang-Smith or a close relative.
@@ -542,6 +575,7 @@ See @lemuria_taxonomy_2026
 **Etymology**: *Nina* + *-ae*, feminine genitive suffix.
 
 #### *Kewisia tropiki* {#sec-kewisia-tropiki}
+<!-- FINALIZED 2026-04-11 -->
 ***Kewisia tropiki*** Lemuria, 2026; sp. nov.
 
 **Holotype**: *Nina 2017.013.8377KT* &mdash; Photograph.
@@ -567,6 +601,7 @@ Ventral view. Subject standing at angle. Hair positioned laterally and draping v
 * *Kew 4557.234* (see @sec-image-specimens)
 
 #### *Kewisia roseafolia* {#sec-kewisia-roseafolia}
+<!-- FINALIZED 2026-04-11 -->
 ***Kewisia roseafolia*** Lemuria, 2026; sp. nov.
 
 **Holotype**: *Nina 2017.013.8289KR* &mdash; Photograph.
@@ -589,6 +624,7 @@ Angled ventral view. Subject's hair positioned laterally, obscuring her left str
 **Specimens examined**: See holotype information.
 
 ### Genus *Kewisicasa* {#sec-kewisicasa}
+<!-- FINALIZED 2026-04-11 -->
 ***Kewisicasa*** Lemuria, 2026; gen. nov.
 
 **Type species**: *Kewisicasa laria* (see @sec-kewisicasa-laria)
@@ -598,6 +634,7 @@ Angled ventral view. Subject's hair positioned laterally, obscuring her left str
 **Remarks**: Though we named the genus *Kewisicasa* in @lemuria_taxonomy_2026, we did not formally describe it. We now do so here.
 
 #### *Kewisicasa laria* {#sec-kewisicasa-laria}
+<!-- FINALIZED 2026-04-11 -->
 ***Kewisicasa laria*** Lemuria, 2026; sp. nov.
 
 **Holotype**: *Kew 14201.147KL* &mdash; Photograph.
@@ -633,6 +670,7 @@ Dorsal view. White sleeveless shirt tucked underneath skirt.
     * **IA**: <https://web.archive.org/web/20260327013518/https://www.ninalee.co.uk/cdn/shop/products/Kew-Dress-V3-4.jpg?v=1680151814>
 
 ### *Kewisicasa* subg. *Expansa* {#sec-kewisicasa-subg-expansa}
+<!-- FINALIZED 2026-04-11 -->
 ***Kewisicasa* subg. *Expansa*** Lemuria, 2026; subgen. nov.
 
 **Diagnosis**: Phylogenetically, *Kewisicasa* subg. *Expansa* is defined by origin from size 21 and above of the standalone straight skirt (*Kewisicasa*) variant of the Kew pattern.
@@ -640,6 +678,7 @@ Dorsal view. White sleeveless shirt tucked underneath skirt.
 **Etymology**: From Latin *expansa*, feminine form of *expansus* ("expanded"), referring to the larger size range.
 
 #### *Kewisicasa jessae* {#sec-kewisicasa-jessae}
+<!-- FINALIZED 2026-04-11 -->
 ***Kewisicasa jessae*** Lemuria, 2026; sp. nov.
 
 **Holotype**: *Jess 29081.31.58KJ* &mdash; Photograph.
@@ -660,6 +699,7 @@ Ventral view. Ventral medial button row unobscured. Hair terminates significantl
 **Etymology**: *Jess* + *-ae*, feminine genitive suffix.
 
 #### *Kewisicasa mandia* {#sec-kewisicasa-mandia}
+<!-- FINALIZED 2026-04-11 -->
 ***Kewisicasa mandia*** Lemuria, 2026; sp. nov.
 
 **Holotype**: *Mandy 210535.158.3903KM* &mdash; Photograph. 1658&times;2560. EXIF metadata stripped.
@@ -678,6 +718,7 @@ Ventral view. Subject looking upward. Drape of skirt obscures inferior portion o
 **Etymology**: *Mandy* + *-ia*, feminine abstract noun suffix.
 
 #### *Kewisicasa apprichia* {#sec-kewisicasa-apprichia}
+<!-- FINALIZED 2026-04-11 -->
 ***Kewisicasa apprichia*** Lemuria, 2026; sp. nov.
 
 **Holotype**: *Apprich 48183.493KA* &mdash; Photograph.
@@ -700,6 +741,7 @@ Ventral view.
 **Specimens examined**: See holotype information.
 
 #### *Kewisicasa argenta* {#sec-kewisicasa-argenta}
+<!-- FINALIZED 2026-04-11 -->
 ***Kewisicasa argenta*** Lemuria, 2026; sp. nov.
 
 **Holotype**: *Srebrenka 20180.118KA* &mdash; Photograph.
@@ -719,19 +761,21 @@ Ventral view. Subject holding stick in left hand.
 
 **Remarks**:
 
-* The shape of Croatia appearing on the fabric may be unintentional on the designer's part in designing the fabric, or on Srebrenka's part in choosing a fabric. This may be a form of pareidolia.
+* The shape of Croatia appearing on the fabric may be unintentional on the designer's part in designing the fabric, or on Srebrenka's part in choosing the fabric. This may be a form of pareidolia, further reinforced by our knowledge of Srebrenka's origin from the Balkans.
 * Due to political sensitivities regarding the countries in the Balkans, we are unable to speculate on Srebrenka's home country beyond a general guess of "the Balkans".
 
-**Etymology**: From Latin *argenta* ("silver").
+**Etymology**: From Latin *argenta* ("silver"), from the first fragment of Silverluna's alias, *silver*.
 
 **Specimens examined**: See holotype information.
 
 ### *Kewthea*
+<!-- FINALIZED 2026-04-11 -->
 ***Kewthea*** Lemuria, 2026
 
 See @lemuria_taxonomy_2026
 
 ### *Kewthea* subg. *Ninae*
+<!-- FINALIZED 2026-04-11 -->
 ***Kewthea* subg. *Ninae*** Lemuria, 2026; subgen. nov.
 
 **Diagnosis**: Phylogenetically, *Kewthea* subg. *Ninae* is defined by origin from Nina Chang-Smith or a close relative.
@@ -741,6 +785,7 @@ See @lemuria_taxonomy_2026
 **Specimens examined**: See holotype information.
 
 #### *Kewthea ruberabotonia* {#sec-kewthea-ruberabotonia}
+<!-- FINALIZED 2026-04-11 -->
 ***Kewthea ruberabotonia*** Lemuria, 2026; sp. nov.
 
 **Holotype**: *Kew 4109.187KR* &mdash; Photograph.
@@ -763,6 +808,7 @@ Ventral view. Subject's hair positioned ventrally on her right.
 **Specimens examined**: See holotype information.
 
 #### *Kewthea venetaflora* {#sec-kewthea-venetaflora}
+<!-- FINALIZED 2026-04-11 -->
 ***Kewthea venetaflora*** Lemuria, 2026; sp. nov.
 
 **Holotype**: *Kew 4109.124KV* &mdash; Photograph.
@@ -783,6 +829,7 @@ Angled ventral view. Subject's hair positioned entirely dorsally. Subject facing
 **Specimens examined**: See holotype information.
 
 ### *Kewthea* subg. *Expansa* {#sec-kewthea-subg-expansa}
+<!-- FINALIZED 2026-04-11 -->
 ***Kewthea* subg. *Expansa*** Lemuria, 2026; subgen. nov.
 
 **Diagnosis**: Phylogenetically, *Kewthea* subg. *Expansa* is defined by origin from size 21 and above of the tea dress (Kewthidae) variant of the Kew pattern.
@@ -790,6 +837,7 @@ Angled ventral view. Subject's hair positioned entirely dorsally. Subject facing
 **Etymology**: From Latin *expansa*, feminine form of *expansus* ("expanded"), referring to the larger size range.
 
 #### *Kewthea hawkinsia* {#sec-kewthea-hawkinsia}
+<!-- FINALIZED 2026-04-11 -->
 ***Kewthea hawkinsia*** Lemuria, 2026; sp. nov.
 
 **Holotype**: *Laura 2023.001.1682KH* &mdash;
@@ -812,6 +860,7 @@ Ventral view. Hair positioned ventrally, bilaterally obscuring certain parts of 
 **Specimens examined**: See holotype information.
 
 #### *Kewthea caledonia* {#sec-kewthea-caledonia}
+<!-- FINALIZED 2026-04-11 -->
 ***Kewthea caledonia*** Lemuria, 2026; sp. nov.
 
 **Holotype**: *Emma 2023.001.1402KC* &mdash;
@@ -834,6 +883,7 @@ Ventral view. Indoors. Hair positioned ventrally, bilaterally obscuring certain 
 **Specimens examined**: See holotype information.
 
 #### *Kewthea glaciesedulis* {#sec-kewthea-glaciesedulis}
+<!-- FINALIZED 2026-04-11 -->
 ***Kewthea glaciesedulis*** Lemuria, 2026; sp. nov.
 
 **Holotype**: *Laura 20710.583KG* &mdash;
@@ -856,6 +906,7 @@ Ventral view. Outdoors. Hair positioned ventrally, bilaterally obscuring certain
 **Specimens examined**: See holotype information.
 
 #### *Kewthea eleanorae* {#sec-kewthea-eleanorae}
+<!-- FINALIZED 2026-04-11 -->
 ***Kewthea eleanorae*** Lemuria, 2026; sp. nov.
 
 **Holotype**: *Eleanor 2023.001.8404KE* &mdash;
@@ -877,6 +928,7 @@ EXIF metadata stripped.
 **Specimens examined**: See holotype information.
 
 #### *Kewthea lauraflora* {#sec-kewthea-lauraflora}
+<!-- FINALIZED 2026-04-11 -->
 ***Kewthea lauraflora*** Lemuria, 2026; sp. nov.
 
 **Holotype**: *Laura 2023.001.4901KL* &mdash;
@@ -912,6 +964,8 @@ We were able to infer Silverluna's name as being *Srebrenka Kapica* based on ima
 ## Appendix
 
 ### Person abbreviations
+<!-- CONCERN 3: Ensure we cite all usage of person abbrs and that we listed all the new ones here -->
+<!-- Proofreading completed, no abbrs missed, but I did forget to fill in the year and almost forgot to write unknown in an empty field. -->
 The abbreviations **Nina** for Nina Chang-Smith and **Lemuria** for Lemuria have been defined in @lemuria_taxonomy_2026.
 
 In this paper, we establish the new person abbreviations:
@@ -930,8 +984,11 @@ We establish the new alphanumeric designations:
 * **Mandy** (`W/2026 F10`), wearer of *Kewisicasa mandia*
 
 ### Image specimens {#sec-image-specimens}
-We used the following image specimen numbers:
+We used the following image specimen identifiers:
 
+<!-- CONCERN 2: Ensure we listed all the image identifiers -->
+<!-- I forgot Apprich and Srebrenka, but at least they're here now. Also the 4557.234 alt for Kew 9018.1728 -->
+* *Apprich 48183.493KA*
 * *Eleanor 2023.001.8404KE*
 * *Emma 2023.001.1402KC*
 * *Jess 29081.31.58KJ*
@@ -940,7 +997,7 @@ We used the following image specimen numbers:
 * *Kew 4109.124KV*
 * *Kew 4109.187KR*
 * *Kew 74024.100HR*
-* *Kew 9018.1728*
+* *Kew 9018.1728* (*Kew 4557.234*)
 * *Kewbello 27874.191*
 * *Kewbello 27874.236*
 * *Kewbello 67208.705*
@@ -959,6 +1016,7 @@ We used the following image specimen numbers:
 * *Nina 90381.276*
 * *Nina 90387.475*
 * *Nina 90387.478*
+* *Srebrenka 20180.118KA*
 
 ```{=latex}
 \end{multicols}
@@ -992,16 +1050,21 @@ We thank Nina Lee for her amazing patterns that help bolster a culture of home s
 
 We thank the people of the Coffee Shop on [4d2.org](https://4d2.org), where our lead author has posted fragments of the paper time and time again, for being absolutely wonderful people, and being an extra set of eyes to keep errors shallow under Linus's law; and we thank Sarah, the operator of 4d2, for fostering such a wonderful space.
 
+### Data availability
+Supplementary data, such as the .yml file containing structured data for *Kewbellothea*; and the raw standalone Newick tree, are made available on Zenodo.
+
 ### Information
 *Lemuria's (Informal) Journal of Clothing Taxonomy* is the gray literature journal of the First Lemurian Clothing Taxonomy, a system by Lemuria to assign Latin names to dresses using biological methods. The author, known mononymically as just Lemuria, is an Filipino programmer and independent gray literature researcher from Manila.
 
 **Disclaimer**: *Lemuria's (Informal) Journal of Clothing Taxonomy* is a non-peer-reviewed, single-author, citizen science/gray literature publication with no institutional backing.
 
-<!-- Publisher article ID: 2026.0007 -->
+Publisher article ID: 2026.0008 (intranet: `L78.1098/lict2026.0008`, not for external use)
+
+DOI: [`10.5281/zenodo.19466565`](https://doi.org/10.5281/zenodo.19466565) (provided by Zenodo)
 
 At publication, the journal did not have a DOI prefix.
 
-Work began on the paper on 2026-03-26 and entered the proofreading stage on 2026-04-09. It was published ...
+Work began on the paper on 2026-03-26 and entered the proofreading and minor revision stage on 2026-04-09. It was published on 2026-04-11.
 
 * Visit us at: <https://lct01.lemuria.ph>
 * Version control: <https://github.com/a-random-lemurian/lct01.lemuria.ph>
