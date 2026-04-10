@@ -15,7 +15,7 @@ execute:
 publisher-id: lict2026.0008
 abstract: |
   We build on the monograph of the Kew dresses with additional descriptions for the Kew dress specimens on Nina Lee's product pages; including the first skirt species description in the entire taxonomy, *Kewisicasa laria*. In total, we describe 21 new species and six new subgenera; and populate the genus *Kewisicasa* with new specimens.
-bibliography: ninas_kews.bib
+bibliography: 2026.0008_refs.bib
 number-sections: true
 doi: 10.5281/zenodo.19466565
 citation:
@@ -1058,9 +1058,11 @@ Supplementary data, such as the .yml file containing structured data for *Kewbel
 
 **Disclaimer**: *Lemuria's (Informal) Journal of Clothing Taxonomy* is a non-peer-reviewed, single-author, citizen science/gray literature publication with no institutional backing.
 
-Publisher article ID: 2026.0008 (intranet: `L78.1098/lict2026.0008`, not for external use)
+Publisher article ID: 2026.0008
 
-DOI: [`10.5281/zenodo.19466565`](https://doi.org/10.5281/zenodo.19466565) (provided by Zenodo)
+Intranet: L78.1098/lict2026.0008, not for external use
+
+DOI: [10.5281/zenodo.19466565](https://doi.org/10.5281/zenodo.19466565) (provided by Zenodo)
 
 At publication, the journal did not have a DOI prefix.
 
