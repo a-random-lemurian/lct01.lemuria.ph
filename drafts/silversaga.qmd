@@ -50,18 +50,33 @@ keywords: silversaga, eleonora, sleeveless eleonora, silversaga patterns, sewing
 
 # Background
 ## Jessica Silversaga {#sec-j-silversaga}
-Jessica Silversaga is a Swedish sewing pattern designer, photographer, and sewist. She became interested in sewing after taking a beginner's sewing class. She was continually dissatisfied with patterns available at the time, feeling that they did not fit her body. In her 20s, she began learning to draft patterns.
+Jessica Silversaga (<https://silversagapatterns.com>; Instagram: &commat;[`silversagapatterns`{.hash}](https://instagram.com/silversagapatterns); personal Instagram: &commat;[`jessicasilversaga`{.hash}](https://instagram.com/jessicasilversaga)) is a Swedish photographer, pattern designer, and sewist.
 
-In late 2018, she launched the slow fashion RTW label Silversaga. Many of the patterns now available through Silversaga Patterns were sold RTW during this period. She produced a single collection yearly and hired an Estonian atelier to produce them in small batches.
+In high school, she took journalism & photography; and in 2005, she graduated with a Bachelor of Photography from the Mid Sweden University.
+
+She became interested in sewing after taking a beginner's sewing class. Most patterns and RTW garments available to her were incompatible with her petite frame and smaller cup size. In her late 20s, Silversaga began taking pattern drafting classes in Stockholm.
+
+In late 2018, she launched the slow fashion RTW label Silversaga. Many of the patterns now available through Silversaga Patterns were sold RTW during this period. She designed seven collections on a seasonal schedule; autumn/winter (A/W) 2019, 2021, and 2022; and summer/spring (S/S) 2020, 2021, 2022, and 2023. The dresses were either preproduced in small batches, or made-to-order by an Estonian atelier.
 
 Due to the COVID-19 pandemic, in 2023, she transitioned the business to a pattern label, ceasing sales of RTW garments and switching to selling PDF patterns.
 
+Simon, Jessica's fiancé, joined the company in 2024.
+
 Silversaga's history is split into two primary periods; the slow fashion period (2018&ndash;2023) and pattern period (2023&ndash;present).
 
-Jessica's online presence dates to the early 2000s. WHOIS records show that the domain `silversaga.se` was registered on December 9, 2004. The earliest Wayback Machine captures for her website, <https://silversaga.se> date to 2006, when it was used as a portfolio website for her photography. Based on snapshots, which the Archive took at seemingly random non-consistent intervals, throughout the 2010s she kept a blog in both English and Swedish on the website. It became an e-commerce website c. 2020, two years into the launch of Silversaga, and with the start of the pattern period, the `silversaga.se` domain became a redirect to <https://silversagapatterns.com>.
+### Online presence
+Jessica's online presence dates to the early 2000s. WHOIS records show that the domain `silversaga.se` was registered on December 9, 2004. The earliest Wayback Machine captures for her website, <https://silversaga.se> date to 2006, when it was used as a portfolio website for her photography. Based on snapshots, which the Archive took at seemingly random non-consistent intervals, throughout the 2010s she kept a blog in both English and Swedish on the website.
+
+It became an e-commerce website c. 2020, two years into the launch of Silversaga, and with the start of the pattern period, the `silversaga.se` domain became a redirect to <https://silversagapatterns.com>. The delay is likely due to Silversaga's early commercial activities having taken place on Etsy.
+
+Silversaga's online store uses software from Shopify, a Canadian e-commerce company.
+
+The Shopify instances on both `silversaga.se` and `silversagapatterns.com` are the same. As a result, many holotypes from the RTW period survive to 2026. Though the Internet Archive was unable to fully cover all of `silversaga.se`'s product pages, the images in question are still accessible through Shopify's CDN, and can be archived. An example of these retrieved holotypes is *Silversaga 2022.58*, featuring *Argenteleonora candiga natalia* (<https://cdn.shopify.com/s/files/1/0562/9375/2969/products/SilversagaSS2022_58.jpg?v=1649342524>; see @sec-argenteleonora-candiga),
 
 ### Patterns
-As of April 2026, Silversaga sells 14 sewing patterns; in alphabetical order, they are the
+Jessica's total pattern repertoire is around ~200, as of January 2026 [@silversaga_helpmename].
+
+As of April 2026, only 14 of these patterns are available for purchase through Silversaga Patterns. In alphabetical order, they are the
 Alma,
 Amelie,
 Celeste,
@@ -77,12 +92,23 @@ Juliette,
 Mina,
 and Ophelia.
 
+In 2025, the five most popular patterns were the
+Celine,
+Chloe,
+Eleonora,
+Amelie,
+and Ella.
+
 These patterns are sold entirely as PDFs with English-language instructions. Patterns are available in sizes EU 34&ndash;54 UK 6&ndash;26, and US 2&ndash;24.
+
+Many of these patterns date back to the RTW period, while some, such as the Celeste (April 2026), were new when work began on the monograph.
 
 The Eleonora comes in two primary variants, sold as two separate patterns; a sleeved variant, known simply as the Eleonora; and a sleeveless variant, sold as the Sleeveless Eleonora.
 We will refer to both as the sleeved and sleeveless Eleonora respectively, for clarity; we use the term Eleonora itself to refer to both patterns collectively.
 
-Jessica tests her patterns in one to three rounds, with a total of anywhere from 40 to 70 testers, ranging from EU sizes 34 to 54. [@silversagafaq] With the 15 patterns sold by Silversaga, the species count can be as low as 600, or as high as 1050. The lower bound of 600 is already twice the size of the entire LCT-01.
+Jessica tests her patterns in one to three rounds, with a total of anywhere from 40 to 70 testers, ranging from EU sizes 34 to 54. [@silversagafaq]
+
+Based on these figures, we estimate at least 600&ndash;1,050 extant species across the 15 families. For comparison, the LCT-01 had ~300 species across ~70 genera as of the last count conducted in February.
 
 Silversaga's aesthetic is variously described as "romantic minimalism" [@rainey2025], <!-- TODO: gather more reviews of what people call Silversaga, please... -->
 
