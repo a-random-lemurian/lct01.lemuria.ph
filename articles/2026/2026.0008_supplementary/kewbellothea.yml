@@ -1,0 +1,140 @@
+todo:
+  - crossref with @ninaleelondon to find pattern testers' names
+  - submit URLs to IA with spreadsheet
+wearers:
+  nina: &nina
+    abbr: Nina
+    name: Nina Chang-Smith
+taxa:
+  Kewbellothea:
+    rank: genus
+    describer: Lemuria, 2026
+    taxa:
+      Expansa:
+        rank: subgenus
+        describer: Lemuria, 2026
+        taxa:
+          mottramia:
+            rank: species
+            describer: Lemuria, 2026
+            holotype:
+              - view: ventral
+                name: Mottram 4958.194
+                url: https://www.ninalee.co.uk/cdn/shop/files/NinaLeeKewbelloJumpsuitEleanorMottram.jpg?v=1696062971
+                sha256sum: 3087d2aeeacba1075e2653eaf93d5f5b09f7bc6467a1d696ddb792696f012433
+                ia: https://web.archive.org/web/20260405171751/https://www.ninalee.co.uk/cdn/shop/files/NinaLeeKewbelloJumpsuitEleanorMottram.jpg?v=1696062971
+                wearer:
+                  abbr: Eleanor.M.
+                  name: Eleanor Mottram
+          lavendula:
+            notes: lavender background on fabric
+            rank: species
+            describer: Lemuria, 2026
+            holotype:
+              - view: ventral
+                name: Kewbello 67208.705
+                url: https://www.ninalee.co.uk/cdn/shop/files/image_67208705.jpg?v=1696875452
+                sha256sum: 0623aff976e9cecdc83b18a3a282202b3cc61e5300ecdc51e4b8ecb7977bedeb
+                ia: https://web.archive.org/web/20260405171751/https://www.ninalee.co.uk/cdn/shop/files/image_67208705.jpg?v=1696875452
+                wearer: null
+          rubera:
+            notes: because of red fabric
+            rank: species
+            describer: Lemuria, 2026
+            holotype:
+              - view: ventral
+                name: Kewbello 27874.191
+                url: https://www.ninalee.co.uk/cdn/shop/files/20230910_191020_resized.jpg?v=1696875452
+                sha256sum: 44a7d4f367d05f99db018a2a05fbf073886efca20d4bf1d38fe8d97e73e308a9
+                ia: https://web.archive.org/web/20260405171826/https://www.ninalee.co.uk/cdn/shop/files/20230910_191020_resized.jpg?v=1696875452
+                wearer: null
+            types:
+              - view: dorsal
+                name: Kewbello 27874.236
+                url: https://www.ninalee.co.uk/cdn/shop/files/20230910_190855_resized.jpg?v=1696875452
+                sha256sum: cd6b38f3dd7750cae473f395d6e6ae21807f636e8647c37c9873776988c5d808
+                ia: https://web.archive.org/web/20260405171750/https://www.ninalee.co.uk/cdn/shop/files/20230910_190855_resized.jpg?v=1696875452
+                wearer: null
+      Ninae:
+        rank: subgenus
+        describer: Lemuria, 2026
+        taxa:
+          aquacolor:
+            notes: |
+              "watercolor", because the fabric looks similar
+            rank: species
+            describer: Lemuria, 2026
+            holotype:
+              - view: ventral
+                name: Nina 90184.113
+                url: https://www.ninalee.co.uk/cdn/shop/files/Nina_Lee_Kewbello_with_sleeves_purple_background_v2.jpg?v=1722462174
+                sha256sum: aa9b9813b98b284c9aba1df3deaa3f0d1e430b499674060f1b047ce070eaad05
+                ia: https://web.archive.org/web/20260405171750/https://www.ninalee.co.uk/cdn/shop/files/Nina_Lee_Kewbello_with_sleeves_purple_background_v2.jpg?v=1722462174
+                wearer: *nina
+            types:
+              - view: ventral
+                name: Nina_90184.148
+                url: https://www.ninalee.co.uk/cdn/shop/files/Nina_Lee_Kewbello_with_sleeves_purple_background_c3.jpg
+                sha256sum: 47756822208f53a8ae585e460ae7036811ddf0ab88dc9db7347422cb5876e52f
+                ia: https://web.archive.org/web/20260405171821/https://www.ninalee.co.uk/cdn/shop/files/Nina_Lee_Kewbello_with_sleeves_purple_background_c3.jpg
+                wearer: *nina
+              - view: ventral
+                name: Nina_90184.761
+                url: https://www.ninalee.co.uk/cdn/shop/files/Nina_Lee_Kewbello_with_sleeves_back_view_purple_background_v2.jpg?v=1722462174&width=1100
+                sha256sum: e909a0dcabee4e6abd709876e31ec4d65fa8cc69d400c7eae4d486b9e1082ab4
+                ia: https://web.archive.org/web/20260405171750/https://www.ninalee.co.uk/cdn/shop/files/Nina_Lee_Kewbello_with_sleeves_back_view_purple_background_v2.jpg?v=1722462174&width=1100
+                wearer: *nina
+          autumna:
+            rank: species
+            describer: Lemuria, 2026
+            holotype:
+              - view: ventral
+                name: Nina 90340.105
+                url: https://www.ninalee.co.uk/cdn/shop/files/NinaLeeKewbelloJumpsuitautumnv1.jpg?v=1722462287
+                sha256sum: 274e7dbc7069f80d1cb77451eb2a5a1125578e73901f51e5cf09cee74751200f
+                ia: https://web.archive.org/web/20260405171750/https://www.ninalee.co.uk/cdn/shop/files/NinaLeeKewbelloJumpsuitautumnv1.jpg?v=1722462287
+                wearer: *nina
+  Helikewbellia:
+    rank: genus
+    describer: Lemuria, 2026
+    taxa:
+      Ninae:
+        rank: subgenus
+        describer: Lemuria, 2026
+        taxa:
+          melalourida:
+            notes: blackstraps
+            rank: species
+            describer: Lemuria, 2026
+            holotype:
+              - view: ventral
+                name: Nina 90381.248
+                url: https://www.ninalee.co.uk/cdn/shop/files/Nina_Lee_Kewbello_black_straps_side_view_pink_background.jpg?v=1722462174
+                sha256sum: 00d5f66d76582d50e753f55b5b7d5c4f197703d159a0777293de27349064418c
+                ia: https://web.archive.org/web/20260405171750/https://www.ninalee.co.uk/cdn/shop/files/Nina_Lee_Kewbello_black_straps_side_view_pink_background.jpg?v=1722462174
+                wearer: *nina
+            types:
+              - view: ventral
+                name: Nina 90381.276
+                url: https://www.ninalee.co.uk/cdn/shop/files/Nina_Lee_Kewbello_black_straps_back_view_pink_background.jpg?v=1722462174
+                sha256sum: 22c2db3b17bd839650280e8f4e51a98d75da5021d20c9c5358adc37894a36fa5
+                ia: https://web.archive.org/web/20260405171750/https://www.ninalee.co.uk/cdn/shop/files/Nina_Lee_Kewbello_black_straps_back_view_pink_background.jpg?v=1722462174
+                wearer: *nina
+          flutteria:
+            rank: species
+            describer: Lemuria, 2026
+            notes: flutter sleeve
+            holotype:
+              - view: ventral
+                name: Nina 90387.475
+                url: https://www.ninalee.co.uk/cdn/shop/files/Nina_Lee_Kewbello_yellow_straps_blue_background.jpg?v=1722462244
+                sha256sum: c9483d4b827b26e3f9cd41c381380dbe04ca28b2e8ba2ef41ea097d768242c2e
+                ia: https://web.archive.org/web/20260405171750/https://www.ninalee.co.uk/cdn/shop/files/Nina_Lee_Kewbello_yellow_straps_blue_background.jpg?v=1722462244
+                wearer: *nina
+            types:
+              - view: ventral
+                name: Nina 90387.478
+                url: https://www.ninalee.co.uk/cdn/shop/files/Nina_Lee_Kewbello_yellow_straps_blue_background_v2.jpg?v=1722462174
+                sha256sum: 87425f5d907e3c01382b563e6e276bd506e838159014d2973a6b9d8fb3e79391
+                ia: https://web.archive.org/web/20260405171750/https://www.ninalee.co.uk/cdn/shop/files/Nina_Lee_Kewbello_yellow_straps_blue_background_v2.jpg?v=1722462174
+                wearer: *nina
