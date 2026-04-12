@@ -1287,23 +1287,112 @@ have a similar look to the Truettidae?
 
 **Remarks**: *Heleonora* subsect. *Pseudotruetta* was first developed by Silversaga in October 2025, as a way to replicate the look of the *Truetta* [@silversaga_truett]. That year, the Truett dress from the RTW label Christy Dawn had trended throughout summer, which Silversaga attributed to the contrasting bias binding and ties enabling the showcase of the dress's morphology.
 
-##### *Heleonora truannettae* {#sec-heleonora-truannettae}
-***Heleonora truannettae*** Lemuria, 2026; sp. nov.
-
-**Diagnosis**: 
-
-**Specimens examined**
-
-**Holotype**:
-
 ##### *Heleonora trudemelinae* {#sec-heleonora-trudemelinae}
 ***Heleonora trudemelinae*** Lemuria, 2026; sp. nov.
 
-**Diagnosis**:
+**Taxonomic placement**: Placed in *Heleonora* subsect. *Psuedotruetta*.
+
+**Diagnosis**: *Heleonora trudemelinae* is characterized by its solid dark turquoise bias contrast fabric and a floral fabric, primarily consisting of mostly turquoise flowers, with some purple. Distance between superior and inferior elastic channels vertically narrower compared to *Heleonora* ser. *Annettae* spp.
+
+**Remarks**: Laura Demelin's Instagram account is private. The only accessible holotype rests on Silversaga's website.
 
 **Specimens examined**
 
-**Holotype**:
+**Holotype**: ***Demelin 1090.157*** &mdash; Photograph. 1680&times;1280.
+Collage of two images; left image *Demelin 1090.157.10*, right image *Demelin 1090.157.13*. Left image larger than right. Both images taken outdoors during daytime. Subject in shadow of sun.
+*Heleonora trudemelinae* wb. Laura.Dem., 2025.
+Collage stitched together by Jessica Silversaga. 
+Preferred over original Instagram images due to greater ease of reproducibility and excessively long Instagram CDN URLs, and the private status of Demelin's Instagram account.
+Original photos &copy; Laura Demelin or unknown photographer, 2025, all rights reserved.
+**SHA2-256**: `742911d30c54a12de057e53d12a4ad58f0c505cfabc837d87c1045d3d886d7ce`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Silversaga_Patterns_Eleonora_Dress8_48020f5c-2b16-4a23-9430-703ec3e14cf4.jpg?v=1759270463>;
+**IA**: <https://web.archive.org/web/20260318155812/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Silversaga_Patterns_Eleonora_Dress8_48020f5c-2b16-4a23-9430-703ec3e14cf4.jpg?v=1759270463>
+
+***Demelin 1090.157.10*** &mdash;
+Photograph. Collage fragment of *Demelin 1090.157*.
+Top left pixel coordinate (0, 0); bottom right pixel coordinate (959, 1279).
+Ventral view. Left arm on lateral side of elasticated channels. Right arm fully adducted. Subject leaning slightly to right. Hair positioned dorsally with bilateral single tied strands; left strap slightly obscured by hair.
+*Heleonora trudemelinae* wb. Laura.Dem., 2025.
+&copy; Laura Demelin or unknown photographer, 2025, all rights reserved.
+
+***Demelin 1090.157.13*** &mdash;
+Photograph. Collage fragment of *Demelin 1090.157*.
+Top left pixel coordinate (960, 0); bottom right pixel coordinate (1670, 1279).
+Angled ventral close-up view. Area of head superior to chin truncated, outside of frame.
+Left arm out of frame. Distal right arm out of frame.
+*Heleonora trudemelinae* wb. Laura.Dem., 2025.
+&copy; Laura Demelin or unknown photographer, 2025, all rights reserved.
+
+##### *Heleonora* ser. *Annettae*
+***Heleonora* series *Annettae*** Lemuria, 2026; series nova
+
+**Taxonomic placement**: Placed in *Heleonora* subsect. *Psuedotruetta*.
+
+**Diagnosis**: *Heleonora* ser. *Annettae* is the subset of *Heleonora* subsect. *Psuedotruetta* that encompasses all dresses sewn by Annette, an American sewist. See @sec-annette for biographical information.
+
+##### *Heleonora truannettae* {#sec-heleonora-truannettae}
+***Heleonora truannettae*** Lemuria, 2026; sp. nov.
+
+**Taxonomic placement**: Placed in *Heleonora* ser. *Annettae*.
+
+**Diagnosis**: *Heleonora truannettae* is characterized by its brown color with white dots and diamond-like shapes; from the usage of "topsy turvy" Jamdani cotton from Merchant & Mills as the main fabric, and vintage solid purple washed lawn from Oak Fabrics as the bias contrast fabric. Diamond shapes narrow with transparent diamond-shaped square inset. Two horizontal lines extruding from square diamond to form vague A-shapes.
+
+**Etymology**: 
+<!-- TODO: Fix the order of all fields in all taxa! -->
+
+**Remarks**: Annette's source materials consistently have the typo &ast;Eleanora for the Eleonora dress.
+
+Annette cut the neckline and shoulder ruffle on the grain, as opposed to the bias. Skirt panels were also cut 81.28 cm (32 in) wide due to lack of fabric. 
+
+**Specimens examined**
+
+**Holotype**: ***Annette 6059.148*** &mdash; Photograph. 2160&times;1440.
+Collage of two images; left image *Annette 6059.148.12*, right image *Annette 6059.148.18*. Both fragments 1080&times;1440. Width consistent with Instagram maximum width of 1080px and 4:3 aspect ratio.
+Both images taken indoors, daytime; natural light flowing from subject's right, possible window. Window directly behind subject covered with mostly opaque white curtain. No glare, no overexposure.
+*Heleonora truannettae* wb. Annette of B., 2025.
+Collage stitched together by Jessica Silversaga. 
+Preferred over original Instagram images due to greater ease of reproducibility and excessively long Instagram CDN URLs.
+Original photos &copy; Annette or unknown photographer, 2025, all rights reserved.
+**SHA2-256**: `d6887414c192cf6d6412efd59bf58d8903cfedbd52623a3b2da3597ef20120d3`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Silversaga_Patterns_Eleonora_Dress2_04f6d8c3-bdaf-41dc-b67d-8ab3e5b5cb6d.jpg?v=1759268517>;
+**IA**: <https://web.archive.org/web/20260412144351/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Silversaga_Patterns_Eleonora_Dress2_04f6d8c3-bdaf-41dc-b67d-8ab3e5b5cb6d.jpg?v=1759268517>
+
+***Annette 6059.148.12*** &mdash; Photograph. 1080&times;1440. Collage fragment of *Annette 6059.148*.
+Top left pixel coordinate (0,0); bottom right pixel coordinate (1079, 1440).
+Ventral view. Subject's left arm adducted. Right arm holding out skirt.
+Hair positioned ventrally, obscuring wearer's right strap.
+*Heleonora truannettae* wb. Annette of B., 2025.
+
+***Annette 6059.148.18*** &mdash; Photograph. 1080&times;1440. Collage fragment of *Annette 6059.148*.
+Top left pixel coordinate (1079, 0); bottom right pixel coordinate (2159, 1439).
+Ventral view. Subject facing slightly downward. Subject's left hand on left ear. Right arm holding out skirt.
+Hair positioned ventrally, obscuring wearer's right strap.
+*Heleonora truannettae* wb. Annette of B., 2025.
+
+##### *Heleonora monokhromos* {#sec-heleonora-monokhromos}
+***Heleonora monokhromos*** Lemuria, 2026; sp. nov.
+
+**Taxonomic placement**: Placed in *Heleonora* ser *Annettae*.
+
+**Diagnosis**: *Heleonora monokhromos* is characterized by its solid white main fabric with solid black bias contrast fabric, from Oak Fabrics.
+
+**Remarks**: The tree in the background of the video is possibly a species within *Quercus* L.; though the possible candidates, *Quercus nigra* L.; and *Quercus imbricaria* Michx. 1801 not A.Gray ex A.DC as suggested by image search do not range within Boston, the subject's known location.
+
+**Etymology**: From Ancient Greek μονόχρωμος (*monókhrōmos*; "one color"), from which the English word *monochrome* originated, due to the black and white color scheme of *Heleonora monokhromos*.
+
+**Specimens examined**
+
+**Holotype**: *Annette 6071.240* &mdash; Video. Instagram reel. 720&times;1280. 14.80s. 30 fps, 2672 kb/s.
+Four cuts. First cut: subject walks into frame, faces camera, holding skirt out, before making ~360&deg; twirl. Second cut: subject walks toward camera. Third cut: Subject looks back at camera before turning around to face camera and beginning a twirl. Fourth cut: Subject repeatedly twirls through frame before leaving frame at camera's right side, before video ends. Video taken in forest, during the daytime. Tree in background; no conclusive identification.
+**SHA2-256**: `c8a856780acfe94eff6e8c536210649c939a02287f49f4db9a245e46182dd16c`{.hash} (Video by annette.sews [DMtjYKeOzmE].fdash-4270518743180586v.mp4);
+`526458cb73b953f21cf9d7a2dc9717581cdc6dec69ddfd3dc89b83605cec7873`{.hash} (Video by annette.sews [DMtjYKeOzmE].fdash-728851763264699a.m4a);
+`29aaceb3aec6a3b3ed18b825a685b844ba84f1d1146149825be45eb8b22fbb3d`{.hash} (Video by annette.sews [DMtjYKeOzmE].mp4)
+**Original**: <https://instagram.com/p/DO9E1jcDn_2/>;
+**Imginn**: <https://imginn.com/p/DO9E1jcDn_2/>
+<!--
+**IA**: Files deposited at <>.
+TODO: Have a big long think about whether to reupload to IA.
+-->
 
 ### Family Helargemmidae
 **Helargemmidae** Lemuria, 2026; first public desc.
