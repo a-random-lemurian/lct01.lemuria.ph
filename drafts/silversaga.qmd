@@ -563,7 +563,7 @@ Ventral view. Daytime lighting. Subject standing indoors, window to her right. P
 **Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Bethany_Routamaa.jpg?v=1713471765>;
 **IA**: <https://web.archive.org/web/20260408095302/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Bethany_Routamaa.jpg?v=1713471765>
 
-*Bethany 108.1798* &mdash; Photograph.
+***Bethany 108.1798*** &mdash; Photograph.
 3024&times;4032.
 Dorsal view. Daytime lighting. Subject standing indoors, same room as *Bethany 108.5716*, shadow slightly larger. Hair tied and positioned dorsally, running laterally across right scapula. Subject's right arm adducted.
 EXIF metadata stripped.
@@ -574,7 +574,7 @@ EXIF metadata stripped.
 **Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Bethany_Routamaa2.jpg?v=1713471798>;
 **IA**: <https://web.archive.org/web/20260408095308/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Bethany_Routamaa2.jpg?v=1713471798>
 
-*Bethany 108.1763* &mdash; Photograph.
+***Bethany 108.1763*** &mdash; Photograph.
 2316&times;3088.
 Ventral view, white wall. Apparent light source from subject's right. Truncated view; subject's head not shown.
 EXIF metadata stripped.
@@ -585,7 +585,7 @@ EXIF metadata stripped.
 **Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Bethany_Routamaa4.jpg?v=1713471720>;
 **IA**: <https://web.archive.org/web/20260408095300/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Bethany_Routamaa4.jpg?v=1713471720>
 
-*Bethany 108.1902* &mdash; Photograph. 
+***Bethany 108.1902*** &mdash; Photograph. 
 1200&times;1600.
 Ventral view, outdoor lighting. Subject's arms fully adducted. Truncated view; area of head superior to lips not shown.
 EXIF metadata stripped. Last-Modified header 2024-04-19. "Encoded with Blend=1 downsampling" Filename `floral-dress-after-dyeing-with-tea.jpg`.
@@ -614,7 +614,7 @@ EXIF metadata stripped.
 **Original**: <https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1dHKRKxf8cgUtT2Yvqy3nJ_drE48a6FTmAmS9YHGYq5jERJ1o4EOMarz9q8ibmHuyVICN_ZxXDbYrZEC4lmGpK0KbsJi6XzP-F_sIH2K-pPzam5PmLKh88OgyW59mFtLN5ugHjKYnz8srx7Wsq8MtY5PII9PfiYc_yFqfBWWOMvEbmp1KO3y9r5R478U3/s0/Picture%201.jpg=s0?imgmax=0>;
 **IA**: <https://web.archive.org/web/20260409070218/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1dHKRKxf8cgUtT2Yvqy3nJ_drE48a6FTmAmS9YHGYq5jERJ1o4EOMarz9q8ibmHuyVICN_ZxXDbYrZEC4lmGpK0KbsJi6XzP-F_sIH2K-pPzam5PmLKh88OgyW59mFtLN5ugHjKYnz8srx7Wsq8MtY5PII9PfiYc_yFqfBWWOMvEbmp1KO3y9r5R478U3/s0/Picture%201.jpg=s0?imgmax=0>;
 
-*Rainey 17.21134* &mdash; Photograph.
+***Rainey 17.21134*** &mdash; Photograph.
 3024&times;4032
 *Argenteleonora patriciae* wb. Patricia.R., 2024.
 &copy; Patricia Rainey or unknown photographer, all rights reserved.
@@ -623,7 +623,7 @@ EXIF metadata stripped.
 **Original**: <https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJgyEfoyufy0LV2ynuIzvePtJ8E_O8686movABhyphenhyphenY3E7gsy59uYiPzEIHFJeKIU9Tp0RXZaPfXrv12CU-1OiNqyn5fWFmB5odbtdMY3Bdb9j1u8uWAfBS_vjdd0yXHLipqarYTtYsw9rxsbLDNOaC1ZcSrD9Jam7QyPi5AU1gr0QlhPrB4mtQ-F1-mWLBd/s0/Picture%202.jpg=s0?imgmax=0>;
 **IA**: <https://web.archive.org/web/20260409070227/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJgyEfoyufy0LV2ynuIzvePtJ8E_O8686movABhyphenhyphenY3E7gsy59uYiPzEIHFJeKIU9Tp0RXZaPfXrv12CU-1OiNqyn5fWFmB5odbtdMY3Bdb9j1u8uWAfBS_vjdd0yXHLipqarYTtYsw9rxsbLDNOaC1ZcSrD9Jam7QyPi5AU1gr0QlhPrB4mtQ-F1-mWLBd/s0/Picture%202.jpg=s0?imgmax=0>;
   
-*Rainey 17.21167* &mdash; Photograph.
+***Rainey 17.21167*** &mdash; Photograph.
 3024&times;4032
 *Argenteleonora patriciae* wb. Patricia.R., 2024.
 &copy; Patricia Rainey or unknown photographer, all rights reserved.
@@ -632,7 +632,7 @@ EXIF metadata stripped.
 **Original**: <https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgI7xEsHxAH_esazviAjnH5Q3x6yc4aGuHpMDO5GaDYQ4cuoI4RYPhIl6F5HVAhQky82YuOeOMcukTjjN1wvdmB_QhbG16I5vEY_SYjFI7uW3B0AHojxjwoQnsEOMXtxEz1OjW76UrDwf8r6rQV5ZCFN0A4QSSRPW5yG2umxcdDIx9WRRDvIrSOvsrMHboL/s0/Picture%204.jpg=s0?imgmax=0>;
 **IA**: <https://web.archive.org/web/20260409070230/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgI7xEsHxAH_esazviAjnH5Q3x6yc4aGuHpMDO5GaDYQ4cuoI4RYPhIl6F5HVAhQky82YuOeOMcukTjjN1wvdmB_QhbG16I5vEY_SYjFI7uW3B0AHojxjwoQnsEOMXtxEz1OjW76UrDwf8r6rQV5ZCFN0A4QSSRPW5yG2umxcdDIx9WRRDvIrSOvsrMHboL/s0/Picture%204.jpg=s0?imgmax=0>;
   
-*Rainey 17.21190* &mdash; Photograph.
+***Rainey 17.21190*** &mdash; Photograph.
 3024&times;4032
 *Argenteleonora patriciae* wb. Patricia.R., 2024.
 &copy; Patricia Rainey or unknown photographer, all rights reserved.
@@ -641,7 +641,7 @@ EXIF metadata stripped.
 **Original**: <https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHuYQ9l6wRwPWS9hn5-4ucLrU6KeqZhyphenhyphenC31nl03HMF0uvN_6PzjWsjqPuPHrJX00tpmrePsOSvlPAUTrNkVQ47m1gt-MofkepTqFGk_1WkYLNRg2p_C_UfS0DBtx3iNEtIG8jkwJwzjG-shlWpIN6t_fUQvwBi0TANfI3J1R3ynphEQc9n6EdbRdb9dhNw/s0/Picture%205.jpg=s0?imgmax=0>;
 **IA**: <https://web.archive.org/web/20260409070158/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHuYQ9l6wRwPWS9hn5-4ucLrU6KeqZhyphenhyphenC31nl03HMF0uvN_6PzjWsjqPuPHrJX00tpmrePsOSvlPAUTrNkVQ47m1gt-MofkepTqFGk_1WkYLNRg2p_C_UfS0DBtx3iNEtIG8jkwJwzjG-shlWpIN6t_fUQvwBi0TANfI3J1R3ynphEQc9n6EdbRdb9dhNw/s0/Picture%205.jpg=s0?imgmax=0>;
   
-*Rainey 17.25400* &mdash; Photograph.
+***Rainey 17.25400*** &mdash; Photograph.
 3024&times;4032
 *Argenteleonora patriciae* wb. Patricia.R., 2024.
 &copy; Patricia Rainey or unknown photographer, all rights reserved.
@@ -650,7 +650,7 @@ EXIF metadata stripped.
 **Original**: <https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXOx7LbOzdD139kTIyH6x0TyAd3dwlaaxeGcqit5NGaTbaEe6q_m0Ew473VVvMGVE9mlJdfhCCqyY2rY4r-juqkRasD3ZBCH6PYjObI5eXAI8egaR-sf_jgtfq1615VYTApmJRwRkIUrmaZ-LPIC5BhIV89M97jGGj1ZbQPXr33dp99by_KIunzBEQyq-t/s0/Picture%206.jpg=s0?imgmax=0>;
 **IA**: <https://web.archive.org/web/20260409070147/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXOx7LbOzdD139kTIyH6x0TyAd3dwlaaxeGcqit5NGaTbaEe6q_m0Ew473VVvMGVE9mlJdfhCCqyY2rY4r-juqkRasD3ZBCH6PYjObI5eXAI8egaR-sf_jgtfq1615VYTApmJRwRkIUrmaZ-LPIC5BhIV89M97jGGj1ZbQPXr33dp99by_KIunzBEQyq-t/s0/Picture%206.jpg=s0?imgmax=0>;
   
-*Rainey 17.25463* &mdash; Photograph.
+***Rainey 17.25463*** &mdash; Photograph.
 3024&times;4032.
 *Argenteleonora patriciae* wb. Patricia.R., 2024.
 &copy; Patricia Rainey or unknown photographer, all rights reserved.
@@ -659,7 +659,7 @@ EXIF metadata stripped.
 **Original**: <https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtOVXtLRLIKfMqa5UOnwZ8SOPzKqJ7IXUZ6JtIXsMksHBhZxqUxeQWz0C7GReVb0T1DhFv8Zl9c1PmpvaHkqc55gl3b3IO367mME_cIIGv-nGTWq8LFHwtsH3SBynIBlMy-oii-Pz5C-L50cUbwHqeYlwAvxi6gxkQEMos0ROdTM-VG7NVmfM4_N1rxKwe/s0/Picture%207.jpg=s0?imgmax=0>;
 **IA**: <https://web.archive.org/web/20260409070122/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtOVXtLRLIKfMqa5UOnwZ8SOPzKqJ7IXUZ6JtIXsMksHBhZxqUxeQWz0C7GReVb0T1DhFv8Zl9c1PmpvaHkqc55gl3b3IO367mME_cIIGv-nGTWq8LFHwtsH3SBynIBlMy-oii-Pz5C-L50cUbwHqeYlwAvxi6gxkQEMos0ROdTM-VG7NVmfM4_N1rxKwe/s0/Picture%207.jpg=s0?imgmax=0>;
   
-*Rainey 17.27101* &mdash; Photograph.
+***Rainey 17.27101*** &mdash; Photograph.
 3024&times;4032.
 *Argenteleonora patriciae* wb. Patricia.R., 2024.
 &copy; Patricia Rainey or unknown photographer, all rights reserved.
@@ -668,7 +668,7 @@ EXIF metadata stripped.
 **Original**: <https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibdvEZ6RwnNIEfxHqtzxaY6yRXXiQ8fv61O4aCXFv515Cl4eZv-PmUEHcj0eIWmBy8Qm45wUG9PuBQz4iFJEFraBhdTFa3eLULi8GKV-Nd7-XPTqrbhgHoncEkrLiSpuks7IvDxOAxhVUCFpudbopuU5qnO5i3QPIvgHuVmL_WjZtfHe0e8Z3GJlX1QXQm/s0/Picture%2013.jpg=s0?imgmax=0>;
 **IA**: <https://web.archive.org/web/20260409070048/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibdvEZ6RwnNIEfxHqtzxaY6yRXXiQ8fv61O4aCXFv515Cl4eZv-PmUEHcj0eIWmBy8Qm45wUG9PuBQz4iFJEFraBhdTFa3eLULi8GKV-Nd7-XPTqrbhgHoncEkrLiSpuks7IvDxOAxhVUCFpudbopuU5qnO5i3QPIvgHuVmL_WjZtfHe0e8Z3GJlX1QXQm/s0/Picture%2013.jpg=s0?imgmax=0>;
   
-*Rainey 17.27161* &mdash; Photograph.
+***Rainey 17.27161*** &mdash; Photograph.
 3024&times;4032.
 *Argenteleonora patriciae* wb. Patricia.R., 2024.
 &copy; Patricia Rainey or unknown photographer, all rights reserved.
@@ -677,7 +677,7 @@ EXIF metadata stripped.
 **Original**: <https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOADu0sRh_zt8JzZ3U9FiM0VZWDNpDOt9rqGlw-PUV8EuNmLjgnmets4eZfllKD-H1naUZogJ1kOpfafs8mgUSs0sVZSRB2qilfG0roru6qpvxmtz6Q25QB9pzYxi_6mKkNilIus3YYk5mABTT_0ANuHG3EtV0x56cScYK0cTnrKAHpqbDqQVQaUPRQOLY/s0/Picture%2015.jpg=s0?imgmax=0>;
 **IA**: <https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOADu0sRh_zt8JzZ3U9FiM0VZWDNpDOt9rqGlw-PUV8EuNmLjgnmets4eZfllKD-H1naUZogJ1kOpfafs8mgUSs0sVZSRB2qilfG0roru6qpvxmtz6Q25QB9pzYxi_6mKkNilIus3YYk5mABTT_0ANuHG3EtV0x56cScYK0cTnrKAHpqbDqQVQaUPRQOLY/s0/Picture%2015.jpg%3Ds0?imgmax=0>;
 
-*Rainey 17.30145* &mdash; Photograph.
+***Rainey 17.30145*** &mdash; Photograph.
 3024&times;4032.
 *Argenteleonora patriciae* wb. Patricia.R., 2024.
 &copy; Patricia Rainey or unknown photographer, all rights reserved.
