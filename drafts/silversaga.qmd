@@ -1269,6 +1269,42 @@ METADATAFROMHOLOTYPER
 #### *Heleonora* sect. *Duolastica*
 ***Heleonora* section *Duolastica*** Lemuria, 2026; first public desc.
 
+#### *Heleonora* subsect. *Pseudotruetta*
+***Heleonora* subsection *Psuedotruetta*** Lemuria, 2026; subsectio nova
+
+<!--
+TODO: https://silversagapatterns.com/blogs/atelier/hack-the-pattern-christy-dawn-truett-dress
+
+TODO: What if someone does this hack without explicit intent to
+have a similar look to the Truettidae? 
+  Oh, just realized while writing that sentence. I realized, I'll
+  just define the taxa when it becomes actually attested
+-->
+
+**Diagnosis**: *Heleonora* subsect. *Pseudotruetta* is distinguished from other *Heleonora* spp. phenetically by the presence of contrasting bias binding on the exterior of the dress, rather than the interior; 
+
+*Heleonora* subsect. *Pseudotruetta* is distinguished from *Truetta* (unpublished), the Truett dress from Christy Dawn, by phylogenetic origin from the sleeveless Eleonora pattern. Phenetically, a larger corner radius on the neckline may help distinguish, however, numerous *Heleonora* subsect. *Pseudotruetta* spp. have been sewn with a square shape intentionally closer to the Truett, making this method unreliable. Fabric may be a more reliable indicator; *Truetta* spp. encompass only red and pink fabric prints.
+
+**Remarks**: *Heleonora* subsect. *Pseudotruetta* was first developed by Silversaga in October 2025, as a way to replicate the look of the *Truetta* [@silversaga_truett]. That year, the Truett dress from the RTW label Christy Dawn had trended throughout summer, which Silversaga attributed to the contrasting bias binding and ties enabling the showcase of the dress's morphology.
+
+##### *Heleonora truannettae* {#sec-heleonora-truannettae}
+***Heleonora truannettae*** Lemuria, 2026; sp. nov.
+
+**Diagnosis**: 
+
+**Specimens examined**
+
+**Holotype**:
+
+##### *Heleonora trudemelinae* {#sec-heleonora-trudemelinae}
+***Heleonora trudemelinae*** Lemuria, 2026; sp. nov.
+
+**Diagnosis**:
+
+**Specimens examined**
+
+**Holotype**:
+
 ### Family Helargemmidae
 **Helargemmidae** Lemuria, 2026; first public desc.
 
