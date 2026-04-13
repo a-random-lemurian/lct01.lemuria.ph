@@ -109,17 +109,32 @@ Jessica tests her patterns in one to three rounds, with a total of anywhere from
 
 Based on these figures, we estimate at least 600&ndash;1,050 extant species across the 15 families. For comparison, the LCT-01 had ~300 species across ~70 genera as of the last count conducted in February.
 
-Silversaga's aesthetic is variously described as "romantic minimalism" [@rainey2025], <!-- TODO: gather more reviews of what people call Silversaga, please... -->
+Silversaga's aesthetic is variously described as "romantic minimalism" [@rainey2025], <!-- TODO: gather more reviews of what people call Silversaga, please... --> Silversaga herself frequently uses the adjective "romantic" on many of her product pages.
 
 ### Terminology
 We will be referring to Jessica Silversaga by her first name throughout the monograph, to better distinguish her from her company, Silversaga Patterns. She also has the person abbreviation *J.Silversaga* (see @sec-person-abbrs).
 
-## Pattern testers
-In this section, we include brief biographies of some of Silversaga's pattern testers. For person abbreviations, see @sec-person-abbr.
+## Biographies
+In this section, we include brief biographies of the persons whose garments we cover in the monograph.
 
-Pattern testers' names were inferred by reading filenames and browsing Instagram, as elaborated on in @sec-materials-and-methods.
+For person abbreviations, see @sec-person-abbr.
+
+Most of them are Silversaga's pattern testers. Pattern testers' names were inferred by reading filenames and browsing Instagram, as elaborated on in @sec-materials-and-methods.
 
 <!-- sort these people by last name -->
+
+### Annette {#sec-annette}
+**Annette** (Instagram: &commat;[`annette.sews`](https://instagram.com/annette.sews)) is an American sewist from the greater Boston area.
+<!-- TODO: Is this really relevant info? Kinda smells like undue emphasis here. Will include if there's more information but will drop it if it doesn't become relevant.
+
+She has Korean descent^[Inferred from the South Korean flag emoji on her Instagram profile.]
+-->
+As stated on her Instagram profile, she is 170.18 cm (5 ft 7 in) tall. Bust 78.74 cm (31 in), waist 69.85 cm (27.5 in), hip 91.44 cm (36 in).
+
+**Wearer of**: 2 spp.;
+Genus *Heleonora*:
+*truannettae* (@sec-helenora-truannettae),
+*monokhromos* (@sec-heleonora-monokhromos)
 
 <!--
 Lynne is the person's middle name,
@@ -128,7 +143,7 @@ so we sort by B
 (and even though we publish the last name,
 the title is still Bethany Lynne, so sort by B still)
 -->
-### Bethany Lynne
+### Bethany Lynne {#sec-bethany-lynne}
 **Bethany Lynne Routamaa** (<https://www.bethanylynnemakes.com/about/>; Instagram: &commat;[`bethanylynne_makes`{.hash}](https://instagram.com/bethanylynne_makes)) is an American sewist from east Texas. She learned sewing and knitting from her mother and grandmother. Though her earliest interests were in painting, she has since diversified to other creative pursuits such as knitting, crocheting, graphic design, quilting, and most taxonomically relevant, sewing. Her earliest me-made garments date back to 2021.
 
 Bethany has now designed her own patterns; such as the Agnes sweater, Homebody apron, and numerous backpacks, sling bags, and tote bags.
@@ -141,13 +156,13 @@ Her last name, Routamaa, is attested in pattern tester filenames.
 **Wearer of**: 9 spp.;
 Genus *Argenteleonora*: *bethanae* (@sec-argenteleonora-bethanae); 
 
-### Lauren Johnson
+### Lauren Johnson {#sec-lauren-j}
 **Lauren Johnson** (<https://bouquetbylauren.com/about/>; Instagram: &commat;[`justlaurenjohnson`{.hash}](https://instagram.com/justlaurenjohnson)) is an American sewist and YouTuber from Little Rock, Arkansas. She runs the Bouquet Pattern Co. First covered in the LCT-01 in @lemuria_gunnelaurentia_2026, a description of *Gunnelaurentia johnsonia* Lemuria, 2026. 
 
 **Wearer of**: 1 sp.;
 *Celina laurentia* (@sec-celina-laurentia)
 
-### Madeleine Salisbury
+### Madeleine Salisbury {#sec-madeleine-salisbury}
 **Madeleine Claire Salisbury** (Instagram: &commat;[`made_by_madeleine.claire`{.hash}](https://instagram.com/made_by_madeleine.claire)) is an American sewist, originally from New York, now living in Prague, Czech Republic. Salisbury herself was discovered as part of yet-to-be-published taxonomic work on other patterns; specifically the Traveller coat by Bella Loves Patterns.
 
 Salisbury is one of Jessica's pattern testers; she has tested the Eleonora [@salisbury2024_eleonora; @salisbury2024_eleonora2], the Juliette [@salisbury2024]
@@ -157,18 +172,28 @@ Salisbury is one of Jessica's pattern testers; she has tested the Eleonora [@sal
 Genus *Argenteleonora*: *madeleinae* (@sec-argenteleonora-madeleinae), *madeleinatra* (@sec-argenteleonora-madeleinatra);
 Genus *Julietta*: *madeleinae* (@sec-julietta-madeleinae)
 
-## Taxonomic remarks
+## Taxonomic remarks {#sec-taxonomic-remarks}
 The hybrid RTW&ndash;home-sewn nature of the taxonomic record of Silversaga garments leads to a taxonomically interesting situation for the LCT-01.
 
 Silversaga was historically a slow fashion RTW label, as explained in @sec-j-silversaga. After the COVID-19 pandemic led to the label transitioning to patterns, the first home-sewn Silversaga garments arose.
 
 In the simplest of cases, RTW taxonomy typically maps the design, colorway, and wearer to the genus, species, and subspecies respectively; while sewing patterns map the design, option (or view), and individual sewist to the family, genus, and species [@lemuria_general_2026].
 
-The most reliable morphological character identifying Silversaga garment taxa of RTW origin is the presence of a label reading "Silversaga" on the superior medial point of the garment's dorsal interior surface.
+The most reliable morphological character identifying Silversaga garment taxa of RTW origin is the presence of a label reading "Silversaga"; see @sec-silversaga-label.
 
+### Polyphyletic patterns {#sec-polyphyletic-patterns}
 As with Nina Lee's Kew dress, extensively taxonomized in prior monographs published in the *Journal*, some of these patterns are classified polyphyletically, due to the dispersion of their morphological diversity across the higher-level taxa of the LCT-01.
 
-### Varieties and forms
+In this case, the two patterns classified polyphyletically are the Eleonora and Ella. The sleeved Eleonora falls under the family Argenteleonoridae (@sec-argenteleonoridae), while the sleeveless Eleonora falls under the family Heleonoridae (@sec-heleonoridae).
+
+The Ella has two views: view A with a V-neck, under the family Argentellidae (@sec-argentellidae); and view B with a curved square neckline, under the family Argenkamellidae (@sec-argenkamellidae).
+
+### The physical Silversaga label {#sec-silversaga-label}
+Invariably, all Silversaga garments from the RTW period worn by third parties feature a label. The label is white, with the word "Silversaga" set in all-caps, with spaced letters, and is positioned on the superiormost medial point of the garment's dorsal interior surface.
+
+The presence of the label is considered a reliable indicator of the garment's origin from Jessica herself, and by extension, possible origin from the RTW period. Whether Jessica attaches these labels to her own garments for daily wear or otherwise personal posession is unknown. As such, it may be used to reliably date a garment in a third party's posession from 2018&ndash;2022, and any garment in Jessica's posession from the early 2000s onward,
+
+### Varieties and forms {#sec-var-and-forms}
 <!-- 
 maybe the LCT-01 will have a formal code by the time this monograph is finished. who knows, really...
 -->
@@ -179,9 +204,9 @@ The variety corresponds to individual, often irreversible small variations in th
 
 The form corresponds to the positioning of the dress on the human body or the status of easily reversible configurations (e.g. button fastening, tied or untied ribbons, or sleeves pulled downward, lateral to the upper arm).
 
-The LCT-01 makes use of the "blessed form" doctrine; for example, a dress such as the Clara can be worn on or off-shoulder. If it were worn off-shoulder, it would be considered part of the class Umerostentida, subclass Alourida; while if it were worn on-shoulder,  Designer intent is that the sleeves are worn on the shoulder, though the product page explicitly acknowledges the off-shoulder configuration (and notes that it is breastfeeding-friendly).
+The LCT-01 makes use of the "blessed form" doctrine; for example, a dress such as the Clara can be worn on or off-shoulder. If it were worn off-shoulder, it would be considered part of the class Umerostentida, subclass Alourida; while if it were worn on-shoulder, <!-- FIXME: Figure out where the Clara goes on the tree and then fill this in -->. Designer intent is that the sleeves are worn on the shoulder, though the product page explicitly acknowledges the off-shoulder configuration (and notes that it is breastfeeding-friendly).
 
-### Taxonomic history
+### Taxonomic history {#sec-taxonomic-history}
 Our lead author discovered Silversaga through the American sewist Madeleine Salisbury (Instagram: &commat;[made_by_madeleine.claire](https://instagram.com/made_by_madeleine.claire)).
 
 During the early taxonomization of Jessica's patterns, the LCT-01 began using infrageneric taxa; ranks below genus but above species, such as subgenera and sections, due to the increasing awkwardness of incorporating an increasing amount of characters in the genus name itself. 
@@ -197,10 +222,10 @@ as an extra nod to the sewing pattern community......
 However, we exclude the Celeste pattern, as its 16 views and 12 pattern hacks included with the pattern lead to a lower bound for 192 taxa, over 2.5&times; the number of genera in the LCT-01 as last counted c. February 2026, ~75. -->
 
 ## Materials and methods {#sec-materials-and-methods}
-### Equipment and software
+### Equipment and software {#sec-equipment-and-software}
 The author conducted his research on a computer running Ubuntu 24.04, with the XFCE desktop environment. He used the SHA2-256 algorithms to compute the cryptographic hashes of the photographic specimens he examined for species descriptions. He used Firefox 139.0.4. His monitor is a 55.8 cm (22 in) wide, 30.48 cm (12 in) tall, 63.5 cm (25 in) diagonal monitor, the NVISION S2515-B 25" IPS with a 100Hz refresh rate. He is not colorblind. He is near sighted and wears glasses.
 
-### Images
+### Images {#sec-images}
 As our lead author had no Instagram account, he used Imginn, an online service that allows Instagram to be viewed without an account.
 
 Images were hashed with the SHA2-256 algorithms, using the `sha256sum` utility on his system. The versions of the `sha256sum` and `openssl` utilities on his system at the time of the paper are given in @fig-sha256sum.
