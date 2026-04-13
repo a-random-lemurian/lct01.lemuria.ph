@@ -16,7 +16,7 @@ contributes:
         opts_chunk:
           echo: false
     pdf:
-      classoption: twoside
+      classoption: twoside,twocolumn
       pdf-engine: xelatex
       mainfont: Gentium Book Plus
       sansfont: Noto Sans

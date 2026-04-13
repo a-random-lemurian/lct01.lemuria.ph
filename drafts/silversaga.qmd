@@ -44,10 +44,6 @@ format:
 keywords: silversaga, eleonora, sleeveless eleonora, silversaga patterns, sewing patterns, clothing taxonomy
 ---
 
-```{=latex}
-\begin{multicols}{2}
-```
-
 # Background
 ## Jessica Silversaga {#sec-j-silversaga}
 Jessica Silversaga (<https://silversagapatterns.com>; Instagram: &commat;[`silversagapatterns`{.hash}](https://instagram.com/silversagapatterns); personal Instagram: &commat;[`jessicasilversaga`{.hash}](https://instagram.com/jessicasilversaga)) is a Swedish photographer, pattern designer, and sewist.
@@ -227,7 +223,7 @@ During work on this paper, the author created a new tool that automatically gene
 A paper dedicated solely to this software has not been started, but may be authored someday. YAML files used to generate the template text are provided with the paper. -->
 
 ```{=latex}
-\end{multicols}
+\onecolumn
 ```
 
 ::: {#fig-sha256sum}
@@ -248,9 +244,7 @@ f293048f656688883ee919eb3f4b12926aaa13362de0eb6e3b5716b915b18b35  /usr/bin/sha25
 ```
 
 A hash of the sha256sum and openssl utilities on the lead author's computer.
-:::
 
-::: {#fig-ffmpeg}
 ```
 $ ffmpeg -version
 ffmpeg version 6.1.1-3ubuntu5 Copyright (c) 2000-2023 the FFmpeg developers
@@ -332,7 +326,7 @@ Amelie    -- Amelidae
 -->
 
 ```{=latex}
-\newpage
+\clearpage
 ```
 
 ### Trees
@@ -1443,7 +1437,7 @@ Sleeve gathered across entire length, terminating superior to elbow in an elasti
 
 **Type species**: *Argelisabethia burgundia*
 
-##### *Argelisabethia burgundia*
+##### *Argelisabethia burgundia* {#sec-argelisabethia-burgundia}
 ***Argelisabethia burgundia*** Lemuria, 2026; sp. nov.
 
 **Diagnosis**: *Argelisabethia burgundia* is distinguished by its burgundy fabric.
@@ -1461,7 +1455,7 @@ EXIF metadata stripped.
 Ventral view. Studio lighting against white background.
 Subject's arms mostly adducted, facing right. Hair tied dorsally. Ribbon on belt worn ventrally.
 *Argelisabethia burgundia* wb. unknown, 2021. &copy; Jessica Silversaga or unknown photographer, 2021, all rights reserved.
-**Page**: ;
+**Page**: @elisabethdress;
 **SHA2-256**: `4ae55551fe55e11fdf495e1851428f615f3fea30d98e4c31e872ce1694b6e0b6`{.hash}
 **Original**: <https://silversaga.se/cdn/shop/products/Jessica_Silversaga_FALL2021.jpg?v=1641480593>;
 **IA**: <https://web.archive.org/web/20260409165940/https://silversaga.se/cdn/shop/products/Jessica_Silversaga_FALL2021.jpg?v=1641480593>;
@@ -1472,7 +1466,7 @@ EXIF metadata stripped.
 Ventral view. Studio lighting against white background.
 Subject's left arm positioned dorsally with right arm on chest, obscuring button row. Waist belt not visible; likely detached or placed behind garment.
 *Argelisabethia burgundia* wb. unknown, 2021. &copy; Jessica Silversaga or unknown photographer, 2021, all rights reserved.
-**Page**: ;
+**Page**: @elisabethdress;
 **SHA2-256**: `3b592ca86a316064735ff9877d09c8e864e8aab4ee8ec97d249e0bc1e796689e`{.hash}
 **Original**: <https://silversaga.se/cdn/shop/products/Jessica_Silversaga_FALL2021_4.jpg?v=1641480597>;
 **IA**: <https://web.archive.org/web/20260409170000/https://silversaga.se/cdn/shop/products/Jessica_Silversaga_FALL2021_4.jpg?v=1641480597>;
@@ -1483,7 +1477,7 @@ EXIF metadata stripped.
 Dorsal view. Studio lighting against white background.
 Subject's arms adducted. Hair tied ventrally. Waist belt worn with ribbon positioned at dorsal medial point.
 *Argelisabethia burgundia* wb. unknown, 2021. &copy; Jessica Silversaga or unknown photographer, 2021, all rights reserved.
-**Page**: ;
+**Page**: @elisabethdress;
 **SHA2-256**: `98413f1c50c34647fced776240f664e26d900d4a4c8dd11090f21cf8f164df0a`{.hash}
 **Original**: <https://silversaga.se/cdn/shop/products/Jessica_Silversaga_FALL2021_2-1.jpg?v=1641480595>;
 **IA**: <https://web.archive.org/web/20260409170003/https://silversaga.se/cdn/shop/products/Jessica_Silversaga_FALL2021_2-1.jpg?v=1641480595>;
@@ -1494,9 +1488,8 @@ EXIF metadata stripped.
 Ventral view. Studio lighting against white background.
 Subject's right arm holding skirt out. Left arm unseen. Hair tied ventrally; subject facing to her left, or to the right from camera perspective. Waist belt not worn.
 *Argelisabethia burgundia* wb. unknown, 2021. &copy; Jessica Silversaga or unknown photographer, 2021, all rights reserved.
-**Page**: ;
+**Page**: @elisabethdress;
 **SHA2-256**: `8d017e332b7e4fa64f7356c2664d6aa4e4fd7fcc04590f0606c3391bb42e8294`{.hash}
-
 **Original**: <https://silversaga.se/cdn/shop/products/Jessica_Silversaga_FALL2021_6.jpg?v=1641480599>;
 **IA**: <https://web.archive.org/web/20260409170034/https://silversaga.se/cdn/shop/products/Jessica_Silversaga_FALL2021_6.jpg?v=1641480599>;
 
@@ -1507,8 +1500,8 @@ Ventral view. Studio lighting against white background.
 Truncated ventral view. Subject's left arm on chin and neck. Lateral surface seams <!-- SEAMS. NOT A TYPO! --> visible, though zipper is not.
 Hair entirely out of frame. Waist belt worn, with ribbon at ventral medial point.
 *Argelisabethia burgundia* wb. unknown, 2021. &copy; Jessica Silversaga or unknown photographer, 2021, all rights reserved.
-**Page**: ;
-**SHA2-256**: `600f646f5b8b2db20dbfe037672adc48c71b7a5f3516092cf7b19a530ba8b937`{.hash}
+**Page**: @elisabethdress;
+**SHA2-256**: `600f646f5b8b2db20dbfe037672adc48c71b7a5f3516092cf7b19a530ba8b937`{.hash};
 **Original**: <https://silversaga.se/cdn/shop/products/Jessica_Silversaga_FALL2021_3.jpg?v=1641480591>;
 **IA**: <https://web.archive.org/web/20260409170036/https://silversaga.se/cdn/shop/products/Jessica_Silversaga_FALL2021_3.jpg?v=1641480591>;
 
@@ -1584,7 +1577,7 @@ The name of the Celeste itself was crowdsourced in an Instagram post where Silve
 
 
 ```{=latex}
-\newpage
+\clearpage
 ```
 
 # General remarks
@@ -1648,7 +1641,3 @@ Work began on the paper on 2026-04-08 and was published ...
 
 ::: {#refs}
 :::
-
-```{=latex}
-\end{multicols}
-```
