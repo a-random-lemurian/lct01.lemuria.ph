@@ -461,13 +461,67 @@ Domain **Vestimentia** > Kingdom **Abtruncusa** > Phylum **Manubristenta** > Sub
 
 **Etymology**: From Latin *Suecia* ("Sweden") + *argenta*, feminine form of *argentum* ("silver").
 
-### Family Argenteleonoridae
+### Family Argenteleonoridae {#sec-argenteleonoridae}
 **Argenteleonoridae** Lemuria, 2026; first public desc.
 
-#### Genus *Argenteleonora*
+#### Genus *Argenteleonora* {#sec-argenteleonora}
 ***Argenteleonora*** Lemuria, 2026; first public desc.
 
-#### *Argenteleonora* subg. *Shira*
+**Description**: Curved square neckline, elastic at neck edge. Fabric gathered superior to the neck edge, and at distal end of sleeves. Raglan sleeves, rather voluminous. Two ventral medial ties, one originating at neckline, another roughly at the transpyloric plane. At waist, invariably, one elasticated channel at bodice&ndash;skirt seam. By itself, sect. *Unilastica* (@sec-argenteleonora-sect-unilastica); with option of additional channel directly inferior to bust (sect. *Duolastica*, @sec-argenteleonora-sect-duolastica). Both options under subg. *Elastica*, @sec-argenteleonora-subg-elastica. Cinched bodice with shirring also available (subg. *Shira*, @sec-argenteleonora-subg-shira). Skirt terminates inferior to knee, at medial point between ankle and knee, roughly at mid-calf region, described by Silversaga as midi-length. Skirt flares outward, four panels, with hiden pockets. Seam slightly 1&ndash;2 cm superior to hemline.
+
+**Identification key**
+
+01
+: Shirring present on inferior portion of bodice? Yes (02), no (03)
+
+02
+: Intended to resemble the Dôen Ischia dress (Donischidae, unpublished)? Yes (08), no (09) 
+
+03
+: *Argenteleonora* subg. *Elastica*. Number of elastic channels: one (04), two (05)
+
+04
+: One elastic channel: *Argenteleonora* sect. *Unilastica* (@sec-argenteleonora-sect-unilastica). End.
+
+05
+: Two elastic channels. Number of elastic channels with ties: one (06), two (07).
+
+06
+: One of two elastic channels has tie: *Argenteleonora* sect. *Duolastica* (@sec-argenteleonora-sect-duolastica). End.
+
+07
+: Both elastic channels have ties: *Argenteleonora* subsect. *Duonoda* (@sec-argenteleonora-subsect-duonoda). End.
+
+08
+: Directly under *Argenteleonora* subg. *Shira* (@sec-argenteleonora-subg-shira). End.
+
+09
+: *Argenteleonora* sect. *Plesichia* (@sec-argenteleonora-sect-plesichia). End.
+
+**Alternate key (view-based)**
+
+These provide alternative starting points into the key when classifying based on the three views provided by Silversaga.
+
+100
+: View of Eleonora dress used: A (101), B (102), C (103)
+
+101
+: View A: *Argenteleonora* sect. *Unilastica* (04).
+
+102
+: View B: *Argenteleonora* sect. *Duolastica* (06)
+
+103
+: View C: *Argenteleonora* subg. *Shira* (02)
+
+
+**Remarks**: *Argenteleonora* is the *sensu stricto* genus of the family Argenteleonoridae, covering specimens with the least amount of deviation from the pattern. Silversaga cites the "classic" chemise dress^[Most likely a reference to a general category of dress, rather than a specific brand.] as the inspiration for the Eleonora [@eleonora_gallery].
+
+The sleeved Eleonora dress predates the sewing pattern period; numerous instances of the dress exist that have morphology consistent with RTW, most notably a Silversaga label on the superior medial point of the dress's dorsal interior. This label is by far the most reliable indicator of the RTW period.
+
+The *Argenteleonora* are divided into three views by Silversaga: views A, B, and C. Refer to couplet 100 of identification key.
+
+#### *Argenteleonora* subg. *Shira* {#sec-argenteleonora-subg-shira}
 ***Argenteleonora* subgenus *Shira*** Lemuria, 2026; first public desc.
 
 ##### *Argenteleonora ariae* {#sec-argenteleonora-ariae}
@@ -506,32 +560,55 @@ Domain **Vestimentia** > Kingdom **Abtruncusa** > Phylum **Manubristenta** > Sub
 ##### *Argenteleonora veneta* {#sec-argenteleonora-veneta}
 ***Argenteleonora veneta*** Lemuria, 2026; first public desc.
 
-#### *Argenteleonora* subg. *Elastica*
+#### *Argenteleonora* sect. *Plesichia* {#sec-argenteleonora-sect-plesichia}
+***Argenteleonora* subgenus *Plesichia*** Lemuria, 2026; sectio nova
+
+**Taxonomic placement**: Placed in *Argenteleonora* subg. *Shira*.
+
+#### *Argenteleonora* subg. *Elastica* {#sec-argenteleonora-subg-elastica}
 ***Argenteleonora* subgenus *Elastica*** Lemuria, 2026; first public desc.
 
-#### *Argenteleonora* sect. *Unilastica*
+**Taxonomic placement**: Placed in *Argenteleonora*.
+
+**Diagnosis**: *Argenteleonora* subg. *Elastica* is distinguished from subg. *Shira* by its lack of shirring at the inferior portion of the bodice.
+
+**Identification key**: Start at couplet 3 of *Argenteleonora* key.
+
+#### *Argenteleonora* sect. *Unilastica* {#sec-argenteleonora-sect-unilastica}
 ***Argenteleonora* section *Unilastica*** Lemuria, 2026; first public desc.
+
+**Taxonomic placement**: Placed in *Argenteleonora* subg. *Elastica*.
+
+**Diagnosis**: *Argenteleonora* sect. 
 
 ##### *Argenteleonora annettae* {#sec-argenteleonora-annettae}
 ***Argenteleonora annettae*** Lemuria, 2026; first public desc.
 
-#### *Argenteleonora* sect. *Duolastica*
+<!-- https://silversagapatterns.com/cdn/shop/files/MG_7965.jpg?v=1745088716 -->
+
+#### *Argenteleonora* sect. *Duolastica* {#sec-argenteleonora-sect-duolastica}
+***Argenteleonora* section *Duolastica*** Lemuria, 2026; first public desc.
+
+**Taxonomic placement**: Placed in *Argenteleonora* subg. *Elastica*.
+
+**Diagnosis**: *Argenteleonora* sect. *Duolastica* is characterized by two elastic channels inferior to the bust, and phylogenetically, origin from View B of the Eleonora dress.
 
 <!-- Template generated with lct01tools and manually filled in by humans! -->
 ##### *Argenteleonora bethanae* {#sec-argenteleonora-bethanae}
-***Argenteleonora bethanae*** Lemuria, 2026
+
+***Argenteleonora bethanae*** Lemuria, 2026; first public desc.
 
 **Diagnosis**: *Argenteleonora bethanae* is characterized by its fabric, a cotton dimity lawn from Lyrical Fabrics, dyed off-white with tea.
 
 **Remarks**: Bethany made the dress in size EU 38 (US 8, UK 10). She cut two skirt panels at the full width of the fabric (55 in; ~139.7 cm), as opposed to the four panels specified by the pattern [@bethany2025, Eleonora Dress].
 
-**Tea fabric**. In April 2024, Bethany dyed *A. bethanae* in tea to diminish its fabric's bright white color to a slight off-white brown. [@bethany2024].
+**Tea fabric**. In April 2024, Bethany dyed *Argenteleonora bethanae* in tea to diminish its fabric's bright white color to a slight off-white brown. [@bethany2024].
 
 Bethany used 114 packets of English Breakfast black tea from Benner Tea Co, placed in a pot with 3.8 liters of water. Black tea most likely from leaves of *Camellia sinensis* (L.) Kuntze. Tea bags were gradually added to the boiling water, which was steeped for 15 minutes with occasional stirring. A strainer was then used to remove the tea bags. The tea was strained through scrap fabric into a large bowl. Bethany recommends a loosely woven fabric such as cheesecloth for straining, and the use of a stainless steel bowl to prevent tea stains. [@bethany2024].
 
-*A. bethanae* was submerged in a sink with 15 liters of hot water, mixed with five cups (est. 1182.941 ml) of white vinegar, a roughly 15:1 hot water&ndash;vinegar ratio [@bethany2024], which diverged from the 1:4 ratio recommended by @koshimizu2018.
+*Argenteleonora bethanae* was submerged in a sink with 15 liters of hot water, mixed with five cups (est. 1182.941 ml) of white vinegar, a roughly 15:1 hot water&ndash;vinegar ratio [@bethany2024], which diverged from the 1:4 ratio recommended by @koshimizu2018.
 
-The tea was then poured into a plastic tub, then diluted with three pots (est. 12 liters; fill height unknown) of water. *A. bethanae* was then submerged in the tea. It was pushed deeper into the water to remove air bubbles and swirled continuously for 15 minutes to ensure even dispersion of the tea dye across the dress. The dress was then held over a sink and rinsed with cool water until the water ran clear. [@bethany2024].
+The tea was then poured into a plastic tub, then diluted with three pots (est. 12 liters; fill height unknown) of water. *Argenteleonora bethanae* was then submerged in the tea. It was pushed deeper into the water to remove air bubbles and swirled continuously for 15 minutes to ensure even dispersion of the tea dye across the dress. The dress was then held over a sink and rinsed with cool water until the water ran clear. [@bethany2024].
 
 In @koshimizu2018, which Bethany cites, the fabric was soaked in a 1:2 ratio of cold water&ndash;vinegar and then rinsed. However, Bethany skipped this step due to insufficient vinegar. The dress was then squeezed and placed on a plastic hanger to dry. The dress was then placed in a gentle wash cycle with a mild detergent and dried in a dryer [@bethany2024].
 
@@ -541,8 +618,8 @@ The change in color of the fabric is perhaps the first example of anagenesis in 
 
 **Varieties**:
 
-* *A. bethanae* var. *brunathea* &mdash; type variety. From Medieval Latin *bruna* ("brown") + New Latin *thea* ("tea").
-* &dagger;*A. bethanae* var. *athea* &mdash; pre-dyed variant. From Greek *a-* ("no") + New Latin *thea* ("tea"). Rendered extinct by anagenesis into var. *brunathea* as documented in @bethany2024.
+* *Argenteleonora bethanae* var. *brunathea* &mdash; type variety. From Medieval Latin *bruna* ("brown") + New Latin *thea* ("tea").
+* &dagger;*Argenteleonora bethanae* var. *athea* &mdash; pre-dyed variant. From Greek *a-* ("no") + New Latin *thea* ("tea"). Rendered extinct by anagenesis into var. *brunathea* as documented in @bethany2024.
 
 <!-- (Forms are used for configurations in which the dress is worn) -->
 
