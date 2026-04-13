@@ -79,18 +79,21 @@ Jessica's total pattern repertoire is around ~200, as of January 2026 [@silversa
 As of April 2026, only 14 of these patterns are available for purchase through Silversaga Patterns. In alphabetical order, they are the
 Alma,
 Amelie,
-Celeste,
-Celine,
-Chloe,
-Clara,
-Eleonora,
-Ella,
+Celeste (Celestidae, @sec-celestidae),
+Celine (Celinidae, @sec-celinidae),
+Chloe (Helarchloidae, @sec-helarchloidae),
+Clara (Argenclaridae, @sec-argenclaridae),
+Eleonora (Argenteleonoridae, @sec-argenteleonoridae; Heleonoridae, @sec-heleonoridae),
+Ella (Argenkamellidae, @sec-argenkamellidae; Argentellidae, @sec-argentellidae),
 Elsa,
-Emma,
+Emma (Helargemmidae, @sec-helargemmidae),
 Francesca,
-Juliette,
+Juliette (Juliettidae, @sec-juliettidae),
 Mina,
 and Ophelia.
+
+Some patterns have been discontinued; such as the
+Cora (Argencoridae, @sec-argencoridae).
 
 In 2025, the five most popular patterns were the
 Celine,
