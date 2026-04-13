@@ -354,7 +354,7 @@ Amelie    -- Amelidae
 \clearpage
 ```
 
-### Trees
+## Trees {#sec-trees}
 ```{r}
 #| results: asis
 #| fig-show: asis
@@ -1499,27 +1499,27 @@ TODO: Have a big long think about whether to reupload to IA.
 ### Family Helarchloidae
 **Helarchloidae** Lemuria, 2026; first public desc.
 
-## *Incertae sedis*
+## *Incertae sedis* {#sec-inc-sed}
 
-### Family Argelisabethidae
+### Family Argelisabethidae {#sec-argelisabethidae}
 **Argelisabethidae** Lemuria, 2026; familia nova
 
 **Remarks**: Jessica cites the late 1930s and early 1940s as the inspiration for the Elisabeth.
 
-#### Genus *Trunabethia*
+#### Genus *Trunabethia* {#sec-trunabethia}
 ***Trunabethia*** Lemuria, 2026; gen. nov.
 
 **Remarks**: The URL for the Elisabeth blouse product page uses the slug `elvira-blouse`.
 
 **Etymology**: Portmanteau of Latin *truncusa* ("truncated") + *Elisabeth* + *-ia*.
 
-##### *Trunabethia ivoria*
+##### *Trunabethia ivoria* {#sec-trunabethia-ivoria}
 ***Trunabethia ivoria*** Lemuria, 2026; sp. nov.
 
-##### *Trunabethia burgundia*
+##### *Trunabethia burgundia* {#sec-trunabethia-burgundia}
 ***Trunabethia burgundia*** Lemuria, 2026; sp. nov.
 
-#### Genus *Argelisabethia*
+#### Genus *Argelisabethia* {#sec-argelisabethia}
 ***Argelisabethia*** Lemuria, 2026; gen. nov.
 
 **Remarks**: *Argelisabethia* is one of the RTW-exclusive Silversaga taxa. It does not correspond to any known pattern available on Silversaga's website. The dress was part of Silversaga's Fall 2021 collection, and is no longer available.
@@ -1610,7 +1610,7 @@ Hair entirely out of frame. Waist belt worn, with ribbon at ventral medial point
 <!--
 remember, you can always cut-and-paste into a new monograph.
 -->
-### Family Celestidae
+### Family Celestidae {#sec-celestidae}
 **Celestidae** Lemuria, 2026
 
 **Remarks**: Celestidae, the Celeste Dress & Top (no. 198^[Internal incrementing identifier used by Silversaga. Silversaga does not use the numeric naming convention for marketing.]), was the newest pattern in Silversaga's repertoire when work began on the monograph. There was significant consideration as to whether Celestidae should be excluded from the monograph, due to its 16 views and 12 pattern hacks totalling to nearly 192 genera. It was eventually decided that the monograph would include Celestidae.
@@ -1682,14 +1682,11 @@ The name of the Celeste itself was crowdsourced in an Instagram post where Silve
 \clearpage
 ```
 
-# General remarks
-## Filenames
-Jessica's naming conventions for patterns are consistent at the pattern-level, but inconsistent as a whole.
+# General remarks {#sec-general-remarks}
+## Filenames {#sec-filenames}
+Jessica's naming conventions for pattern tester filenames are consistent at the pattern-level, but inconsistent as a whole.
 
 For the Ella, Chloe, Celeste, ... patterns, we observed a numerical naming convention, and were thus unable to obtain their names.
-
-
-
 
 <!--
 TODO: Identify all gallery naming conventions for all 15 patterns
@@ -1704,7 +1701,7 @@ Juliette
 ### Laural? Stapleton
 In the filenames, we consistently observed the spelling *Laural* for *Laural Stapleton*. We do not have information on Stapleton; nor whether *Laural* is the correct spelling of her name. Possible names used by Stapleton include *Laura*, *Laurel*, and *Lauren*. We have chosen to abbreviate her by her last name, *Stapleton*, as the spelling is significantly more plausible.
 
-# Appendix
+# Appendix {#sec-appendix}
 ## Person abbreviations {#sec-person-abbr}
 We define the following new person abbreviations:
 
@@ -1713,7 +1710,7 @@ We define the following new person abbreviations:
 * **Stapleton** &mdash; Laural Stapleton
 * **J.Silversaga** &mdash; Jessica Silversaga
 
-## Acknowledgements
+## Acknowledgements {#sec-acknowledgements}
 We used R; specifically, `ggtree`, to render tree figures. For information on `ggtree`, see @yuetal2017.
 
 We thank Jessica Silversaga for her amazing patterns that help bolster a culture of home sewing and advance the slow fashion movement. We thank all the sewists, pattern testers, and the sources we have cited for documenting their projects in intricate detail.
@@ -1722,7 +1719,8 @@ We thank the people of the Archive Team (<https://wiki.archiveteam.org/wiki/Main
 
 We thank the people of the Coffee Shop on [4d2.org](https://4d2.org), where our lead author has posted fragments of the paper time and time again, for being absolutely wonderful people, and being an extra set of eyes to keep errors shallow under Linus's law; and we thank Sarah, the operator of 4d2, for fostering such a wonderful space.
 
-## Information
+
+## Information {#sec-information}
 *Lemuria's (Informal) Journal of Clothing Taxonomy* is the gray literature journal of the First Lemurian Clothing Taxonomy, a system by Lemuria to assign Latin names to dresses using biological methods. The author, known mononymically as just Lemuria, is an Filipino programmer and independent gray literature researcher from Manila.
 
 **Disclaimer**: *Lemuria's (Informal) Journal of Clothing Taxonomy* is a non-peer-reviewed, single-author, citizen science/gray literature publication with no institutional backing.
@@ -1739,7 +1737,7 @@ Work began on the paper on 2026-04-08 and was published ...
 
 &copy; Lemuria 2026. All original text and image content by Lemuria is licensed under CC BY-SA 4.0, unless explicitly noted. Linked images and other content are &copy; their respective owners or copyright holders.
 
-# References
+# References {#sec-references}
 
 ::: {#refs}
 :::
