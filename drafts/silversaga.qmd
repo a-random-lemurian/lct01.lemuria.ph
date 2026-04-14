@@ -459,7 +459,423 @@ for (i in seq_along(plots)) {
 
 **Diagnosis**: Phenetically, Manubristenta is characterized by the exposure of the skin superficial to the manubrium, the superior (upper) part of the sternum (breastbone), and covered shoulders.
 
-## Subphylum Quaracomorpha
+## Class Isotrapezia {#sec-isotrapezia}
+**Isotrapezia** Lemuria, 2026; first public desc.
+
+**Taxonomic placement**: Placed in the phylum Manubristenta.
+
+**Diagnosis**: Isotrapezia is characterized by a neckline with a shape resembling an isosceles trapezoid (or trapezium); where the neckline is wider superiorly and narrows inferiorly.
+
+::: {#fig-isosceles-trapezoid}
+
+![](silversaga_supplementary/Isosceles_trapezoid.svg)
+
+An illustration of an isosceles trapezoid [@alexandrov_illustration_2007], an idealized geometry of Isotrapezia. 
+:::
+
+## Order Isargenta {#sec-isargenta}
+**Isargenta** Lemuria, 2026; first public desc.
+
+**Taxonomic placement**: Placed in the class Isotrapezia.
+
+**Identification key**
+
+01
+: Ventral medial button row: present (02), absent (03)
+
+02
+: See family Juliettidae (@sec-juliettidae). End.
+
+03
+: Number of elastic channels: one (04), two (05)
+
+04
+: See family Almidae (@sec-almidae). End.
+
+05
+: See family Argenclaridae (@sec-argenclaridae). End.
+
+### Family Argenclaridae {#sec-argenclaridae}
+**Argenclaridae** Lemuria, 2026; familia nova
+
+**Taxonomic placement**: Placed in the order Isargenta.
+
+**Etymology**: *Argen-*, Silversaga taxa prefix + *Clara* + *-idae*, family suffix.
+
+**Type genus**: *Argenclara*
+
+#### Genus *Argenclara* {#sec-argenclara}
+***Argenclara*** Lemuria, 2026; gen. nov.
+
+**Taxonomic placement**: Placed in the family Argenclaridae.
+
+**Diagnosis**:
+Rounded neckline, with lateral edges along medial point of scapulae.
+Ventral medial button row with 18 buttons. Buttons on wearer's left side. Fabric belt at transpyloric plane with ventral medial bowtie, inferior edge ending in wedge.
+Vertical pleats on bodice.
+Sleeves voluminous, terminating in elastic cuffs at wrist.
+On neckline, elastic channel, reconfigurable between on-shoulder and off-shoulder (f. *umst*). On-shoulder form designated as blessed form.
+Sleeves voluminous, 
+Skirt terminates slightly superior to ankle.
+
+**Etymology**: *Argen-*, Silversaga taxa prefix + *Clara*.
+
+**Type species**: 
+
+**Forms**: Two forms apply to *Argenclara* spp.: f. *umerostenta* (off-shoulder) and f. *isotrapezia* (on-shoulder). f. *isotrapezia* designated as blessed form for *Argenclara*.
+
+<!-- BEGIN baumgartia -->
+<!-- Template generated with lct01tools and manually filled in by humans! -->
+#### *Argenclara baumgartia* {#sec-argenclara-baumgartia}
+***Argenclara baumgartia*** Lemuria, 2026; sp. nov.
+
+**Diagnosis**: *Argenclara baumgartia* is characterized by its fabric, with dark blue&ndash;black and red floral patterns distributed sparsely across an off-white background.
+
+**Remarks**:
+
+**Etymology**: *Baumgart* + *-ia*. Name inferred from pattern tester filenames.
+
+**Specimens examined**
+
+**Holotype**: ***Baumgart 95.6714*** &mdash; Photograph.
+2888&times;3845.
+EXIF metadata stripped, consistent with Shopify image processing.
+Ventral view.
+Subject's hair positioned ventrally, obscuring neckline edges bilaterally. Arms fully adducted.
+Indoor lighting, slightly brighter at subject's right. Subject standing against white background on brown floor.
+Subject's right foot forward.
+*Argenclara baumgartia* wb. Eliz.B., unknown.
+&copy; Elizabeth Baumgart or unknown photographer, all rights reserved.
+**Page**: @silversaga_clara_gallery;
+**SHA2-256**: `5d05d2e61cd68f822183f12b64e96e245def9f728f63340ac880ae47f84f76ee`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Elizabeth_Baumgart7.jpg?v=1692899766>;
+**IA**: <https://web.archive.org/web/20260413155714/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Elizabeth_Baumgart7.jpg?v=1692899766>
+
+***Baumgart 95.6811*** &mdash; Photograph.
+3024&times;4032.
+EXIF metadata stripped, consistent with Shopify image processing.
+Ventral view.
+Subject's hair positioned ventrally. Neckline edges lateral to hair. Arms fully adducted; subject's right foot extended outward, laterally.
+Indoor lighting, possible light source from left based on shadows.
+Subject standing against gray background on white tiled floor.
+*Argenclara baumgartia* wb. Eliz.B., unknown.
+&copy; Elizabeth Baumgart or unknown photographer, all rights reserved.
+**Page**: @silversaga_clara_gallery;
+**SHA2-256**: `6b12e5ea7abf8290dcfee8365b121b0dbddfa907da7ee939e80633faa0de176e`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Elizabeth_Baumgart6.jpg?v=1692899786>;
+**IA**: <https://web.archive.org/web/20260413155726/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Elizabeth_Baumgart6.jpg?v=1692899786>
+
+***Baumgart 95.7035*** &mdash; Photograph.
+2235&times;2984.
+EXIF metadata stripped, consistent with Shopify image processing.
+Truncated ventral view. Head out of frame.
+Subject's hair positioned ventrally, obscuring neckline edges bilaterally. Left arm adducted; right arm on distal gather of sleeve.
+Indoor lighting from subject's left; light manifests in pattern of bars, likely consistent with window with bars. <!-- Hopefully not a prison... but we're not writing a dystopian fiction here we are writing a monograph. -->
+*Argenclara baumgartia* wb. Eliz.B., unknown.
+&copy; Elizabeth Baumgart or unknown photographer, all rights reserved.
+**Page**: @silversaga_clara_gallery;
+**SHA2-256**: `b1a5b429f1d209595c3c1f7d6c912fff43284b9262a4f26ade99a37ed11fb957`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Elizabeth_Baumgart4.jpg?v=1692899737>;
+**IA**: <https://web.archive.org/web/20260413155709/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Elizabeth_Baumgart4.jpg?v=1692899737>
+
+<!-- END baumgartia -->
+
+<!-- BEGIN Venaluna -->
+<!-- Template generated with lct01tools and manually filled in by humans! -->
+### *Argenclara* subg. *Venaluna* {#sec-argenclara-subg-venaluna}
+***Argenclara* subgenus *Venaluna*** Lemuria, 2026; subgen. nov.
+
+**Diagnosis**: *Argenclara* subg. *Venaluna* is phylogenetically characterized by having been sewn by Katie Hunter-Moon.
+
+**Etymology**: Portmanteau of Latin *venatrix* ("hunter") + *luna* ("moon").
+
+**Remarks**: We choose *Argenclara lunatribis* as the type species due to its non-toile state.
+
+<!-- replace taxon with the name of the rank! -->
+**Type species**: *Argenclara lunatribis*
+
+<!-- BEGIN lunatrix -->
+<!-- Template generated with lct01tools and manually filled in by humans! -->
+#### *Argenclara lunatrix* {#sec-argenclara-lunatrix}
+***Argenclara lunatrix*** Lemuria, 2026; sp. nov.
+
+**Diagnosis**: *Argenclara lunatrix* is characterized by its solid white fabric, slightly transparent.
+
+**Remarks**: *Argenclara lunatrix* was likely sewn as a toile (muslin). The same or similar images were published on Instagram [@huntermoon2023]. The holotypes available through the Silversaga website are preferred for reproducibility and higher quality.
+
+**Etymology**: Portmanteau of Latin *luna* ("moon") + *venatrix*, feminine form of *venator* ("hunter").
+
+**Specimens examined**
+
+**Holotype**: ***Hunter-Moon 23.4877*** &mdash; Photograph.
+2926&times;4389.
+EXIF metadata stripped, consistent with Shopify image processing.
+Ventral view.
+Subject standing on coast.
+Outdoors lighting conditions, possibly dawn or dusk from color of sky, consistent with golden hour.
+Hair positioned ventrally, slightly draped on subject's right shoulder.
+United Kingdom, Wales.
+*Argenclara lunatrix* wb. Hunter-Moon, 2023.
+&copy; Katie Hunter-Moon or unknown photographer, 2023, all rights reserved.
+**Page**: @silversaga_clara_gallery;
+**SHA2-256**: `6c8f53d040ffb38e67e3e790b0fd2d4e09468d6770f25bffa1bf75906908c039`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Katie_Hunter-Moon6.jpg?v=1692899662>;
+**IA**: <https://web.archive.org/web/20260318161530/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Katie_Hunter-Moon6.jpg?v=1692899662>
+
+***Hunter-Moon 23.4901*** &mdash; Photograph.
+2926&times;4389.
+EXIF metadata stripped, consistent with Shopify image processing.
+Dorsal view.
+Subject standing on coast.
+Outdoors lighting conditions, possibly dawn or dusk based on color of sky, consistent with golden hour.
+Subject walking amongst rocks. Wind blowing dress and hair to subject's left.
+United Kingdom, Wales.
+*Argenclara lunatrix* wb. Hunter-Moon, 2023.
+&copy; Katie Hunter-Moon or unknown photographer, 2023, all rights reserved.
+**Page**: @silversaga_clara_gallery;
+**SHA2-256**: `c51095fc15911c1706298a2922f7b9fe028ea729d49864b33158dd473716b78d`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Katie_Hunter-Moon7.jpg?v=1692899670>;
+**IA**: <https://web.archive.org/web/20260318161528/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Katie_Hunter-Moon7.jpg?v=1692899670>
+
+***Hunter-Moon 23.5361*** &mdash; Photograph.
+2926&times;4389.
+EXIF metadata stripped, consistent with Shopify image processing.
+Dorsal view.
+Subject standing on coast.
+Outdoors lighting conditions, possibly dawn or dusk based on color of sky, consistent with golden hour.
+Subject walking amongst rocks, facing in the direction of the water.
+United Kingdom, Wales.
+*Argenclara lunatrix* wb. Hunter-Moon, 2023.
+&copy; Katie Hunter-Moon or unknown photographer, 2023, all rights reserved.
+**Page**: @silversaga_clara_gallery;
+**SHA2-256**: `14345281caae7a41cd86d0abe77c71ff04b8727b00fe6f089e8558a293a3f8ef`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Katie_Hunter-Moon13.jpg?v=1692899685>;
+**IA**: <https://web.archive.org/web/20260413155350/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Katie_Hunter-Moon13.jpg?v=1692899685>
+
+<!-- END lunatrix -->
+<!-- BEGIN lunatribis -->
+<!-- Template generated with lct01tools and manually filled in by humans! -->
+#### *Argenclara lunatribis* {#sec-argenclara-lunatribis}
+***Argenclara lunatribis*** Lemuria, 2026; sp. nov.
+
+**Diagnosis**: *Argenclara lunatribis* is characterized by its fabric, light pink flowers and green leaves on a black background.
+
+**Remarks**:
+
+**Etymology**: From *lunatrix* + Latin *bis* ("twice"), as it is Hunter-Moon's second make.
+
+**Specimens examined**
+
+**Holotype**: ***Hunter-Moon 25.17665*** &mdash; Photograph.
+1184&times;1776.
+EXIF metadata stripped, consistent with Shopify image processing.
+Ventral view.
+Subject looking to her left. Light source from her left; indoor white lighting. Motion blur from left hand holding bouquet of flowers.
+*Argenclara lunatribis* wb. Hunter-Moon, unknown.
+&copy; Katie Hunter-Moon or unknown photographer, all rights reserved.
+**Page**: @silversaga_clara_gallery;
+**SHA2-256**: `a471730cb1e901428ce5707f3dba2dad285622f5a89ac073b9d341b37534c57c`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Katie_Hunter-Moon5.jpg?v=1692901633>;
+**IA**: <https://web.archive.org/web/20260413161010/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Katie_Hunter-Moon5.jpg?v=1692901633>
+
+***Hunter-Moon 25.17803*** &mdash; Photograph.
+1184&times;1776.
+EXIF metadata stripped, consistent with Shopify image processing.
+Subject looking to her right. Light source from her left; indoor white lighting. Slight motion blur. Left hand in pocket; right hand holding flower.
+Window behind white curtain.
+*Argenclara lunatribis* wb. Hunter-Moon, unknown.
+&copy; Katie Hunter-Moon or unknown photographer, all rights reserved.
+**Page**: @silversaga_clara_gallery;
+**SHA2-256**: `29d6079a9afa851f21e905d87dac3b8992706c8eef6309b697b38a02baac7515`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Katie_Hunter-Moon3.jpg?v=1692901618>;
+**IA**: <https://web.archive.org/web/20260318161529/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Katie_Hunter-Moon3.jpg?v=1692901618>
+
+***Hunter-Moon 25.17921*** &mdash; Photograph.
+1184&times;1776.
+EXIF metadata stripped, consistent with Shopify image processing.
+Ventral view.
+Subject looking to her right. Light source from her left; indoor white lighting. Less motion blur. Left hand on lateral side of waist. Right hand holding bouquet of yellow flowers.
+*Argenclara lunatribis* wb. Hunter-Moon, unknown.
+&copy; Katie Hunter-Moon or unknown photographer, all rights reserved.
+**Page**: @silversaga_clara_gallery;
+**SHA2-256**: `f14e1e300c1c0018d781c7f43b744bd0a19be81526ae21d82624277728cfa17c`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Katie_Hunter-Moon4.jpg?v=1692901626>;
+**IA**: <https://web.archive.org/web/20260318161550/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Katie_Hunter-Moon4.jpg?v=1692901626>
+
+<!-- END lunatribis -->
+<!-- END Venaluna -->
+
+<!-- BEGIN gratia -->
+<!-- Template generated with lct01tools and manually filled in by humans! -->
+#### *Argenclara gratia* {#sec-argenclara-gratia}
+***Argenclara gratia*** Lemuria, 2026; sp. nov.
+
+**Diagnosis**: *Argenclara gratia* is characterized by
+
+**Description**:
+
+**Remarks**: We infer the location of the photographs as either the state of New York or New Jersey, based on the One World Trade Center in the far background of the image, located by looking at the wearer's right shoulder from her perspective, then looking left, and viewing the faint skyline.
+
+**Etymology**: From Latin *gratia* ("kindness, favor, esteem"), the word from which English *grace* originated.
+
+**Specimens examined**
+
+**Holotype**: ***Grace 15.44320*** &mdash; Photograph.
+2316&times;3088.
+Ventral view.
+EXIF metadata stripped, consistent with Shopify image processing.
+Subject facing camera, sunglasses on. Hair positioned ventrally, slightly obscuring left shoulder.
+Both hands inside pockets.
+Outdoor lighting, roof of building. Sky consistent with golden hour.
+*Argenclara gratia* wb. E.Grace.J., unknown.
+&copy; E. Grace Jones or unknown photographer, all rights reserved.
+**Page**: @silversaga_clara_gallery;
+**SHA2-256**: `06623a2b019f575ed54def935c1c7f84c8d3460d59269d1618d0debd3975db65`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/E_Grace_Jones3.jpg?v=1692901801>;
+**IA**: <https://web.archive.org/web/20260414035453/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/E_Grace_Jones3.jpg?v=1692901801>
+
+***Grace 15.44710*** &mdash; Photograph.
+2316&times;3088.
+Ventral view.
+EXIF metadata stripped, consistent with Shopify image processing.
+Subject facing camera, sunglasses on. Hair positioned ventrally, slightly obscuring left shoulder.
+Both hands inside pockets.
+Outdoor lighting, roof of building. Sky consistent with golden hour.
+*Argenclara gratia* wb. E.Grace.J., unknown.
+&copy; E. Grace Jones or unknown photographer, all rights reserved.
+**Page**: @silversaga_clara_gallery;
+**SHA2-256**: `ff79b27452986e26c7c8b7d4d71fdd8597d0709199400717f4b8894413d9f1c7`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/E_Grace_Jones11.jpg?v=1692901817>;
+**IA**: <https://web.archive.org/web/20260414035514/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/E_Grace_Jones11.jpg?v=1692901817>
+
+***Grace 15.44737*** &mdash; Photograph.
+2316&times;3088.
+Dorsal view.
+EXIF metadata stripped, consistent with Shopify image processing.
+Subject looking to her left, sunglasses on. Hair positioned dorsally.
+Both hands inside pockets.
+Outdoor lighting, roof of building. Sky consistent with golden hour.
+*Argenclara gratia* wb. E.Grace.J., unknown.
+&copy; E. Grace Jones or unknown photographer, all rights reserved.
+**Page**: @silversaga_clara_gallery;
+**SHA2-256**: `827b1082921f58d7b05b24dc954f3fb0d9a5b42a87a9fd166f77863059e4b012`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/E_Grace_Jones4.jpg?v=1692901809>;
+**IA**: <https://web.archive.org/web/20260414035452/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/E_Grace_Jones4.jpg?v=1692901809>
+
+<!-- END gratia -->
+
+<!-- BEGIN hetheringtonia -->
+<!-- Template generated with lct01tools and manually filled in by humans! -->
+#### *Argenclara hetheringtonia* {#sec-argenclara-hetheringtonia}
+***Argenclara hetheringtonia*** Lemuria, 2026; sp. nov.
+
+**Diagnosis**: *Argenclara hetheringtonia* is characterized by its blue, very slightly transparent fabric, with three distinct building designs, a tree, and other flora.
+
+::: {#fig-f-macrophylla}
+![](./silversaga_supplementary/ficus_macrophylla.range.png)
+
+Range of *Ficus macrophylla* Desf. ex Pers. in eastern Australia. The range includes Sydney and Brisbane, the two primary candidates for Hetherington's location. Map by @casliber_english_2018; range according to @dixon_figs_2001.
+:::
+
+**Remarks**: We infer that Emily Hetherington is Australian, based on the tree in the background of all three photographs being consistent with *Ficus macrophylla* Desf. ex Pers.
+
+**Etymology**: From *Hetherington* + *-ia*.
+
+**Specimens examined**
+
+**Holotype**: ***Hetherington 240.4350*** &mdash; Photograph.
+EXIF metadata stripped, consistent with Shopify image processing.
+2250&times;3000
+Ventral view.
+Outdoor lighting conditions, daytime.
+Subject standing in forest, under tree. Left arm adducted. Right hand placed slightly inferior to inferior elastic channel on lateral surface. Right foot forward. Entire dress in frame.
+*Argenclara hetheringtonia* wb. E.Heth., unknown.
+&copy; Emily Hetherington or unknown photographer, all rights reserved.
+**Page**: @silversaga_clara_gallery;
+**SHA2-256**: `43087f0d8acdc4b6a0ad60e46a9880be13e619d46ecfe99c752be3ec03f95c05`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Emily-Hetherington6.jpg?v=1692903153>;
+**IA**: <https://web.archive.org/web/20260414045126/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Emily-Hetherington6.jpg?v=1692903153>
+
+***Hetherington 240.4717*** &mdash;
+Photograph.
+2250&times;3000
+EXIF metadata stripped, consistent with Shopify image processing.
+Dorsal view.
+Outdoor lighting conditions, daytime.
+Subject standing in forest.
+*Argenclara hetheringtonia* wb. E.Heth., unknown.
+&copy; Emily Hetherington or unknown photographer, all rights reserved.
+**Page**: @silversaga_clara_gallery;
+**SHA2-256**: `096ee14282ece7e61f33e23efc7cd4ad1d33241ae9e90bb845ee49ce7ca0d774`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Emily-Hetherington4.jpg?v=1692903178>;
+**IA**: <https://web.archive.org/web/20260318161545/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Emily-Hetherington4.jpg?v=1692903178>
+
+***Hetherington 240.5670*** &mdash; Photograph.
+2250&times;3000
+EXIF metadata stripped, consistent with Shopify image processing.
+Ventral view.
+Outdoor lighting conditions, daytime.
+Subject standing in forest.
+*Argenclara hetheringtonia* wb. E.Heth., unknown.
+&copy; Emily Hetherington or unknown photographer, all rights reserved.
+**Page**: @silversaga_clara_gallery;
+**SHA2-256**: `b7dc17222f0e049c44a8ac18854ce419d9d3ec7c423ff6970b51cb46e5a21036`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Emily-Hetherington9.jpg?v=1692903165>;
+**IA**: <https://web.archive.org/web/20260414045117/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Emily-Hetherington9.jpg?v=1692903165>
+<!-- END hetheringtonia -->
+
+<!-- BEGIN wilhoitia -->
+<!-- Template generated with lct01tools and manually filled in by humans! -->
+#### *Argenclara wilhoitia* {#sec-argenclara-wilhoitia}
+***Argenclara wilhoitia*** Lemuria, 2026
+
+**Diagnosis**: *Argenclara wilhoitia* is characterized by its plain pink fabric.
+
+**Etymology**: From *Wilhoit* + *-ia*.
+
+**Specimens examined**
+
+**Holotype**: ***Wilhoit 34.1870*** &mdash; Photograph.
+1500&times;1518
+EXIF metadata stripped, consistent with Shopify image processing.
+Angled ventral view.
+Subject facing to her left, as if walking. Hair positioned ventrally, draped to subject's right, obscuring right neckline edge. Left hand position unknown. Right hand on hair.
+Outdoors. Mid-day. Grass field surrounded by trees. Botanical identification impossible due to plants being out of focus.
+*Argenclara wilhoitia* wb. Lacy.W., unknown.
+&copy; Lacy Wilhoit or unknown photographer, all rights reserved.
+**Page**: ;
+**SHA2-256**: `3c9df8f8fe22fa80202e14b52d74ea6da2f784b342db0785d7077783a0fad483`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Lacy_Wilhoit9.jpg?v=1692902602>;
+**IA**: <https://web.archive.org/web/20260318161536/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Lacy_Wilhoit9.jpg?v=1692902602>
+
+***Wilhoit 34.1957*** &mdash; Photograph.
+1512&times;2016
+EXIF metadata stripped, consistent with Shopify image processing.
+Truncated ventral view. Hair positioned dorsally. Both hands placed on lateral surfaces inferior to inferior elastic channel.
+Outdoors. Mid-day. Grass field surrounded by trees. Botanical identification impossible due to plants being out of focus.
+*Argenclara wilhoitia* wb. Lacy.W., unknown.
+&copy; Lacy Wilhoit or unknown photographer, all rights reserved.
+**Page**: ;
+**SHA2-256**: `b6eb6e4e302b59b3ffd06d38a0c29f94c771eabe60fba54b40a5c85a761107f9`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Lacy_Wilhoit.jpg?v=1692902593>;
+**IA**: <https://web.archive.org/web/20260414045606/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Lacy_Wilhoit.jpg?v=1692902593>
+
+***Wilhoit 34.3771*** &mdash; Photograph.
+1424&times;1594
+EXIF metadata stripped, consistent with Shopify image processing.
+Truncated dorsal view. Hair positioned ventrally, likely tied; neckline fully visible.
+Subject's arms adducted.
+Outdoors. Mid-day. Grass field surrounded by trees. Botanical identification impossible due to plants being out of focus.
+*Argenclara wilhoitia* wb. Lacy.W., unknown.
+&copy; Lacy Wilhoit or unknown photographer, all rights reserved.
+**Page**: ;
+**SHA2-256**: `3f12a5b413540f5622d6c0b96c491d0b271bcd24ccaf349bd6d2bb469521d371`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Lacy_Wilhoit1.jpg?v=1692902608>;
+**IA**: <https://web.archive.org/web/20260414045612/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Lacy_Wilhoit1.jpg?v=1692902608>
+
+<!-- END wilhoitia -->
+
+
 **Quaracomorpha** Lemuria, 2026; first public desc.
 
 **Taxonomic placement**: Placed in the phylum Manubristenta.
