@@ -172,6 +172,11 @@ Salisbury is one of Jessica's pattern testers; she has tested the Eleonora [@sal
 Genus *Argenteleonora*: *madeleinae* (@sec-argenteleonora-madeleinae), *madeleinatra* (@sec-argenteleonora-madeleinatra);
 Genus *Julietta*: *madeleinae* (@sec-julietta-madeleinae)
 
+### Laural Stapleton {#sec-laural-stapleton}
+**Laural Stapleton** is one of Silversaga's pattern testers.
+
+In the filenames, we consistently observed the spelling *Laural* for *Laural Stapleton*. We do not have information on Stapleton; nor whether *Laural* is the correct spelling of her name. Possible names used by Stapleton include *Laura*, *Laurel*, and *Lauren*. We have chosen to abbreviate her by her last name, *Stapleton*, as the spelling is significantly more plausible.
+
 ## Taxonomic remarks {#sec-taxonomic-remarks}
 The hybrid RTW&ndash;home-sewn nature of the taxonomic record of Silversaga garments leads to a taxonomically interesting situation for the LCT-01.
 
@@ -2112,10 +2117,6 @@ Many filenames include the names of the pattern testers, which allows identifica
 <!--
 Juliette
 -->
-
-## Names
-### Laural? Stapleton
-In the filenames, we consistently observed the spelling *Laural* for *Laural Stapleton*. We do not have information on Stapleton; nor whether *Laural* is the correct spelling of her name. Possible names used by Stapleton include *Laura*, *Laurel*, and *Lauren*. We have chosen to abbreviate her by her last name, *Stapleton*, as the spelling is significantly more plausible.
 
 # Appendix {#sec-appendix}
 ## Person abbreviations {#sec-person-abbr}
