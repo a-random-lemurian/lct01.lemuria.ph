@@ -175,9 +175,16 @@ Genus *Argenteleonora*: *madeleinae* (@sec-argenteleonora-madeleinae), *madelein
 Genus *Julietta*: *madeleinae* (@sec-julietta-madeleinae)
 
 ### Laural Stapleton {#sec-laural-stapleton}
-**Laural Stapleton** is one of Silversaga's pattern testers.
+**Laural Stapleton** (<https://www.themakerhaus.com/>; Instagram: &commat;[`themakerhaus`](https://instagram.com/themakerhaus)) is an American sewist and the operator of The Maker Haus, a small pattern label with two patterns, the Edie and the Nadine.
 
-In the filenames, we consistently observed the spelling *Laural* for *Laural Stapleton*. We do not have information on Stapleton; nor whether *Laural* is the correct spelling of her name. Possible names used by Stapleton include *Laura*, *Laurel*, and *Lauren*. We have chosen to abbreviate her by her last name, *Stapleton*, as the spelling is significantly more plausible.
+She is one of Silversaga's pattern testers.
+
+In the filenames, we consistently observed the spelling *Laural* for *Laural Stapleton*. *Laural* is not a typo; Stapleton herself uses the spelling *Laural*, ruling out the possibility of a typo on Silversaga's end.
+
+Regardless, we have chosen to abbreviate her by her last name, *Stapleton*, as this is less likely to cause confusion as to the spelling of her first name.
+
+<!-- TODO: Heleonora lauralia -->
+
 
 ## Taxonomic remarks {#sec-taxonomic-remarks}
 The hybrid RTW&ndash;home-sewn nature of the taxonomic record of Silversaga garments leads to a taxonomically interesting situation for the LCT-01.
