@@ -185,6 +185,35 @@ Regardless, we have chosen to abbreviate her by her last name, *Stapleton*, as t
 
 <!-- TODO: Heleonora lauralia -->
 
+## Person abbreviations {#sec-person-abbr}
+We define the following new person abbreviations.
+
+* **Alexis.Wr** &mdash; Alexis Wright (Instagram: &commat;[`myysweetsunshine`](https://imginn.com/myysweetsunshine/))
+* **Anja.S.** &mdash; Anja Scheithauer
+* **Annette of B.** &mdash; Annette (Instagram: &commat;[`annette.sews`](https://instagram.com/annette.sews))
+* **Aria.W.S.** &mdash; Aria Wright-Shriver (Instagram: &commat;[`sewariasew`](https://instagram.com/sewariasew))
+* **Ashley.G.** &mdash; Ashley General
+* **Bethany.L.** &mdash; Bethany Lynne (see @sec-bethany-lynne)
+* **E.Grace.J.** &mdash; E. Grace Jones (Instagram: &commat;[`wzrdreams`](https://www.instagram.com/wzrdreams)). As of 2026-04-16, 177.8 cm (5 ft 10 in) tall; bust 119.38 cm (47 in) [@jones2023].
+* **Eliz.B.** &mdash; Elizabeth Baumgart
+* **Fena.T.** &mdash; Fena Tandriarto (Instagram: &commat;[`fenamakes`](https://www.instagram.com/fenamakes/))
+* **Hunter-Moon** &mdash; Katie Hunter-Moon (Instagram: &commat;[`katiehuntermoon`](https://instagram.com/katiehuntermoon))
+* **J.Silversaga** &mdash; Jessica Silversaga (see @sec-j-silversaga)
+* **Jessa.J.** &mdash; Jessa Jones (Instagram: &commat;[`jessamjones`](https://instagram.com/jessamjones/))
+* **Lacy.W.** &mdash; Lacy Wilhoit (Instagram: &commat;[`beauandclover`](https://www.instagram.com/beauandclover/))
+* **Laura.Dem.** &mdash; Laura Demelin (Instagram: &commat;[`laura.demelin`](https://www.instagram.com/laura.demelin); private account)
+* **Mackenzie.M.** &mdash; Mackenzie Morgan
+* **Mai** &mdash; Mai Vang
+* **Malin.S.** &mdash; Malin Stara
+* **Mel.T.** &mdash; Mel Tesch
+* **Stapleton** &mdash; Laural<!-- NOT A TYPO! --> Stapleton (first name not a typo; see @sec-laural-stapleton)
+* **Suna.M.** &mdash; Suna Mantori (Instagram; &commat;[`threadbitchbrighton`](https://instagram.com/threadbitchbrighton/)); bust 89 cm; waist 75 cm; hip 97 cm (provided on Instagram page).
+* **Theresa.N.** &mdash; Theresa Neef (Instagram: &commat;[`notesonmatter`](https://instagram.com/notesonmatter)). New Orleans, Louisiana.
+
+<!-- 
+Alexis -- myysweetsunshine
+Marta -- cosmia
+-->
 
 ## Taxonomic remarks {#sec-taxonomic-remarks}
 The hybrid RTW&ndash;home-sewn nature of the taxonomic record of Silversaga garments leads to a taxonomically interesting situation for the LCT-01.
@@ -2128,14 +2157,6 @@ Juliette
 -->
 
 # Appendix {#sec-appendix}
-## Person abbreviations {#sec-person-abbr}
-We define the following new person abbreviations:
-
-* **Anja.S.** &mdash; Anja Scheithauer
-* **Ashley.G.** &mdash; Ashley General
-* **Stapleton** &mdash; Laural Stapleton
-* **J.Silversaga** &mdash; Jessica Silversaga
-
 ## Acknowledgements {#sec-acknowledgements}
 We used R; specifically, `ggtree`, to render tree figures. For information on `ggtree`, see @yuetal2017.
 
