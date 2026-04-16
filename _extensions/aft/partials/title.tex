@@ -7,6 +7,12 @@ $-- Customize is needed, like below for printing the authors. Otherwise remove t
 $-- %%%%%%%%%%%%%%%%
 
 $if(title)$
+
+\def\journalname{Lemuria's (Informal) Journal of Clothing Taxonomy}
+$if(monograph)$
+\monograph
+$endif$
+
 \title{$title$$if(thanks)$\thanks{$thanks$}$endif$}
 $endif$
 $if(subtitle)$

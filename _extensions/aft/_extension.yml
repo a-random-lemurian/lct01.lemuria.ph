@@ -57,6 +57,8 @@ contributes:
       format-resources:
         # Add here the resources required for the PDF rendering
         - aft.cls
+      lem:
+        journalname: "Lemuria's (Informal) Journal of Clothing Taxonomy"
     html:
       # define default configuration for the html version of your format
       number-sections: true
