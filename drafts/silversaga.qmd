@@ -1652,6 +1652,38 @@ EXIF metadata stripped.
 ##### *Argenteleonora katiae* {#sec-argenteleonora-katiae}
 ***Argenteleonora katiae*** Lemuria, 2026; first public desc.
 
+#### *Argenteleonora* subsect. *Duonoda* {#sec-argenteleonora-subsect-duonoda}
+***Argenteleonora* subsection *Duonoda*** Lemuria, 2026; subsectio nova
+
+**Diagnosis**: *Argenteleonora* subsect. *Duonoda* is characterized by the presence of two ventral medial ties on both elastic channels.
+
+**Etymology**: From *duo* ("two") + *noda*, pseudo-Latin feminine form of *nodus* ("knot"), altered as *nodus* is grammatically masculine, while *Argenteleonora* is grammatically feminine.
+
+##### *Argenteleonora candiga* {#sec-argenteleonora-candiga}
+***Argenteleonora candiga*** Lemuria, 2026; sp. nov.
+
+**Diagnosis**: *Argenteleonora candiga* is characterized by its white color, and a Silversaga label on the superior medial point of its dorsal interior surface.
+
+**Remarks**: The placement of *Argenteleonora candiga* is certain within *Argenteleonora*, while infrageneric placement is uncertain. *A. candiga* is one of the ready-to-wear species of *Argenteleonora*. As such, there exist two phylogenetic origins for an *Argenteleonora* species: either sewn at home from the pattern, or sewn by the Estonian atelier.
+
+**Subspecies**:
+
+* *A. c. jessicae* Lemuria, 2026; subsp. nov.
+* *A. c. natalia* Lemuria, 2026; subsp. nov.
+
+**Specimens examined**
+
+**Holotype**: ***Silversaga 2022.58.7180***^[`7180` is a randomly-generated number for this holotype.] &mdash; Photograph.
+2592&times;3888.
+Indoor lighting conditions, white background.
+Likely studio conditions.
+Subject facing to the right (from camera perspective). Hair positioned both ventrally and dorsally, terminating inferior to inferior elastic channel. Left hand in front. Right hand on dorsal surface inferior to inferior elastic channel.
+*Argenteleonora candiga natalia* wb. Natalia, 2022.
+&copy; Jessica Silversaga, 2022, all rights reserved
+**Page**:
+**SHA2-256**: `4600a3561a53fc6c79bf64911f943efd588921ec255c9b07b3128ed2405a2ab2`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/products/SilversagaSS2022_58.jpg?v=1649342524>;
+**IA**: <https://web.archive.org/web/20260416202701/https://cdn.shopify.com/s/files/1/0562/9375/2969/products/SilversagaSS2022_58.jpg?v=1649342524>;
 
 ### Family Argenkamellidae {#sec-argenkamellidae}
 **Argenkamellidae** Lemuria, 2026; familia nova
