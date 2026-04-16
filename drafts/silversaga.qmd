@@ -1692,14 +1692,50 @@ Two files from YouTube; mp4 (video-only) and webm (audio-only). Combined into we
 `L78.1104/LAUREN_104.1633.399` (f399.mp4);
 `L78.1104/LAUREN_104.1633.251` (f251.webm);
 
+<!-- TODO: Maybe this should be in a different article -->
+## Phylum Scapunatoria {#sec-scapunatoria}
+**Scapunatoria** Lemuria, 2026; first public desc.
+
+We refine the description first provided in @lemuria_kew_2026.
+
+**Taxonomic placement**: Placed in the kingdom Abtruncusa.
+
+**Diagnosis**: Phenetically, Scapunatoria is characterized by the exposure of at least one shoulder.
+
+<!-- TODO: Maybe this should be in a different article -->
+## Subphylum Scapamanica {#sec-scapamanica}
+**Scapamanica** Lemuria, 2026; first public desc.
+
+**Taxonomic placement**: Placed in the phylum Scapunatoria.
+
+**Diagnosis**: Phenetically, Scapamanica is characterized by the presence of at least one strap worn superior to the scapula. It is distinguished from Umerostentida by the absence of shoulder sleeves.
+
+<!-- TODO: Maybe this should be in a different article -->
+## Class Helistola {#sec-helistola}
+**Helistola** Lemuria, 2026; first public desc.
+
+We refine the description first provided in @lemuria_kew_2026.
+
+**Taxonomic placement**: Placed in the subphylum Scapamanica.
+
+**Diagnosis**: Phenetically, Helistola is characterized by the presence of bilateral shoulder straps.
+
+**Etymology**: From Ancient Greek ἥλῐος (*hḗlĭos*, "sun") + Latin *stola* ("clothing; long dress; stole").
+
 ## Order Helargenta {#sec-helargenta}
 **Helargenta** Lemuria, 2026; first public desc.
 
-### Family Heleonoridae
+**Taxonomic placement**: Placed in the class Helistola.
+
+**Diagnosis**: Phylogenetically, Helargenta is characterized by origin from any Silversaga pattern that phenetically meets the criteria of Helistola and above.
+
+### Family Heleonoridae {#sec-heleonoridae}
 **Heleonoridae** Lemuria, 2026; first public desc.
 
-#### Genus *Heleonora*
+#### Genus *Heleonora* {#sec-heleonora}
 ***Heleonora*** Lemuria, 2026; first public desc.
+
+**Etymology**: Portmanteau of *Helistola* + *Eleonora*.
 
 #### *Heleonora* subg. *Shira*
 ***Heleonora* subgenus *Shira*** Lemuria, 2026; first public desc.
