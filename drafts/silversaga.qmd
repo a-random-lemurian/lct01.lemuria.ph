@@ -1659,12 +1659,14 @@ EXIF metadata stripped.
 
 **Etymology**: From *duo* ("two") + *noda*, pseudo-Latin feminine form of *nodus* ("knot"), altered as *nodus* is grammatically masculine, while *Argenteleonora* is grammatically feminine.
 
-##### *Argenteleonora candiga* {#sec-argenteleonora-candiga}
+##### *Argenteleonora candida* {#sec-argenteleonora-candida}
 ***Argenteleonora candiga*** Lemuria, 2026; sp. nov.
 
 **Diagnosis**: *Argenteleonora candiga* is characterized by its white color, and a Silversaga label on the superior medial point of its dorsal interior surface.
 
 **Remarks**: The placement of *Argenteleonora candiga* is certain within *Argenteleonora*, while infrageneric placement is uncertain. *A. candiga* is one of the ready-to-wear species of *Argenteleonora*. As such, there exist two phylogenetic origins for an *Argenteleonora* species: either sewn at home from the pattern, or sewn by the Estonian atelier.
+
+**Etymology**: From Latin *candida*, feminine form of *candidus* ("white, shining white"), from the dress's solid white color.
 
 **Subspecies**:
 
