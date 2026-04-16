@@ -270,12 +270,31 @@ However, we exclude the Celeste pattern, as its 16 views and 12 pattern hacks in
 ### Equipment and software {#sec-equipment-and-software}
 The author conducted his research on a computer running Ubuntu 24.04, with the XFCE desktop environment. He used the SHA2-256 algorithms to compute the cryptographic hashes of the photographic specimens he examined for species descriptions. He used Firefox 139.0.4. His monitor is a 55.8 cm (22 in) wide, 30.48 cm (12 in) tall, 63.5 cm (25 in) diagonal monitor, the NVISION S2515-B 25" IPS with a 100Hz refresh rate. He is not colorblind. He is near sighted and wears glasses.
 
+### Specimen locations
+Specimens were collected from Silversaga Patterns' website (<https://silversagapatterns.com>); with a focus on the pattern tester galleries. The Silversaga Patterns website uses Shopify as its underlying platform and image storage; EXIF metadata removal is likely consistent with internal Shopify server-side upload processing code.
+
+The Silversaga Patterns account features numerous Instagram stories where Jessica has compiled large numbers of other makes; this represents the largest, albeit second highest-quality source.
+
+This source is considered lower-quality than the Silversaga Patterns website; as explained in @lemuria_kew_2026, Meta's CDN is hostile to reproducibility. Though URLs can be captured by the Internet Archive immediately after generation, the URLs are invariably long, taking up more space in monograph documents.
+
+Silversaga typically names these story groups with the name of the featured pattern followed by a number. However, she has reused multiple pattern&ndash;number combinations; there exists two story groups named Clara 8.
+
+Furthermore, Imginn's interface prevents direct linkage of each individual story to a citable Instagram URL. Thus, we instead used the handles visible within the stories to locate the original Instagram posts containing the species.
+
+<!-- 
+Imginn also did not have all accounts available; and because Instagram's interface itself prevents scrolling down by means of a login wall, we were unable to document certain species. Our lead author remains hesitant to create an Instagram account -->
+
+#### Mapping
+We publish maps of holotype locations in this monograph. We only include holotype locations in the map with at least city-level precision. These coordinates should be treated as approximate. To further reinforce this, we have placed many of the holotype locations in nearby bodies of water.
+
+In the raw data itself, which we make available, we set a key, `max_precision`, a number corresponding to OpenStreetMap's `admin_level` value. Countries are 2, states and provinces are 4, and counties (in America) are 6. These are not linked to specific OpenStreetMap identifiers for administrative boundaries.
+
+We also set the special value `100` for city-level precision, or in the case of the United States, metro area-level precision.
+
 ### Images {#sec-images}
-As our lead author had no Instagram account, he used Imginn, an online service that allows Instagram to be viewed without an account.
+As our lead author had no Instagram account at the start of the monograph, he used Imginn, an online service that allows Instagram to be viewed without an account. He eventually created an Instagram account at &commat;[`lemuriaph`](https://instagram.com/lemuriaph) on April 16, 2026, to access numerous public accounts that were unavailable through Imginn.
 
 Images were hashed with the SHA2-256 algorithms, using the `sha256sum` utility on his system. The versions of the `sha256sum` and `openssl` utilities on his system at the time of the paper are given in @fig-sha256sum.
-
-Specimens were collected from Silversaga Patterns' website (<https://silversagapatterns.com>); with a focus on the pattern tester galleries. The Silversaga Patterns website uses Shopify as its underlying platform and image storage; EXIF metadata removal is likely consistent with internal Shopify server-side upload processing code.
 
 The images were of exceptionally high quality; resolutions as high as 4000&times;2667 were collected. The majority of the images were in JPG format; some images were stored in the HEIC format.
 
@@ -2542,6 +2561,9 @@ We thank the people of the Archive Team (<https://wiki.archiveteam.org/wiki/Main
 
 We thank the people of the Coffee Shop on [4d2.org](https://4d2.org), where our lead author has posted fragments of the paper time and time again, for being absolutely wonderful people, and being an extra set of eyes to keep errors shallow under Linus's law; and we thank Sarah, the operator of 4d2, for fostering such a wonderful space.
 
+We thank one of the Coffee Shop's members, elypony, who helped double-check the identification of *Acer saccharum* in the background of the holotype of *Argenclara morgania* (@sec-argenclara-morgania). In his freshman year, he took a botany course.
+
+And, we also point out the incredible coincidence that Silversaga is from the same country that gave birth to one of taxonomy's greatest figures; Carl Linnaeus himself. And now, a Swedish woman and her patterns are the subject of a monograph.
 
 ## Information {#sec-information}
 *Lemuria's (Informal) Journal of Clothing Taxonomy* is the gray literature journal of the First Lemurian Clothing Taxonomy, a system by Lemuria to assign Latin names to dresses using biological methods. The author, known mononymically as just Lemuria, is an Filipino programmer and independent gray literature researcher from Manila.
@@ -2553,6 +2575,8 @@ We thank the people of the Coffee Shop on [4d2.org](https://4d2.org), where our 
 At publication, the journal did not have a DOI prefix.
 
 Work began on the paper on 2026-04-08 and was published ...
+
+This monograph is part of the Silversaga special issue, a collection of research papers focused on the Swedish sewist and designer Jessica Silversaga and her patterns.
 
 * Visit us at: <https://lct01.lemuria.ph>
 * Version control: <https://github.com/a-random-lemurian/lct01.lemuria.ph>
