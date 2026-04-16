@@ -2649,7 +2649,8 @@ For the Ella, Chloe, Celeste, ... patterns, we observed a numerical naming conve
 TODO: Identify all gallery naming conventions for all 15 patterns
 -->
 
-Many filenames include the names of the pattern testers, which allows identification of the wearers.
+Many filenames included the names of the pattern testers, which allowed identification of the wearers. However, some patterns used a purely numeric naming convention, which required us to compare and cross-reference both with Silversaga's Instagram and other holotypes with known filenames.
+
 <!--
 Juliette
 -->
