@@ -7,6 +7,10 @@ $-- Customize is needed, like below for printing the authors. Otherwise remove t
 $-- %%%%%%%%%%%%%%%%
 
 $if(title)$
+$if(monograph)$
+\monograph
+$endif$
+
 \title{$title$$if(thanks)$\thanks{$thanks$}$endif$}
 $endif$
 $if(subtitle)$

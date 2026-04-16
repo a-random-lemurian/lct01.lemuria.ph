@@ -1,4 +1,8 @@
 %%
+%% Modified 2026-04-15 by Lemuria
+%%
+%% -------
+%%
 %% This is file `article.cls',
 %% generated with the docstrip utility.
 %%
@@ -234,27 +238,64 @@
     \global\let\date\relax
     \global\let\and\relax
   }
-\def\@maketitle{%
-  \newpage
-  \null
-  \vskip 2em%
-  \begin{center}%
-  {\large \textit{Lemuria's (Informal) Journal of Clothing Taxonomy}}
-  \vskip 1em%
-  \let \footnote \thanks
-    {\LARGE \@title \par}%
-    \vskip 1.5em%
-    {\large
-      \lineskip .5em%
-      \begin{tabular}[t]{c}%
-        \@author
-      \end{tabular}\par}%
+
+\def\journalname{}
+
+\newif\ifmonograph
+\monographfalse
+
+\newcommand{\monograph}{\monographtrue}
+
+  \def\@maketitle{%
+    \newpage
+    \null
+    \vskip 2em%
+    \begin{center}%
+    {\large \textit{\journalname}}
     \vskip 1em%
-    {\large \@date}%
+    \let \footnote \thanks
+      {\LARGE \@title \par}%
+      \vskip 1.5em%
+      {\large
+        \lineskip .5em%
+        \begin{tabular}[t]{c}%
+          \@author
+        \end{tabular}\par}%
+      \vskip 1em%
+      {\large \@date}%
+    \end{center}%
+    \par
+    \vskip 1.5em}
+% end of monograph switch
+
+
+\ifmonograph
+  \def\@maketitle{%
+    \newpage
+    \null
+    \vskip 2em%
+    \begin{center}%
+    {\large \textit{\journalname}}
+    \vskip 1em%
+    {\large \textbf{Monograph}}
+    \vskip 1em%
   \end{center}%
-  \par
-  \vskip 1.5em}
+    \let \footnote \thanks
+      {\HUGE \@title \par}%
+      \vskip 1.5em%
+      {\large
+        \lineskip .5em%
+        \begin{tabular}[t]{c}%
+          \@author
+        \end{tabular}\par}%
+      \vskip 1em%
+      {\large \@date}%
+    \par
+    \vskip 1.5em}
 \fi
+
+\fi
+
 
 \setcounter{secnumdepth}{3}
 \newcounter {part}
@@ -379,16 +420,11 @@
      {\par\vfil\null\endtitlepage}
 \else
   \newenvironment{abstract}{%
-      \if@twocolumn
-        \section*{\abstractname}%
-      \else
-        \small
         \begin{center}%
           {\bfseries \abstractname\vspace{-.5em}\vspace{\z@}}%
         \end{center}%
         \quotation
-      \fi}
-      {\if@twocolumn\else\endquotation\fi}
+      }
 \fi
 \newenvironment{verse}
                {\let\\\@centercr

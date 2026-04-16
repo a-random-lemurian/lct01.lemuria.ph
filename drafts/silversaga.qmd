@@ -43,6 +43,7 @@ format:
         \usepackage{forest}
         \usepackage{seqsplit}
 keywords: silversaga, eleonora, sleeveless eleonora, silversaga patterns, sewing patterns, clothing taxonomy
+monograph: true
 ---
 
 # Background
