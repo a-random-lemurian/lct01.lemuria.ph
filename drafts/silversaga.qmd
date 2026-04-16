@@ -11,7 +11,7 @@ journal:
 date: 2026-04-07
 lang: en
 execute: 
-  freeze: true
+  freeze: false
 # publisher-id: "lict2026.0006"
 abstract: |
   Jessica Silversaga is a Swedish pattern designer, photographer, and sewist, the owner of Silversaga Patterns, a slow fashion RTW-turned sewing pattern label. In this monograph, we comprehensively describe N species of garments made from Silversaga patterns, across 2 orders, 15 families, N genera, and N species, publishing and refining the early private research conducted on the Eleonora dresses in early 2026.
