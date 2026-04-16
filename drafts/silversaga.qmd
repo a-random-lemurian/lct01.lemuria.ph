@@ -227,6 +227,20 @@ In the simplest of cases, RTW taxonomy typically maps the design, colorway, and 
 
 The most reliable morphological character identifying Silversaga garment taxa of RTW origin is the presence of a label reading "Silversaga"; see @sec-silversaga-label.
 
+### Species counts
+In this section, we describe Fermi estimates for the possible count of genera and species encompassing Silversaga's patterns.
+
+As established in @sec-patterns, pattern testers alone contribute some 600&ndash;1,050 species to the Silversaga repertoire.
+
+<!-- Instagram hashtag counts
+
+390,claradresspattern
+52,celestedresspattern
+438,eleonoradresspattern
+3,eleonoradresspatternplus
+2,eleonoradresspatternfat
+-->
+
 ### Polyphyletic patterns {#sec-polyphyletic-patterns}
 As with Nina Lee's Kew dress, extensively taxonomized in prior monographs published in the *Journal*, some of these patterns are classified polyphyletically, due to the dispersion of their morphological diversity across the higher-level taxa of the LCT-01.
 
@@ -259,6 +273,8 @@ During the early taxonomization of Jessica's patterns, the LCT-01 began using in
 
 <!-- ### Scope of the monograph -->
 Originally, we intended for this paper to only cover the Eleonora dress (Argenteleonoridae) and its sleeveless variant (Heleonoridae); but later decided to expand to the other garments within Silversaga's repertoire.
+
+We later narrowed the scope to focus on breadth rather than depth; in this monograph, we describe a small representative sample of anywhere from 5&ndash;20 species from each family, or the entirety of Silversaga's pattern testing gallery; as our team consists solely of one author, who wanted to prevent potential burnout.
 
 <!--
 if we can publish this by the start of Me Made May
