@@ -188,27 +188,27 @@ Regardless, we have chosen to abbreviate her by her last name, *Stapleton*, as t
 ## Person abbreviations {#sec-person-abbr}
 We define the following new person abbreviations.
 
-* **Alexis.Wr** &mdash; Alexis Wright (Instagram: &commat;[`myysweetsunshine`](https://imginn.com/myysweetsunshine/))
+* **Alexis.Wr** &mdash; Alexis Wright (Instagram: &commat;[`myysweetsunshine`{.hash}](https://instagram.com/myysweetsunshine/))
 * **Anja.S.** &mdash; Anja Scheithauer
-* **Annette of B.** &mdash; Annette (Instagram: &commat;[`annette.sews`](https://instagram.com/annette.sews))
-* **Aria.W.S.** &mdash; Aria Wright-Shriver (Instagram: &commat;[`sewariasew`](https://instagram.com/sewariasew))
-* **Ashley.G.** &mdash; Ashley General
+* **Annette of B.** &mdash; Annette (Instagram: &commat;[`annette.sews`{.hash}](https://instagram.com/annette.sews))
+* **Aria.W.S.** &mdash; Aria Wright-Shriver (Instagram: &commat;[`sewariasew`{.hash}](https://instagram.com/sewariasew))
+* **Ashley.G.** &mdash; Ashley General (Instagram: &commat;[`ashleygeneralhandmade`{.hash}](https://instagram.com/ashleygeneralhandmade/))
 * **Bethany.L.** &mdash; Bethany Lynne (see @sec-bethany-lynne)
-* **E.Grace.J.** &mdash; E. Grace Jones (Instagram: &commat;[`wzrdreams`](https://www.instagram.com/wzrdreams)). As of 2026-04-16, 177.8 cm (5 ft 10 in) tall; bust 119.38 cm (47 in) [@jones2023].
-* **Eliz.B.** &mdash; Elizabeth Baumgart
-* **Fena.T.** &mdash; Fena Tandriarto (Instagram: &commat;[`fenamakes`](https://www.instagram.com/fenamakes/))
-* **Hunter-Moon** &mdash; Katie Hunter-Moon (Instagram: &commat;[`katiehuntermoon`](https://instagram.com/katiehuntermoon))
+* **E.Grace.J.** &mdash; E. Grace Jones (Instagram: &commat;[`wzrdreams`{.hash}](https://www.instagram.com/wzrdreams)). United States: [New York or New Jersey]. As of 2026-04-16, 177.8 cm (5 ft 10 in) tall; bust 119.38 cm (47 in) [@jones2023].
+* **Eliz.B.** &mdash; Elizabeth Baumgart (Instagram: &commat;[`thatsewliz`{.hash}](https://www.instagram.com/thatsewliz/); also known as Elizabeth Hung). Australia: New South Wales, Sydney. Photographer (Instagram: &commat;[`elizabethhung_`{.hash}](https://www.instagram.com/elizabethhung_/)).
+* **Fena.T.** &mdash; Fena Tandriarto (Instagram: &commat;[`fenamakes`{.hash}](https://www.instagram.com/fenamakes/))
+* **Hunter-Moon** &mdash; Katie Hunter-Moon (Instagram: &commat;[`katiehuntermoon`{.hash}](https://instagram.com/katiehuntermoon)). United Kingdom: Wales.
 * **J.Silversaga** &mdash; Jessica Silversaga (see @sec-j-silversaga)
-* **Jessa.J.** &mdash; Jessa Jones (Instagram: &commat;[`jessamjones`](https://instagram.com/jessamjones/))
-* **Lacy.W.** &mdash; Lacy Wilhoit (Instagram: &commat;[`beauandclover`](https://www.instagram.com/beauandclover/))
-* **Laura.Dem.** &mdash; Laura Demelin (Instagram: &commat;[`laura.demelin`](https://www.instagram.com/laura.demelin); private account)
+* **Jessa.J.** &mdash; Jessa Jones (Instagram: &commat;[`jessamjones`{.hash}](https://instagram.com/jessamjones/))
+* **Lacy.W.** &mdash; Lacy Wilhoit (Instagram: &commat;[`beauandclover`{.hash}](https://www.instagram.com/beauandclover/))
+* **Laura.Dem.** &mdash; Laura Demelin (Instagram: &commat;[`laura.demelin`{.hash}](https://www.instagram.com/laura.demelin); private account). France.
 * **Mackenzie.M.** &mdash; Mackenzie Morgan
 * **Mai** &mdash; Mai Vang
-* **Malin.S.** &mdash; Malin Stara
-* **Mel.T.** &mdash; Mel Tesch
-* **Stapleton** &mdash; Laural<!-- NOT A TYPO! --> Stapleton (first name not a typo; see @sec-laural-stapleton)
-* **Suna.M.** &mdash; Suna Mantori (Instagram; &commat;[`threadbitchbrighton`](https://instagram.com/threadbitchbrighton/)); bust 89 cm; waist 75 cm; hip 97 cm (provided on Instagram page).
-* **Theresa.N.** &mdash; Theresa Neef (Instagram: &commat;[`notesonmatter`](https://instagram.com/notesonmatter)). New Orleans, Louisiana.
+* **Malin.S.** &mdash; Malin Stara (Instagram: &commat;[`angelinlace`{.hash}](https://www.instagram.com/angelinlace/)). Sweden.
+* **Mel.T.** &mdash; Mel Tesch (Instagram: &commat;[`melt.stitches`{.hash}](https://www.instagram.com/melt.stitches/)); bust 81 cm; waist 65 cm; hip 90 cm (provided on Instagram page). Australia: Queensland, Brisbane.
+* **Stapleton** &mdash; Laural<!-- NOT A TYPO! --> Stapleton (first name not a typo; Instagram: &commat;[`themakerhaus`{.hash}](https://instagram.com/themakerhaus); see @sec-laural-stapleton).
+* **Suna.M.** &mdash; Suna Mantori (Instagram: &commat;[`threadbitchbrighton`{.hash}](https://instagram.com/threadbitchbrighton/)); bust 89 cm; waist 75 cm; hip 97 cm (provided on Instagram page). United Kingdom: England, East Sussex, Brighton.
+* **Theresa.N.** &mdash; Theresa Neef (Instagram: &commat;[`notesonmatter`{.hash}](https://instagram.com/notesonmatter)). United States: Louisiana, New Orleans.
 
 <!-- 
 Alexis -- myysweetsunshine
