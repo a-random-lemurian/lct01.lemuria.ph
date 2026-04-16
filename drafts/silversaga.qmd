@@ -54,7 +54,7 @@ She became interested in sewing after taking a beginner's sewing class. Most pat
 
 In late 2018, she launched the slow fashion RTW label Silversaga [@silversaga_about; @silversaga_instaabout2023]. Many of the patterns now available through Silversaga Patterns were sold RTW during this period. She designed seven collections on a seasonal schedule; autumn/winter (A/W) 2019, 2021, and 2022; and summer/spring (S/S) 2020, 2021, 2022, and 2023. The dresses were preproduced in small batches. Silversaga herself is inconsistent with where; @silversaga_about makes reference to "a skilled atelier in Estonia" while in @silversaga_instaabout2023 she states that all her clothes were "designed and sewn in Sweden".
 
-Due to the COVID-19 pandemic, in 2023, she transitioned the business to a pattern label, ceasing sales of RTW garments and switching to selling PDF patterns.
+Due to the COVID-19 pandemic, in September 2023, she discontinued sales of RTW garments and became a pattern-only label [@silversaga2023_closingrtw].
 
 Simon, Jessica's fiancé, joined the company in 2024.
 
@@ -216,9 +216,10 @@ Marta -- cosmia
 -->
 
 ## Taxonomic remarks {#sec-taxonomic-remarks}
-The hybrid RTW&ndash;home-sewn nature of the taxonomic record of Silversaga garments leads to a taxonomically interesting situation for the LCT-01.
 
 Silversaga was historically a slow fashion RTW label, as explained in @sec-j-silversaga. After the COVID-19 pandemic led to the label transitioning to patterns, the first home-sewn Silversaga garments arose.
+
+The hybrid RTW&ndash;home-sewn nature of the taxonomic record of Silversaga garments leads to a taxonomically interesting situation for the LCT-01.
 
 In the simplest of cases, RTW taxonomy typically maps the design, colorway, and wearer to the genus, species, and subspecies respectively; while sewing patterns map the design, option (or view), and individual sewist to the family, genus, and species [@lemuria_general_2026].
 
@@ -250,7 +251,7 @@ The form corresponds to the positioning of the dress on the human body or the st
 The LCT-01 makes use of the "blessed form" doctrine; for example, a dress such as the Clara can be worn on or off-shoulder. If it were worn off-shoulder, it would be considered part of the class Umerostentida, subclass Alourida; while if it were worn on-shoulder, <!-- FIXME: Figure out where the Clara goes on the tree and then fill this in -->. Designer intent is that the sleeves are worn on the shoulder, though the product page explicitly acknowledges the off-shoulder configuration (and notes that it is breastfeeding-friendly).
 
 ### Taxonomic history {#sec-taxonomic-history}
-Our lead author discovered Silversaga through the American sewist Madeleine Salisbury (Instagram: &commat;[made_by_madeleine.claire](https://instagram.com/made_by_madeleine.claire)).
+Our lead author discovered Silversaga through the American sewist Madeleine Salisbury (Instagram: &commat;[`made_by_madeleine.claire`](https://instagram.com/made_by_madeleine.claire)).
 
 During the early taxonomization of Jessica's patterns, the LCT-01 began using infrageneric taxa; ranks below genus but above species, such as subgenera and sections, due to the increasing awkwardness of incorporating an increasing amount of characters in the genus name itself. 
 
@@ -490,12 +491,13 @@ for (i in seq_along(plots)) {
 
 
 ```{=latex}
-\newpage
+\twocolumn
+\clearpage
 ```
 
-# Descriptions
+# Descriptions {#sec-descriptions}
 
-## Phylum Manubristenta
+## Phylum Manubristenta {#sec-manubristenta}
 **Manubristenta** Lemuria, 2026; first public desc.
 
 **Taxonomic placement**: Placed in the kingdom Abtruncusa.
@@ -1242,13 +1244,54 @@ Subject looking to her right. Light source from her left; indoor white lighting.
 <!-- END lunatribis -->
 <!-- END Venaluna -->
 
+### Family Juliettidae {#sec-juliettidae}
+**Juliettidae** Lemuria, 2026; familia nova
+
+**Taxonomic placement**: Placed in the family Juliettidae.
+
+**Diagnosis**:
+
+**Remarks**:
+
+**Etymology**:
+
+**Type genus**: *Julietta*
+
+#### Genus *Julietta* {#sec-julietta}
+***Julietta*** Lemuria, 2026; gen. nov.
+
+### Family Almidae {#sec-almidae}
+**Almidae** Lemuria, 2026; familia nova
+
+**Taxonomic placement**: Placed in the family Almidae.
+
+**Diagnosis**:
+
+**Remarks**:
+
+**Etymology**:
+
+**Type genus**: *Alma*
+
+#### Genus *Alma* {#sec-alma}
+***Alma*** Lemuria, 2026; gen. nov.
+
+## Class Vecostola {#sec-vecostola}
+**Vecostola** Lemuria, 2026
+
+### Family Argentellidae {#sec-argentellidae}
+**Argentellidae** Lemuria, 2026; familia nova
+
+**Taxonomic placement**: Placed in the class Vecostola.
+
+## Subphylum Quaracomorpha {#sec-quaracomorpha}
 **Quaracomorpha** Lemuria, 2026; first public desc.
 
 **Taxonomic placement**: Placed in the phylum Manubristenta.
 
 **Diagnosis**: Phenetically, Quaracomorpha is characterized by a square neckline.
 
-## Class Kampylilaimosida
+## Class Kampylilaimosida {#sec-kampylilaimosida}
 **Kampylilaimosida** Lemuria, 2026; first public desc.
 
 **Taxonomic placement**: Placed in the subphylum Quaracomorpha.
@@ -1257,7 +1300,7 @@ Subject looking to her right. Light source from her left; indoor white lighting.
 
 **Etymology**: From Greek καμπύλη (*kampýli*, 'curve') + λαιμός (*laimós*, "neck"); lit. "curved neck".
 
-## Order Sueciargenta
+## Order Sueciargenta {#sec-sueciargenta}
 **Sueciargenta** Lemuria, 2026; first public desc.
 
 **Taxonomic placement**: Placed in the class Kampylilaimosida.
@@ -2162,7 +2205,7 @@ have a similar look to the Truettidae?
   just define the taxa when it becomes actually attested
 -->
 
-**Diagnosis**: *Heleonora* subsect. *Pseudotruetta* is distinguished from other *Heleonora* spp. phenetically by the presence of contrasting bias binding on the exterior of the dress, rather than the interior; 
+**Diagnosis**: *Heleonora* subsect. *Pseudotruetta* is distinguished from other *Heleonora* spp. phenetically by the presence of contrasting bias binding on the exterior of the dress, rather than the interior.
 
 *Heleonora* subsect. *Pseudotruetta* is distinguished from *Truetta* (unpublished), the Truett dress from Christy Dawn, by phylogenetic origin from the sleeveless Eleonora pattern. Phenetically, a larger corner radius on the neckline may help distinguish, however, numerous *Heleonora* subsect. *Pseudotruetta* spp. have been sewn with a square shape intentionally closer to the Truett, making this method unreliable. Fabric may be a more reliable indicator; *Truetta* spp. encompass only red and pink fabric prints.
 
@@ -2275,11 +2318,20 @@ Four cuts. First cut: subject walks into frame, faces camera, holding skirt out,
 TODO: Have a big long think about whether to reupload to IA.
 -->
 
-### Family Helargemmidae
-**Helargemmidae** Lemuria, 2026; first public desc.
+### Family Helargemmidae {#sec-helargemmidae}
+**Helargemmidae** Lemuria, 2026; familia nova
 
-### Family Helarchloidae
-**Helarchloidae** Lemuria, 2026; first public desc.
+### Family Helarchloidae {#sec-helarchloidae}
+**Helarchloidae** Lemuria, 2026; familia nova
+
+## Class Camisola {#sec-camisola}
+**Camisola** Lemuria, 2026; first public desc.
+
+### Order Argentisola {#sec-argentisola}
+**Argentisola** Lemuria, 2026; ordo novus
+
+#### Family Francescidae {#sec-francescidae}
+**Francescidae** Lemuria, 2026; familia nova
 
 ## *Incertae sedis* {#sec-inc-sed}
 
