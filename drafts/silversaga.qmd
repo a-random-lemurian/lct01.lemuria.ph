@@ -1211,6 +1211,60 @@ Outdoor conditions. Sun behind photographer as inferred from shadows.
 <!-- END caitlinae -->
 
 
+
+<!-- BEGIN jessae -->
+<!-- Template generated with lct01tools and manually filled in by humans! -->
+#### *Argenclara jessae* {#sec-argenclara-jessae}
+***Argenclara jessae*** Lemuria, 2026; sp. nov.
+
+**Diagnosis**: *Argenclara jessae* is characterized by its solid brown fabric.
+
+**Remarks**: See also @jones2023 for Jones's Instagram post.
+
+**Etymology**: From *Jessa* + *-ae*, feminine genitive suffix.
+
+**Specimens examined**
+
+**Holotype**: ***Jones 28.1741*** &mdash; Photograph.
+2316&times;3088
+Ventral view.
+Semi-outdoors environment; subject under roof, on patio.
+Subject's arms adducted and in bilateral pockets. Hair positioned dorsally. Bilateral earrings. Neckline not obscured.
+*Argenclara jessae* wb. Jessa.J., 2023.
+&copy; Jessa Jones or unknown photographer, all rights reserved.
+**Page**: @silversaga_clara_gallery;
+**SHA2-256**: `4a5a1a52a6d65719e0643ddcc9c16b09e613f6ef63bd26f783fcb7523421ea8d`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Jessa_Jones5.jpg?v=1692900432>;
+**IA**: <https://web.archive.org/web/20260318161532/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Jessa_Jones5.jpg?v=1692900432>
+
+***Jones 28.1835*** &mdash; Photograph.
+2967&times;3956
+Ventral view.
+Semi-outdoors environment; subject under roof, on patio. Other houses in background.
+Subject's arms adducted and in bilateral pockets. Hair positioned dorsally. Bilateral earrings. Neckline not obscured.
+*Argenclara jessae* wb. Jessa.J., 2023.
+&copy; Jessa Jones or unknown photographer, all rights reserved.
+**Page**: @silversaga_clara_gallery;
+**SHA2-256**: `4fb548d548ba2a2da09871e7f8777913fafc45a9e3f8a627f5d7265ec2e750ef`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Jessa_Jones2.jpg?v=1692900418>;
+**IA**: <https://web.archive.org/web/20260318161556/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Jessa_Jones2.jpg?v=1692900418>
+
+***Jones 28.1837*** &mdash; Photograph.
+2316&times;3088
+Ventral view.
+Semi-outdoors environment; subject under roof, on patio.
+Subject's left arm on patio railing. Right arm not visible.
+Sleeves worn lateral to upper arm, as off-shoulder.
+*Argenclara jessae* f. *umst.* wb. Jessa.J., 2023.
+&copy; Jessa Jones or unknown photographer, all rights reserved.
+**Page**: @silversaga_clara_gallery;
+**SHA2-256**: `56e72cc47563229110332b014fc9404a14a3ef29d1d47cdf10354b550177dde5`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Jessa_Jones4.jpg?v=1692900426>;
+**IA**: <https://web.archive.org/web/20260413160055/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Jessa_Jones4.jpg?v=1692900426>
+
+<!-- END jessae -->
+
+
 <!-- BEGIN Venaluna -->
 <!-- Template generated with lct01tools and manually filled in by humans! -->
 #### *Argenclara* subg. *Venaluna* {#sec-argenclara-subg-venaluna}
