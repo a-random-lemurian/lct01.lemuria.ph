@@ -732,6 +732,8 @@ taxa:
         holotype:
           - name: Alex 40.6700AA
             view: ventral
+            width: 3024
+            height: 4032
             sum:
               sha256: 75e5aeb22ebb1171a6ca28187e26466af48e21d69f611ef781d5e3bfb92d8211
             urls:
@@ -745,6 +747,8 @@ taxa:
         types:
           - name: Alex 40.6735AA
             view: ventral
+            width: 3024
+            height: 4032
             sum:
               sha256: 494d1719bad12d3c7a47bfa3c9ab93e95c5c3a38c36fb42d38c6f76b7ae37a40
             urls:
@@ -757,6 +761,8 @@ taxa:
               name: Alex Begin
           - name: Alex 40.6746AA
             view: ventral
+            width: 3024
+            height: 4032
             sum:
               sha256: ae7e1b8fb9964ffdee8a880c9c11589f33bf1c94bcbd000787ec00ac445779d7
             urls:
