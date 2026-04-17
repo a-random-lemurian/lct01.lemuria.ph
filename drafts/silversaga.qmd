@@ -1283,6 +1283,194 @@ Sleeves worn lateral to upper arm, as off-shoulder.
 
 <!-- END jessae -->
 
+<!-- BEGIN mai -->
+<!-- Template generated with lct01tools and manually filled in by humans! -->
+#### *Argenclara mai* {#sec-argenclara-mai}
+***Argenclara mai*** Lemuria, 2026
+
+**Diagnosis**: *Argenclara mai* is characterized by its fabric, a light mocha background with clusters of white flowers.
+
+**Remarks**: We infer the year as 2023 based on the other rounds of pattern testing conducted by Silversaga.
+
+The photographs appear to have been taken at a two-story residential structure, with Mai in the shadow of another building behind the photographer. The ground has significant overexposure.
+
+**Etymology**: From Mai Vang's first name, *Mai*.
+
+**Specimens examined** 
+
+**Holotype**: ***Vang 25.4050*** &mdash; Photograph.
+2209&times;3031.
+Ventral view.
+Hair positioned dorsally.
+Slight motion blur on left arm. Right arm fully adducted.
+*Argenclara mai* wb. Mai, 2023.
+&copy; Mai Vang or unknown photographer, all rights reserved.
+**Page**: @silversaga_clara_gallery;
+**SHA2-256**: `44b249a15c5640ab762cba2c929ec502e61174c94d0397696a1315dae02948c4`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Mai_Vang3.jpg?v=1692901558>;
+**IA**: <https://web.archive.org/web/20260318161528/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Mai_Vang3.jpg?v=169290155>
+
+***Vang 25.4085*** &mdash; Photograph.
+1967&times;2622.
+Ventral view.
+Hair positioned dorsally.
+Subject's arms fully adducted.
+*Argenclara mai* wb. Mai, 2023.
+&copy; Mai Vang or unknown photographer, all rights reserved.
+**Page**: @silversaga_clara_gallery;
+**SHA2-256**: `836057f9419577ddb9e1991e9e166067f59757e1ffadd033922f6d81228521a7`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Mai_Vang2.jpg?v=1692901378>;
+**IA**: <https://web.archive.org/web/20260413160700/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Mai_Vang2.jpg?v=169290137>
+
+<!-- END mai -->
+
+<!-- BEGIN alexae -->
+<!-- Template generated with lct01tools and manually filled in by humans! -->
+#### *Argenclara alexae* {#sec-argenclara-alexae}
+***Argenclara alexae*** Lemuria, 2026
+
+**Diagnosis**: *Argenclara alexae* is characterized by its fabric, a cotton called "folk" from Merchant and Mills; with a white background and overlapping blue lines in a gingham check-like pattern. 
+
+**Remarks**: See also @begin2023 for Alex's instagram post.
+
+The Royal Mail wall-embedded mailbox on the subject's left proves that the images were taken in the United Kingdom.
+
+**Etymology**: From *Alex* + *-ae*, feminine genitive suffix.
+
+**Specimens examined**
+
+**Holotype**: ***Alex 40.6700AA*** &mdash; Photograph.
+3024&times;4032.
+Ventral view. Subject on sidewalk. Arms fully adducted.
+*Argenclara alexae* wb. Alex.B., 2023.
+&copy; Alex Begin or unknown photographer, all rights reserved.
+
+**Page**: @silversaga_clara_gallery;
+**SHA2-256**: `75e5aeb22ebb1171a6ca28187e26466af48e21d69f611ef781d5e3bfb92d8211`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Alex_Begin2.jpg?v=1692902847>;
+**IA**: <https://web.archive.org/web/20260414044848/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Alex_Begin2.jpg?v=1692902847>
+
+***Alex 40.6735AA*** &mdash; Photograph.
+3024&times;4032.
+Ventral view. Subject on sidewalk. Arms behind torso, resembling "at ease" position.
+*Argenclara alexae* wb. Alex.B., 2023.
+&copy; Alex Begin or unknown photographer, all rights reserved.
+**Page**: @silversaga_clara_gallery;
+**SHA2-256**: `494d1719bad12d3c7a47bfa3c9ab93e95c5c3a38c36fb42d38c6f76b7ae37a40`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Alex_Begin3.jpg?v=1692902839>;
+**IA**: <https://web.archive.org/web/20260414044827/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Alex_Begin3.jpg?v=1692902839>
+
+***Alex 40.6746AA*** &mdash; Photograph.
+3024&times;4032.
+Angled ventral view. Closer shot compared to first two images. Subject's arms fully adducted.
+*Argenclara alexae* wb. Alex.B., 2023.
+&copy; Alex Begin or unknown photographer, all rights reserved.
+**Page**: @silversaga_clara_gallery;
+**SHA2-256**: `ae7e1b8fb9964ffdee8a880c9c11589f33bf1c94bcbd000787ec00ac445779d7`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Alex_Begin.jpg?v=1692902867>;
+**IA**: <https://web.archive.org/web/20260318161535/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Alex_Begin.jpg?v=1692902867>
+
+<!-- END alexae -->
+
+
+
+
+<!-- BEGIN fenae -->
+<!-- Template generated with lct01tools and manually filled in by humans! -->
+#### *Argenclara fenae* {#sec-argenclara-fenae}
+***Argenclara fenae*** Lemuria, 2026
+
+**Diagnosis**: *Argenclara fenae* is characterized by its fabric, a cyan linen bought secondhand from FabMo, a fabric retailer based in Sunnyvale, California.
+
+**Remarks**: All images of *Argenclara fenae* depict Fena wearing the dress off-shoulder. The blessed form for *Argenclara* has the sleeves worn on-shoulder. As such, *Argenclara fenae* is not considered to be within the subclass Alourida Lemuria, 2026; unpublished. Fena sewed the dress in a size 40. See also @fena2023 for Fena's Instagram post.
+
+**Etymology**: From *Fena* + *-ae*, feminine genitive suffix.
+
+**Specimens examined**
+
+**Holotype**: ***Fena 105.6711AF*** &mdash; Photograph.
+2786&times;3715.
+Angled ventral view. Subject against wall, arms slightly crossed. Hair positioned dorsally.
+*Argenclara fenae* f. *umst.* wb. Fena.T., 2023.
+&copy; Fena Tandriarto or unknown photographer, all rights reserved.
+**Page**: @silversaga_clara_gallery;
+**SHA2-256**: `9c2722262cf0970f1187acf40e72e80c381d0c5a2c03d7e85996a1a574c275ed`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Fena_tandriarto.jpg?v=1692902195>;
+**IA**: <https://web.archive.org/web/2/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Fena_tandriarto.jpg>
+
+***Fena 105.6734AF*** &mdash; Photograph.
+2969&times;3959.
+Ventral view. Subject's arms on hair. Hair positioned dorsally.
+*Argenclara fenae* f. *umst.* wb. Fena.T., 2023.
+&copy; Fena Tandriarto or unknown photographer, all rights reserved.
+**Page**: @silversaga_clara_gallery;
+**SHA2-256**: `d91d7bdef693f9123f021b1b970fe856f7bd0e88db91966092026ea62bf295c9`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Fena_tandriarto6.jpg?v=1692902220>;
+**IA**: <https://web.archive.org/web/20260318161539/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Fena_tandriarto6.jpg?v=1692902220>
+
+***Fena 105.6737AF*** &mdash; Photograph.
+2937&times;3915.
+Angled ventral view. Subject's left foot forward. Arms mostly adducted. Hair positioned ventrally.
+*Argenclara fenae* f. *umst.* wb. Fena.T., 2023.
+&copy; Fena Tandriarto or unknown photographer, all rights reserved.
+**Page**: @silversaga_clara_gallery;
+**SHA2-256**: `052b2c2ca848a660f9279638d9141d675f1c0f834b504a07bdcfe87b8828b49d`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Fena_tandriarto3.jpg?v=1692902283>;
+**IA**: <https://web.archive.org/web/20260318161525/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Fena_tandriarto3.jpg?v=1692902283>
+
+<!-- END fenae -->
+
+
+<!-- BEGIN theresae -->
+<!-- Template generated with lct01tools and manually filled in by humans! -->
+#### *Argenclara theresae* {#sec-argenclara-theresae}
+***Argenclara theresae*** Lemuria, 2026
+
+**Diagnosis**: *Argenclara theresae* is characterized by its fabric, solid black, 100% cotton shirting from JoAnn Fabrics. It was cut in a size 36 based on Theresa's bust measurement. It lacks pockets. The sleeve was lengthened by 1 in (2.54 cm).
+
+**Remarks**: See also @theresa_n_2023 for Theresa's original Instagram post.
+
+**Etymology**: From *Theresa* + *-ae*, feminine genitive suffix.
+
+**Specimens examined**
+
+**Holotype**: ***Theresa 23.2818AT*** &mdash; Photograph.
+3294&times;4118
+Ventral view.
+Indoors. Window to subject's right, fully open, daytime conditions. Hair positioned dorsally, likely tied. Neckline not obscured.
+Subject's head slanted very slightly right. Arms fully adducted.
+*Argenclara theresae* wb. Theresa.N., 2023.
+&copy; Theresa Neef or unknown photographer, all rights reserved.
+**Page**: @silversaga_clara_gallery;
+**SHA2-256**: `78d1a33a0b23d4314740fc039d87737ed1857f0e658e8d097a9c9ba42893fdd3`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Theresa_Neef5.jpg?v=1692902728>;
+**IA**: <https://web.archive.org/web/20260414043552/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Theresa_Neef5.jpg?v=1692902728>
+
+***Theresa 23.3092AT*** &mdash; Photograph.
+2410&times;3012
+Ventral view.
+Indoors. Window to subject's right, fully open, daytime conditions. Hair positioned dorsally, likely tied. Neckline not obscured.
+Hands placed on wall. Zoomed out view.
+*Argenclara theresae* wb. Theresa.N., 2023.
+&copy; Theresa Neef or unknown photographer, all rights reserved.
+**Page**: @silversaga_clara_gallery;
+**SHA2-256**: `28ec362d9a28844d2df2d72fcf0c702b8da2370286109b928bd4d4239642b319`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Theresa_Neef6.jpg?v=1692902719>;
+**IA**: <https://web.archive.org/web/20260414043523/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Theresa_Neef6.jpg?v=1692902719>
+
+***Theresa 23.3091AT*** &mdash; Photograph.
+2733&times;3416
+Truncated angled ventral view.
+Indoors. Window to subject's right, fully open, daytime conditions. Hair positioned dorsally, likely tied. Neckline not obscured.
+Arms placed on lateral portions of ventral surface, inferior to inferior waist channel.
+*Argenclara theresae* wb. Theresa.N., 2023.
+&copy; Theresa Neef or unknown photographer, all rights reserved.
+**Page**: @silversaga_clara_gallery;
+**SHA2-256**: `05634dfb5036b41fa05ddf16bea8ab12915adfc7b0dc3d02de3641af459009d7`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Theresa_Neef.jpg?v=1692902739>;
+**IA**: <https://web.archive.org/web/20260414043538/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Theresa_Neef.jpg?v=1692902739>
+
+<!-- END theresae -->
 
 <!-- BEGIN Venaluna -->
 <!-- Template generated with lct01tools and manually filled in by humans! -->
