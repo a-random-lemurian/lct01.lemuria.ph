@@ -619,6 +619,29 @@ An illustration of an isosceles trapezoid [@alexandrov_illustration_2007], an id
 **Type genus**: *Argenclara*
 
 #### Genus *Argenclara* {#sec-argenclara}
+
+<!--
+TODO: proofread argenclara
+
+SPECIES FREEZE 2026-04-18
+once *Argenclara bethanae* is done we move on to some *Trunclara* spp.
+
+Proofreading concerns
+- [ ] 01 Proper year formatting
+- [ ] 02 Proper gen. nov., sp. nov., etc.
+- [ ] 03 No placeholders
+- [ ] 04 Ensure the page field is always specified
+- [ ] 05 Check that there are Instagram posts for each
+         instance or just explicitly write that there
+         is no insta post
+- [ ] 06 Full period stop after resolution info (fix the
+         holotyper....)
+- [ ] 07 General proofreading to find extra concerns for
+         later passes
+
+TODO: sort species alphabetically
+-->
+
 ***Argenclara*** Lemuria, 2026; gen. nov.
 
 **Taxonomic placement**: Placed in the family Argenclaridae.
@@ -3192,6 +3215,8 @@ And, we also point out the incredible coincidence that Silversaga is from the sa
 At publication, the journal did not have a DOI prefix.
 
 Work began on the paper on 2026-04-08 and was published ...
+
+*Argenclara* was put into a species freeze on 2026-04-18 and thus began proofreading.
 
 This monograph is part of the Silversaga special issue, a collection of research papers focused on the Swedish sewist and designer Jessica Silversaga and her patterns.
 
