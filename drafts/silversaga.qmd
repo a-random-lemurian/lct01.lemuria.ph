@@ -328,6 +328,25 @@ During work on this paper, the author created a new tool that automatically gene
 
 A paper dedicated solely to this software has not been started, but may be authored someday. YAML files used to generate the template text are provided with the paper. -->
 
+### Liberty {#sec-liberty}
+::: {#fig-liberty-entrance}
+![](silversaga_supplementary/Liberty_1_(4870171538).jpg)
+
+Entrance of the Liberty department store in London [@hisgett2010_liberty].
+United Kingdom: England, London, Regent Street, around intersections of Maddox and Noel Street. 51° 30′ 49.76″ N, 0° 08′ 26.28″ W (image coordinates).
+:::
+
+Liberty (<https://libertylondon.com>) is a British department store on Great Marlborough Street in the West End of London. Liberty sells fashion products and homewares, and most relevant to the monograph, fabrics. One of its collections, the Tana Lawn cotton, represents one of the largest fabric taxa in the fabric taxonomy of the LCT-01, still undeveloped. Some relevant species are described in @sec-tana.
+
+Liberty's website uses the Amplience content management system (<https://amplience.com>), as written in a case study [@amplience_casestudy_liberty], and as inferred from the host `i8.amplience.net` being used to load images.
+
+`amplience.net` does not block retrievals using Wget or cURL, however, it blocks the Wayback Machine for unknown reasons. The Wayback Machine returns the error "Save Page Now could not capture this URL because it was unreachable. If the site is online, it may be blocking access from our service.".
+The LCT-01's standard citation practice of providing a SHA2-256 hash and linking both to the original and to the IA is infeasible as a result of this issue.
+
+Amplience provides date information for images through the `x-amp-published` header; retrieving <https://i8.amplience.net/i/liberty/000544799-R124365006-1> using `curl` with the `--head` option returns the header `x-amp-published: Wed, 05 May 2021 14:46:01 GMT`. However, this date information conflicts with the DateOriginal field in the aforementioned image, which claims an original date of `2017-01-24 12:01:26`.
+
+Backup copies of holotype images are available on the lead author's servers. Contact the corresponding author to make a request if the original URL is no longer functional.
+
 ```{=latex}
 \onecolumn
 ```
@@ -2014,13 +2033,16 @@ METADATAFROMHOLOTYPER
   * **Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Ashley_General.jpg?v=1720291730>
   * **IA**: <https://web.archive.org/web/20260408095919/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Ashley_General2.jpg?v=1720291729>
 
-**Diagnosis**: *Heleonora fraxina* is characterized by
+**Diagnosis**: *Heleonora fraxina* is characterized by the usage of the fabric *Tanaflora betsia* (@sec-tanaflora-betsia) and having been sewn by Ashley General.
+<!-- Dependency graph?
+- *Liberashira evae*
+- Tana Lawn fabric taxonomy
+- Readers knowing what "Tanaflora betsia" means
+-->
 
-**Description**:
+**Remarks**: The fabric of *Heleonora fraxina* is identical to that of *Liberashira evae* wb. Eva, 2020; as of April 8, 2026, *Tanaflora betsia* is the first fabric to have been observed in two species.
 
-**Remarks**:
-
-**Etymology**: From
+**Etymology**: From Latin *fraxina*, feminine form of *fraxinus* ("of ash wood"), as a calque translation of *Ashley*, itself from Old English **Æsċlēah*, composed of *æsċ* ("ash tree") + *lēah* ("wood, clearing").
 
 **Specimens examined**:
 
@@ -2830,6 +2852,67 @@ Diagram not to scale. Actual distances between strap attachment points not to sc
 
 **Remarks**: The Argencoridae, the Cora top, is one of the few discontinued sewing patterns in Silversaga's repertoire. The pattern is attested solely on the Internet Archive.
 
+
+### Tana {#sec-tana}
+**Tana** Lemuria, 2026; unranked
+
+**Remarks**: Though Liberty fabrics are technically out of the scope of this monograph, which is about Silversaga, we include descriptions of some fabrics that have recurred for the first time in the LCT-01. The below taxa are considered *incertae sedis* within the root of the LCT-01; that is, not in domain Vestimentia.
+Liberty also reuses names for multiple distinct designs; either the barcode or LCT-01 binomial name can be used for disambiguation.
+
+**Reproducibility**. Images from Liberty's website have serious unresolved reproducibility concerns. See @sec-liberty.
+
+**Diagrams**. We have created diagrams of the features on some of the fabric holotypes. They are intended to be downloaded as is without images. The user can then align the diagram with the images directly obtained from Liberty's website. We do not embed the files themselves due to copyright concerns.
+
+**On floral prints in general.** Biological accuracy is often not a consideration when floral prints. Thus, the botanical descriptions seen in botanical papers is unsuitable as-is, and will require significant modification to accurately describe
+
+#### Genus *Tanaflora* {#sec-tanaflora}
+##### *Tanaflora betsia* {#sec-tanaflora-betsia}
+***Tanaflora betsia*** Lemuria, 2026; sp. nov.
+
+**Description**:
+**Physical fabric.** 100% cotton (most likely *Gossypium hirsutum* L.). 76 g/m2. 1.33 m usable width; max bolt len. 25 m. Liberty recommends line drying and washing at 40&deg; C.
+**Design.** Stylized flowers on white background. Hexagonal pattern, multiple floral designs (FD).
+**FD1**: top view, six petals, with small outward radial black lines.
+**FD2**: top view, six petals. Two-layered core; orange circle surrounding inner white core. Smiley face at core.
+**FD3**: top view, ~6-8 petals. No clear distinction between petals. Core 
+**FD4**: side view. Two flowers. On left, pink flower; on right, yellow flower. Orange core on both flowers with partial black arch line. Green pedicel.
+**FD5.1**: Two flowers seemingly laid atop each other. Bottom layer red, top layer orange.
+**FD5.2**: Two flowers seemingly laid atop each other. Bottom layer red, top layer orange on top, yellow on bottom.
+**FD6**: Yellow flower. Orange and white core. Line of three dots, two parallel lines, four parallel lines, and single line emanate from core.
+**FD7**: (number intentionally skipped).
+**FD8**: Yellow flower. Orange and white core. Significant areas of white color on petals, no line border to rest of yellow flower.
+Numerous other designs undescribed due to time constraints. Most FDs known to repeat ~10 cm vertically according to hexagonal pattern.
+
+**Seller information**: Liberty London. URL: <https://www.libertylondon.com/us/betsy-tana-lawn%E2%84%A2-cotton-000544799.html#>. Barcode `5057409022787`.
+
+**Used for**: *Liberashira evae* Lemuria, 2026, unpublished; *Heleonora fraxina* Lemuria, 2026, see @sec-heleonora-fraxina
+
+**Specimens examined**
+
+**Holotype**: ***000544799-R124365006-1*** &mdash;
+Photograph. 2500&times;3000.
+Exposure: 1/160s. F-stop: 18.0. Focal: 60.00 mm. ISO: unknown. Lens: unknown. Camera: Canon EOS 5D Mark III.
+Flat-lay of fabric on white background, zoomed in.
+&copy;&nbsp;Liberty London,&nbsp;2017, all rights reserved.
+**Page**: [@liberty_5057409022787];
+**SHA2-256**: `9c53c2b760f637ab47f656741fd7b63b88d840eaa72de6f96888fa55cef201c3`{.hash};
+**Original**: <https://i8.amplience.net/i/liberty/000544799-R124365006-1>.
+**IA**: (unavailable).
+
+<!-- File: 000544799-R124365006-3.jpg (HOLOTYPE INFO TEMPLATE FROM LCT01-HOLOTYPER)-->
+***000544799-R124365006-3*** &mdash;
+Photograph. 2500&times;3000.
+Exposure: 1/160s. F-stop: 18.0. Focal: 28.00 mm. ISO: unknown. Lens: unknown. Camera: Canon EOS 5D Mark III.
+Flat-lay of fabric on white background, zoomed out. One-meter ruler to left of fabric.
+&copy;&nbsp;Liberty London,&nbsp;2017, all rights reserved.
+**Page**: [@liberty_5057409022787];
+**SHA2-256**: `83a62d4dd2c2acf4c3a24fb0d4633f3d749182e9aeef2e19e33b9a5183161b74`{.hash};
+**Original**: <https://i8.amplience.net/i/liberty/000544799-R124365006-3>.
+**IA**: (unavailable).
+<!-- 
+
+##### *Tanaflora amelieluisa* {#sec-tanaflora-amelieluisa}
+***Tanaflora amelieluisa*** Lemuria, 2026; sp. nov. -->
 
 ```{=latex}
 \clearpage
