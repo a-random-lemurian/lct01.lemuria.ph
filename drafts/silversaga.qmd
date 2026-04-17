@@ -921,7 +921,7 @@ Outdoors, daytime lighting. Subject in darker lighting compared to background.
 Subject looking to her right, slightly downward.
 Hair positioned dorsally with slight drape on right side, laterally, obscuring right edge of neckline and shoulder. Small strands of hair ventral.
 Subject walking on wooden deck with forest in background.
-*Argenclara morgania* f. *umst*. wb. Mackenzie.M., unknown.
+*Argenclara morgania* f. *umst.* wb. Mackenzie.M., unknown.
 &copy; Mackenzie Morgan or unknown photographer, all rights reserved.
 **Page**: @silversaga_clara_gallery;
 **SHA2-256**: `35b3dead3e28d030388c6b98c68ad887ceec48a694d31b8c303f5bbce88a8462`{.hash};
@@ -1109,7 +1109,7 @@ Indoor lighting conditions. White wall in background; subject near corner. Unkno
 
 **Diagnosis**: *Argenclara cosmia* is characterized by its fabric, a double printed gauze with a brown background and small clusters of black dot and teardrop shapes.
 
-**Remarks**: See also @tortajada2023 for Marta's Instagram post..
+**Remarks**: See also @tortajada2023 for Marta's Instagram post.
 
 **Synonyms**:
 
@@ -1161,7 +1161,7 @@ Hair positioned dorsally with significant drape over left shoulder, partially ob
 <!-- BEGIN caitlinae -->
 <!-- Template generated with lct01tools and manually filled in by humans! -->
 #### *Argenclara caitlinae* {#sec-argenclara-caitlinae}
-***Argenclara caitlinae*** Lemuria, 2026
+***Argenclara caitlinae*** Lemuria, 2026; sp. nov.
 
 **Diagnosis**: *Argenclara caitlinae* is characterized by its fabric, a navy linen from B&M Fabrics, that is likely black or navy blue; unknown due to lighting conditions.
 
@@ -1179,7 +1179,7 @@ Outdoor conditions. Sun behind photographer as inferred from shadows.
 *Argenclara caitlinae* wb. Caitlin.D., 2023.
 &copy; Caitlin.D. or unknown photographer, all rights reserved.
 **Photograph locality**: United Kingdom: England, West Yorkshire, Leeds.
-**Page**: ;
+**Page**: @silversaga_clara_gallery;
 **SHA2-256**: `e11ef025717f86be06b983ced9cd3973cb6a754d5d10b8b421a98310118a3d71`{.hash};
 **Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/CaitlinDPatternTest-09.jpg?v=1692902128>;
 **IA**: <https://web.archive.org/web/20260414040234/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/CaitlinDPatternTest-09.jpg?v=1692902128>
@@ -1191,7 +1191,7 @@ Subject's arms fully adducted.
 Outdoor conditions. Sun behind photographer as inferred from shadows.
 *Argenclara caitlinae* wb. Caitlin.D., 2023.
 &copy; Caitlin.D. or unknown photographer, all rights reserved.
-**Page**: ;
+**Page**: @silversaga_clara_gallery;
 **SHA2-256**: `58664cf39631ffec4557d3646358111f645d06833a32468bc2f8444a2a3ddf83`{.hash};
 **Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/CaitlinDPatternTest-16.jpg?v=1692902119>;
 **IA**: <https://web.archive.org/web/20260318161543/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/CaitlinDPatternTest-16.jpg?v=1692902119>
@@ -1203,7 +1203,7 @@ Subject's left arm slightly behind skirt. Right arm adducted.
 Outdoor conditions. Sun behind photographer as inferred from shadows.
 *Argenclara caitlinae* wb. Caitlin.D., 2023.
 &copy; Caitlin.D. or unknown photographer, all rights reserved.
-**Page**: ;
+**Page**: @silversaga_clara_gallery;
 **SHA2-256**: `96e588d9a11367104b28ca3dc0fab741c394c9305fb1da53442a31c254fac98f`{.hash};
 **Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/CaitlinDPatternTest-11.jpg?v=1692902110>;
 **IA**: <https://web.archive.org/web/20260414040227/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/CaitlinDPatternTest-11.jpg?v=1692902110>
