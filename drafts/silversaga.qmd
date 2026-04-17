@@ -3038,6 +3038,7 @@ The morphological diversity of the Celestidae remains unbound: though 12 of the 
 
 ***Abbreviations.*** WR: waist row; WRt: waist row tie.
 <!--
+
 ```{=latex}
 \end{multicols}
 ```
