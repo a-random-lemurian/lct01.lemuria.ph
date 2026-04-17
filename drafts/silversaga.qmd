@@ -1390,6 +1390,80 @@ Subject looking to her right. Light source from her left; indoor white lighting.
 <!-- END lunatribis -->
 <!-- END Venaluna -->
 
+<!-- BEGIN Lacashira -->
+<!-- Template generated with lct01tools and manually filled in by humans! -->
+### *Argenclara* subg. *Lacashira* {#sec-argenclara-subg-lacashira}
+***Argenclara* subgenus *Lacashira*** Lemuria, 2026; subgen. nov.
+
+**Diagnosis**: *Argenclara* subg. *Lacashira* is characterized by the presence of lace in the insert between the superior and interior waist channels.
+
+**Etymology**: From *Laca*, pseudo-Latin form of *lace* + *shira*, pseudo-Latin form of *shirr*.
+
+<!-- replace taxon with the name of the rank! -->
+**Type species**: *Argenclara mantorae*
+
+<!-- BEGIN mantorae -->
+<!-- Template generated with lct01tools and manually filled in by humans! -->
+#### *Argenclara mantorae* {#sec-argenclara-mantorae}
+***Argenclara mantorae*** Lemuria, 2026
+
+**Diagnosis**: *Argenclara mantorae* is characterized by its fabric, a viscose&ndash;tencel blend from MeetMILK fabric, with a subtle gingham check pattern, and by the usage of lace fabric as a trim at the distal edges of the sleeve, as the primary fabric between the waist channels, and as another trim at the inferior end of the skirt.
+
+**Description**:
+
+**Remarks**: See also @mantori2023 for Suna's Instagram post.
+
+**Etymology**: From *Mantori* + *-ae*, feminine genitive suffix.
+
+**Specimens examined**
+
+**Holotype**: ***Mantori 19.3097*** &mdash; Photograph.
+2667&times;4000.
+Ventral view.
+White curtain in background. Light source from subject's left.
+Hair positioned ventrally. Most strands terminating on subject's left side, with small single strand on right side. Neckline shoulder edges not obscured.
+Subject's left arm placed on skirt, on lateral surface just inferior to inferior elastic channel. Right arm extended out of frame.
+Neckline stretched to roughly scapula level, with ~10&ndash;25% of shoulder area exposed.
+*Argenclara mantorae* wb. Suna.M., 2023.
+&copy; Suna Mantori or unknown photographer, all rights reserved.
+**Page**: ;
+**SHA2-256**: `6e25bd7c36ed209ccaa5fe6f73be80c74ffa2b1485ff97e1a3b69ef78c83ee2b`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Suna-Mantori6.jpg?v=1692899267>;
+**IA**: <https://web.archive.org/web/20260318161553/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Suna-Mantori6.jpg?v=1692899267>
+
+***Mantori 19.1761*** &mdash; Photograph.
+2771&times;4000.
+Dorsal view.
+White curtain in background. Light source from subject's right.
+Hair positioned ventrally, with small strands draping dorsally, neckline not significantly obscured.
+Subject's left arm placed on superior portion of skirt.
+Right arm extends out of frame.
+Neckline stretched to roughly scapula level, with ~10&ndash;25% of shoulder area exposed.
+*Argenclara mantorae* wb. Suna.M., 2023.
+&copy; Suna Mantori or unknown photographer, all rights reserved.
+**Page**: ;
+**SHA2-256**: `df7a021014cdf4cbe8e2d3e8c4405c62a2252120d2b87561441a556f9bc5ac2a`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Suna-Mantori5.jpg?v=1692899286>;
+**IA**: <https://web.archive.org/web/20260318161541/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Suna-Mantori5.jpg?v=1692899286>
+
+***Mantori 19.1823*** &mdash; Photograph.
+2667&times;4000.
+Ventral view.
+White curtain in background. Light source from subject's left.
+Hair positioned ventrally, draping laterally, neckline not significantly obscured.
+Subject's left arm placed on skirt, on lateral surface just inferior to inferior elastic channel.
+Neckline stretched to roughly scapula level, with ~10&ndash;25% of shoulder area exposed.
+*Argenclara mantorae* wb. Suna.M., 2023.
+&copy; Suna Mantori or unknown photographer, all rights reserved.
+**Page**: ;
+**SHA2-256**: `a58e3f4d81d66735aa8c1a25e8aceb19d45547ef4a1245b71209b66f6228c2ef`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Suna-Mantori.jpg?v=1692899248>;
+**IA**: <https://web.archive.org/web/20260413153422/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Suna-Mantori.jpg?v=1692899248>
+
+<!-- END mantorae -->
+<!-- END Lacashira -->
+<!-- END Argenclara -->
+
 ### Family Juliettidae {#sec-juliettidae}
 **Juliettidae** Lemuria, 2026; familia nova
 
