@@ -874,6 +874,52 @@ taxa:
               abbr: Eva
               name: Kate Eva
           
+      bethanae:
+        rank: species
+        holotype:
+          - name: Bethany 126.4429
+            view: ventral
+            width: 1200
+            height: 1600
+            sum:
+              sha256: 51e9246e21e8fa3efb30d04cc5db51847709a620119a9a5bc0baf956ab55daff
+            urls:
+              - provider: orig
+                href: https://www.bethanylynnemakes.com/wp-content/uploads/2025/03/clara-dress-front-2.jpg
+              - provider: ia
+                href: https://web.archive.org/web/20260417183436/https://www.bethanylynnemakes.com/wp-content/uploads/2025/03/clara-dress-front-2.jpg
+            wearer:
+              abbr: Bethany.L.
+              name: Bethany Lynne
+        types:
+          - name: Bethany 126.4510
+            view: dorsal
+            width: 1200
+            height: 1600
+            sum:
+              sha256: fe1fbea9f7c2964811e5ba71fb73ebbe1fb9320a2f1ce101beb99e9a74b4b25f
+            urls:
+              - provider: orig
+                href: https://www.bethanylynnemakes.com/wp-content/uploads/2025/03/clara-dress-back.jpg
+              - provider: ia
+                href: https://web.archive.org/web/20260417183433/https://www.bethanylynnemakes.com/wp-content/uploads/2025/03/clara-dress-back.jpg
+            wearer:
+              abbr: Bethany.L.
+              name: Bethany Lynne
+          - name: Bethany 126.4700
+            view: ventral
+            width: 1200
+            height: 1601 # not a typo!!!
+            sum:
+              sha256: 6b44e0d23753615633eac1493373899b66456424cd96125f72fc01b3dc5c1a98
+            urls:
+              - provider: orig
+                href: https://www.bethanylynnemakes.com/wp-content/uploads/2025/03/clara-dress-front.jpg
+              - provider: ia
+                href: https://web.archive.org/web/20260417183432/https://www.bethanylynnemakes.com/wp-content/uploads/2025/03/clara-dress-front.jpg
+            wearer:
+              abbr: Bethany.L.
+              name: Bethany Lynne
       # novazelandensis:
 
 # subg. Lacashira -- lace at shirring area
