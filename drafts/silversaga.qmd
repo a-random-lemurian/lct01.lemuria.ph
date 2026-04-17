@@ -3028,7 +3028,7 @@ Hair entirely out of frame. Waist belt worn, with ribbon at ventral medial point
 remember, you can always cut-and-paste into a new monograph.
 -->
 ### Family Celestidae {#sec-celestidae}
-**Celestidae** Lemuria, 2026
+**Celestidae** Lemuria, 2026; familia nova
 
 **Remarks**: Celestidae, the Celeste Dress & Top (no. 198^[Internal incrementing identifier used by Silversaga. Silversaga does not use the numeric naming convention for marketing.]), was the newest pattern in Silversaga's repertoire when work began on the monograph. There was significant consideration as to whether Celestidae should be excluded from the monograph, due to its 16 views and 12 pattern hacks totalling to nearly 192 genera. It was eventually decided that the monograph would include Celestidae.
 
