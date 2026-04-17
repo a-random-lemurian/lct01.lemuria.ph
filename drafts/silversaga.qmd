@@ -1472,6 +1472,52 @@ Arms placed on lateral portions of ventral surface, inferior to inferior waist c
 
 <!-- END theresae -->
 
+<!-- BEGIN bethanae -->
+<!-- Template generated with lct01tools and manually filled in by humans! -->
+#### *Argenclara bethanae* {#sec-argenclara-bethanae}
+***Argenclara bethanae*** 
+
+**Diagnosis**: *Argenclara bethanae* is characterized by its fabric, a cotton lawn with a black background and large flowers. The flowers feature six petals, a yellow core, and a green leaf. 
+
+**Remarks**: See also [@bethany2025, Clara Dress] for Bethany's blog post, and @bethanyl2024_clara for Bethany's Instagram post regarding the dres.
+
+**Etymology**: From
+
+**Specimens examined**
+
+**Holotype**: ***Bethany 126.4429*** &mdash; Photograph.
+1200&times;1600.
+Ventral view. Indoors. Skirt extended outward to the left. Arms fully adducted.
+Hair positioned dorsally, with slight drape ventrally. Neckline not obscured.
+*Argenclara bethanae* wb. Bethany.L., 2024.
+&copy; Bethany Lynne or unknown photographer, all rights reserved.
+**Page**: ;
+**SHA2-256**: `51e9246e21e8fa3efb30d04cc5db51847709a620119a9a5bc0baf956ab55daff`{.hash};
+**Original**: <https://www.bethanylynnemakes.com/wp-content/uploads/2025/03/clara-dress-front-2.jpg>;
+**IA**: <https://web.archive.org/web/20260417183436/https://www.bethanylynnemakes.com/wp-content/uploads/2025/03/clara-dress-front-2.jpg>
+
+***Bethany 126.4510*** &mdash; Photograph.
+1200&times;1600.
+Dorsal view. Indoors. Hair tied dorsally. Arm extended slightly outward to left. Right arm possibly in front.
+*Argenclara bethanae* wb. Bethany.L., 2024.
+&copy; Bethany Lynne or unknown photographer, all rights reserved.
+**Page**: ;
+**SHA2-256**: `fe1fbea9f7c2964811e5ba71fb73ebbe1fb9320a2f1ce101beb99e9a74b4b25f`{.hash};
+**Original**: <https://www.bethanylynnemakes.com/wp-content/uploads/2025/03/clara-dress-back.jpg>;
+**IA**: <https://web.archive.org/web/20260417183433/https://www.bethanylynnemakes.com/wp-content/uploads/2025/03/clara-dress-back.jpg>
+
+***Bethany 126.4700*** &mdash; Photograph.
+1200&times;1601.
+Ventral view. Indoors. Hair tied dorsally. Subject's left arm adducted. Subject's right arm adducted as if reaching for blinds of window.
+*Argenclara bethanae* wb. Bethany.L., 2024.
+&copy; Bethany Lynne or unknown photographer, all rights reserved.
+**Page**: ;
+**SHA2-256**: `6b44e0d23753615633eac1493373899b66456424cd96125f72fc01b3dc5c1a98`{.hash};
+**Original**: <https://www.bethanylynnemakes.com/wp-content/uploads/2025/03/clara-dress-front.jpg>;
+**IA**: <https://web.archive.org/web/20260417183432/https://www.bethanylynnemakes.com/wp-content/uploads/2025/03/clara-dress-front.jpg>
+
+<!-- END bethanae -->
+
 <!-- BEGIN Venaluna -->
 <!-- Template generated with lct01tools and manually filled in by humans! -->
 #### *Argenclara* subg. *Venaluna* {#sec-argenclara-subg-venaluna}
