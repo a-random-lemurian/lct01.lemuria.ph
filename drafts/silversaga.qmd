@@ -859,7 +859,7 @@ Subject standing in forest.
 <!-- BEGIN wilhoitia -->
 <!-- Template generated with lct01tools and manually filled in by humans! -->
 #### *Argenclara wilhoitia* {#sec-argenclara-wilhoitia}
-***Argenclara wilhoitia*** Lemuria, 2026
+***Argenclara wilhoitia*** Lemuria, 2026; sp. nov.
 
 **Diagnosis**: *Argenclara wilhoitia* is characterized by its plain pink fabric.
 
@@ -910,7 +910,7 @@ Outdoors. Mid-day. Grass field surrounded by trees. Botanical identification imp
 <!-- BEGIN morgania -->
 <!-- Template generated with lct01tools and manually filled in by humans! -->
 #### *Argenclara morgania* {#sec-argenclara-morgania}
-***Argenclara morgania*** Lemuria, 2026
+***Argenclara morgania*** Lemuria, 2026; sp. nov.
 
 **Diagnosis**: *Argenclara morgania* is characterized by its fabric, a light turquoise floral pattern on a white background.
 
@@ -979,7 +979,7 @@ Subject on floor of building, between two pillars. Photographer not visible in r
 <!-- BEGIN malinae -->
 <!-- Template generated with lct01tools and manually filled in by humans! -->
 #### *Argenclara malinae* {#sec-argenclara-malinae}
-***Argenclara malinae*** Lemuria, 2026
+***Argenclara malinae*** Lemuria, 2026; sp. nov.
 
 **Diagnosis**: *Argenclara malinae* is characterized by its fabric, a quilt cotton from Selfmade.com; featuring white flowers on a red background.
 
@@ -1024,7 +1024,7 @@ METADATAFROMHOLOTYPER
 <!-- BEGIN alexisae -->
 <!-- Template generated with lct01tools and manually filled in by humans! -->
 #### *Argenclara alexisae* {#sec-argenclara-alexisae}
-***Argenclara alexisae*** Lemuria, 2026
+***Argenclara alexisae*** Lemuria, 2026; sp. nov.
 
 **Diagnosis**: *Argenclara alexisae* is characterized by its solid forest green linen fabric.
 
@@ -1286,7 +1286,7 @@ Sleeves worn lateral to upper arm, as off-shoulder.
 <!-- BEGIN mai -->
 <!-- Template generated with lct01tools and manually filled in by humans! -->
 #### *Argenclara mai* {#sec-argenclara-mai}
-***Argenclara mai*** Lemuria, 2026
+***Argenclara mai*** Lemuria, 2026; sp. nov.
 
 **Diagnosis**: *Argenclara mai* is characterized by its fabric, a light mocha background with clusters of white flowers.
 
@@ -1327,7 +1327,7 @@ Subject's arms fully adducted.
 <!-- BEGIN alexae -->
 <!-- Template generated with lct01tools and manually filled in by humans! -->
 #### *Argenclara alexae* {#sec-argenclara-alexae}
-***Argenclara alexae*** Lemuria, 2026
+***Argenclara alexae*** Lemuria, 2026; sp. nov.
 
 **Diagnosis**: *Argenclara alexae* is characterized by its fabric, a cotton called "folk" from Merchant and Mills; with a white background and overlapping blue lines in a gingham check-like pattern. 
 
@@ -1378,7 +1378,7 @@ Angled ventral view. Closer shot compared to first two images. Subject's arms fu
 <!-- BEGIN fenae -->
 <!-- Template generated with lct01tools and manually filled in by humans! -->
 #### *Argenclara fenae* {#sec-argenclara-fenae}
-***Argenclara fenae*** Lemuria, 2026
+***Argenclara fenae*** Lemuria, 2026; sp. nov.
 
 **Diagnosis**: *Argenclara fenae* is characterized by its fabric, a cyan linen bought secondhand from FabMo, a fabric retailer based in Sunnyvale, California.
 
@@ -1424,7 +1424,7 @@ Angled ventral view. Subject's left foot forward. Arms mostly adducted. Hair pos
 <!-- BEGIN theresae -->
 <!-- Template generated with lct01tools and manually filled in by humans! -->
 #### *Argenclara theresae* {#sec-argenclara-theresae}
-***Argenclara theresae*** Lemuria, 2026
+***Argenclara theresae*** Lemuria, 2026; sp. nov.
 
 **Diagnosis**: *Argenclara theresae* is characterized by its fabric, solid black, 100% cotton shirting from JoAnn Fabrics. It was cut in a size 36 based on Theresa's bust measurement. It lacks pockets. The sleeve was lengthened by 1 in (2.54 cm).
 
@@ -1475,7 +1475,7 @@ Arms placed on lateral portions of ventral surface, inferior to inferior waist c
 <!-- BEGIN bethanae -->
 <!-- Template generated with lct01tools and manually filled in by humans! -->
 #### *Argenclara bethanae* {#sec-argenclara-bethanae}
-***Argenclara bethanae*** 
+***Argenclara bethanae*** Lemuria, 2026; sp. nov.
 
 **Diagnosis**: *Argenclara bethanae* is characterized by its fabric, a cotton lawn with a black background and large flowers. The flowers feature six petals, a yellow core, and a green leaf. 
 
@@ -1658,7 +1658,7 @@ Subject looking to her right. Light source from her left; indoor white lighting.
 <!-- BEGIN mantorae -->
 <!-- Template generated with lct01tools and manually filled in by humans! -->
 #### *Argenclara mantorae* {#sec-argenclara-mantorae}
-***Argenclara mantorae*** Lemuria, 2026
+***Argenclara mantorae*** Lemuria, 2026; sp. nov.
 
 **Diagnosis**: *Argenclara mantorae* is characterized by its fabric, a viscose&ndash;tencel blend from MeetMILK fabric, with a subtle gingham check pattern, and by the usage of lace fabric as a trim at the distal edges of the sleeve, as the primary fabric between the waist channels, and as another trim at the inferior end of the skirt.
 
