@@ -15,7 +15,7 @@ execute:
 # publisher-id: "lict2026.0006"
 abstract: |
   Jessica Silversaga is a Swedish pattern designer, photographer, and sewist. She is the owner of Silversaga Patterns, which began as a slow fashion RTW label before transitioning entirely to sewing patterns in 2023. She has some ~200 designs, of which 15 are available for purchase as sewing patterns.
-  Silversaga's patterns have attracted a sizeable community of sewists, mostly on Instagram, who have documented their makes of her patterns. These patterns number in the thousands; too much for a single taxonomist to singlehandedly catalog. As such, in this monograph, we focus on breadth instead of depth, by cataloging only a small but reflective sample of makes. The diversity and versatility of Silversaga's designs is reflected in the 15 families, 5 orders, and countless more genera and infrageneric taxa dedicated to Silversaga's patterns, scattered polyphyletically throughout the kingdom Abtruncusa.
+  Silversaga's patterns have attracted a sizeable community of sewists, mostly on Instagram, who have documented their makes of her patterns. These makes number in the thousands; too much for a single taxonomist to singlehandedly catalog. As such, in this monograph, we focus on breadth instead of depth, by cataloging only a small but reflective sample of makes. The diversity and versatility of Silversaga's designs is reflected in the 15 families, 5 orders, and countless more genera and infrageneric taxa dedicated to Silversaga's patterns, scattered polyphyletically throughout the kingdom Abtruncusa.
 bibliography: silversaga.bib
 number-sections: true
 citation:
@@ -1701,7 +1701,7 @@ The tea was then poured into a plastic tub, then diluted with three pots (est. 1
 
 In @koshimizu2018, which Bethany cites, the fabric was soaked in a 1:2 ratio of cold water&ndash;vinegar and then rinsed. However, Bethany skipped this step due to insufficient vinegar. The dress was then squeezed and placed on a plastic hanger to dry. The dress was then placed in a gentle wash cycle with a mild detergent and dried in a dryer [@bethany2024].
 
-Bethany wrote her own blog post detailing the process [@bethany2024], and cited a blog post from the *Woodlark Blog* [@koshimizu2018].
+Bethany wrote her own blog post detailing the process [@bethany2024], and cited a blog post from the *Woodlark Blog* [@koshimizu2018]. See also her Instagram post at @bethanyl2024_instagram.
 
 The change in color of the fabric is perhaps the first example of anagenesis in the LCT-01.
 
@@ -1719,7 +1719,7 @@ The change in color of the fabric is perhaps the first example of anagenesis in 
 **Holotype**: ***Bethany 108.5716*** &mdash; Photograph.
 3024&times;4032.
 Ventral view. Daytime lighting. Subject standing indoors, window to her right. Partially in shadow. Subject's arms fully adducted, with her right foot stretched out. Hair positioned ventrally.
-*Argenteleonora bethanae* var. *athea* wb. Bethany.L., YEAR.
+*Argenteleonora bethanae* var. *athea* wb. Bethany.L., 2024.
 &copy; Bethany Lynne or unknown photographer, all rights reserved.
 **Page**: @eleonora_gallery; 
 **SHA2-256**: `a1aef642f44c5bfbb6f8c00a6911e7a32e5df31252e71fd7a4330e4edf90ddf2`{.hash};
@@ -1730,7 +1730,7 @@ Ventral view. Daytime lighting. Subject standing indoors, window to her right. P
 3024&times;4032.
 Dorsal view. Daytime lighting. Subject standing indoors, same room as *Bethany 108.5716*, shadow slightly larger. Hair tied and positioned dorsally, running laterally across right scapula. Subject's right arm adducted.
 EXIF metadata stripped.
-*Argenteleonora bethanae* var. *athea* wb. Bethany.L., YEAR. <!-- TODO: year -->
+*Argenteleonora bethanae* var. *athea* wb. Bethany.L., 2025.
 &copy; Bethany Lynne or unknown photographer, all rights reserved.
 **Page**: @eleonora_gallery;
 **SHA2-256**: `06ea6f6c2a8b08aebdc8475aa43da82767211842ac11b0162b3bba8b9ccc204f`{.hash};
@@ -1741,7 +1741,7 @@ EXIF metadata stripped.
 2316&times;3088.
 Ventral view, white wall. Apparent light source from subject's right. Truncated view; subject's head not shown.
 EXIF metadata stripped.
-*Argenteleonora bethanae* var. *athea* wb. Bethany.L., YEAR. <!-- TODO: year -->
+*Argenteleonora bethanae* var. *athea* wb. Bethany.L., 2024.
 &copy; Bethany Lynne or unknown photographer, all rights reserved.
 **Page**: @eleonora_gallery;
 **SHA2-256**: `9d5ed53970c97a161cdccd7835b1ed80b62a6aac2ae4723c22f9d84e92caaf77`{.hash};
