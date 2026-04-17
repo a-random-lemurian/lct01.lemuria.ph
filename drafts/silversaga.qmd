@@ -1158,6 +1158,59 @@ Hair positioned dorsally with significant drape over left shoulder, partially ob
 **IA**: <https://web.archive.org/web/20260414035806/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Marta_Tortajada4.jpg?v=1692901891>
 <!-- END cosmia -->
 
+<!-- BEGIN caitlinae -->
+<!-- Template generated with lct01tools and manually filled in by humans! -->
+#### *Argenclara caitlinae* {#sec-argenclara-caitlinae}
+***Argenclara caitlinae*** Lemuria, 2026
+
+**Diagnosis**: *Argenclara caitlinae* is characterized by its fabric, a navy linen from B&M Fabrics, that is likely black or navy blue; unknown due to lighting conditions.
+
+**Remarks**: See also @caitlind2023 for Caitlin's Instagram post.
+
+**Etymology**: From *Caitlin* + *-ae*, feminine genitive suffix.
+
+**Specimens examined**
+
+**Holotype**: ***Caitlin 40.1873AC*** &mdash; Photograph.
+3024&times;4032.
+Ventral view. Subject looking slightly downward. Hair positioned ventrally, terminating just short of neckline edges.
+Subject interacting with distal edge of left sleeve using right hand.
+Outdoor conditions. Sun behind photographer as inferred from shadows.
+*Argenclara caitlinae* wb. Caitlin.D., 2023.
+&copy; Caitlin.D. or unknown photographer, all rights reserved.
+**Photograph locality**: United Kingdom: England, West Yorkshire, Leeds.
+**Page**: ;
+**SHA2-256**: `e11ef025717f86be06b983ced9cd3973cb6a754d5d10b8b421a98310118a3d71`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/CaitlinDPatternTest-09.jpg?v=1692902128>;
+**IA**: <https://web.archive.org/web/20260414040234/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/CaitlinDPatternTest-09.jpg?v=1692902128>
+
+***Caitlin 40.1877AC*** &mdash; Photograph.
+3024&times;4032.
+Dorsal view. Subject looking back at camera. Hair positioned dorsally.
+Subject's arms fully adducted.
+Outdoor conditions. Sun behind photographer as inferred from shadows.
+*Argenclara caitlinae* wb. Caitlin.D., 2023.
+&copy; Caitlin.D. or unknown photographer, all rights reserved.
+**Page**: ;
+**SHA2-256**: `58664cf39631ffec4557d3646358111f645d06833a32468bc2f8444a2a3ddf83`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/CaitlinDPatternTest-16.jpg?v=1692902119>;
+**IA**: <https://web.archive.org/web/20260318161543/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/CaitlinDPatternTest-16.jpg?v=1692902119>
+
+***Caitlin 40.1879AC*** &mdash; Photograph.
+3024&times;4032.
+Ventral view. Subject looking slightly upward to her right. Hair positioned dorsally, small strands ventrally, slightly obscuring neckline edges.
+Subject's left arm slightly behind skirt. Right arm adducted.
+Outdoor conditions. Sun behind photographer as inferred from shadows.
+*Argenclara caitlinae* wb. Caitlin.D., 2023.
+&copy; Caitlin.D. or unknown photographer, all rights reserved.
+**Page**: ;
+**SHA2-256**: `96e588d9a11367104b28ca3dc0fab741c394c9305fb1da53442a31c254fac98f`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/CaitlinDPatternTest-11.jpg?v=1692902110>;
+**IA**: <https://web.archive.org/web/20260414040227/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/CaitlinDPatternTest-11.jpg?v=1692902110>
+
+<!-- END caitlinae -->
+
+
 <!-- BEGIN Venaluna -->
 <!-- Template generated with lct01tools and manually filled in by humans! -->
 #### *Argenclara* subg. *Venaluna* {#sec-argenclara-subg-venaluna}
