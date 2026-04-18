@@ -208,6 +208,7 @@ We define the following new person abbreviations.
 * **Mai** &mdash; Mai Vang
 * **Malin.S.** &mdash; Malin Stara (Instagram: &commat;[`angelinlace`{.hash}](https://www.instagram.com/angelinlace/)). Sweden.
 * **Mel.T.** &mdash; Mel Tesch (Instagram: &commat;[`melt.stitches`{.hash}](https://www.instagram.com/melt.stitches/)); bust 81 cm; waist 65 cm; hip 90 cm (provided on Instagram page). Australia: Queensland, Brisbane.
+* **Piola** &mdash; Piola (Instagram: &commat;[`piola.makes`{.hash}](https://instagram.com/piola.makes))
 * **Stapleton** &mdash; Laural<!-- NOT A TYPO! --> Stapleton (first name not a typo; Instagram: &commat;[`themakerhaus`{.hash}](https://instagram.com/themakerhaus); see @sec-laural-stapleton).
 * **Suna.M.** &mdash; Suna Mantori (Instagram: &commat;[`threadbitchbrighton`{.hash}](https://instagram.com/threadbitchbrighton/)); bust 89 cm; waist 75 cm; hip 97 cm (provided on Instagram page). United Kingdom: England, East Sussex, Brighton.
 * **Theresa.N.** &mdash; Theresa Neef (Instagram: &commat;[`notesonmatter`{.hash}](https://instagram.com/notesonmatter)). United States: Louisiana, New Orleans.
@@ -1749,6 +1750,65 @@ Neckline stretched to roughly scapula level, with ~10&ndash;25% of shoulder area
 <!-- END mantorae -->
 <!-- END Lacashira -->
 <!-- END Argenclara -->
+
+<!-- BEGIN Trunclara -->
+<!-- Template generated with lct01tools and manually filled in by humans! -->
+### Genus *Trunclara* {#sec-genus-trunclara}
+***Trunclara*** Lemuria, 2026; gen. nov.
+
+**Diagnosis**: *Trunclara* is distinguished from *Argenclara* by the lack of a skirt.
+
+**Etymology**: From *trun-*, suffix for tops (bodice-only versions of dresses, without skirts), from medical New Latin *truncus* ("torso, trunk") + *Clara*.
+
+<!-- replace taxon with the name of the rank! -->
+**Type taxon**: *Trunclara piolae*
+
+<!-- BEGIN piolae -->
+<!-- Template generated with lct01tools and manually filled in by humans! -->
+#### *Trunclara piolae* {#sec-trunclara-piolae}
+***Trunclara piolae*** Lemuria, 2026; sp. nov.
+
+**Diagnosis**: *Trunclara piolae* is characterized by its fabric, a lightweight olive green linen.
+
+**Etymology**: From *Piola* + *-ae*, feminine genitive suffix.
+
+**Specimens examined**
+
+**Holotype**: ***Piola 2024.12778.20*** &mdash; Photograph.
+1440&times;1800.
+Ventral view. Outdoors. Wooden exterior of house in background, subject on wooden floor.
+Subject's left arm on lateral surface inferior to inferior elastic channel.
+Hair positioned dorsally, neckline not obscured.
+*Trunclara piolae* wb. Piola, 2024.
+&copy; Piola or unknown photographer, all rights reserved.
+**Page**: @piola2024;
+**SHA2-256**: `0e25ef36b7f713a6e85b2de1dc7694fdb8c51aedf2529bb39e2bc9bb8b8eabf3`{.hash};
+**IA**: <https://web.archive.org/web/20260418164650/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/651032635_17935612314033315_7469322359039305818_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=MzM1ODQ0OTUwMTkzOTQ4MzQyOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTgwMC5zZHIuQzMifQ%3D%3D&_nc_ohc=AYf-jm9P3HsQ7kNvwFL0D_N&_nc_oc=AdrHG_Bgwhx8FsyO4rzTOYDtFZF5GL-bNW1Ree12JXbaml96lKiMkIdVeOtSA9WgU-s&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=BZsiCw5W7XYL3ytgUQOkGw&_nc_ss=7a32e&oh=00_Af00k_G602S0zFFm7tgwy7GPoBx44yt2XLaqs5O4EzXunQ&oe=69E9722F>
+
+***Piola 2024.12778.27*** &mdash; Photograph.
+1440&times;1800.
+Ventral view. Outdoors. Wooden exterior of house in background, subject on wooden floor.
+Subject slightly slanted to the right. Right arm off the ground. Arms mostly adducted.
+Hair positioned dorsally, neckline not obscured.
+*Trunclara piolae* wb. Piola, 2024.
+&copy; Piola or unknown photographer, all rights reserved.
+**Page**: @piola2024;
+**SHA2-256**: `47a1d8b64aef3d5cabb6aed3eae4b5a161a27127d0e8237946074150f3b162e5`{.hash};
+**IA**: <https://web.archive.org/web/20260418164651/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/654634402_18171473422396408_4043238219587882316_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=MzM1ODQ0OTUwMTkzMTEwMzQ1OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTgwMC5zZHIuQzMifQ%3D%3D&_nc_ohc=dNAodqjLhEgQ7kNvwEN1OiH&_nc_oc=AdoD8ufAp18Su2PY3dtau-gCmiUvjd3Ti231-xkNk1wzFUJuqJFP2LueoIGGy4KEcEM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=BZsiCw5W7XYL3ytgUQOkGw&_nc_ss=7a32e&oh=00_Af3N-u7yPQ9Zvr8nAYTIMeFUZKUXDoZ9IX3ziZpW-s2jgQ&oe=69E96F85>
+
+***Piola 2024.12778.41*** &mdash; Photograph.
+1440&times;1800.
+Ventral view. Outdoors. Wooden exterior of house in background, subject on wooden floor.
+Hair positioned dorsally, neckline not obscured.
+Both hands placed on lateral surfaces inferior to inferior elastic channel.
+*Trunclara piolae* wb. Piola, 2024.
+&copy; Piola or unknown photographer, all rights reserved.
+**Page**: @piola2024;
+**SHA2-256**: `077511bc1d8f2d5c073b42b4b09e004cff72da9012c1559319851c2a1a607c2a`{.hash};
+**IA**: <https://web.archive.org/web/20260418164654/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/656867146_18038961785568678_4270797345592559343_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=MzM1ODQ0OTUwMjE5MTEzMjI1OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTgwMC5zZHIuQzMifQ%3D%3D&_nc_ohc=M4PsMyJEpvIQ7kNvwHBQ-8j&_nc_oc=AdoP12JnF5qciPXDO2TAeCpNFsnxpDOtkxIhfZRYy8F0AssIlJEogXaSnIqFnoisNuc&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=BZsiCw5W7XYL3ytgUQOkGw&_nc_ss=7a32e&oh=00_Af3cZfjFxVOcrwtVNI0hjtItD5ropnXzVMAQpDMmnMxNug&oe=69E98966>
+
+<!-- END piolae -->
+<!-- END Trunclara -->
 
 ### Family Juliettidae {#sec-juliettidae}
 **Juliettidae** Lemuria, 2026; familia nova
