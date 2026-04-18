@@ -481,7 +481,10 @@ Amelie    -- Amelidae
 \clearpage
 ```
 
+
 ## Trees {#sec-trees}
+We provide several overview trees of the Silversaga taxa.
+
 ```{r}
 #| results: asis
 #| fig-show: asis
@@ -974,7 +977,7 @@ Outdoor conditions. Sun behind photographer as inferred from shadows.
 
 **Synonyms**:
 
-* *Argenclara tortajada* Lemuria, 2026. Junior synonym. Based on Marta's last name, inferred from pattern tester filenames. We decided to rename the species epithet to *cosmia* based on Marta's Instagram account during the compilation of the monograph.
+* *Argenclara tortajada* Lemuria, 2026. Junior synonym. Based on Marta's last name, inferred from pattern tester filenames. We decided to rename the species epithet to *cosmia* based on Marta's Instagram handle during the compilation of the monograph.
 
 **Etymology**: From Marta's Instagram handle, `cosmia`.
 
@@ -1777,7 +1780,7 @@ Neckline stretched to roughly scapula level, with ~10&ndash;25% of shoulder area
 
 <!-- BEGIN Trunclara -->
 <!-- Template generated with lct01tools and manually filled in by humans! -->
-### Genus *Trunclara* {#sec-genus-trunclara}
+### Genus *Trunclara* {#sec-trunclara}
 ***Trunclara*** Lemuria, 2026; gen. nov.
 
 **Diagnosis**: *Trunclara* is distinguished from *Argenclara* by the lack of a skirt.
