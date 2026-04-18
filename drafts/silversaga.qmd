@@ -288,6 +288,9 @@ However, we exclude the Celeste pattern, as its 16 views and 12 pattern hacks in
 ### Equipment and software {#sec-equipment-and-software}
 The author conducted his research on a computer running Ubuntu 24.04, with the XFCE desktop environment. He used the SHA2-256 algorithms to compute the cryptographic hashes of the photographic specimens he examined for species descriptions. He used Firefox 139.0.4. His monitor is a 55.8 cm (22 in) wide, 30.48 cm (12 in) tall, 63.5 cm (25 in) diagonal monitor, the NVISION S2515-B 25" IPS with a 100Hz refresh rate. He is not colorblind. He is near sighted and wears glasses.
 
+See @fig-sha256sum for `sha256sum`, `ffmpeg`, and `openssl` hashes.
+
+
 ### Specimen locations
 Specimens were collected from Silversaga Patterns' website (<https://silversagapatterns.com>); with a focus on the pattern tester galleries. The Silversaga Patterns website uses Shopify as its underlying platform and image storage; EXIF metadata removal is likely consistent with internal Shopify server-side upload processing code.
 
@@ -348,8 +351,32 @@ Amplience provides date information for images through the `x-amp-published` hea
 
 Backup copies of holotype images are available on the lead author's servers. Contact the corresponding author to make a request if the original URL is no longer functional.
 
+### Annotations
+We also provide annotations of certain holotype images to explain their construction and terms we have coined for reference to specific parts of the dress. We note that these terms will almost certainly differ from sewing terms or the terms used by Jessica in the patterns themselves. For copyright purposes, we only provide these annotations standalone; we include a URL for the original image to allow the user to retrieve and stitch the final annotation themselves.
+
+A mostly abridged guide for viewing these annotations with the original images is as follows:
+
+1. Download the annotation SVG file. <!-- TODO: Provide either a source or data availability section -->
+2. Open the SVG file and find a URL in the top right corner. Download that URL and save the image to the same folder as the SVG file.
+3. Close and reopen the SVG file to see the final form of the annotation with the image in the background.
+
+As an example, we provide an annotation for *Argenclara baumgartia* in @fig-argenclara-baumgartia.
+
+
 ```{=latex}
 \onecolumn
+```
+
+::: {#fig-argenclara-baumgartia}
+
+![](silversaga_supplementary/Baumgart_95.6714.annot.svg)
+
+Raw diagram of *Argenclara baumgartia* (@sec-argenclara-baumgartia). For copyright reasons as stated in the body, the reader should overlay the diagram over the original image on their own computer using the instructions provided.
+:::
+
+
+```{=latex}
+\clearpage
 ```
 
 ::: {#fig-sha256sum}
@@ -368,7 +395,6 @@ $ sha256sum /usr/bin/sha256sum /usr/bin/openssl
 f293048f656688883ee919eb3f4b12926aaa13362de0eb6e3b5716b915b18b35  /usr/bin/sha256sum
 724acbe911513d13f52bae0b8969b20336cd8618fc67898a6bf7847bf1a270ad  /usr/bin/openssl
 ```
-
 A hash of the sha256sum and openssl utilities on the lead author's computer.
 
 ```
