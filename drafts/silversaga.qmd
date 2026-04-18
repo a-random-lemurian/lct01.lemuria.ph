@@ -1788,7 +1788,7 @@ Neckline stretched to roughly scapula level, with ~10&ndash;25% of shoulder area
 **Etymology**: From *trun-*, suffix for tops (bodice-only versions of dresses, without skirts), from medical New Latin *truncus* ("torso, trunk") + *Clara*.
 
 <!-- replace taxon with the name of the rank! -->
-**Type taxon**: *Trunclara piolae*
+**Type species**: *Trunclara piolae*
 
 <!-- BEGIN piolae -->
 <!-- Template generated with lct01tools and manually filled in by humans! -->
