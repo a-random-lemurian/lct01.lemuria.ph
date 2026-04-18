@@ -639,7 +639,6 @@ Proofreading concerns
 - [ ] 07 General proofreading to find extra concerns for
          later passes
 
-TODO: sort species alphabetically
 -->
 
 ***Argenclara*** Lemuria, 2026; gen. nov.
@@ -677,6 +676,108 @@ Skirt terminates slightly superior to ankle.
 **Type species**: 
 
 **Forms**: Two forms apply to *Argenclara* spp.: f. *umerostenta* (off-shoulder) and f. *isotrapezia* (on-shoulder). f. *isotrapezia* is designated as the blessed form for *Argenclara*.
+
+
+
+<!-- BEGIN alexae -->
+<!-- Template generated with lct01tools and manually filled in by humans! -->
+#### *Argenclara alexae* {#sec-argenclara-alexae}
+***Argenclara alexae*** Lemuria, 2026; sp. nov.
+
+**Diagnosis**: *Argenclara alexae* is characterized by its fabric, a cotton called "folk" from Merchant and Mills; with a white background and overlapping blue lines in a gingham check-like pattern. 
+
+**Remarks**: See also @begin2023 for Alex's instagram post.
+
+The Royal Mail wall-embedded mailbox on the subject's left proves that the images were taken in the United Kingdom.
+
+**Etymology**: From *Alex* + *-ae*, feminine genitive suffix.
+
+**Specimens examined**
+
+**Holotype**: ***Alex 40.6700AA*** &mdash; Photograph.
+3024&times;4032.
+Ventral view. Subject on sidewalk. Arms fully adducted.
+*Argenclara alexae* wb. Alex.B., 2023.
+&copy; Alex Begin or unknown photographer, all rights reserved.
+
+**Page**: @silversaga_clara_gallery;
+**SHA2-256**: `75e5aeb22ebb1171a6ca28187e26466af48e21d69f611ef781d5e3bfb92d8211`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Alex_Begin2.jpg?v=1692902847>;
+**IA**: <https://web.archive.org/web/20260414044848/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Alex_Begin2.jpg?v=1692902847>
+
+***Alex 40.6735AA*** &mdash; Photograph.
+3024&times;4032.
+Ventral view. Subject on sidewalk. Arms behind torso, resembling "at ease" position.
+*Argenclara alexae* wb. Alex.B., 2023.
+&copy; Alex Begin or unknown photographer, all rights reserved.
+**Page**: @silversaga_clara_gallery;
+**SHA2-256**: `494d1719bad12d3c7a47bfa3c9ab93e95c5c3a38c36fb42d38c6f76b7ae37a40`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Alex_Begin3.jpg?v=1692902839>;
+**IA**: <https://web.archive.org/web/20260414044827/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Alex_Begin3.jpg?v=1692902839>
+
+***Alex 40.6746AA*** &mdash; Photograph.
+3024&times;4032.
+Angled ventral view. Closer shot compared to first two images. Subject's arms fully adducted.
+*Argenclara alexae* wb. Alex.B., 2023.
+&copy; Alex Begin or unknown photographer, all rights reserved.
+**Page**: @silversaga_clara_gallery;
+**SHA2-256**: `ae7e1b8fb9964ffdee8a880c9c11589f33bf1c94bcbd000787ec00ac445779d7`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Alex_Begin.jpg?v=1692902867>;
+**IA**: <https://web.archive.org/web/20260318161535/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Alex_Begin.jpg?v=1692902867>
+
+<!-- END alexae -->
+
+
+<!-- BEGIN alexisae -->
+<!-- Template generated with lct01tools and manually filled in by humans! -->
+#### *Argenclara alexisae* {#sec-argenclara-alexisae}
+***Argenclara alexisae*** Lemuria, 2026; sp. nov.
+
+**Diagnosis**: *Argenclara alexisae* is characterized by its solid forest green linen fabric.
+
+**Remarks**: Alexis sewed the dress in a size 38 (88 cm bust), with 3.2 m (3.5 yd; 10.5 ft) of fabric [@wright2023].
+
+**Etymology**: From *Alexis* + *-ae*, feminine genitive suffix.
+
+**Specimens examined**
+
+**Holotype**: ***Wright 17.4019*** &mdash; Photograph.
+2668&times;4000.
+Ventral view. Outdoor lighting, shallow depth of field.
+Subject looking to right. Hair positioned ventrally, obstructing neckline bilaterally. Medial portion remains visible.
+Subject's arms fully adducted.
+*Argenclara alexisae* wb. Alexis.Wr., 2023.
+&copy; Alexis Wright or unknown photographer, all rights reserved.
+**Page**: @silversaga_clara_gallery;
+**SHA2-256**: `f8fb0cbde9ff4dde8b1949f6dd9c0b68870fd3f5f7cca8ce07a1e10fd048b916`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Alexis-Wright.jpg?v=1692900295>;
+**IA**: <https://web.archive.org/web/20260413155859/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Alexis-Wright.jpg?v=1692900295>
+
+***Wright 17.4033*** &mdash; Photograph.
+3335&times;5000.
+Right lateral view. Outdoor lighting, shallow depth of field.
+Hair positioned both ventrally and dorsally.
+*Argenclara alexisae* wb. Alexis.Wr., 2023.
+&copy; Alexis Wright or unknown photographer, all rights reserved.
+**Page**: @silversaga_clara_gallery;
+**SHA2-256**: `29a9ab040a78a6d44c66d7989e9e5aac04b98ddb62948fd672c0ed1fe110f494`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Alexis-Wright4.jpg?v=1692900307>;
+**IA**: <https://web.archive.org/web/20260318161549/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Alexis-Wright4.jpg?v=1692900307>
+
+***Wright 17.4076*** &mdash; Photograph.
+3335&times;5000.
+Ventral view. Outdoor lighting, shallow depth of field.
+Subject looking to right. Hair positioned ventrally, obstructing neckline bilaterally. Medial portion remains visible.
+Subject's left arm on lateral surface of waist channels. Right arm adducted.
+*Argenclara alexisae* wb. Alexis.Wr., 2023.
+&copy; Alexis Wright or unknown photographer, all rights reserved.
+**Page**: @silversaga_clara_gallery;
+**SHA2-256**: `b7144f02712087587be248f698f232b1809c10f148895e8a2c5b152e5c314823`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Alexis-Wright3.jpg?v=1692900316>;
+**IA**: <https://web.archive.org/web/20260413155930/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Alexis-Wright3.jpg?v=1692900316>
+
+<!-- END alexisae -->
+
 
 <!-- BEGIN baumgartia -->
 <!-- Template generated with lct01tools and manually filled in by humans! -->
@@ -734,6 +835,166 @@ Indoor lighting from subject's left; light manifests in pattern of bars, likely 
 
 <!-- END baumgartia -->
 
+
+
+<!-- BEGIN bethanae -->
+<!-- Template generated with lct01tools and manually filled in by humans! -->
+#### *Argenclara bethanae* {#sec-argenclara-bethanae}
+***Argenclara bethanae*** Lemuria, 2026; sp. nov.
+
+**Diagnosis**: *Argenclara bethanae* is characterized by its fabric, a cotton lawn with a black background and large flowers. The flowers feature six petals, a yellow core, and a green leaf. 
+
+**Remarks**: See also [@bethany2025, Clara Dress] for Bethany's blog post, and @bethanyl2024_clara for Bethany's Instagram post regarding the dres.
+
+**Etymology**: From
+
+**Specimens examined**
+
+**Holotype**: ***Bethany 126.4429*** &mdash; Photograph.
+1200&times;1600.
+Ventral view. Indoors. Skirt extended outward to the left. Arms fully adducted.
+Hair positioned dorsally, with slight drape ventrally. Neckline not obscured.
+*Argenclara bethanae* wb. Bethany.L., 2024.
+&copy; Bethany Lynne or unknown photographer, all rights reserved.
+**Page**: ;
+**SHA2-256**: `51e9246e21e8fa3efb30d04cc5db51847709a620119a9a5bc0baf956ab55daff`{.hash};
+**Original**: <https://www.bethanylynnemakes.com/wp-content/uploads/2025/03/clara-dress-front-2.jpg>;
+**IA**: <https://web.archive.org/web/20260417183436/https://www.bethanylynnemakes.com/wp-content/uploads/2025/03/clara-dress-front-2.jpg>
+
+***Bethany 126.4510*** &mdash; Photograph.
+1200&times;1600.
+Dorsal view. Indoors. Hair tied dorsally. Arm extended slightly outward to left. Right arm possibly in front.
+*Argenclara bethanae* wb. Bethany.L., 2024.
+&copy; Bethany Lynne or unknown photographer, all rights reserved.
+**Page**: ;
+**SHA2-256**: `fe1fbea9f7c2964811e5ba71fb73ebbe1fb9320a2f1ce101beb99e9a74b4b25f`{.hash};
+**Original**: <https://www.bethanylynnemakes.com/wp-content/uploads/2025/03/clara-dress-back.jpg>;
+**IA**: <https://web.archive.org/web/20260417183433/https://www.bethanylynnemakes.com/wp-content/uploads/2025/03/clara-dress-back.jpg>
+
+***Bethany 126.4700*** &mdash; Photograph.
+1200&times;1601.
+Ventral view. Indoors. Hair tied dorsally. Subject's left arm adducted. Subject's right arm adducted as if reaching for blinds of window.
+*Argenclara bethanae* wb. Bethany.L., 2024.
+&copy; Bethany Lynne or unknown photographer, all rights reserved.
+**Page**: ;
+**SHA2-256**: `6b44e0d23753615633eac1493373899b66456424cd96125f72fc01b3dc5c1a98`{.hash};
+**Original**: <https://www.bethanylynnemakes.com/wp-content/uploads/2025/03/clara-dress-front.jpg>;
+**IA**: <https://web.archive.org/web/20260417183432/https://www.bethanylynnemakes.com/wp-content/uploads/2025/03/clara-dress-front.jpg>
+
+<!-- END bethanae -->
+
+
+<!-- BEGIN caitlinae -->
+<!-- Template generated with lct01tools and manually filled in by humans! -->
+#### *Argenclara caitlinae* {#sec-argenclara-caitlinae}
+***Argenclara caitlinae*** Lemuria, 2026; sp. nov.
+
+**Diagnosis**: *Argenclara caitlinae* is characterized by its fabric, a navy linen from B&M Fabrics, that is likely black or navy blue; unknown due to lighting conditions.
+
+**Remarks**: See also @caitlind2023 for Caitlin's Instagram post.
+
+**Etymology**: From *Caitlin* + *-ae*, feminine genitive suffix.
+
+**Specimens examined**
+
+**Holotype**: ***Caitlin 40.1873AC*** &mdash; Photograph.
+3024&times;4032.
+Ventral view. Subject looking slightly downward. Hair positioned ventrally, terminating just short of neckline edges.
+Subject interacting with distal edge of left sleeve using right hand.
+Outdoor conditions. Sun behind photographer as inferred from shadows.
+*Argenclara caitlinae* wb. Caitlin.D., 2023.
+&copy; Caitlin.D. or unknown photographer, all rights reserved.
+**Photograph locality**: United Kingdom: England, West Yorkshire, Leeds.
+**Page**: @silversaga_clara_gallery;
+**SHA2-256**: `e11ef025717f86be06b983ced9cd3973cb6a754d5d10b8b421a98310118a3d71`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/CaitlinDPatternTest-09.jpg?v=1692902128>;
+**IA**: <https://web.archive.org/web/20260414040234/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/CaitlinDPatternTest-09.jpg?v=1692902128>
+
+***Caitlin 40.1877AC*** &mdash; Photograph.
+3024&times;4032.
+Dorsal view. Subject looking back at camera. Hair positioned dorsally.
+Subject's arms fully adducted.
+Outdoor conditions. Sun behind photographer as inferred from shadows.
+*Argenclara caitlinae* wb. Caitlin.D., 2023.
+&copy; Caitlin.D. or unknown photographer, all rights reserved.
+**Page**: @silversaga_clara_gallery;
+**SHA2-256**: `58664cf39631ffec4557d3646358111f645d06833a32468bc2f8444a2a3ddf83`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/CaitlinDPatternTest-16.jpg?v=1692902119>;
+**IA**: <https://web.archive.org/web/20260318161543/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/CaitlinDPatternTest-16.jpg?v=1692902119>
+
+***Caitlin 40.1879AC*** &mdash; Photograph.
+3024&times;4032.
+Ventral view. Subject looking slightly upward to her right. Hair positioned dorsally, small strands ventrally, slightly obscuring neckline edges.
+Subject's left arm slightly behind skirt. Right arm adducted.
+Outdoor conditions. Sun behind photographer as inferred from shadows.
+*Argenclara caitlinae* wb. Caitlin.D., 2023.
+&copy; Caitlin.D. or unknown photographer, all rights reserved.
+**Page**: @silversaga_clara_gallery;
+**SHA2-256**: `96e588d9a11367104b28ca3dc0fab741c394c9305fb1da53442a31c254fac98f`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/CaitlinDPatternTest-11.jpg?v=1692902110>;
+**IA**: <https://web.archive.org/web/20260414040227/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/CaitlinDPatternTest-11.jpg?v=1692902110>
+
+<!-- END caitlinae -->
+
+
+
+<!-- BEGIN cosmia -->
+<!-- Template generated with lct01tools and manually filled in by humans! -->
+#### *Argenclara cosmia* {#sec-argenclara-cosmia}
+***Argenclara cosmia*** Lemuria, 2026; sp. nov.
+
+**Diagnosis**: *Argenclara cosmia* is characterized by its fabric, a double printed gauze with a brown background and small clusters of black dot and teardrop shapes.
+
+**Remarks**: See also @tortajada2023 for Marta's Instagram post.
+
+**Synonyms**:
+
+* *Argenclara tortajada* Lemuria, 2026. Junior synonym. Based on Marta's last name, inferred from pattern tester filenames. We decided to rename the species epithet to *cosmia* based on Marta's Instagram account during the compilation of the monograph.
+
+**Etymology**: From Marta's Instagram handle, `cosmia`.
+
+**Specimens examined**
+
+**Holotype**: ***Tortajada 39.8104*** &mdash; Photograph.
+3456&times;4608.
+Ventral view, outdoors.
+Subject looking to her right. Hair positioned ventrally, obscuring left neckline area.
+*Argenclara cosmia* wb. Marta.T., 2023.
+&copy; Marta Tortajada or unknown photographer, all rights reserved.
+**Photograph locality**: Spain: Valencia, Jardins del Real^[OpenStreetMap spelling. Instagram post uses the spelling *Jardines del Real* / *Jardines de Viveros*.]
+**Page**: @silversaga_clara_gallery;
+**SHA2-256**: `73acf0e0447ca2e1893b2ee45c301a30d0712a4e43fa379b51a5e7ec5eddaa4e`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Marta_Tortajada9.jpg?v=1692901969>;
+**IA**: <https://web.archive.org/web/20260318161538/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Marta_Tortajada9.jpg?v=1692901969>
+
+***Tortajada 39.8175*** &mdash; Photograph.
+3150&times;4200.
+Angled dorsal view, outdoors. Sun possibly in top-left of image, as inferred from significantly higher exposure.
+Subject looking back towards camera. Hair positioned both ventrally and dorsally.
+*Argenclara cosmia* wb. Marta.T., 2023.
+&copy; Marta Tortajada or unknown photographer, all rights reserved.
+**Photograph locality**: Same as *Tortajada 39.8104*.
+**Page**: @silversaga_clara_gallery;
+**SHA2-256**: `42ebddb381f033932335097c72611151b57f1d9c17668a99d6ea8621a05ebd2c`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Marta_Tortajada7.jpg?v=1692901934>;
+**IA**: <https://web.archive.org/web/20260318161546/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Marta_Tortajada7.jpg?v=1692901934>
+
+***Tortajada 39.8560*** &mdash; Photograph.
+3456&times;4608.
+Ventral view, outdoors. Light source, most likely the sun, from subject's right (top left of photograph).
+Subject facing slightly downward to her right.
+Hair positioned dorsally with significant drape over left shoulder, partially obscuring neckline.
+*Nerium oleander* L. in background.
+*Argenclara cosmia* wb. Marta.T., 2023.
+&copy; Marta Tortajada or unknown photographer, all rights reserved.
+**Photograph locality**: Same as *Tortajada 39.8104*.
+**Page**: @silversaga_clara_gallery;
+**SHA2-256**: `d4fd197e4b33f8243928496e467456a8daf234ed79ba965c844e903f589a8dc7`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Marta_Tortajada4.jpg?v=1692901891>;
+**IA**: <https://web.archive.org/web/20260414035806/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Marta_Tortajada4.jpg?v=1692901891>
+<!-- END cosmia -->
+
+
 <!-- BEGIN evae -->
 <!-- Template generated with lct01tools and manually filled in by humans! -->
 #### *Argenclara evae* {#sec-argenclara-evae}
@@ -758,6 +1019,52 @@ Subject in mirror, holding phone; phone slightly obscures left shoulder. Hair mo
 **IA**: <https://web.archive.org/web/20260415164826/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/658439210_18092747069157318_2777814582593702200_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=100&ig_cache_key=MzM2ODM5NDA4ODU2MDkyNDUyMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTgwMC5oZHIuQzMifQ%3D%3D&_nc_ohc=MWhqLyrOfNEQ7kNvwHKg1mD&_nc_oc=AdqWy75IPEYjGMYo1PyMszZWUMG4dZU3ipxM40Bpcl_aWSTt-r0zik9UpmQyv_4rtC8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=-1&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=714neZitmBxwtgr_hgOGKQ&_nc_ss=7a32e&oh=00_Af0dBv7eX7Ku2citXh8S676bFNllmVCTahrh0WFSxENyAQ&oe=69E59276>
 
 <!-- END evae -->
+
+
+<!-- BEGIN fenae -->
+<!-- Template generated with lct01tools and manually filled in by humans! -->
+#### *Argenclara fenae* {#sec-argenclara-fenae}
+***Argenclara fenae*** Lemuria, 2026; sp. nov.
+
+**Diagnosis**: *Argenclara fenae* is characterized by its fabric, a cyan linen bought secondhand from FabMo, a fabric retailer based in Sunnyvale, California.
+
+**Remarks**: All images of *Argenclara fenae* depict Fena wearing the dress off-shoulder. The blessed form for *Argenclara* has the sleeves worn on-shoulder. As such, *Argenclara fenae* is not considered to be within the subclass Alourida Lemuria, 2026; unpublished. Fena sewed the dress in a size 40. See also @fena2023 for Fena's Instagram post.
+
+**Etymology**: From *Fena* + *-ae*, feminine genitive suffix.
+
+**Specimens examined**
+
+**Holotype**: ***Fena 105.6711AF*** &mdash; Photograph.
+2786&times;3715.
+Angled ventral view. Subject against wall, arms slightly crossed. Hair positioned dorsally.
+*Argenclara fenae* f. *umst.* wb. Fena.T., 2023.
+&copy; Fena Tandriarto or unknown photographer, all rights reserved.
+**Page**: @silversaga_clara_gallery;
+**SHA2-256**: `9c2722262cf0970f1187acf40e72e80c381d0c5a2c03d7e85996a1a574c275ed`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Fena_tandriarto.jpg?v=1692902195>;
+**IA**: <https://web.archive.org/web/2/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Fena_tandriarto.jpg>
+
+***Fena 105.6734AF*** &mdash; Photograph.
+2969&times;3959.
+Ventral view. Subject's arms on hair. Hair positioned dorsally.
+*Argenclara fenae* f. *umst.* wb. Fena.T., 2023.
+&copy; Fena Tandriarto or unknown photographer, all rights reserved.
+**Page**: @silversaga_clara_gallery;
+**SHA2-256**: `d91d7bdef693f9123f021b1b970fe856f7bd0e88db91966092026ea62bf295c9`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Fena_tandriarto6.jpg?v=1692902220>;
+**IA**: <https://web.archive.org/web/20260318161539/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Fena_tandriarto6.jpg?v=1692902220>
+
+***Fena 105.6737AF*** &mdash; Photograph.
+2937&times;3915.
+Angled ventral view. Subject's left foot forward. Arms mostly adducted. Hair positioned ventrally.
+*Argenclara fenae* f. *umst.* wb. Fena.T., 2023.
+&copy; Fena Tandriarto or unknown photographer, all rights reserved.
+**Page**: @silversaga_clara_gallery;
+**SHA2-256**: `052b2c2ca848a660f9279638d9141d675f1c0f834b504a07bdcfe87b8828b49d`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Fena_tandriarto3.jpg?v=1692902283>;
+**IA**: <https://web.archive.org/web/20260318161525/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Fena_tandriarto3.jpg?v=1692902283>
+
+<!-- END fenae -->
 
 <!-- BEGIN gratia -->
 <!-- Template generated with lct01tools and manually filled in by humans! -->
@@ -879,56 +1186,146 @@ Subject standing in forest.
 **IA**: <https://web.archive.org/web/20260414045117/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Emily-Hetherington9.jpg?v=1692903165>
 <!-- END hetheringtonia -->
 
-<!-- BEGIN wilhoitia -->
+
+<!-- BEGIN jessae -->
 <!-- Template generated with lct01tools and manually filled in by humans! -->
-#### *Argenclara wilhoitia* {#sec-argenclara-wilhoitia}
-***Argenclara wilhoitia*** Lemuria, 2026; sp. nov.
+#### *Argenclara jessae* {#sec-argenclara-jessae}
+***Argenclara jessae*** Lemuria, 2026; sp. nov.
 
-**Diagnosis**: *Argenclara wilhoitia* is characterized by its plain pink fabric.
+**Diagnosis**: *Argenclara jessae* is characterized by its solid brown fabric.
 
-**Etymology**: From *Wilhoit* + *-ia*.
+**Remarks**: See also @jones2023 for Jones's Instagram post.
+
+**Etymology**: From *Jessa* + *-ae*, feminine genitive suffix.
 
 **Specimens examined**
 
-**Holotype**: ***Wilhoit 34.1870*** &mdash; Photograph.
-1500&times;1518
-EXIF metadata stripped, consistent with Shopify image processing.
-Angled ventral view.
-Subject facing to her left, as if walking. Hair positioned ventrally, draped to subject's right, obscuring right neckline edge. Left hand position unknown. Right hand on hair.
-Outdoors. Mid-day. Grass field surrounded by trees. Botanical identification impossible due to plants being out of focus.
-*Argenclara wilhoitia* wb. Lacy.W., unknown.
-&copy; Lacy Wilhoit or unknown photographer, all rights reserved.
-**Page**: ;
-**SHA2-256**: `3c9df8f8fe22fa80202e14b52d74ea6da2f784b342db0785d7077783a0fad483`{.hash};
-**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Lacy_Wilhoit9.jpg?v=1692902602>;
-**IA**: <https://web.archive.org/web/20260318161536/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Lacy_Wilhoit9.jpg?v=1692902602>
+**Holotype**: ***Jones 28.1741*** &mdash; Photograph.
+2316&times;3088
+Ventral view.
+Semi-outdoors environment; subject under roof, on patio.
+Subject's arms adducted and in bilateral pockets. Hair positioned dorsally. Bilateral earrings. Neckline not obscured.
+*Argenclara jessae* wb. Jessa.J., 2023.
+&copy; Jessa Jones or unknown photographer, all rights reserved.
+**Page**: @silversaga_clara_gallery;
+**SHA2-256**: `4a5a1a52a6d65719e0643ddcc9c16b09e613f6ef63bd26f783fcb7523421ea8d`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Jessa_Jones5.jpg?v=1692900432>;
+**IA**: <https://web.archive.org/web/20260318161532/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Jessa_Jones5.jpg?v=1692900432>
 
-***Wilhoit 34.1957*** &mdash; Photograph.
-1512&times;2016
-EXIF metadata stripped, consistent with Shopify image processing.
-Truncated ventral view. Hair positioned dorsally. Both hands placed on lateral surfaces inferior to inferior elastic channel.
-Outdoors. Mid-day. Grass field surrounded by trees. Botanical identification impossible due to plants being out of focus.
-*Argenclara wilhoitia* wb. Lacy.W., unknown.
-&copy; Lacy Wilhoit or unknown photographer, all rights reserved.
-**Page**: ;
-**SHA2-256**: `b6eb6e4e302b59b3ffd06d38a0c29f94c771eabe60fba54b40a5c85a761107f9`{.hash};
-**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Lacy_Wilhoit.jpg?v=1692902593>;
-**IA**: <https://web.archive.org/web/20260414045606/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Lacy_Wilhoit.jpg?v=1692902593>
+***Jones 28.1835*** &mdash; Photograph.
+2967&times;3956
+Ventral view.
+Semi-outdoors environment; subject under roof, on patio. Other houses in background.
+Subject's arms adducted and in bilateral pockets. Hair positioned dorsally. Bilateral earrings. Neckline not obscured.
+*Argenclara jessae* wb. Jessa.J., 2023.
+&copy; Jessa Jones or unknown photographer, all rights reserved.
+**Page**: @silversaga_clara_gallery;
+**SHA2-256**: `4fb548d548ba2a2da09871e7f8777913fafc45a9e3f8a627f5d7265ec2e750ef`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Jessa_Jones2.jpg?v=1692900418>;
+**IA**: <https://web.archive.org/web/20260318161556/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Jessa_Jones2.jpg?v=1692900418>
 
-***Wilhoit 34.3771*** &mdash; Photograph.
-1424&times;1594
-EXIF metadata stripped, consistent with Shopify image processing.
-Truncated dorsal view. Hair positioned ventrally, likely tied; neckline fully visible.
-Subject's arms adducted.
-Outdoors. Mid-day. Grass field surrounded by trees. Botanical identification impossible due to plants being out of focus.
-*Argenclara wilhoitia* wb. Lacy.W., unknown.
-&copy; Lacy Wilhoit or unknown photographer, all rights reserved.
-**Page**: ;
-**SHA2-256**: `3f12a5b413540f5622d6c0b96c491d0b271bcd24ccaf349bd6d2bb469521d371`{.hash};
-**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Lacy_Wilhoit1.jpg?v=1692902608>;
-**IA**: <https://web.archive.org/web/20260414045612/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Lacy_Wilhoit1.jpg?v=1692902608>
+***Jones 28.1837*** &mdash; Photograph.
+2316&times;3088
+Ventral view.
+Semi-outdoors environment; subject under roof, on patio.
+Subject's left arm on patio railing. Right arm not visible.
+Sleeves worn lateral to upper arm, as off-shoulder.
+*Argenclara jessae* f. *umst.* wb. Jessa.J., 2023.
+&copy; Jessa Jones or unknown photographer, all rights reserved.
+**Page**: @silversaga_clara_gallery;
+**SHA2-256**: `56e72cc47563229110332b014fc9404a14a3ef29d1d47cdf10354b550177dde5`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Jessa_Jones4.jpg?v=1692900426>;
+**IA**: <https://web.archive.org/web/20260413160055/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Jessa_Jones4.jpg?v=1692900426>
 
-<!-- END wilhoitia -->
+<!-- END jessae -->
+
+
+<!-- BEGIN mai -->
+<!-- Template generated with lct01tools and manually filled in by humans! -->
+#### *Argenclara mai* {#sec-argenclara-mai}
+***Argenclara mai*** Lemuria, 2026; sp. nov.
+
+**Diagnosis**: *Argenclara mai* is characterized by its fabric, a light mocha background with clusters of white flowers.
+
+**Remarks**: We infer the year as 2023 based on the other rounds of pattern testing conducted by Silversaga.
+
+The photographs appear to have been taken at a two-story residential structure, with Mai in the shadow of another building behind the photographer. The ground has significant overexposure.
+
+**Etymology**: From Mai Vang's first name, *Mai*.
+
+**Specimens examined** 
+
+**Holotype**: ***Vang 25.4050*** &mdash; Photograph.
+2209&times;3031.
+Ventral view.
+Hair positioned dorsally.
+Slight motion blur on left arm. Right arm fully adducted.
+*Argenclara mai* wb. Mai, 2023.
+&copy; Mai Vang or unknown photographer, all rights reserved.
+**Page**: @silversaga_clara_gallery;
+**SHA2-256**: `44b249a15c5640ab762cba2c929ec502e61174c94d0397696a1315dae02948c4`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Mai_Vang3.jpg?v=1692901558>;
+**IA**: <https://web.archive.org/web/20260318161528/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Mai_Vang3.jpg?v=169290155>
+
+***Vang 25.4085*** &mdash; Photograph.
+1967&times;2622.
+Ventral view.
+Hair positioned dorsally.
+Subject's arms fully adducted.
+*Argenclara mai* wb. Mai, 2023.
+&copy; Mai Vang or unknown photographer, all rights reserved.
+**Page**: @silversaga_clara_gallery;
+**SHA2-256**: `836057f9419577ddb9e1991e9e166067f59757e1ffadd033922f6d81228521a7`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Mai_Vang2.jpg?v=1692901378>;
+**IA**: <https://web.archive.org/web/20260413160700/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Mai_Vang2.jpg?v=169290137>
+
+<!-- END mai -->
+
+<!-- BEGIN malinae -->
+<!-- Template generated with lct01tools and manually filled in by humans! -->
+#### *Argenclara malinae* {#sec-argenclara-malinae}
+***Argenclara malinae*** Lemuria, 2026; sp. nov.
+
+**Diagnosis**: *Argenclara malinae* is characterized by its fabric, a quilt cotton from Selfmade.com; featuring white flowers on a red background.
+
+**Remarks**: Malin's Instagram post documenting the make is available at @stara2023.
+
+**Etymology**: From *Malin* + *-ae*, feminine genitive suffix.
+
+**Specimens examined**
+
+**Holotype**: ***Stara 10.19448*** &mdash; Photograph.
+2000&times;3008.
+Ventral view.
+Outdoors, daytime lighting.
+*Argenclara malinae* f. *umst.* wb. Malin.S., YEAR.
+&copy; Malin Stara or unknown photographer, all rights reserved.
+**Page**: @silversaga_clara_gallery;
+**SHA2-256**: `a4fdf3d5536e9a4b6095495adb3a5dbbd53151a258f307af84076cb669acacc2`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Malin_Stara2.jpg?v=1692899533>;
+**IA**: <https://web.archive.org/web/20260318161551/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Malin_Stara.jpg?v=1692899512>
+
+***Stara 10.19571*** &mdash; Photograph.
+2000&times;3008.
+METADATAFROMHOLOTYPER
+*Argenclara malinae* wb. Malin.S., YEAR.
+&copy; Malin Stara or unknown photographer, all rights reserved.
+**Page**: @silversaga_clara_gallery;
+**SHA2-256**: `683db976955ab01c92c32a6d6f9f5ae7cfb3bd539c3de91dd15b09ee43fd87b4`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Malin_Stara3.jpg?v=1692899523>;
+**IA**: <https://web.archive.org/web/20260413154853/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Malin_Stara3.jpg?v=1692899523>
+
+***Stara 10.19780*** &mdash; Photograph.
+2000&times;3008.
+METADATAFROMHOLOTYPER
+*Argenclara malinae* wb. Malin.S., YEAR.
+&copy; Malin Stara or unknown photographer, all rights reserved.
+**Page**: @silversaga_clara_gallery;
+**SHA2-256**: `00ea6fbd28dc593ecb14d05eeee1c9c99a27f2b3bdc28c5027c409cf3fefde5c`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Malin_Stara.jpg?v=1692899512>;
+**IA**: <https://web.archive.org/web/20260413154851/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Malin_Stara.jpg?v=1692899512>
+<!-- END malinae -->
+
 
 <!-- BEGIN morgania -->
 <!-- Template generated with lct01tools and manually filled in by humans! -->
@@ -999,102 +1396,6 @@ Subject on floor of building, between two pillars. Photographer not visible in r
 
 <!-- END morgania -->
 
-<!-- BEGIN malinae -->
-<!-- Template generated with lct01tools and manually filled in by humans! -->
-#### *Argenclara malinae* {#sec-argenclara-malinae}
-***Argenclara malinae*** Lemuria, 2026; sp. nov.
-
-**Diagnosis**: *Argenclara malinae* is characterized by its fabric, a quilt cotton from Selfmade.com; featuring white flowers on a red background.
-
-**Remarks**: Malin's Instagram post documenting the make is available at @stara2023.
-
-**Etymology**: From *Malin* + *-ae*, feminine genitive suffix.
-
-**Specimens examined**
-
-**Holotype**: ***Stara 10.19448*** &mdash; Photograph.
-2000&times;3008.
-Ventral view.
-Outdoors, daytime lighting.
-*Argenclara malinae* f. *umst.* wb. Malin.S., YEAR.
-&copy; Malin Stara or unknown photographer, all rights reserved.
-**Page**: @silversaga_clara_gallery;
-**SHA2-256**: `a4fdf3d5536e9a4b6095495adb3a5dbbd53151a258f307af84076cb669acacc2`{.hash};
-**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Malin_Stara2.jpg?v=1692899533>;
-**IA**: <https://web.archive.org/web/20260318161551/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Malin_Stara.jpg?v=1692899512>
-
-***Stara 10.19571*** &mdash; Photograph.
-2000&times;3008.
-METADATAFROMHOLOTYPER
-*Argenclara malinae* wb. Malin.S., YEAR.
-&copy; Malin Stara or unknown photographer, all rights reserved.
-**Page**: @silversaga_clara_gallery;
-**SHA2-256**: `683db976955ab01c92c32a6d6f9f5ae7cfb3bd539c3de91dd15b09ee43fd87b4`{.hash};
-**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Malin_Stara3.jpg?v=1692899523>;
-**IA**: <https://web.archive.org/web/20260413154853/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Malin_Stara3.jpg?v=1692899523>
-
-***Stara 10.19780*** &mdash; Photograph.
-2000&times;3008.
-METADATAFROMHOLOTYPER
-*Argenclara malinae* wb. Malin.S., YEAR.
-&copy; Malin Stara or unknown photographer, all rights reserved.
-**Page**: @silversaga_clara_gallery;
-**SHA2-256**: `00ea6fbd28dc593ecb14d05eeee1c9c99a27f2b3bdc28c5027c409cf3fefde5c`{.hash};
-**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Malin_Stara.jpg?v=1692899512>;
-**IA**: <https://web.archive.org/web/20260413154851/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Malin_Stara.jpg?v=1692899512>
-<!-- END malinae -->
-
-<!-- BEGIN alexisae -->
-<!-- Template generated with lct01tools and manually filled in by humans! -->
-#### *Argenclara alexisae* {#sec-argenclara-alexisae}
-***Argenclara alexisae*** Lemuria, 2026; sp. nov.
-
-**Diagnosis**: *Argenclara alexisae* is characterized by its solid forest green linen fabric.
-
-**Remarks**: Alexis sewed the dress in a size 38 (88 cm bust), with 3.2 m (3.5 yd; 10.5 ft) of fabric [@wright2023].
-
-**Etymology**: From *Alexis* + *-ae*, feminine genitive suffix.
-
-**Specimens examined**
-
-**Holotype**: ***Wright 17.4019*** &mdash; Photograph.
-2668&times;4000.
-Ventral view. Outdoor lighting, shallow depth of field.
-Subject looking to right. Hair positioned ventrally, obstructing neckline bilaterally. Medial portion remains visible.
-Subject's arms fully adducted.
-*Argenclara alexisae* wb. Alexis.Wr., 2023.
-&copy; Alexis Wright or unknown photographer, all rights reserved.
-**Page**: @silversaga_clara_gallery;
-**SHA2-256**: `f8fb0cbde9ff4dde8b1949f6dd9c0b68870fd3f5f7cca8ce07a1e10fd048b916`{.hash};
-**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Alexis-Wright.jpg?v=1692900295>;
-**IA**: <https://web.archive.org/web/20260413155859/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Alexis-Wright.jpg?v=1692900295>
-
-***Wright 17.4033*** &mdash; Photograph.
-3335&times;5000.
-Right lateral view. Outdoor lighting, shallow depth of field.
-Hair positioned both ventrally and dorsally.
-*Argenclara alexisae* wb. Alexis.Wr., 2023.
-&copy; Alexis Wright or unknown photographer, all rights reserved.
-**Page**: @silversaga_clara_gallery;
-**SHA2-256**: `29a9ab040a78a6d44c66d7989e9e5aac04b98ddb62948fd672c0ed1fe110f494`{.hash};
-**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Alexis-Wright4.jpg?v=1692900307>;
-**IA**: <https://web.archive.org/web/20260318161549/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Alexis-Wright4.jpg?v=1692900307>
-
-***Wright 17.4076*** &mdash; Photograph.
-3335&times;5000.
-Ventral view. Outdoor lighting, shallow depth of field.
-Subject looking to right. Hair positioned ventrally, obstructing neckline bilaterally. Medial portion remains visible.
-Subject's left arm on lateral surface of waist channels. Right arm adducted.
-*Argenclara alexisae* wb. Alexis.Wr., 2023.
-&copy; Alexis Wright or unknown photographer, all rights reserved.
-**Page**: @silversaga_clara_gallery;
-**SHA2-256**: `b7144f02712087587be248f698f232b1809c10f148895e8a2c5b152e5c314823`{.hash};
-**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Alexis-Wright3.jpg?v=1692900316>;
-**IA**: <https://web.archive.org/web/20260413155930/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Alexis-Wright3.jpg?v=1692900316>
-
-<!-- END alexisae -->
-
-
 <!-- BEGIN teschia -->
 <!-- Template generated with lct01tools and manually filled in by humans! -->
 #### *Argenclara teschia* {#sec-argenclara-teschia}
@@ -1143,306 +1444,6 @@ Indoor lighting conditions. White wall in background; subject near corner. Unkno
 **IA**: <https://web.archive.org/web/20260318161557/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Mel_Tesch4.jpg?v=1692900608>
 
 <!-- END teschia -->
-
-<!-- BEGIN cosmia -->
-<!-- Template generated with lct01tools and manually filled in by humans! -->
-#### *Argenclara cosmia* {#sec-argenclara-cosmia}
-***Argenclara cosmia*** Lemuria, 2026; sp. nov.
-
-**Diagnosis**: *Argenclara cosmia* is characterized by its fabric, a double printed gauze with a brown background and small clusters of black dot and teardrop shapes.
-
-**Remarks**: See also @tortajada2023 for Marta's Instagram post.
-
-**Synonyms**:
-
-* *Argenclara tortajada* Lemuria, 2026. Junior synonym. Based on Marta's last name, inferred from pattern tester filenames. We decided to rename the species epithet to *cosmia* based on Marta's Instagram account during the compilation of the monograph.
-
-**Etymology**: From Marta's Instagram handle, `cosmia`.
-
-**Specimens examined**
-
-**Holotype**: ***Tortajada 39.8104*** &mdash; Photograph.
-3456&times;4608.
-Ventral view, outdoors.
-Subject looking to her right. Hair positioned ventrally, obscuring left neckline area.
-*Argenclara cosmia* wb. Marta.T., 2023.
-&copy; Marta Tortajada or unknown photographer, all rights reserved.
-**Photograph locality**: Spain: Valencia, Jardins del Real^[OpenStreetMap spelling. Instagram post uses the spelling *Jardines del Real* / *Jardines de Viveros*.]
-**Page**: @silversaga_clara_gallery;
-**SHA2-256**: `73acf0e0447ca2e1893b2ee45c301a30d0712a4e43fa379b51a5e7ec5eddaa4e`{.hash};
-**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Marta_Tortajada9.jpg?v=1692901969>;
-**IA**: <https://web.archive.org/web/20260318161538/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Marta_Tortajada9.jpg?v=1692901969>
-
-***Tortajada 39.8175*** &mdash; Photograph.
-3150&times;4200.
-Angled dorsal view, outdoors. Sun possibly in top-left of image, as inferred from significantly higher exposure.
-Subject looking back towards camera. Hair positioned both ventrally and dorsally.
-*Argenclara cosmia* wb. Marta.T., 2023.
-&copy; Marta Tortajada or unknown photographer, all rights reserved.
-**Photograph locality**: Same as *Tortajada 39.8104*.
-**Page**: @silversaga_clara_gallery;
-**SHA2-256**: `42ebddb381f033932335097c72611151b57f1d9c17668a99d6ea8621a05ebd2c`{.hash};
-**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Marta_Tortajada7.jpg?v=1692901934>;
-**IA**: <https://web.archive.org/web/20260318161546/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Marta_Tortajada7.jpg?v=1692901934>
-
-***Tortajada 39.8560*** &mdash; Photograph.
-3456&times;4608.
-Ventral view, outdoors. Light source, most likely the sun, from subject's right (top left of photograph).
-Subject facing slightly downward to her right.
-Hair positioned dorsally with significant drape over left shoulder, partially obscuring neckline.
-*Nerium oleander* L. in background.
-*Argenclara cosmia* wb. Marta.T., 2023.
-&copy; Marta Tortajada or unknown photographer, all rights reserved.
-**Photograph locality**: Same as *Tortajada 39.8104*.
-**Page**: @silversaga_clara_gallery;
-**SHA2-256**: `d4fd197e4b33f8243928496e467456a8daf234ed79ba965c844e903f589a8dc7`{.hash};
-**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Marta_Tortajada4.jpg?v=1692901891>;
-**IA**: <https://web.archive.org/web/20260414035806/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Marta_Tortajada4.jpg?v=1692901891>
-<!-- END cosmia -->
-
-<!-- BEGIN caitlinae -->
-<!-- Template generated with lct01tools and manually filled in by humans! -->
-#### *Argenclara caitlinae* {#sec-argenclara-caitlinae}
-***Argenclara caitlinae*** Lemuria, 2026; sp. nov.
-
-**Diagnosis**: *Argenclara caitlinae* is characterized by its fabric, a navy linen from B&M Fabrics, that is likely black or navy blue; unknown due to lighting conditions.
-
-**Remarks**: See also @caitlind2023 for Caitlin's Instagram post.
-
-**Etymology**: From *Caitlin* + *-ae*, feminine genitive suffix.
-
-**Specimens examined**
-
-**Holotype**: ***Caitlin 40.1873AC*** &mdash; Photograph.
-3024&times;4032.
-Ventral view. Subject looking slightly downward. Hair positioned ventrally, terminating just short of neckline edges.
-Subject interacting with distal edge of left sleeve using right hand.
-Outdoor conditions. Sun behind photographer as inferred from shadows.
-*Argenclara caitlinae* wb. Caitlin.D., 2023.
-&copy; Caitlin.D. or unknown photographer, all rights reserved.
-**Photograph locality**: United Kingdom: England, West Yorkshire, Leeds.
-**Page**: @silversaga_clara_gallery;
-**SHA2-256**: `e11ef025717f86be06b983ced9cd3973cb6a754d5d10b8b421a98310118a3d71`{.hash};
-**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/CaitlinDPatternTest-09.jpg?v=1692902128>;
-**IA**: <https://web.archive.org/web/20260414040234/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/CaitlinDPatternTest-09.jpg?v=1692902128>
-
-***Caitlin 40.1877AC*** &mdash; Photograph.
-3024&times;4032.
-Dorsal view. Subject looking back at camera. Hair positioned dorsally.
-Subject's arms fully adducted.
-Outdoor conditions. Sun behind photographer as inferred from shadows.
-*Argenclara caitlinae* wb. Caitlin.D., 2023.
-&copy; Caitlin.D. or unknown photographer, all rights reserved.
-**Page**: @silversaga_clara_gallery;
-**SHA2-256**: `58664cf39631ffec4557d3646358111f645d06833a32468bc2f8444a2a3ddf83`{.hash};
-**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/CaitlinDPatternTest-16.jpg?v=1692902119>;
-**IA**: <https://web.archive.org/web/20260318161543/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/CaitlinDPatternTest-16.jpg?v=1692902119>
-
-***Caitlin 40.1879AC*** &mdash; Photograph.
-3024&times;4032.
-Ventral view. Subject looking slightly upward to her right. Hair positioned dorsally, small strands ventrally, slightly obscuring neckline edges.
-Subject's left arm slightly behind skirt. Right arm adducted.
-Outdoor conditions. Sun behind photographer as inferred from shadows.
-*Argenclara caitlinae* wb. Caitlin.D., 2023.
-&copy; Caitlin.D. or unknown photographer, all rights reserved.
-**Page**: @silversaga_clara_gallery;
-**SHA2-256**: `96e588d9a11367104b28ca3dc0fab741c394c9305fb1da53442a31c254fac98f`{.hash};
-**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/CaitlinDPatternTest-11.jpg?v=1692902110>;
-**IA**: <https://web.archive.org/web/20260414040227/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/CaitlinDPatternTest-11.jpg?v=1692902110>
-
-<!-- END caitlinae -->
-
-
-
-<!-- BEGIN jessae -->
-<!-- Template generated with lct01tools and manually filled in by humans! -->
-#### *Argenclara jessae* {#sec-argenclara-jessae}
-***Argenclara jessae*** Lemuria, 2026; sp. nov.
-
-**Diagnosis**: *Argenclara jessae* is characterized by its solid brown fabric.
-
-**Remarks**: See also @jones2023 for Jones's Instagram post.
-
-**Etymology**: From *Jessa* + *-ae*, feminine genitive suffix.
-
-**Specimens examined**
-
-**Holotype**: ***Jones 28.1741*** &mdash; Photograph.
-2316&times;3088
-Ventral view.
-Semi-outdoors environment; subject under roof, on patio.
-Subject's arms adducted and in bilateral pockets. Hair positioned dorsally. Bilateral earrings. Neckline not obscured.
-*Argenclara jessae* wb. Jessa.J., 2023.
-&copy; Jessa Jones or unknown photographer, all rights reserved.
-**Page**: @silversaga_clara_gallery;
-**SHA2-256**: `4a5a1a52a6d65719e0643ddcc9c16b09e613f6ef63bd26f783fcb7523421ea8d`{.hash};
-**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Jessa_Jones5.jpg?v=1692900432>;
-**IA**: <https://web.archive.org/web/20260318161532/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Jessa_Jones5.jpg?v=1692900432>
-
-***Jones 28.1835*** &mdash; Photograph.
-2967&times;3956
-Ventral view.
-Semi-outdoors environment; subject under roof, on patio. Other houses in background.
-Subject's arms adducted and in bilateral pockets. Hair positioned dorsally. Bilateral earrings. Neckline not obscured.
-*Argenclara jessae* wb. Jessa.J., 2023.
-&copy; Jessa Jones or unknown photographer, all rights reserved.
-**Page**: @silversaga_clara_gallery;
-**SHA2-256**: `4fb548d548ba2a2da09871e7f8777913fafc45a9e3f8a627f5d7265ec2e750ef`{.hash};
-**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Jessa_Jones2.jpg?v=1692900418>;
-**IA**: <https://web.archive.org/web/20260318161556/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Jessa_Jones2.jpg?v=1692900418>
-
-***Jones 28.1837*** &mdash; Photograph.
-2316&times;3088
-Ventral view.
-Semi-outdoors environment; subject under roof, on patio.
-Subject's left arm on patio railing. Right arm not visible.
-Sleeves worn lateral to upper arm, as off-shoulder.
-*Argenclara jessae* f. *umst.* wb. Jessa.J., 2023.
-&copy; Jessa Jones or unknown photographer, all rights reserved.
-**Page**: @silversaga_clara_gallery;
-**SHA2-256**: `56e72cc47563229110332b014fc9404a14a3ef29d1d47cdf10354b550177dde5`{.hash};
-**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Jessa_Jones4.jpg?v=1692900426>;
-**IA**: <https://web.archive.org/web/20260413160055/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Jessa_Jones4.jpg?v=1692900426>
-
-<!-- END jessae -->
-
-<!-- BEGIN mai -->
-<!-- Template generated with lct01tools and manually filled in by humans! -->
-#### *Argenclara mai* {#sec-argenclara-mai}
-***Argenclara mai*** Lemuria, 2026; sp. nov.
-
-**Diagnosis**: *Argenclara mai* is characterized by its fabric, a light mocha background with clusters of white flowers.
-
-**Remarks**: We infer the year as 2023 based on the other rounds of pattern testing conducted by Silversaga.
-
-The photographs appear to have been taken at a two-story residential structure, with Mai in the shadow of another building behind the photographer. The ground has significant overexposure.
-
-**Etymology**: From Mai Vang's first name, *Mai*.
-
-**Specimens examined** 
-
-**Holotype**: ***Vang 25.4050*** &mdash; Photograph.
-2209&times;3031.
-Ventral view.
-Hair positioned dorsally.
-Slight motion blur on left arm. Right arm fully adducted.
-*Argenclara mai* wb. Mai, 2023.
-&copy; Mai Vang or unknown photographer, all rights reserved.
-**Page**: @silversaga_clara_gallery;
-**SHA2-256**: `44b249a15c5640ab762cba2c929ec502e61174c94d0397696a1315dae02948c4`{.hash};
-**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Mai_Vang3.jpg?v=1692901558>;
-**IA**: <https://web.archive.org/web/20260318161528/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Mai_Vang3.jpg?v=169290155>
-
-***Vang 25.4085*** &mdash; Photograph.
-1967&times;2622.
-Ventral view.
-Hair positioned dorsally.
-Subject's arms fully adducted.
-*Argenclara mai* wb. Mai, 2023.
-&copy; Mai Vang or unknown photographer, all rights reserved.
-**Page**: @silversaga_clara_gallery;
-**SHA2-256**: `836057f9419577ddb9e1991e9e166067f59757e1ffadd033922f6d81228521a7`{.hash};
-**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Mai_Vang2.jpg?v=1692901378>;
-**IA**: <https://web.archive.org/web/20260413160700/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Mai_Vang2.jpg?v=169290137>
-
-<!-- END mai -->
-
-<!-- BEGIN alexae -->
-<!-- Template generated with lct01tools and manually filled in by humans! -->
-#### *Argenclara alexae* {#sec-argenclara-alexae}
-***Argenclara alexae*** Lemuria, 2026; sp. nov.
-
-**Diagnosis**: *Argenclara alexae* is characterized by its fabric, a cotton called "folk" from Merchant and Mills; with a white background and overlapping blue lines in a gingham check-like pattern. 
-
-**Remarks**: See also @begin2023 for Alex's instagram post.
-
-The Royal Mail wall-embedded mailbox on the subject's left proves that the images were taken in the United Kingdom.
-
-**Etymology**: From *Alex* + *-ae*, feminine genitive suffix.
-
-**Specimens examined**
-
-**Holotype**: ***Alex 40.6700AA*** &mdash; Photograph.
-3024&times;4032.
-Ventral view. Subject on sidewalk. Arms fully adducted.
-*Argenclara alexae* wb. Alex.B., 2023.
-&copy; Alex Begin or unknown photographer, all rights reserved.
-
-**Page**: @silversaga_clara_gallery;
-**SHA2-256**: `75e5aeb22ebb1171a6ca28187e26466af48e21d69f611ef781d5e3bfb92d8211`{.hash};
-**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Alex_Begin2.jpg?v=1692902847>;
-**IA**: <https://web.archive.org/web/20260414044848/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Alex_Begin2.jpg?v=1692902847>
-
-***Alex 40.6735AA*** &mdash; Photograph.
-3024&times;4032.
-Ventral view. Subject on sidewalk. Arms behind torso, resembling "at ease" position.
-*Argenclara alexae* wb. Alex.B., 2023.
-&copy; Alex Begin or unknown photographer, all rights reserved.
-**Page**: @silversaga_clara_gallery;
-**SHA2-256**: `494d1719bad12d3c7a47bfa3c9ab93e95c5c3a38c36fb42d38c6f76b7ae37a40`{.hash};
-**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Alex_Begin3.jpg?v=1692902839>;
-**IA**: <https://web.archive.org/web/20260414044827/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Alex_Begin3.jpg?v=1692902839>
-
-***Alex 40.6746AA*** &mdash; Photograph.
-3024&times;4032.
-Angled ventral view. Closer shot compared to first two images. Subject's arms fully adducted.
-*Argenclara alexae* wb. Alex.B., 2023.
-&copy; Alex Begin or unknown photographer, all rights reserved.
-**Page**: @silversaga_clara_gallery;
-**SHA2-256**: `ae7e1b8fb9964ffdee8a880c9c11589f33bf1c94bcbd000787ec00ac445779d7`{.hash};
-**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Alex_Begin.jpg?v=1692902867>;
-**IA**: <https://web.archive.org/web/20260318161535/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Alex_Begin.jpg?v=1692902867>
-
-<!-- END alexae -->
-
-
-
-
-<!-- BEGIN fenae -->
-<!-- Template generated with lct01tools and manually filled in by humans! -->
-#### *Argenclara fenae* {#sec-argenclara-fenae}
-***Argenclara fenae*** Lemuria, 2026; sp. nov.
-
-**Diagnosis**: *Argenclara fenae* is characterized by its fabric, a cyan linen bought secondhand from FabMo, a fabric retailer based in Sunnyvale, California.
-
-**Remarks**: All images of *Argenclara fenae* depict Fena wearing the dress off-shoulder. The blessed form for *Argenclara* has the sleeves worn on-shoulder. As such, *Argenclara fenae* is not considered to be within the subclass Alourida Lemuria, 2026; unpublished. Fena sewed the dress in a size 40. See also @fena2023 for Fena's Instagram post.
-
-**Etymology**: From *Fena* + *-ae*, feminine genitive suffix.
-
-**Specimens examined**
-
-**Holotype**: ***Fena 105.6711AF*** &mdash; Photograph.
-2786&times;3715.
-Angled ventral view. Subject against wall, arms slightly crossed. Hair positioned dorsally.
-*Argenclara fenae* f. *umst.* wb. Fena.T., 2023.
-&copy; Fena Tandriarto or unknown photographer, all rights reserved.
-**Page**: @silversaga_clara_gallery;
-**SHA2-256**: `9c2722262cf0970f1187acf40e72e80c381d0c5a2c03d7e85996a1a574c275ed`{.hash};
-**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Fena_tandriarto.jpg?v=1692902195>;
-**IA**: <https://web.archive.org/web/2/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Fena_tandriarto.jpg>
-
-***Fena 105.6734AF*** &mdash; Photograph.
-2969&times;3959.
-Ventral view. Subject's arms on hair. Hair positioned dorsally.
-*Argenclara fenae* f. *umst.* wb. Fena.T., 2023.
-&copy; Fena Tandriarto or unknown photographer, all rights reserved.
-**Page**: @silversaga_clara_gallery;
-**SHA2-256**: `d91d7bdef693f9123f021b1b970fe856f7bd0e88db91966092026ea62bf295c9`{.hash};
-**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Fena_tandriarto6.jpg?v=1692902220>;
-**IA**: <https://web.archive.org/web/20260318161539/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Fena_tandriarto6.jpg?v=1692902220>
-
-***Fena 105.6737AF*** &mdash; Photograph.
-2937&times;3915.
-Angled ventral view. Subject's left foot forward. Arms mostly adducted. Hair positioned ventrally.
-*Argenclara fenae* f. *umst.* wb. Fena.T., 2023.
-&copy; Fena Tandriarto or unknown photographer, all rights reserved.
-**Page**: @silversaga_clara_gallery;
-**SHA2-256**: `052b2c2ca848a660f9279638d9141d675f1c0f834b504a07bdcfe87b8828b49d`{.hash};
-**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Fena_tandriarto3.jpg?v=1692902283>;
-**IA**: <https://web.archive.org/web/20260318161525/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Fena_tandriarto3.jpg?v=1692902283>
-
-<!-- END fenae -->
-
 
 <!-- BEGIN theresae -->
 <!-- Template generated with lct01tools and manually filled in by humans! -->
@@ -1495,51 +1496,58 @@ Arms placed on lateral portions of ventral surface, inferior to inferior waist c
 
 <!-- END theresae -->
 
-<!-- BEGIN bethanae -->
+
+<!-- BEGIN wilhoitia -->
 <!-- Template generated with lct01tools and manually filled in by humans! -->
-#### *Argenclara bethanae* {#sec-argenclara-bethanae}
-***Argenclara bethanae*** Lemuria, 2026; sp. nov.
+#### *Argenclara wilhoitia* {#sec-argenclara-wilhoitia}
+***Argenclara wilhoitia*** Lemuria, 2026; sp. nov.
 
-**Diagnosis**: *Argenclara bethanae* is characterized by its fabric, a cotton lawn with a black background and large flowers. The flowers feature six petals, a yellow core, and a green leaf. 
+**Diagnosis**: *Argenclara wilhoitia* is characterized by its plain pink fabric.
 
-**Remarks**: See also [@bethany2025, Clara Dress] for Bethany's blog post, and @bethanyl2024_clara for Bethany's Instagram post regarding the dres.
-
-**Etymology**: From
+**Etymology**: From *Wilhoit* + *-ia*.
 
 **Specimens examined**
 
-**Holotype**: ***Bethany 126.4429*** &mdash; Photograph.
-1200&times;1600.
-Ventral view. Indoors. Skirt extended outward to the left. Arms fully adducted.
-Hair positioned dorsally, with slight drape ventrally. Neckline not obscured.
-*Argenclara bethanae* wb. Bethany.L., 2024.
-&copy; Bethany Lynne or unknown photographer, all rights reserved.
+**Holotype**: ***Wilhoit 34.1870*** &mdash; Photograph.
+1500&times;1518
+EXIF metadata stripped, consistent with Shopify image processing.
+Angled ventral view.
+Subject facing to her left, as if walking. Hair positioned ventrally, draped to subject's right, obscuring right neckline edge. Left hand position unknown. Right hand on hair.
+Outdoors. Mid-day. Grass field surrounded by trees. Botanical identification impossible due to plants being out of focus.
+*Argenclara wilhoitia* wb. Lacy.W., unknown.
+&copy; Lacy Wilhoit or unknown photographer, all rights reserved.
 **Page**: ;
-**SHA2-256**: `51e9246e21e8fa3efb30d04cc5db51847709a620119a9a5bc0baf956ab55daff`{.hash};
-**Original**: <https://www.bethanylynnemakes.com/wp-content/uploads/2025/03/clara-dress-front-2.jpg>;
-**IA**: <https://web.archive.org/web/20260417183436/https://www.bethanylynnemakes.com/wp-content/uploads/2025/03/clara-dress-front-2.jpg>
+**SHA2-256**: `3c9df8f8fe22fa80202e14b52d74ea6da2f784b342db0785d7077783a0fad483`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Lacy_Wilhoit9.jpg?v=1692902602>;
+**IA**: <https://web.archive.org/web/20260318161536/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Lacy_Wilhoit9.jpg?v=1692902602>
 
-***Bethany 126.4510*** &mdash; Photograph.
-1200&times;1600.
-Dorsal view. Indoors. Hair tied dorsally. Arm extended slightly outward to left. Right arm possibly in front.
-*Argenclara bethanae* wb. Bethany.L., 2024.
-&copy; Bethany Lynne or unknown photographer, all rights reserved.
+***Wilhoit 34.1957*** &mdash; Photograph.
+1512&times;2016
+EXIF metadata stripped, consistent with Shopify image processing.
+Truncated ventral view. Hair positioned dorsally. Both hands placed on lateral surfaces inferior to inferior elastic channel.
+Outdoors. Mid-day. Grass field surrounded by trees. Botanical identification impossible due to plants being out of focus.
+*Argenclara wilhoitia* wb. Lacy.W., unknown.
+&copy; Lacy Wilhoit or unknown photographer, all rights reserved.
 **Page**: ;
-**SHA2-256**: `fe1fbea9f7c2964811e5ba71fb73ebbe1fb9320a2f1ce101beb99e9a74b4b25f`{.hash};
-**Original**: <https://www.bethanylynnemakes.com/wp-content/uploads/2025/03/clara-dress-back.jpg>;
-**IA**: <https://web.archive.org/web/20260417183433/https://www.bethanylynnemakes.com/wp-content/uploads/2025/03/clara-dress-back.jpg>
+**SHA2-256**: `b6eb6e4e302b59b3ffd06d38a0c29f94c771eabe60fba54b40a5c85a761107f9`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Lacy_Wilhoit.jpg?v=1692902593>;
+**IA**: <https://web.archive.org/web/20260414045606/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Lacy_Wilhoit.jpg?v=1692902593>
 
-***Bethany 126.4700*** &mdash; Photograph.
-1200&times;1601.
-Ventral view. Indoors. Hair tied dorsally. Subject's left arm adducted. Subject's right arm adducted as if reaching for blinds of window.
-*Argenclara bethanae* wb. Bethany.L., 2024.
-&copy; Bethany Lynne or unknown photographer, all rights reserved.
+***Wilhoit 34.3771*** &mdash; Photograph.
+1424&times;1594
+EXIF metadata stripped, consistent with Shopify image processing.
+Truncated dorsal view. Hair positioned ventrally, likely tied; neckline fully visible.
+Subject's arms adducted.
+Outdoors. Mid-day. Grass field surrounded by trees. Botanical identification impossible due to plants being out of focus.
+*Argenclara wilhoitia* wb. Lacy.W., unknown.
+&copy; Lacy Wilhoit or unknown photographer, all rights reserved.
 **Page**: ;
-**SHA2-256**: `6b44e0d23753615633eac1493373899b66456424cd96125f72fc01b3dc5c1a98`{.hash};
-**Original**: <https://www.bethanylynnemakes.com/wp-content/uploads/2025/03/clara-dress-front.jpg>;
-**IA**: <https://web.archive.org/web/20260417183432/https://www.bethanylynnemakes.com/wp-content/uploads/2025/03/clara-dress-front.jpg>
+**SHA2-256**: `3f12a5b413540f5622d6c0b96c491d0b271bcd24ccaf349bd6d2bb469521d371`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Lacy_Wilhoit1.jpg?v=1692902608>;
+**IA**: <https://web.archive.org/web/20260414045612/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Lacy_Wilhoit1.jpg?v=1692902608>
 
-<!-- END bethanae -->
+<!-- END wilhoitia -->
+
 
 <!-- BEGIN Venaluna -->
 <!-- Template generated with lct01tools and manually filled in by humans! -->
@@ -1554,6 +1562,58 @@ Ventral view. Indoors. Hair tied dorsally. Subject's left arm adducted. Subject'
 
 <!-- replace taxon with the name of the rank! -->
 **Type species**: *Argenclara lunatribis*
+
+<!-- BEGIN lunatribis -->
+<!-- Template generated with lct01tools and manually filled in by humans! -->
+##### *Argenclara lunatribis* {#sec-argenclara-lunatribis}
+***Argenclara lunatribis*** Lemuria, 2026; sp. nov.
+
+**Diagnosis**: *Argenclara lunatribis* is characterized by its fabric, light pink flowers and green leaves on a black background.
+
+**Remarks**:
+
+**Etymology**: From *lunatrix* + Latin *bis* ("twice"), as it is Hunter-Moon's second make.
+
+**Specimens examined**
+
+**Holotype**: ***Hunter-Moon 25.17665*** &mdash; Photograph.
+1184&times;1776.
+EXIF metadata stripped, consistent with Shopify image processing.
+Ventral view.
+Subject looking to her left. Light source from her left; indoor white lighting. Motion blur from left hand holding bouquet of flowers.
+*Argenclara lunatribis* wb. Hunter-Moon, unknown.
+&copy; Katie Hunter-Moon or unknown photographer, all rights reserved.
+**Page**: @silversaga_clara_gallery;
+**SHA2-256**: `a471730cb1e901428ce5707f3dba2dad285622f5a89ac073b9d341b37534c57c`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Katie_Hunter-Moon5.jpg?v=1692901633>;
+**IA**: <https://web.archive.org/web/20260413161010/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Katie_Hunter-Moon5.jpg?v=1692901633>
+
+***Hunter-Moon 25.17803*** &mdash; Photograph.
+1184&times;1776.
+EXIF metadata stripped, consistent with Shopify image processing.
+Subject looking to her right. Light source from her left; indoor white lighting. Slight motion blur. Left hand in pocket; right hand holding flower.
+Window behind white curtain.
+*Argenclara lunatribis* wb. Hunter-Moon, unknown.
+&copy; Katie Hunter-Moon or unknown photographer, all rights reserved.
+**Page**: @silversaga_clara_gallery;
+**SHA2-256**: `29d6079a9afa851f21e905d87dac3b8992706c8eef6309b697b38a02baac7515`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Katie_Hunter-Moon3.jpg?v=1692901618>;
+**IA**: <https://web.archive.org/web/20260318161529/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Katie_Hunter-Moon3.jpg?v=1692901618>
+
+***Hunter-Moon 25.17921*** &mdash; Photograph.
+1184&times;1776.
+EXIF metadata stripped, consistent with Shopify image processing.
+Ventral view.
+Subject looking to her right. Light source from her left; indoor white lighting. Less motion blur. Left hand on lateral side of waist. Right hand holding bouquet of yellow flowers.
+*Argenclara lunatribis* wb. Hunter-Moon, unknown.
+&copy; Katie Hunter-Moon or unknown photographer, all rights reserved.
+**Page**: @silversaga_clara_gallery;
+**SHA2-256**: `f14e1e300c1c0018d781c7f43b744bd0a19be81526ae21d82624277728cfa17c`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Katie_Hunter-Moon4.jpg?v=1692901626>;
+**IA**: <https://web.archive.org/web/20260318161550/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Katie_Hunter-Moon4.jpg?v=1692901626>
+
+<!-- END lunatribis -->
+
 
 <!-- BEGIN lunatrix -->
 <!-- Template generated with lct01tools and manually filled in by humans! -->
@@ -1614,56 +1674,6 @@ United Kingdom, Wales.
 **IA**: <https://web.archive.org/web/20260413155350/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Katie_Hunter-Moon13.jpg?v=1692899685>
 
 <!-- END lunatrix -->
-<!-- BEGIN lunatribis -->
-<!-- Template generated with lct01tools and manually filled in by humans! -->
-##### *Argenclara lunatribis* {#sec-argenclara-lunatribis}
-***Argenclara lunatribis*** Lemuria, 2026; sp. nov.
-
-**Diagnosis**: *Argenclara lunatribis* is characterized by its fabric, light pink flowers and green leaves on a black background.
-
-**Remarks**:
-
-**Etymology**: From *lunatrix* + Latin *bis* ("twice"), as it is Hunter-Moon's second make.
-
-**Specimens examined**
-
-**Holotype**: ***Hunter-Moon 25.17665*** &mdash; Photograph.
-1184&times;1776.
-EXIF metadata stripped, consistent with Shopify image processing.
-Ventral view.
-Subject looking to her left. Light source from her left; indoor white lighting. Motion blur from left hand holding bouquet of flowers.
-*Argenclara lunatribis* wb. Hunter-Moon, unknown.
-&copy; Katie Hunter-Moon or unknown photographer, all rights reserved.
-**Page**: @silversaga_clara_gallery;
-**SHA2-256**: `a471730cb1e901428ce5707f3dba2dad285622f5a89ac073b9d341b37534c57c`{.hash};
-**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Katie_Hunter-Moon5.jpg?v=1692901633>;
-**IA**: <https://web.archive.org/web/20260413161010/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Katie_Hunter-Moon5.jpg?v=1692901633>
-
-***Hunter-Moon 25.17803*** &mdash; Photograph.
-1184&times;1776.
-EXIF metadata stripped, consistent with Shopify image processing.
-Subject looking to her right. Light source from her left; indoor white lighting. Slight motion blur. Left hand in pocket; right hand holding flower.
-Window behind white curtain.
-*Argenclara lunatribis* wb. Hunter-Moon, unknown.
-&copy; Katie Hunter-Moon or unknown photographer, all rights reserved.
-**Page**: @silversaga_clara_gallery;
-**SHA2-256**: `29d6079a9afa851f21e905d87dac3b8992706c8eef6309b697b38a02baac7515`{.hash};
-**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Katie_Hunter-Moon3.jpg?v=1692901618>;
-**IA**: <https://web.archive.org/web/20260318161529/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Katie_Hunter-Moon3.jpg?v=1692901618>
-
-***Hunter-Moon 25.17921*** &mdash; Photograph.
-1184&times;1776.
-EXIF metadata stripped, consistent with Shopify image processing.
-Ventral view.
-Subject looking to her right. Light source from her left; indoor white lighting. Less motion blur. Left hand on lateral side of waist. Right hand holding bouquet of yellow flowers.
-*Argenclara lunatribis* wb. Hunter-Moon, unknown.
-&copy; Katie Hunter-Moon or unknown photographer, all rights reserved.
-**Page**: @silversaga_clara_gallery;
-**SHA2-256**: `f14e1e300c1c0018d781c7f43b744bd0a19be81526ae21d82624277728cfa17c`{.hash};
-**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Katie_Hunter-Moon4.jpg?v=1692901626>;
-**IA**: <https://web.archive.org/web/20260318161550/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Katie_Hunter-Moon4.jpg?v=1692901626>
-
-<!-- END lunatribis -->
 <!-- END Venaluna -->
 
 <!-- BEGIN Lacashira -->
