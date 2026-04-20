@@ -633,6 +633,20 @@ An illustration of an isosceles trapezoid [@alexandrov_illustration_2007], an id
 
 **Taxonomic placement**: Placed in the order Isargenta.
 
+**Diagnosis**: Argenclaridae is characterized by an adjustable neckline with elastic channel allowing off/on-shoulder configuration; two elastic channels, one within the inframammary region inferior to the bust (superior elastic channel), and one at the hips, acting as the bodice&ndash;skirt seam. The neckline is asymmetric in height across the two sides of the coronal plane.
+
+Its sleeves are gathered at the proximal end and directly connected to the bodice, voluminous across the upper arm, with a cuff-like^[Cuffs are typically located at the distal end of the sleeve, hence the term "cuff-like" used here.] gather at the elbow, before flaring out and terminating at the medial point between the elbow and wrist.
+
+Its skirt terminates inferior to the knee and features bilateral pockets within the lateral seams.
+
+Phylogenetically, Argenclaridae is characterized by origin from the Clara sewing pattern by Silversaga.
+
+**Remarks**: The Clara originated during the RTW period. It was her best-selling design during the summer/spring 2021 and summer/spring 2022 collections. Preorders began in April 2021.
+
+Silversaga recruited pattern testers for the Clara from August 3 to 7, 2023. She received ~160 applications, an unknown number of which were accepted. On August 25, 2023, the Clara was released.
+
+**Design.** Silversaga cites Victorian chemise dresses as the inspiration for the Clara.
+
 **Identification key**
 
 01
@@ -675,14 +689,7 @@ Proofreading concerns
 
 **Taxonomic placement**: Placed in the family Argenclaridae.
 
-**Description**:
-Rounded neckline, with lateral edges along medial point of scapulae.
-Ventral medial button row with 18 buttons. Buttons on wearer's left side. Fabric belt at transpyloric plane with ventral medial bowtie, inferior edge ending in wedge.
-Vertical pleats on bodice.
-Sleeves voluminous, terminating in elastic cuffs at wrist.
-On neckline, elastic channel, reconfigurable between on-shoulder and off-shoulder (f. *umst*). On-shoulder form designated as blessed form.
-Sleeves voluminous, 
-Skirt terminates slightly superior to ankle.
+**Diagnosis**: *Argenclara* is the *sensu stricto* genus of the Clara dress. The *Argenclara* are characterized by minimal divergence from the Clara pattern.
 
 **Identification key**
 
