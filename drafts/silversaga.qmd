@@ -1715,7 +1715,7 @@ United Kingdom, Wales.
 
 <!-- BEGIN Lacashira -->
 <!-- Template generated with lct01tools and manually filled in by humans! -->
-### *Argenclara* subg. *Lacashira* {#sec-argenclara-subg-lacashira}
+#### *Argenclara* subg. *Lacashira* {#sec-argenclara-subg-lacashira}
 ***Argenclara* subgenus *Lacashira*** Lemuria, 2026; subgen. nov.
 
 **Diagnosis**: *Argenclara* subg. *Lacashira* is characterized by the presence of lace in the insert between the superior and interior waist channels.
@@ -1727,7 +1727,7 @@ United Kingdom, Wales.
 
 <!-- BEGIN mantorae -->
 <!-- Template generated with lct01tools and manually filled in by humans! -->
-#### *Argenclara mantorae* {#sec-argenclara-mantorae}
+##### *Argenclara mantorae* {#sec-argenclara-mantorae}
 ***Argenclara mantorae*** Lemuria, 2026; sp. nov.
 
 **Diagnosis**: *Argenclara mantorae* is characterized by its fabric, a viscose&ndash;tencel blend from MeetMILK fabric, with a subtle gingham check pattern, and by the usage of lace fabric as a trim at the distal edges of the sleeve, as the primary fabric between the waist channels, and as another trim at the inferior end of the skirt.
@@ -1789,7 +1789,7 @@ Neckline stretched to roughly scapula level, with ~10&ndash;25% of shoulder area
 
 <!-- BEGIN Trunclara -->
 <!-- Template generated with lct01tools and manually filled in by humans! -->
-### Genus *Trunclara* {#sec-trunclara}
+#### Genus *Trunclara* {#sec-trunclara}
 ***Trunclara*** Lemuria, 2026; gen. nov.
 
 **Diagnosis**: *Trunclara* is distinguished from *Argenclara* by the lack of a skirt.
@@ -1801,7 +1801,7 @@ Neckline stretched to roughly scapula level, with ~10&ndash;25% of shoulder area
 
 <!-- BEGIN piolae -->
 <!-- Template generated with lct01tools and manually filled in by humans! -->
-#### *Trunclara piolae* {#sec-trunclara-piolae}
+##### *Trunclara piolae* {#sec-trunclara-piolae}
 ***Trunclara piolae*** Lemuria, 2026; sp. nov.
 
 **Diagnosis**: *Trunclara piolae* is characterized by its fabric, a lightweight olive green linen.
