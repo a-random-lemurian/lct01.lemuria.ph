@@ -128,7 +128,7 @@ Most of them are Silversaga's pattern testers. Pattern testers' names were infer
 <!-- sort these people by last name -->
 
 ### Annette {#sec-annette}
-**Annette** (Instagram: &commat;[`annette.sews`](https://instagram.com/annette.sews)) is an American sewist from the greater Boston area.
+**Annette Nicoletti** (Instagram: &commat;[`annette.sews`](https://instagram.com/annette.sews)) is an American sewist from the greater Boston area.
 <!-- TODO: Is this really relevant info? Kinda smells like undue emphasis here. Will include if there's more information but will drop it if it doesn't become relevant.
 
 She has Korean descent^[Inferred from the South Korean flag emoji on her Instagram profile.]
@@ -194,7 +194,7 @@ We define the following new person abbreviations.
 
 * **Alexis.Wr** &mdash; Alexis Wright (Instagram: &commat;[`myysweetsunshine`{.hash}](https://instagram.com/myysweetsunshine/))
 * **Anja.S.** &mdash; Anja Scheithauer
-* **Annette of B.** &mdash; Annette (Instagram: &commat;[`annette.sews`{.hash}](https://instagram.com/annette.sews))
+* **Annette.N.** &mdash; Annette Nicoletti (Instagram: &commat;[`annette.sews`{.hash}](https://instagram.com/annette.sews)). United States: Massachusetts, Greater Boston Area.
 * **Aria.W.S.** &mdash; Aria Wright-Shriver (Instagram: &commat;[`sewariasew`{.hash}](https://instagram.com/sewariasew))
 * **Ashley.G.** &mdash; Ashley General (Instagram: &commat;[`ashleygeneralhandmade`{.hash}](https://instagram.com/ashleygeneralhandmade/))
 * **Bethany.L.** &mdash; Bethany Lynne (see @sec-bethany-lynne)
@@ -2955,7 +2955,7 @@ Annette cut the neckline and shoulder ruffle on the grain, as opposed to the bia
 **Holotype**: ***Annette 6059.148*** &mdash; Photograph. 2160&times;1440.
 Collage of two images; left image *Annette 6059.148.12*, right image *Annette 6059.148.18*. Both fragments 1080&times;1440. Width consistent with Instagram maximum width of 1080px and 4:3 aspect ratio.
 Both images taken indoors, daytime; natural light flowing from subject's right, possible window. Window directly behind subject covered with mostly opaque white curtain. No glare, no overexposure.
-*Heleonora truannettae* wb. Annette of B., 2025.
+*Heleonora truannettae* wb. Annette.N., 2025.
 Collage stitched together by Jessica Silversaga. 
 Preferred over original Instagram images due to greater ease of reproducibility and excessively long Instagram CDN URLs.
 Original photos &copy; Annette or unknown photographer, 2025, all rights reserved.
@@ -2967,13 +2967,13 @@ Original photos &copy; Annette or unknown photographer, 2025, all rights reserve
 Top left pixel coordinate (0,0); bottom right pixel coordinate (1079, 1440).
 Ventral view. Subject's left arm adducted. Right arm holding out skirt.
 Hair positioned ventrally, obscuring wearer's right strap.
-*Heleonora truannettae* wb. Annette of B., 2025.
+*Heleonora truannettae* wb. Annette.N., 2025.
 
 ***Annette 6059.148.18*** &mdash; Photograph. 1080&times;1440. Collage fragment of *Annette 6059.148*.
 Top left pixel coordinate (1079, 0); bottom right pixel coordinate (2159, 1439).
 Ventral view. Subject facing slightly downward. Subject's left hand on left ear. Right arm holding out skirt.
 Hair positioned ventrally, obscuring wearer's right strap.
-*Heleonora truannettae* wb. Annette of B., 2025.
+*Heleonora truannettae* wb. Annette.N., 2025.
 
 ##### *Heleonora monokhromos* {#sec-heleonora-monokhromos}
 ***Heleonora monokhromos*** Lemuria, 2026; sp. nov.
