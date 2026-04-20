@@ -1849,18 +1849,32 @@ Both hands placed on lateral surfaces inferior to inferior elastic channel.
 ### Family Juliettidae {#sec-juliettidae}
 **Juliettidae** Lemuria, 2026; familia nova
 
+**Taxonomic placement**: Placed in the order Isargenta.
+
+**Diagnosis**: Juliettidae is characterized by an adjustable neckline with elastic channel allowing off/on-shoulder configuration, a ventral medial button row of ~18 buttons, pleats at the waist, and voluminous balloon sleeves with proximal gathers and terminates in a distal elastic cuff at the wrist.
+
+It features a discontinuous belt near the transpyloric plane with a ventral medial tie. It terminates in wedge-shaped ends and typically drapes medially along the skirt.
+
+It features a skirt with an A-line flare terminating superior to the ankle (maxi-length) with optional bilateral pockets.
+
+**Remarks**: After a month off work, on November 6, 2023, Silversaga began recruiting pattern testers for the Juliette [@silversaga2023_juliettetest]. She closed applications on November 14, 2023. On December 2, 2023, the Juliette was released.
+
+The belt, with its ventral medial tie, is often draped over the ventral medial button row in many holotype images, which can prevent accurate counts of the number of buttons.
+
+**Design.** Jessica cites the peasant dress as inspiration for the Juliette.
+
+**Making.** Silversaga recommends a lightweight structured fabric, including but not limited to cotton, linen, and some blends. Silversaga designed the dress to be cut from 130 cm (51 in) wide fabric. Estimated fabric use. Low estimate 4.45 m (57,850 cm2) at EU34, 5.65 m at EU50 (73,450 cm2).
+
+**Etymology**: *Juliette* + *-idae*, family suffix.
+
+**Type genus**: *Juliettistola* Lemuria, 2026; gen. nov.
+
+#### Genus *Juliettistola* {#sec-julietta}
+***Juliettistola*** Lemuria, 2026; gen. nov.
+
 **Taxonomic placement**: Placed in the family Juliettidae.
 
-**Diagnosis**:
-
-**Remarks**:
-
-**Etymology**:
-
-**Type genus**: *Julietta*
-
-#### Genus *Julietta* {#sec-julietta}
-***Julietta*** Lemuria, 2026; gen. nov.
+**Diagnosis**: *Juliettistola* is the *sensu stricto* genus of the Juliettidae. It is characterized by origin from the Juliette pattern with minimal divergence.
 
 ### Family Almidae {#sec-almidae}
 **Almidae** Lemuria, 2026; familia nova
