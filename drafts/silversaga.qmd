@@ -169,6 +169,8 @@ Genus *Argenteleonora*: *bethanae* (@sec-argenteleonora-bethanae);
 ### Madeleine Salisbury {#sec-madeleine-salisbury}
 **Madeleine Claire Salisbury** (Instagram: &commat;[`made_by_madeleine.claire`{.hash}](https://instagram.com/made_by_madeleine.claire)) is an American sewist, originally from New York, now living in Prague, Czech Republic. Salisbury herself was discovered as part of yet-to-be-published taxonomic work on other patterns; specifically the Traveller coat by Bella Loves Patterns.
 
+As stated on the description of <!-- TODO: WRITE DOWN THE BINOMIAL OF MADELEINE'S 2026-04 ELLA DRESS -->, as of 2026-04-14, Salisbury had a bust of 91.44 in (36 in), waist of 68.58 cm (27 in), and 101.6 cm (40 in) [@salisbury2026_ella].
+
 Salisbury is one of Jessica's pattern testers; she has tested the Eleonora [@salisbury2024_eleonora; @salisbury2024_eleonora2], the Juliette [@salisbury2024]
 
 <!-- TODO: REPLACE THIS PLACEHOLDER! -->
