@@ -3014,7 +3014,7 @@ Hair positioned ventrally, obscuring wearer's right strap.
 
 **Specimens examined**
 
-**Holotype**: *Annette 6071.240* &mdash; Video. Instagram reel. 720&times;1280. 14.80s. 30 fps, 2672 kb/s.
+**Holotype**: ***Annette 6071.240*** &mdash; Video. Instagram reel. 720&times;1280. 14.80s. 30 fps, 2672 kb/s.
 Four cuts. First cut: subject walks into frame, faces camera, holding skirt out, before making ~360&deg; twirl. Second cut: subject walks toward camera. Third cut: Subject looks back at camera before turning around to face camera and beginning a twirl. Fourth cut: Subject repeatedly twirls through frame before leaving frame at camera's right side, before video ends. Video taken in forest, during the daytime. Tree in background; no conclusive identification.
 **SHA2-256**: `c8a856780acfe94eff6e8c536210649c939a02287f49f4db9a245e46182dd16c`{.hash} (Video by annette.sews [DMtjYKeOzmE].fdash-4270518743180586v.mp4);
 `526458cb73b953f21cf9d7a2dc9717581cdc6dec69ddfd3dc89b83605cec7873`{.hash} (Video by annette.sews [DMtjYKeOzmE].fdash-728851763264699a.m4a);
