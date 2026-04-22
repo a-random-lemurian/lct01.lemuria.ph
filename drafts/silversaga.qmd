@@ -115,6 +115,45 @@ Based on these figures, we estimate at least 600&ndash;1,050 extant species acro
 
 Silversaga's aesthetic is variously described as "romantic minimalism" [@rainey2025], "timeless", and as having "soft romantic silhouettes" [@friendsoftfs_silversaga]. <!-- TODO: gather more reviews of what people call Silversaga, please... --> Silversaga herself frequently uses the adjective "romantic" on many of her product pages; and the title of the root page of the Silversaga Patterns website reads "Clothes Poetry", with a white dove emoji.
 
+
+```{=latex}
+\onecolumn
+```
+
+#### Difficulty
+Silversaga uses two different scales, 1-4 and 1-5 to rank the difficulty of her patterns. 1 is easy, while 4 or 5 is difficult.
+
+These are denoted by circles on the title page of each pattern, with a name given to each difficulty in italic text below.
+
+#### Table
+We present a pattern of 
+
+::: {#tbl-silversaga-patterns}
+| Pattern | Difficulty | Release date | Sizes | Cups | LCT-01 taxa | Species count
+|---|---|---|---|---|---|---|---|
+| Alma | 1 | | EU34&ndash;54 | |
+| Amelie | 2 | | EU34&ndash;54 | | 
+| Celeste  | 2 | 2026-04-01 | EU34&ndash;54 | | Celestidae (@sec-celestidae)
+| Celine | 2 | | EU34&ndash;54
+| Chloe | 1 | | EU34&ndash;54
+| Clara  | 1 | 2021-04 (RTW); 2023-08-25 (pattern) | EU34&ndash;50 | | Argenclaridae (@sec-argenclaridae)
+| Eleonora, sleeved | 3 | | EU34&ndash;54 | | Argenteleonoridae (@sec-argenteleonoridae)
+| Eleonora, sleeveless | 3 |  | EU34&ndash;50 | | Heleonoridae (@sec-heleonoridae)
+| Ella | 3 | 2025-12-09 (update); 2023 (RTW) | EU34&ndash;54
+| Elsa | 2 | | EU32&ndash;54
+| Emma | 2 | |  EU34&ndash;50
+| Francesca | 2 | |  EU34&ndash;54
+| Juliette | 3 | 2023-12-02 | EU34&ndash;50 | | Juliettidae (@sec-juliettidae)
+| Mina | ? | 2023-03-01 | EU34&ndash;48
+| Ophelia | 2 | | EU34&ndash;50
+
+A table of Silversaga's 15 patterns, with the most pertinent information.
+:::
+
+```{=latex}
+\twocolumn
+```
+
 ### Terminology
 We will be referring to Jessica Silversaga by her first name throughout the monograph, to better distinguish her from her company, Silversaga Patterns. She also has the person abbreviation *J.Silversaga* (see @sec-person-abbr).
 
