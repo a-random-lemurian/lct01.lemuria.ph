@@ -3235,8 +3235,7 @@ Simplified abstract reprojection of garment surface; viewpoint located directly 
 Diagram not to scale. Actual distances between strap attachment points not to scale; this diagram focuses solely on shape.
 :::
 
-**Remarks**: The Argencoridae, the Cora top, is one of the few discontinued sewing patterns in Silversaga's repertoire. The pattern is attested solely on the Internet Archive.
-
+**Remarks**: The Argencoridae, the Cora top, is one of the few discontinued sewing patterns in Silversaga's repertoire. The pattern is attested solely on the Internet Archive. Pattern testing took place during March, and it was eventually released on Etsy. It was discontinued by Silversaga on September 29, 2024, due to it no longer meeting Silversaga's standards [@silversaga2024_nomorecora].
 
 ### Tana {#sec-tana}
 **Tana** Lemuria, 2026; unranked
