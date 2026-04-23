@@ -1898,9 +1898,11 @@ Both hands placed on lateral surfaces inferior to inferior elastic channel.
 
 **Diagnosis**: Juliettidae is characterized by an adjustable neckline with elastic channel allowing off/on-shoulder configuration, a ventral medial button row of ~18 buttons, pleats at the waist, and voluminous balloon sleeves with proximal gathers and terminates in a distal elastic cuff at the wrist.
 
-It features a discontinuous belt near the transpyloric plane with a ventral medial tie. It terminates in wedge-shaped ends and typically drapes medially along the skirt.
+Discontinuous belt near transpyloric plane with ventral medial tie, wedge-shaped ends at edges, typically draped medially along skirt, often obscuring ventral medial button row.
 
-It features a skirt with an A-line flare terminating superior to the ankle (maxi-length) with optional bilateral pockets.
+Skirt with A-line flare, terminating superior to ankle (maxi-length), optional bilateral pockets. Ventral medial slit inferior to ventral medial button row.
+
+Optional hidden snap at inferior portion of skirt, inferior to ventral medial button row. Information second-hand from pattern through @annette2023_juliette.
 
 **Remarks**: After a month off work, on November 6, 2023, Silversaga began recruiting pattern testers for the Juliette [@silversaga2023_juliettetest]. She closed applications on November 14, 2023. On December 2, 2023, the Juliette was released.
 
@@ -1908,18 +1910,162 @@ The belt, with its ventral medial tie, is often draped over the ventral medial b
 
 **Design.** Jessica cites the peasant dress as inspiration for the Juliette.
 
-**Making.** Silversaga recommends a lightweight structured fabric, including but not limited to cotton, linen, and some blends. Silversaga designed the dress to be cut from 130 cm (51 in) wide fabric. Estimated fabric use. Low estimate 4.45 m (57,850 cm2) at EU34, 5.65 m at EU50 (73,450 cm2).
+**Making.** Silversaga recommends a lightweight structured fabric, including but not limited to cotton, linen, and some blends. Silversaga designed the dress to be cut from 130 cm (51 in) wide fabric. Estimated fabric use, low estimates: 4.45 m (57,850 cm2) at EU34, 5.65 m at EU50 (73,450 cm2).
 
 **Etymology**: *Juliette* + *-idae*, family suffix.
 
-**Type genus**: *Juliettistola* Lemuria, 2026; gen. nov.
+**Type genus**: *Julietta* Lemuria, 2026; gen. nov.
 
-#### Genus *Juliettistola* {#sec-julietta}
-***Juliettistola*** Lemuria, 2026; gen. nov.
+<!-- BEGIN Julietta -->
+<!-- Template generated with lct01tools and manually filled in by humans! -->
+#### Genus *Julietta* {#sec-genus-julietta}
+***Julietta*** Lemuria, 2026; gen. nov.
 
-**Taxonomic placement**: Placed in the family Juliettidae.
+**Diagnosis**: *Julietta* is the *sensu stricto* genus of Juliettidae. *Julietta* is characterized by origin from the Juliette pattern with minimal divergence.
 
-**Diagnosis**: *Juliettistola* is the *sensu stricto* genus of the Juliettidae. It is characterized by origin from the Juliette pattern with minimal divergence.
+**Etymology**: *Juliette* + *-a* to Latinize it.
+
+**Type species**: *Julietta alexisae*
+
+<!-- BEGIN alexisae -->
+<!-- Template generated with lct01tools and manually filled in by humans! -->
+#### *Julietta alexisae* {#sec-julietta-alexisae}
+***Julietta alexisae*** Lemuria, 2026; sp. nov.
+
+**Diagnosis**: *Julietta alexisae* is characterized by its fabric, a solid black lyocelle from Blackbird Fabrics. 3.6 m (4 yd) used. Size EU38. Black buttons, unknown reflective material. Four thread holes within central inset. Button hole alignment in plus shape relative to vertical direction. Buttons on wearer's right.
+
+**Remarks**: See also @alexis2023_juliette01 for Wright's Instagram post.
+
+The positioning of the ventral medial tie obscured significant portions of the ventral medial button row.
+
+**Etymology**: From *Alexis* + *-ae*, feminine genitive suffix.
+
+**Specimens examined**
+
+**Holotype**: ***Alexis 2023.178.86867*** &mdash; Photograph.
+2668&times;4000.
+Ventral view.
+Outdoors, daytime lighting conditions. Vegetation in background. No direct sunlight on subject.
+Hair positioned ventrally, lateral to chin, bilaterally, obscuring significant portion of neckline. 
+Subject's left arm placed on left lateral surface of ventral medial belt. Right arm adducted.
+First button obscured by hair.
+Buttons 2&ndash;6 visible.
+Buttons inferior to 6th button obscured by ventral medial tie.
+Inferiormost four buttons of ventral medial button row unfastened. 
+*Julietta alexisae* wb. Alexis.Wr., 2023.
+&copy; Alexis Wright or unknown photographer, 2023, all rights reserved.
+**Page**: @silversaga_juliette_gallery;
+**SHA2-256**: `7bf0708c7b0609e81f51ab5af1e952ee4613adc57465b693263a45b8de58b13c`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Alexis_Wright4.jpg?v=1701386867>;
+**IA**: <https://web.archive.org/web/20260318171516/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Alexis_Wright4.jpg?v=1701386867>
+
+***Alexis 2023.178.86880*** &mdash;
+Photograph.
+2668&times;4000.
+Left lateral view.
+Outdoors, daytime lighting conditions. Vegetation in background. No direct sunlight on subject.
+Hair draped lateral to head, bilaterally. Ventral neckline obscured by angle. Dorsal neckline obscured by hair.
+Subject's left arm presumably positioned ventrally. Right arm entirely invisible.
+No buttons visible.
+*Julietta alexisae* wb. Alexis.Wr., 2023.
+&copy; Alexis Wright or unknown photographer, 2023, all rights reserved.
+**Page**: @silversaga_juliette_gallery;
+**SHA2-256**: `dbe4ef0faac8c38de61a87151e3edd3db071be9ad62d3efca1af67d8d232f927`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Alexis_Wright5.jpg?v=1701386880>;
+**IA**: <https://web.archive.org/web/20260318171521/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Alexis_Wright5.jpg?v=1701386880>
+
+***Alexis 2023.178.39088*** &mdash; Photograph.
+2668&times;4000.
+Ventral view.
+Outdoors, daytime lighting conditions. Vegetation in background. No direct sunlight on subject.
+Hair draped lateral to head, bilaterally. Lateral portions of neckline obscured.
+Left arm extended outward, holding skirt. Right arm mostly adducted.
+Ventral medial button row on bodice entirely visible.
+Inferior portions of ventral medial button row unfastened; portions of subject's right lower leg visible.
+<!-- TODO: fill in this holotype information -->
+*Julietta alexisae* wb. Alexis.Wr., 2023.
+&copy; Alexis Wright or unknown photographer, 2023, all rights reserved.
+**Page**: @silversaga_juliette_gallery;
+**SHA2-256**: `54a91d9be59850d9439dad9e9ff2d94e0ef71731440477fec8855184185229bf`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Alexis_Wright14.jpg?v=1701439088>;
+**IA**: <https://web.archive.org/web/20260318171434/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Alexis_Wright14.jpg?v=1701439088>
+
+***Alexis 2023.178.IG159*** &mdash; Instagram post. `C0UmN01v8hB`. @alexis2023_juliette01. Eight photographs, numbered 01&ndash;08 from left to right.
+
+***Alexis 2023.178.IG159.01*** &mdash; Photograph. Identical in content to *Alexis 2023.178.86867*. Dispreferred due to image quality and reproducibility issues.
+
+***Alexis 2023.178.IG159.02*** &mdash; Photograph. 
+
+***Alexis 2023.178.IG159.03*** &mdash; Photograph. 
+
+***Alexis 2023.178.IG159.04*** &mdash; Photograph. 
+
+***Alexis 2023.178.IG159.05*** &mdash; Photograph. 
+
+***Alexis 2023.178.IG159.06*** &mdash; Photograph. 
+
+***Alexis 2023.178.IG159.07*** &mdash; Photograph. 
+
+***Alexis 2023.178.IG159.08*** &mdash; Photograph. 
+
+<!-- END alexisae -->
+
+<!-- BEGIN annettae -->
+<!-- Template generated with lct01tools and manually filled in by humans! -->
+#### *Julietta annettae* {#sec-julietta-annettae}
+***Julietta annettae*** Lemuria, 2026; sp. nov.
+
+**Diagnosis**: *Julietta annettae* is characterized by its fabric, a Robert Kaufman hunter green plaid (tartan) fabric (SB-13110D17-29; @sb_13110d17_29) from Gather Here (stylized gather_here). Size EU36 ("updated" according to @annette2023_juliette). Ventral medial button row. Circular buttons, black and slight stone gray color. Two thread holes, thread line horizontal.
+
+**Remarks**: See also @annette2023_juliette for Annette's Instagram post, and @annette2023_juliette_reel for an Instagram reel.
+
+With regards to the placement of the buttons, the semi-unfastened state was likely only exhibited during a single photoshoot. All three photographs are from the same photoshoot.
+
+**Etymology**: From *Annette* + *-ae*, feminine genitive suffix.
+
+**Specimens examined**
+
+**Holotype**: ***Annette 2023.15.6104*** &mdash; Photograph.
+2736&times;3648.
+Ventral view.
+Outdoors, daytime lighting conditions. White brick wall in background on top of concrete wall base. Leaves on ground.
+Hair tied dorsally, no obscuration of neckline (as inferred from visible tie on other images.)
+Subject's left arm extended outwards holding skirt. Right arm presumably adducted.
+*Julietta annettae* wb. Annette.N., 2023.
+&copy; Annette Nicoletti or unknown photographer, 2023, all rights reserved.
+**Page**: @annette2023_juliette;
+**SHA2-256**: `23f3a7a90853215376dd8468c9e8fdcfb8a274b5c3cb0b7d02fcd6ee5b87842b`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/annette_nicoletti_-_annette.sews_04.jpg?v=1701387007>;
+**IA**: <https://web.archive.org/web/20260318171444/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/annette_nicoletti_-_annette.sews_04.jpg?v=1701387007>
+
+***Annette 2023.15.6709*** &mdash; Photograph.
+2736&times;3648.
+Outdoors, daytime lighting conditions. White brick wall in background on top of concrete wall base. Leaves on ground.
+Hair tied dorsally (visible dorsal tie, same fabric as *Julietta annettae*; unclassified), no obscuration of neckline.
+Second and third buttons partially unfastened. Second button ~15% receded into buttonhole, 50% receded into buttonhole.
+Fourth buttons obscured by ventral medial tie.
+Subject's arms fully adducted.
+*Julietta annettae* wb. Annette.N., 2023;
+&copy; Annette Nicoletti or unknown photographer, 2023, all rights reserved.
+**Page**: @annette2023_juliette;
+**SHA2-256**: `d57a3026ea65eab0ddde3cefd6772f293dc7740794cda331d0ee5f30a6e285f9`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/annette_nicoletti_-_annette.sews_06.jpg?v=1701387040>;
+**IA**: <https://web.archive.org/web/20260318171529/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/annette_nicoletti_-_annette.sews_06.jpg?v=1701387040>
+
+***Annette 2023.15.6834*** &mdash; Photograph.
+2736&times;3648.
+Outdoors, daytime lighting conditions. White brick wall in background on top of concrete wall base. Leaves on ground.
+Hair tied dorsally (visible dorsal tie, same fabric as *Julietta annettae*; unclassified), no obscuration of neckline.
+Subject's left arm extended, holding skirt out. Right arm adducted, also holding skirt.
+*Julietta annettae* wb. Annette.N., 2023;
+&copy; Annette Nicoletti or unknown photographer, 2023, all rights reserved.
+**Page**: @annette2023_juliette;
+**SHA2-256**: `7dec17a4ae90b852f3fe9244b3e6bcebe3ce865d3489568c31edf701c97cfc25`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/annette_nicoletti_-_annette.sews_07.jpg?v=1701387048>;
+**IA**: <https://web.archive.org/web/20260318171531/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/annette_nicoletti_-_annette.sews_07.jpg?v=1701387048>
+
+<!-- END annettae -->
+
 
 ### Family Almidae {#sec-almidae}
 **Almidae** Lemuria, 2026; familia nova
