@@ -25,6 +25,8 @@ citation:
   publisher: Lemuria
   article-id: lict2026.0006
   publisher-place: Philippines
+  doi: 10.5281/zenodo.19507642
+doi: 10.5281/zenodo.19507642
 format:
   html:
     format-links: false
@@ -190,11 +192,13 @@ We thank Lauren Johnson for sharing her sewing process and her creativity with t
 
 **Disclaimer**: *Lemuria's (Informal) Journal of Clothing Taxonomy* is a non-peer-reviewed, single-author, citizen science/gray literature publication with no institutional backing.
 
-Publisher article ID: 2026.0006
+Publisher article ID: `lict2026.0006`; L78.1098/lict2026.0006 (not for external use)
+
+DOI: [`10.5281/zenodo.19507642`](https://doi.org/10.5281/zenodo.19507642) (provided by Zenodo)
 
 At publication, the journal did not have a DOI prefix.
 
-Work began on the paper on 2026-03-21. Descriptions were completed and proofreading began on 2026-03-25. Proofreading was completed and the paper was published the same day.
+Work began on the paper on 2026-03-21. Descriptions were completed and proofreading began on 2026-03-25. Proofreading was completed and the paper was published the same day. The paper was deposited in Zenodo and assigned a DOI on 2026-04-11.
 
 Visit us at: <https://lct01.lemuria.ph>
 
