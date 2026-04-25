@@ -1,5 +1,5 @@
 ---
-title: "On the LCT-01's specimens and holotypes: Image types, hashes, wearer authority, and the dream of a formal Code"
+title: "The methodology of the LCT-01: Image types, hashes, wearer authority, and the dream of a formal Code"
 author:
   name: Lemuria
   affiliation:
@@ -14,7 +14,7 @@ execute:
   freeze: false
 # publisher-id: "lict2026.0005"
 abstract: |
-  In both biological taxonomy and the LCT-01, species and other taxa are defined on the basis of a specific physical specimen or *illustration*. These are referred to as *types*. The most important of them is the *holotype*, which represents the entirety of its species as a whole. The LCT-01's subject matter, clothing, warrants entirely different conventions than biological taxonomy, which we discuss here. We also include other topics such as a revision of the concept of wearer authority and the possibility of a formal code for the LCT-01 that have been lumped into this paper.
+  In this paper, we aim to document the methodology that has implicitly arisen in our previous monographs, update the concept of wearer authority, and discuss the possibilyt of a formal code for the taxonomy. The handling of holotype images is the most detailed aspect of this paper; appropriate for their status as the backbone that describe the vast majority of the tree's taxa.
 draft: true
 bibliography: specimens_and_holotypes.bib
 number-sections: true
