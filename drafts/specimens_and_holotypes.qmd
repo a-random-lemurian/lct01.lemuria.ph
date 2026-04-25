@@ -223,9 +223,25 @@ The Internet Archive itself does not have a mechanism to request the archiving o
 The broad scope of the WARCs, covering entire websites as opposed to individual files, also somewhat slows down the taxonomic impediment; if the website of a major pattern company were to disappear, species could still be described based on Internet Archive copies.
 
 ## Managing image types
-The management of image types is a broad topic; but here, we focus on storing and distributing these image types. In most cases, image types live as three copies; one copy each on the project's infrastructure (encompassing any storage that its lead author may have access to), the Internet Archive, and the original website.
+There is no centralized structured database of image types, other than what is published in the *Journal*. 
 
-### The Handle System
+### `lct01-holotyper` and `lct01-notes`
+Sometime in March, Lemuria developed a holotyper tool to automatically extract EXIF metadata [@lemuria_kew_2026]. This was not committed to a Git repository at the time. On April 6, 2026, he created another tool, `lct01-notes`, and with its creation, committed both it and the holotyper to a new monorepo.
+
+`lct01-notes` is a command-line tool written in Golang that reads YAML files containing genera and species, and their image types. It can automatically generate image citation templates. Formatting of SHA-256 hashes, URLs, and other structured data can be automated, allowing the lead author to focus more on the unstructured parts of the image type citation, such as a description of the image.
+
+@fig-kewbellothea-yml showcases a small portion of a YML file containing image types used in descriptions of new *Kewbellothea* spp. from @lemuria_ninaskews_2026.
+
+::: {#fig-kewbellothea-yml}
+
+![](./kewbellothea.yml.png)
+
+A data file containing structured information on species and their image types that is read by `lct01-notes` to automatically generate image citation templates. File viewed using `batcat` and terminal emulator screenshotted.
+:::
+
+Since the YAML files are structured data; this saves future data entry work. The `lct01-notes` tool can be extended with further functionality, such as verifying SHA-256 hashes, downloading images; and support for other formats can be added. It already supports output both to Quarto and to the batch format used by the CNRI reference implementation of a Handle System server (see @sec-handlesys).
+
+### The Handle System {#sec-handlesys}
 The design of image identifiers has been done with DOIs and the Handle System in mind; this system is the groundwork for the idea of a database and a standard for image type data that may someday materialize when the scale justifies it.
 
 We have established a new Handle System server on our intranet, as part the nascent Lemurian Handle System. We have chosen to use the internal prefix `L78` within our infrastructure, and have specifically designated the prefix `L78.1104` for LCT-01 digital specimens. So far, it operates entirely independent of the Global Handle Registry (GHR); we do not have any Handle System prefixes from the GHR. This system of handles is not intended for external users.
