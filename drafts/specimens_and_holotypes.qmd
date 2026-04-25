@@ -327,16 +327,18 @@ The matter of where handles should go is also unresolved. Human users will typic
 # Sewing patterns
 A sewing pattern is a template that defines the shape of a garment's pieces, that are cut out from the fabric before assembly into the final garment.
 
-The sewing pattern perhaps maps most closely to the body plan, a set of morphological features shared by a significant portion of a phylum of animals. Body plans are often not applied to other kingdoms such as plants and fungi. Sewing patterns are also more "real" than body plans; while body plans can only hypothesize at the actual evolution of animals in the distant past, sewing patterns were created by humans for humans, and cut by humans to make garments.
+The sewing pattern perhaps maps most closely to the body plan, a set of morphological features shared by a significant portion of a phylum of animals. Body plans are often not applied to other kingdoms such as plants and fungi.
+
+Sewing patterns are also more "real" than body plans; while body plans can only hypothesize at the actual evolution of animals in the distant past, sewing patterns were created by humans for humans, and cut by humans to make garments. With sewing patterns, the actual process of descent can be easily reproduced, studied, and replayed at will, while scientists can only make vague guesses (relatively) from dinosaur bones.
 
 In the taxonomy, sewing patterns are often the basis for the definitions of many families, such as Kewoidea Lemuria, 2026&mdash;characterized by origin from Version 2 of the Kew pattern with sleeves lateral to the upper arm. 
 
 <!-- The sewing pattern does not map 1:1 to the biological concepts reused and adapted for the LCT-01; it can be considered the body plan, or the "DNA". The sewing pattern itself cannot be considered a taxon, as it is not wearable; yet descent from it is still used to define many of the LCT-01's families. The sewing pattern may be a *sui generis* item. -->
 
 ## Pattern distributability
-The vast majority of sewing patterns are proprietary, and copyrighted. However, just as Wikimedia Commons offers millions of images that can be used as holotypes (e.g. *Picniflava anaheimensibis*; [@lemuria_picniflava_2026]), free (both *libre*, as in freedom; and *gratis* as in price) patterns exist, primarily through FreeSewing, a website that contains parametrized sewing patterns, and generates patterns on-demand from a list of measurements.^[This further makes FreeSewing a *sui generis* case.]
+The vast majority of sewing patterns are proprietary, and copyrighted. However, just as Wikimedia Commons offers millions of images that can be used as holotypes (e.g. *Picniflava anaheimensibis*; [@lemuria_picniflava_2026]), free (both *libre*, as in freedom; and *gratis* as in price) patterns exist. *Gratis* patterns are common, but not *libre*. *Libre* and *gratis* patterns are available through FreeSewing, a website that contains parametrized sewing patterns, and generates patterns on-demand from a list of measurements.^[This further makes FreeSewing a *sui generis* case.] FreeSewing is the only known website that provides both *libre* and *gratis* patterns.
 
-Distributability is largely not a concern, as sewing pattern PDFs do not need to be distributed to describe families; and will invariably cause moral and legal issues for the taxonomy that it is not prepared to handle.
+Distributability is largely not a concern, as sewing pattern PDFs do not need to be distributed to describe families. Sewing patterns are also more often paywalled and their copyrights enforced more strictly; their distribution would create moral and legal issues for the taxonomy that it is not prepared to handle.
 
 ## Pattern reproducibility
 Here, "reproducibility" does not necessarily mean the distribution of sewing pattern PDFs, but rather, the repeatability of the process of purchasing or obtaining a specific pattern through designer-sanctioned channels.
@@ -345,14 +347,13 @@ Sewing pattern PDFs typically cannot be downloaded from a single highly accessib
 
 Some PDF files are however "stamped" with the details of the pattern's buyer; these watermarking mechanisms can occur in many ways, which are often invisible. This alters the bytestream, and is often irreversible, further harming reproducibility.
 
-Many PDFs are also encrypted and have flags set that "prohibit" certain actions. Software such as Adobe Acrobat Reader will obey these flags and disable actions accordingly, but this does not stop users from using software that alters these flags. Our author uses Okular, which does not obey these flags, though as previously said, these protections are a technical way of expressing a moral and legal wish, and he understands them as such and respects them.
+Many PDFs are also encrypted and have flags set that "prohibit" certain actions. Software such as Adobe Acrobat Reader will obey these flags and disable actions accordingly, but this does not stop users from using software that alters these flags.
 
-In some cases, PDFs have been revised entirely as part of a "new version"; with no option to download the old one or clear version history. The author has yet to purchase a sewing pattern, but theorizes that this kind of situation has arisen before based on statements on websites.
+In some cases, PDFs have been revised entirely as part of a "new version"; with no option to download the old one or clear version history. The lead author has yet to purchase a sewing pattern, but theorizes that this kind of situation has arisen before based on statements on websites.
 
-### `pdfinfo` output
-In the case of this PDF pattern, the author has "disabled" copying, changing, and note-taking. "Prohibit" and "disabled" are in quotes as if the data is decrypted, the client is not technically prevented from disobeying these restrictions. These protections are moral and legal, not technical.
+We present an example of these PDF flags as determined using the `pdfinfo` tool at @fig-pdfinfo.
 
-Shown below is the output of `pdfinfo` when run on a sewing pattern PDF offered *gratis*.
+::: {#fig-pdfinfo}
 
 ```
 $ pdfinfo pattern.pdf
@@ -379,6 +380,11 @@ File size:       3354030 bytes
 Optimized:       no
 PDF version:     1.6
 ```
+
+The output of `pdfinfo` when run on a sewing pattern PDF offered *gratis*.
+In the case of this PDF pattern, the author has "disabled" copying, changing, and note-taking. "Prohibit" and "disabled" are in quotes as if the data is decrypted, the client is not technically prevented from disobeying these restrictions. These protections are moral and legal, not technical.
+
+:::
 
 ## Conclusion for sewing patterns
 So far, sewing patterns do not need formal standards beyond what is already established in the LCT-01. Storing copies of them on a private file server or a computer may necessitate file organization standards, but these standards are irrelevant to sewing pattern taxonomy and published monographs.
