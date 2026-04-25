@@ -29,6 +29,7 @@ citation:
 format:
   html: default
   aft-pdf:
+    classoption: twoside,twocolumn
     # toc: true
     # toc-depth: 3
     include-in-header:
@@ -41,7 +42,6 @@ format:
 keywords: image specimen, holotype, integrity, standard
 ---
 
-```{=latex}
 \begin{multicols}{2}
 \tableofcontents
 ```
@@ -57,28 +57,23 @@ Images are the backbone of the LCT-01's archival work. For a variety of reasons,
 
 Information about a species is considered to originate in the physical holotype; the garment itself. In the case of the LCT-01, the physical holotype is most canonical; physical access to it provides information to all human senses; high information, low accessibility. This canonicality is rooted in the physical holotype, much like how the trust anchor is the root of trust for X.509 PKIs. This canonicality flows down to photographs, videos, 3D scans, and other forms of digital media that act as a substitute for the specimen.
 
-```{=latex}
-\end{multicols}
-```
 ::: {#fig-canonicality-flow}
 ```{mermaid}
-%%| fig-width: 6.5
-flowchart LR
+%%| fig-width: 3
+
+flowchart TB
     physical[Physical garment] -->|photography| photo[Photographs of the garment]
     photo -->|collages| photo
     physical -->|indirect| holotype
     photo -->|direct| holotype
     holotype[Holotypes]
-    holotype -->|defines| taxon[Taxon]
+    holotype -->|define| taxon[Taxon]
     taxon -->|type taxon for parent| taxon
 ```
 
 The flow of canonicality from the physical garment to a specific holotype.
 :::
 
-```{=latex}
-\begin{multicols}{2}
-```
 Image types will be the focus of this document, as they are the most common, most accessible, and thus, the most important to the LCT-01.
 
 ## Considerations
@@ -217,11 +212,7 @@ Under this system, *Eva 3318KE*'s handle would be `L78.1104/EVA_3318KE`.
 
 `L78.1104` can easily be substituted with a DOI prefix or a number outside of the tens; and systems both internal and external rewritten for the new standard. This type of internal setup is possible [@noauthor_handlenet_2018, "Configuring an Independent Handle Service"]; and the Corporation for National Research Initiatives offers a reference implementation in Java, with source code included.
 
-```{=latex}
-\end{multicols}
-```
-
-::: {#tbl-lauren}
+<!-- ::: {#tbl-lauren}
 ```
 1 CHECKSUM      2026-03-26 03:04:43Z a75de00edd89d900aeac4c6d42c394d0
                                      ca5ec34d7f103774191da157b3e75e9a
@@ -230,14 +221,14 @@ Under this system, *Eva 3318KE*'s handle would be `L78.1104/EVA_3318KE`.
                                      Gunnelaurentia/johnsonia/653494546_
                                      18101328101309090_2174774494879510443
                                      _n.jpg
-```
+``` -->
+
+::: {#fig-lauren}
+
+![](./Screenshot_2026-04-25_07-38-40.png)
 
 The Lemurian Handle System record for `L78.1104/Lauren_SGS9015.2024.10443GJ`, as a demonstration of the schema. Note that `lct01stash.lemuria02.net.lem` is an internal domain and not intended for external access or resolution.
 :::
-
-```{=latex}
-\begin{multicols}{2}
-```
 
 #### Keys
 Though not yet formalized, we have observed ourselves using the following keys, not described in the base specification or other more common uses of the Handle System.
@@ -342,7 +333,3 @@ Descriptions were completed and proofreading began on 2026-03-25. Proofreading w
 
 ::: {#refs}
 :::
-
-```{=latex}
-\end{multicols}
-```
