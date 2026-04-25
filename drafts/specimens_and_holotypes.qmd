@@ -309,6 +309,58 @@ Wearer authority applies to individual image types. These citations, prefixed wi
 
 Wearer authority indirectly applies to species and genera through types; the wearer authority for a species is the wearer authority of that species' holotype. The concept of wearer authority becomes less relevant at higher-level taxa that encompass garments worn by more than one person.
 
+## Abbreviations
+Following in botany's footsteps, the LCT-01 uses a system of person abbreviations. We call them *person abbreviations* rather than *author abbreviations* as with wearer authority, not all persons cited in the taxonomy are authors of taxa.
+
+There is no centralized database for person abbreviations in the LCT-01. They are defined on a decentralized basis as new monographs are published.
+
+There is no set of rules uniformly applied in forming person abbreviations. However, some conventions have arisen that we formally document here.
+
+### Given and family names
+In the the communities whose clothing we taxonomize, especially the sewing community, it is significantly more common to be identified by a given name and social media handle. Family names are retrievable, and often appended as initials to distinguish people with identical given names.
+
+<!-- SORTED BY LAST NAME -->
+* Anna Rifle Bond &rightarrow; Anna.R.B.
+* Nina Chang-Smith &rightarrow; Nina
+* Lauren Johnson &rightarrow; Lauren.J.
+* Tilly Walnes &rightarrow; Tilly
+
+Some people have well-publicized family names or family name equivalents, which are then used as their abbreviation:
+
+<!-- SORTED BY LAST NAME -->
+* Bernadette Banner &rightarrow; Banner
+* Kate Eva &rightarrow; Eva
+* Rachel Maksy &rightarrow; Maksy
+* Emilia Wickstead &rightarrow; Wickstead
+* Anna Wintour &rightarrow; Wintour
+
+Some people are entirely mononymous.
+
+* Lemuria &rightarrow; Lemuria
+
+Only one person enjoys the privilege of a single letter.
+
+* Carl Linnaeus &rightarrow; L. (in botany)
+
+### Locational genitives
+Sometimes, a last name is not available at all. Often, a general location (such as a town or city) is available. In this case, "Person of Location"-style abbreviations are used.
+
+* Emily, author of the blog *Self Assembly Required* &rightarrow; Emily of L. (from *Emily of London*)
+
+### Periods
+Periods are placed between truncated forms of proper nouns.
+
+* Elizabeth Baumgart &rightarrow; Eliz.B.
+* Eleanor Sews &rightarrow; Eleanor S.
+
+In the case of Eleanor, *Sews* is not a proper noun, but rather a habitual verb that indicates that Eleanor habitually sews. Given that Eleanor has no known family name, abbreviating the verb *Sews*, part of her online handle, is the only option. As such, there is no dot placed between *Eleanor* and *Sews*.
+
+## Identification
+The wearer of a garment is identified through a variety of methods, most commonly through the context the post was discovered in. A sewist may be identified by their Instagram username, while on RTW clothing sites, product photos may be attributed to a specific model, with sizing information; e.g. "Model Jane^[Referring to Jane Smith, the feminine equivalent to the placeholder John Smith.] is wearing a size medium."
+
+## The `modf.` particle
+We introduce the new particle *modf.*, short for English *modelling for*^[Also spelled *modeling for*.], to allow more context. Thus, a photograph of the hypothetical Jane wearing a dress from the hypothetical Example Company would be cited "wb. Jane modf. Example".
+
 # A formal Code?
 The compilation of a code of nomenclature for the LCT-01 is a time-intensive task, and one likely to introduce excessive bureaucracy to the taxonomy, and distract the lead author from the most desirable part of the taxonomy; naming and describing species.
 
