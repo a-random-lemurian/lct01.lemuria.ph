@@ -52,8 +52,7 @@ For types, which are objects or data used to define a taxon; two primary classes
 ## Types of types
 There are numerous types of types; the ones that map well to clothing taxonomy are the holotype and paratype. In practice, the difference between a holotype and paratype is very minor; as most images feature the same physical specimen in multiple views. Holotypes are still picked based on their quality; a RAW file from a camera will almost certainly be a holotype while a 360x720 thumbnail will not even be considered except in the most dire of image type scarcity situations.
 
-# Images
-Images are the backbone of the LCT-01's archival work. For a variety of reasons, it is exceedingly impractical and even undesirable for the LCT-01 to obtain and collect physical specimens of clothing; especially in sewing pattern taxonomy when a species consists only of a singular make.
+## Canonicality
 
 Information about a species is considered to originate in the physical holotype; the garment itself. In the case of the LCT-01, the physical holotype is most canonical; physical access to it provides information to all human senses; high information, low accessibility. This canonicality is rooted in the physical holotype, much like how the trust anchor is the root of trust for X.509 PKIs. This canonicality flows down to photographs, videos, 3D scans, and other forms of digital media that act as a substitute for the specimen.
 
@@ -75,6 +74,9 @@ The flow of canonicality from the physical garment to a specific holotype.
 :::
 
 Image types will be the focus of this document, as they are the most common, most accessible, and thus, the most important to the LCT-01.
+
+# Images
+Images are the backbone of the LCT-01's archival work. For a variety of reasons, it is exceedingly impractical and even undesirable for the LCT-01 to obtain and collect physical specimens of clothing; especially in sewing pattern taxonomy when a species consists only of a singular make, which makes images the preferred form of holotype in the LCT-01.
 
 ## Considerations
 In the use of image types, we hold ourselves to a specific set of criteria; primarily, detail, reproducibility, and integrity. Here, we explain how our archival and citation practices ensure that the criteria are met.
