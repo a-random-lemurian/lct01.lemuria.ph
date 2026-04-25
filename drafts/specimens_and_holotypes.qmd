@@ -269,9 +269,28 @@ Since the YAML files are structured data; this saves future data entry work. The
 ### The Handle System {#sec-handlesys}
 The design of image identifiers has been done with DOIs and the Handle System in mind; this system is the groundwork for the idea of a database and a standard for image type data that may someday materialize when the scale justifies it.
 
-We have established a new Handle System server on our intranet, as part the nascent Lemurian Handle System. We have chosen to use the internal prefix `L78` within our infrastructure, and have specifically designated the prefix `L78.1104` for LCT-01 digital specimens. So far, it operates entirely independent of the Global Handle Registry (GHR); we do not have any Handle System prefixes from the GHR. This system of handles is not intended for external users.
-Though integration with the Global Handle Registry is statistically unlikely, and infeasible given the relative age of the LCT-01 project, and the resources of its author; the system nevertheless remains "DOI-ready".
+#### Basic workings of a server
+First, a basic understanding of a Handle System server is needed. The Handle System organizes handles into two parts, a prefix, and a suffix, which together form a complete handle, such as 10.5281/zenodo.19242200, where 10.5281 is a DOI prefix, assigned to Zenodo, and zenodo.19242200 is the suffix, assigned to one of Lemuria's Kew monographs.
 
+Prefixes are administered on a semi-decentralized basis. Authority is rooted in the 0.NA namespace, whose suffixes contain administrative information pertaining to that prefix. For example, 0.NA/10 contains information on the keys and administrators with authority over the 10.x namespace. A server is made responsible for a specific prefix when it is "homed" with that prefix.
+
+#### Experiments
+In early March 2026, Lemuria conducted a series of experiments on his intranet with the CNRI reference implementation of the Handle System, to determine whether it could be used as a resolver for LCT-01 holotype names. He established an intranet-only handle namespace at L78, following the advice set out in [- @noauthor_handlenet_2018, "Configuring an Independent Handle Service" -];.
+
+The experiments proved successful, and the server has been in place since. It has not been updated with new holotype images due to the project's limited staffing.
+
+The server is capable of resolving handles from the Global Handle Registry, such as the 10.* handles used as Digital Object Identifiers, while maintaining its own namespace. L78.* is the intranet's internal namespace, and handles under L78.1104 are assigned to LCT-01 digital specimens. This internal system of handles is not intended for external users.
+
+#### Limitations
+Though the server is capable of administering one prefix, systems of derived prefixes are more difficult to administer: e.g. L78.5, L78.6, etc. One private key also holds authority over all handles on the server when following the configuration in [@noauthor_handlenet_2018, "Configuring an Independent Handle Service"]; this means that at larger scales, delegating authority over internal prefixes to subkeys is highly impractical, as the server only recognizes information from the 0.NA namespace (the "naming authority" namespace.)
+
+While the 0.NA prefix can be homed, this prevents the server from contacting the Global Handle Registry to resolve DOIs or other handles. Filling the server's local copy of 0.NA with GHR data is also possible, but runs the risk of outdated data.
+
+The server itself can be modified, as the CNRI includes source code in its distributions. However, there is no public git repository for this server. The developer time involved is almost certainly out of the scope of the project's available resources.
+
+The project itself does not fully understand the inner workings of the Handle System; this section is at best, unfinished, and at worst, riddled with errors.
+
+#### Eva's handle
 Under this system, *Eva 3318KE*'s handle would be `L78.1104/EVA_3318KE`.
 
 `L78.1104` can easily be substituted with a DOI prefix or a number outside of the tens; and systems both internal and external rewritten for the new standard. This type of internal setup is possible [@noauthor_handlenet_2018, "Configuring an Independent Handle Service"]; and the Corporation for National Research Initiatives offers a reference implementation in Java, with source code included.
@@ -295,13 +314,15 @@ The Lemurian Handle System record for `L78.1104/Lauren_SGS9015.2024.10443GJ`, as
 :::
 
 #### Keys
+Perhaps the most common key in the Handle System is the **URL** key, which simply contains a link to the resource.
+
 Though not yet formalized, we have observed ourselves using the following keys, not described in the base specification or other more common uses of the Handle System.
 
 - **CHECKSUM** &mdash; Checksum, in base16-encoded UTF-8, all lowercase.
 - **CHECKSUM.ALGO** &mdash; The name of the algorithm used. Typically `SHA2-256`.
 
 #### URL targets
-The matter of where handles should go is also unresolved. Human users will typically want a metadata page, such as a MediaWiki File page listing or other HTML page in a metadata system describing the image, programs will want a way of retrieving raw image data. A standard for providing multiple URLs depending on a specific audience is necessary. 
+The matter of where handles should go is also unresolved. Human users will typically want a metadata page, such as a MediaWiki File page listing or other HTML page in a metadata system describing the image, while programs will want raw image data. A standard for providing multiple URLs depending on a specific audience is necessary. 10320.loc is a useful starting point; in our internal implementation, we use the "provider" attribute on `<location>` elements.
 
 # Sewing patterns
 A sewing pattern is a template that defines the shape of a garment's pieces, that are cut out from the fabric before assembly into the final garment.
