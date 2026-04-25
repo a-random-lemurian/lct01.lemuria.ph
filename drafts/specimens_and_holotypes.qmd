@@ -199,6 +199,29 @@ Ultimately, the intent of image type naming is to provide an easily accessible l
 ## Typesetting
 Identifiers SHOULD be set in italics or a monospace font.
 
+## Annotations
+In April 2026, trials began on the practice of annotating holotype images. These annotations are in the form of SVG files overlaid on images. The SVG file contains a variety of boxes, labels, and callouts that identify each specific part of a garment. These annotations help close the gap that purely textual descriptions cannot; such as in cases where a taxonomist cannot find the correct or clear terminology for a specific garment feature.
+
+The ability of an SVG file to *link* to rather than *embed* an image, in line with "cite, link, hash, don't embed" is valuable for the taxonomy; as it allows the independent distribution of SVG files without copyright infringement on holotype images copyrighted by third parties.
+
+As an example, we present a diagram of *Picniflava anaheimensibis* annotating its various features as seen on its holotype in @fig-p-anaheimensibis. As the holotype image of *P. anaheimensibis* is licensed under CC BY 2.0, and available on Wikimedia Commons, we are able to directly embed the image. Most SVG files will be distributed bare, with in-image instructions for the user to download an image at a specific bare URL.^[A *bare URL* in this case means that the image is served by itself; no HTML or other content.]
+
+<!-- ```{=latex}
+\onecolumn
+``` -->
+
+::: {#fig-p-anaheimensibis fig-env="figure*"}
+
+![](./Picniflava_anaheimensibis.svg)
+
+Annotated diagram of *Picniflava anaheimensibis*. Image from @ratcliffe2015; CC BY 2.0.
+
+:::
+
+<!-- ```{=latex}
+\twocolumn
+``` -->
+
 ## Distributing image types
 In most cases, image types live as three copies; one copy each on the project's infrastructure (encompassing any storage that its lead author may have access to), the Internet Archive, and the original website.
 
