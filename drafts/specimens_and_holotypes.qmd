@@ -455,13 +455,13 @@ We introduce the new particle *modf.*, short for English *modelling for*^[Also s
 # A formal Code?
 The compilation of a code of nomenclature for the LCT-01 is a time-intensive task, and one likely to introduce excessive bureaucracy to the taxonomy, and distract the lead author from the most desirable part of the taxonomy; naming and describing species.
 
-In place of a single unified Code, we instead rely on a mixture of implicit taxonomic convention and small footnotes in monographs when we diverge either from the *International Code of Zoological Nomenclature* or the *International Code of Nomenclature for algae, fungi, and plants*.
+In place of a single unified Code, we instead rely on a mixture of implicit taxonomic conventions, small footnotes in monographs when we diverge either from the *International Code of Zoological Nomenclature* or the *International Code of Nomenclature for algae, fungi, and plants*, and methodology papers such as these ones.
 
 By its very nature, the taxonomy is out of scope of the two aforementioned codes. Our lead author has generally not consulted either of the codes, but rather, replicated patterns observed in taxonomic literature and on Wikipedia.
 
 As the sole author of the system, Lemuria, its lead author, is its ultimate authority. Many of the considerations that arise in taxonomic systems used by hundreds of thousands, such as communication, taxonomic vandalism, and priority, simply do not apply, or are less of an issue in a single-author taxonomy.
 
-However, documentation of the LCT-01's divergence from established taxonomic conventions to better suit its subject matter is still valuable. As such, Lemuria, through the *Journal*, intends to publish methodology papers such as this paper itself to explain certain aspects of the system. These methodology papers, compiled together, can incrementally build toward a unified Code.
+However, documentation of the LCT-01's divergence from established taxonomic conventions to better suit its subject matter is still valuable. As such, Lemuria, through the *Journal*, intends to publish methodology papers such as this paper itself to explain certain aspects of the system on a regular basis. These methodology papers, compiled together, can incrementally build toward and be adopted into a unified Code when the situation calls for it.
 
 # Appendix
 ## Information
