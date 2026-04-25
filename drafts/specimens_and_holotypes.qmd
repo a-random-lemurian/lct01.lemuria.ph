@@ -42,7 +42,7 @@ format:
 keywords: image specimen, holotype, integrity, standard
 ---
 
-\begin{multicols}{2}
+```{=latex}
 \tableofcontents
 ```
 
