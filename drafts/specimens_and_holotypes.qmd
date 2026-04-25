@@ -199,6 +199,29 @@ Ultimately, the intent of image type naming is to provide an easily accessible l
 ## Typesetting
 Identifiers SHOULD be set in italics or a monospace font.
 
+## Distributing image types
+In most cases, image types live as three copies; one copy each on the project's infrastructure (encompassing any storage that its lead author may have access to), the Internet Archive, and the original website.
+
+### Wikimedia Commons
+Wikimedia Commons is a media repository of free (as in freedom) images, sounds, and videos. It is a Wikimedia Foundation project, and provides image hosting for Wikipedia and the rest of the Wikimedia projects, and countless more MediaWiki sites, even the lead author's personal intranet site.
+
+As of April 2026, it had over 139 million media files. Amongst these files are large numbers of photographs of garments, and people wearing those garments. 
+
+Wikimedia Commons, and the Wikimedia movement in general, share many of the lead author's values pertaining to the dissemination and stockpiling of information. And because files on Commons have compatible licensing, most prominently the Creative Commons licenses, these files are an exception to the "cite, link, hash, don't embed" policy.
+
+One of the earliest papers published in the *Journal*, a description of *Picniflava anaheimensibis* [@lemuria_picniflava_2026], used a photograph from Wikimedia Commons, taken in 2015 by Amy Ratcliffe.
+
+### Internet Archive
+The Internet Archive is by far the largest backup for many LCT-01 holotype images. Links to the Internet Archive are standard for image type citations.
+
+The ability to capture almost any URL on the Internet, and store it effectively in perpetuity (still ahead of the original website, despite the many legal challenges faced by the Archive), through its Save Page Now tool is valued.
+
+Furthermore, a group of archivists, the Archive Team, exist. They are distinct from, but work closely with the Internet Archive. They operate a bot that crawls websites on request; many times, the lead author has visited their IRC channels to request archival of a specific site, and the team has been happy to oblige.
+
+The Internet Archive itself does not have a mechanism to request the archiving of an entire website; only individual pages can be archived through Save Page Now. The Archive Team provides this capability; WARCs (web archive files) they upload are accessible through the Wayback Machine, and allow IA links within image citations to function.
+
+The broad scope of the WARCs, covering entire websites as opposed to individual files, also somewhat slows down the taxonomic impediment; if the website of a major pattern company were to disappear, species could still be described based on Internet Archive copies.
+
 ## Managing image types
 The management of image types is a broad topic; but here, we focus on storing and distributing these image types. In most cases, image types live as three copies; one copy each on the project's infrastructure (encompassing any storage that its lead author may have access to), the Internet Archive, and the original website.
 
