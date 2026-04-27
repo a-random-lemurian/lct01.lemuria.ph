@@ -8,23 +8,25 @@ author:
 license: CC BY-SA
 journal:
   title: "Lemuria's (Informal) Journal of Clothing Taxonomy"
-# date: 2026-03-26
+date: 2026-04-27
 lang: en
 execute: 
   freeze: false
-# publisher-id: "lict2026.0005"
+publisher-id: lict2026.0009
+doi: 10.5281/zenodo.19796103
 abstract: |
-  In this paper, we aim to document the methodology that has implicitly arisen in our previous monographs, update the concept of wearer authority, and discuss the possibilyt of a formal code for the taxonomy. The handling of holotype images is the most detailed aspect of this paper; appropriate for their status as the backbone that describe the vast majority of the tree's taxa.
+  In this paper, we aim to document some of the methodology that has implicitly arisen in our previous monographs, update the concept of wearer authority, and discuss the possibility of a formal code for the taxonomy. The handling of holotype images is the most detailed aspect of this paper; appropriate for their status as the backbone that describe the vast majority of the tree's taxa. This methodology paper is intended to be one in a long series intended to refine the taxonomy and possibly build toward a unified Code one day.
 draft: true
 bibliography: specimens_and_holotypes.bib
 number-sections: true
 citation:
   author: Lemuria
-  # citation-key: lemuria_kew_2026
-  title: "On the LCT-01's specimens and holotypes"
-  # original-date: 2026-03-26
+  citation-key: lemuria_kew_2026
+  title: "The methodology of the LCT-01: Image types, hashes, wearer authority, and the dream of a formal Code"
+  original-date: 2026-04-27
   publisher: Lemuria
-  # article-id: lict2026.0005
+  article-id: lict2026.0009
+  doi: 10.5281/zenodo.19796103
   publisher-place: Philippines
 format:
   html: default
@@ -54,7 +56,7 @@ There are numerous types of types; the ones that map well to clothing taxonomy a
 
 ## Canonicality
 
-Information about a species is considered to originate in the physical holotype; the garment itself. In the case of the LCT-01, the physical holotype is most canonical; physical access to it provides information to all human senses; high information, low accessibility. This canonicality is rooted in the physical holotype, much like how the trust anchor is the root of trust for X.509 PKIs. This canonicality flows down to photographs, videos, 3D scans, and other forms of digital media that act as a substitute for the specimen.
+Information about a species is considered to originate in the physical holotype; the garment itself. In the case of the LCT-01, the physical holotype is most canonical; physical access to it provides information to all human senses; high information, low accessibility. This canonicality is rooted in the physical holotype, and flows down to photographs, videos, 3D scans, and other forms of digital media that act as a substitute for the specimen.
 
 ::: {#fig-canonicality-flow}
 ```{mermaid}
@@ -84,7 +86,7 @@ In the use of image types, we hold ourselves to a specific set of criteria; prim
 ### Image detail
 No singular photograph can provide all available detail; for example, a ventral view photograph cannot provide a dorsal view, and vice versa.
 
-We generally seek to find the highest-quality images possible. Tools such as Image Max URL, developed by qsniyg, which support over 10,000 sites and possibly more through generic rules for WordPress and MediaWiki, assist in this.
+We generally seek to find the highest-quality images possible. Tools such as Image Max URL, developed by qsniyg, which support over 10,000 sites and through generic rules for software such as MediaWiki and WordPress, many thousands or millions more, assist in this. Image Max URL detects when a low-resolution image is opened and redirects the user to a higher-quality version.
 
 Raw images; that of unprocessed data directly from a digital camera, is the "gold standard". These files are low-accessibility, yet high detail; they are often not publicly accessible.
 
@@ -105,16 +107,20 @@ We strongly discourage non-cryptographic functions such as MD5.
 Link rot is mitigated by the presence of copies both on the Internet Archive and the project's infrastructure.
 
 ### Copyright {#sec-copyright}
-The vast majority of images used by the LCT-01 as holotypes are copyrighted, all rights reserved by their holders. These images, and other content in general, are hereafter termed "non-free content" (NFC). We generally follow Wikipedia's lead by default, with some exceptions.
+The vast majority of images used by the LCT-01 as holotypes are copyrighted, all rights reserved by their copyright holders. These images, and other content in general under similar copyright terms, are hereafter termed "non-free content" (NFC). In the use of NFC, we generally follow Wikipedia's lead by default, with some exceptions.
 
 While fair use provisions in United States copyright law could theoretically allow the limited use of non-free content, out of an abundance of caution, we entirely refrain from the use of non-free images. Quotations of third-party textual content are not in scope.
 
 As such, we adopt a policy of "cite, link, hash, don't embed"; citations are provided, which link to the original websites; and as detailed in @sec-integrity, cryptographic checksums are provided. To further integrity, we also link to the Internet Archive.
 
+For the publication of measurements and size information, we consider this information data, which has no original authorship and is common property, and thus, ineligible for copyright protection.
+
+In the words of Wikimedia Commons: "This work is ineligible for copyright and therefore in the public domain because it consists entirely of information that is common property and contains no original authorship."
+
 ### Morals {#sec-morals}
 Moral concerns are mitigated by the fact that the images are public, and that the images were invariably taken with the consent of participating subjects.
 
-We aim to not sexualize subjects. We use anatomical and biological terminology in their medical, scientific, or otherwise academic contexts, with no undue emphasis on body shapes or sizes. We include measurements and sizes when the subjects have voluntarily published them in source material.
+We aim to not sexualize subjects. We use anatomical and biological terminology in their medical, scientific, or otherwise academic contexts, with no undue emphasis on body shapes or sizes. We include measurements and sizes when they have been published in source material, and we have a reasonable belief that the subjects consented to such publication.
 
 ## Actual content
 Images do not explicitly need to be a singular photograph; for example, the collage *Roseberry Trunkewia-1*, consisting of three panels, has been used to define three taxa (see *Trunkewia* subg. *Illecebrosus*, @lemuria_kew_2026). Images can be thought of more as a binary large object (BLOB) in this case.
@@ -148,7 +154,7 @@ Ventral view. Outdoors. Hair positioned ventrally, bilaterally obscuring certain
 **Original**: <https://www.ninalee.co.uk/cdn/shop/products/Laura-Hawkins-Specky-Seamstress-Kew-Expansion-16-28-gathered-skirt-1-scaled.jpg?v=1677871708>; 
 **IA**: <https://web.archive.org/web/20260405161421/https://www.ninalee.co.uk/cdn/shop/products/Laura-Hawkins-Specky-Seamstress-Kew-Expansion-16-28-gathered-skirt-1-scaled.jpg?v=1677871708>
 
-We begin by naming the image type. The image name is typically set off in italics, consistent with how the names of photographs are italicized. Italicization also makes the name of the image type more distinct.
+We begin by naming the image type. The image name is typically set off in italics, consistent with how the names of photographs are italicized when they are treated as standalone works. Italicization also makes the name of the image type more distinct.
 
 We then describe various elements of the image. There is no standardized order, and this image description is provided for convenience; the original image as linked always takes precedence. Important aspects of the image include metadata, lighting conditions, the configuration of the garment, the subject's posture, and the positioning of hair.
 
@@ -239,7 +245,7 @@ One of the earliest papers published in the *Journal*, a description of *Picnifl
 ### Internet Archive
 The Internet Archive is by far the largest backup for many LCT-01 holotype images. Links to the Internet Archive are standard for image type citations.
 
-The ability to capture almost any URL on the Internet, and store it effectively in perpetuity (still ahead of the original website, despite the many legal challenges faced by the Archive), through its Save Page Now tool is valued.
+The ability to capture almost any URL on the Internet, and store it effectively in perpetuity (still ahead of the original website, despite the many legal challenges faced by the Archive), through its Save Page Now tool is valuable to the taxonomy. It allows the IA to effectively serve as a museum or trusted repository where image types can be deposited.
 
 Furthermore, a group of archivists, the Archive Team, exist. They are distinct from, but work closely with the Internet Archive. They operate a bot that crawls websites on request; many times, the lead author has visited their IRC channels to request archival of a specific site, and the team has been happy to oblige.
 
@@ -341,7 +347,7 @@ The vast majority of sewing patterns are proprietary, and copyrighted. However, 
 Distributability is largely not a concern, as sewing pattern PDFs do not need to be distributed to describe families. Sewing patterns are also more often paywalled and their copyrights enforced more strictly; their distribution would create moral and legal issues for the taxonomy that it is not prepared to handle.
 
 ## Pattern reproducibility
-Here, "reproducibility" does not necessarily mean the distribution of sewing pattern PDFs, but rather, the repeatability of the process of purchasing or obtaining a specific pattern through designer-sanctioned channels.
+Here, "reproducibility" does not necessarily mean the distribution of sewing pattern PDFs, but rather, the repeatability of the process of purchasing or obtaining a specific pattern through designer-sanctioned channels (most commonly a purchase on the designer's website).
 
 Sewing pattern PDFs typically cannot be downloaded from a single highly accessible URL. As with images, PDF files can be hashed, and citations to the original pattern provided so that those wishing to reproduce any results can purchase the pattern, and support the designers.
 
@@ -353,13 +359,12 @@ In some cases, PDFs have been revised entirely as part of a "new version"; with 
 
 We present an example of these PDF flags as determined using the `pdfinfo` tool at @fig-pdfinfo.
 
-::: {#fig-pdfinfo}
+::: {#fig-pdfinfo fig-env="figure*"}
 
 ```
 $ pdfinfo pattern.pdf
 Title:           [REDACTED]
-Creator:         Adobe Illustrator 28.7
-                 (Windows)
+Creator:         Adobe Illustrator 28.7 (Windows)
 Producer:        Adobe PDF library 17.00
 CreationDate:    Wed Sep 25 17:00:33 2024 PST
 ModDate:         Wed Sep 25 18:00:33 2024 PST
@@ -371,9 +376,7 @@ Suspects:        no
 Form:            none
 JavaScript:      no
 Pages:           51
-Encrypted:       yes (print:yes copy:no
-                 change:no addNotes:no
-                 algorithm:AES)
+Encrypted:       yes (print:yes copy:no change:no addNotes:no algorithm:AES)
 Page size:       594 x 792 pts
 Page rot:        0
 File size:       3354030 bytes
@@ -396,7 +399,7 @@ We further expand on the original explanation of wearer authority in [@lemuria_g
 
 Describer authority works identically to biological taxonomy.
 
-Wearer authority applies to individual image types. These citations, prefixed with the particle *wb.*, meaning "worn by", indicate the name of the person wearing the garment. A year is then added to indicate when the garment within the image was worn.
+Wearer authority applies to individual image types. These citations, prefixed with the particle *wb.*, meaning "worn by", indicate the name of the person wearing the garment. A year is then added to indicate when the garment within the image was worn. An example of such a citation is "wb. Eva, 2016"
 
 Wearer authority indirectly applies to species and genera through types; the wearer authority for a species is the wearer authority of that species' holotype. The concept of wearer authority becomes less relevant at higher-level taxa that encompass garments worn by more than one person.
 
@@ -450,7 +453,18 @@ In the case of Eleanor, *Sews* is not a proper noun, but rather a habitual verb 
 The wearer of a garment is identified through a variety of methods, most commonly through the context the post was discovered in. A sewist may be identified by their Instagram username, while on RTW clothing sites, product photos may be attributed to a specific model, with sizing information; e.g. "Model Jane^[Referring to Jane Smith, the feminine equivalent to the placeholder John Smith.] is wearing a size medium."
 
 ## The `modf.` particle
-We introduce the new particle *modf.*, short for English *modelling for*^[Also spelled *modeling for*.], for the usage of product images as holotypes for RTW taxa. Thus, a photograph of the hypothetical Jane wearing a dress from the hypothetical Example Company would be cited "wb. Jane modf. Example".
+We introduce the new particle *modf.*, short for English *modelling for*^[Also spelled *modeling for*.]. While meant for the usage of product images as holotypes for RTW taxa, it can also be used to indicate that the wearer is modelling the garment in an official capacity for an organization, with the intent to exhibit the garment. Thus, a photograph of the hypothetical Jane wearing a dress from the hypothetical Example Company would be cited "wb. Jane modf. Example".
+
+Examples in which *modf.* would be used:
+
+* A model was hired by an RTW clothing label to model several of their garments.
+* A person is hired by an amusement park operator to dress as a character from a specific franchise created by that operator.
+* A person is wearing a workplace uniform during a photoshoot for the company intended for marketing materials, or internal dress code handbooks.
+
+Examples in which the lead author considers *modf.* inappropriate:
+
+* A person is wearing a specific garment in a workplace in compliance with the dress code.
+* A person is wearing a workplace uniform in the course of their job duties, and those job duties do not directly involve the garment itself.
 
 # A formal Code?
 The compilation of a code of nomenclature for the LCT-01 is a time-intensive task, and one likely to introduce excessive bureaucracy to the taxonomy, and distract the lead author from the most desirable part of the taxonomy; naming and describing species.
@@ -463,19 +477,26 @@ As the sole author of the system, Lemuria, its lead author, is its ultimate auth
 
 However, documentation of the LCT-01's divergence from established taxonomic conventions to better suit its subject matter is still valuable. As such, Lemuria, through the *Journal*, intends to publish methodology papers such as this paper itself to explain certain aspects of the system on a regular basis. These methodology papers, compiled together, can incrementally build toward and be adopted into a unified Code when the situation calls for it.
 
+## Independence
+We take the opportunity to declare one of our principles in this paper.
+
+The First Lemurian Clothing Taxonomy is independent of biological nomenclature codes. This includes, but is not limited to the *International Code of Zoological Nomenclature* (*ICZN*), *International Code of Nomenclature for algae, fungi, and plants* (*ICNafp*), the *International Code of Nomenclature for Cultivated Plants*, the *International Code of Nomenclature for Prokaryotes*, and the *International Code of Virus Classification and Nomenclature*. Our intended scope is that of clothing, fabric, their constituent parts, and in the broadest sense, anything worn on the human body that is not covered by these codes.
+
+We strongly advise that authors working within the LCT-01 refrain from publishing LCT-01 binomial names that conflict with zoological nomenclature, and especially botanical nomenclature, due to its usage in describing fabric prints on garments.
+
 # Appendix
 ## Information
 *Lemuria's (Informal) Journal of Clothing Taxonomy* is the gray literature journal of the First Lemurian Clothing Taxonomy, a system by Lemuria to assign Latin names to dresses using biological methods. The author, known mononymically as just Lemuria, is an Filipino programmer and independent gray literature researcher from Manila.
 
 **Disclaimer**: *Lemuria's (Informal) Journal of Clothing Taxonomy* is a non-peer-reviewed, single-author, citizen science/gray literature publication with no institutional backing.
 
-<!-- Publisher article ID: 2026.0005 -->
+Publisher article ID: 2026.0009
+
+DOI: [`10.5281/zenodo.19796103`](https://doi.org/10.5281/zenodo.19796103)
 
 At publication, the journal did not have a DOI prefix.
 
-Work began on the paper on 2026-03-26.
-<!--
-Descriptions were completed and proofreading began on 2026-03-25. Proofreading was completed and the paper was published the same day. -->
+Work began on the paper on 2026-03-26. There was a brief pause, until 2026-04-25. The paper was completed and published on 2026-04-28.
 
 * Visit us at: <https://lct01.lemuria.ph>
 * Version control: <https://github.com/a-random-lemurian/lct01.lemuria.ph>
