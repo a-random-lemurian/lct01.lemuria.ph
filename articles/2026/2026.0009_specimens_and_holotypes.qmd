@@ -17,7 +17,7 @@ doi: 10.5281/zenodo.19796103
 abstract: |
   In this paper, we aim to document some of the methodology that has implicitly arisen in our previous monographs, update the concept of wearer authority, and discuss the possibility of a formal code for the taxonomy. The handling of holotype images is the most detailed aspect of this paper; appropriate for their status as the backbone that describe the vast majority of the tree's taxa. This methodology paper is intended to be one in a long series intended to refine the taxonomy and possibly build toward a unified Code one day.
 draft: true
-bibliography: specimens_and_holotypes.bib
+bibliography: 2026.0009_refs.bib
 number-sections: true
 citation:
   author: Lemuria
@@ -220,7 +220,7 @@ As an example, we present a diagram of *Picniflava anaheimensibis* annotating it
 
 ::: {#fig-p-anaheimensibis fig-env="figure*"}
 
-![](./Picniflava_anaheimensibis.svg)
+![](./2026.0009_supplementary/Picniflava_anaheimensibis.svg)
 
 Annotated diagram of *Picniflava anaheimensibis*. Image from @ratcliffe2015; CC BY 2.0.
 
@@ -265,7 +265,7 @@ Sometime in March, Lemuria developed a holotyper tool to automatically extract E
 
 ::: {#fig-kewbellothea-yml}
 
-![](./kewbellothea.yml.png)
+![](./2026.0009_supplementary/kewbellothea.yml.png)
 
 A data file containing structured information on species and their image types that is read by `lct01-notes` to automatically generate image citation templates. File viewed using `batcat` and terminal emulator screenshotted.
 :::
@@ -314,7 +314,7 @@ Under this system, *Eva 3318KE*'s handle would be `L78.1104/EVA_3318KE`.
 
 ::: {#fig-lauren}
 
-![](./Screenshot_2026-04-25_07-38-40.png)
+![](./2026.0009_supplementary/Screenshot_2026-04-25_07-38-40.png)
 
 The Lemurian Handle System record for `L78.1104/Lauren_SGS9015.2024.10443GJ`, as a demonstration of the schema. Note that `lct01stash.lemuria02.net.lem` is an internal domain and not intended for external access or resolution.
 :::
