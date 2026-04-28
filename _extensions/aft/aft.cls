@@ -605,10 +605,12 @@
                                  \kern-\p@\kern\p@}\par
     \endgroup
   \fi}
+
 \newcommand*\l@subsection{\@dottedtocline{2}{1.5em}{2.3em}}
-\newcommand*\l@subsubsection{\@dottedtocline{3}{3.8em}{3.2em}}
-\newcommand*\l@paragraph{\@dottedtocline{4}{7.0em}{4.1em}}
-\newcommand*\l@subparagraph{\@dottedtocline{5}{10em}{5em}}
+\newcommand*\l@subsubsection{\@dottedtocline{3}{2.0em}{3.2em}}
+\newcommand*\l@paragraph{\@dottedtocline{4}{3.0em}{4.1em}}
+\newcommand*\l@subparagraph{\@dottedtocline{5}{4.0em}{5em}}
+
 \newcommand\listoffigures{%
     \section*{\listfigurename}%
       \@mkboth{\MakeUppercase\listfigurename}%
