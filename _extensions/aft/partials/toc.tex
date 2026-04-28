@@ -12,9 +12,17 @@ $if(colorlinks)$
 \hypersetup{linkcolor=$if(toccolor)$$toccolor$$else$$endif$}
 $endif$
 \setcounter{tocdepth}{$toc-depth$}
-\newpage
+
+% $if(monograph)$
+% \clearpage
+% $endif$
+
 \tableofcontents
-\newpage
+
+% $if(monograph)$
+% \clearpage
+% $endif$
+
 }
 $endif$
 $if(lof)$

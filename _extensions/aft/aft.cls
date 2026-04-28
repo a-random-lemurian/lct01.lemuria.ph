@@ -46,9 +46,9 @@
 %% and covered by LPPL is defined by the unpacking scripts (with
 %% extension .ins) which are part of the distribution.
 \NeedsTeXFormat{LaTeX2e}[1995/12/01]
-\ProvidesClass{article}
-              [2021/10/04 v1.4n
- Standard LaTeX document class]
+\ProvidesClass{lemurianjournalsarticle}
+              [2026/04/29 v0.1
+ Standard Lemurian Journals article document class]
 \newcommand\@ptsize{}
 \newif\if@restonecol
 \newif\if@titlepage
@@ -241,59 +241,82 @@
 
 \def\journalname{}
 
+
+\def\@doi{}
+\def\@publisherid{}
+\def\@intranetid{}
+\def\@journalwebsite{}
+
+\newcommand{\doi}[1]{\def\@doi{#1}}
+\newcommand{\intranetid}[1]{\def\@intranetid{#1}}
+\newcommand{\publisherid}[1]{\def\@publisherid{#1}}
+\newcommand{\journalwebsite}[1]{\def\@journalwebsite{#1}}
+
 \newif\ifmonograph
 \monographfalse
 
 \newcommand{\monograph}{\monographtrue}
 
-  \def\@maketitle{%
-    \newpage
-    \null
-    \vskip 2em%
-    \begin{center}%
-    {\large \textit{\journalname}}
-    \vskip 1em%
-    \let \footnote \thanks
-      {\LARGE \@title \par}%
-      \vskip 1.5em%
-      {\large
-        \lineskip .5em%
-        \begin{tabular}[t]{c}%
-          \@author
-        \end{tabular}\par}%
-      \vskip 1em%
-      {\large \@date}%
-    \end{center}%
-    \par
-    \vskip 1.5em}
-% end of monograph switch
+\def\@maketitle{%
+  \newpage
+  \null
+  \vskip 2em%
 
+  %\begin{center}%
 
-\ifmonograph
-  \def\@maketitle{%
-    \newpage
-    \null
-    \vskip 2em%
-    \begin{center}%
-    {\large \textit{\journalname}}
-    \vskip 1em%
-    {\large \textbf{Monograph}}
-    \vskip 1em%
-  \end{center}%
-    \let \footnote \thanks
-      {\HUGE \@title \par}%
-      \vskip 1.5em%
-      {\large
-        \lineskip .5em%
-        \begin{tabular}[t]{c}%
-          \@author
-        \end{tabular}\par}%
-      \vskip 1em%
-      {\large \@date}%
-    \par
-    \vskip 1.5em}
-\fi
+  {\large \textit{\journalname}}
+  \vskip 0.5em%
 
+  \ifx\@journalwebsite\@empty
+  \else
+    \vskip .5em%
+    {\small \texttt{\@journalwebsite}}%
+  \fi
+
+  \vskip 1em%
+
+  \ifmonograph
+    {\Large \textbf{Monograph}}\vskip 1em
+    \vskip 1em
+  \fi
+
+  \let \footnote \thanks
+    {\LARGE \@title \par}%
+    \vskip 1.5em%
+    {\large
+      \lineskip .5em%
+      \@author
+      \begin{tabular}{l}%
+      \end{tabular}\par}%
+
+    \vskip 1em%
+  
+    {\large \@date}%
+
+    \ifx\@doi\@empty
+    \else
+      \vskip .5em%
+      {\small \texttt{doi:\@doi}}%
+    \fi
+
+    \ifx\@intranetid\@empty
+    \else
+      \vskip .5em%
+      {\small \texttt{lh:\@intranetid} (intranet)}%
+    \fi
+
+    \ifx\@publisherid\@empty
+    \else
+      \vskip .25em%
+      {\small ID: \texttt{\@publisherid}}%
+    \fi
+
+  %\end{center}%
+
+  \vfill
+
+  \par
+  \vskip 1.5em}
 \fi
 
 
@@ -420,8 +443,9 @@
      {\par\vfil\null\endtitlepage}
 \else
   \newenvironment{abstract}{%
+        \ifmonograph \clearpage \fi
         \begin{center}%
-          {\bfseries \abstractname\vspace{-.5em}\vspace{\z@}}%
+          {{\Large \bfseries \abstractname}\vspace{-.5em}\vspace{\z@}}%
         \end{center}%
         \quotation
       }
