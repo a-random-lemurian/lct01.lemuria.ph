@@ -25,6 +25,8 @@ contributes:
         - top=30mm
         - left=20mm
         - right=20mm
+      filters:
+        - hash.lua
       papersize: a4
       include-in-header: preamble.tex
       # define default configuration for the pdf version of your format
