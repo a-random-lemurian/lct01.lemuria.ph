@@ -2064,8 +2064,51 @@ Subject's left arm extended, holding skirt out. Right arm adducted, also holding
 
 <!-- END annettae -->
 
+<!-- BEGIN ariae -->
+<!-- Template generated with lct01tools and manually filled in by humans! -->
+#### *Julietta ariae* {#sec-julietta-ariae}
+***Julietta ariae*** Lemuria, 2026
 
-### Family Almidae {#sec-almidae}
+**Diagnosis**: *Julietta ariae* is characterized by its fabric, a slub linen rayon blend from JoAnn, dyed twice in "woodland" from Rit dye; the resulting color is light forest green. It deviates from the pattern with a ventral medial row of only 12 buttons, and sleeves 1 in (2.54 cm) shorter. Yellow buttons, unknown reflective material; four thread holes.
+
+**Remarks**: Aria only sewed 12 buttons due to either her energy levels or button supply having depleted. She remarks that the dress, despite its lower button count, has not significantly spread apart such as to constitute a wardrobe malfunction; and that she may decide to retain the button count of 12. See @aria2026_juliettaariae for Aria's original Instagram post.
+
+**Etymology**: From *Aria* + *-ae*, feminine genitive suffix.
+
+**Specimens examined**
+
+**Photography conditions.** All photographs appear to have been taken in outdoor lighting conditions, with no apparent direction of sunlight. Taken in the backyard of a house. Unknown plant in background, closest possible match to *Corylus avellana* L. (hazel, common hazel, European hazel). The subject's hair is positioned ventrally; it bilaterally drapes over the bodice, obscuring the ventral medial button row. First, second, third, and fourth buttons unfastened; buttons from fifth button onward fastened.
+
+**Holotype**: ***Aria 2023.190.371*** &mdash; Photograph.
+3072&times;4080.
+Ventral view. Subject facing to her right. Arms bilaterally placed on lateral surfaces of belt.
+*Julietta ariae* wb. Aria.W.S., 2023&copy; Aria Wright-Shriver or unknown photographer, 2023, all rights reserved.
+**Page**: @silversaga_juliette_gallery;
+**SHA2-256**: `b3a390776b67fcad7b0393afc15b8ec9f5a0bea7b2988941527d79440a955841`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/PXL_20231128_183137499.MP_2.jpg?v=1701443004>;
+**IA**: <https://web.archive.org/web/20260318171518/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/PXL_20231128_183137499.MP_2.jpg?v=1701443004>
+
+***Aria 2023.190.390*** &mdash; Photograph.
+3072&times;4080.
+Ventral view. Subject's arms extended outward.
+*Julietta ariae* wb. Aria.W.S., 2023&copy; Aria Wright-Shriver or unknown photographer, 2023, all rights reserved.
+**Page**: @silversaga_juliette_gallery;
+**SHA2-256**: `fa8a2ccfef0a1fcb25617a412facca624dc369abc0bf6a4b58d84c4d75c3c8ee`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/PXL_20231128_183113426.MP_1_2.jpg?v=1701442982>;
+**IA**: <https://web.archive.org/web/20260318171450/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/PXL_20231128_183113426.MP_1_2.jpg?v=1701442982>
+
+***Aria 2023.190.464*** &mdash; Photograph.
+3072&times;4080.
+Ventral view. Subject facing to her right. Arms bilaterally placed on lateral surfaces of belt.
+*Julietta ariae* wb. Aria.W.S., 2023&copy; Aria Wright-Shriver or unknown photographer, 2023, all rights reserved.
+**Page**: @silversaga_juliette_gallery;
+**SHA2-256**: `5e43a1273d5c3b6891b6c1775f3faee83e67db18f3d4640e2c57a521c640e330`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/PXL_20231128_183131504.MP_3.jpg?v=1701443020>;
+**IA**: <https://web.archive.org/web/20260318171502/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/PXL_20231128_183131504.MP_3.jpg?v=1701443020>
+
+<!-- END ariae -->
+
+## Family Almidae {#sec-almidae}
 **Almidae** Lemuria, 2026; familia nova
 
 **Taxonomic placement**: Placed in the family Almidae.
