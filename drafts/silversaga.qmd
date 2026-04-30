@@ -249,8 +249,10 @@ We define the following new person abbreviations.
 * **Malin.S.** &mdash; Malin Stara (Instagram: &commat;[`angelinlace`{.hash}](https://www.instagram.com/angelinlace/)). Sweden.
 * **Mel.T.** &mdash; Mel Tesch (Instagram: &commat;[`melt.stitches`{.hash}](https://www.instagram.com/melt.stitches/)); bust 81 cm; waist 65 cm; hip 90 cm (provided on Instagram page). Australia: Queensland, Brisbane.
 * **Piola** &mdash; Piola (Instagram: &commat;[`piola.makes`{.hash}](https://instagram.com/piola.makes))
+* **Samantha.N.** &mdash; Samantha Newbery (Instagram: &commat;[`frenchseamsam`{.hash}](https://www.instagram.com/frenchseamsam/); &commat;[`snewbs`{.hash}`](https://www.instagram.com/snewbs/)). Private accounts.
 * **Stapleton** &mdash; Laural<!-- NOT A TYPO! --> Stapleton (first name not a typo; Instagram: &commat;[`themakerhaus`{.hash}](https://instagram.com/themakerhaus); see @sec-laural-stapleton).
 * **Suna.M.** &mdash; Suna Mantori (Instagram: &commat;[`threadbitchbrighton`{.hash}](https://instagram.com/threadbitchbrighton/)); bust 89 cm; waist 75 cm; hip 97 cm (provided on Instagram page). United Kingdom: England, East Sussex, Brighton.
+* **Tea.S.** &mdash; Tea Stamenkovic (LejdiTea; Instagram: &commat;[`lejditea`{.hash}](https://www.instagram.com/lejditea/))
 * **Theresa.N.** &mdash; Theresa Neef (Instagram: &commat;[`notesonmatter`{.hash}](https://instagram.com/notesonmatter)). United States: Louisiana, New Orleans.
 
 <!-- 
