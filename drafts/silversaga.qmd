@@ -1,5 +1,5 @@
 ---
-title: "An inordinate fondness for Silversaga and her patterns: a monograph"
+title: "An inordinate fondness for Silversaga and her patterns: a monograph on the Clara, Eleonora, and Juliette"
 author:
   name: Lemuria
   affiliation:
@@ -21,7 +21,7 @@ number-sections: true
 citation:
   author: Lemuria
   # citation-key: lemuria_kew_2026
-  title: "An inordinate fondness for Silversaga and her patterns: a monograph"
+  title: "An inordinate fondness for Silversaga and her patterns: a monograph on the Clara, Eleonora, and Juliette"
   original-date: 2026-04-07
   publisher: Lemuria
   # article-id: lict2026.0006
@@ -336,8 +336,6 @@ We use the following abbreviations for the genera we describe:
 
 * *Ac.* &mdash; *Argenclara*
 * *Ae.* &mdash; *Argenteleonora*
-* *Al.* &mdash; *Alma*
-* *C.* &mdash; *Celina*
 * *H.* &mdash; *Heleonora*
 * *J.* &mdash; *Julietta*
 * *T.* &mdash; *Trunclara*
