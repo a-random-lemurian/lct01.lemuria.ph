@@ -2126,14 +2126,6 @@ Ventral view. Subject facing to her right. Arms bilaterally placed on lateral su
 ### Genus *Alma* {#sec-alma}
 ***Alma*** Lemuria, 2026; gen. nov.
 
-## Class Vecostola {#sec-vecostola}
-**Vecostola** Lemuria, 2026
-
-## Family Argentellidae {#sec-argentellidae}
-**Argentellidae** Lemuria, 2026; familia nova
-
-**Taxonomic placement**: Placed in the class Vecostola.
-
 ## Subphylum Quaracomorpha {#sec-quaracomorpha}
 **Quaracomorpha** Lemuria, 2026; first public desc.
 
