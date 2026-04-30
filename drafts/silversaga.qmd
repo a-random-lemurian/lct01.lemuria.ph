@@ -624,7 +624,6 @@ for (i in seq_along(plots)) {
 
 
 ```{=latex}
-\twocolumn
 \clearpage
 ```
 
