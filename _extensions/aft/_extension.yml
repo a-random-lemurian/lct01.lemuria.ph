@@ -39,7 +39,7 @@ contributes:
       biblio-style: te
       csl: cmos.csl
       cite-method: biblatex
-      biblatexoptions: "backend=biber,style=authoryear,maxnames=99,doi=true,url=true,isbn=true,date=iso"
+      biblatexoptions: "backend=biber,style=authoryear,maxnames=99,doi=true,url=true,urldate=iso,isbn=true,date=iso"
       # Set this below (`biblio-config: false`) if your cls already load a bst file
       # biblio-config: false
       # Content to add in header that your format is using
