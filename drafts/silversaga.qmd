@@ -671,7 +671,7 @@ An illustration of an isosceles trapezoid [@alexandrov_illustration_2007], an id
 05
 : See family Argenclaridae (@sec-argenclaridae). End.
 
-### Family Argenclaridae {#sec-argenclaridae}
+## Family Argenclaridae {#sec-argenclaridae}
 **Argenclaridae** Lemuria, 2026; familia nova
 
 **Taxonomic placement**: Placed in the order Isargenta.
@@ -705,7 +705,7 @@ Silversaga recruited pattern testers for the Clara from August 3 to 7, 2023. She
 
 **Type genus**: *Argenclara*
 
-#### Genus *Argenclara* {#sec-argenclara}
+### Genus *Argenclara* {#sec-argenclara}
 
 <!--
 TODO: proofread argenclara
@@ -1631,7 +1631,7 @@ Outdoors. Mid-day. Grass field surrounded by trees. Botanical identification imp
 
 <!-- BEGIN Venaluna -->
 <!-- Template generated with lct01tools and manually filled in by humans! -->
-#### *Argenclara* subg. *Venaluna* {#sec-argenclara-subg-venaluna}
+### *Argenclara* subg. *Venaluna* {#sec-argenclara-subg-venaluna}
 ***Argenclara* subgenus *Venaluna*** Lemuria, 2026; subgen. nov.
 
 **Diagnosis**: *Argenclara* subg. *Venaluna* is phylogenetically characterized by having been sewn by Katie Hunter-Moon.
@@ -1645,7 +1645,7 @@ Outdoors. Mid-day. Grass field surrounded by trees. Botanical identification imp
 
 <!-- BEGIN lunatribis -->
 <!-- Template generated with lct01tools and manually filled in by humans! -->
-##### *Argenclara lunatribis* {#sec-argenclara-lunatribis}
+#### *Argenclara lunatribis* {#sec-argenclara-lunatribis}
 ***Argenclara lunatribis*** Lemuria, 2026; sp. nov.
 
 **Diagnosis**: *Argenclara lunatribis* is characterized by its fabric, light pink flowers and green leaves on a black background.
@@ -1697,7 +1697,7 @@ Subject looking to her right. Light source from her left; indoor white lighting.
 
 <!-- BEGIN lunatrix -->
 <!-- Template generated with lct01tools and manually filled in by humans! -->
-##### *Argenclara lunatrix* {#sec-argenclara-lunatrix}
+#### *Argenclara lunatrix* {#sec-argenclara-lunatrix}
 ***Argenclara lunatrix*** Lemuria, 2026; sp. nov.
 
 **Diagnosis**: *Argenclara lunatrix* is characterized by its solid white fabric, slightly transparent.
@@ -1758,7 +1758,7 @@ United Kingdom, Wales.
 
 <!-- BEGIN Lacashira -->
 <!-- Template generated with lct01tools and manually filled in by humans! -->
-#### *Argenclara* subg. *Lacashira* {#sec-argenclara-subg-lacashira}
+### *Argenclara* subg. *Lacashira* {#sec-argenclara-subg-lacashira}
 ***Argenclara* subgenus *Lacashira*** Lemuria, 2026; subgen. nov.
 
 **Diagnosis**: *Argenclara* subg. *Lacashira* is characterized by the presence of lace in the insert between the superior and interior waist channels.
@@ -1770,7 +1770,7 @@ United Kingdom, Wales.
 
 <!-- BEGIN mantorae -->
 <!-- Template generated with lct01tools and manually filled in by humans! -->
-##### *Argenclara mantorae* {#sec-argenclara-mantorae}
+#### *Argenclara mantorae* {#sec-argenclara-mantorae}
 ***Argenclara mantorae*** Lemuria, 2026; sp. nov.
 
 **Diagnosis**: *Argenclara mantorae* is characterized by its fabric, a viscose&ndash;tencel blend from MeetMILK fabric, with a subtle gingham check pattern, and by the usage of lace fabric as a trim at the distal edges of the sleeve, as the primary fabric between the waist channels, and as another trim at the inferior end of the skirt.
@@ -1832,7 +1832,7 @@ Neckline stretched to roughly scapula level, with ~10&ndash;25% of shoulder area
 
 <!-- BEGIN Trunclara -->
 <!-- Template generated with lct01tools and manually filled in by humans! -->
-#### Genus *Trunclara* {#sec-trunclara}
+### Genus *Trunclara* {#sec-trunclara}
 ***Trunclara*** Lemuria, 2026; gen. nov.
 
 **Diagnosis**: *Trunclara* is distinguished from *Argenclara* by the lack of a skirt.
@@ -1844,7 +1844,7 @@ Neckline stretched to roughly scapula level, with ~10&ndash;25% of shoulder area
 
 <!-- BEGIN piolae -->
 <!-- Template generated with lct01tools and manually filled in by humans! -->
-##### *Trunclara piolae* {#sec-trunclara-piolae}
+#### *Trunclara piolae* {#sec-trunclara-piolae}
 ***Trunclara piolae*** Lemuria, 2026; sp. nov.
 
 **Diagnosis**: *Trunclara piolae* is characterized by its fabric, a lightweight olive green linen.
@@ -1889,7 +1889,7 @@ Both hands placed on lateral surfaces inferior to inferior elastic channel.
 <!-- END piolae -->
 <!-- END Trunclara -->
 
-### Family Juliettidae {#sec-juliettidae}
+## Family Juliettidae {#sec-juliettidae}
 **Juliettidae** Lemuria, 2026; familia nova
 
 **Taxonomic placement**: Placed in the order Isargenta.
@@ -1916,7 +1916,7 @@ The belt, with its ventral medial tie, is often draped over the ventral medial b
 
 <!-- BEGIN Julietta -->
 <!-- Template generated with lct01tools and manually filled in by humans! -->
-#### Genus *Julietta* {#sec-genus-julietta}
+### Genus *Julietta* {#sec-genus-julietta}
 ***Julietta*** Lemuria, 2026; gen. nov.
 
 **Diagnosis**: *Julietta* is the *sensu stricto* genus of Juliettidae. *Julietta* is characterized by origin from the Juliette pattern with minimal divergence.
