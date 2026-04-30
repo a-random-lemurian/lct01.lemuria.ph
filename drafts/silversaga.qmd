@@ -343,6 +343,24 @@ We use the following abbreviations for the genera we describe:
 * *T.* &mdash; *Trunclara*
 * *Ta.* &mdash; *Tanaflora*
 
+## Liberty {#sec-liberty}
+::: {#fig-liberty-entrance}
+![](silversaga_supplementary/Liberty_1_(4870171538).jpg)
+
+Entrance of the Liberty department store in London [@hisgett2010_liberty].
+United Kingdom: England, London, Regent Street, around intersections of Maddox and Noel Street. 51° 30′ 49.76″ N, 0° 08′ 26.28″ W (image coordinates).
+:::
+
+Liberty (<https://libertylondon.com>) is a British department store on Great Marlborough Street in the West End of London. Liberty sells fashion products and homewares, and most relevant to the monograph, fabrics. One of its collections, the Tana Lawn cotton, represents one of the largest fabric taxa in the fabric taxonomy of the LCT-01, still undeveloped. Some relevant species are described in @sec-tana.
+
+Liberty's website uses the Amplience content management system (<https://amplience.com>), as written in a case study [@amplience_casestudy_liberty], and as inferred from the host `i8.amplience.net` being used to load images.
+
+`amplience.net` does not block retrievals using Wget or cURL, however, it blocks the Wayback Machine for unknown reasons. The Wayback Machine returns the error "Save Page Now could not capture this URL because it was unreachable. If the site is online, it may be blocking access from our service.".
+The LCT-01's standard citation practice of providing a SHA2-256 hash and linking both to the original and to the IA is infeasible as a result of this issue.
+
+Amplience provides date information for images through the `x-amp-published` header; retrieving <https://i8.amplience.net/i/liberty/000544799-R124365006-1> using `curl` with the `--head` option returns the header `x-amp-published: Wed, 05 May 2021 14:46:01 GMT`. However, this date information conflicts with the DateOriginal field in the aforementioned image, which claims an original date of `2017-01-24 12:01:26`.
+
+Backup copies of holotype images are available on the lead author's servers. Contact the corresponding author to make a request if the original URL is no longer functional.
 
 ## Materials and methods {#sec-materials-and-methods}
 ### Equipment and software {#sec-equipment-and-software}
@@ -391,25 +409,6 @@ refined during the Silversaga monograph
 During work on this paper, the author created a new tool that automatically generates Quarto template text from structured YAML data. This allows the data to exist in a structured format for future processing with other systems, and further improves standardization. Descriptions and remarks remain human-written; with less administrative and menial work comes the opportunity for more creative work.
 
 A paper dedicated solely to this software has not been started, but may be authored someday. YAML files used to generate the template text are provided with the paper. -->
-
-### Liberty {#sec-liberty}
-::: {#fig-liberty-entrance}
-![](silversaga_supplementary/Liberty_1_(4870171538).jpg)
-
-Entrance of the Liberty department store in London [@hisgett2010_liberty].
-United Kingdom: England, London, Regent Street, around intersections of Maddox and Noel Street. 51° 30′ 49.76″ N, 0° 08′ 26.28″ W (image coordinates).
-:::
-
-Liberty (<https://libertylondon.com>) is a British department store on Great Marlborough Street in the West End of London. Liberty sells fashion products and homewares, and most relevant to the monograph, fabrics. One of its collections, the Tana Lawn cotton, represents one of the largest fabric taxa in the fabric taxonomy of the LCT-01, still undeveloped. Some relevant species are described in @sec-tana.
-
-Liberty's website uses the Amplience content management system (<https://amplience.com>), as written in a case study [@amplience_casestudy_liberty], and as inferred from the host `i8.amplience.net` being used to load images.
-
-`amplience.net` does not block retrievals using Wget or cURL, however, it blocks the Wayback Machine for unknown reasons. The Wayback Machine returns the error "Save Page Now could not capture this URL because it was unreachable. If the site is online, it may be blocking access from our service.".
-The LCT-01's standard citation practice of providing a SHA2-256 hash and linking both to the original and to the IA is infeasible as a result of this issue.
-
-Amplience provides date information for images through the `x-amp-published` header; retrieving <https://i8.amplience.net/i/liberty/000544799-R124365006-1> using `curl` with the `--head` option returns the header `x-amp-published: Wed, 05 May 2021 14:46:01 GMT`. However, this date information conflicts with the DateOriginal field in the aforementioned image, which claims an original date of `2017-01-24 12:01:26`.
-
-Backup copies of holotype images are available on the lead author's servers. Contact the corresponding author to make a request if the original URL is no longer functional.
 
 ### Annotations
 We also provide annotations of certain holotype images to explain their construction and terms we have coined for reference to specific parts of the dress. We note that these terms will almost certainly differ from sewing terms or the terms used by Jessica in the patterns themselves. For copyright purposes, we only provide these annotations standalone; we include a URL for the original image to allow the user to retrieve and stitch the final annotation themselves.
