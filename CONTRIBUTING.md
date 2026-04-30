@@ -25,3 +25,11 @@ Page numbers are not continuous; they restart on an article basis. The LICT does
 In the interest of conserving storage space, the repository should not use overly large blobs. PDFs should not be committed to the repository, figures should not be either.
 
 As we do not embed copyrighted holotypes in our PDFs, this concern is mostly irrelevant. We do embed photographs from Wikimedia Commons, which keeps a transparent version history of files.
+
+## Git branches
+The `spiss` prefix means "special issue".
+
+### Scraps
+"Scraps" of writing that are good bits of work but not exactly a Minimum Publishable Unit live there until they can be put into a larger work or expanded into something more comprehensive.
+
+These scraps might be found on the spisses.
