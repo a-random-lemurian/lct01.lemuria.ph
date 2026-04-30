@@ -410,23 +410,14 @@ A mostly abridged guide for viewing these annotations with the original images i
 As an example, we provide an annotation for *Argenclara baumgartia* in @fig-argenclara-baumgartia.
 
 
-```{=latex}
-\onecolumn
-```
-
 ::: {#fig-argenclara-baumgartia}
 
 ![](silversaga_supplementary/Baumgart_95.6714.annot.svg)
 
-Raw diagram of *Argenclara baumgartia* (@sec-argenclara-baumgartia). For copyright reasons as stated in the body, the reader should overlay the diagram over the original image on their own computer using the instructions provided.
+A small preview of the raw diagram of *Argenclara baumgartia* (@sec-argenclara-baumgartia). For copyright reasons as stated in the body, the reader should overlay the SVG diagram, distributed separately, over the original image on their own computer using the instructions provided.
 :::
 
-
-```{=latex}
-\clearpage
-```
-
-::: {#fig-sha256sum}
+::: {#fig-sha256sum fig-env="figure*"}
 ```
 $ sha256sum --version
 sha256sum (GNU coreutils) 9.4
@@ -528,7 +519,6 @@ Amelie    -- Amelidae
 \clearpage
 ```
 
-
 ## Trees {#sec-trees}
 We provide several overview trees of the Silversaga taxa.
 
@@ -609,7 +599,7 @@ for (i in seq_along(plots)) {
   p <- plots[[i]]
   chunk <- knitr::knit_expand(
     text = c(
-      "```{r fig-{{label}}, fig.height={{h}}, fig.width=8, fig.cap='{{label}}', echo=FALSE}",
+      "```{r fig-{{label}}, fig.env='figure*', fig.height={{h}}, fig.width=8, fig.cap='{{label}}', echo=FALSE}",
       "plots[[{{i}}]]$p",
       "```"
     ),
