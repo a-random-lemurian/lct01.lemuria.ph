@@ -331,6 +331,19 @@ as an extra nod to the sewing pattern community......
 
 However, we exclude the Celeste pattern, as its 16 views and 12 pattern hacks included with the pattern lead to a lower bound for 192 taxa, over 2.5&times; the number of genera in the LCT-01 as last counted c. February 2026, ~75. -->
 
+### Genera abbreviations
+We use the following abbreviations for the genera we describe:
+
+* *Ac.* &mdash; *Argenclara*
+* *Ae.* &mdash; *Argenteleonora*
+* *Al.* &mdash; *Alma*
+* *C.* &mdash; *Celina*
+* *H.* &mdash; *Heleonora*
+* *J.* &mdash; *Julietta*
+* *T.* &mdash; *Trunclara*
+* *Ta.* &mdash; *Tanaflora*
+
+
 ## Materials and methods {#sec-materials-and-methods}
 ### Equipment and software {#sec-equipment-and-software}
 The author conducted his research on a computer running Ubuntu 24.04, with the XFCE desktop environment. He used the SHA2-256 algorithms to compute the cryptographic hashes of the photographic specimens he examined for species descriptions. He used Firefox 139.0.4. His monitor is a 55.8 cm (22 in) wide, 30.48 cm (12 in) tall, 63.5 cm (25 in) diagonal monitor, the NVISION S2515-B 25" IPS with a 100Hz refresh rate. He is not colorblind. He is near sighted and wears glasses.
