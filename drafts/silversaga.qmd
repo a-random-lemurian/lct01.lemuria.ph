@@ -2110,6 +2110,49 @@ Ventral view. Subject facing to her right. Arms bilaterally placed on lateral su
 **IA**: <https://web.archive.org/web/20260318171502/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/PXL_20231128_183131504.MP_3.jpg?v=1701443020>
 
 <!-- END ariae -->
+<!-- BEGIN baumgartia -->
+<!-- Template generated with lct01tools and manually filled in by humans! -->
+#### *Julietta baumgartia* {#sec-julietta-baumgartia}
+***Julietta baumgartia*** Lemuria, 2026
+
+**Diagnosis**: *Julietta baumgartia* is characterized by its fabric, a navy blue cotton broadcloth of unknown origin; the presence of triangles at the inferior edge of the skirt; while its ventral medial button row features white buttons made of an unknown reflective material, with two thread holes. The thread lines of the buttons are highly variable.
+
+**Remarks**: Baumgart remarks that the inferior edge triangles were accidental; she had forgotten to attach the skirt pieces before cutting. She remarked how similar situations often occur in vintage garments. See [@baumgart2023_juliette] for Baumgart's Instagram post.
+
+**Etymology**: From *Baumgart* + *-ia*.
+
+**Specimens examined**
+
+**Photography conditions.** Just as with *Ac. baumgartia*, *J. baumgartia* was taken in the same room, as can be inferred from the floor visible in *Baumgart 2023.10485.176*. A window is to her right in *176* and *338*, through which the sun shines intensely, causing underexposure on the left side of the dress due to dynamic range adjustments. *662* is a tighter crop, though the shadow to her left still leads to underexposure. The pixels within *176* are significantly grainier than the other two.
+
+**Holotype**: ***Baumgart 2023.10485.176*** &mdash; Photograph.
+2457&times;3276.
+Ventral view. Subject facing to her right. Arms extending skirt outward bilaterally.
+*Julietta baumgartia* wb. Eliz.B., 2023&copy; Elizabeth Baumgart or unknown photographer, 2023, all rights reserved.
+**Page**: @silversaga_juliette_gallery;
+**SHA2-256**: `207c0cfa360576362fe8232d81f9cb0aae2f1fa96231846f971d2b07e0b6ad4f`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Thatsewliz_juliette_2.jpg?v=1701443357>;
+**IA**: <https://web.archive.org/web/20260318171435/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Thatsewliz_juliette_2.jpg?v=1701443357>
+
+***Baumgart 2023.10485.338*** &mdash; Photograph.
+2454&times;3272.
+Ventral view. Subject facing to her right. Arms extending skirt outward bilaterally; right arm significantly further out. Ventral medial tie drapes diagonally, allowing view of the skirt portion of the ventral medial button row. Button material reflecting sunlight.
+*Julietta baumgartia* wb. Eliz.B., 2023&copy; Elizabeth Baumgart or unknown photographer, 2023, all rights reserved.
+**Page**: @silversaga_juliette_gallery;
+**SHA2-256**: `03d56f9f6cf7b736ceccd54c72a294c766c52f29c976901e99a08b0a36078337`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Thatsewliz_juliette_3.jpg?v=1701443374>;
+**IA**: <https://web.archive.org/web/20260318171537/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Thatsewliz_juliette_3.jpg?v=1701443374>
+
+***Baumgart 2023.10485.662*** &mdash; Photograph.
+3024&times;4032.
+Truncated ventral view. Subject facing to her right. Arms bilaterally placed on lateral surfaces inferior to belt. Belt tied and draping diagonally, leaving ventral medial button row unobscured.
+*Julietta baumgartia* wb. Eliz.B., 2023&copy; Elizabeth Baumgart or unknown photographer, 2023, all rights reserved.
+**Page**: @silversaga_juliette_gallery;
+**SHA2-256**: `3d8d498f08d53f2b7da895b2d3b35626be39236e327407a5ea3f6fdb782d6fe8`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Thatsewliz_juliette_7.jpg?v=1701443394>;
+**IA**: <https://web.archive.org/web/20260318171437/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Thatsewliz_juliette_7.jpg?v=1701443394>
+
+<!-- END baumgartia -->
 
 ## Subphylum Quaracomorpha {#sec-quaracomorpha}
 **Quaracomorpha** Lemuria, 2026; first public desc.
