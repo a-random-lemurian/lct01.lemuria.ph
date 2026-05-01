@@ -45,6 +45,8 @@ monograph: true
 ---
 
 # Background
+We intend for this background section pertaining to Jessica Silversaga to be an introduction to her for the entire taxonomy; in future monographs, we plan to refer back to this.
+
 ## Jessica Silversaga {#sec-j-silversaga}
 Jessica Silversaga (<https://silversagapatterns.com>; Instagram: &commat;[`silversagapatterns`{.hash}](https://instagram.com/silversagapatterns); personal Instagram: &commat;[`jessicasilversaga`{.hash}](https://instagram.com/jessicasilversaga)) is a Swedish photographer, pattern designer, and sewist. She now lives in southern France, and has a cat, Ada [@friendsoftfs_silversaga].
 
