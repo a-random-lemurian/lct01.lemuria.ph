@@ -2115,7 +2115,7 @@ Ventral view. Subject facing to her right. Arms bilaterally placed on lateral su
 <!-- BEGIN baumgartia -->
 <!-- Template generated with lct01tools and manually filled in by humans! -->
 #### *Julietta baumgartia* {#sec-julietta-baumgartia}
-***Julietta baumgartia*** Lemuria, 2026
+***Julietta baumgartia*** Lemuria, 2026; sp. nov.
 
 **Diagnosis**: *Julietta baumgartia* is characterized by its fabric, a navy blue cotton broadcloth of unknown origin; the presence of triangles at the inferior edge of the skirt; while its ventral medial button row features white buttons made of an unknown reflective material, with two thread holes. The thread lines of the buttons are highly variable.
 
