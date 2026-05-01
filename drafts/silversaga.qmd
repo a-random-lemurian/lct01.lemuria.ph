@@ -2154,6 +2154,60 @@ Truncated ventral view. Subject facing to her right. Arms bilaterally placed on 
 
 <!-- END baumgartia -->
 
+<!-- BEGIN julianae -->
+<!-- Template generated with lct01tools and manually filled in by humans! -->
+#### *Julietta julianae* {#sec-julietta-julianae}
+***Julietta julianae*** Lemuria, 2026; sp. nov.
+
+**Diagnosis**: *Julietta julianae* is characterized by its fabric, an orange&ndash;yellow gold fabric with a pattern of two parallel vertical white lines running 90&deg; in a diagonal grid; and its ventral medial button row, consisting of buttons on the wearer's right. Buttons circular, two thread holes, primarily horizontal thread line. Possible white thread. Reflectivity unknown. Subtle black&ndash;brown&ndash;gray marks, faint, across button surface.
+
+**Remarks**: Rucker remarked that the color of the dress varies by lighting conditions; stating that it ranges between "yellow gold" and "orange". From the lead author's monitor configuration and visual system (as detailed in @sec-equipment-and-software), *J. julianae* appears to have an orange fabric.
+
+**Etymology**: From *Juliana* + *-ae*, feminine genitive suffix.
+
+**Specimens examined**
+
+**Photography conditions.** All four photographs appear to have been taken indoors, with a curtain to Rucker's left.
+
+**Holotype**: ***Juliana 2023.501.4871*** &mdash; Photograph.
+2316&times;3088.
+Slightly truncated ventral view; hemline not visible. Subject facing to her left. Left arm adducted; right arm extends outward with hand placed on right lateral surface. Hair positioned ventrally, obscuring right eye and lateral edges of neckline. Inferiormost button visible; one of subject's legs extended outward and exposed, inferior to inferiormost button.
+*Julietta julianae* wb. Juliana.R., 2023&copy; Juliana Rucker or unknown photographer, 2023, all rights reserved.
+**Page**: @juliana_r_2023_juliette;
+**SHA2-256**: `2507e6feb4683cfb225e56638859eb71fff9d701ac7a8908e2274c9b2493699a`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Juliana_Rucker3.jpg?v=1701387296>;
+**IA**: <https://web.archive.org/web/20260318171509/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Juliana_Rucker3.jpg?v=1701387296>
+
+***Juliana 2023.501.4880*** &mdash; Photograph.
+2316&times;3088.
+Truncated ventral view. Subject facing to her left. Left sleeve fully visible. Right sleeve truncated from image. Hair positioned ventrally, obscuring lateral edges of neckline.
+*Julietta julianae* wb. Juliana.R., 2023&copy; Juliana Rucker or unknown photographer, 2023, all rights reserved.
+**Page**: @juliana_r_2023_juliette;
+**SHA2-256**: `58dd7e05316d46c6219cfcb678572c26a1f19384d9b4ef52ec77da13d9e939fb`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Juliana_Rucker4.jpg?v=1701387289>;
+**IA**: <https://web.archive.org/web/20260318171451/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Juliana_Rucker4.jpg?v=1701387289>
+
+***Juliana 2023.501.4930*** &mdash; Photograph.
+2316&times;3088.
+Dorsal view. Subject facing to her left. Arms positioned ventrally. Hair positioned dorsally, obscuring dorsal portion of neckline.
+*Julietta julianae* wb. Juliana.R., 2023&copy; Juliana Rucker or unknown photographer, 2023, all rights reserved.
+**Page**: @juliana_r_2023_juliette;
+**SHA2-256**: `630f728ba214b482c2a7536501038165d1c1e8ddf5089a157814bc3eb94324be`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Juliana_Rucker2.jpg?v=1701387305>;
+**IA**: <https://web.archive.org/web/20260318171522/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Juliana_Rucker2.jpg?v=1701387305>
+
+***Juliana 2023.501.4937*** &mdash; Photograph.
+2316&times;3088.
+Lateral view. Right sleeve extends out towards camera; right arm placed between lateral and dorsal surface of dress, somewhat inferior to belt.
+*Julietta julianae* wb. Juliana.R., 2023&copy; Juliana Rucker or unknown photographer, 2023, all rights reserved.
+**Page**: @juliana_r_2023_juliette;
+**SHA2-256**: `90041e59149cfd9bb57792f2e0aac1a851c507b00aa0048cdfe4037220a95a21`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Juliana_Rucker.jpg?v=1701387312>;
+**IA**: <https://web.archive.org/web/20260318171532/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Juliana_Rucker.jpg?v=1701387312>
+
+<!-- END julianae -->
+
+
 ## Subphylum Quaracomorpha {#sec-quaracomorpha}
 **Quaracomorpha** Lemuria, 2026; first public desc.
 
