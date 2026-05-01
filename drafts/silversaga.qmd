@@ -2070,7 +2070,7 @@ Subject's left arm extended, holding skirt out. Right arm adducted, also holding
 <!-- BEGIN ariae -->
 <!-- Template generated with lct01tools and manually filled in by humans! -->
 #### *Julietta ariae* {#sec-julietta-ariae}
-***Julietta ariae*** Lemuria, 2026
+***Julietta ariae*** Lemuria, 2026; sp. nov.
 
 **Diagnosis**: *Julietta ariae* is characterized by its fabric, a slub linen rayon blend from JoAnn, dyed twice in "woodland" from Rit dye; the resulting color is light forest green. It deviates from the pattern with a ventral medial row of only 12 buttons, and sleeves 1 in (2.54 cm) shorter. Yellow buttons, unknown reflective material; four thread holes.
 
