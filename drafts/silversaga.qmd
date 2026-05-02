@@ -2252,6 +2252,55 @@ Dorsal view. Subject facing slightly to left. Both arms mostly adducted. Slight 
 
 <!-- END mantorae -->
 
+<!-- BEGIN manuelae -->
+<!-- Template generated with lct01tools and manually filled in by humans! -->
+#### *Julietta manuelae* {#sec-julietta-manuelae}
+***Julietta manuelae*** Lemuria, 2026; sp. nov.
+
+**Diagnosis**: *Julietta manuelae* is characterized by its fabric, a black linen viscose mix bought from JoAnn Fabrics.
+
+**Description**:
+
+**Remarks**: See @manuelaw_2023 for Manuela's original Instagram post.
+
+**Etymology**: From *Manuela* + *-ae*.
+
+**Specimens examined**
+
+**Photography conditions.** All three photographs were taken in an indoor environment. The subject was facing a white door with three-column windows; of which five rows are visible in the photographs. Manuela's hair terminates around the level of her chin and did not obscure the neckline in all photographs.
+
+**Holotype**: ***Manuela 2023.150.4290*** &mdash; Photograph.
+2574&times;3772.
+Ventral view. Subject facing towards door to her right. Subject's left arm on right lateral surface of dress. Left arm adducted.
+*Julietta manuelae* wb. Manuela.W., 2023.
+&copy; Manuela Wilkes or unknown photographer, 2023, all rights reserved.
+**Page**: @silversaga_juliette_gallery;
+**SHA2-256**: `13124b7b8b8b68bac1bb1dd0e55ead47cae52e3d3670ed6da5318616b2402f27`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Manuela_Wilkes5.jpg?v=1701439688>;
+**IA**: <https://web.archive.org/web/20260318171454/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Manuela_Wilkes5.jpg?v=1701439688>
+
+***Manuela 2023.150.6738*** &mdash; Photograph.
+2456&times;3057.
+Truncated ventral view. Subject facing towards door to her left. Subject's left arm extended outwards holding skirt. Subject's right arm also holding skirt, though it is more adducted than the left arm.
+*Julietta manuelae* wb. Manuela.W., 2023.
+&copy; Manuela Wilkes or unknown photographer, 2023, all rights reserved.
+**Page**: @silversaga_juliette_gallery;
+**SHA2-256**: `23e564dc30e656bfe788102338d8059a61ccffdf65b9372f4b8c17b1242f950b`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Manuela_Wilkes2.jpg?v=1701439738>;
+**IA**: <https://web.archive.org/web/20260318171447/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Manuela_Wilkes2.jpg?v=1701439738>
+
+***Manuela 2023.150.5167*** &mdash; Photograph.
+2762&times;3683.
+Slightly truncated dorsal view. Inferior portions of skirt invisible; superior surface of subject's head out of frame. Subject's left arm occluded by torso. Subject's right arm on hair.
+*Julietta manuelae* wb. Manuela.W., 2023.
+&copy; Manuela Wilkes or unknown photographer, 2023, all rights reserved.
+**Page**: @silversaga_juliette_gallery;
+**SHA2-256**: `0c20c1f785c73cb591a04b6c437401769bcdb3b820a56e2f583d8e64a4cea6bd`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Manuela_Wilkes7.jpg?v=1701439758>;
+**IA**: <https://web.archive.org/web/20260318171519/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Manuela_Wilkes7.jpg?v=1701439758>
+
+<!-- END manuelae -->
+
 ## Subphylum Quaracomorpha {#sec-quaracomorpha}
 **Quaracomorpha** Lemuria, 2026; first public desc.
 
