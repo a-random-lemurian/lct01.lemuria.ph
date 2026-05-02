@@ -2306,6 +2306,328 @@ Slightly truncated dorsal view. Inferior portions of skirt invisible; superior s
 
 <!-- END manuelae -->
 
+<!-- BEGIN oliwiae -->
+<!-- Template generated with lct01tools and manually filled in by humans! -->
+#### *Julietta oliwiae* {#sec-julietta-oliwiae}
+***Julietta oliwiae*** Lemuria, 2026; sp. nov.
+
+**Diagnosis**: *Julietta oliwiae* is characterized by its fabric, a dark stone gray solid fabric, and its significantly narrower ventral waist belt. Its ventral medial button row consists of 18 buttons on the left. Circular buttons, black, unknown reflective material. Two thread holes. Horizontal threadline.
+
+**Remarks**: *1150*, the holotype, shows that the belt may have been tied dorsally. Jarosz did not post about the Juliette dress on her Instagram. 
+
+**Etymology**: From *Oliwia* (Polish-language spelling of *Olivia*, not a typo) + *-ae*, feminine genitive suffix.
+
+**Specimens examined**
+
+**Photography conditions.** The photographs were taken indoors, with sunlight appearing to originate behind the camera, shining on Jarosz, possibly consistent with the location of a window. The photographs are consistently 3024&times;4032, and lack
+
+**Holotype**: ***Oliwia 2023.76.1150*** &mdash; Photograph.
+3024&times;4032.
+METADATAFROMHOLOTYPER <!-- TODO: fill in this holotype information -->
+*Julietta oliwiae* wb. Oliwia.J., 2023&copy; Oliwia Jarosz or unknown photographer, 2023, all rights reserved.
+**Page**: @silversaga_juliette_gallery;
+**SHA2-256**: `6cdc5a9feb6210fbfb5d4fc92084cd875df54d163140d19a183d02883168f217`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Oliwia_Jarosz4.jpg?v=1701443238>;
+**IA**: <https://web.archive.org/web/20260318171504/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Oliwia_Jarosz4.jpg?v=1701443238>
+
+***Oliwia 2023.76.1190*** &mdash; Photograph.
+3024&times;4032.
+METADATAFROMHOLOTYPER <!-- TODO: fill in this holotype information -->
+*Julietta oliwiae* wb. Oliwia.J., 2023&copy; Oliwia Jarosz or unknown photographer, 2023, all rights reserved.
+**Page**: @silversaga_juliette_gallery;
+**SHA2-256**: `a5ddbe7b18fdc11945328a4ac17e8aa9c5df6f7d76e61fe887b2b1c6e94e63db`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Oliwia_Jarosz3.jpg?v=1701443217>;
+**IA**: <https://web.archive.org/web/20260318171528/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Oliwia_Jarosz3.jpg?v=1701443217>
+
+***Oliwia 2023.76.1415*** &mdash; Photograph.
+3024&times;4032.
+METADATAFROMHOLOTYPER <!-- TODO: fill in this holotype information -->
+*Julietta oliwiae* wb. Oliwia.J., 2023&copy; Oliwia Jarosz or unknown photographer, 2023, all rights reserved.
+**Page**: @silversaga_juliette_gallery;
+**SHA2-256**: `46a2561e68111316d057e196de07df1a840f8bf583e4fdb1142fefa1f2cc62ab`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Oliwia_Jarosz.jpg?v=1701443201>;
+**IA**: <https://web.archive.org/web/20260318171526/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Oliwia_Jarosz.jpg?v=1701443201>
+
+<!-- END oliwiae -->
+
+<!-- BEGIN plettia -->
+<!-- Template generated with lct01tools and manually filled in by humans! -->
+#### *Julietta plettia* {#sec-julietta-plettia}
+***Julietta plettia*** Lemuria, 2026; sp. nov.
+
+**Diagnosis**: *Julietta plettia* is characterized by its fabric, a floral fabric consisting of yellow, light red (not pink), and gray flowers on a white background, and a ventral medial button row on the left. Placket narrow; button holes not visible. Buttons circular, unknown white reflective material; two thread holes, thread line mostly horizontal.
+
+**Remarks**: Silversaga did not tag Plett in her post about the Juliette.
+
+**Etymology**: From *Plett* + *-ia*.
+
+**Specimens examined**
+
+**Photography conditions.** The dress was photographed indoors, in a room with white walls and a wooden floor, and a white curtain to the subject's left, in daylight conditions. The photographs are blurry and prevent a clear view of the fabric.
+
+**Holotype**: ***Plett 2023.15.9309*** &mdash; Photograph.
+2667&times;4000.
+METADATAFROMHOLOTYPER <!-- TODO: fill in this holotype information -->
+*Julietta plettia* wb. Isabel.P., 2023&copy; Isabel Plett or unknown photographer, 2023, all rights reserved.
+**Page**: @silversaga_juliette_gallery;
+**SHA2-256**: `4845e0ef272a026b75de68123afa57df91ccec07671040d712176e250f635401`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Isabel_Plett6.jpg?v=1701389104>;
+**IA**: <https://web.archive.org/web/20260318171446/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Isabel_Plett6.jpg?v=1701389104>
+
+***Plett 2023.15.9781*** &mdash; Photograph.
+2667&times;4000.
+METADATAFROMHOLOTYPER <!-- TODO: fill in this holotype information -->
+*Julietta plettia* wb. Isabel.P., 2023&copy; Isabel Plett or unknown photographer, 2023, all rights reserved.
+**Page**: @silversaga_juliette_gallery;
+**SHA2-256**: `139038fa1f37b062b9f3b8cc3607446d5ee31e8be69965cbfa6fef0f1a73ce96`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Isabel_Plett5.jpg?v=1701389126>;
+**IA**: <https://web.archive.org/web/20260318171534/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Isabel_Plett5.jpg?v=1701389126>
+
+***Plett 2023.15.4029*** &mdash; Photograph.
+3635&times;5452.
+METADATAFROMHOLOTYPER <!-- TODO: fill in this holotype information -->
+*Julietta plettia* wb. Isabel.P., 2023&copy; Isabel Plett or unknown photographer, 2023, all rights reserved.
+**Page**: @silversaga_juliette_gallery;
+**SHA2-256**: `a9a00ae912bf01b88327cc85c35c9554ceb49cda4ab558dadcf749b33811103f`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Isabel_Plett7.jpg?v=1701389146>;
+**IA**: <https://web.archive.org/web/20260318171441/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Isabel_Plett7.jpg?v=1701389146>
+
+<!-- END plettia -->
+
+
+<!-- BEGIN plihalia -->
+<!-- Template generated with lct01tools and manually filled in by humans! -->
+#### *Julietta plihalia* {#sec-julietta-plihalia}
+***Julietta plihalia*** Lemuria, 2026; sp. nov.
+
+**Diagnosis**: *Julietta plihalia* is characterized by its fabric, a Tana Lawn fabric from Liberty, with a black-and-white floral pattern print (*incertae sedis* in the unranked taxon Tana; see @sec-tana). Its ventral medial button row consists of black circular buttons with two thread holes, of variable threadline orientation across the row. Dress made in size 36. Hem shortened 3 in (7.62 mm <!-- This is not a paper about guns. No. No. Ignore it. -->).
+
+**Remarks**: See @plihal2023 for Plihal's original Instagram post. The pattern of the fabric makes observation of the dress's pleats and features difficult.
+
+**Etymology**: From *Plihal* + *-ia*.
+
+**Specimens examined**
+
+**Photography conditions.** The photographs were taken in daylight, against a white wall with the subject standing on grass. Shadow patterns on the wall are consistent with vegetation, possibly trees.
+
+**Holotype**: ***Plihal 2023.5607.118*** &mdash; Photograph.
+2475&times;4032.
+Ventral view. Subject's hair positioned ventrally, obscuring lateral edges of neckline. Subject's left arm adducted in pockets, right arm similarly adducted. Subject facing forward, slightly leaning downwards to her right.
+*Julietta plihalia* wb. Paige.P., 2023.
+&copy; Paige Plihal or unknown photographer, 2023, all rights reserved.
+**Page**: @silversaga_juliette_gallery;
+**SHA2-256**: `3a986a6d0319be5b260059a5231006a75268eeb14965079fd1458b235326cc05`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Paige_Plihal.jpg?v=1701443097>;
+**IA**: <https://web.archive.org/web/20260318171540/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Paige_Plihal.jpg?v=1701443097>
+
+***Plihal 2023.5607.196*** &mdash; Photograph.
+2534&times;3783.
+Ventral view, zoomed out.
+Significant portions of subject's face occluded by hair.
+*Julietta plihalia* wb. Paige.P., 2023.
+&copy; Paige Plihal or unknown photographer, 2023, all rights reserved.
+**Page**: @silversaga_juliette_gallery;
+**SHA2-256**: `c995b3511b1d17ceaf36f6dcbd43a3fe0c4a83cc182825feb7faf1edfd6eddfa`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Paige_Plihal3.jpg?v=1701443123>;
+**IA**: <https://web.archive.org/web/20260318171459/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Paige_Plihal3.jpg?v=1701443123>
+
+<!-- END plihalia -->
+
+
+<!-- BEGIN samanthae -->
+<!-- Template generated with lct01tools and manually filled in by humans! -->
+#### *Julietta samanthae* {#sec-julietta-samanthae}
+***Julietta samanthae*** Lemuria, 2026; sp. nov.
+
+**Diagnosis**: *Julietta samanthae* is characterized by its fabric, an unknown material, depicting multiple types of flowers against a white background, with consistent spacing between each flower; and consistently sized flowers in arbitrary rotations. Its ventral medial button row is made of an unknown material; most possibly a light copper-like reflective material or fabric-covered, and is located on the left of the dress.
+
+**Remarks**: Newbery's Instagram accounts are private. Her last name was inferred from filenames.
+
+**Etymology**: From *Samantha* + *-ae*, feminine genitive suffix.
+
+**Specimens examined**
+
+**Photography conditions.** The photographs may have been taken in mild fog. Narrow depth of field centered on subject. The neckline of *J. samanthae* is low enough such that the upper portion of a tattooed moon is visible, which may be useful for wearer identification for other holotypes. In both photographs, Newbery has her hair worn ventrally; lateral to her head, bilaterally
+
+**Holotype**: ***Newbery 2023.158.3048*** &mdash; Photograph.
+3024&times;4032.
+Ventral view. Subject's arms extended outward slightly, holding skirt.
+*Julietta samanthae* wb. Sam.Ne., 2023.
+&copy; Samantha Newbery or unknown photographer, 2023, all rights reserved.
+**Page**: @silversaga_juliette_gallery;
+**SHA2-256**: `74dd5bd51df906fd4c314b8405e152116091354741419b6664adfecd4258476d`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Samantha_Newbery2.jpg?v=1701440663>;
+**IA**: <https://web.archive.org/web/20260318171513/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Samantha_Newbery2.jpg?v=1701440663>
+
+***Newbery 2023.158.3663*** &mdash; Photograph.
+3024&times;4032.
+Ventral view, tighter crop. Subject facing slightly downwards. Subject's arms extended outward slightly, holding skirt.
+*Julietta samanthae* wb. Sam.Ne., 2023.
+&copy; Samantha Newbery or unknown photographer, 2023, all rights reserved.
+**Page**: @silversaga_juliette_gallery;
+**SHA2-256**: `43d0d5dd643c989ac6d974ecd5310376118677b9da9144715984871a571c7577`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Samantha_Newbery3.jpg?v=1701440688>;
+**IA**: <https://web.archive.org/web/20260318171437/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Samantha_Newbery3.jpg?v=1701440688>
+
+<!-- END samanthae -->
+
+<!-- BEGIN stephaniae -->
+<!-- Template generated with lct01tools and manually filled in by humans! -->
+#### *Julietta stephaniae* {#sec-julietta-stephaniae}
+***Julietta stephaniae*** Lemuria, 2026; sp. nov.
+
+**Diagnosis**: *Julietta stephaniae* is characterized by its fabric, a navy blue&ndash;black cotton voile, and a ventral medial button row of 18 buttons, narrow, on the left. Four thread holes, primarily at rotated 45&deg; angle.
+
+**Remarks**: See @goh2023 for Goh's Instagram post.
+
+**Etymology**: From *Stephanie* + *-ae*, feminine genitive suffix.
+
+**Specimens examined**
+
+**Photography conditions.** The photographs were taken in a bright space with white walls and a tree in the background. Apparent light source from the subject's left (relative to subject's position in *530*).
+
+**Holotype**: ***Goh 2023.589102.108*** &mdash; Photograph.
+3024&times;4032.
+Ventral view, slightly truncated. Subject sitting on wooden bench. Left arm placed on knee. Right arm on bench.
+*Julietta stephaniae* wb. Stephanie.G., 2023.
+&copy; Stephanie Goh or unknown photographer, 2023, all rights reserved.
+**Page**: @silversaga_juliette_gallery;
+**SHA2-256**: `0b00b1051994112b8e42bd804337100da59dbadcbf13ce71d88dbfa7b6ef73f8`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Stephanie_Goh5.jpg?v=1701441048>;
+**IA**: <https://web.archive.org/web/20260318171457/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Stephanie_Goh5.jpg?v=1701441048>
+
+***Goh 2023.589102.433*** &mdash; Photograph.
+3024&times;4032.
+Close-up ventral view, truncated. Significantly higher exposure; wall in background overexposed. Large portions of ventral medial button row visible, with minor occlusion from ventral medial tie.
+*Julietta stephaniae* wb. Stephanie.G., 2023.
+&copy; Stephanie Goh or unknown photographer, 2023, all rights reserved.
+**Page**: @silversaga_juliette_gallery;
+**SHA2-256**: `650dbae2a78aedfe2bed699671d0e288f2726960f0d31d28acb3e25efd5466c7`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Stephanie_Goh8.jpg?v=1701441183>;
+**IA**: <https://web.archive.org/web/20260318171500/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Stephanie_Goh8.jpg?v=1701441183>
+
+***Goh 2023.589102.530*** &mdash; Photograph.
+3024&times;4032.
+Ventral view. Subject facing left, slightly upward. Left leg extended to subject's left. Left arm mostly adducted. Right arm on hair.
+*Julietta stephaniae* wb. Stephanie.G., 2023.
+&copy; Stephanie Goh or unknown photographer, 2023, all rights reserved.
+**Page**: @silversaga_juliette_gallery;
+**SHA2-256**: `5919c9a0e7662229a742f13bd85b0ce5c86ff57f8632345331da9fdaf87e9220`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Stephanie_Goh3.jpg?v=1701441031>;
+**IA**: <https://web.archive.org/web/20260318171448/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Stephanie_Goh3.jpg?v=1701441031>
+
+***Goh 2023.589102.887*** &mdash; Photograph.
+3024&times;4032.
+Dorsal view. Subject's arms raised upward. Skirt draping, slightly transparent.
+*Julietta stephaniae* wb. Stephanie.G., 2023.
+&copy; Stephanie Goh or unknown photographer, 2023, all rights reserved.
+**Page**: @silversaga_juliette_gallery;
+**SHA2-256**: `10f1daaf2bb402cb9dd6f77e1e5c8f2a9f35cc8e5b9646a6284b79924df09e1b`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Stephanie_Goh2.jpg?v=1701441013>;
+**IA**: <https://web.archive.org/web/20260318171515/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Stephanie_Goh2.jpg?v=1701441013>
+
+<!-- END stephaniae -->
+
+<!-- BEGIN thea -->
+<!-- Template generated with lct01tools and manually filled in by humans! -->
+#### *Julietta thea* {#sec-julietta-thea}
+***Julietta thea*** Lemuria, 2026; sp. nov.
+
+**Diagnosis**: *Julietta thea* is characterized by its fabric, a solid slightly light teal cotton poplin, and its ventral medial row of buttons, with circular patterned buttons, mostly white with slight streaks of gray. Two thread holes, thread line mostly horizontal.
+
+**Remarks**: See @tea_s_2023 for Tea's original post.
+
+**Etymology**: From New Latin *thea* ("tea").
+
+**Specimens examined**
+
+**Photography conditions.** The photographs were taken outdoors, in an urban environment, with vegetation in the background.
+
+We infer that *609* and *818* were taken in rapid succession, based on the movement of a bus and car in the left portion of the image, and in the distant right of the image, a faint image of a man in gray having "skipped" forward.
+
+**Holotype**: ***Tea 2023.150.141*** &mdash; Photograph.
+2651&times;3314.
+Ventral view. Subject's arms adducted, legs together, mostly straight posture. Hair mostly dorsal, draping ventrally and obscuring right lateral edge of neckline.
+*Julietta thea* wb. Tea.S., 2023.
+&copy; Tea Stamenkovic or unknown photographer, 2023, all rights reserved.
+**Page**: @silversaga_juliette_gallery;
+**SHA2-256**: `3d1e73380610be14ecfd8a3afb87b9295015edadd8e2ae109f6c6b0d958276de`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Tea_Stamenkovic6.jpg?v=1701443458>;
+**IA**: <https://web.archive.org/web/20260318171439/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Tea_Stamenkovic6.jpg?v=1701443458>
+
+***Tea 2023.150.609*** &mdash; Photograph.
+2458&times;3072.
+Lateral and dorsal view. Subject's left arm holding onto skirt, right arm occluded by body; hair positioned dorsally.
+*Julietta thea* wb. Tea.S., 2023.
+&copy; Tea Stamenkovic or unknown photographer, 2023, all rights reserved.
+**Page**: @silversaga_juliette_gallery;
+**SHA2-256**: `b822819bdc6355348088fa840aa97fa47e9fed498ad035e0fc8fa45041b09d2f`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Tea_Stamenkovic7.jpg?v=1701443473>;
+**IA**: <https://web.archive.org/web/20260318171455/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Tea_Stamenkovic7.jpg?v=1701443473>
+
+***Tea 2023.150.818*** &mdash; Photograph.
+2458&times;3072.
+Dorsal view. Hair positioned dorsally, slight occlusion of neckline from hair. Subject's arms mostly adducted, holding onto skirt.
+*Julietta thea* wb. Tea.S., 2023.
+&copy; Tea Stamenkovic or unknown photographer, 2023, all rights reserved.
+**Page**: @silversaga_juliette_gallery;
+**SHA2-256**: `114304fda84848aa2a8872e41512f0a871c67bd80eb25eafffa85d0391d3113b`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Tea_Stamenkovic8.jpg?v=1701443488>;
+**IA**: <https://web.archive.org/web/20260318171456/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Tea_Stamenkovic8.jpg?v=1701443488>
+
+<!-- END thea -->
+
+<!-- BEGIN venaluna -->
+<!-- Template generated with lct01tools and manually filled in by humans! -->
+#### *Julietta venaluna* {#sec-julietta-venaluna}
+***Julietta venaluna*** Lemuria, 2026; sp. nov.
+
+**Diagnosis**: *Julietta venaluna* is characterized by its solid white fabric, unknown material. Small white circular buttons with a mostly diagonal threadline, made of unknown reflective material. Buttons on unknown side.
+
+**Remarks**: Hunter-Moon did not make an Instagram post about the dress.
+
+**Etymology**: From Latin *venatrix* (feminine) or *venator* (masculine), both meaning "hunter", and *luna* ("moon").
+
+**Specimens examined**
+
+**Photography conditions.** The photographs were taken in a forest, most likely within Wales.
+
+**Holotype**: ***Hunter-Moon 2023.115.401*** &mdash; Photograph.
+3456&times;5184.
+Ventral view. Subject against tree, sunlight patterns consistent with vegetation in front. Left arm positioned dorsally, right arm raised against tree. hair positioned mostly dorsally with few strands over left edge of neckline; relatively little occlusion of neckline.
+*Julietta venaluna* wb. Hunter-Moon, 2023.
+&copy; Katie Hunter-Moon or unknown photographer, 2023, all rights reserved.
+**Page**: @silversaga_juliette_gallery;
+**SHA2-256**: `275f9ada9e7bb0115e4af67ed28b9ef5c90396a7f844d30612e8daf893084719`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/image00002.jpg?v=1701440213>;
+**IA**: <https://web.archive.org/web/20260318171524/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/image00002.jpg?v=1701440213>
+
+***Hunter-Moon 2023.115.688*** &mdash; Photograph.
+2176&times;3264.
+Grayscale image.
+Ventral view. Slightly truncated at inferior portions of skirt.
+Subject's right hand placed on tree; left hand extended outwards. Shadow line medially running across subject, around the medial portion of left bust. <!-- We're trying to find a medical non-sexual way to say "nipples" here! -->
+*Julietta venaluna* wb. Hunter-Moon, 2023.
+&copy; Katie Hunter-Moon or unknown photographer, 2023, all rights reserved.
+**Page**: @silversaga_juliette_gallery;
+**SHA2-256**: `066eef1269f4a585eadf08541db08fa24e44a1016682fd138cdd3b31f3aef109`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/image00006.jpg?v=1701440231>;
+**IA**: <https://web.archive.org/web/20260318171538/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/image00006.jpg?v=1701440231>
+
+***Hunter-Moon 2023.115.923*** &mdash; Photograph.
+1184&times;1776<!-- Oh say can you see, by the dawn's early light?-->.
+Lateral view. Subject looking up, left hand placed on tree. Right arm extended forward, no significant lateral distance.
+*Julietta venaluna* wb. Hunter-Moon, 2023.
+&copy; Katie Hunter-Moon or unknown photographer, 2023, all rights reserved.
+**Page**: @silversaga_juliette_gallery;
+**SHA2-256**: `963291e6f1b231025a1315ff99ed79e2333436f4978f0133ffb9407846406f03`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/image00010.jpg?v=1701440252>;
+**IA**: <https://web.archive.org/web/20260318171525/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/image00010.jpg?v=1701440252>
+
+<!-- END venaluna -->
+<!-- END Julietta -->
+
+
 ## Subphylum Quaracomorpha {#sec-quaracomorpha}
 **Quaracomorpha** Lemuria, 2026; first public desc.
 
