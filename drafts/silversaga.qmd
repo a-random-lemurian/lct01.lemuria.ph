@@ -196,14 +196,8 @@ During the early pattern period, Bethany won a copy of five patterns from Silver
 Her last name, Routamaa, is attested in pattern tester filenames.
 
 <!-- TODO: REPLACE THIS PLACEHOLDER! -->
-**Wearer of**: 9 spp.;
-Genus *Argenteleonora*: *bethanae* (@sec-argenteleonora-bethanae); 
-
-### Lauren Johnson {#sec-lauren-j}
-**Lauren Johnson** (<https://bouquetbylauren.com/about/>; Instagram: &commat;[`justlaurenjohnson`{.hash}](https://instagram.com/justlaurenjohnson)) is an American sewist and YouTuber from Little Rock, Arkansas. She runs the Bouquet Pattern Co. First covered in the LCT-01 in @lemuria_gunnelaurentia_2026, a description of *Gunnelaurentia johnsonia* Lemuria, 2026. 
-
-**Wearer of**: 1 sp.;
-*Celina laurentia* (@sec-celina-laurentia)
+**Wearer of**: N spp.
+*Ae. bethanae* (@sec-argenteleonora-bethanae);
 
 ### Madeleine Salisbury {#sec-madeleine-salisbury}
 **Madeleine Claire Salisbury** (Instagram: &commat;[`made_by_madeleine.claire`{.hash}](https://instagram.com/made_by_madeleine.claire)) is an American sewist, originally from New York, now living in Prague, Czech Republic. Salisbury herself was discovered as part of yet-to-be-published taxonomic work on other patterns; specifically the Traveller coat by Bella Loves Patterns.
@@ -291,13 +285,6 @@ As established in @sec-patterns, pattern testers alone contribute some 600&ndash
 As with Nina Lee's Kew dress, extensively taxonomized in prior monographs published in the *Journal*, some of these patterns are classified polyphyletically, due to the dispersion of their morphological diversity across the higher-level taxa of the LCT-01.
 
 In this case, the two patterns classified polyphyletically are the Eleonora and Ella. The sleeved Eleonora falls under the family Argenteleonoridae (@sec-argenteleonoridae), while the sleeveless Eleonora falls under the family Heleonoridae (@sec-heleonoridae).
-
-#### Ella
-The Ella has two views: view A with a V-neck, under the family Argentellidae (@sec-argentellidae); and view B with a curved square neckline, under the family Argenkamellidae (@sec-argenkamellidae).
-
-The Ella is named for a Swedish model named Ella, who Silversaga hired during the photoshoots for the S/S2023 collection. Preorders for the Ella opened on April 3, 2023.
-
-Silversaga began recruiting pattern testers for the Ella on July 1, 2023, and the Ella was released on July 28, 2023. This original pattern is now view A of the Ella dress as it appears in 2026. On September 15, 2023, the Ella's size range was further expanded. On November 4, 2025, Silversaga began recruiting testers for an updated version to add three new sizes and an additional view (View B; the Argenkamellidae), and on December 9, 2025, the updated Ella was released.
 
 ### The physical Silversaga label {#sec-silversaga-label}
 Invariably, all Silversaga garments from the RTW period worn by third parties feature a label. The label is white, with the word "Silversaga" set in all-caps, with spaced letters, and is positioned on the superiormost medial point of the garment's dorsal interior surface.
