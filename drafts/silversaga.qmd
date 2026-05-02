@@ -2048,7 +2048,7 @@ Hair tied dorsally (visible dorsal tie, same fabric as *Julietta annettae*; uncl
 Second and third buttons partially unfastened. Second button ~15% receded into buttonhole, 50% receded into buttonhole.
 Fourth buttons obscured by ventral medial tie.
 Subject's arms fully adducted.
-*Julietta annettae* wb. Annette.N., 2023;
+*Julietta annettae* wb. Annette.N., 2023.
 &copy; Annette Nicoletti or unknown photographer, 2023, all rights reserved.
 **Page**: @annette2023_juliette;
 **SHA2-256**: `d57a3026ea65eab0ddde3cefd6772f293dc7740794cda331d0ee5f30a6e285f9`{.hash};
@@ -2060,7 +2060,7 @@ Subject's arms fully adducted.
 Outdoors, daytime lighting conditions. White brick wall in background on top of concrete wall base. Leaves on ground.
 Hair tied dorsally (visible dorsal tie, same fabric as *Julietta annettae*; unclassified), no obscuration of neckline.
 Subject's left arm extended, holding skirt out. Right arm adducted, also holding skirt.
-*Julietta annettae* wb. Annette.N., 2023;
+*Julietta annettae* wb. Annette.N., 2023.
 &copy; Annette Nicoletti or unknown photographer, 2023, all rights reserved.
 **Page**: @annette2023_juliette;
 **SHA2-256**: `7dec17a4ae90b852f3fe9244b3e6bcebe3ce865d3489568c31edf701c97cfc25`{.hash};
@@ -2087,7 +2087,8 @@ Subject's left arm extended, holding skirt out. Right arm adducted, also holding
 **Holotype**: ***Aria 2023.190.371*** &mdash; Photograph.
 3072&times;4080.
 Ventral view. Subject facing to her right. Arms bilaterally placed on lateral surfaces of belt.
-*Julietta ariae* wb. Aria.W.S., 2023&copy; Aria Wright-Shriver or unknown photographer, 2023, all rights reserved.
+*Julietta ariae* wb. Aria.W.S., 2023.
+&copy; Aria Wright-Shriver or unknown photographer, 2023, all rights reserved.
 **Page**: @silversaga_juliette_gallery;
 **SHA2-256**: `b3a390776b67fcad7b0393afc15b8ec9f5a0bea7b2988941527d79440a955841`{.hash};
 **Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/PXL_20231128_183137499.MP_2.jpg?v=1701443004>;
@@ -2096,7 +2097,8 @@ Ventral view. Subject facing to her right. Arms bilaterally placed on lateral su
 ***Aria 2023.190.390*** &mdash; Photograph.
 3072&times;4080.
 Ventral view. Subject's arms extended outward.
-*Julietta ariae* wb. Aria.W.S., 2023&copy; Aria Wright-Shriver or unknown photographer, 2023, all rights reserved.
+*Julietta ariae* wb. Aria.W.S., 2023.
+&copy; Aria Wright-Shriver or unknown photographer, 2023, all rights reserved.
 **Page**: @silversaga_juliette_gallery;
 **SHA2-256**: `fa8a2ccfef0a1fcb25617a412facca624dc369abc0bf6a4b58d84c4d75c3c8ee`{.hash};
 **Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/PXL_20231128_183113426.MP_1_2.jpg?v=1701442982>;
@@ -2105,7 +2107,8 @@ Ventral view. Subject's arms extended outward.
 ***Aria 2023.190.464*** &mdash; Photograph.
 3072&times;4080.
 Ventral view. Subject facing to her right. Arms bilaterally placed on lateral surfaces of belt.
-*Julietta ariae* wb. Aria.W.S., 2023&copy; Aria Wright-Shriver or unknown photographer, 2023, all rights reserved.
+*Julietta ariae* wb. Aria.W.S., 2023.
+&copy; Aria Wright-Shriver or unknown photographer, 2023, all rights reserved.
 **Page**: @silversaga_juliette_gallery;
 **SHA2-256**: `5e43a1273d5c3b6891b6c1775f3faee83e67db18f3d4640e2c57a521c640e330`{.hash};
 **Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/PXL_20231128_183131504.MP_3.jpg?v=1701443020>;
@@ -2130,7 +2133,8 @@ Ventral view. Subject facing to her right. Arms bilaterally placed on lateral su
 **Holotype**: ***Baumgart 2023.10485.176*** &mdash; Photograph.
 2457&times;3276.
 Ventral view. Subject facing to her right. Arms extending skirt outward bilaterally.
-*Julietta baumgartia* wb. Eliz.B., 2023&copy; Elizabeth Baumgart or unknown photographer, 2023, all rights reserved.
+*Julietta baumgartia* wb. Eliz.B., 2023.
+&copy; Elizabeth Baumgart or unknown photographer, 2023, all rights reserved.
 **Page**: @silversaga_juliette_gallery;
 **SHA2-256**: `207c0cfa360576362fe8232d81f9cb0aae2f1fa96231846f971d2b07e0b6ad4f`{.hash};
 **Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Thatsewliz_juliette_2.jpg?v=1701443357>;
@@ -2139,7 +2143,8 @@ Ventral view. Subject facing to her right. Arms extending skirt outward bilatera
 ***Baumgart 2023.10485.338*** &mdash; Photograph.
 2454&times;3272.
 Ventral view. Subject facing to her right. Arms extending skirt outward bilaterally; right arm significantly further out. Ventral medial tie drapes diagonally, allowing view of the skirt portion of the ventral medial button row. Button material reflecting sunlight.
-*Julietta baumgartia* wb. Eliz.B., 2023&copy; Elizabeth Baumgart or unknown photographer, 2023, all rights reserved.
+*Julietta baumgartia* wb. Eliz.B., 2023.
+&copy; Elizabeth Baumgart or unknown photographer, 2023, all rights reserved.
 **Page**: @silversaga_juliette_gallery;
 **SHA2-256**: `03d56f9f6cf7b736ceccd54c72a294c766c52f29c976901e99a08b0a36078337`{.hash};
 **Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Thatsewliz_juliette_3.jpg?v=1701443374>;
@@ -2148,7 +2153,8 @@ Ventral view. Subject facing to her right. Arms extending skirt outward bilatera
 ***Baumgart 2023.10485.662*** &mdash; Photograph.
 3024&times;4032.
 Truncated ventral view. Subject facing to her right. Arms bilaterally placed on lateral surfaces inferior to belt. Belt tied and draping diagonally, leaving ventral medial button row unobscured.
-*Julietta baumgartia* wb. Eliz.B., 2023&copy; Elizabeth Baumgart or unknown photographer, 2023, all rights reserved.
+*Julietta baumgartia* wb. Eliz.B., 2023.
+&copy; Elizabeth Baumgart or unknown photographer, 2023, all rights reserved.
 **Page**: @silversaga_juliette_gallery;
 **SHA2-256**: `3d8d498f08d53f2b7da895b2d3b35626be39236e327407a5ea3f6fdb782d6fe8`{.hash};
 **Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Thatsewliz_juliette_7.jpg?v=1701443394>;
@@ -2174,7 +2180,8 @@ Truncated ventral view. Subject facing to her right. Arms bilaterally placed on 
 **Holotype**: ***Juliana 2023.501.4871*** &mdash; Photograph.
 2316&times;3088.
 Slightly truncated ventral view; hemline not visible. Subject facing to her left. Left arm adducted; right arm extends outward with hand placed on right lateral surface. Hair positioned ventrally, obscuring right eye and lateral edges of neckline. Inferiormost button visible; one of subject's legs extended outward and exposed, inferior to inferiormost button.
-*Julietta julianae* wb. Juliana.R., 2023&copy; Juliana Rucker or unknown photographer, 2023, all rights reserved.
+*Julietta julianae* wb. Juliana.R., 2023.
+&copy; Juliana Rucker or unknown photographer, 2023, all rights reserved.
 **Page**: @juliana_r_2023_juliette;
 **SHA2-256**: `2507e6feb4683cfb225e56638859eb71fff9d701ac7a8908e2274c9b2493699a`{.hash};
 **Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Juliana_Rucker3.jpg?v=1701387296>;
@@ -2183,7 +2190,8 @@ Slightly truncated ventral view; hemline not visible. Subject facing to her left
 ***Juliana 2023.501.4880*** &mdash; Photograph.
 2316&times;3088.
 Truncated ventral view. Subject facing to her left. Left sleeve fully visible. Right sleeve truncated from image. Hair positioned ventrally, obscuring lateral edges of neckline.
-*Julietta julianae* wb. Juliana.R., 2023&copy; Juliana Rucker or unknown photographer, 2023, all rights reserved.
+*Julietta julianae* wb. Juliana.R., 2023.
+&copy; Juliana Rucker or unknown photographer, 2023, all rights reserved.
 **Page**: @juliana_r_2023_juliette;
 **SHA2-256**: `58dd7e05316d46c6219cfcb678572c26a1f19384d9b4ef52ec77da13d9e939fb`{.hash};
 **Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Juliana_Rucker4.jpg?v=1701387289>;
@@ -2201,7 +2209,8 @@ Dorsal view. Subject facing to her left. Arms positioned ventrally. Hair positio
 ***Juliana 2023.501.4937*** &mdash; Photograph.
 2316&times;3088.
 Lateral view. Right sleeve extends out towards camera; right arm placed between lateral and dorsal surface of dress, somewhat inferior to belt.
-*Julietta julianae* wb. Juliana.R., 2023&copy; Juliana Rucker or unknown photographer, 2023, all rights reserved.
+*Julietta julianae* wb. Juliana.R., 2023.
+&copy; Juliana Rucker or unknown photographer, 2023, all rights reserved.
 **Page**: @juliana_r_2023_juliette;
 **SHA2-256**: `90041e59149cfd9bb57792f2e0aac1a851c507b00aa0048cdfe4037220a95a21`{.hash};
 **Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Juliana_Rucker.jpg?v=1701387312>;
@@ -2226,7 +2235,8 @@ Lateral view. Right sleeve extends out towards camera; right arm placed between 
 **Holotype**: ***Mantori 2023.531.1321*** &mdash; Photograph.
 2667&times;4000.
 Ventral view. Subject facing camera. Subject's left arm extended outward holding skirt; slight motion blur. Right arm fully adducted.
-*Julietta mantorae* wb. Suna.M., &copy; Suna Mantori or unknown photographer, all rights reserved.
+*Julietta mantorae* wb. Suna.M., 2023.
+&copy; Suna Mantori or unknown photographer, all rights reserved.
 **Page**: @silversaga_juliette_gallery;
 **SHA2-256**: `98330235abd42fdd5ebb2f6c823b21fac2d5b2cfa7637bb9e00862be2c64e020`{.hash};
 **Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Suna_Mantori4_c22c175f-b871-4743-be69-735db4c411e7.jpg?v=1701388530>;
@@ -2235,7 +2245,8 @@ Ventral view. Subject facing camera. Subject's left arm extended outward holding
 ***Mantori 2023.531.1495*** &mdash; Photograph.
 2667&times;4000.
 Truncated ventral view. Subject facing slightly to right. Left arm positioned ventrally medially over skirt. Right arm fully adducted.
-*Julietta mantorae* wb. Suna.M., &copy; Suna Mantori or unknown photographer, all rights reserved.
+*Julietta mantorae* wb. Suna.M., 2023.
+&copy; Suna Mantori or unknown photographer, all rights reserved.
 **Page**: @silversaga_juliette_gallery;
 **SHA2-256**: `562585e06be5343e4b9d12d0b2b569851c9e034801b858a17c0d9570c2c10b52`{.hash};
 **Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Suna_Mantori5_b7b61902-5692-45e4-9587-f9b50fbfdfbf.jpg?v=1701388668>;
