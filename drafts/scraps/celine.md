@@ -1,3 +1,12 @@
+
+### Lauren Johnson {#sec-lauren-j}
+**Lauren Johnson** (<https://bouquetbylauren.com/about/>; Instagram: &commat;[`justlaurenjohnson`{.hash}](https://instagram.com/justlaurenjohnson)) is an American sewist and YouTuber from Little Rock, Arkansas. She runs the Bouquet Pattern Co. First covered in the LCT-01 in @lemuria_gunnelaurentia_2026, a description of *Gunnelaurentia johnsonia* Lemuria, 2026. 
+
+**Wearer of**: 1 sp.;
+*Celina laurentia* (@sec-celina-laurentia)
+
+<!------------------>
+
 ## Family Celinidae {#sec-celinidae}
 **Celinidae** Lemuria, 2026; familia nova
 
