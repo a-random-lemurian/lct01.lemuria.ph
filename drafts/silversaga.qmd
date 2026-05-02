@@ -777,12 +777,14 @@ The Royal Mail wall-embedded mailbox on the subject's left proves that the image
 
 **Specimens examined**
 
+**Photography conditions.** All images were taken outdoors on a sidewalk in daylight conditions, with a red Royal Mail wall-embedded mailbox near the subject. Subject standing underneath vegetation, unknown species in *Fuchsia* Plum. ex L.
+<!-- TODO: Photography conditions text for ALL of Argenclara -->
+
 **Holotype**: ***Alex 40.6700AA*** &mdash; Photograph.
 3024&times;4032.
 Ventral view. Subject on sidewalk. Arms fully adducted.
 *Argenclara alexae* wb. Alex.B., 2023.
 &copy; Alex Begin or unknown photographer, all rights reserved.
-
 **Page**: @silversaga_clara_gallery;
 **SHA2-256**: `75e5aeb22ebb1171a6ca28187e26466af48e21d69f611ef781d5e3bfb92d8211`{.hash};
 **Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Alex_Begin2.jpg?v=1692902847>;
@@ -1111,11 +1113,13 @@ Subject in mirror, holding phone; phone slightly obscures left shoulder. Hair mo
 
 **Diagnosis**: *Argenclara fenae* is characterized by its fabric, a cyan linen bought secondhand from FabMo, a fabric retailer based in Sunnyvale, California.
 
-**Remarks**: All images of *Argenclara fenae* depict Fena wearing the dress off-shoulder. The blessed form for *Argenclara* has the sleeves worn on-shoulder. As such, *Argenclara fenae* is not considered to be within the subclass Alourida Lemuria, 2026; unpublished. Fena sewed the dress in a size 40. See also @fena2023 for Fena's Instagram post.
+**Remarks**: All images of *Ac. fenae* depict Fena wearing the dress off-shoulder. The blessed form for *Argenclara* has the sleeves worn on-shoulder. As such, *Argenclara fenae* is not considered to be within the subclass Alourida Lemuria, 2026; unpublished. Fena sewed the dress in a size 40. See also @fena2023 for Fena's Instagram post.
 
 **Etymology**: From *Fena* + *-ae*, feminine genitive suffix. Pronounced /fɛ.ˈneɪ/, in line with the endonymic pronunciation of "Fena", /ˈfɛ.nə/ (or as described on her Instagram profile, "like *feta*".)
 
 **Specimens examined**
+
+**Photography conditions.** The photographs were likely taken outdoors, in a semi-shaded environment. Directional shadows are visible around Fena in all three images to some extent.
 
 **Holotype**: ***Fena 105.6711AF*** &mdash; Photograph.
 2786&times;3715.
@@ -1130,6 +1134,7 @@ Angled ventral view. Subject against wall, arms slightly crossed. Hair positione
 ***Fena 105.6734AF*** &mdash; Photograph.
 2969&times;3959.
 Ventral view. Subject's arms on hair. Hair positioned dorsally.
+Narrow depth of field; lantern in background blurry.
 *Argenclara fenae* f. *umst.* wb. Fena.T., 2023.
 &copy; Fena Tandriarto or unknown photographer, all rights reserved.
 **Page**: @silversaga_clara_gallery;
@@ -1158,7 +1163,7 @@ Angled ventral view. Subject's left foot forward. Arms mostly adducted. Hair pos
 
 **Remarks**: We infer the location of the photographs as either the state of New York or New Jersey, based on the One World Trade Center in the far background of the image, located by looking at the wearer's right shoulder from her perspective, then looking left, and viewing the faint skyline.
 
-See also Grace's Instagram post at [@jones2023].
+See also Grace's Instagram post at [@egjones2023].
 
 **Etymology**: From Latin *gratia* ("kindness, favor, esteem"), the word from which English *grace* originated.
 
