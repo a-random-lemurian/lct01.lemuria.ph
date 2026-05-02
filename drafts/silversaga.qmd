@@ -77,23 +77,24 @@ Silversaga also formerly had the Instagram account &commat;[`silversaga.se`](htt
 Jessica's total pattern repertoire is around ~200, as of January 2026 [@silversaga_helpmename].
 
 As of April 2026, only 14 of these patterns are available for purchase through Silversaga Patterns. In alphabetical order, they are the
-Alma,
-Amelie,
-Celeste (Celestidae, @sec-celestidae),
-Celine (Celinidae, @sec-celinidae),
-Chloe (Helarchloidae, @sec-helarchloidae),
+Alma (Almidae),
+Amelie (Argenmelidae),
+Celeste (Celestidae),
+Celine (Celinidae),
+Chloe (Helarchloidae),
 Clara (Argenclaridae, @sec-argenclaridae),
 Eleonora (Argenteleonoridae, @sec-argenteleonoridae; Heleonoridae, @sec-heleonoridae),
-Ella (Argenkamellidae, @sec-argenkamellidae; Argentellidae, @sec-argentellidae),
-Elsa,
-Emma (Helargemmidae, @sec-helargemmidae),
-Francesca,
+Ella (Argenkamellidae and Argentellidae),
+Elsa (Argenelsidae),
+Emma (Helargemmidae),
+Francesca (Francescidae),
 Juliette (Juliettidae, @sec-juliettidae),
-Mina,
-and Ophelia.
+Mina (Minastolidae),
+and Ophelia (Ophelidae).
 
-Some patterns have been discontinued; such as the
-Cora (Argencoridae, @sec-argencoridae).
+In this monograph, we cover the Clara, Eleonora, and Juliette.
+
+Some patterns have been discontinued; such as the Cora (Argencoridae, @sec-argencoridae).
 
 In 2025, the five most popular patterns were the
 Celine,
