@@ -1791,10 +1791,12 @@ United Kingdom, Wales.
 
 **Specimens examined**
 
+**Photography conditions.** 
+White curtain in background. Light source from subject's left.
+
 **Holotype**: ***Mantori 19.3097*** &mdash; Photograph.
 2667&times;4000.
 Ventral view.
-White curtain in background. Light source from subject's left.
 Hair positioned ventrally. Most strands terminating on subject's left side, with small single strand on right side. Neckline shoulder edges not obscured.
 Subject's left arm placed on skirt, on lateral surface just inferior to inferior elastic channel. Right arm extended out of frame.
 Neckline stretched to roughly scapula level, with ~10&ndash;25% of shoulder area exposed.
@@ -1808,7 +1810,6 @@ Neckline stretched to roughly scapula level, with ~10&ndash;25% of shoulder area
 ***Mantori 19.1761*** &mdash; Photograph.
 2771&times;4000.
 Dorsal view.
-White curtain in background. Light source from subject's right.
 Hair positioned ventrally, with small strands draping dorsally, neckline not significantly obscured.
 Subject's left arm placed on superior portion of skirt.
 Right arm extends out of frame.
@@ -1823,7 +1824,6 @@ Neckline stretched to roughly scapula level, with ~10&ndash;25% of shoulder area
 ***Mantori 19.1823*** &mdash; Photograph.
 2667&times;4000.
 Ventral view.
-White curtain in background. Light source from subject's left.
 Hair positioned ventrally, draping laterally, neckline not significantly obscured.
 Subject's left arm placed on skirt, on lateral surface just inferior to inferior elastic channel.
 Neckline stretched to roughly scapula level, with ~10&ndash;25% of shoulder area exposed.
