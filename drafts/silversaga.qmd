@@ -3033,10 +3033,12 @@ We refine the description first provided in @lemuria_kew_2026.
 ## Family Heleonoridae {#sec-heleonoridae}
 **Heleonoridae** Lemuria, 2026; first public desc.
 
-### Genus *Heleonora* {#sec-heleonora}
+**Taxonomic placement**: Placed in the order Helargenta.
+
+### Genus *Heleonora* {#sec-genus-heleonora}
 ***Heleonora*** Lemuria, 2026; first public desc.
 
-**Etymology**: Portmanteau of *Helistola* + *Eleonora*.
+**Taxonomic placement**: Placed in the family Heleonoridae.
 
 ### *Heleonora* subg. *Shira*
 ***Heleonora* subgenus *Shira*** Lemuria, 2026; first public desc.
