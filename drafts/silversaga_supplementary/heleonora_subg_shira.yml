@@ -456,11 +456,13 @@ taxa:
                 holotype:
                   - view: ventral
                     name: Garcia 290.1709
+                    width: 2736
+                    height: 3648
                     urls:
                       - provider: orig
                         href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Stephanie_Garcia20.jpg?v=1720291718
                       - provider: ia
-                        href:
+                        href: https://web.archive.org/web/20260408100028/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Stephanie_Garcia20.jpg?v=1720291718
                     sum:
                       sha256: 27781e0ed94d748ef0239503aa1fe6af0a2724ca7d67be1eb4e5b44f76897d54
                     wearer:
