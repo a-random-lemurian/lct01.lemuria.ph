@@ -1085,11 +1085,13 @@ Hair positioned dorsally with significant drape over left shoulder, partially ob
 
 **Diagnosis**: *Argenclara evae* is characterized by its fabric, a solid blue background with sparsely distributed red flowers; likely roses.
 
-**Remarks**:
+**Remarks**: See @eva2024 and @eva2026 for Kate Eva's Instagram posts on *Ac. evae*.
 
 **Etymology**: From *Eva* + *-ae*, feminine genitive suffix.
 
 **Specimens examined**
+
+**Photography conditions.** The photographs were taken within Eva's sewing room, in indoors conditions. An artificial light is present in the room, often emitting yellowish light. *Eva 2024.51321AE* was taken by Eva using a phone and mirror. The 2026 photographs were taken using a tripod [@eva2026_mmmthoughts].
 
 **Holotype**: ***Eva 2024.51321AE*** &mdash; Photograph.
 1440&times;1800
@@ -1101,6 +1103,32 @@ Subject in mirror, holding phone; phone slightly obscures left shoulder. Hair mo
 **SHA2-256**: `3dfbce82a5bb8e4fd1cad3b48718d637adef86cda8330db5d5426ddaa7e7a355`{.hash};
 **IA**: <https://web.archive.org/web/20260415164826/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/658439210_18092747069157318_2777814582593702200_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=100&ig_cache_key=MzM2ODM5NDA4ODU2MDkyNDUyMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTgwMC5oZHIuQzMifQ%3D%3D&_nc_ohc=MWhqLyrOfNEQ7kNvwHKg1mD&_nc_oc=AdqWy75IPEYjGMYo1PyMszZWUMG4dZU3ipxM40Bpcl_aWSTt-r0zik9UpmQyv_4rtC8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=-1&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=714neZitmBxwtgr_hgOGKQ&_nc_ss=7a32e&oh=00_Af0dBv7eX7Ku2citXh8S676bFNllmVCTahrh0WFSxENyAQ&oe=69E59276>
 
+***Eva 2026.520.39442*** &mdash; Photograph.
+1440&times;1920.
+Ventral view. Subject's arms extended out. Skirt flaring outward significantly in manner resembling twirl. Legs crossing.
+*Argenclara evae* wb. Eva, 2026.
+&copy; Kate Eva, 2026, all rights reserved.
+**Page**: @eva2026;
+**SHA2-256**: `67896cf2ec98ac0b521346fddf5f29c5f5de39cd3860fcd525d591b5834d076b`{.hash};
+**IA**: <https://web.archive.org/web/20260504200743/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/683780806_18581398309024297_5372316129147739442_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=Mzg4NzU3NTYzMjcxNjUzOTYwOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkyMC5zZHIuQzMifQ%3D%3D&_nc_ohc=1WTNJXNme0EQ7kNvwHi6sjz&_nc_oc=AdoBCxA7Eh0UNoPWFhsWInNEYMUO6gO9M_uT-DNY-5dGpCOET5RRBnOhw0eavvzWb6A&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=EAEYYrmSwYJpLzy8N2Pk7w&_nc_ss=7a22e&oh=00_Af50N5RjMjFdffmaajo2JJf5hZg-PMWy7Gj75q45mGHMLw&oe=69FED344>
+
+***Eva 2026.520.56290*** &mdash; Photograph.
+1440&times;1920.
+Ventral view. Subject's head leaning slightly to right. Arms fully adducted. Slight frame truncation at skirt hem.
+*Argenclara evae* wb. Eva, 2026.
+&copy; Kate Eva, 2026, all rights reserved.
+**Page**: @eva2026;
+**SHA2-256**: `02eaedc0a5f88a339570332a41b7ab81245278a1410dfb31fc5449c02902d494`{.hash};
+**IA**: <https://web.archive.org/web/20260504200744/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/687760142_18581398318024297_1958349817387356290_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzg4NzU3NTY0MDQxNzI4NTc3Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkyMC5zZHIuQzMifQ%3D%3D&_nc_ohc=vH3F4uPhFCgQ7kNvwGG5cvw&_nc_oc=AdoLQaThYR3cY5ooeewwD_qJkgCqzhWUjJN29XAYNl3TSsUl8m8o2QsoqcbLh7Nv9l4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=EAEYYrmSwYJpLzy8N2Pk7w&_nc_ss=7a22e&oh=00_Af4UigA-6le8rn7sgHZkiQObHR-VQbu7ci4s6udwRHv7fw&oe=69FEC8C1>
+
+***Eva 2026.520.71156*** &mdash; Photograph.
+1440&times;1920.
+Dorsal view. Subject facing right. Arms fully adducted. Shadow from sunlight roughly 270&deg; to subject.
+*Argenclara evae* wb. Eva, 2026.
+&copy; Kate Eva, 2026, all rights reserved.
+**Page**: @eva2026;
+**SHA2-256**: `f17b6e90ef15f9feeafd384ed3ed2f0d3d79140fe9d7ba266c683f068093d4e4`{.hash};
+**IA**: <https://web.archive.org/web/20260504200748/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/671161059_18581398333024297_8958263499940971156_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=102&ig_cache_key=Mzg4NzU3NTY1NDg4NzY1MTg3NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkyMC5oZHIuQzMifQ%3D%3D&_nc_ohc=3vvNPk9U5YoQ7kNvwGKr11k&_nc_oc=AdotaAdXCpwT2h9w_189c5uVODLZki2U-Dv3NcLc0zqrnns20Yz7anIe2UYU1h334Gk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=-1&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=EAEYYrmSwYJpLzy8N2Pk7w&_nc_ss=7a22e&oh=00_Af5L1a7tqVOsANWc8SwR8hQuCwAnrDN9n1B9QyMvcSOOmQ&oe=69FEE4D8>
 <!-- END evae -->
 
 
