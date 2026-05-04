@@ -3584,14 +3584,22 @@ METADATAFROMHOLOTYPER
 ### *Heleonora* subg. *Elastica*
 ***Heleonora* subgenus *Elastica*** Lemuria, 2026; first public desc.
 
+**Taxonomic placement**: Placed in *Heleonora*.
+
 ### *Heleonora* sect. *Unilastica*
 ***Heleonora* section *Unilastica*** Lemuria, 2026; first public desc.
+
+**Taxonomic placement**: Placed in *Heleonora* subg. *Elastica*.
 
 ### *Heleonora* sect. *Duolastica*
 ***Heleonora* section *Duolastica*** Lemuria, 2026; first public desc.
 
+**Taxonomic placement**: Placed in *Heleonora* subg. *Elastica*.
+
 ### *Heleonora* subsect. *Pseudotruetta*
 ***Heleonora* subsection *Psuedotruetta*** Lemuria, 2026; subsectio nova
+
+**Taxonomic placement**: Placed in *Heleonora* subsect. *Duolastica*.
 
 <!--
 TODO: https://silversagapatterns.com/blogs/atelier/hack-the-pattern-christy-dawn-truett-dress
@@ -3693,7 +3701,7 @@ Hair positioned ventrally, obscuring wearer's right strap.
 #### *Heleonora monokhromos* {#sec-heleonora-monokhromos}
 ***Heleonora monokhromos*** Lemuria, 2026; sp. nov.
 
-**Taxonomic placement**: Placed in *Heleonora* ser *Annettae*.
+**Taxonomic placement**: Placed in *Heleonora* ser. *Annettae*.
 
 **Diagnosis**: *Heleonora monokhromos* is characterized by its solid white main fabric with solid black bias contrast fabric, from Oak Fabrics.
 
