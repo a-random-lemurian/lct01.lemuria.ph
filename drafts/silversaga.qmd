@@ -3711,6 +3711,66 @@ Four cuts. First cut: subject walks into frame, faces camera, holding skirt out,
 TODO: Have a big long think about whether to reupload to IA.
 -->
 
+### *Heleonora* sect. *Trilastica*
+***Heleonora* section *Trilastica*** Lemuria, 2026; sectio nova
+
+**Taxonomic placement**: Placed in *Heleonora* subg. *Elastica*.
+
+<!-- BEGIN fraxina -->
+#### *Heleonora fraxina* {#sec-heleonora-fraxina}
+***Heleonora fraxina*** Lemuria, 2026; first public desc.
+
+**Taxonomy**: Placed in *Heleonora* sect. 
+
+**Diagnosis**: *Heleonora fraxina* is characterized by the usage of the fabric *Tanaflora betsia* (@sec-tanaflora-betsia) and having been sewn by Ashley General.
+<!-- Dependency graph?
+- *Liberashira evae*
+- Tana Lawn fabric taxonomy
+- Readers knowing what "Tanaflora betsia" means
+-->
+
+**Remarks**: The fabric of *Heleonora fraxina* is identical to that of *Liberashira evae* Lemuria, 2026 (unpublished); wb. Eva, 2020; as of May 4, 2026, *Tanaflora betsia* is the first fabric to have been observed in two species. See @ashleyg2024 for Ashley's original Instagram post.
+
+We also note that *Ashley 931.1763* allowed a clearer view of the garment's internal morphology, such as its three elastic channels.
+
+**Etymology**: From Latin *fraxina*, feminine form of *fraxinus* ("of ash wood"), as a calque translation of *Ashley*, itself from Old English **Æsċlēah*, composed of *æsċ* ("ash tree") + *lēah* ("wood, clearing").
+
+**Specimens examined**
+
+**Holotype**: ***Ashley 931.1620*** &mdash; Photograph.
+3024&times;4032.
+Ventral view. Zoomed out. Outdoors. Vegetation in background. Arms mostly adducted, holding skirt slightly out.
+Subject facing camera directly. Hair draped bilaterally, very minor occlusion of neckline.
+*Heleonora fraxina* wb. Ashley.G., 2024.
+&copy; Ashley General or unknown photographer, 2024, all rights reserved.
+**Page**: ;
+**SHA2-256**: `3c9c348550c7b6df497d8d64f23d4b320d75f521eae6b518980f0995cff2cee3`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Ashley_General.jpg?v=1720291730>;
+**IA**: <https://web.archive.org/web/20260408095925/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Ashley_General.jpg?v=1720291730>
+
+***Ashley 931.1744*** &mdash; Photograph.
+3024&times;4032.
+Truncated ventral view. Zoomed further in. Outdoors. Vegetation and garden infrastructure in background. Arms adducted, hands out of frame.
+Subject facing camera directly. Hair positioned dorsally, no occlusion of neckline ventrally.
+*Heleonora fraxina* wb. Ashley.G., 2024.
+&copy; Ashley General or unknown photographer, 2024, all rights reserved.
+**Page**: ;
+**SHA2-256**: `fe06a0b9b231c960af85b806a2620b21d0e040b42ee4f538f75deeec67210773`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Ashley_General2.jpg?v=1720291729>;
+**IA**: <https://web.archive.org/web/20260408095919/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Ashley_General2.jpg?v=1720291729>
+
+***Ashley 931.1763*** &mdash; Photograph.
+2992&times;2000.
+Ventral view. Dress on wooden hanger in front of window with curtain. Dress fabric penetrated by light.
+*Heleonora fraxina*.
+&copy; Ashley General or unknown photographer, 2024, all rights reserved.
+**Page**: ;
+**SHA2-256**: `9e8cb857a04dfb6b41e9bc7ea8b395eeee8b1bd6b40399cfb958a71b2acf9d0c`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Ashley_General6.jpg?v=1720291726>;
+**IA**: <https://web.archive.org/web/20260408100029/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Ashley_General6.jpg?v=1720291726>
+
+<!-- END fraxina -->
+
 # *Incertae sedis* {#sec-inc-sed}
 
 ## Tana {#sec-tana}
