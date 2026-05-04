@@ -3032,148 +3032,121 @@ We refine the description first provided in @lemuria_kew_2026.
 
 **Diagnosis**: Phylogenetically, Helargenta is characterized by origin from any Silversaga pattern that phenetically meets the criteria of Helistola and above.
 
+**Etymology**: Blend of *Helistola* + Latin *argenta*, feminine form of *argentum* ("silver").
+
 ## Family Heleonoridae {#sec-heleonoridae}
 **Heleonoridae** Lemuria, 2026; first public desc.
 
 **Taxonomic placement**: Placed in the order Helargenta.
+
+**Diagnosis**: Phylogenetically, *Heleonora* is characterized by origin from the Sleeveless Eleonora dress pattern by Jessica Silversaga, and phenetically, by resemblance to the Argenteleonoridae and a lack of sleeves.
+
+**Etymology**: Portmanteau of *Helistola* and *Eleonora*.
+
+**Type genus**: *Heleonora*
 
 ### Genus *Heleonora* {#sec-genus-heleonora}
 ***Heleonora*** Lemuria, 2026; first public desc.
 
 **Taxonomic placement**: Placed in the family Heleonoridae.
 
-### *Heleonora* subg. *Shira*
-***Heleonora* subgenus *Shira*** Lemuria, 2026; first public desc.
+**Remarks**: *Heleonora* was the first taxon in the LCT-01 to use infrageneric ranks. It uses the same high-level infrageneric structure as *Argenteleonora* (@sec-genus-argenteleonora).
 
-**Diagnosis**: Phenetically, *Heleonora subg. Shira* is characterized by 
+**Diagnosis**: Phylogenetically, *Heleonora* is the *sensu stricto* genus of the Heleonoridae, characterized by origin from the Sleeveless Eleonora dress pattern by Jessica Silversaga, and phenetically, by resemblance to the Argenteleonoridae and a lack of sleeves; without significant divergence from the pattern.
 
-**Etymology**:
+**Etymology**: Portmanteau of *Helistola* + *Eleonora*.
 
 <!-- replace taxon with the name of the rank! -->
-**Type taxon**:
+**Type species**: *Heleonora beatricae*
+
+<!-- BEGIN Shira -->
 <!-- Template generated with lct01tools and manually filled in by humans! -->
+### *Heleonora* subg. *Shira* {#sec-heleonora-subg-shira}
+***Heleonora* subgenus *Shira*** Lemuria, 2026; first public desc.
 
+**Diagnosis**: Phenetically, *Heleonora* subg. *Shira* is characterized by either three or more elastic channels or shirring on the interelastic fabric.
+
+**Etymology**: *Shira* is a pseudo-Latin form of English *shirr*.
+
+<!-- TODO: replace taxon with the name of the rank! -->
+**Type species**: *Heleonora beatricae*
+
+<!-- BEGIN anjae -->
 <!-- Template generated with lct01tools and manually filled in by humans! -->
-#### *Heleonora lizzia* {#sec-heleonora-lizzia}
-***Heleonora lizzia*** Lemuria, 2026; first public desc.
+#### *Heleonora anjae* {#sec-heleonora-anjae}
+***Heleonora anjae*** Lemuria, 2026; sp. nov.
 
-**Holotype**: ***McNally 20.23014*** &mdash; Photograph.
-METADATAFROMHOLOTYPER
-*Heleonora lizzia* wb. Elizabeth.M., YEAR.
-&copy; Elizabeth McNally or unknown photographer, all rights reserved.
+**Diagnosis**: *Heleonora anjae* is characterized by its cotton fabric, with a floral handblock print, consisting of blue and pink flowers on a white background, with blue ferns in a curled shape.
 
-* **Page**: 
-* **SHA2-256**: `6f27893b736fbebf44fbfc24fec10afd2487c4cda1d91daec6de441a9bfbf77b`{.hash}
-* **Raw image URLs**
-  * **Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Elizabeth_McNally2.jpg?v=1720291681>
-  * **IA**: <https://web.archive.org/web/20260408095919/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Elizabeth_McNally2.jpg?v=1720291681>
+**Remarks**: See @anja2024 for Anja's original Instagram post.
 
-**Diagnosis**: *Heleonora lizzia* is characterized by
+**Etymology**: From *Anja* + *-ae*, feminine genitive suffix.
 
-**Description**:
+**Specimens examined**
 
-**Remarks**:
+**Photography conditions.** The photographs were taken outdoors in a natural environment, with a consistently shallow depth of field rendering the background out of focus.
 
-**Etymology**: From
+**Holotype**: ***Anja 930.1871*** &mdash; Photograph.
+1080&times;1620.
+Ventral view. Subject's head tilted slightly to right. Subject's left arm extended outward out of frame. Right arm holding wooden fence pole.
+*Heleonora anjae* wb. Anja.S., 2024.
+&copy; Anja Scheithauer or unknown photographer, 2024, all rights reserved.
+**Page**: @sleeveless_eleonora_gallery;
+**SHA2-256**: `cfbf249735dc7e95b6bd4f5d1f5accc753b7852bf74e1504450285878030da71`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Anja_Scheithauer2.jpg?v=1720291725>;
+**IA**: <https://web.archive.org/web/20260318171058/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Anja_Scheithauer2.jpg?v=1720291725>
 
-**Specimens examined**:
+***Anja 930.1724*** &mdash; Photograph.
+1080&times;1620.
+Ventral view. Subject facing to her left. Left arm fully adducted. Right arm not visible. Daisies (*Bellis perennis* L.) visible near subject.
+*Heleonora anjae* wb. Anja.S., 2024.
+&copy; Anja Scheithauer or unknown photographer, 2024, all rights reserved.
+**Page**: @sleeveless_eleonora_gallery;
+**SHA2-256**: `52c1bce172348d12f1559de86ed9662dc3e003135e7ef588ce07fa370dabdb33`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Anja_Scheithauer8.jpg?v=1720291724>;
+**IA**: <https://web.archive.org/web/20260318171236/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Anja_Scheithauer8.jpg?v=1720291724>
 
-* Holotype.
-* *McNally 20.23710* &mdash; Photograph.
-METADATAFROMHOLOTYPER
-*Heleonora lizzia* wb. Elizabeth.M., YEAR.
-&copy; Elizabeth McNally or unknown photographer, all rights reserved.
-  * **Page**: 
-  * **SHA2-256**: `f46504965fb55a6e9a4ac4c7cab6f2e9835967042cf474b5e9162b4f9ec90bee`{.hash}
-  * **Raw image URLs**
-    * **Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Elizabeth_McNally3.jpg?v=1720291681>
-    * **IA**: <https://web.archive.org/web/20260408095920/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Elizabeth_McNally3.jpg?v=1720291681>
-  
-<!-- Template generated with lct01tools and manually filled in by humans! -->
-#### *Heleonora fraxina* {#sec-heleonora-fraxina}
-***Heleonora fraxina*** Lemuria, 2026; first public desc.
+<!-- END anjae -->
 
-**Holotype**: ***Ashley 931.1620*** &mdash; Photograph.
-METADATAFROMHOLOTYPER
-*Heleonora fraxina* wb. Ashley.G., YEAR.
-&copy; Ashley General or unknown photographer, all rights reserved.
 
-* **Page**: 
-* **SHA2-256**: `3c9c348550c7b6df497d8d64f23d4b320d75f521eae6b518980f0995cff2cee3`{.hash}
-* **Raw image URLs**
-  * **Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Ashley_General.jpg?v=1720291730>
-  * **IA**: <https://web.archive.org/web/20260408095919/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Ashley_General2.jpg?v=1720291729>
-
-**Diagnosis**: *Heleonora fraxina* is characterized by the usage of the fabric *Tanaflora betsia* (@sec-tanaflora-betsia) and having been sewn by Ashley General.
-<!-- Dependency graph?
-- *Liberashira evae*
-- Tana Lawn fabric taxonomy
-- Readers knowing what "Tanaflora betsia" means
--->
-
-**Remarks**: The fabric of *Heleonora fraxina* is identical to that of *Liberashira evae* wb. Eva, 2020; as of April 8, 2026, *Tanaflora betsia* is the first fabric to have been observed in two species.
-
-**Etymology**: From Latin *fraxina*, feminine form of *fraxinus* ("of ash wood"), as a calque translation of *Ashley*, itself from Old English **Æsċlēah*, composed of *æsċ* ("ash tree") + *lēah* ("wood, clearing").
-
-**Specimens examined**:
-
-* Holotype.
-* *Ashley 931.1744* &mdash; Photograph.
-METADATAFROMHOLOTYPER
-*Heleonora fraxina* wb. Ashley.G., YEAR.
-&copy; Ashley General or unknown photographer, all rights reserved.
-  * **Page**: 
-  * **SHA2-256**: `fe06a0b9b231c960af85b806a2620b21d0e040b42ee4f538f75deeec67210773`{.hash}
-  * **Raw image URLs**
-    * **Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Ashley_General2.jpg?v=1720291729>
-    * **IA**: <https://web.archive.org/web/20260408095925/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Ashley_General.jpg?v=1720291730>
-  
-* *Ashley 931.1763* &mdash; Photograph.
-METADATAFROMHOLOTYPER
-*Heleonora fraxina* wb. Ashley.G., YEAR.
-&copy; Ashley General or unknown photographer, all rights reserved.
-  * **Page**: 
-  * **SHA2-256**: `9e8cb857a04dfb6b41e9bc7ea8b395eeee8b1bd6b40399cfb958a71b2acf9d0c`{.hash}
-  * **Raw image URLs**
-    * **Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Ashley_General6.jpg?v=1720291726>
-    * **IA**: <https://web.archive.org/web/20260408100029/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Ashley_General6.jpg?v=1720291726>
-  
-<!-- Template generated with lct01tools and manually filled in by humans! -->
 #### *Heleonora beatricae* {#sec-heleonora-beatricae}
-***Heleonora beatricae*** Lemuria, 2026; first public desc.
+***Heleonora beatricae*** Lemuria, 2026
+
+**Diagnosis**: *Heleonora beatricae* is characterized by its fabric, a cotton duvet cover, with a floral print consisting of floral shapes in white against a light blue background. Size 42 C-E cup; bodice 3 cm longer.
+
+**Remarks**: See @beatricef2024 for Beatrice's original Instagram post. A diagram of *H. beatricae* is available in SVG form, which is used to establish terminology for *Heleonora*-specific anatomy. See `Beatrice_210.1651.annot.svg`.
+
+**Etymology**: From *Beatrice* + *-ae*, feminine genitive suffix.
+
+**Specimens examined**
+
+**Photography conditions.** The photographs were taken in bright sunny conditions outdoors, with the sun casting a shadow at roughly ~200&deg; azimuth (see @sec-person-coord for background information).
+
+Based on self-disclosed location in post: Sweden: Småland, Jönkoping County, Bottnaryd. No GPS coordinates known.
 
 **Holotype**: ***Beatrice 210.1631*** &mdash; Photograph.
-METADATAFROMHOLOTYPER
-*Heleonora beatricae* wb. Beatrice.F., YEAR.
-&copy; Beatrice Fletcher or unknown photographer, all rights reserved.
+3024&times;4032.
+Ventral zoomed-out view. Subject facing forward. Both arms in bilateral pockets.
+*Heleonora beatricae* wb. Beatrice.F., 2024.
+&copy; Beatrice Fletcher or unknown photographer, 2024, all rights reserved.
+**Page**: @sleeveless_eleonora_gallery;
+**SHA2-256**: `52713bac98440233620dc64800dc05459ddb6af333952c459f0a83ba84310402`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Beatrice_Fletcher3.heic?v=1720291673>;
+**IA**: <https://web.archive.org/web/20260408100107/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Beatrice_Fletcher3.heic?v=1720291673>
 
-* **Page**: 
-* **SHA2-256**: `52713bac98440233620dc64800dc05459ddb6af333952c459f0a83ba84310402`{.hash}
-* **Raw image URLs**
-  * **Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Beatrice_Fletcher3.heic?v=1720291673>
-  * **IA**: <https://web.archive.org/web/20260408100107/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Beatrice_Fletcher3.heic?v=1720291673>
+***Beatrice 210.1651*** &mdash; Photograph.
+3024&times;4032.
+Closer ventral view. Subject facing forward, slightly leaning to left. Both arms in bilateral pockets.
+*Heleonora beatricae* wb. Beatrice.F., 2024.
+&copy; Beatrice Fletcher or unknown photographer, 2024, all rights reserved.
+**Page**: @sleeveless_eleonora_gallery;
+**SHA2-256**: `883570d98927a3cbf540d6c29bbccf307062ab73da1041794ad9d2321f889884`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Beatrice_Fletcher4.heic?v=1720291673>;
+**IA**: <https://web.archive.org/web/20260408100108/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Beatrice_Fletcher4.heic?v=1720291673>
 
-**Diagnosis**: *Heleonora beatricae* is characterized by
+<!-- END beatricae -->
 
-**Description**:
-
-**Remarks**:
-
-**Etymology**: From
-
-**Specimens examined**:
-
-* Holotype.
-* *Beatrice 210.1651* &mdash; Photograph.
-METADATAFROMHOLOTYPER
-*Heleonora beatricae* wb. Beatrice.F., YEAR.
-&copy; Beatrice Fletcher or unknown photographer, all rights reserved.
-  * **Page**: 
-  * **SHA2-256**: `883570d98927a3cbf540d6c29bbccf307062ab73da1041794ad9d2321f889884`{.hash}
-  * **Raw image URLs**
-    * **Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Beatrice_Fletcher4.heic?v=1720291673>
-    * **IA**: <https://web.archive.org/web/20260408100108/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Beatrice_Fletcher4.heic?v=1720291673>
-  
+<!-- BEGIN gabriellae -->
 <!-- Template generated with lct01tools and manually filled in by humans! -->
 #### *Heleonora meganae* {#sec-heleonora-meganae}
 ***Heleonora meganae*** Lemuria, 2026; first public desc.
