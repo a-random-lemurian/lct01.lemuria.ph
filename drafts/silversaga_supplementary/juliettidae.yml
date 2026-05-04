@@ -696,8 +696,8 @@ taxa:
         rank: species
         describer: Lemuria, 2026
         holotype:
-          - name: 
-            view: Hunter-Moon 2023.115.401
+          - name: Hunter-Moon 2023.115.401
+            view:
             width: 3456
             height: 5184
             sum:
