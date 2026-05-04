@@ -3862,6 +3862,8 @@ We used R; specifically, `ggtree`, to render tree figures. For information on `g
 
 We thank Jessica Silversaga for her amazing patterns that help bolster a culture of home sewing and advance the slow fashion movement. We thank all the sewists, pattern testers, and the sources we have cited for documenting their projects in intricate detail.
 
+We thank Zoe Edwards for helping start the concept of Me Made May, which has further bolstered a culture of home sewing across the world. Me Made May is described by Edwards as a "wardrobe challenge" [@memademay], though in general, we perceive it more as a time of heightened interest in home sewing, a time of great speciation, and the best time for the *Journal* to publish monographs and taxonomic treatments of sewing pattern taxa.
+
 We thank the people of the Archive Team (<https://wiki.archiveteam.org/wiki/Main_Page>) for assistance in archiving the Silversaga website and making it available through the Wayback Machine.
 
 We thank the people of the Coffee Shop on [4d2.org](https://4d2.org), where our lead author has posted fragments of the paper time and time again, for being absolutely wonderful people, and being an extra set of eyes to keep errors shallow under Linus's law; and we thank Sarah, the operator of 4d2, for fostering such a wonderful space.
