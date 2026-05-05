@@ -2018,7 +2018,6 @@ Hair draped lateral to head, bilaterally. Lateral portions of neckline obscured.
 Left arm extended outward, holding skirt. Right arm mostly adducted.
 Ventral medial button row on bodice entirely visible.
 Inferior portions of ventral medial button row unfastened; portions of subject's right lower leg visible.
-<!-- TODO: fill in this holotype information -->
 *Julietta alexisae* wb. Alexis.Wr., 2023.
 &copy; Alexis Wright or unknown photographer, 2023, all rights reserved.
 **Page**: @silversaga_juliette_gallery;
@@ -2360,11 +2359,11 @@ Slightly truncated dorsal view. Inferior portions of skirt invisible; superior s
 
 **Specimens examined**
 
-**Photography conditions.** The photographs were taken indoors, with sunlight appearing to originate behind the camera, shining on Jarosz, possibly consistent with the location of a window. The photographs are consistently 3024&times;4032, and lack
+**Photography conditions.** The photographs were taken indoors, with sunlight appearing to originate behind the camera, shining on Jarosz, possibly consistent with the location of a window. The photographs are consistently 3024&times;4032.
 
 **Holotype**: ***Oliwia 2023.76.1150*** &mdash; Photograph.
 3024&times;4032.
-METADATAFROMHOLOTYPER <!-- TODO: fill in this holotype information -->
+Angled ventral view. Subject facing to right relative to camera. Arms fully adducted.
 *Julietta oliwiae* wb. Oliwia.J., 2023&copy; Oliwia Jarosz or unknown photographer, 2023, all rights reserved.
 **Page**: @silversaga_juliette_gallery;
 **SHA2-256**: `6cdc5a9feb6210fbfb5d4fc92084cd875df54d163140d19a183d02883168f217`{.hash};
@@ -2373,7 +2372,7 @@ METADATAFROMHOLOTYPER <!-- TODO: fill in this holotype information -->
 
 ***Oliwia 2023.76.1190*** &mdash; Photograph.
 3024&times;4032.
-METADATAFROMHOLOTYPER <!-- TODO: fill in this holotype information -->
+Ventral view. Subject's arms on head.
 *Julietta oliwiae* wb. Oliwia.J., 2023&copy; Oliwia Jarosz or unknown photographer, 2023, all rights reserved.
 **Page**: @silversaga_juliette_gallery;
 **SHA2-256**: `a5ddbe7b18fdc11945328a4ac17e8aa9c5df6f7d76e61fe887b2b1c6e94e63db`{.hash};
@@ -2382,7 +2381,7 @@ METADATAFROMHOLOTYPER <!-- TODO: fill in this holotype information -->
 
 ***Oliwia 2023.76.1415*** &mdash; Photograph.
 3024&times;4032.
-METADATAFROMHOLOTYPER <!-- TODO: fill in this holotype information -->
+Ventral view. Subject's arms fully adducted.
 *Julietta oliwiae* wb. Oliwia.J., 2023&copy; Oliwia Jarosz or unknown photographer, 2023, all rights reserved.
 **Page**: @silversaga_juliette_gallery;
 **SHA2-256**: `46a2561e68111316d057e196de07df1a840f8bf583e4fdb1142fefa1f2cc62ab`{.hash};
@@ -2408,8 +2407,9 @@ METADATAFROMHOLOTYPER <!-- TODO: fill in this holotype information -->
 
 **Holotype**: ***Plett 2023.15.9309*** &mdash; Photograph.
 2667&times;4000.
-METADATAFROMHOLOTYPER <!-- TODO: fill in this holotype information -->
-*Julietta plettia* wb. Isabel.P., 2023&copy; Isabel Plett or unknown photographer, 2023, all rights reserved.
+Ventral view. Subject's arms fully adducted. Hair positioned dorsally with slight drape on shoulders. Minor occlusion of neckline.
+*Julietta plettia* wb. Isabel.P., 2023.
+&copy; Isabel Plett or unknown photographer, 2023, all rights reserved.
 **Page**: @silversaga_juliette_gallery;
 **SHA2-256**: `4845e0ef272a026b75de68123afa57df91ccec07671040d712176e250f635401`{.hash};
 **Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Isabel_Plett6.jpg?v=1701389104>;
@@ -2417,8 +2417,9 @@ METADATAFROMHOLOTYPER <!-- TODO: fill in this holotype information -->
 
 ***Plett 2023.15.9781*** &mdash; Photograph.
 2667&times;4000.
-METADATAFROMHOLOTYPER <!-- TODO: fill in this holotype information -->
-*Julietta plettia* wb. Isabel.P., 2023&copy; Isabel Plett or unknown photographer, 2023, all rights reserved.
+Ventral view. Subject's arms extended slightly outward, holding out skirt. Subject facing slightly to her right.
+*Julietta plettia* wb. Isabel.P., 2023.
+&copy; Isabel Plett or unknown photographer, 2023, all rights reserved.
 **Page**: @silversaga_juliette_gallery;
 **SHA2-256**: `139038fa1f37b062b9f3b8cc3607446d5ee31e8be69965cbfa6fef0f1a73ce96`{.hash};
 **Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Isabel_Plett5.jpg?v=1701389126>;
@@ -2426,8 +2427,9 @@ METADATAFROMHOLOTYPER <!-- TODO: fill in this holotype information -->
 
 ***Plett 2023.15.4029*** &mdash; Photograph.
 3635&times;5452.
-METADATAFROMHOLOTYPER <!-- TODO: fill in this holotype information -->
-*Julietta plettia* wb. Isabel.P., 2023&copy; Isabel Plett or unknown photographer, 2023, all rights reserved.
+Lateral view. Subject's left arm adducted. Right arm occluded by body. Blurry and unfocused on subject.
+*Julietta plettia* wb. Isabel.P., 2023.
+&copy; Isabel Plett or unknown photographer, 2023, all rights reserved.
 **Page**: @silversaga_juliette_gallery;
 **SHA2-256**: `a9a00ae912bf01b88327cc85c35c9554ceb49cda4ab558dadcf749b33811103f`{.hash};
 **Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Isabel_Plett7.jpg?v=1701389146>;
