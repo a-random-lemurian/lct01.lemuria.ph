@@ -233,7 +233,7 @@ We define the following new person abbreviations.
 * **Ashley.G.** &mdash; Ashley General (Instagram: &commat;[`ashleygeneralhandmade`{.hash}](https://instagram.com/ashleygeneralhandmade/))
 * **Beatrice.F.** &mdash; Beatrice Fletcher (Instagram: &commat;[`bea.in.the.making`{.hash}](https://www.instagram.com/bea.in.the.making/))
 * **Bethany.L.** &mdash; Bethany Lynne (see @sec-bethany-lynne)
-* **E.Grace.J.** &mdash; E. Grace Jones (Instagram: &commat;[`wzrdreams`{.hash}](https://www.instagram.com/wzrdreams)). United States: [New York or New Jersey]. As of 2026-04-16, 177.8 cm (5 ft 10 in) tall; bust 119.38 cm (47 in) [@jones2023].
+* **E.Grace.J.** &mdash; E. Grace Jones (Instagram: &commat;[`wzrdreams`{.hash}](https://www.instagram.com/wzrdreams)). United States: [New York or New Jersey]. As of 2026-04-16, 177.8 cm (5 ft 10 in) tall; bust 119.38 cm (47 in) [@egjones2023].
 * **Eliz.B.** &mdash; Elizabeth Baumgart (Instagram: &commat;[`thatsewliz`{.hash}](https://www.instagram.com/thatsewliz/); also known as Elizabeth Hung). Australia: New South Wales, Sydney. Photographer (Instagram: &commat;[`elizabethhung_`{.hash}](https://www.instagram.com/elizabethhung_/)).
 * **Elizabeth.M.** &mdash; Elizabeth McNally (Instagram: &commat;[`seamrippinlizzy`{.hash}](https://www.instagram.com/seamrippinlizzy))
 * **Fena.T.** &mdash; Fena Tandriarto (Instagram: &commat;[`fenamakes`{.hash}](https://www.instagram.com/fenamakes/))
@@ -255,7 +255,7 @@ We define the following new person abbreviations.
 * **Mel.T.** &mdash; Mel Tesch (Instagram: &commat;[`melt.stitches`{.hash}](https://www.instagram.com/melt.stitches/)); bust 81 cm; waist 65 cm; hip 90 cm (provided on Instagram page). Australia: Queensland, Brisbane.
 * **Piola** &mdash; Piola (Instagram: &commat;[`piola.makes`{.hash}](https://instagram.com/piola.makes))
 * **Rimfors** &mdash; Tuss Rimfors (Instagram: &commat;[`tussrimfors`{.hash}`](https://www.instagram.com/tussrimfors))
-* **Samantha.N.** &mdash; Samantha Newbery (Instagram: &commat;[`frenchseamsam`{.hash}](https://www.instagram.com/frenchseamsam/); &commat;[`snewbs`{.hash}`](https://www.instagram.com/snewbs/)). Private accounts.
+* **Samantha.N.** &mdash; Samantha Newbery (Instagram: &commat;[`frenchseamsam`{.hash}](https://www.instagram.com/frenchseamsam/); &commat;[`snewbs`{.hash}](https://www.instagram.com/snewbs/)). Private accounts.
 * **Stapleton** &mdash; Laural<!-- NOT A TYPO! --> Stapleton (first name not a typo; Instagram: &commat;[`themakerhaus`{.hash}](https://instagram.com/themakerhaus); see @sec-laural-stapleton).
 * **Stephanie.G.** &mdash; Stephanie Garcia (Instagram: &commat;[`stef.it.seams`{.hash}](https://www.instagram.com/stef.it.seams))
 * **Suna.M.** &mdash; Suna Mantori (Instagram: &commat;[`threadbitchbrighton`{.hash}](https://instagram.com/threadbitchbrighton/)); bust 89 cm; waist 75 cm; hip 97 cm (provided on Instagram page). United Kingdom: England, East Sussex, Brighton.
