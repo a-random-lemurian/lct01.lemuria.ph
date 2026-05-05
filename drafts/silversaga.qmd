@@ -312,7 +312,9 @@ The variety corresponds to individual, often irreversible small variations in th
 
 The form corresponds to the positioning of the dress on the human body or the status of easily reversible configurations (e.g. button fastening, tied or untied ribbons, or sleeves pulled downward, lateral to the upper arm).
 
-The LCT-01 makes use of the "blessed form" doctrine; for example, a dress such as the Clara can be worn on or off-shoulder. If it were worn off-shoulder, it would be considered part of the class Umerostentida, subclass Alourida; while if it were worn on-shoulder, <!-- FIXME: Figure out where the Clara goes on the tree and then fill this in -->. Designer intent is that the sleeves are worn on the shoulder, though the product page explicitly acknowledges the off-shoulder configuration (and notes that it is breastfeeding-friendly).
+The LCT-01 makes use of the "blessed form" doctrine; for example, a dress such as the Clara can be worn on or off-shoulder. If it were worn off-shoulder, it would be considered part of the class Umerostentida, subclass Alourida; while if it were worn on-shoulder, it would fall in the class Isotrapezia.
+
+Designer intent is that the sleeves are worn on the shoulder, though the product page explicitly acknowledges the off-shoulder configuration (and notes that it is breastfeeding-friendly). As the on-shoulder form is most common, the Argenclaridae are placed within the class Isotrapezia.
 
 ### Taxonomic history {#sec-taxonomic-history}
 Our lead author discovered Silversaga through the American sewist Madeleine Salisbury (Instagram: &commat;[`made_by_madeleine.claire`](https://instagram.com/made_by_madeleine.claire)).
