@@ -3311,7 +3311,7 @@ Angled ventral view. Environment 3. Subject's left arm adducted. Subject's right
 METADATAFROMHOLOTYPER <!-- TODO: fill in this holotype information -->
 *Heleonora gabriellae* wb. Gabrielle.Sc., 2024.
 &copy; Gabrielle Scollay or unknown photographer, 2024, all rights reserved.
-**Page**: ;
+**Page**: @sleeveless_eleonora_gallery;
 **SHA2-256**: `e208a4ee05f95f2fe58059b3e655d2195fcf9208d8a9309d99168da0076b6bf4`{.hash};
 **Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Gabrielle_Scollay_jpg.jpg?v=1720381421>;
 **IA**: <https://web.archive.org/web/20260408100730/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Gabrielle_Scollay_jpg.jpg?v=1720381421>
@@ -3321,7 +3321,7 @@ METADATAFROMHOLOTYPER <!-- TODO: fill in this holotype information -->
 METADATAFROMHOLOTYPER <!-- TODO: fill in this holotype information -->
 *Heleonora gabriellae* wb. Gabrielle.Sc., 2024.
 &copy; Gabrielle Scollay or unknown photographer, 2024, all rights reserved.
-**Page**: ;
+**Page**: @sleeveless_eleonora_gallery;
 **SHA2-256**: `25a03be39971e41e8e91912d46c3801fffb795520926c2484fdba235129e346b`{.hash};
 **Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Gabrielle_Scollay2.jpg?v=1720381421>;
 **IA**: <https://web.archive.org/web/20260408100732/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Gabrielle_Scollay2.jpg?v=1720381421>
@@ -3343,18 +3343,19 @@ METADATAFROMHOLOTYPER <!-- TODO: fill in this holotype information -->
 **Specimens examined**
 
 **Holotype**: ***Garcia 290.1709*** &mdash; Photograph.
-0&times;0.
+2736&times;3648.
 METADATAFROMHOLOTYPER <!-- TODO: fill in this holotype information -->
 *Heleonora garciae* wb. Stephanie.G., 2024.
 &copy; Stephanie Garcia or unknown photographer, 2024, all rights reserved.
 **Page**: ;
 **SHA2-256**: `27781e0ed94d748ef0239503aa1fe6af0a2724ca7d67be1eb4e5b44f76897d54`{.hash};
 **Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Stephanie_Garcia20.jpg?v=1720291718>;
+**IA**: <https://web.archive.org/web/20260408100028/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Stephanie_Garcia20.jpg?v=1720291718>
 
 ***Garcia 290.1711*** &mdash; Photograph.
 2992&times;2992.
-METADATAFROMHOLOTYPER <!-- TODO: fill in this holotype information -->
-*Heleonora garciae* wb. Stephanie.G., 2024.
+Dress hanging against window. Blue flare to left of bodice, possible sun or overexposure. Instance of *Felis catus* Linnaeus, 1758 (cat) behind dress.
+*Heleonora garciae*.
 &copy; Stephanie Garcia or unknown photographer, 2024, all rights reserved.
 **Page**: ;
 **SHA2-256**: `14ef77a944aa73506b213d6d4d01056bfc8c5d1543a935f48430e09ac2d5b12e`{.hash};
@@ -3363,7 +3364,7 @@ METADATAFROMHOLOTYPER <!-- TODO: fill in this holotype information -->
 
 ***Garcia 290.1736*** &mdash; Photograph.
 3000&times;4000.
-METADATAFROMHOLOTYPER <!-- TODO: fill in this holotype information -->
+Ventral view. Subject in forest. Significant sunlight shining on subject, especially on right bust and skirt area. Subject wearing hat with morphological similarities to sombreros (no LCT-01 classification). Hair positioned ventrally, obscuring left strap. Skirt truncated out of frame.
 *Heleonora garciae* wb. Stephanie.G., .
 &copy; Stephanie Garcia or unknown photographer, all rights reserved.
 **Page**: ;
