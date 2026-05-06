@@ -3715,6 +3715,119 @@ METADATAFROMHOLOTYPER <!-- TODO: fill in this holotype information -->
 
 **Taxonomic placement**: Placed in *Heleonora* subg. *Elastica*.
 
+**Diagnosis**: *Heleonora* sect. *Unilastica* is distinguished amongst subg. *Elastica* by the presence of only one waist channel at the bodice&ndash;skirt seam.
+
+**Etymology**: Blend of Latin *uni-* ("one") + *Elastica*.
+
+<!-- BEGIN antigonae -->
+<!-- Template generated with lct01tools and manually filled in by humans! -->
+#### *Heleonora antigonae* {#sec-heleonora-antigonae}
+***Heleonora antigonae*** Lemuria, 2026; first public desc.
+
+**Diagnosis**: *Heleonora antigonae* is characterized by its fabric, a solid white cotton viscose with sparsely distributed orange flowers embroidered in yarn. Size EU 38, cup C-E. Bilateral pockets absent.
+
+**Remarks**: See @tsami2024 for Antigoni's original Instagram post.
+
+**Etymology**: From *Antigoni* (itself the modern Greek form of *Antigone*) + *-ae*, feminine genitive suffix.
+
+**Specimens examined**
+
+**Photography conditions.** The photographs were taken in an outdoors environment, in a wide horizontal frame, significantly zoomed out. We infer a high likelihood that a tripod was used based on the consistent positioning of vegetation and background features in both images. *27* has significantly more saturated colors than *70*.
+
+**Holotype**: ***Antigoni 2024.133.27*** &mdash; Photograph.
+4000&times;2667.
+Ventral view. Subject facing right. Arms mostly adducted.
+*Heleonora antigonae* wb. Antigoni, 2024.
+&copy; Antigoni Tsami or unknown photographer, 2024, all rights reserved.
+**Page**: @sleeveless_eleonora_gallery;
+**SHA2-256**: `97c9150f13d1535158323509cc72ccca521cf70c6e90e68ea38b642e719ad3c6`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Antigoni_Tsiami3.jpg?v=1720291725>;
+**IA**: <https://web.archive.org/web/20260408100815/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Antigoni_Tsiami3.jpg?v=1720291725>
+
+***Antigoni 2024.133.70*** &mdash; Photograph.
+4000&times;2667.
+Angled dorsal view. Subject looking downwards. Left arm mostly occluded by body. Right arm mostly adducted.
+*Heleonora antigonae* wb. Antigoni, 2024.
+&copy; Antigoni Tsami or unknown photographer, 2024, all rights reserved.
+**Page**: @sleeveless_eleonora_gallery;
+**SHA2-256**: `b45779db34e8407fb23c9a08db922088520802160cba1f48c9e7d13138bad7c5`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Antigoni_Tsiami6.jpg?v=1720291724>;
+**IA**: <https://web.archive.org/web/20260408100825/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Antigoni_Tsiami6.jpg?v=1720291724>
+
+<!-- END antigonae -->
+<!-- BEGIN lauralia -->
+<!-- Template generated with lct01tools and manually filled in by humans! -->
+#### *Heleonora lauralia* {#sec-heleonora-lauralia}
+***Heleonora lauralia*** Lemuria, 2026; first public desc.
+
+**Diagnosis**: *Heleonora lauralia* is characterized by its fabric, a solid light/earthy brown lightweight cotton.
+
+**Remarks**: *Laural* is not a typo. The filenames use the spelling *Eleanora* for the dress. This misspelling also consistently occurs in Stapleton's source material. <!-- We have all misspelled it before. Don't sweat it, Silversaga --> See @stapleton2024 for Stapleton's original Instagram post.
+
+**Etymology**: From *Laural* + *-ia*.
+
+**Specimens examined**
+
+**Holotype**: ***Stapleton 2024.905.2118*** &mdash; Photograph.
+1072&times;1600.
+Ventral view. Subject facing camera directly. Left arm adducted. Right hand holding basket made of unknown woven material.
+*Heleonora lauralia* wb. Stapleton, 2024.
+&copy; Laural Stapleton or unknown photographer, 2024, all rights reserved.
+**Page**: @sleeveless_eleonora_gallery;
+**SHA2-256**: `5c6b41063ed0057bb098e92df14d2f25991c48eea499bc8ee9a8c0cb45dca85b`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/sleeveless_Eleanora__tester_Laural_Stapleton-7.jpg?v=1720291715>;
+**IA**: <https://web.archive.org/web/20260408100929/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/sleeveless_Eleanora__tester_Laural_Stapleton-7.jpg?v=1720291715>
+
+***Stapleton 2024.905.4098*** &mdash; Photograph.
+1067&times;1600.
+Ventral view. Subject facing camera directly. Left arm adducted, holding skirt. Right hand extended outward towards vegetation in background.
+*Heleonora lauralia* wb. Stapleton, 2024.
+&copy; Laural Stapleton or unknown photographer, 2024, all rights reserved.
+**Page**: @sleeveless_eleonora_gallery;
+**SHA2-256**: `010adb019367ddaa6597db65c24ba1e6e7e8e7900a87b38c17af4ffef03f0717`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/sleeveless_Eleanora__tester_Laural_Stapleton-5.jpg?v=1720291715>;
+**IA**: <https://web.archive.org/web/20260408100502/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/sleeveless_Eleanora__tester_Laural_Stapleton-5.jpg?v=1720291715>
+
+<!-- END lauralia -->
+
+<!-- BEGIN shannonae -->
+<!-- Template generated with lct01tools and manually filled in by humans! -->
+#### *Heleonora shannonae* {#sec-heleonora-shannonae}
+***Heleonora shannonae*** Lemuria, 2026; first public desc.
+
+**Diagnosis**: *Heleonora shannonae* is characterized by its fabric, a dark floral print referred to as "Art Gallery Rayon Challis" from Art Gallery Fabrics, or the "Art Gallery Fabrics Trinkets Fusion Rayon Challis Fabric Flower Glory", the Minerva product name as cited by Shannon.
+
+**Remarks**: See @shannonp2024 for Shannon's original Instagram post.
+
+**Etymology**: From *Shannon* + *-ae*.
+
+**Specimens examined**
+
+**Photography conditions.** The photographs were taken in a semi-outdoors environment, against a light yellow wall, with sliding doors to the subject's left. Light flows in from the subject's right.
+
+**Holotype**: ***Shannon 2024.115.2775*** &mdash; Photograph.
+2246&times;2246.
+Ventral view. Hair positioned ventrally; left strap occluded, slight occlusion on right strap. Left arms extended outward grabbing skirt, right arm mostly adducted.
+*Heleonora shannonae* wb. Shannon.P., 2024.
+&copy; Shannon or unknown photographer, 2024, all rights reserved.
+**Page**: ;
+**SHA2-256**: `22087290249a15ae0fd867f4ab971216a9cf8fddf52964885754a27815191d92`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Shannon_P_353d5416-64af-467d-8432-e415fa8381ca.jpg?v=1720291713>;
+**IA**: <https://web.archive.org/web/20260506080133/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Shannon_P4.jpg?v=1720291714>
+
+***Shannon 2024.115.3905*** &mdash; Photograph.
+2704&times;2704.
+Truncated ventral view. Hair positioned ventrally, less occlusion of straps as hair is positoned more medially. Arms fully adducted. Shallow depth of field.
+*Heleonora shannonae* wb. Shannon.P., 2024.
+&copy; Shannon or unknown photographer, 2024, all rights reserved.
+**Page**: ;
+**SHA2-256**: `1e36e3e8a6f54262bdad42f8c7da84d54e01098a89fcebf940912990c9875a56`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Shannon_P4.jpg?v=1720291714>;
+**IA**: <https://web.archive.org/web/20260506080133/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Shannon_P4.jpg?v=1720291714>
+
+<!-- END shannonae -->
+<!-- END Unilastica -->
+
 ### *Heleonora* sect. *Duolastica*
 ***Heleonora* section *Duolastica*** Lemuria, 2026; first public desc.
 
