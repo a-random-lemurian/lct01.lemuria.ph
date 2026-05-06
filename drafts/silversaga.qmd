@@ -3417,32 +3417,34 @@ Ventral view. Subject's body mostly straight. Subject facing downward. Both arms
 #### *Heleonora jessae* {#sec-heleonora-jessae}
 ***Heleonora jessae*** Lemuria, 2026
 
-**Diagnosis**: *Heleonora jessae* is characterized by
+**Diagnosis**: *Heleonora jessae* is characterized by its fabric, a plaid/tartan-like fabric consisting of thick blue lines, and thinner green, red, and orange lines against a white background.
 
 **Description**:
 
-**Remarks**:
+**Remarks**: We were not able to locate Jessa's Instagram post for the dress within the four Sleeveless Eleonora Instagram posts.
 
-**Etymology**: From
+**Etymology**: From *Jessa* + *-ae*, feminine genitive suffix.
 
 **Specimens examined**
 
+**Photography conditions.** The photographs were taken in daytime conditions in a backyard. Jessa has tattoos covering significant portions of her arms and legs, which may help in correlating her to any possible Instagram posts. The most distinctive feature is an envelope sealed with a red heart positioned medially along the right arm, possibly at the antecubital fossa^[Better known to non-medical personnel as the general area from which blood is often drawn.] Jessa's hair was mostly positioned ventrally and bilaterally, though her inferiormost strands on her right were medial to the right strap, reducing occlusion.
+
 **Holotype**: ***Jessa 157.1490*** &mdash; Photograph.
 3024&times;4032.
-METADATAFROMHOLOTYPER <!-- TODO: fill in this holotype information -->
+Ventral view. Subject's arms extended outward grabbing skirt.
 *Heleonora jessae* wb. Jessa.J., 2024.
 &copy; Jessa Jones or unknown photographer, 2024, all rights reserved.
-**Page**: ;
+**Page**: @sleeveless_eleonora_gallery;
 **SHA2-256**: `833067180a4227f0ee1acb09558c2daf507b65819925bf058c8b52da085d098f`{.hash};
 **Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Jessa_Jones2_650693fb-5b7a-46e7-8c63-ec487bb29e02.jpg?v=1720291686>;
 **IA**: <https://web.archive.org/web/20260408100606/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Jessa_Jones2_650693fb-5b7a-46e7-8c63-ec487bb29e02.jpg?v=1720291686>
 
 ***Jessa 157.12676*** &mdash; Photograph.
 3024&times;4032.
-METADATAFROMHOLOTYPER <!-- TODO: fill in this holotype information -->
+Dorsal view. Subject's arms extended outward; legs positioned and rotated as if photograph was taken during a twirl.
 *Heleonora jessae* wb. Jessa.J., 2024.
 &copy; Jessa Jones or unknown photographer, 2024, all rights reserved.
-**Page**: ;
+**Page**: @sleeveless_eleonora_gallery;
 **SHA2-256**: `b448220751bdb1e5f639cd6cb6f2920d31fc23ab77b6e1f8b3a71980b0ff80b6`{.hash};
 **Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Jessa_Jones6.jpg?v=1720291687>;
 **IA**: <https://web.archive.org/web/20260408100607/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Jessa_Jones6.jpg?v=1720291687>
