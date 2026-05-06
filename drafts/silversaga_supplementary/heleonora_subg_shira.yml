@@ -46,6 +46,19 @@ wearers:
   jessa: &jessa
     abbr: Jessa.J.
     name: Jessa Jones
+# wagrmom
+  beckylb: &beckylb
+    abbr: Becky.L.B.
+    name: Becky Lynch Blanton
+    instagram: wagrmom
+
+# well she's not a wearer but she was the photog.
+# and it's also a big shame her insta is private but
+# eh, we're doing what we can with whwat we have
+hannahden: &hannahden
+  name: Hannah Dennis
+  abbr: Hannah.Den.
+  instagram: heyitstheyellowfruit
 
 taxa:
   Heleonoridae:
@@ -566,3 +579,167 @@ taxa:
                     wearer:
                       <<: *elizabeth
                       year: 2024
+              
+              blantonia:
+                rank: species
+                describer: Lemuria, 2026
+                holotype:
+                  - view: ventral
+                    name: Blanton 2024.433.46636
+                    photographer: *hannahden
+                    width: 1440
+                    height: 1800
+                    id:
+                      ig: 651079589_17981392790988173_7238665911249046636
+                    wearer:
+                      <<: *beckylb
+                      year: 2024
+                    sum:
+                      sha256: f770f5492d480c7d45058df43b2708da5a2cf6a6042c54822df3ed8fb7c5044b
+                    cite_key: beckylb2024
+                    urls:
+                      - provider: ia
+                        href: https://web.archive.org/web/20260504215831/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/651079589_17981392790988173_7238665911249046636_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=MzQyNzE4NzQ2Njk1OTE5MjgxMA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTgwMC5zZHIuQzMifQ%3D%3D&_nc_ohc=hA9KCR3_9EgQ7kNvwEtDEmU&_nc_oc=AdoWmII9tJSwPhIrlYU9TUfT60TIgQOlFoULYzL7zxmheJS5Qt9L0d3k6kME2KnyD-s&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=oKmqo24hjHVhxILzRYJCsQ&_nc_ss=7a22e&oh=00_Af5Z_7Y1oUoFcPlCdvFSVtFoKRJvddjBcWvUyOu1LSMWcw&oe=69FEEC4B
+
+                types:
+                  - view: ventral
+                    name: Blanton 2024.433.32667
+                    photographer: *hannahden
+                    width: 1440
+                    height: 1800
+                    wearer:
+                      <<: *beckylb
+                      year: 2024
+                    cite_key: beckylb2024
+                    urls:
+                      - provider: ia
+                        href: https://web.archive.org/web/20260504220022/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/655610868_18092356916330508_8540628614448032667_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=MzQyNzE4NzQ2Njk1OTE3NTg2Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTgwMC5zZHIuQzMifQ%3D%3D&_nc_ohc=gjGr4zFG6MwQ7kNvwGmgv2x&_nc_oc=AdpW4otU7R13pIGxys-qYPJ2LDb3JR2W6xfauaT0nxzXnHMXH4zo5R1DeJhJ0RFVOW4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=oKmqo24hjHVhxILzRYJCsQ&_nc_ss=7a22e&oh=00_Af6FJ3ftKjzJdHL3D-deUTPYHMQ8q2C8HvtlK0DqVftu1w&oe=69FEF438
+                    sum:
+                      sha256: 19249b85bc1c3c794de9af3e5a8bf056b8999f3c00451a4dae792b4a5052e3aa
+
+
+                  - view: ventral
+                    name: Blanton 2024.433.69846
+                    photographer: *hannahden
+                    width: 1440
+                    height: 1800
+                    wearer:
+                      <<: *beckylb
+                      year: 2024
+                    cite_key: beckylb2024
+                    urls:
+                      - provider: ia
+                        href: https://web.archive.org/web/20260504220023/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/669550353_18215544754320906_110498988008769846_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=MzQyNzE4NzQ2Njk1OTEyOTU4Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTgwMC5zZHIuQzMifQ%3D%3D&_nc_ohc=U9jxoMCgLy4Q7kNvwH3SVso&_nc_oc=AdphDlV4XPQuC4Bx3QAfTvcvPTwVfSBk2dfrduDGKYXj1_jY7xtLOPZFZxRyNz3V5qQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=oKmqo24hjHVhxILzRYJCsQ&_nc_ss=7a22e&oh=00_Af6S3Zhh-PbW6-qh1DtTVb-PHFxiL0bFLEEMW0PDX3Wvzg&oe=69FEF8A1
+                    sum:
+                      sha256: 80b796757ffad05266e9ec52f184d7807c8444cdc9550656c5930feec6231ea3
+
+
+                  - view: ventral
+                    name: Blanton 2024.433.79988
+                    photographer: *hannahden
+                    width: 1440
+                    height: 1800
+                    wearer:
+                      <<: *beckylb
+                      year: 2024
+                    cite_key: beckylb2024
+                    urls:
+                      - provider: ia
+                        href: https://web.archive.org/web/20260504220025/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/655012307_18058731620698021_6573847349408379988_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=MzQyNzE4NzQ2Njk1OTI5OTQ0Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTgwMC5zZHIuQzMifQ%3D%3D&_nc_ohc=S_OYs6mEgkUQ7kNvwGlKT4G&_nc_oc=AdoBUOHdlixJ1oW_J2QsLgBlL-dlmjsvKGjw3tCjVDw96AbdzAOcQL8mkdHmb3aYBNk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=oKmqo24hjHVhxILzRYJCsQ&_nc_ss=7a22e&oh=00_Af6HBJKttOiCECJcD_o60dCoietjznPTRUhjzjJit2C_MA&oe=69FEF060
+                    sum:
+                      sha256: 2f3ed759eec6563837a1e8be85b972c951497d647d3322076c4bb86ed8030b24
+
+
+                  - view: ventral
+                    name: Blanton 2024.433.14853
+                    photographer: *hannahden
+                    width: 1440
+                    height: 1800
+                    wearer:
+                      <<: *beckylb
+                      year: 2024
+                    cite_key: beckylb2024
+                    urls:
+                      - provider: ia
+                        href: https://web.archive.org/web/20260504220416/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/651431201_17980991465975936_7830797461430914853_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=MzQyNzE4NzQ2Njk1MDc0MTM4NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTgwMC5zZHIuQzMifQ%3D%3D&_nc_ohc=utQtLwWEUXgQ7kNvwFEQAgi&_nc_oc=AdrVeNcixjMCIfjKZw053Sdw0eBd3pCyjCb0bx78lAQXVh5vEoC5P5T2Mh88FG09VL0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=oKmqo24hjHVhxILzRYJCsQ&_nc_ss=7a22e&oh=00_Af7yWnjILw8jTp4mOQwpCllu0b6Uj9D7rOhfL4Qcpg-8lQ&oe=69FECC29
+                    sum:
+                      sha256: 7169cff2a6f2a4997a65fd4f011c2f25aadf978b6b13ae71c9f18e22e3f7c5e9
+
+                  - view: ventral
+                    name: Blanton 2024.433.40968
+                    photographer: *hannahden
+                    width: 1440
+                    height: 1800
+                    wearer:
+                      <<: *beckylb
+                      year: 2024
+                    cite_key: beckylb2024
+                    urls:
+                      - provider: ia
+                        href: https://web.archive.org/web/20260504220429/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/662341312_18368242204201797_502939237225740968_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=MzQyNzE4NzQ2NzAxNzk5NTE1OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTgwMC5zZHIuQzMifQ%3D%3D&_nc_ohc=XqXqIfjXssQQ7kNvwGTJxbV&_nc_oc=AdryY5ZWS8eR7HkQg8PDxSCu67289rGhv1Wc_u9TjLPNPFbWydCuxXTVNtJy9W-s848&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=oKmqo24hjHVhxILzRYJCsQ&_nc_ss=7a22e&oh=00_Af6lyR-HDmhGHTlk4h9dqaxoMsPu0ja_Kh-Ejy7_wdTs9g&oe=69FECB23
+                    sum:
+                      sha256: ab17c868d1745b098c8f8a7e1536368823ccdadb795288bcab939fca91347442
+
+
+                  - view: ventral
+                    name: Blanton 2024.433.19582
+                    photographer: *hannahden
+                    width: 1440
+                    height: 1800
+                    wearer:
+                      <<: *beckylb
+                      year: 2024
+                    cite_key: beckylb2024
+                    urls:
+                      - provider: ia
+                        href: https://web.archive.org/web/20260504220310/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/655019723_18011563436683653_2454417883585919582_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=MzQyNzE4NzQ2Njk1MDg1Nzc2Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTgwMC5zZHIuQzMifQ%3D%3D&_nc_ohc=D4tasegLItIQ7kNvwFBxh4L&_nc_oc=Adr7r77CaVxtTmflUWxtlRwjxK2RsorEY2PFh4OV-wuzCV6sftA8DyeV3TLbjPllidI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=oKmqo24hjHVhxILzRYJCsQ&_nc_ss=7a22e&oh=00_Af7KRkVydYgyljg_GnWoouRR5ebUwwfGHX2qVwfoj-mAmw&oe=69FEE989
+                    sum:
+                      sha256: 7eed96a4e041b61a3560c884743a7c15cd5edf4cbfba35479d58ed9058d994cd
+
+                  - view: ventral
+                    name: Blanton 2024.433.76407
+                    photographer: *hannahden
+                    width: 1440
+                    height: 1800
+                    wearer:
+                      <<: *beckylb
+                      year: 2024
+                    cite_key: beckylb2024
+                    urls:
+                      - provider: ia
+                        href: https://web.archive.org/web/20260504220341/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/656733159_18138350659508029_7864903067687476407_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=MzQyNzE4NzQ2Njk1MDg2ODkyMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTgwMC5zZHIuQzMifQ%3D%3D&_nc_ohc=JU7PfjUYvZsQ7kNvwGZGURw&_nc_oc=AdrC_ylcPX4KY4vXkAXhp0v7rUeCtu8Qbqu1-kc2Ia7bLK9o41znz6ZEUxDXgmobUkw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=oKmqo24hjHVhxILzRYJCsQ&_nc_ss=7a22e&oh=00_Af5k02LVFEUCuwMY8fld4LiO_GQSaCWB_e9zbYk-hjxcRw&oe=69FEF51C
+                    sum:
+                      sha256: be15f997ae3729fc48631167b965e0e5bdf165c348f28a5b7a5357a857c67384
+
+
+                  - view: ventral
+                    name: Blanton 2024.433.19582
+                    photographer: *hannahden
+                    width: 1440
+                    height: 1800
+                    wearer:
+                      <<: *beckylb
+                      year: 2024
+                    cite_key: beckylb2024
+                    urls:
+                      - provider: ia
+                        href: https://web.archive.org/web/20260504220310/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/655019723_18011563436683653_2454417883585919582_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=MzQyNzE4NzQ2Njk1MDg1Nzc2Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTgwMC5zZHIuQzMifQ%3D%3D&_nc_ohc=D4tasegLItIQ7kNvwFBxh4L&_nc_oc=Adr7r77CaVxtTmflUWxtlRwjxK2RsorEY2PFh4OV-wuzCV6sftA8DyeV3TLbjPllidI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=oKmqo24hjHVhxILzRYJCsQ&_nc_ss=7a22e&oh=00_Af7KRkVydYgyljg_GnWoouRR5ebUwwfGHX2qVwfoj-mAmw&oe=69FEE989
+                    sum:
+                      sha256: 7eed96a4e041b61a3560c884743a7c15cd5edf4cbfba35479d58ed9058d994cd
+
+
+                  - view: ventral
+                    name: Blanton 2024.433.51080
+                    photographer: *hannahden
+                    width: 1440
+                    height: 1800
+                    wearer:
+                      <<: *beckylb
+                      year: 2024
+                    cite_key: beckylb2024
+                    urls:
+                      - provider: ia
+                        href: https://web.archive.org/web/20260504220241/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/657348192_18221685520314287_2072022463349951080_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=MzQyNzE4NzQ2Njk1OTIzODcxNA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTgwMC5zZHIuQzMifQ%3D%3D&_nc_ohc=q57H12qthQIQ7kNvwHDKmZ2&_nc_oc=AdrR3rmezJyiosm5anW0M_y8er4rFdOT6ORWZI-FIF6Bw_n4mIMcDa1DC6RXkC6r4XI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=oKmqo24hjHVhxILzRYJCsQ&_nc_ss=7a22e&oh=00_Af7Aon3KzM0aYsR9NZo7kZJnK1j_FsbAYW1iLWr33KI9gQ&oe=69FEFD5B
+                    sum:
+                      sha256: 2bbd364559c001a26fc235c774244e295578a7627aaa1a137839b4fd7f430c15
+
