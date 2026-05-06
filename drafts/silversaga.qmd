@@ -3151,7 +3151,7 @@ Ventral view. Subject facing to her left. Left arm fully adducted. Right arm not
 
 
 #### *Heleonora beatricae* {#sec-heleonora-beatricae}
-***Heleonora beatricae*** Lemuria, 2026
+***Heleonora beatricae*** Lemuria, 2026; sp. nov.
 
 **Diagnosis**: *Heleonora beatricae* is characterized by its fabric, a cotton duvet cover, with a floral print consisting of floral shapes in white against a light blue background. Size 42 C-E cup; bodice 3 cm longer.
 
@@ -3190,7 +3190,7 @@ Closer ventral view. Subject facing forward, slightly leaning to left. Both arms
 <!-- BEGIN blantonia -->
 <!-- Template generated with lct01tools and manually filled in by humans! -->
 #### *Heleonora blantonia* {#sec-heleonora-blantonia}
-***Heleonora blantonia*** Lemuria, 2026
+***Heleonora blantonia*** Lemuria, 2026; sp. nov.
 
 **Diagnosis**: *Heleonora blantonia* is characterized by its fabric, a solid light pink seersucker, with a subtle horizontal pattern consisting of plain flat areas with slight shirring/gathering in-between, purchased from Hobby Lobby at US$3/yd.
 
