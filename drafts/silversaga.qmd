@@ -3381,32 +3381,32 @@ Ventral view. Subject in forest. Significant sunlight shining on subject, especi
 #### *Heleonora ioanae* {#sec-heleonora-ioanae}
 ***Heleonora ioanae*** Lemuria, 2026
 
-**Diagnosis**: *Heleonora ioanae* is characterized by
+**Diagnosis**: *Heleonora ioanae* is characterized by its fabric, a cotton voile from Fabricland Canada, consisting of blue floral patterns against a white background.
 
-**Description**:
+**Remarks**: See @ioana2024 for Ioana's original Instagram post.
 
-**Remarks**:
-
-**Etymology**: From
+**Etymology**: From *Ioana* + *-ae*, feminine genitive suffix.
 
 **Specimens examined**
 
+**Photography conditions.** The photographs were taken indoors, with multiple open windows bringing sunlight in. In the images, Ioana stands in a patch of direct sunlight.
+
 **Holotype**: ***Ioana 119.1048*** &mdash; Photograph.
 2947&times;3684.
-METADATAFROMHOLOTYPER <!-- TODO: fill in this holotype information -->
+Ventral view. Subject's body tilted. Subject facing downward. Left arm extended out, right arm also extended out, grabbing skirt. Motion blur at hem of skirt.
 *Heleonora ioanae* wb. Ioana.M., 2024.
 &copy; Ioana Miron or unknown photographer, 2024, all rights reserved.
-**Page**: ;
+**Page**: @sleeveless_eleonora_gallery;
 **SHA2-256**: `713958f9151fc3c00e7d41d68a03edf325fdeaf2da0209ed4e6810738368e2dc`{.hash};
 **Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Ioana_Miron2.jpg?v=1720291682>;
 **IA**: <https://web.archive.org/web/20260503013948/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Ioana_Miron2.jpg?v=1720291682>
 
 ***Ioana 119.1057*** &mdash; Photograph.
 2801&times;3502.
-METADATAFROMHOLOTYPER <!-- TODO: fill in this holotype information -->
+Ventral view. Subject's body mostly straight. Subject facing downward. Both arms on dorsal surface of head.
 *Heleonora ioanae* wb. Ioana.M., 2024.
 &copy; Ioana Miron or unknown photographer, 2024, all rights reserved.
-**Page**: ;
+**Page**: @sleeveless_eleonora_gallery;
 **SHA2-256**: `3da5e78b8563bbe3a41410e498241465e37ffe88a9e36bd46c51f7e82a4aa528`{.hash};
 **Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Ioana_Miron3.jpg?v=1720291682>;
 **IA**: <https://web.archive.org/web/20260408100223/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Ioana_Miron3.jpg?v=1720291682>
