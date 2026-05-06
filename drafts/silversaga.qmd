@@ -3294,21 +3294,24 @@ Angled ventral view. Environment 3. Subject's left arm adducted. Subject's right
 <!-- BEGIN gabriellae -->
 <!-- Template generated with lct01tools and manually filled in by humans! -->
 #### *Heleonora gabriellae* {#sec-heleonora-gabriellae}
-***Heleonora gabriellae*** Lemuria, 2026
+***Heleonora gabriellae*** Lemuria, 2026; sp. nov.
 
-**Diagnosis**: *Heleonora gabriellae* is characterized by
+**Diagnosis**: *Heleonora gabriellae* is characterized by its fabric, a floral pattern with light blue flowers against a white background, described by Scollay as "thrifted bedsheets" from Salvos Stores, an Australian chain of thrift stores (known as opportunity shops or op shops in Australia).
 
-**Description**:
+**Remarks**: For Scollay's original Instagram posts, see
+@scollay2024_tryon, a gallery of photographs;
+@scollay2024_tryonreel, a reel where she tries on *H. gabriellae*; and
+@scollay2024_sewing, a reel where she sews *H. gabriellae*.
 
-**Remarks**:
-
-**Etymology**: From
+**Etymology**: From *Gabrielle* + *-ae*, feminine genitive suffix.
 
 **Specimens examined**
 
+**Photography conditions.** Outdoors, daylight conditions.
+
 **Holotype**: ***Gabrielle 394.2071*** &mdash; Photograph.
 2667&times;4000.
-METADATAFROMHOLOTYPER <!-- TODO: fill in this holotype information -->
+Ventral view. Hair draped ventrally, occluding left strap. Left arm adducted. Right arm holding bouquet of flowers. Subject against the light.
 *Heleonora gabriellae* wb. Gabrielle.Sc., 2024.
 &copy; Gabrielle Scollay or unknown photographer, 2024, all rights reserved.
 **Page**: @sleeveless_eleonora_gallery;
@@ -3318,7 +3321,7 @@ METADATAFROMHOLOTYPER <!-- TODO: fill in this holotype information -->
 
 ***Gabrielle 394.2049*** &mdash; Photograph.
 2667&times;4000.
-METADATAFROMHOLOTYPER <!-- TODO: fill in this holotype information -->
+Angled ventral view. Focused on area around bust.
 *Heleonora gabriellae* wb. Gabrielle.Sc., 2024.
 &copy; Gabrielle Scollay or unknown photographer, 2024, all rights reserved.
 **Page**: @sleeveless_eleonora_gallery;
