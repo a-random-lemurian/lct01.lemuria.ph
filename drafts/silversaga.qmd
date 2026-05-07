@@ -3333,7 +3333,7 @@ Angled ventral view. Focused on area around bust.
 <!-- BEGIN garciae -->
 <!-- Template generated with lct01tools and manually filled in by humans! -->
 #### *Heleonora garciae* {#sec-heleonora-garciae}
-***Heleonora garciae*** Lemuria, 2026
+***Heleonora garciae*** Lemuria, 2026; sp. nov.
 
 **Diagnosis**: *Heleonora garciae* is characterized by
 
@@ -3379,7 +3379,7 @@ Ventral view. Subject in forest. Significant sunlight shining on subject, especi
 <!-- BEGIN ioanae -->
 <!-- Template generated with lct01tools and manually filled in by humans! -->
 #### *Heleonora ioanae* {#sec-heleonora-ioanae}
-***Heleonora ioanae*** Lemuria, 2026
+***Heleonora ioanae*** Lemuria, 2026; sp. nov.
 
 **Diagnosis**: *Heleonora ioanae* is characterized by its fabric, a cotton voile from Fabricland Canada, consisting of blue floral patterns against a white background.
 
@@ -3415,7 +3415,7 @@ Ventral view. Subject's body mostly straight. Subject facing downward. Both arms
 <!-- BEGIN jessae -->
 <!-- Template generated with lct01tools and manually filled in by humans! -->
 #### *Heleonora jessae* {#sec-heleonora-jessae}
-***Heleonora jessae*** Lemuria, 2026
+***Heleonora jessae*** Lemuria, 2026; sp. nov.
 
 **Diagnosis**: *Heleonora jessae* is characterized by its fabric, a plaid/tartan-like fabric consisting of thick blue lines, and thinner green, red, and orange lines against a white background.
 
@@ -3453,7 +3453,7 @@ Dorsal view. Subject's arms extended outward; legs positioned and rotated as if 
 <!-- BEGIN lizzia -->
 <!-- Template generated with lct01tools and manually filled in by humans! -->
 #### *Heleonora lizzia* {#sec-heleonora-lizzia}
-***Heleonora lizzia*** Lemuria, 2026
+***Heleonora lizzia*** Lemuria, 2026; sp. nov.
 
 **Diagnosis**: *Heleonora lizzia* is characterized by its fabric, a cotton lawn consisting of blue, yellow, and red flowers on a white background.
 
