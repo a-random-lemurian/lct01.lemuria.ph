@@ -3455,32 +3455,30 @@ Dorsal view. Subject's arms extended outward; legs positioned and rotated as if 
 #### *Heleonora lizzia* {#sec-heleonora-lizzia}
 ***Heleonora lizzia*** Lemuria, 2026
 
-**Diagnosis**: *Heleonora lizzia* is characterized by
+**Diagnosis**: *Heleonora lizzia* is characterized by its fabric, a cotton lawn consisting of blue, yellow, and red flowers on a white background.
 
-**Description**:
-
-**Remarks**:
-
-**Etymology**: From
+**Etymology**: From *Liz* + *-ia*. She uses *Lizzy* in her handle and has her account name set to *Liz*.
 
 **Specimens examined**
 
+**Photography conditions.** The photograhs were taken in daylight conditions with the sun behind the photographer.
+
 **Holotype**: ***McNally 20.23014*** &mdash; Photograph.
 2316&times;3088.
-METADATAFROMHOLOTYPER <!-- TODO: fill in this holotype information -->
+Truncated close ventral view. Area superior to lips out of frame; skirt out of frame. Hair likely tied dorsally; no occlusion of neckline.
 *Heleonora lizzia* wb. Elizabeth.M., 2024.
 &copy; Elizabeth McNally or unknown photographer, 2024, all rights reserved.
-**Page**: ;
+**Page**: @sleeveless_eleonora_gallery;
 **SHA2-256**: `6f27893b736fbebf44fbfc24fec10afd2487c4cda1d91daec6de441a9bfbf77b`{.hash};
 **Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Elizabeth_McNally2.jpg?v=1720291681>;
 **IA**: <https://web.archive.org/web/20260408095919/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Elizabeth_McNally2.jpg?v=1720291681>
 
 ***McNally 20.23710*** &mdash; Photograph.
 3024&times;4032.
-METADATAFROMHOLOTYPER <!-- TODO: fill in this holotype information -->
+Ventral view. Subject standing on metal platform near large body of water. Shadow behind subject visible on left foot, indicating that photographer is positioned between subject and Sol.
 *Heleonora lizzia* wb. Elizabeth.M., 2024.
 &copy; Elizabeth McNally or unknown photographer, 2024, all rights reserved.
-**Page**: ;
+**Page**: @sleeveless_eleonora_gallery;
 **SHA2-256**: `f46504965fb55a6e9a4ac4c7cab6f2e9835967042cf474b5e9162b4f9ec90bee`{.hash};
 **Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Elizabeth_McNally3.jpg?v=1720291681>;
 **IA**: <https://web.archive.org/web/20260408095920/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Elizabeth_McNally3.jpg?v=1720291681>
