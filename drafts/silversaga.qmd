@@ -3097,6 +3097,16 @@ We refine the description first provided in @lemuria_kew_2026.
 
 **Etymology**: Portmanteau of *Helistola* + *Eleonora*.
 
+<!-- 
+Heleonora tester imgs
+https://www.instagram.com/p/C9VC3krsGDO
+https://www.instagram.com/p/C9PcZk4sKQH
+https://www.instagram.com/p/C9Krd_0KpSP
+https://www.instagram.com/p/C9IRqqks71o
+-->
+
+**Distribution**: Worldwide. Significant primary material on the Instagram tags `SleevelessEleonoraDressPattern`, and through typos, `SleevelessEleanoraDressPattern` (note the *A* instead of *O*). `EleonoraDressPattern` also contains specimens from both *Heleonora* and *Argenteleonora*.
+
 <!-- replace taxon with the name of the rank! -->
 **Type species**: *Heleonora beatricae*
 
