@@ -3639,34 +3639,34 @@ METADATAFROMHOLOTYPER <!-- TODO: fill in this holotype information -->
 <!-- BEGIN shreyae -->
 <!-- Template generated with lct01tools and manually filled in by humans! -->
 #### *Heleonora shreyae* {#sec-heleonora-shreyae}
-***Heleonora shreyae*** Lemuria, 2026
+***Heleonora shreyae*** Lemuria, 2026; sp. nov.
 
-**Diagnosis**: *Heleonora shreyae* is characterized by
+**Diagnosis**: *Heleonora shreyae* is characterized by its fabric, a voile from Mood Designer Fabrics, consisting of large flowers on a dark background, with a mostly dark color palette. Six shirring lines; three of them additional ones placed by Shreya 0.5cm inferior to original shir lines. Skirt flared outward to slightly higher degree than pattern.
 
-**Description**:
+**Remarks**: See @shreya2024 for Shreya's original Instagram post.
 
-**Remarks**:
-
-**Etymology**: From
+**Etymology**: From *Shreya* + *-ae*.
 
 **Specimens examined**
 
+**Photography conditions.** The photographs were taken in daylight on a grass field with a stone wall in the background.
+
 **Holotype**: ***Shreya 59.5165*** &mdash; Photograph.
 3024&times;4032.
-METADATAFROMHOLOTYPER <!-- TODO: fill in this holotype information -->
+Truncated ventral view, slightly angled. Arms fully adducted. Shallow depth of field.
 *Heleonora shreyae* wb. Shreya, 2024.
 &copy; Shreya or unknown photographer, 2024, all rights reserved.
-**Page**: ;
+**Page**: @sleeveless_eleonora_gallery;
 **SHA2-256**: `9fcf9592f703998480b966a3217d4eb2bfe8c49f8da04ac7d7488f893a632b0d`{.hash};
 **Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Shreya_Eleonora_2.jpg?v=1720291714>;
 **IA**: <https://web.archive.org/web/20260408100217/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Shreya_Eleonora_2.jpg?v=1720291714>
 
 ***Shreya 59.5166*** &mdash; Photograph.
 3024&times;4032.
-METADATAFROMHOLOTYPER <!-- TODO: fill in this holotype information -->
+Ventral view. Full-body, zoomed out. Subject tilting slightly to left. Hair positioned dorsally; no occlusion of straps ventrally. Small portion of hair draped along coronal plane and landing on left strap.
 *Heleonora shreyae* wb. Shreya, 2024.
 &copy; Shreya or unknown photographer, 2024, all rights reserved.
-**Page**: ;
+**Page**: @sleeveless_eleonora_gallery;
 **SHA2-256**: `d1eea0276e361b393c523ae9fade4d905983e9c9657ef9e3ca3270acd4164da2`{.hash};
 **Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Shreya_Eleonora_3.jpg?v=1720291714>;
 **IA**: <https://web.archive.org/web/20260408100230/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Shreya_Eleonora_3.jpg?v=1720291714>
