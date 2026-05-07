@@ -3487,34 +3487,32 @@ Ventral view. Subject standing on metal platform near large body of water. Shado
 <!-- BEGIN martinae -->
 <!-- Template generated with lct01tools and manually filled in by humans! -->
 #### *Heleonora martinae* {#sec-heleonora-martinae}
-***Heleonora martinae*** Lemuria, 2026
+***Heleonora martinae*** Lemuria, 2026; sp. nov.
 
-**Diagnosis**: *Heleonora martinae* is characterized by
+**Diagnosis**: *Heleonora martinae* is characterized by its fabric, a cotton voile in a solid teal color, and a tiered skirt with two distinct skirt areas separated by a seam located roughly superior to the knee.
 
-**Description**:
+**Remarks**: See @garofalo2024 for Garofalo's Instagram post.
 
-**Remarks**:
-
-**Etymology**: From
+**Etymology**: From *Martina* + *-ae*.
 
 **Specimens examined**
 
 **Holotype**: ***Martina 1057.326*** &mdash; Photograph.
 2592&times;4608.
-METADATAFROMHOLOTYPER <!-- TODO: fill in this holotype information -->
+Ventral view. Hair positioned ventrally; left strap significantly occluded, hair on right medial such that right strap is not occluded. Subject's left arms on head, right arm extending out and grabbing portion of inferior layer of skirt.
 *Heleonora martinae* wb. Garofalo, 2024.
 &copy; Martina Garofalo or unknown photographer, 2024, all rights reserved.
-**Page**: ;
+**Page**: @sleeveless_eleonora_gallery;
 **SHA2-256**: `a9afef4253cd511a34a90e08a9ed98beff31740fdf76aad8f1296cd847cfd3cf`{.hash};
 **Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Martina_Garofalo_6.jpg?v=1720291695>;
 **IA**: <https://web.archive.org/web/20260503020857/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Martina_Garofalo_6.jpg?v=1720291695>
 
 ***Martina 1057.118*** &mdash; Photograph.
 2592&times;4608.
-METADATAFROMHOLOTYPER <!-- TODO: fill in this holotype information -->
+Angled lateral view. Subject facing camera. Skirt flaring outward in twirl-like motion. Left arm on skirt and hands located along skirt seam.
 *Heleonora martinae* wb. Garofalo, 2024.
 &copy; Martina Garofalo or unknown photographer, 2024, all rights reserved.
-**Page**: ;
+**Page**: @sleeveless_eleonora_gallery;
 **SHA2-256**: `fc7e7d791bee0d634e75a87d8078d2164542039f5014c7ce1977f4f2c76f3cd3`{.hash};
 **Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Martina_Garofalo_1.jpg?v=1720291695>;
 **IA**: <https://web.archive.org/web/20260408100404/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Martina_Garofalo_1.jpg?v=1720291695>
