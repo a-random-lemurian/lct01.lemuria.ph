@@ -3603,21 +3603,21 @@ METADATAFROMHOLOTYPER <!-- TODO: fill in this holotype information -->
 <!-- BEGIN rimforsia -->
 <!-- Template generated with lct01tools and manually filled in by humans! -->
 #### *Heleonora rimforsia* {#sec-heleonora-rimforsia}
-***Heleonora rimforsia*** Lemuria, 2026
+***Heleonora rimforsia*** Lemuria, 2026; sp. nov.
 
-**Diagnosis**: *Heleonora rimforsia* is characterized by
+**Diagnosis**: *Heleonora rimforsia* is characterized by its fabric, a cotton from Italy, with a white background and a pattern of green flowers and two parallel silver<!-- now it's truly a Silversaga dress --> lines, all running horizontally.
 
-**Description**:
+**Remarks**: Rimfors was part of the third testing group for the sleeveless Eleonora. See @rimfors2024 for Rimfors's original Instagram post.
 
-**Remarks**:
-
-**Etymology**: From
+**Etymology**: From *Rimfors* + *-ia*.
 
 **Specimens examined**
 
+**Photography conditions.** The photographs were taken outdoors in daylight. Vegetation highly saturated. Rimfors's hair was tied dorsally, using a hair clip positioned parietally; the straps were not obscured.
+
 **Holotype**: ***Rimfors 15.1660*** &mdash; Photograph.
 3024&times;4032.
-METADATAFROMHOLOTYPER <!-- TODO: fill in this holotype information -->
+Ventral view. Left arm fully adducted. Right arm reaching backward, in posture resembling at ease.
 *Heleonora rimforsia* wb. Rimfors, 2024.
 &copy; Tuss Rimfors or unknown photographer, 2024, all rights reserved.
 **Page**: ;
@@ -3627,7 +3627,7 @@ METADATAFROMHOLOTYPER <!-- TODO: fill in this holotype information -->
 
 ***Rimfors 15.1710*** &mdash; Photograph.
 3024&times;4032.
-METADATAFROMHOLOTYPER <!-- TODO: fill in this holotype information -->
+Truncated ventral view focused on bodice. Subject's arms in at ease position.
 *Heleonora rimforsia* wb. Rimfors, 2024.
 &copy; Tuss Rimfors or unknown photographer, 2024, all rights reserved.
 **Page**: ;
