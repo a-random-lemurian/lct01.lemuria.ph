@@ -3460,6 +3460,52 @@ Dorsal view. Subject's arms extended outward; legs positioned and rotated as if 
 **IA**: <https://web.archive.org/web/20260408100607/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Jessa_Jones6.jpg?v=1720291687>
 
 <!-- END jessae -->
+
+<!-- BEGIN karecandida -->
+<!-- Template generated with lct01tools and manually filled in by humans! -->
+#### *Heleonora karecandida* {#sec-heleonora-karecandida}
+***Heleonora karecandida*** Lemuria, 2026
+
+**Diagnosis**: *Heleonora karecandida* is characterized by its fabric, an unknown material from a solid white bedsheet.
+
+**Description**:
+
+**Remarks**: *H. karecandida* is one of Karen's two *Heleonora* spp; the other being *H. vanhoofae*. See @vanhoof_heleonorakarecandida_2024 for Karen's original Instagram post. *H. karecandida* was not featured on Silversaga's testing gallery.
+
+**Etymology**: Blend of *Karen* + Latin *candida*, feminine form of *candidus* ("shining white").
+
+**Specimens examined**
+
+**Photography conditions.** The photographs were taken in a field, in daylight conditions, with a shallow depth of field.
+
+**Holotype**: ***Karen 210.1439.92994*** &mdash; Photograph.
+1440&times;1800.
+Ventral view. Subject facing downwards. Hair positioned ventrally; significant occlusion of left strap, relatively less occlusion on right strap. Both arms adducted.
+*Heleonora karecandida* wb. Karen V.H., 2024.
+&copy; Karen Van Hoof or unknown photographer, 2024, all rights reserved.
+**Page**: @vanhoof_heleonorakarecandida_2024;
+**SHA2-256**: `402137d616bfa8235873967b018b6b0bd418f952fa315dc56b3f4564bd120b77`{.hash};
+**IA**: <https://web.archive.org/web/20260508201712/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/653773839_18106517113869276_178601654437592994_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=MzQwNzQ2Njk5MTE2Mzg3MDIzNQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=-yYaxGaSkqwQ7kNvwFA4uLp&_nc_oc=AdoNGmmBOv_j9K_hO7NP4lrXYJl7Tt73t5_BX7lWPS14kGchcz6PXc-bl8SUYqHJnNE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=WegrsvC_if3z_IepqHbGvA&_nc_ss=7a22e&oh=00_Af5VnKc87FW1G5A3gH7j68KKNsZxZqZYiVUJAmE227y5lQ&oe=6A0406BA>
+
+***Karen 210.1439.71897*** &mdash; Photograph.
+1440&times;1800.
+Dorsal view. Subject facing forward. Hair positioned dorsally; significant occlusion of neckline. Left arm in front of her; right arm mostly adducted, holding onto skirt.
+*Heleonora karecandida* wb. Karen V.H., 2024.
+&copy; Karen Van Hoof or unknown photographer, 2024, all rights reserved.
+**Page**: @vanhoof_heleonorakarecandida_2024;
+**SHA2-256**: `2abf26f5823535da2f4519152bbd8740a81f738369c13c0a336880e868af18fd`{.hash};
+**IA**: <https://web.archive.org/web/20260508201709/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/653700412_18028061573796598_427100016846671897_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=MzQwNzQ2Njk5MTI2NDYwMTc2Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=wDkAo3TpN30Q7kNvwFgHSPr&_nc_oc=AdrV9euKvDgVZxFQUE2DkiNKOBfSI0LvkpyTTnbacHVKkBWFnvj5Wa74MFdg-eLUoe8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=WegrsvC_if3z_IepqHbGvA&_nc_ss=7a22e&oh=00_Af5YSGAwi-cZJElYZqafIBPJMzlcZunGjNwHX1KQqDixpA&oe=6A043129>
+
+***Karen 210.1439.43997*** &mdash; Photograph.
+1440&times;1796.
+Truncated ventral view. Hair positioned slightly dorsally; relatiely little occlusion of left strap as it runs along coronal plane towards shoulder. Arms clasp together; and converge ventromedially.
+*Heleonora karecandida* wb. Karen V.H., 2024.
+&copy; Karen Van Hoof or unknown photographer, 2024, all rights reserved.
+**Page**: @vanhoof_heleonorakarecandida_2024;
+**SHA2-256**: `cbdda809b9c834fb2213f1645bcf11635dbbafa1f51aaed5422825765cba5b0f`{.hash};
+**IA**: <https://web.archive.org/web/20260508201716/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/656334026_18080120132093671_4012967633139543997_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=MzQwNzQ2Njk5MDk3OTMzNTczOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=x0IY0DnvuakQ7kNvwGguBDV&_nc_oc=Adql5Ri3a970nRYDdPYTpNf4FfOT1E5YoRQZakGBcbq2_MCSg74tq-NqBNbxgVqQQA4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=WegrsvC_if3z_IepqHbGvA&_nc_ss=7a22e&oh=00_Af5KmTnRXlJ4U6lWOWEQaIxcd7Hle4cQtDRTXtR6LmOAqw&oe=6A0409C2>
+
+<!-- END karecandida -->
 <!-- BEGIN lizzia -->
 <!-- Template generated with lct01tools and manually filled in by humans! -->
 #### *Heleonora lizzia* {#sec-heleonora-lizzia}
