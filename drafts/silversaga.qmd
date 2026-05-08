@@ -3464,7 +3464,7 @@ Dorsal view. Subject's arms extended outward; legs positioned and rotated as if 
 <!-- BEGIN karecandida -->
 <!-- Template generated with lct01tools and manually filled in by humans! -->
 #### *Heleonora karecandida* {#sec-heleonora-karecandida}
-***Heleonora karecandida*** Lemuria, 2026
+***Heleonora karecandida*** Lemuria, 2026; sp. nov.
 
 **Diagnosis**: *Heleonora karecandida* is characterized by its fabric, an unknown material from a solid white bedsheet.
 
