@@ -3579,19 +3579,16 @@ Angled lateral view. Subject facing camera. Skirt flaring outward in twirl-like 
 #### *Heleonora meganae* {#sec-heleonora-meganae}
 ***Heleonora meganae*** Lemuria, 2026
 
-**Diagnosis**: *Heleonora meganae* is characterized by
+**Diagnosis**: *Heleonora meganae* is characterized
+by its fabric, a linen consisting of two prints: a plaid (tartan)-like pattern on the bodice; with a vertical rectangle square plaid-like pattern on the skirt.
 
-**Description**:
-
-**Remarks**:
-
-**Etymology**: From
+**Etymology**: From *Megan* + *-ae*, feminine genitive suffix.
 
 **Specimens examined**
 
 **Holotype**: ***Megan 171.4071*** &mdash; Photograph.
 3024&times;4032.
-METADATAFROMHOLOTYPER <!-- TODO: fill in this holotype information -->
+Ventral view. Subject facing downward. Hair worn laterally, and slightly ventrally; noobscuration of neckline. Shallow depth of field. Subject's arms mostly adducted.
 *Heleonora meganae* wb. Megan.B., 2024.
 &copy; Megan Bynum or unknown photographer, 2024, all rights reserved.
 **Page**: ;
@@ -3601,7 +3598,7 @@ METADATAFROMHOLOTYPER <!-- TODO: fill in this holotype information -->
 
 ***Megan 171.4098*** &mdash; Photograph.
 3024&times;4032.
-METADATAFROMHOLOTYPER <!-- TODO: fill in this holotype information -->
+Ventral view. Subject facing downward. Similar pose to *Megan 171.4071*. Shallow depth of field. Very minor out-of-frame truncation of skirt hemline on right. Subject's left arm extended outward, holding skirt. Right arm adducted.
 *Heleonora meganae* wb. Megan.B., 2024.
 &copy; Megan Bynum or unknown photographer, 2024, all rights reserved.
 **Page**: ;
@@ -3723,32 +3720,32 @@ Ventral view. Full-body, zoomed out. Subject tilting slightly to left. Hair posi
 #### *Heleonora vanhoofae* {#sec-heleonora-vanhoofae}
 ***Heleonora vanhoofae*** Lemuria, 2026
 
-**Diagnosis**: *Heleonora vanhoofae* is characterized by
+**Diagnosis**: *Heleonora vanhoofae* is characterized by its fabric, a bedsheet made of an unknown material, with a solid light pink color.
 
-**Description**:
+**Remarks**: See @vanhoof2024 for Karen's original Instagram post.
 
-**Remarks**:
-
-**Etymology**: From
+**Etymology**: From *Van Hoof* + *-ae*, feminine genitive suffix.
 
 **Specimens examined**
 
+**Photography conditions.** Both photographs have differing conditions and are described separately. **Locality of both photographs.** Belgium: Flemish Community: Flemish Region: Flemish Brabant: Vilvoorde; 50.56&deg;N, 4.25&deg;E ± 1.1 km (inferred from Instagram posts); near Brussels.
+
 **Holotype**: ***Karen 209.1067*** &mdash; Photograph.
 2341&times;2926.
-METADATAFROMHOLOTYPER <!-- TODO: fill in this holotype information -->
+Angled ventral view. Subject standing at double-door entrance, partially open. Subject reflected twice in both glass panels. Daylight; lights in interior of house shut off. Subject's left arm placed dorsally. Hair posiitioned laterally; significant occlusion of right strap.
 *Heleonora vanhoofae* wb. Karen V.H., 2024.
 &copy; Karen Van Hoof or unknown photographer, 2024, all rights reserved.
-**Page**: ;
+**Page**: @sleeveless_eleonora_gallery;
 **SHA2-256**: `02aafdc7e4b7b3828656eb09e6f27b06c4a3dc1bf0a096b2e994e8b847595cb8`{.hash};
 **Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Karen_Van_Hoof3.jpg?v=1720291688>;
 **IA**: <https://web.archive.org/web/20260408100526/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Karen_Van_Hoof3.jpg?v=1720291688>
 
 ***Karen 209.1145*** &mdash; Photograph.
 2095&times;2619.
-METADATAFROMHOLOTYPER <!-- TODO: fill in this holotype information -->
+Truncated ventral view. Subject sitting on unknown white mat. Glass bottle of perfume on floor alongside multiple *Rosa* spp. in wooden basket.
 *Heleonora vanhoofae* wb. Karen V.H., 2024.
 &copy; Karen Van Hoof or unknown photographer, 2024, all rights reserved.
-**Page**: ;
+**Page**: @sleeveless_eleonora_gallery;
 **SHA2-256**: `dec9990bd1c603cce11ef2d3e92b642de6905fdd57dca9559952a5fb81f0f99f`{.hash};
 **Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Karen_Van_Hoof6.jpg?v=1720291689>;
 **IA**: <https://web.archive.org/web/20260408100300/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Karen_Van_Hoof6.jpg?v=1720291689>
