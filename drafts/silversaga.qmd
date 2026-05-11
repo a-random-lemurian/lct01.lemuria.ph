@@ -4078,13 +4078,13 @@ Ventral view. Dress on wooden hanger in front of window with curtain. Dress fabr
 **Tana** Lemuria, 2026; unranked
 
 **Remarks**: Though Liberty fabrics are technically out of the scope of this monograph, which is about Silversaga, we include descriptions of some fabrics that have recurred for the first time in the LCT-01. The below taxa are considered *incertae sedis* within the root of the LCT-01; that is, not in domain Vestimentia.
-Liberty also reuses names for multiple distinct designs; either the barcode or LCT-01 binomial name can be used for disambiguation.
+Liberty also reuses names for multiple distinct designs; either the barcode (the term used on the Liberty website for an SKU) or LCT-01 binomial name can be used for disambiguation.
+
+**On floral prints in general.** Biological accuracy is often not a consideration when designers design floral prints. Thus, the jargon used in botanical treatments is unsuitable as-is, and just like many other components of biological taxonomy, will require significant modification to accurately describe the morphology of fabric flowers. Flowers by themselves are not plants; they are the reproductive structures of flowering plants (the clade Angiospermae). Anecdotally, the lead author observes that fabric designers often prioritize the flower over the other parts of a plant; especially in top-down views where the non-flower body is not seen. As such, botanical treatments pertaining to any of the leaves, stems, and roots of an angiosperm are likely to go unused.
 
 **Reproducibility**. Images from Liberty's website have serious unresolved reproducibility concerns. See @sec-liberty.
 
 **Diagrams**. We have created diagrams of the features on some of the fabric holotypes. They are intended to be downloaded as is without images. The user can then align the diagram with the images directly obtained from Liberty's website. We do not embed the files themselves due to copyright concerns.
-
-**On floral prints in general.** Biological accuracy is often not a consideration when floral prints. Thus, the botanical descriptions seen in botanical papers is unsuitable as-is, and will require significant modification to accurately describe
 
 ### Genus *Tanaflora* {#sec-tanaflora}
 #### *Tanaflora betsia* {#sec-tanaflora-betsia}
