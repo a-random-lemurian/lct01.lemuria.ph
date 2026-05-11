@@ -3752,13 +3752,17 @@ Truncated ventral view. Subject sitting on unknown white mat. Glass bottle of pe
 
 <!-- END vanhoofae -->
 <!-- END Shira -->
-  
 
 ### *Heleonora* subg. *Elastica*
 ***Heleonora* subgenus *Elastica*** Lemuria, 2026; first public desc.
 
 **Taxonomic placement**: Placed in *Heleonora*.
 
+**Diagnosis**: *Heleonora* subg. *Elastica* is distinguished from subg. *Shira* by the lack of shirring and the presence of elastic channels.
+
+**Etymology**: Pseudo-Latin form of English *elastic*.
+
+<!-- BEGIN Unilastica -->
 ### *Heleonora* sect. *Unilastica*
 ***Heleonora* section *Unilastica*** Lemuria, 2026; first public desc.
 
