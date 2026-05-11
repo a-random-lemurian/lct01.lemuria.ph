@@ -4018,7 +4018,7 @@ TODO: Have a big long think about whether to reupload to IA.
 #### *Heleonora fraxina* {#sec-heleonora-fraxina}
 ***Heleonora fraxina*** Lemuria, 2026; first public desc.
 
-**Taxonomy**: Placed in *Heleonora* sect. 
+**Taxonomy**: Placed in *Heleonora* sect. *Trilastica*.
 
 **Diagnosis**: *Heleonora fraxina* is characterized by the usage of the fabric *Tanaflora betsia* (@sec-tanaflora-betsia) and having been sewn by Ashley General.
 <!-- Dependency graph?
