@@ -329,6 +329,51 @@ taxa:
                     wearer:
                       <<: *karen_vh
                       year: 2024
+              karecandida:
+                # https://www.instagram.com/p/C9JwS5DMp2M/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==
+                rank: species
+                describer: Lemuria, 2026
+                holotype:
+                  - view: ventral
+                    name: Karen 210.1439.92994
+                    width: 1440
+                    height: 1800
+                    sum:
+                      sha256: 402137d616bfa8235873967b018b6b0bd418f952fa315dc56b3f4564bd120b77
+                    urls:
+                      - provider: ia
+                        href: https://web.archive.org/web/20260508201712/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/653773839_18106517113869276_178601654437592994_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=MzQwNzQ2Njk5MTE2Mzg3MDIzNQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=-yYaxGaSkqwQ7kNvwFA4uLp&_nc_oc=AdoNGmmBOv_j9K_hO7NP4lrXYJl7Tt73t5_BX7lWPS14kGchcz6PXc-bl8SUYqHJnNE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=WegrsvC_if3z_IepqHbGvA&_nc_ss=7a22e&oh=00_Af5VnKc87FW1G5A3gH7j68KKNsZxZqZYiVUJAmE227y5lQ&oe=6A0406BA
+                    wearer: 
+                      <<: *karen_vh
+                      year: 2024
+                    cite_key: vanhoof_heleonorakarecandida_2024
+                types:
+                  - name: Karen 210.1439.71897
+                    view: dorsal
+                    width: 1440
+                    height: 1800
+                    sum:
+                      sha256: 2abf26f5823535da2f4519152bbd8740a81f738369c13c0a336880e868af18fd
+                    urls:
+                      - provider: ia
+                        href: https://web.archive.org/web/20260508201709/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/653700412_18028061573796598_427100016846671897_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=MzQwNzQ2Njk5MTI2NDYwMTc2Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=wDkAo3TpN30Q7kNvwFgHSPr&_nc_oc=AdrV9euKvDgVZxFQUE2DkiNKOBfSI0LvkpyTTnbacHVKkBWFnvj5Wa74MFdg-eLUoe8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=WegrsvC_if3z_IepqHbGvA&_nc_ss=7a22e&oh=00_Af5YSGAwi-cZJElYZqafIBPJMzlcZunGjNwHX1KQqDixpA&oe=6A043129
+                    wearer: 
+                      <<: *karen_vh
+                      year: 2024
+                    cite_key: vanhoof_heleonorakarecandida_2024
+                  - name: Karen 210.1439.43997
+                    view: ventral
+                    width: 1440
+                    height: 1796
+                    sum:
+                      sha256: cbdda809b9c834fb2213f1645bcf11635dbbafa1f51aaed5422825765cba5b0f
+                    urls:
+                      - provider: ia
+                        href: https://web.archive.org/web/20260508201716/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/656334026_18080120132093671_4012967633139543997_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=MzQwNzQ2Njk5MDk3OTMzNTczOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=x0IY0DnvuakQ7kNvwGguBDV&_nc_oc=Adql5Ri3a970nRYDdPYTpNf4FfOT1E5YoRQZakGBcbq2_MCSg74tq-NqBNbxgVqQQA4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=WegrsvC_if3z_IepqHbGvA&_nc_ss=7a22e&oh=00_Af5KmTnRXlJ4U6lWOWEQaIxcd7Hle4cQtDRTXtR6LmOAqw&oe=6A0409C2
+                    wearer: 
+                      <<: *karen_vh
+                      year: 2024
+                    cite_key: vanhoof_heleonorakarecandida_2024
               martinae:
                 # https://www.instagram.com/p/C9C7u56qDCr
                 rank: species
