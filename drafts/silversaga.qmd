@@ -196,9 +196,9 @@ During the early pattern period, Bethany won a copy of five patterns from Silver
 
 Her last name, Routamaa, is attested in pattern tester filenames.
 
-<!-- TODO: REPLACE THIS PLACEHOLDER! -->
-**Wearer of**: N spp.
-*Ae. bethanae* (@sec-argenteleonora-bethanae);
+**Wearer of**:
+*Ac. bethanae* (@sec-argenclara-bethanae),
+*Ae. bethanae* (@sec-argenteleonora-bethanae)
 
 ### Madeleine Salisbury {#sec-madeleine-salisbury}
 **Madeleine Claire Salisbury** (Instagram: &commat;[`made_by_madeleine.claire`{.hash}](https://instagram.com/made_by_madeleine.claire)) is an American sewist, originally from New York, now living in Prague, Czech Republic. Salisbury herself was discovered as part of yet-to-be-published taxonomic work on other patterns; specifically the Traveller coat by Bella Loves Patterns.
@@ -208,9 +208,10 @@ As stated on the description of <!-- TODO: WRITE DOWN THE BINOMIAL OF MADELEINE'
 Salisbury is one of Jessica's pattern testers; she has tested the Eleonora [@salisbury2024_eleonora; @salisbury2024_eleonora2], the Juliette [@salisbury2024]
 
 <!-- TODO: REPLACE THIS PLACEHOLDER! -->
-**Wearer of**: N spp.;
-Genus *Argenteleonora*: *madeleinae* (@sec-argenteleonora-madeleinae), *madeleinatra* (@sec-argenteleonora-madeleinatra);
-Genus *Julietta*: *madeleinae* (@sec-julietta-madeleinae)
+**Wearer of**: N spp.
+*Ae. madeleinae* (@sec-argenteleonora-madeleinae),
+*Ae. madeleinatra* (@sec-argenteleonora-madeleinatra),
+*J. madeleinae* (@sec-julietta-madeleinae)
 
 ### Laural Stapleton {#sec-laural-stapleton}
 **Laural Stapleton** (<https://www.themakerhaus.com/>; Instagram: &commat;[`themakerhaus`](https://instagram.com/themakerhaus)) is an American sewist and the operator of The Maker Haus, a small pattern label with two patterns, the Edie and the Nadine.
@@ -222,6 +223,8 @@ In the filenames, we consistently observed the spelling *Laural* for *Laural Sta
 Regardless, we have chosen to abbreviate her by her last name, *Stapleton*, as this is less likely to cause confusion as to the spelling of her first name.
 
 <!-- TODO: Heleonora lauralia -->
+**Wearer of**:
+*H. lauralia* (@sec-heleonora-lauralia)
 
 ## Person abbreviations {#sec-person-abbr}
 We define the following new person abbreviations.
