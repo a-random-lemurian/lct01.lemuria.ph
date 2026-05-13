@@ -3631,34 +3631,36 @@ Ventral view. Subject facing downward. Similar pose to *Megan 171.4071*. Shallow
 <!-- BEGIN nellia -->
 <!-- Template generated with lct01tools and manually filled in by humans! -->
 #### *Heleonora nellia* {#sec-heleonora-nellia}
-***Heleonora nellia*** Lemuria, 2026
+***Heleonora nellia*** Lemuria, 2026; sp. nov
 
-**Diagnosis**: *Heleonora nellia* is characterized by
+**Diagnosis**: *Heleonora nellia* is characterized by its fabric, consisting of a pattern of randomly rotated bouquets of blue flowers spaced out in a rough diagonal square grid, and by the presence of several gathered pieces of fabric constituting a trim located inferior to the skirt hemline.
 
 **Description**:
 
-**Remarks**:
+**Remarks**: See @colne2024 for Nelly's original Instagram post. Silversaga did not include Nelly in her four Instagram post compilation of *Heleonora* spp.; we located the post by checking the `SleevelessEleonoraDressPattern` tag on Instagram.
 
-**Etymology**: From
+**Etymology**: From *Nelly* + *-ia*.
 
 **Specimens examined**
 
+**Photography conditions.** The photographs were taken outdoors in a grass field, with a shallow depth of field. The subject wears a hair tie made of the same fabric in both photographs; this is considered a separate taxon.
+
 **Holotype**: ***Nelly 233.9071*** &mdash; Photograph.
 3000&times;4000.
-METADATAFROMHOLOTYPER <!-- TODO: fill in this holotype information -->
-*Heleonora nellia* wb. Nelly.C., .
+Ventral view. Subject facing to her left. Hair worn bilaterally, causing slight occlusion of right strap. Left strap fully visible. Subject's arms mostly adducted.
+*Heleonora nellia* wb. Nelly.C., 2024.
 &copy; Nelly Colne or unknown photographer, all rights reserved.
-**Page**: ;
+**Page**: @sleeveless_eleonora_gallery;
 **SHA2-256**: `d2b3950c36319184ea909bf88d3eb59e7b2947c2dd8b41fc23a4d37851671f12`{.hash};
 **Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Nelly_Colne11.jpg?v=1720292012>;
 **IA**: <https://web.archive.org/web/20260408100615/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Nelly_Colne11.jpg?v=1720292012>
 
 ***Nelly 233.9085*** &mdash; Photograph.
 2627&times;3524.
-METADATAFROMHOLOTYPER <!-- TODO: fill in this holotype information -->
-*Heleonora nellia* wb. Nelly.C., .
+Ventral view. Hair worn bilaterally. Major occlusion of left strap, slight occlusion of right strap due to hair strands . Subject looking slightly upward to her right. Arms mostly adducted, deliberately holding out skirt.
+*Heleonora nellia* wb. Nelly.C., 2024.
 &copy; Nelly Colne or unknown photographer, all rights reserved.
-**Page**: ;
+**Page**: @sleeveless_eleonora_gallery;
 **SHA2-256**: `dd9d50d4944641371e7220e049d796a90901c293bfdd8dc2f23763e9db9d5c37`{.hash};
 **Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Nelly_Colne5_a27a2593-3a57-4991-8819-696e1fa73532.jpg?v=1720292984>;
 **IA**: <https://web.archive.org/web/20260408100725/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Nelly_Colne5_a27a2593-3a57-4991-8819-696e1fa73532.jpg?v=1720292984>
