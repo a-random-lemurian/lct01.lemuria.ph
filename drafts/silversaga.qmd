@@ -4188,6 +4188,13 @@ Many filenames included the names of the pattern testers, which allowed identifi
 Juliette
 -->
 
+## Person coordinate system {#sec-person-coord}
+In this document, we use an *ad hoc* coordinate system modeled on right ascension and declination for describing the direction a specific feature is in from the perspective of the wearer.
+
+We define zero degrees as the direction at which the subject and the camera lens are able to face directly each other. 
+
+For photoshoots where the photographer switches position, zero degrees may change. If possible, we may also define the zero degree point as a more consistent landmark that appears in all photographs.
+
 # Appendix {#sec-appendix}
 ## Acknowledgements {#sec-acknowledgements}
 We used R; specifically, `ggtree`, to render tree figures. For information on `ggtree`, see @yuetal2017.
