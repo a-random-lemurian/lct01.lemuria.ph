@@ -3080,8 +3080,8 @@ We refine the description first provided in @lemuria_kew_2026.
 
 **Etymology**: Blend of *Helistola* + Latin *argenta*, feminine form of *argentum* ("silver"). -->
 
-## Superfamily Heltruettoidea {#sec-heltruettoidea}
-**Heltruettoidea** Lemuria, 2026; superfamilia nova
+## Clade Heltruettia {#sec-heltruettoidea}
+**Heltruettia** Lemuria, 2026; cladus novus
 
 **Taxonomic placement**: Placed in the class Helistola.
 
@@ -3100,6 +3100,8 @@ closure none. straps cross ventrally 0. straps cross dorsally 0. ventral medial 
 
 waist shirring no. waist elastic channels 2. 
 -->
+
+**Remarks**: There exists the potential that the Heltruettia may soon grow to encompass dresses designed in line with the cottagecore aesthetic. However, the LCT-01 uses physical morphology as its primary criteria, as opposed to the intended aesthetic and subculture of a garment.
 
 ## Family Heleonoridae {#sec-heleonoridae}
 **Heleonoridae** Lemuria, 2026; first public desc.
