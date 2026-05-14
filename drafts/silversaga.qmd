@@ -3689,7 +3689,7 @@ Ventral view. Hair worn bilaterally. Major occlusion of left strap, slight occlu
 Ventral view. Left arm fully adducted. Right arm reaching backward, in posture resembling at ease.
 *Heleonora rimforsia* wb. Rimfors, 2024.
 &copy; Tuss Rimfors or unknown photographer, 2024, all rights reserved.
-**Page**: ;
+**Page**: @sleeveless_eleonora_gallery;
 **SHA2-256**: `383343b7930238147ad2ca06e3e59dee8993a8b7bdec559fb567671ba3167ebf`{.hash};
 **Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Tuss_Rimfors.heic?v=1720291720>;
 **IA**: <https://web.archive.org/web/20260408100536/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Tuss_Rimfors.heic?v=1720291720>
@@ -3699,7 +3699,7 @@ Ventral view. Left arm fully adducted. Right arm reaching backward, in posture r
 Truncated ventral view focused on bodice. Subject's arms in at ease position.
 *Heleonora rimforsia* wb. Rimfors, 2024.
 &copy; Tuss Rimfors or unknown photographer, 2024, all rights reserved.
-**Page**: ;
+**Page**: @sleeveless_eleonora_gallery;
 **SHA2-256**: `1bd85dd6679d51c2409bb562bb83f96212eaef3d496e66044a0ba7da89f8f1dd`{.hash};
 **Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Tuss_Rimfors7.heic?v=1720291721>;
 **IA**: <https://web.archive.org/web/20260408100511/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Tuss_Rimfors7.heic?v=1720291721>
