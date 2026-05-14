@@ -3541,6 +3541,8 @@ Truncated ventral view. Hair positioned slightly dorsally; relatiely little occl
 
 **Diagnosis**: *Heleonora lizzia* is characterized by its fabric, a cotton lawn consisting of blue, yellow, and red flowers on a white background.
 
+**Remarks**: See @mcnally2024 for Liz's Instagram post.
+
 **Etymology**: From *Liz* + *-ia*. She uses *Lizzy* in her handle and has her account name set to *Liz*.
 
 **Specimens examined**
@@ -3605,7 +3607,7 @@ Angled lateral view. Subject facing camera. Skirt flaring outward in twirl-like 
 <!-- BEGIN meganae -->
 <!-- Template generated with lct01tools and manually filled in by humans! -->
 #### *Heleonora meganae* {#sec-heleonora-meganae}
-***Heleonora meganae*** Lemuria, 2026
+***Heleonora meganae*** Lemuria, 2026; sp. nov.
 
 **Diagnosis**: *Heleonora meganae* is characterized
 by its fabric, a linen consisting of two prints: a plaid (tartan)-like pattern on the bodice; with a vertical rectangle square plaid-like pattern on the skirt.
@@ -3748,7 +3750,7 @@ Ventral view. Full-body, zoomed out. Subject tilting slightly to left. Hair posi
 <!-- BEGIN vanhoofae -->
 <!-- Template generated with lct01tools and manually filled in by humans! -->
 #### *Heleonora vanhoofae* {#sec-heleonora-vanhoofae}
-***Heleonora vanhoofae*** Lemuria, 2026
+***Heleonora vanhoofae*** Lemuria, 2026; sp. nov.
 
 **Diagnosis**: *Heleonora vanhoofae* is characterized by its fabric, a bedsheet made of an unknown material, with a solid light pink color.
 
