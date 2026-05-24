@@ -9,9 +9,6 @@ wearers:
   ashley: &ashley
     abbr: Ashley.G.
     name: Ashley General
-  elizabeth: &elizabeth
-    abbr: Elizabeth.M.
-    name: Elizabeth McNally
   stephanie_g: &stephanieg
     abbr: Stephanie.G.
     name: Stephanie Garcia
@@ -443,6 +440,7 @@ taxa:
                       <<: *bynum
                       year: 2024
               nellia:
+                # https://www.instagram.com/p/C9FXcOONajp/
                 rank: species
                 describer: Lemuria, 2026
                 holotype:
@@ -588,42 +586,44 @@ taxa:
                         href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Tuss_Rimfors7.heic?v=1720291721
                       - provider: ia
                         href: https://web.archive.org/web/20260408100511/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Tuss_Rimfors7.heic?v=1720291721
-              lizzia:
-                # https://www.instagram.com/seamrippinlizzy/
-                # https://www.instagram.com/p/C9C6YdjRAy3
-                # https://www.instagram.com/reel/C9C6bduRZcX
+
+              larissae:
                 rank: species
-                describer: Lemuria, 2026
+                describer: Lemuria, 2026; sp. nov.
                 holotype:
-                  - view: ventral
-                    name: McNally 20.23014
-                    width: 2316
-                    height: 3088
-                    urls:
-                      - provider: orig
-                        href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Elizabeth_McNally2.jpg?v=1720291681
-                      - provider: ia
-                        href: https://web.archive.org/web/20260408095919/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Elizabeth_McNally2.jpg?v=1720291681
-                    sum:
-                      sha256: 6f27893b736fbebf44fbfc24fec10afd2487c4cda1d91daec6de441a9bfbf77b
-                    wearer:
-                      <<: *elizabeth
-                      year: 2024
-                types:
-                  - view: ventral
-                    name: McNally 20.23710
+                  - name: Huber 2024.40553.197
+                    view: ventral
                     width: 3024
                     height: 4032
+                    sum: 
+                      sha256: 3ae998174f4d83c9794d2d3dfeb0832833b14006768a6df9dfa5f0a3ee012526
                     urls:
                       - provider: orig
-                        href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Elizabeth_McNally3.jpg?v=1720291681
+                        href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Larissa_Huber3.jpg?v=1720291691
                       - provider: ia
-                        href: https://web.archive.org/web/20260408095920/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Elizabeth_McNally3.jpg?v=1720291681
-                    sum:
-                      sha256: f46504965fb55a6e9a4ac4c7cab6f2e9835967042cf474b5e9162b4f9ec90bee
+                        href: https://web.archive.org/web/2/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Larissa_Huber3.jpg?v=1720291691
                     wearer:
-                      <<: *elizabeth
+                      abbr: Larissa.H.
+                      name: Larissa Huber
                       year: 2024
+                    cite_key: sleeveless_eleonora_gallery
+                types:
+                  - name: Huber 2024.40553.445
+                    view: ventral
+                    width: 2134
+                    height: 2988
+                    sum: 
+                      sha256: 3fb789a3164bb160db11ad18cee837b86da4de2e30211b41df4f4a184f4948d4
+                    urls:
+                      - provider: orig
+                        href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Larissa_Huber.jpg?v=1720291689
+                      - provider: ia
+                        href: https://web.archive.org/web/2/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Larissa_Huber.jpg?v=1720291689
+                    wearer:
+                      abbr: Larissa.H.
+                      name: Larissa Huber
+                      year: 2024
+                    cite_key: sleeveless_eleonora_gallery
               
               blantonia:
                 rank: species
