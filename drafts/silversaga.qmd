@@ -388,12 +388,16 @@ Furthermore, Imginn's interface prevents direct linkage of each individual story
 <!-- 
 Imginn also did not have all accounts available; and because Instagram's interface itself prevents scrolling down by means of a login wall, we were unable to document certain species. Our lead author remains hesitant to create an Instagram account -->
 
-#### Mapping
+<!-- #### Mapping
 We publish maps of holotype locations in this monograph. We only include holotype locations in the map with at least city-level precision. These coordinates should be treated as approximate. To further reinforce this, we have placed many of the holotype locations in nearby bodies of water.
 
 In the raw data itself, which we make available, we set a key, `max_precision`, a number corresponding to OpenStreetMap's `admin_level` value. Countries are 2, states and provinces are 4, and counties (in America) are 6. These are not linked to specific OpenStreetMap identifiers for administrative boundaries.
 
 We also set the special value `100` for city-level precision, or in the case of the United States, metro area-level precision.
+
+
+-- Unfortunately had to rescind this as the deadline was approaching and we didn't get enough data.
+-->
 
 ### Images {#sec-images}
 As our lead author had no Instagram account at the start of the monograph, he used Imginn, an online service that allows Instagram to be viewed without an account. He eventually created an Instagram account at &commat;[`lemuriaph`](https://instagram.com/lemuriaph) on April 16, 2026, to access numerous public accounts that were unavailable through Imginn.
