@@ -4735,6 +4735,9 @@ We thank one of the Coffee Shop's members, elypony, who helped double-check the 
 
 And, we also point out the incredible coincidence that Silversaga is from the same country that gave birth to one of taxonomy's greatest figures; Carl Linnaeus himself. And now, a Swedish woman and her patterns are the subject of a monograph.
 
+## Data availability
+Supplementary data is available on Zenodo.
+
 ## Information {#sec-information}
 *Lemuria's (Informal) Journal of Clothing Taxonomy* is the gray literature journal of the First Lemurian Clothing Taxonomy, a system by Lemuria to assign Latin names to dresses using biological methods. The author, known mononymically as just Lemuria, is an Filipino programmer and independent gray literature researcher from Manila.
 
