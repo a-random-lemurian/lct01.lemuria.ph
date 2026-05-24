@@ -3534,42 +3534,41 @@ Truncated ventral view. Hair positioned slightly dorsally; relatiely little occl
 **IA**: <https://web.archive.org/web/20260508201716/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/656334026_18080120132093671_4012967633139543997_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=MzQwNzQ2Njk5MDk3OTMzNTczOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=x0IY0DnvuakQ7kNvwGguBDV&_nc_oc=Adql5Ri3a970nRYDdPYTpNf4FfOT1E5YoRQZakGBcbq2_MCSg74tq-NqBNbxgVqQQA4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=WegrsvC_if3z_IepqHbGvA&_nc_ss=7a22e&oh=00_Af5KmTnRXlJ4U6lWOWEQaIxcd7Hle4cQtDRTXtR6LmOAqw&oe=6A0409C2>
 
 <!-- END karecandida -->
-<!-- BEGIN lizzia -->
+<!-- BEGIN larissae -->
 <!-- Template generated with lct01tools and manually filled in by humans! -->
-#### *Heleonora lizzia* {#sec-heleonora-lizzia}
-***Heleonora lizzia*** Lemuria, 2026; sp. nov.
+#### *Heleonora larissae* {#sec-heleonora-larissae}
+***Heleonora larissae*** Lemuria, 2026; sp. nov.
 
-**Diagnosis**: *Heleonora lizzia* is characterized by its fabric, a cotton lawn consisting of blue, yellow, and red flowers on a white background.
+**Diagnosis**: *Heleonora larissae* is characterized by its fabric, an unknown material with a white background, featuring a blue monochrome depiction of a medieval rural area, vaguely reminiscent of England. Several humans (*Homo sapiens* Linnaeus, 1758) are seen interacting with unknown animals (Animalia spp.).
 
-**Remarks**: See @mcnally2024 for Liz's Instagram post.
-
-**Etymology**: From *Liz* + *-ia*. She uses *Lizzy* in her handle and has her account name set to *Liz*.
+**Etymology**: From *Larissa* + *-ae*.
 
 **Specimens examined**
 
-**Photography conditions.** The photograhs were taken in daylight conditions with the sun behind the photographer.
+**Photography conditions**: The saturation of the blue pattern on Larissa's dress differs between both photographs.
 
-**Holotype**: ***McNally 20.23014*** &mdash; Photograph.
-2316&times;3088.
-Truncated close ventral view. Area superior to lips out of frame; skirt out of frame. Hair likely tied dorsally; no occlusion of neckline.
-*Heleonora lizzia* wb. Elizabeth.M., 2024.
-&copy; Elizabeth McNally or unknown photographer, 2024, all rights reserved.
-**Page**: @sleeveless_eleonora_gallery;
-**SHA2-256**: `6f27893b736fbebf44fbfc24fec10afd2487c4cda1d91daec6de441a9bfbf77b`{.hash};
-**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Elizabeth_McNally2.jpg?v=1720291681>;
-**IA**: <https://web.archive.org/web/20260408095919/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Elizabeth_McNally2.jpg?v=1720291681>
-
-***McNally 20.23710*** &mdash; Photograph.
+**Holotype**: ***Huber 2024.40553.197*** &mdash; Photograph.
 3024&times;4032.
-Ventral view. Subject standing on metal platform near large body of water. Shadow behind subject visible on left foot, indicating that photographer is positioned between subject and Sol.
-*Heleonora lizzia* wb. Elizabeth.M., 2024.
-&copy; Elizabeth McNally or unknown photographer, 2024, all rights reserved.
+Truncated ventral view. Entire head in frame; inferior portions of skirt out of frame. Hair positioned ventrally, occluding left strap significantly, and right strap to lesser extent.
+*Heleonora larissae* wb. Larissa.H., 2024.
+&copy; Larissa Huber or unknown photographer, 2024, all rights reserved.
 **Page**: @sleeveless_eleonora_gallery;
-**SHA2-256**: `f46504965fb55a6e9a4ac4c7cab6f2e9835967042cf474b5e9162b4f9ec90bee`{.hash};
-**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Elizabeth_McNally3.jpg?v=1720291681>;
-**IA**: <https://web.archive.org/web/20260408095920/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Elizabeth_McNally3.jpg?v=1720291681>
+**SHA2-256**: `3ae998174f4d83c9794d2d3dfeb0832833b14006768a6df9dfa5f0a3ee012526`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Larissa_Huber3.jpg?v=1720291691>;
+**IA**: <https://web.archive.org/web/2/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Larissa_Huber3.jpg?v=1720291691>
 
-<!-- END lizzia -->
+***Huber 2024.40553.445*** &mdash; Photograph.
+2134&times;2988.
+Truncated ventral view. Head out of frame; inferior portions of skirt out of frame.
+Hair positioned ventrally, occluding left strap significantly, and right strap to lesser extent.
+*Heleonora larissae* wb. Larissa.H., 2024.
+&copy; Larissa Huber or unknown photographer, 2024, all rights reserved.
+**Page**: @sleeveless_eleonora_gallery;
+**SHA2-256**: `3fb789a3164bb160db11ad18cee837b86da4de2e30211b41df4f4a184f4948d4`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Larissa_Huber.jpg?v=1720291689>;
+**IA**: <https://web.archive.org/web/2/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Larissa_Huber.jpg?v=1720291689>
+
+<!-- END larissae -->
 <!-- BEGIN martinae -->
 <!-- Template generated with lct01tools and manually filled in by humans! -->
 #### *Heleonora martinae* {#sec-heleonora-martinae}
