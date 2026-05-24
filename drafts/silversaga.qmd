@@ -3918,6 +3918,526 @@ Truncated ventral view. Hair positioned ventrally, less occlusion of straps as h
 
 **Taxonomic placement**: Placed in *Heleonora* subg. *Elastica*.
 
+**Diagnosis**: *Heleonora* sect. *Duolastica* is characterized by the presence of two elastic channels on the waist.
+
+**Etymology**: *Duo-* ("two") + *elastica* ("elastic").
+
+**Type species**:
+
+<!-- BEGIN alinae -->
+<!-- Template generated with lct01tools and manually filled in by humans! -->
+#### *Heleonora alinae* {#sec-heleonora-alinae}
+***Heleonora alinae*** Lemuria, 2026; sp. nov.
+
+**Diagnosis**: *Heleonora alinae* is characterized by its fabric, a plain white fabric made of an unknown material.
+
+**Remarks**: Wegner does not appear to have any posts about *H. alinae* on her Instagram timeline. Posts from around July 2024 only include unpublished Helargemmidae and Argenclaridae spp.
+
+**Etymology**: From *Alina* + *-ae*.
+
+**Specimens examined**
+
+**Holotype**: ***Wegner 2024.29761.50*** &mdash; Photograph.
+2764&times;3925.
+Ventral view. Subject facing towards right. Skirt deliberately held out using arms to showcase details.
+*Heleonora alinae* wb. Alina.W., 2024.
+&copy; Alina Wegner or unknown photographer, 2024, all rights reserved.
+**Page**: @sleeveless_eleonora_gallery;
+**SHA2-256**: `dbdd37f9ad212f2dde64f7765da22c0d800472d538afd32da262182abff63020`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Alina_Wegner2.jpg?v=1720291671>;
+**IA**: <https://web.archive.org/web/20260408100321/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Alina_Wegner2.jpg?v=1720291671>
+
+***Wegner 2024.29761.70*** &mdash; Photograph.
+3024&times;4032.
+Truncated ventral view. Left lateral edge of dress, inferior portions of skirt, and face out of frame. Compared to *.50*, clearer view of ventral waist channels and ventral medial ties.
+*Heleonora alinae* wb. Alina.W., 2024.
+&copy; Alina Wegner or unknown photographer, 2024, all rights reserved.
+**Page**: @sleeveless_eleonora_gallery;
+**SHA2-256**: `745251dcc7e5e1d2365ecb2139c227530272b8546fbb8f1b401015e78224c972`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Alina_Wegner7.jpg?v=1720291672>;
+**IA**: <https://web.archive.org/web/20260408100324/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Alina_Wegner7.jpg?v=1720291672>
+
+<!-- END alinae -->
+<!-- BEGIN alinaebis -->
+<!-- Template generated with lct01tools and manually filled in by humans! -->
+#### *Heleonora alinaebis* {#sec-heleonora-alinaebis}
+***Heleonora alinaebis*** Lemuria, 2026; sp. nov.
+
+**Diagnosis**: *Heleonora alinaebis* is characterized by its fabric, a white fabric made of an unknown material, with a subtle floral pattern consisting of light blue flowers and green stems and leaves.
+
+**Etymology**: From *Alina* + *-ae*, and Latin *-bis* ("twice"), as it is Alina's second *Heleonora* make.
+
+**Specimens examined**
+
+**Holotype**: ***Wegner 2024.376.33009*** &mdash; Photograph.
+3039&times;4032.
+Ventral view. Subject facing downward. Subject's hair draped ventrally on right, obscuring strap. Arms fully adducted.
+*Heleonora alinaebis* wb. Alina.W., 2024.
+&copy; Alina Wegner or unknown photographer, 2024, all rights reserved.
+**Page**: @sleeveless_eleonora_gallery;
+**SHA2-256**: `339337b43e4e521c8003b3d107000916e48fd722964196ee5cef96bef11fb2b2`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Alina_Wegner.jpg?v=1720291668>;
+**IA**: <https://web.archive.org/web/20260408100105/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Alina_Wegner.jpg?v=1720291668>
+
+***Wegner 2024.376.33510*** &mdash; Photograph.
+3024&times;4032.
+Truncated ventral view. Hair positioned dorsally; no occlusion of straps. Head out of frame. Inferior portion of skirt out of frame.
+*Heleonora alinaebis* wb. Alina.W., 2024.
+&copy; Alina Wegner or unknown photographer, 2024, all rights reserved.
+**Page**: @sleeveless_eleonora_gallery;
+**SHA2-256**: `79e337393488456120b6b4821f0f1478691eb5f2f7db1625c64952ecb4d09eee`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Alina_Wegner2_2.jpg?v=1720291726>;
+**IA**: <https://web.archive.org/web/20260408100110/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Alina_Wegner2_2.jpg?v=1720291726>
+
+<!-- END alinaebis -->
+<!-- BEGIN angelae -->
+<!-- Template generated with lct01tools and manually filled in by humans! -->
+#### *Heleonora angelae* {#sec-heleonora-angelae}
+***Heleonora angelae*** Lemuria, 2026; sp. nov.
+
+**Diagnosis**: *Heleonora angelae* is characterized by its fabric, an unknown material with a blue floral print on a green background.
+
+**Etymology**: From *Angel* + *-ae*.
+
+**Specimens examined**
+
+**Holotype**: ***Pickard 2024.17275.200*** &mdash; Photograph.
+3024&times;4032.
+Ventral view. Subject's arms mostly adducted. Hair positioned ventrally, medial to right strap. Subject in field of yellow flowers, daylight conditions.
+*Heleonora angelae* wb. Angela.P., 2024.
+&copy; Angela Pickard or unknown photographer, 2024, all rights reserved.
+**Page**: @sleeveless_eleonora_gallery;
+**SHA2-256**: `9cde027b41ce14c6ba59921e7535adc8fd980c854cbc0eeaf344386d80c1df41`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Angela_Pickard2.jpg?v=1720291672>;
+**IA**: <https://web.archive.org/web/20260408100716/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Angela_Pickard2.jpg?v=1720291672>
+
+***Pickard 2024.17275.600*** &mdash; Photograph.
+3024&times;4032.
+Ventral view. Subject's arms mostly adducted. Hair positioned mostly dorsally, with slight bilateral ventral drape causing mild occlusion of straps. Skirt intentionally flared forward.
+*Heleonora angelae* wb. Angela.P., 2024.
+&copy; Angela Pickard or unknown photographer, 2024, all rights reserved.
+**Page**: @sleeveless_eleonora_gallery;
+**SHA2-256**: `eb9ad694ab24b20c3b1a3834d90a23bfe1be3fe5d420fd19b318a6925d019604`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Angela_Pickard6.jpg?v=1720291671>;
+**IA**: <https://web.archive.org/web/20260408100726/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Angela_Pickard6.jpg?v=1720291671>
+
+<!-- END angelae -->
+<!-- BEGIN bethanae -->
+<!-- Template generated with lct01tools and manually filled in by humans! -->
+#### *Heleonora bethanae* {#sec-heleonora-bethanae}
+***Heleonora bethanae*** Lemuria, 2026; sp. nov.
+
+**Diagnosis**: *Heleonora bethanae* is characterized byits fabric, a double gauze from Lyrical Fabrics in a solid brown/clay/terracotta color. Care must be taken to avoid confusing *H. bethanae* with *H. lauralia*; *H. bethanae* has two elastic channels, consistent with its placement in section *Duolastica*, while *H. lauralia* only has one.
+
+**Etymology**: From *Bethany* + *-ae*.
+
+**Specimens examined**
+
+**Holotype**: ***Bethany 2024.59330.400*** &mdash; Photograph.
+2316&times;3088.
+Truncated ventral view.
+Subject's hair positioned dorsally; no occlusion of neckline.
+*Heleonora bethanae* wb. Bethany.L., 2024.
+&copy; Bethany Lynne or unknown photographer, 2024, all rights reserved.
+**Page**: @sleeveless_eleonora_gallery;
+**SHA2-256**: `53602ffa70aa6ad2ac3e2426a81547f4976bd8e042e635441c450d4f83c07124`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/BETHANY_ROUTAMAA_4.jpg?v=1720291675>;
+**IA**: <https://web.archive.org/web/20260408100217/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/BETHANY_ROUTAMAA_4.jpg?v=1720291675>
+
+***Bethany 2024.59330.100*** &mdash; Photograph.
+2796&times;4032.
+Ventral view. Subject's hair positioned ventrally on her right, with arm reaching for chin; right strap occluded as a result. Subject underneath wooden structure with significant sun cover provided by vegetation.
+*Heleonora bethanae* wb. Bethany.L., 2024.
+&copy; Bethany Lynne or unknown photographer, 2024, all rights reserved.
+**Page**: @sleeveless_eleonora_gallery;
+**SHA2-256**: `8a465c1a4c2007c383ab0db112c7da9c47e6123f0ecdff0df819f9b602e8a5b6`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/BETHANY_ROUTAMAA_1.jpg?v=1720291674>;
+**IA**: <https://web.archive.org/web/20260408100217/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/BETHANY_ROUTAMAA_1.jpg?v=1720291674>
+
+<!-- END bethanae -->
+<!-- BEGIN bouteillerae -->
+<!-- Template generated with lct01tools and manually filled in by humans! -->
+#### *Heleonora bouteillerae* {#sec-heleonora-bouteillerae}
+***Heleonora bouteillerae*** Lemuria, 2026; sp. nov.
+
+**Diagnosis**: *Heleonora bouteillerae* is characterized by its fabric, an unknown white material with a subtle floral pattern consisting of flowers with stems reaching out in all directions, alongside individual red leaves.
+
+**Etymology**: From *Bouteiller* + *-ae*.
+
+**Specimens examined**
+
+**Holotype**: ***Bouteiller 2024.35611.300*** &mdash; Photograph.
+3982&times;4978.
+Ventral view.
+Subject sitting in grass field. Saturation high; grass appears to have a darker color; though it may also be the result of shade as seen in *.120*. Hair positioned ventrally. Arms converge medially, with hands overlaid on top of each other; left arm position occludes portions of bodice.
+*Heleonora bouteillerae* wb. Sarah.Bou., 2024.
+&copy; Sarah Bouteiller or unknown photographer, 2024, all rights reserved.
+**Page**: @sleeveless_eleonora_gallery;
+**SHA2-256**: `b5f230279549aca2266870267fdb419bce52c64b9887e1e555c564620fd15a4a`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Sarah_Bouteiller3.jpg?v=1720291711>;
+**IA**: <https://web.archive.org/web/20260408100930/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Sarah_Bouteiller3.jpg?v=1720291711>
+
+***Bouteiller 2024.35611.120*** &mdash; Photograph.
+3993&times;4991.
+Ventral view. Subject standing in grass field. Shadow cast by subject faces photographer. Arms extended outward; hair positioned dorsally; virtually no obscuration of ventral bodice.
+*Heleonora bouteillerae* wb. Sarah.Bou., 2024.
+&copy; Sarah Bouteiller or unknown photographer, 2024, all rights reserved.
+**Page**: @sleeveless_eleonora_gallery;
+**SHA2-256**: `9023db2824a93252207a44e2392a0afda8b7458f2f79867f52f5e5b70275e3d7`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Sarah_Bouteiller12.jpg?v=1720291713>;
+**IA**: <https://web.archive.org/web/20260408095919/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Sarah_Bouteiller12.jpg?v=1720291713>
+
+<!-- END bouteillerae -->
+<!-- BEGIN caydenae -->
+<!-- Template generated with lct01tools and manually filled in by humans! -->
+#### *Heleonora caydenae* {#sec-heleonora-caydenae}
+***Heleonora caydenae*** Lemuria, 2026; sp. nov.
+
+**Diagnosis**: *Heleonora caydenae* is characterized by its fabric, an unknown material consisting of flowers on a white background. The flowers dominate some >85% of the surface area of the fabric, and invariably contain at least five petals.
+
+**Etymology**: From *Cayden* + *-ae*.
+
+**Specimens examined**
+
+**Holotype**: ***Cayden 2024.25677.14*** &mdash; Photograph.
+2316&times;3088.
+Far ventral view. Subject facing away. Hair positioned laterally; very little occlusion of neckline.
+<!-- She's got a cowboy hat on. Is it a cowboy hat or is it Mexican? I don't know, but regardless, yee-haw!!! Cowboy-like boots too, but those boots are definitely *not* part of Abtruncusa. -->
+*Heleonora caydenae* wb. Cayden.Na., 2024.
+&copy; Cayden Naughton or unknown photographer, 2024, all rights reserved.
+**Page**: @sleeveless_eleonora_gallery;
+**SHA2-256**: `ac2a6a6aa97ecd37566dbff23f46fd607dbf47124540a0bd8c66014b4b73c95e`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Cayden_Naughton14.jpg?v=1720291678>;
+**IA**: <https://web.archive.org/web/20260408100423/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Cayden_Naughton14.jpg?v=1720291678>
+
+***Cayden 2024.25677.12*** &mdash; Photograph.
+2316&times;3088.
+Closer ventral view. Subject facing camera. Hair positioned laterally; slightly occluding right strap. Left strap entirely visible. Entire dress in frame. 
+<!-- Because we are not foot fetishists, we do not care if her feet are not showing in this image. The entire dress is showing, and that is taxonomically relevant. -->
+*Heleonora caydenae* wb. Cayden.Na., 2024.
+&copy; Cayden Naughton or unknown photographer, 2024, all rights reserved.
+**Page**: @sleeveless_eleonora_gallery;
+**SHA2-256**: `24d69387c6527fff75fc00c39d64b69db125d70bc832149b7fa57dcdbb4e7edc`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Cayden_Naughton12.jpg?v=1720291677>;
+**IA**: <https://web.archive.org/web/20260408100419/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Cayden_Naughton12.jpg?v=1720291677>
+
+<!-- END caydenae -->
+<!-- BEGIN cynthiae -->
+<!-- Template generated with lct01tools and manually filled in by humans! -->
+#### *Heleonora cynthiae* {#sec-heleonora-cynthiae}
+***Heleonora cynthiae*** Lemuria, 2026; sp. nov.
+
+**Diagnosis**: *Heleonora cynthiae* is characterized by its fabric, a mostly white background with mostly-monochrome depictions of unknown Plantae spp.; and a slightly saturated yellow flower, and a grid-like pattern at the hem.
+
+**Etymology**: From *Cynthia* + *-ae*.
+
+**Specimens examined**
+
+**Holotype**: ***Cynthia 2024.194735.75*** &mdash; Photograph.
+2316&times;3088.
+Angled ventral view. Dress significantly flared forward. Hair not long enough to obscure any portion of bodice. Romo is likely holding a camera remote trigger device on her right arm.
+*Heleonora cynthiae* wb. Cynthia.R., 2024.
+&copy; Cynthia Romo or unknown photographer, 2024, all rights reserved.
+**Page**: @sleeveless_eleonora_gallery;
+**SHA2-256**: `e1383211a2e1f31da7598b211b70dfdda9925b9ebe33b5e5d1cee7252bacb40c`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Cynthia_Romo4.jpg?v=1720291681>;
+**IA**: <https://web.archive.org/web/2/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Cynthia_Romo4.jpg?v=1720291681>
+
+***Cynthia 2024.194735.38*** &mdash; Photograph.
+3024&times;4032.
+Angled ventral view. Dress significantly flared forward. Hair not long enough to obscure any portion of bodice.
+*Heleonora cynthiae* wb. Cynthia.R., 2024.
+&copy; Cynthia Romo or unknown photographer, 2024, all rights reserved.
+**Page**: @sleeveless_eleonora_gallery;
+**SHA2-256**: `b45bdfb2671b4686307f2f7e4f2eea5fd1bf3e8dbdda4d11206c7060c338f8af`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Cynthia_Romo.jpg?v=1720291680>;
+**IA**: <https://web.archive.org/web/20260408100526/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Cynthia_Romo.jpg?v=1720291680>
+
+<!-- END cynthiae -->
+<!-- BEGIN jenae -->
+<!-- Template generated with lct01tools and manually filled in by humans! -->
+#### *Heleonora jenae* {#sec-heleonora-jenae}
+***Heleonora jenae*** Lemuria, 2026; sp. nov.
+
+**Diagnosis**: *Heleonora jenae* is characterized by its fabric, an unknown material with flowers on a white background. The flowers are unidentifiable, though a major accent color amongst them is pink; with equally as much green, and to a rarer extent, pale yellow.
+
+**Etymology**: From *Jen* + *-ae*.
+
+**Specimens examined**
+
+**Holotype**: ***Jen 2024.3348.119*** &mdash; Photograph.
+3024&times;4032.
+Ventral view. Inferior portions of skirt out of frame. Subject has knit jacket partially covering lower arms. Hair positioned ventrally, obscuring left strap significantly.
+*Heleonora jenae* wb. Jen Legg, 2024.
+&copy; Jen Legg or unknown photographer, 2024, all rights reserved.
+**Page**: @sleeveless_eleonora_gallery;
+**SHA2-256**: `ebfa152582c074d0afec902dddec378e2ec8788e2506f15d61f753140e2ea389`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Jen_Legg2.jpg?v=1720291683>;
+**IA**: <https://web.archive.org/web/20260408100536/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Jen_Legg2.jpg?v=1720291683>
+
+<!-- END jenae -->
+<!-- BEGIN lexiae -->
+<!-- Template generated with lct01tools and manually filled in by humans! -->
+#### *Heleonora lexiae* {#sec-heleonora-lexiae}
+***Heleonora lexiae*** Lemuria, 2026; sp. nov.
+
+**Diagnosis**: *Heleonora lexiae* is characterized by its fabric, an unknown material with a white background and flows. The flowers are arranged in bouquets tied by red ribbons, positioned in areas separated by thin grey parallel lines, that themselves surround long vine-like plant structures.
+
+**Etymology**: From *Lexi* + *-ae*.
+
+**Specimens examined**
+
+**Holotype**: ***Lexi 2024.5853.106*** &mdash; Photograph.
+3024&times;4032.
+Ventral view. Outdoors. Subject facing to her right. Dress intentionally held forward with right arm to showcase skirt and fabric. Hair short enough to not occlude dress.
+*Heleonora lexiae* wb. Lexi.M., 2024.
+&copy; Lexi Mccartt or unknown photographer, 2024, all rights reserved.
+**Page**: @sleeveless_eleonora_gallery;
+**SHA2-256**: `bbda8f9cb8008cb6c66bbe3d1e1f5e84d8ec3befee921a8eb4ca448096c2f1de`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Lexi_Mccartt4.heic?v=1720291693>;
+**IA**: <https://web.archive.org/web/20260408100306/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Lexi_Mccartt4.heic?v=1720291693>
+
+***Lexi 2024.5853.153*** &mdash; Photograph.
+1080&times;1616.
+Truncated ventral view. Indoors. Apparent light source from subject's right. Subject facing forward. Arms extend outward slightly. Head out of frame. Inferior portions of skirt out of frame.
+*Heleonora lexiae* wb. Lexi.M., 2024.
+&copy; Lexi Mccartt or unknown photographer, 2024, all rights reserved.
+**Page**: @sleeveless_eleonora_gallery;
+**SHA2-256**: `a69783651c9fcf07bdb1acba6281c0e967120d1ff7bbba7da6d959e0c4e73907`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Lexi_Mccartt7.jpg>;
+**IA**: <https://web.archive.org/web/20260520213209/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Lexi_Mccartt7.jpg>
+
+<!-- END lexiae -->
+
+<!-- BEGIN lizzia -->
+<!-- Template generated with lct01tools and manually filled in by humans! -->
+#### *Heleonora lizzia* {#sec-heleonora-lizzia}
+***Heleonora lizzia*** Lemuria, 2026; sp. nov.
+
+**Diagnosis**: *Heleonora lizzia* is characterized by its fabric, a cotton lawn consisting of blue, yellow, and red flowers on a white background.
+
+**Remarks**: See @mcnally2024 for Liz's Instagram post.
+
+**Etymology**: From *Liz* + *-ia*. She uses *Lizzy* in her handle and has her account name set to *Liz*.
+
+**Specimens examined**
+
+**Photography conditions.** The photograhs were taken in daylight conditions with the sun behind the photographer.
+
+**Holotype**: ***McNally 20.23014*** &mdash; Photograph.
+2316&times;3088.
+Truncated close ventral view. Area superior to lips out of frame; skirt out of frame. Hair likely tied dorsally; no occlusion of neckline.
+*Heleonora lizzia* wb. Elizabeth.M., 2024.
+&copy; Elizabeth McNally or unknown photographer, 2024, all rights reserved.
+**Page**: @sleeveless_eleonora_gallery;
+**SHA2-256**: `6f27893b736fbebf44fbfc24fec10afd2487c4cda1d91daec6de441a9bfbf77b`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Elizabeth_McNally2.jpg?v=1720291681>;
+**IA**: <https://web.archive.org/web/20260408095919/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Elizabeth_McNally2.jpg?v=1720291681>
+
+***McNally 20.23710*** &mdash; Photograph.
+3024&times;4032.
+Ventral view. Subject standing on metal platform near large body of water. Shadow behind subject visible on left foot, indicating that photographer is positioned between subject and Sol.
+*Heleonora lizzia* wb. Elizabeth.M., 2024.
+&copy; Elizabeth McNally or unknown photographer, 2024, all rights reserved.
+**Page**: @sleeveless_eleonora_gallery;
+**SHA2-256**: `f46504965fb55a6e9a4ac4c7cab6f2e9835967042cf474b5e9162b4f9ec90bee`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Elizabeth_McNally3.jpg?v=1720291681>;
+**IA**: <https://web.archive.org/web/20260408095920/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Elizabeth_McNally3.jpg?v=1720291681>
+
+<!-- END lizzia -->
+<!-- BEGIN michellae -->
+<!-- Template generated with lct01tools and manually filled in by humans! -->
+#### *Heleonora michellae* {#sec-heleonora-michellae}
+***Heleonora michellae*** Lemuria, 2026; sp. nov.
+
+**Diagnosis**: *Heleonora michellae* is characterized by its fabric, an unknown material with a white background and flowers, following a low-saturation maroon or pink color scheme; with the largest visible flowers characterized by six petals. Smaller flowers with five petals extend from a long vine-like structure also linked to the large flower.
+
+**Etymology**: From *Michelle* + *-ae*.
+
+**Specimens examined**
+
+**Holotype**: ***Michelle 2024.58044.8750*** &mdash; Photograph.
+3024&times;4032.
+Lateral view. Outdoors in park; shallow depth of field. Hair not long enough to cause occlusion of bodice.
+*Heleonora michellae* wb. Michelle.Ts., 2024.
+&copy; Michelle Tsang or unknown photographer, 2024, all rights reserved.
+**Page**: @sleeveless_eleonora_gallery;
+**SHA2-256**: `d93fa52d657d1a445f2044dea048b39a11c1dfa38939c4b53cc7fd587c1237f3`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Michelle_Tsang.jpg?v=1720291698>;
+**IA**: <https://web.archive.org/web/20260408100805/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Michelle_Tsang.jpg?v=1720291698>
+
+***Michelle 2024.58044.4339*** &mdash; Photograph.
+3024&times;4032.
+Ventral view; behind large fountain. Hair not long enough to cause occlusion of bodice. Arms fully adducted.
+*Heleonora michellae* wb. Michelle.Ts., 2024.
+&copy; Michelle Tsang or unknown photographer, 2024, all rights reserved.
+**Page**: @sleeveless_eleonora_gallery;
+**SHA2-256**: `d12a8673bef66d3ccb67d9d7e5dd3c51074e07d011fa85326310445c76d3f2d4`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Michelle_Tsang6_f787cb0b-4224-4277-be94-13a1b2edc5d4.jpg?v=1720291699>;
+**IA**: <https://web.archive.org/web/20260408100831/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Michelle_Tsang6_f787cb0b-4224-4277-be94-13a1b2edc5d4.jpg?v=1720291699>
+
+<!-- END michellae -->
+<!-- BEGIN rachelae -->
+<!-- Template generated with lct01tools and manually filled in by humans! -->
+#### *Heleonora rachelae* {#sec-heleonora-rachelae}
+***Heleonora rachelae*** Lemuria, 2026; sp. nov.
+
+**Diagnosis**: *Heleonora rachelae* is characterized by its fabric, a black-and-white gingham check pattern. The black lines have sub-100% opacity, which result in higher opacity when interconnecting. Vertical black lines are of higher opacity than horizontal lines.
+
+**Remarks**: *Rachel* is not a typo.
+
+**Etymology**: From *Rachel* + *-ae*.
+
+**Specimens examined**
+
+**Holotype**: ***McClain 2024.50653.1149*** &mdash; Photograph.
+2810&times;4000.
+Truncated ventral view. Subject looking downward. Hair positioned ventrally, obscuring right strap. Subject's arm on hair.
+*Heleonora rachelae* wb. Rachel.M., 2024.
+&copy; Rachel McClain or unknown photographer, 2024, all rights reserved.
+**Page**: @sleeveless_eleonora_gallery;
+**SHA2-256**: `fd7ff79162626fbed8f4a3d809a32d475631679e80990b5e94a5f1c994d6e61c`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Rachel_McClain3.jpg?v=1720292013>;
+**IA**: <https://web.archive.org/web/20260408100609/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Rachel_McClain3.jpg?v=1720292013>
+
+***McClain 2024.50653.3267*** &mdash; Photograph.
+2459&times;3279.
+Zoomed-out ventral view. Subject looking downward. Hair positioned ventrally, obscuring right strap. Subject's arm on hair.
+*Heleonora rachelae* wb. Rachel.M., 2024.
+&copy; Rachel McClain or unknown photographer, 2024, all rights reserved.
+**Page**: @sleeveless_eleonora_gallery;
+**SHA2-256**: `0b35e47053803f4fa13acce3db1121224c2c2ef74487ce49f0817bf08a3f8e72`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Rachel_McClain4.jpg?v=1720291705>;
+**IA**: <https://web.archive.org/web/20260408100620/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Rachel_McClain4.jpg?v=1720291705>
+
+<!-- END rachelae -->
+<!-- BEGIN renskae -->
+<!-- Template generated with lct01tools and manually filled in by humans! -->
+#### *Heleonora renskae* {#sec-heleonora-renskae}
+***Heleonora renskae*** Lemuria, 2026; sp. nov.
+
+**Diagnosis**: *Heleonora renskae* is characterized by its fabric, an unknown material with a white background with cyan and purple flowers in a paint-like pattern, alongside green leaves.
+
+**Etymology**: From *Renske* + *-ae*.
+
+**Specimens examined**
+
+**Holotype**: ***Renske 2024.50053.114*** &mdash; Photograph.
+3024&times;4032.
+Angled truncated ventral view. Subject's hair positioned ventrally, obscuring right strap.
+*Heleonora renskae* wb. Renske.Tj., 2024.
+&copy; Renske Tjoelker or unknown photographer, all rights reserved.
+**Page**: @sleeveless_eleonora_gallery;
+**SHA2-256**: `c6d6e4ca15044233460dfbdc86872d7cde7e0577f3a6db25f63f800441b05c21`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Renske_Tjoelker2.jpg?v=1720291705>;
+**IA**: <https://web.archive.org/web/20260408100732/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Renske_Tjoelker2.jpg?v=1720291705>
+
+***Renske 2024.24008.981*** &mdash; Photograph.
+3024&times;4032.
+Angled ventral view. Subject's hair positioned ventrally, obscuring right strap. Subject facing camera. Arms fully adducted.
+*Heleonora renskae* wb. Renske.Tj., 2024.
+&copy; Renske Tjoelker or unknown photographer, all rights reserved.
+**Page**: @sleeveless_eleonora_gallery;
+**SHA2-256**: `60ca8f633f50161223d45cc6e168b13bd3f6fef319d41a31cbbf7165828f4624`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Renske_Tjoelker8.jpg?v=1720291706>;
+**IA**: <https://web.archive.org/web/20260408100900/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Renske_Tjoelker8.jpg?v=1720291706>
+
+<!-- END renskae -->
+<!-- BEGIN willmesia -->
+<!-- Template generated with lct01tools and manually filled in by humans! -->
+#### *Heleonora willmesia* {#sec-heleonora-willmesia}
+***Heleonora willmesia*** Lemuria, 2026; sp. nov.
+
+**Diagnosis**: *Heleonora willmesia* is characterized by its fabric, a plain white, possibly off-white fabric, made of an unknown material.
+
+**Etymology**: From *Willmes* + *-ia*.
+
+**Holotype**: ***Willmes 2024.505.39*** &mdash; Photograph.
+1080&times;1616.
+Angled ventral view of *Heleonora willmesia* hanging on plant.
+&copy;  or unknown photographer, all rights reserved.
+**Page**: @sleeveless_eleonora_gallery;
+**SHA2-256**: `81f473c1737ee32aae04f918b0d726b92ae3b34b0d51963d3deac2b125c07997`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Pia_Willmes9.jpg?v=1720291703>;
+**IA**: <https://web.archive.org/web/20260408100936/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Pia_Willmes9.jpg?v=1720291703>
+
+***Willmes 2024.505.3315*** &mdash; Photograph.
+2667&times;4000.
+Truncated ventral view. Subject leaning slightly to right. Subject wearing flower crown; likely *Leucanthemum vulgare* Lam. or *Bellis perennis* L.; multiple unidentified berries in various life stages; some green and some purple; and some 
+*Heleonora willmesia* wb. Willmes, 2024.
+&copy; Pia Willmes or unknown photographer, 2024, all rights reserved.
+**Page**: @sleeveless_eleonora_gallery;
+**SHA2-256**: `5ee16c144d7010850cfd448db02fc774067559eac07c248d32f4f6bc89c6619b`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Pia_Willmes_211e9360-1aa6-42a1-a813-f5bb72c3315b.jpg?v=1720291702>;
+**IA**: <https://web.archive.org/web/2/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Pia_Willmes_211e9360-1aa6-42a1-a813-f5bb72c3315b.jpg?v=1720291702>
+
+<!-- END willmesia -->
+<!-- BEGIN willmesiabis -->
+<!-- Template generated with lct01tools and manually filled in by humans! -->
+#### *Heleonora willmesiabis* {#sec-heleonora-willmesiabis}
+***Heleonora willmesiabis*** Lemuria, 2026; sp. nov.
+
+**Diagnosis**: *Heleonora willmesiabis* is characterized by its fabric, an unknown material, with a white background and floral pattern. The floral pattern dominates most of the fabric, and consists of low-saturation red and yellow flowers, alongside leaves.
+
+**Etymology**: From *Willmes* + *-ia*, and Latin *-bis* ("twice") as it is Willmes's second make.
+
+**Specimens examined**
+
+**Holotype**: ***Willmes 2024.11098.248*** &mdash; Photograph.
+4000&times;4687.
+Truncated ventral view. Superior portions of head out of frame. Most of skirt out of frame. Hair positioned ventrally; very minor occlusion of right strap.
+*Heleonora willmesiabis* wb. Willmes, 2024.
+&copy; Pia Willmes or unknown photographer, 2024, all rights reserved.
+**Page**: @sleeveless_eleonora_gallery;
+**SHA2-256**: `7053339fe890e875e1245f4cd489d02c013a53e74476c907630f5167367b5e0a`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Pia_Willmes5_e76d31ac-b5a3-46fa-b7c1-c462a1383487.jpg?v=1720291705>;
+**IA**: <https://web.archive.org/web/20260408101017/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Pia_Willmes5_e76d31ac-b5a3-46fa-b7c1-c462a1383487.jpg?v=1720291705>
+
+***Willmes 2024.11098.277*** &mdash; Photograph.
+2848&times;4000.
+Truncated ventral view. Superior portions of head out of frame. Inferiormost portions of skirt out of frame. Hair positioned ventrally; right strap occluded significantly; left strap fully visible.
+*Heleonora willmesiabis* wb. Willmes, 2024.
+&copy; Pia Willmes or unknown photographer, 2024, all rights reserved.
+**Page**: @sleeveless_eleonora_gallery;
+**SHA2-256**: `b05b36d7d0de41dedc43a65b5c9c224df2172a3d47bf07110b7adc3e64c949ec`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Pia_Willmes6_3a17b4da-a010-46b7-800b-d56afb050b9b.jpg?v=1720291704>;
+**IA**: <https://web.archive.org/web/20260408100027/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Pia_Willmes6_3a17b4da-a010-46b7-800b-d56afb050b9b.jpg?v=1720291704>
+
+<!-- END willmesiabis -->
+<!-- BEGIN yoannae -->
+<!-- Template generated with lct01tools and manually filled in by humans! -->
+#### *Heleonora yoannae* {#sec-heleonora-yoannae}
+***Heleonora yoannae*** Lemuria, 2026; sp. nov.
+
+**Diagnosis**: *Heleonora yoannae* is characterized by its two distinct fabrics; a plain solid peach fabric on the bust pieces and interelastic fabric; with a subtle white&ndash;peach gingham check pattern fabric with lace on the skirt, ventral medial ties, straps, and another trim superior to the superior elastic channel. On the skirt, the lace is in the form of five small holes in a vaguely floral petal-shaped arrangement, running vertically, with gaps of around six gingham squares between each lace line.
+
+**Etymology**: From *Yoanna* + *-ae*.
+
+**Specimens examined**
+
+**Holotype**: ***McClintock 2024.50987.14*** &mdash; Photograph.
+1638&times;2048.
+Ventral view, outdoors in park. Hair positioned mostly dorsally; minor occlusion of right strap. Arms extended outward holding skirt to showcase fabric.
+*Heleonora yoannae* wb. Yoanna.M., 2024.
+&copy; Yoanna McClintock or unknown photographer, 2024, all rights reserved.
+**Page**: @sleeveless_eleonora_gallery;
+**SHA2-256**: `719f892b3ca9ffdb3a3cd8645405500c623c255d9648352cd899d7d91014d602`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Yoanna_McClintock-14.jpg?v=1720291722>;
+**IA**: <https://web.archive.org/web/20260408095809/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Yoanna_McClintock-14.jpg?v=1720291722>
+
+***McClintock 2024.50987.15*** &mdash; Photograph.
+1638&times;2048.
+Truncated ventral view. Hair position same as in *.14*. Area of head above nose out of frame. Inferior portions of skirt out of frame.
+*Heleonora yoannae* wb. Yoanna.M., 2024.
+&copy; Yoanna McClintock or unknown photographer, 2024, all rights reserved.
+**Page**: @sleeveless_eleonora_gallery;
+**SHA2-256**: `ccd1ff5e4e852dfee93451f34f8f5007b16f7e5a7713626b4bbe51c76d94311d`{.hash};
+**Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Yoanna_McClintock-15.jpg?v=1720291722>;
+**IA**: <https://web.archive.org/web/20260408095821/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Yoanna_McClintock-15.jpg?v=1720291722>
+
+<!-- END yoannae -->
+<!-- END Duolastica -->
+
 ### *Heleonora* subsect. *Pseudotruetta*
 ***Heleonora* subsection *Psuedotruetta*** Lemuria, 2026; subsectio nova
 
