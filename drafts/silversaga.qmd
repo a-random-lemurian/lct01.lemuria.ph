@@ -3915,6 +3915,7 @@ Truncated ventral view. Hair positioned ventrally, less occlusion of straps as h
 
 <!-- END shannonae -->
 <!-- END Unilastica -->
+<!-- BEGIN Duolastica -->
 
 ### *Heleonora* sect. *Duolastica*
 ***Heleonora* section *Duolastica*** Lemuria, 2026; first public desc.
