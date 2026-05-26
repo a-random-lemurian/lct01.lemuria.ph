@@ -2773,50 +2773,6 @@ The sleeved Eleonora dress predates the sewing pattern period; numerous instance
 
 The *Argenteleonora* are divided into three views by Silversaga: views A, B, and C. Refer to couplet 100 of identification key.
 
-### *Argenteleonora* subg. *Shira* {#sec-argenteleonora-subg-shira}
-***Argenteleonora* subgenus *Shira*** Lemuria, 2026; first public desc.
-
-#### *Argenteleonora ariae* {#sec-argenteleonora-ariae}
-***Argenteleonora ariae*** Lemuria, 2026; first public desc.
-
-#### *Argenteleonora felicitae* {#sec-argenteleonora-felicitae}
-***Argenteleonora felicitae*** Lemuria, 2026; first public desc.
-
-#### *Argenteleonora madalinae* {#sec-argenteleonora-madalinae}
-***Argenteleonora madalinae*** Lemuria, 2026; first public desc.
-
-#### *Argenteleonora madeleinae* {#sec-argenteleonora-madeleinae}
-***Argenteleonora madeleinae*** Lemuria, 2026; first public desc.
-
-#### *Argenteleonora madeleinatra* {#sec-argenteleonora-madeleinatra}
-***Argenteleonora madeleinatra*** Lemuria, 2026; first public desc.
-
-#### *Argenteleonora mantorae* {#sec-argenteleonora-mantorae}
-***Argenteleonora mantorae*** Lemuria, 2026; first public desc.
-
-#### *Argenteleonora manuelae* {#sec-argenteleonora-manuelae}
-***Argenteleonora manuelae*** Lemuria, 2026; first public desc.
-
-#### *Argenteleonora martae* {#sec-argenteleonora-martae}
-***Argenteleonora martae*** Lemuria, 2026; first public desc.
-
-#### *Argenteleonora rubra* {#sec-argenteleonora-rubra}
-***Argenteleonora rubra*** Lemuria, 2026; first public desc.
-
-#### *Argenteleonora stephania* {#sec-argenteleonora-stephania}
-***Argenteleonora stephania*** Lemuria, 2026; first public desc.
-
-#### *Argenteleonora thea* {#sec-argenteleonora-thea}
-***Argenteleonora thea*** Lemuria, 2026; first public desc.
-
-#### *Argenteleonora veneta* {#sec-argenteleonora-veneta}
-***Argenteleonora veneta*** Lemuria, 2026; first public desc.
-
-### *Argenteleonora* sect. *Plesichia* {#sec-argenteleonora-sect-plesichia}
-***Argenteleonora* subgenus *Plesichia*** Lemuria, 2026; sectio nova
-
-**Taxonomic placement**: Placed in *Argenteleonora* subg. *Shira*.
-
 ### *Argenteleonora* subg. *Elastica* {#sec-argenteleonora-subg-elastica}
 ***Argenteleonora* subgenus *Elastica*** Lemuria, 2026; first public desc.
 
@@ -2831,12 +2787,7 @@ The *Argenteleonora* are divided into three views by Silversaga: views A, B, and
 
 **Taxonomic placement**: Placed in *Argenteleonora* subg. *Elastica*.
 
-**Diagnosis**: *Argenteleonora* sect. 
-
-#### *Argenteleonora annettae* {#sec-argenteleonora-annettae}
-***Argenteleonora annettae*** Lemuria, 2026; first public desc.
-
-<!-- https://silversagapatterns.com/cdn/shop/files/MG_7965.jpg?v=1745088716 -->
+**Diagnosis**: *Argenteleonora* sect. *Unilastica* is characterized by two elastic channels inferior to the bust, and phylogenetically, origin from View A of the Eleonora dress.
 
 ### *Argenteleonora* sect. *Duolastica* {#sec-argenteleonora-sect-duolastica}
 ***Argenteleonora* section *Duolastica*** Lemuria, 2026; first public desc.
@@ -3011,9 +2962,6 @@ EXIF metadata stripped.
 **SHA2-256**: `d2eb52cfcecd175041e4bd9ee8d7a7af53ea2ba7fcf53debf9731fb1d179a5b8`{.hash};
 **Original**: <https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgD28QTOKpyC2aCMkxtSbm2Mg1GqVFZNtCZFHRQ3N2S6xZVjDJwjIhd2XP_ifCFRbnSpIoJEoeSvHrOLcIrdruInUDQiCpMzTQ5skfupdCQAumI4DiuLnWGm0khMoV__mCSioPsv0ugleV9bk4l_BGfvDTH-nMVY2w5_SST0F3cyLYfJZeugMTrzza8mkye/s0/Picture%2016.jpg=s0?imgmax=0>;
 **IA**: <https://web.archive.org/web/20260409065957/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgD28QTOKpyC2aCMkxtSbm2Mg1GqVFZNtCZFHRQ3N2S6xZVjDJwjIhd2XP_ifCFRbnSpIoJEoeSvHrOLcIrdruInUDQiCpMzTQ5skfupdCQAumI4DiuLnWGm0khMoV__mCSioPsv0ugleV9bk4l_BGfvDTH-nMVY2w5_SST0F3cyLYfJZeugMTrzza8mkye/s0/Picture%2016.jpg=s0?imgmax=0>;
-
-#### *Argenteleonora katiae* {#sec-argenteleonora-katiae}
-***Argenteleonora katiae*** Lemuria, 2026; first public desc.
 
 ### *Argenteleonora* subsect. *Duonoda* {#sec-argenteleonora-subsect-duonoda}
 ***Argenteleonora* subsection *Duonoda*** Lemuria, 2026; subsectio nova
