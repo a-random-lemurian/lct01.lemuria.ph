@@ -256,26 +256,28 @@ taxa:
             width: 2000
             height: 3008
       
-      mariae:
-        rank: species
-        describer: Lemuria, 2026
-        holotype:
-          - name: 
-            view: 
-            width: 
-            height: 
-            sum:
-              sha256: 
-            urls:
-              - provider: orig
-                href: 
-              - provider: ia
-                href: 
-            wearer: 
-              abbr: 
-              name: 
-              year: 
-            cite_key: 
+      # Sorry Maria, we forgot you
+      #
+      # mariae:
+      #   rank: species
+      #   describer: Lemuria, 2026
+      #   holotype:
+      #     - name: 
+      #       view: 
+      #       width: 
+      #       height: 
+      #       sum:
+      #         sha256: 
+      #       urls:
+      #         - provider: orig
+      #           href: 
+      #         - provider: ia
+      #           href: 
+      #       wearer: 
+      #         abbr: 
+      #         name: 
+      #         year: 
+      #       cite_key: 
 
       baumgartia:
         rank: species
