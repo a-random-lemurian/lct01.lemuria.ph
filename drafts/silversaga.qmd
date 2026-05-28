@@ -4396,7 +4396,7 @@ Truncated ventral view. Hair position same as in *.14*. Area of head above nose 
 <!-- END Duolastica -->
 
 ### *Heleonora* subsect. *Pseudotruetta*
-***Heleonora* subsection *Psuedotruetta*** Lemuria, 2026; subsectio nova
+***Heleonora* subsection *Pseudotruetta*** Lemuria, 2026; subsectio nova
 
 **Taxonomic placement**: Placed in *Heleonora* subsect. *Duolastica*.
 
@@ -4418,7 +4418,7 @@ have a similar look to the Truettidae?
 #### *Heleonora trudemelinae* {#sec-heleonora-trudemelinae}
 ***Heleonora trudemelinae*** Lemuria, 2026; sp. nov.
 
-**Taxonomic placement**: Placed in *Heleonora* subsect. *Psuedotruetta*.
+**Taxonomic placement**: Placed in *Heleonora* subsect. *Pseudotruetta*.
 
 **Diagnosis**: *Heleonora trudemelinae* is characterized by its solid dark turquoise bias contrast fabric and a floral fabric, primarily consisting of mostly turquoise flowers, with some purple. Distance between superior and inferior elastic channels vertically narrower compared to *Heleonora* ser. *Annettae* spp.
 
@@ -4454,9 +4454,9 @@ Left arm out of frame. Distal right arm out of frame.
 ### *Heleonora* ser. *Annettae*
 ***Heleonora* series *Annettae*** Lemuria, 2026; series nova
 
-**Taxonomic placement**: Placed in *Heleonora* subsect. *Psuedotruetta*.
+**Taxonomic placement**: Placed in *Heleonora* subsect. *Pseudotruetta*.
 
-**Diagnosis**: *Heleonora* ser. *Annettae* is the subset of *Heleonora* subsect. *Psuedotruetta* that encompasses all dresses sewn by Annette, an American sewist. See @sec-annette for biographical information.
+**Diagnosis**: *Heleonora* ser. *Annettae* is the subset of *Heleonora* subsect. *Pseudotruetta* that encompasses all dresses sewn by Annette, an American sewist. See @sec-annette for biographical information.
 
 #### *Heleonora truannettae* {#sec-heleonora-truannettae}
 ***Heleonora truannettae*** Lemuria, 2026; sp. nov.
