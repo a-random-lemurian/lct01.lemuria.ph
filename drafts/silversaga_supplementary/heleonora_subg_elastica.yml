@@ -663,6 +663,7 @@ x-duolastica-taxa: &duolastica-taxa
         wearer:
           abbr: Renske.Tj.
           name: Renske Tjoelker
+          year: 2024
         cite_key: sleeveless_eleonora_gallery
     types:
       - name: Renske 2024.24008.981
@@ -679,6 +680,7 @@ x-duolastica-taxa: &duolastica-taxa
         wearer:
           abbr: Renske.Tj.
           name: Renske Tjoelker
+          year: 2024
         cite_key: sleeveless_eleonora_gallery
   bouteillerae:
     # https://www.instagram.com/sarah.btller/
