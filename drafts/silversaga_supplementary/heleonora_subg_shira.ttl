@@ -14,133 +14,133 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 lcdescev:s384_0f0bf8e33e86ef6c1bd60c481faf1149d1aafbe521676c84d681217fb59a0cb6ce8ff9138464bed489a82ef9f097e4a9
-	a "lhs:DescriptionEvent"^^xsd:string ;
+	a lhs:DescriptionEvent ;
 	lhs:describer <https://lemuria.ph/rdf/lemuria> ;
 	lhs:describerAuthorityString "Lemuria, 2026"^^xsd:string ;
 	lhs:describerDate "2026"^^xsd:integer ;
 	.
 
 lcdescev:s384_147d59257161db11cc93cc11ec92a7e5d4a2c26d61b4da4ba342287365094a39105523a57c76b98697e37f2924ba7aa3
-	a "lhs:DescriptionEvent"^^xsd:string ;
+	a lhs:DescriptionEvent ;
 	lhs:describer <https://lemuria.ph/rdf/lemuria> ;
 	lhs:describerAuthorityString "Lemuria, 2026"^^xsd:string ;
 	lhs:describerDate "2026"^^xsd:integer ;
 	.
 
 lcdescev:s384_2257a35790727781bd22214c10e7e9102e883888c79d708dfaea5073bd444c1d687697caad153f3af93af7a95ae18ebd
-	a "lhs:DescriptionEvent"^^xsd:string ;
+	a lhs:DescriptionEvent ;
 	lhs:describer <https://lemuria.ph/rdf/lemuria> ;
 	lhs:describerAuthorityString "Lemuria, 2026"^^xsd:string ;
 	lhs:describerDate "2026"^^xsd:integer ;
 	.
 
 lcdescev:s384_23f6b4b8a6a983539c2b9f130508f9dc4a6bd0fa5fa5b11de98044801bf7accf9f819259a5257dacb36df170da057024
-	a "lhs:DescriptionEvent"^^xsd:string ;
+	a lhs:DescriptionEvent ;
 	lhs:describer <https://lemuria.ph/rdf/lemuria> ;
 	lhs:describerAuthorityString "Lemuria, 2026; sp. nov."^^xsd:string ;
 	lhs:describerDate "2026"^^xsd:integer ;
 	.
 
 lcdescev:s384_35e206adbfa1a2b46924369fc251009bbc77dc6b3a63639cbdf396ec745d4e85b655b8cc0dece4688d36568da66684db
-	a "lhs:DescriptionEvent"^^xsd:string ;
+	a lhs:DescriptionEvent ;
 	lhs:describer <https://lemuria.ph/rdf/lemuria> ;
 	lhs:describerAuthorityString "Lemuria, 2026"^^xsd:string ;
 	lhs:describerDate "2026"^^xsd:integer ;
 	.
 
 lcdescev:s384_5508d37b04fde8ac84b5a6ca4a55797d473db8ae526174aec2869e5ee564b244e52b0681b013484d358608bddba061d0
-	a "lhs:DescriptionEvent"^^xsd:string ;
+	a lhs:DescriptionEvent ;
 	lhs:describer <https://lemuria.ph/rdf/lemuria> ;
 	lhs:describerAuthorityString "Lemuria, 2026"^^xsd:string ;
 	lhs:describerDate "2026"^^xsd:integer ;
 	.
 
 lcdescev:s384_652f14cb42e2b579b018e28904e4ece6c613f52cd781a4815baf90938e957d5d4406de358b0cd6ef9fac53dff23a84f7
-	a "lhs:DescriptionEvent"^^xsd:string ;
+	a lhs:DescriptionEvent ;
 	lhs:describer <https://lemuria.ph/rdf/lemuria> ;
 	lhs:describerAuthorityString "Lemuria, 2026"^^xsd:string ;
 	lhs:describerDate "2026"^^xsd:integer ;
 	.
 
 lcdescev:s384_6bda3827e8e436c88ba752759255410f14533a72a374b4e09edc5cb5934781f7fe9344cd982191fc7598af7dd0285a2d
-	a "lhs:DescriptionEvent"^^xsd:string ;
+	a lhs:DescriptionEvent ;
 	lhs:describer <https://lemuria.ph/rdf/lemuria> ;
 	lhs:describerAuthorityString "Lemuria, 2026"^^xsd:string ;
 	lhs:describerDate "2026"^^xsd:integer ;
 	.
 
 lcdescev:s384_6d204de6d45ec6e57874084b0a3eab1c4324b7fb8af747d82eb02243149e19cf51b5ecba98162c59968b5f402bac6bb4
-	a "lhs:DescriptionEvent"^^xsd:string ;
+	a lhs:DescriptionEvent ;
 	lhs:describer <https://lemuria.ph/rdf/lemuria> ;
 	lhs:describerAuthorityString "Lemuria, 2026"^^xsd:string ;
 	lhs:describerDate "2026"^^xsd:integer ;
 	.
 
 lcdescev:s384_6fec6845de9b004a5cecc10bac50bf535dbc098c1d680458675f1bdb07129a12ef667e767e55cddf2bdc81098b668d94
-	a "lhs:DescriptionEvent"^^xsd:string ;
+	a lhs:DescriptionEvent ;
 	lhs:describer <https://lemuria.ph/rdf/lemuria> ;
 	lhs:describerAuthorityString "Lemuria, 2026"^^xsd:string ;
 	lhs:describerDate "2026"^^xsd:integer ;
 	.
 
 lcdescev:s384_70a9c22b0a32c117c08103e81fe3349539a0b87d76a7371e5c573a6fb8a1c75d79d14129ab2ec0f66d2bc3c23e4086f6
-	a "lhs:DescriptionEvent"^^xsd:string ;
+	a lhs:DescriptionEvent ;
 	lhs:describer <https://lemuria.ph/rdf/lemuria> ;
 	lhs:describerAuthorityString "Lemuria, 2026"^^xsd:string ;
 	lhs:describerDate "2026"^^xsd:integer ;
 	.
 
 lcdescev:s384_89dd18ffb4f312c94c910144dc0e16a3f4518fbdb289fefe462de0cb028c13d3fe4f082245739667344cd09c06ab14dd
-	a "lhs:DescriptionEvent"^^xsd:string ;
+	a lhs:DescriptionEvent ;
 	lhs:describer <https://lemuria.ph/rdf/lemuria> ;
 	lhs:describerAuthorityString "Lemuria, 2026"^^xsd:string ;
 	lhs:describerDate "2026"^^xsd:integer ;
 	.
 
 lcdescev:s384_9e89b2954d5b76fa3c00668f3b9e35dfb0799f6485abfbfe626b3dab3fbaa4942ceeac508fafe560e43a819a20dde031
-	a "lhs:DescriptionEvent"^^xsd:string ;
+	a lhs:DescriptionEvent ;
 	lhs:describer <https://lemuria.ph/rdf/lemuria> ;
 	lhs:describerAuthorityString "Lemuria, 2026"^^xsd:string ;
 	lhs:describerDate "2026"^^xsd:integer ;
 	.
 
 lcdescev:s384_ad8d505b3aa2cae6ea124d2b6d57e42d4dc0817cc87c044d44fc598a3a2da12f75670070646ca7860010c42b7c299068
-	a "lhs:DescriptionEvent"^^xsd:string ;
+	a lhs:DescriptionEvent ;
 	lhs:describer <https://lemuria.ph/rdf/lemuria> ;
 	lhs:describerAuthorityString "Lemuria, 2026"^^xsd:string ;
 	lhs:describerDate "2026"^^xsd:integer ;
 	.
 
 lcdescev:s384_b2e83fd2a15ad6a69b04a196374fe32ab2654b68158a299ea46dc700c561c0984c39101076f0cf961369d94ee3b96a9c
-	a "lhs:DescriptionEvent"^^xsd:string ;
+	a lhs:DescriptionEvent ;
 	lhs:describer <https://lemuria.ph/rdf/lemuria> ;
 	lhs:describerAuthorityString "Lemuria, 2026"^^xsd:string ;
 	lhs:describerDate "2026"^^xsd:integer ;
 	.
 
 lcdescev:s384_c9b8b3c270578a8175e5becbe8bf8b8f63513906052388de6cb851464c911e75d2726a48921db634ded674486aa7bd8f
-	a "lhs:DescriptionEvent"^^xsd:string ;
+	a lhs:DescriptionEvent ;
 	lhs:describer <https://lemuria.ph/rdf/lemuria> ;
 	lhs:describerAuthorityString "Lemuria, 2026"^^xsd:string ;
 	lhs:describerDate "2026"^^xsd:integer ;
 	.
 
 lcdescev:s384_d9ea3d02da9bcdbcbff4ff1335716b018881d833661a6a1db0a31fb1a6a6ac6d2ca5f53f74e6388fd6c45b6d4b080903
-	a "lhs:DescriptionEvent"^^xsd:string ;
+	a lhs:DescriptionEvent ;
 	lhs:describer <https://lemuria.ph/rdf/lemuria> ;
 	lhs:describerAuthorityString "Lemuria, 2026"^^xsd:string ;
 	lhs:describerDate "2026"^^xsd:integer ;
 	.
 
 lcdescev:s384_da0bc0c4e82a6d16746b07e4c3124911c2c1e340b330f3a0ae69dc63d4f80f698b31dc142859589198d2172013057aac
-	a "lhs:DescriptionEvent"^^xsd:string ;
+	a lhs:DescriptionEvent ;
 	lhs:describer <https://lemuria.ph/rdf/lemuria> ;
 	lhs:describerAuthorityString "Lemuria, 2026"^^xsd:string ;
 	lhs:describerDate "2026"^^xsd:integer ;
 	.
 
 lcdescev:s384_ea5c50163b5bad2b14647800b727646defd28ee9f0106edd8db4d405cfe0c3a59f99182be679aa96f960f049d2f19dbb
-	a "lhs:DescriptionEvent"^^xsd:string ;
+	a lhs:DescriptionEvent ;
 	lhs:describer <https://lemuria.ph/rdf/lemuria> ;
 	lhs:describerAuthorityString "Lemuria, 2026"^^xsd:string ;
 	lhs:describerDate "2026"^^xsd:integer ;
