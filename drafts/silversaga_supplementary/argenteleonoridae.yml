@@ -1,0 +1,654 @@
+# LCT-01 NOTES
+format_version: "0.2.0"
+todo:
+  - figure out just how much Silversaga monograph we're going to be writing
+wearers:
+  # anja: &anja
+  #   abbr: Anja.S.
+  #   name: Anja Scheithauer
+  # ashley: &ashley
+  #   abbr: Ashley.G.
+  #   name: Ashley General
+  # elizabeth: &elizabeth
+  #   abbr: Elizabeth.M.
+  #   name: Elizabeth McNally
+  # stephanie_g: &stephanieg
+  #   abbr: Stephanie.G.
+  #   name: Stephanie Garcia
+  # ioana_m: &ioana
+  #   abbr: Ioana.M.
+  #   name: Ioana Miron
+  # beatrice: &beatrice
+  #   abbr: Beatrice.F.
+  #   name: Beatrice Fletcher
+  # scollay: &scollay
+  #   abbr: Gabrielle.Sc.
+  #   name: Gabrielle Scollay
+  # rimfors: &rimfors
+  #   abbr: Rimfors
+  #   name: Tuss Rimfors
+  # shreya: &shreya
+  #   abbr: Shreya
+  #   name: Shreya
+  #   uhc: W/2026 G16
+  # colne: &colne
+  #   abbr: Nelly.C.
+  #   name: Nelly Colne
+  # bynum: &bynum
+  #   abbr: Megan.B.
+  #   name: Megan Bynum
+  # garofalo: &garofalo
+  #   abbr: Garofalo
+  #   name: Martina Garofalo
+  # karen_vh: &karen_vh
+  #   abbr: Karen V.H.
+  #   name: Karen Van Hoof
+  # jessa: &jessa
+  #   abbr: Jessa.J.
+  #   name: Jessa Jones
+  bethany: &bethany
+    abbr: Bethany.L.
+    name: Bethany Lynne
+  # patricia_r: &patricia_r
+  #   abbr: Patricia.R.
+  #   name: Patricia Rainey
+  # antigoni: &antigoni
+  #   abbr: Antigoni
+  #   name: Antigoni Tsami
+  yoanna: &yoanna
+    abbr: Yoanna.M.
+    name: Yoanna McClintock
+  weychardt: &weychardt
+    abbr: Katie.W.
+    name: Katie Weychardt
+  madeleine_s: &madeleine_s
+    abbr: Madeleine.S.
+    name: Madeleine Salisbury
+
+_argenteleonora_sect_unilastica: &_argenteleonora_sect_unilastica
+  describer: Lemuria, 2026
+  rank: section
+  taxa:
+
+_argenteleonora_sect_duolastica: &_argenteleonora_sect_duolastica
+  describer: Lemuria, 2026
+  rank: section
+  taxa:
+    katiae:
+      rank: species
+      describer: Lemuria, 2026; sp. nov.
+      holotype:
+        - name: Weychardt 2024.1475.50
+          view: ventral
+          width: 3293
+          height: 4940
+          sum: 
+            sha256: 0bfba0c217a2227ed40a63ab2d15e773566912e89eb4a021c22c221f77242780
+          urls:
+            - provider: orig
+              href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/katieweychardt5.jpg?v=1713459266
+            - provider: ia
+              href: https://web.archive.org/web/20260408095229/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/katieweychardt5.jpg?v=1713459266
+          wearer:
+            <<: *weychardt
+            year: 2024
+          cite_key: silversaga_eleonora_gallery
+      types:
+        - name: Weychardt 2024.1475.77
+          view: ventral
+          width: 3169
+          height: 4754
+          sum: 
+            sha256: 786c8b743594b37ce2b287442923ff74700b6277053780c1c19d9069cbdfd0b0
+          urls:
+            - provider: orig
+              href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/katieweychardt7.jpg?v=1713459417
+            - provider: ia
+              href: https://web.archive.org/web/20260408095229/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/katieweychardt7.jpg?v=1713459417
+          wearer:
+            <<: *weychardt
+            year: 2024
+          cite_key: silversaga_eleonora_gallery
+        - name: Weychardt 2024.1475.24
+          view: ventral
+          width: 2997
+          height: 4495
+          sum: 
+            sha256: ce67b0bedfe5c2edbf8b115be59266802b1dcf47b2a9db30e3473a89bd5421d0
+          urls:
+            - provider: orig
+              href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/katieweychardt2.jpg?v=1713459324
+            - provider: ia
+              href: https://web.archive.org/web/20260408095700/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/katieweychardt2.jpg?v=1713459324
+          wearer:
+            <<: *weychardt
+            year: 2024
+          cite_key: silversaga_eleonora_gallery
+    bethanae:
+      rank: species
+      describer: Lemuria, 2026
+      holotype:
+        - name: Bethany 108.5716
+          view: ventral
+          sum:
+            sha256: a1aef642f44c5bfbb6f8c00a6911e7a32e5df31252e71fd7a4330e4edf90ddf2
+          urls:
+            - provider: orig
+              href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Bethany_Routamaa.jpg?v=1713471765
+            - provider: ia
+              href: https://web.archive.org/web/20260408095302/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Bethany_Routamaa.jpg?v=1713471765
+          wearer: *bethany
+      types:
+        - name: Bethany 108.1798
+          view: dorsal
+          urls:
+            - provider: orig
+              href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Bethany_Routamaa2.jpg?v=1713471798
+            - provider: ia
+              href: https://web.archive.org/web/20260408095308/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Bethany_Routamaa2.jpg?v=1713471798
+          sum:
+            sha256: 06ea6f6c2a8b08aebdc8475aa43da82767211842ac11b0162b3bba8b9ccc204f
+          wearer: *bethany
+        - name: Bethany 108.1763
+          view: ventral
+          urls:
+            - provider: orig
+              href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Bethany_Routamaa4.jpg?v=1713471720
+            - provider: ia
+              href: https://web.archive.org/web/20260408095300/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Bethany_Routamaa4.jpg?v=1713471720
+          sum:
+            sha256: 9d5ed53970c97a161cdccd7835b1ed80b62a6aac2ae4723c22f9d84e92caaf77
+          wearer: *bethany
+# https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1dHKRKxf8cgUtT2Yvqy3nJ_drE48a6FTmAmS9YHGYq5jERJ1o4EOMarz9q8ibmHuyVICN_ZxXDbYrZEC4lmGpK0KbsJi6XzP-F_sIH2K-pPzam5PmLKh88OgyW59mFtLN5ugHjKYnz8srx7Wsq8MtY5PII9PfiYc_yFqfBWWOMvEbmp1KO3y9r5R478U3/s0/Picture%201.jpg=s0?imgmax=0 f9429b926183edb3f89a87181d688a9dd72912cb301f55a22303ccd364e49ce5
+# https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJgyEfoyufy0LV2ynuIzvePtJ8E_O8686movABhyphenhyphenY3E7gsy59uYiPzEIHFJeKIU9Tp0RXZaPfXrv12CU-1OiNqyn5fWFmB5odbtdMY3Bdb9j1u8uWAfBS_vjdd0yXHLipqarYTtYsw9rxsbLDNOaC1ZcSrD9Jam7QyPi5AU1gr0QlhPrB4mtQ-F1-mWLBd/s0/Picture%202.jpg=s0?imgmax=0 9c0eba94ee320e8d77cf71881bdd08958d0eb60263d861a11adb2edb7fac7f9e
+# https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgI7xEsHxAH_esazviAjnH5Q3x6yc4aGuHpMDO5GaDYQ4cuoI4RYPhIl6F5HVAhQky82YuOeOMcukTjjN1wvdmB_QhbG16I5vEY_SYjFI7uW3B0AHojxjwoQnsEOMXtxEz1OjW76UrDwf8r6rQV5ZCFN0A4QSSRPW5yG2umxcdDIx9WRRDvIrSOvsrMHboL/s0/Picture%204.jpg=s0?imgmax=0 ff5dda3d4bee5c846664cdf790278d490b2b4b63e84e3d0a1da1c53ae92f939a
+# https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHuYQ9l6wRwPWS9hn5-4ucLrU6KeqZhyphenhyphenC31nl03HMF0uvN_6PzjWsjqPuPHrJX00tpmrePsOSvlPAUTrNkVQ47m1gt-MofkepTqFGk_1WkYLNRg2p_C_UfS0DBtx3iNEtIG8jkwJwzjG-shlWpIN6t_fUQvwBi0TANfI3J1R3ynphEQc9n6EdbRdb9dhNw/s0/Picture%205.jpg=s0?imgmax=0 6412a063856f56bf77d12e9f312a7da7a3185815534a8a800f95f80b44ff5595
+# https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXOx7LbOzdD139kTIyH6x0TyAd3dwlaaxeGcqit5NGaTbaEe6q_m0Ew473VVvMGVE9mlJdfhCCqyY2rY4r-juqkRasD3ZBCH6PYjObI5eXAI8egaR-sf_jgtfq1615VYTApmJRwRkIUrmaZ-LPIC5BhIV89M97jGGj1ZbQPXr33dp99by_KIunzBEQyq-t/s0/Picture%206.jpg=s0?imgmax=0 2e8f2d6c921bc8eb5bcfb3f670c4351100460134350ae5566b56214f6fb431d8
+# https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtOVXtLRLIKfMqa5UOnwZ8SOPzKqJ7IXUZ6JtIXsMksHBhZxqUxeQWz0C7GReVb0T1DhFv8Zl9c1PmpvaHkqc55gl3b3IO367mME_cIIGv-nGTWq8LFHwtsH3SBynIBlMy-oii-Pz5C-L50cUbwHqeYlwAvxi6gxkQEMos0ROdTM-VG7NVmfM4_N1rxKwe/s0/Picture%207.jpg=s0?imgmax=0 e1d5f12b877d7337a0e92fba7bef1970900556968f6e330ebdec98766bc733ec
+# https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibdvEZ6RwnNIEfxHqtzxaY6yRXXiQ8fv61O4aCXFv515Cl4eZv-PmUEHcj0eIWmBy8Qm45wUG9PuBQz4iFJEFraBhdTFa3eLULi8GKV-Nd7-XPTqrbhgHoncEkrLiSpuks7IvDxOAxhVUCFpudbopuU5qnO5i3QPIvgHuVmL_WjZtfHe0e8Z3GJlX1QXQm/s0/Picture%2013.jpg=s0?imgmax=0 f89399a53bc32584ab42fdf85b47753c5cdbf121b9b87822be1bdf055a1a327e
+# https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOADu0sRh_zt8JzZ3U9FiM0VZWDNpDOt9rqGlw-PUV8EuNmLjgnmets4eZfllKD-H1naUZogJ1kOpfafs8mgUSs0sVZSRB2qilfG0roru6qpvxmtz6Q25QB9pzYxi_6mKkNilIus3YYk5mABTT_0ANuHG3EtV0x56cScYK0cTnrKAHpqbDqQVQaUPRQOLY/s0/Picture%2015.jpg=s0?imgmax=0 da641328888bb56232c686852c6657e5c63bbc39306cb389a63e0ae5c6f02cf3
+# https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgD28QTOKpyC2aCMkxtSbm2Mg1GqVFZNtCZFHRQ3N2S6xZVjDJwjIhd2XP_ifCFRbnSpIoJEoeSvHrOLcIrdruInUDQiCpMzTQ5skfupdCQAumI4DiuLnWGm0khMoV__mCSioPsv0ugleV9bk4l_BGfvDTH-nMVY2w5_SST0F3cyLYfJZeugMTrzza8mkye/s0/Picture%2016.jpg=s0?imgmax=0 d2eb52cfcecd175041e4bd9ee8d7a7af53ea2ba7fcf53debf9731fb1d179a5b8
+    patriciae:
+      rank: species
+      describer: Lemuria, 2026
+      holotype:
+        - name: Rainey 17.15090
+          view: ventral
+          sum:
+            sha256: f9429b926183edb3f89a87181d688a9dd72912cb301f55a22303ccd364e49ce5
+          urls:
+            - provider: orig
+              href: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1dHKRKxf8cgUtT2Yvqy3nJ_drE48a6FTmAmS9YHGYq5jERJ1o4EOMarz9q8ibmHuyVICN_ZxXDbYrZEC4lmGpK0KbsJi6XzP-F_sIH2K-pPzam5PmLKh88OgyW59mFtLN5ugHjKYnz8srx7Wsq8MtY5PII9PfiYc_yFqfBWWOMvEbmp1KO3y9r5R478U3/s0/Picture%201.jpg=s0?imgmax=0
+            - provider: ia
+              href: https://web.archive.org/web/20260409070218/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1dHKRKxf8cgUtT2Yvqy3nJ_drE48a6FTmAmS9YHGYq5jERJ1o4EOMarz9q8ibmHuyVICN_ZxXDbYrZEC4lmGpK0KbsJi6XzP-F_sIH2K-pPzam5PmLKh88OgyW59mFtLN5ugHjKYnz8srx7Wsq8MtY5PII9PfiYc_yFqfBWWOMvEbmp1KO3y9r5R478U3/s0/Picture%201.jpg=s0?imgmax=0
+      types:
+        - name: Rainey 17.21134
+          view: ventral
+          sum:
+            sha256: 9c0eba94ee320e8d77cf71881bdd08958d0eb60263d861a11adb2edb7fac7f9e
+          urls:
+            - provider: orig
+              href: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJgyEfoyufy0LV2ynuIzvePtJ8E_O8686movABhyphenhyphenY3E7gsy59uYiPzEIHFJeKIU9Tp0RXZaPfXrv12CU-1OiNqyn5fWFmB5odbtdMY3Bdb9j1u8uWAfBS_vjdd0yXHLipqarYTtYsw9rxsbLDNOaC1ZcSrD9Jam7QyPi5AU1gr0QlhPrB4mtQ-F1-mWLBd/s0/Picture%202.jpg=s0?imgmax=0
+            - provider: ia
+              href: https://web.archive.org/web/20260409070227/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJgyEfoyufy0LV2ynuIzvePtJ8E_O8686movABhyphenhyphenY3E7gsy59uYiPzEIHFJeKIU9Tp0RXZaPfXrv12CU-1OiNqyn5fWFmB5odbtdMY3Bdb9j1u8uWAfBS_vjdd0yXHLipqarYTtYsw9rxsbLDNOaC1ZcSrD9Jam7QyPi5AU1gr0QlhPrB4mtQ-F1-mWLBd/s0/Picture%202.jpg=s0?imgmax=0
+        - name: Rainey 17.21167
+          view: dorsal
+          sum:
+            sha256: ff5dda3d4bee5c846664cdf790278d490b2b4b63e84e3d0a1da1c53ae92f939a
+          urls:
+            - provider: orig
+              href: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgI7xEsHxAH_esazviAjnH5Q3x6yc4aGuHpMDO5GaDYQ4cuoI4RYPhIl6F5HVAhQky82YuOeOMcukTjjN1wvdmB_QhbG16I5vEY_SYjFI7uW3B0AHojxjwoQnsEOMXtxEz1OjW76UrDwf8r6rQV5ZCFN0A4QSSRPW5yG2umxcdDIx9WRRDvIrSOvsrMHboL/s0/Picture%204.jpg=s0?imgmax=0
+            - provider: ia
+              href: https://web.archive.org/web/20260409070230/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgI7xEsHxAH_esazviAjnH5Q3x6yc4aGuHpMDO5GaDYQ4cuoI4RYPhIl6F5HVAhQky82YuOeOMcukTjjN1wvdmB_QhbG16I5vEY_SYjFI7uW3B0AHojxjwoQnsEOMXtxEz1OjW76UrDwf8r6rQV5ZCFN0A4QSSRPW5yG2umxcdDIx9WRRDvIrSOvsrMHboL/s0/Picture%204.jpg=s0?imgmax=0
+        - name: Rainey 17.21190
+          view: ventral
+          sum:
+            sha256: 6412a063856f56bf77d12e9f312a7da7a3185815534a8a800f95f80b44ff5595
+          urls:
+            - provider: orig
+              href: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHuYQ9l6wRwPWS9hn5-4ucLrU6KeqZhyphenhyphenC31nl03HMF0uvN_6PzjWsjqPuPHrJX00tpmrePsOSvlPAUTrNkVQ47m1gt-MofkepTqFGk_1WkYLNRg2p_C_UfS0DBtx3iNEtIG8jkwJwzjG-shlWpIN6t_fUQvwBi0TANfI3J1R3ynphEQc9n6EdbRdb9dhNw/s0/Picture%205.jpg=s0?imgmax=0
+            - provider: ia
+              href: https://web.archive.org/web/20260409070158/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHuYQ9l6wRwPWS9hn5-4ucLrU6KeqZhyphenhyphenC31nl03HMF0uvN_6PzjWsjqPuPHrJX00tpmrePsOSvlPAUTrNkVQ47m1gt-MofkepTqFGk_1WkYLNRg2p_C_UfS0DBtx3iNEtIG8jkwJwzjG-shlWpIN6t_fUQvwBi0TANfI3J1R3ynphEQc9n6EdbRdb9dhNw/s0/Picture%205.jpg=s0?imgmax=0
+        - name: Rainey 17.25400
+          view:
+          sum:
+            sha256: 2e8f2d6c921bc8eb5bcfb3f670c4351100460134350ae5566b56214f6fb431d8
+          urls:
+            - provider: orig
+              href: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXOx7LbOzdD139kTIyH6x0TyAd3dwlaaxeGcqit5NGaTbaEe6q_m0Ew473VVvMGVE9mlJdfhCCqyY2rY4r-juqkRasD3ZBCH6PYjObI5eXAI8egaR-sf_jgtfq1615VYTApmJRwRkIUrmaZ-LPIC5BhIV89M97jGGj1ZbQPXr33dp99by_KIunzBEQyq-t/s0/Picture%206.jpg=s0?imgmax=0
+            - provider: ia
+              href: https://web.archive.org/web/20260409070147/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXOx7LbOzdD139kTIyH6x0TyAd3dwlaaxeGcqit5NGaTbaEe6q_m0Ew473VVvMGVE9mlJdfhCCqyY2rY4r-juqkRasD3ZBCH6PYjObI5eXAI8egaR-sf_jgtfq1615VYTApmJRwRkIUrmaZ-LPIC5BhIV89M97jGGj1ZbQPXr33dp99by_KIunzBEQyq-t/s0/Picture%206.jpg=s0?imgmax=0
+        - name: Rainey 17.25463
+          view:
+          sum:
+            sha256: e1d5f12b877d7337a0e92fba7bef1970900556968f6e330ebdec98766bc733ec
+          urls:
+            - provider: orig
+              href: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtOVXtLRLIKfMqa5UOnwZ8SOPzKqJ7IXUZ6JtIXsMksHBhZxqUxeQWz0C7GReVb0T1DhFv8Zl9c1PmpvaHkqc55gl3b3IO367mME_cIIGv-nGTWq8LFHwtsH3SBynIBlMy-oii-Pz5C-L50cUbwHqeYlwAvxi6gxkQEMos0ROdTM-VG7NVmfM4_N1rxKwe/s0/Picture%207.jpg=s0?imgmax=0
+            - provider: ia
+              href: https://web.archive.org/web/20260409070122/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtOVXtLRLIKfMqa5UOnwZ8SOPzKqJ7IXUZ6JtIXsMksHBhZxqUxeQWz0C7GReVb0T1DhFv8Zl9c1PmpvaHkqc55gl3b3IO367mME_cIIGv-nGTWq8LFHwtsH3SBynIBlMy-oii-Pz5C-L50cUbwHqeYlwAvxi6gxkQEMos0ROdTM-VG7NVmfM4_N1rxKwe/s0/Picture%207.jpg=s0?imgmax=0
+        - name: Rainey 17.27101
+          view:
+          sum:
+            sha256: f89399a53bc32584ab42fdf85b47753c5cdbf121b9b87822be1bdf055a1a327e
+          urls:
+            - provider: orig
+              href: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibdvEZ6RwnNIEfxHqtzxaY6yRXXiQ8fv61O4aCXFv515Cl4eZv-PmUEHcj0eIWmBy8Qm45wUG9PuBQz4iFJEFraBhdTFa3eLULi8GKV-Nd7-XPTqrbhgHoncEkrLiSpuks7IvDxOAxhVUCFpudbopuU5qnO5i3QPIvgHuVmL_WjZtfHe0e8Z3GJlX1QXQm/s0/Picture%2013.jpg=s0?imgmax=0
+            - provider: ia
+              href: https://web.archive.org/web/20260409070048/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibdvEZ6RwnNIEfxHqtzxaY6yRXXiQ8fv61O4aCXFv515Cl4eZv-PmUEHcj0eIWmBy8Qm45wUG9PuBQz4iFJEFraBhdTFa3eLULi8GKV-Nd7-XPTqrbhgHoncEkrLiSpuks7IvDxOAxhVUCFpudbopuU5qnO5i3QPIvgHuVmL_WjZtfHe0e8Z3GJlX1QXQm/s0/Picture%2013.jpg=s0?imgmax=0
+        - name: Rainey 17.27161
+          view: ventral
+          sum:
+            sha256: da641328888bb56232c686852c6657e5c63bbc39306cb389a63e0ae5c6f02cf3
+          urls:
+            - provider: orig
+              href: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOADu0sRh_zt8JzZ3U9FiM0VZWDNpDOt9rqGlw-PUV8EuNmLjgnmets4eZfllKD-H1naUZogJ1kOpfafs8mgUSs0sVZSRB2qilfG0roru6qpvxmtz6Q25QB9pzYxi_6mKkNilIus3YYk5mABTT_0ANuHG3EtV0x56cScYK0cTnrKAHpqbDqQVQaUPRQOLY/s0/Picture%2015.jpg=s0?imgmax=0
+            - provider: ia
+              href: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOADu0sRh_zt8JzZ3U9FiM0VZWDNpDOt9rqGlw-PUV8EuNmLjgnmets4eZfllKD-H1naUZogJ1kOpfafs8mgUSs0sVZSRB2qilfG0roru6qpvxmtz6Q25QB9pzYxi_6mKkNilIus3YYk5mABTT_0ANuHG3EtV0x56cScYK0cTnrKAHpqbDqQVQaUPRQOLY/s0/Picture%2015.jpg%3Ds0?imgmax=0
+        - name: Rainey 17.30145
+          view: ventral
+          sum:
+            sha256: d2eb52cfcecd175041e4bd9ee8d7a7af53ea2ba7fcf53debf9731fb1d179a5b8
+          urls:
+            - provider: orig
+              href: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgD28QTOKpyC2aCMkxtSbm2Mg1GqVFZNtCZFHRQ3N2S6xZVjDJwjIhd2XP_ifCFRbnSpIoJEoeSvHrOLcIrdruInUDQiCpMzTQ5skfupdCQAumI4DiuLnWGm0khMoV__mCSioPsv0ugleV9bk4l_BGfvDTH-nMVY2w5_SST0F3cyLYfJZeugMTrzza8mkye/s0/Picture%2016.jpg=s0?imgmax=0
+            - provider: ia
+              href: https://web.archive.org/web/20260409065957/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgD28QTOKpyC2aCMkxtSbm2Mg1GqVFZNtCZFHRQ3N2S6xZVjDJwjIhd2XP_ifCFRbnSpIoJEoeSvHrOLcIrdruInUDQiCpMzTQ5skfupdCQAumI4DiuLnWGm0khMoV__mCSioPsv0ugleV9bk4l_BGfvDTH-nMVY2w5_SST0F3cyLYfJZeugMTrzza8mkye/s0/Picture%2016.jpg=s0?imgmax=0
+
+_argenteleonora_subg_elastica: &_argenteleonora_subg_elastica
+  describer: Lemuria, 2026
+  rank: subgenus
+  taxa:
+    Unilastica: *_argenteleonora_sect_unilastica
+    Duolastica: *_argenteleonora_sect_duolastica
+
+_argenteleonora_subg_shira: &_argenteleonora_subg_shira
+  describer: Lemuria, 2026
+  rank: subgenus
+  taxa:
+    # thkjkhypea:
+    #   rank: species
+    #   describer: Lemuria, 2026; sp. nov.
+    #   holotype:
+    #     - name: 
+    #       view: ventral
+    #       width: 
+    #       height: 
+    #       sum: 
+    #         sha256: 
+    #       urls:
+    #         - provider: orig
+    #           href: 
+    #         - provider: ia
+    #           href: 
+    #       wearer:
+    #       cite_key: silversaga_eleonora_gallery
+    #   types:
+    madeleinae:
+      rank: species
+      describer: Lemuria, 2026; sp. nov.
+      holotype:
+        - name: Madeleine 2024.340.10805
+          view: ventral
+          width: 1440
+          height: 1792
+          sum:
+            sha256: 102ed9549bd2214ed4a404706986998751cd0be593b387488db611a1f578219b
+          urls:
+            - provider: ia
+              href: https://web.archive.org/web/20260526193545/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/655297862_18074848364403927_5586146526558589089_n.jpg?stp=dst-jpg_e35_tt6&_nc_ohc=SB6is5KpMFQQ7kNvwEOvPOu&_nc_oc=AdoBuSZ2IqqCf-Ku3EYaAJGO0yvTZispmqIOD7mUWH4uv5SE47PrGIz9HEdjnXGGhDM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=npdk7WsPAvKq5rH_Irjngg&_nc_ss=7a22e&oh=00_Af5bp8Qhdy1sibF60jizLL_3V3CkOZSlwaTrMFbszZ3gsA&oe=6A1BDD9B
+          wearer:
+            <<: *madeleine_s
+            year: 2024
+          cite_key: salisbury2024_eleonora
+      types:
+        - name: Madeleine 2024.340.11387
+          view:
+          width: 1440
+          height: 1792
+          sum:
+            sha256: a3d325313898ec193351ac55c573fd2299f9a8b11df26b74ee1474ecf4f026b1
+          urls:
+            - provider: ia
+              href: https://web.archive.org/web/20260526193547/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/656210069_18120316297615569_2707750280588918186_n.jpg?stp=dst-jpg_e35_tt6&_nc_ohc=tCIvADm1OOQQ7kNvwF0Hcq5&_nc_oc=Ado85zqNOuoE_WupLenD5t1JlqzrS1Pkx-B5gNAxR_xdjfobA4qJNealMs8WoQbMnWM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=npdk7WsPAvKq5rH_Irjngg&_nc_ss=7a22e&oh=00_Af5e4LZ7BIVe69ra3Gg-XcaeOheL4rn61KRGoAxrSj4J_A&oe=6A1BD2F4
+          wearer:
+            <<: *madeleine_s
+            year: 2024
+          cite_key: salisbury2024_eleonora
+        - name: Madeleine 2024.340.11609
+          view:
+          width: 1440
+          height: 1792
+          sum:
+            sha256: c9936ca24532035704f78bfdbe2bd99ca5e19224fa801768ae86fd901f5219e5
+          urls:
+            - provider: ia
+              href: https://web.archive.org/web/20260526193549/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/654946466_18094930667018742_8701739205467374612_n.jpg?stp=dst-jpg_e35_tt6&_nc_ohc=yJp259spVMMQ7kNvwFg3rPl&_nc_oc=AdpYioqIc0_EZog3LddefhNE_IZ5kYIRnEW1ye1i6uOjJy9oazlcHqaYrby3KjePOYo&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=npdk7WsPAvKq5rH_Irjngg&_nc_ss=7a22e&oh=00_Af7lyf6Hknr61wtVAu_AW5zHvt6Krx3CAnmfhmx_XS8GKA&oe=6A1BBCFE
+          wearer:
+            <<: *madeleine_s
+            year: 2024
+          cite_key: salisbury2024_eleonora
+        - name: Madeleine 2024.340.17309
+          view:
+          width: 1440
+          height: 1792
+          sum:
+            sha256: 54af3d73519629f19e109743abd839169ccc9ea89dbee3d214ce628e8026368c
+          urls:
+            - provider: ia
+              href: https://web.archive.org/web/20260526193629/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/670297470_18519786919074146_5121532298317872402_n.jpg?stp=dst-jpg_e35_tt6&_nc_ohc=e92hKdzTGf0Q7kNvwHuUZud&_nc_oc=Adp1B9sio72WpDndyPXUSCfN7YuVXb1b7NZ5tTCIGk57V82FkiKR1ltbp41K3D6qAro&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=npdk7WsPAvKq5rH_Irjngg&_nc_ss=7a22e&oh=00_Af5vIsEiAVMnm9T5UGHyj6ytOPsCLeQHs70PG3Y3yYv6ZQ&oe=6A1BCF87
+          wearer:
+            <<: *madeleine_s
+            year: 2024
+          cite_key: salisbury2024_eleonora
+        - name: Madeleine 2024.340.19087
+          view:
+          width: 1440
+          height: 1792
+          sum:
+            sha256: 01ac3f29ff63a033e5018906e4c36861fda08f188637eb0485bf4d01fbe3495d
+          urls:
+            - provider: ia
+              href: https://web.archive.org/web/20260526193633/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/649609798_17949356271103640_555989672779715035_n.jpg?stp=dst-jpg_e35_tt6&_nc_ohc=1N3b5Qt1EZ4Q7kNvwH6vUg4&_nc_oc=Adqi_kc6Ye-c0CNccQQjiuvmWGlk_r835B3gfapzT0NSbkS2ShWxKO1nbXbPhXnYMjg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=npdk7WsPAvKq5rH_Irjngg&_nc_ss=7a22e&oh=00_Af5NmMwQcEQ1M5ZXsQqXFyWSmBKAMSSu6XYNEru9eSKXsg&oe=6A1BC974
+          wearer:
+            <<: *madeleine_s
+            year: 2024
+          cite_key: salisbury2024_eleonora
+    madeleinatra:
+      rank: species
+      describer: Lemuria, 2026; sp. nov.
+      holotype:
+        - name: Madeleine 2024.584.11008
+          view: ventral
+          width: 1440
+          height: 1800
+          sum:
+            sha256: 2136b0efef7f30f89f85b34f9d7aeeb507add13b856b4897b9e76a60523e6408
+          urls:
+            - provider: ia
+              href: https://web.archive.org/web/20260526192656/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/655131046_17975847101844227_7927563813538374471_n.jpg?stp=dst-jpg_e35_tt6&_nc_ohc=LDwe25aRNt4Q7kNvwEpLh2l&_nc_oc=AdrSjfJlueCnnanRlEomGYug2XWqV4ZQ42WxCxSoEus_XHGpB7NvgXE67UJdYXuBz5k&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=8V4cwcXUj0jcsKkQ-DF9ZA&_nc_ss=7a22e&oh=00_Af7dUDpF41cUc-qaooHp391Gvhtu0ijlHUUyA0qz69ffaw&oe=6A1BDF4D
+          wearer:
+            <<: *madeleine_s
+            year: 2024
+          cite_key: salisbury2024_eleonora2
+      types:
+        - name: Madeleine 2024.584.11409
+          view: ventral
+          width: 1440
+          height: 1800
+          sum:
+            sha256: c425a192725129bd3bd2f29388a767ce20558614f5a09161f8fcc3f5d085ae78
+          urls:
+            - provider: ia
+              href: https://web.archive.org/web/20260526192657/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/656016281_18007827203697266_3058946831574996496_n.jpg?stp=dst-jpg_e35_tt6&_nc_ohc=DFiY0agl0qIQ7kNvwHsCwGr&_nc_oc=AdqduO_-wgVVHuoiHlUaev7ADwsmQtMwVz0HTX1jxHmf3y1CL-3rKR3GKi0Ouhnmarw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=8V4cwcXUj0jcsKkQ-DF9ZA&_nc_ss=7a22e&oh=00_Af7_qHNCrl3TLYH4rDa0IuY_tbGO0WjLbNxL4I9DKp0p7g&oe=6A1BCD68
+          wearer:
+            <<: *madeleine_s
+            year: 2024
+          cite_key: salisbury2024_eleonora2
+        - name: Madeleine 2024.584.12336
+          view: ventral
+          width: 1440
+          height: 1800
+          sum:
+            sha256: a9a524c531d53780c1dc81ef569c8980bebb13c294e2f4f494043b0bac4eb54c
+          urls:
+            - provider: ia
+              href: https://web.archive.org/web/20260526192659/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/655881292_18057140708458073_7851745391782612121_n.jpg?stp=dst-jpg_e35_tt6&_nc_ohc=vGk_RgPSWR0Q7kNvwFDg04O&_nc_oc=Adr20haTlxxHnLwduxKTI9VAVj24g42jNlnfriu2vi5rwonBX6PRXCkOLtjOHnwnM-g&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=8V4cwcXUj0jcsKkQ-DF9ZA&_nc_ss=7a22e&oh=00_Af7NDSO-39WYFV2akh_ZIA0Yin_p456p_slljGZbVQnJDw&oe=6A1BBE99
+          wearer:
+            <<: *madeleine_s
+            year: 2024
+          cite_key: salisbury2024_eleonora2
+        - name: Madeleine 2024.584.13904
+          view: ventral
+          width: 1440
+          height: 1800
+          sum:
+            sha256: f51638f6e94976f5fc8f82eb7c53aadddf6aedd764a57fc3acc7c920a06acc59
+          urls:
+            - provider: ia
+              href: https://web.archive.org/web/20260526192702/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/655192086_18074701919628146_8976797930973624292_n.jpg?stp=dst-jpg_e35_tt6&_nc_ohc=Pujt8IQzwZEQ7kNvwFQftYb&_nc_oc=Adp-GwK_SsrO3vSW662jO4zsWSwOXHOvUbQSNfRRNzfI7Ocl7KmAABR-9cwxSki9q1I&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=8V4cwcXUj0jcsKkQ-DF9ZA&_nc_ss=7a22e&oh=00_Af4lFYZOo40O-jGaPWA0WZVRcYc-ga6ECUUD81pu4umPig&oe=6A1BB8B9
+          wearer:
+            <<: *madeleine_s
+            year: 2024
+          cite_key: salisbury2024_eleonora2
+        - name: Madeleine 2024.584.15198
+          view: ventral
+          width: 1440
+          height: 1800
+          sum:
+            sha256: f65ff0da5080a97d0916bad37d0fdc6d74759ac1d5d8d10c08398206b7ec7059
+          urls:
+            - provider: ia
+              href: https://web.archive.org/web/20260526193115/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/652735517_18021789767814853_121972676830051859_n.jpg?stp=dst-jpg_e35_tt6&_nc_ohc=Cs44nv8aGpMQ7kNvwFrYZKF&_nc_oc=Adr_1PLfK8nSV8a8_J9oExEpF7indEunvuCQcPPY53VSiIuQi66ZRY8fLmmFxbw3LPg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=8V4cwcXUj0jcsKkQ-DF9ZA&_nc_ss=7a22e&oh=00_Af5w-XR89PSWFHbJqbhudFW5YDupBgSeENupjNe7Tj5zbQ&oe=6A1BAECF
+          wearer:
+            <<: *madeleine_s
+            year: 2024
+          cite_key: salisbury2024_eleonora2
+        - name: Madeleine 2024.584.15729
+          view: ventral
+          width: 1440
+          height: 1800
+          sum:
+            sha256: fcc3d704b7c072a408d5d43f637f52c028d340a99a8b733e8f51175cd17763e2
+          urls:
+            - provider: ia
+              href: https://web.archive.org/web/20260526193118/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/656402224_18079350941100306_6091283585468025148_n.jpg?stp=dst-jpg_e35_tt6&_nc_ohc=aIqIAzhT3IwQ7kNvwG7N2O7&_nc_oc=Adoi9BFjWREjBib6huhCK5Hq_BEmCGHIg6vMvyp0t7uQHLG6a3xkeFO0C8ZBawGJu4I&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=8V4cwcXUj0jcsKkQ-DF9ZA&_nc_ss=7a22e&oh=00_Af5Fp5JWOMbiqCmNSC31h0gOmiqUgnjR8S1keLhV5ncYHw&oe=6A1BD0D3
+          wearer:
+            <<: *madeleine_s
+            year: 2024
+          cite_key: salisbury2024_eleonora2
+        - name: Madeleine 2024.584.16305
+          view: ventral
+          width: 1440
+          height: 1800
+          sum:
+            sha256: 350972a22da39bfaf47a2e6718ef4eaa1c9fd2ed1ca4a6df887d4e43af5396ff
+          urls:
+            - provider: ia
+              href: https://web.archive.org/web/20260526193120/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/654093368_18075708101390524_262297275285563156_n.jpg?stp=dst-jpg_e35_tt6&_nc_ohc=LGhA7RHFXg0Q7kNvwGUtaA2&_nc_oc=AdqpP1A_Sa7MpSFTiId4xgACJoso_Ernk9lwJoavufabrq8CVQFJiRwbuDTPW9L3sGE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=8V4cwcXUj0jcsKkQ-DF9ZA&_nc_ss=7a22e&oh=00_Af6X5WhoIJIDzfnhaXv0IxwaTV2cDrS0z5OHcb8Be74icA&oe=6A1BC9DF
+          wearer:
+            <<: *madeleine_s
+            year: 2024
+          cite_key: salisbury2024_eleonora2
+        - name: Madeleine 2024.584.18040
+          view: ventral
+          width: 1440
+          height: 1800
+          sum:
+            sha256: 53623c3bb4d70a047f215ce3881fcb46ab7bba728255397216d58020e8917164
+          urls:
+            - provider: ia
+              href: https://web.archive.org/web/20260526193211/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/657350942_18096506081283922_8137311498468398982_n.jpg?stp=dst-jpg_e35_tt6&_nc_ohc=Uv2Iru5nNLAQ7kNvwGg7y8y&_nc_oc=AdqnTs_MiT6ciT9Jyr4IxvrjJBsOJmaFITei3q7_i5kvLUWm8YiMXmFofAsfzeTxGPg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=8V4cwcXUj0jcsKkQ-DF9ZA&_nc_ss=7a22e&oh=00_Af75qTW0LyJKNa9fQzP1AEFQyB6JwFj1kAd8y_gA_qKoxw&oe=6A1BD1C7
+          wearer:
+            <<: *madeleine_s
+            year: 2024
+          cite_key: salisbury2024_eleonora2
+        - name: Madeleine 2024.584.35706
+          view: ventral
+          width: 1440
+          height: 1800
+          sum:
+            sha256: cceb59af70f96002a5918a744503d1131d50f4c70f230493c30171c811519e0d
+          urls:
+            - provider: ia
+              href: https://web.archive.org/web/20260526193225/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/659145406_18316370815254148_560844554667036928_n.jpg?stp=dst-jpg_e35_tt6&_nc_ohc=jPgByOpy4qwQ7kNvwFb7RUc&_nc_oc=AdqNi9qB0xzVD6nsaKsxc1Tz8u4df-F4uQwGQCrMQ0Qohx7QcHRDHNaPdm2SJv2OlM8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=8V4cwcXUj0jcsKkQ-DF9ZA&_nc_ss=7a22e&oh=00_Af6UTRP8b98vUcCA4rHTu3-19nf-pWfX_TwBohjECnbrKg&oe=6A1BAAA6
+          wearer:
+            <<: *madeleine_s
+            year: 2024
+          cite_key: salisbury2024_eleonora2
+    manuelae:
+      rank: species
+      describer: Lemuria, 2026; sp. nov.
+      holotype:
+        - name: Wilkes 2024.884.25708
+          view: ventral
+          width: 2302
+          height: 3286
+          sum: 
+            sha256: 91842f300604cc8aa397142199dc242aa0871de7bac3b8eee4bb7642fa8a55f6
+          urls:
+            - provider: orig
+              href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Manuela_Wilkes6.jpg?v=1713456129
+            - provider: ia
+              href: https://web.archive.org/web/20260408095229/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Manuela_Wilkes6.jpg?v=1713456129
+          wearer:
+          cite_key: silversaga_eleonora_gallery
+      types:
+        - name: Wilkes 2024.884.25510
+          view: ventral
+          width: 2658
+          height: 3284
+          sum: 
+            sha256: 47e034139a0f7081317ba751d41bc86dcd0f85ce5fa80e625573db2e5b1755f2
+          urls:
+            - provider: orig
+              href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Manuela_Wilkes5_copy.jpg?v=1713456314
+            - provider: ia
+              href: https://web.archive.org/web/20260408095229/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Manuela_Wilkes5_copy.jpg?v=1713456314
+          wearer:
+          cite_key: silversaga_eleonora_gallery
+        - name: Wilkes 2024.884.24809
+          view: ventral
+          width: 2646
+          height: 3405
+          sum: 
+            sha256: 0813f65efda075c2240d94b965026ac7d059064425d24b1edda42fb166dc94fa
+          urls:
+            - provider: orig
+              href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Manuela_Wilkes3.jpg?v=1713456102
+            - provider: ia
+              href: https://web.archive.org/web/20260408095229/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Manuela_Wilkes3.jpg?v=1713456102
+          wearer:
+          cite_key: silversaga_eleonora_gallery
+    rubra:
+      rank: species
+      describer: Lemuria, 2026; sp. nov.
+      holotype:
+        - name: McClintock 2024.574.400
+          view: ventral
+          width: 1638
+          height: 2048
+          sum: 
+            sha256: 6ca2b9c3f1dd22e0dee5b5602dc1de16cf19317b8891fe688345e97a9722ec1d
+          urls:
+            - provider: orig
+              href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Yoanna_McClintock4.jpg?v=1713456020
+            - provider: ia
+              href: https://web.archive.org/web/20260408095231/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Yoanna_McClintock4.jpg?v=1713456020
+          wearer:
+          cite_key: silversaga_eleonora_gallery
+      types:
+        - name: McClintock 2024.574.300
+          view: ventral
+          width: 1638
+          height: 2048
+          sum: 
+            sha256: 579ba8e94854646f83dbc36b3a54b77482112cd135c344f2fb490e31d565e994
+          urls:
+            - provider: orig
+              href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Yoanna_McClintock3.jpg?v=1713455994
+            - provider: ia
+              href: https://web.archive.org/web/20260408095707/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Yoanna_McClintock3.jpg?v=1713455994
+          wearer:
+          cite_key: silversaga_eleonora_gallery
+    veneta:
+      rank: species
+      describer: Lemuria, 2026; sp. nov.
+      holotype:
+      - name: McClintock 2024.573.130
+        view: ventral
+        width: 1638
+        height: 2048
+        sum: 
+          sha256: 06a3450e290adc9ce2ffa350908b514da93271c406343a74b82e6b76836a1665
+        urls:
+          - provider: orig
+            href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Yoanna_McClintock13.jpg?v=1713455899
+          - provider: ia
+            href: https://web.archive.org/web/20260408095019/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Yoanna_McClintock13.jpg?v=1713455899
+        wearer:
+          <<: *yoanna
+          year: 2024
+        cite_key: silversaga_eleonora_gallery
+      types:
+      - name: McClintock 2024.573.700
+        view: ventral
+        width: 1638
+        height: 2048
+        sum: 
+          sha256: 165914ab08fe48cad1585fb699f459f86f0032c2ff02052e0f7c044847b0a311
+        urls:
+          - provider: orig
+            href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Yoanna_McClintock7.jpg?v=1713455929
+          - provider: ia
+            href: https://web.archive.org/web/20260408095124/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Yoanna_McClintock7.jpg?v=1713455929
+        wearer:
+          <<: *yoanna
+          year: 2024
+    thea:
+      rank: species
+      describer: Lemuria, 2026; sp. nov.
+      holotype:
+        - name: Stamenkovic 2024.114.7338
+          view: ventral
+          width: 1619
+          height: 2024
+          sum: 
+            sha256: bac1f572f0976bf7a9dcac31490ae6a53c314c00b89de14346285629a471c082
+          urls:
+            - provider: orig
+              href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Tea_Stamenkovic_7338.jpg?v=1713470586
+            - provider: ia
+              href: https://web.archive.org/web/20260408095712/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Tea_Stamenkovic_7338.jpg?v=1713470586
+          wearer:
+            abbr: Tea.S.
+            name: Tea Stamenkovic
+            year: 2024
+          cite_key: silversaga_eleonora_gallery
+      types:
+        - name: Stamenkovic 2024.114.7296
+          view: ventral
+          width: 1619
+          height: 2024
+          sum: 
+            sha256: 9760fed9432849260cdbebad4567bcd618b59214ddc94634fb8cdcf0493078dc
+          urls:
+            - provider: orig
+              href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Tea_Stamenkovic_7296.jpg?v=1713470641
+            - provider: ia
+              href: https://web.archive.org/web/20260408095800/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Tea_Stamenkovic_7296.jpg?v=1713470641
+          wearer:
+            abbr: Tea.S.
+            name: Tea Stamenkovic
+            year: 2024
+          cite_key: silversaga_eleonora_gallery
+        - name: Stamenkovic 2024.114.7265
+          view: ventral
+          width: 1619
+          height: 2024
+          sum: 
+            sha256: 3aa739d085d5e1365191b9a1a8bc97ea8866a1fcf0254654ae407c8a69bdab36
+          urls:
+            - provider: orig
+              href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Tea_Stamenkovic_7265.jpg?v=1713470661
+            - provider: ia
+              href: https://web.archive.org/web/20260408095806/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Tea_Stamenkovic_7265.jpg?v=1713470661
+          wearer:
+            abbr: Tea.S.
+            name: Tea Stamenkovic
+            year: 2024
+          cite_key: silversaga_eleonora_gallery
+
+_argenteleonora: &_argenteleonora
+  rank: genus
+  describer: Lemuria, 2026
+  taxa:
+    Elastica: *_argenteleonora_subg_elastica
+    Shira: *_argenteleonora_subg_shira
+
+taxa:
+  Argenteleonoridae:
+    rank: family
+    describer: Lemuria, 2026
+    taxa:
+      Argenteleonora: *_argenteleonora
