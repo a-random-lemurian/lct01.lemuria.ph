@@ -68,7 +68,7 @@ wearers:
 _argenteleonora_sect_unilastica: &_argenteleonora_sect_unilastica
   describer: Lemuria, 2026
   rank: section
-  taxa:
+  #taxa:
 
 _argenteleonora_sect_duolastica: &_argenteleonora_sect_duolastica
   describer: Lemuria, 2026
@@ -137,7 +137,9 @@ _argenteleonora_sect_duolastica: &_argenteleonora_sect_duolastica
               href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Bethany_Routamaa.jpg?v=1713471765
             - provider: ia
               href: https://web.archive.org/web/20260408095302/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Bethany_Routamaa.jpg?v=1713471765
-          wearer: *bethany
+          wearer:
+            <<: *bethany
+            year: 2024
       types:
         - name: Bethany 108.1798
           view: dorsal
@@ -148,7 +150,9 @@ _argenteleonora_sect_duolastica: &_argenteleonora_sect_duolastica
               href: https://web.archive.org/web/20260408095308/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Bethany_Routamaa2.jpg?v=1713471798
           sum:
             sha256: 06ea6f6c2a8b08aebdc8475aa43da82767211842ac11b0162b3bba8b9ccc204f
-          wearer: *bethany
+          wearer:
+            <<: *bethany
+            year: 2024
         - name: Bethany 108.1763
           view: ventral
           urls:
@@ -158,7 +162,9 @@ _argenteleonora_sect_duolastica: &_argenteleonora_sect_duolastica
               href: https://web.archive.org/web/20260408095300/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Bethany_Routamaa4.jpg?v=1713471720
           sum:
             sha256: 9d5ed53970c97a161cdccd7835b1ed80b62a6aac2ae4723c22f9d84e92caaf77
-          wearer: *bethany
+          wearer:
+            <<: *bethany
+            year: 2024
 # https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1dHKRKxf8cgUtT2Yvqy3nJ_drE48a6FTmAmS9YHGYq5jERJ1o4EOMarz9q8ibmHuyVICN_ZxXDbYrZEC4lmGpK0KbsJi6XzP-F_sIH2K-pPzam5PmLKh88OgyW59mFtLN5ugHjKYnz8srx7Wsq8MtY5PII9PfiYc_yFqfBWWOMvEbmp1KO3y9r5R478U3/s0/Picture%201.jpg=s0?imgmax=0 f9429b926183edb3f89a87181d688a9dd72912cb301f55a22303ccd364e49ce5
 # https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJgyEfoyufy0LV2ynuIzvePtJ8E_O8686movABhyphenhyphenY3E7gsy59uYiPzEIHFJeKIU9Tp0RXZaPfXrv12CU-1OiNqyn5fWFmB5odbtdMY3Bdb9j1u8uWAfBS_vjdd0yXHLipqarYTtYsw9rxsbLDNOaC1ZcSrD9Jam7QyPi5AU1gr0QlhPrB4mtQ-F1-mWLBd/s0/Picture%202.jpg=s0?imgmax=0 9c0eba94ee320e8d77cf71881bdd08958d0eb60263d861a11adb2edb7fac7f9e
 # https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgI7xEsHxAH_esazviAjnH5Q3x6yc4aGuHpMDO5GaDYQ4cuoI4RYPhIl6F5HVAhQky82YuOeOMcukTjjN1wvdmB_QhbG16I5vEY_SYjFI7uW3B0AHojxjwoQnsEOMXtxEz1OjW76UrDwf8r6rQV5ZCFN0A4QSSRPW5yG2umxcdDIx9WRRDvIrSOvsrMHboL/s0/Picture%204.jpg=s0?imgmax=0 ff5dda3d4bee5c846664cdf790278d490b2b4b63e84e3d0a1da1c53ae92f939a
@@ -174,6 +180,12 @@ _argenteleonora_sect_duolastica: &_argenteleonora_sect_duolastica
       holotype:
         - name: Rainey 17.15090
           view: ventral
+          width: 3024
+          height: 4032
+          wearer:
+            name: Patricia Rainey
+            abbr: Patricia.R.
+            year: 2025
           sum:
             sha256: f9429b926183edb3f89a87181d688a9dd72912cb301f55a22303ccd364e49ce5
           urls:
@@ -184,6 +196,12 @@ _argenteleonora_sect_duolastica: &_argenteleonora_sect_duolastica
       types:
         - name: Rainey 17.21134
           view: ventral
+          width: 3024
+          height: 4032
+          wearer:
+            name: Patricia Rainey
+            abbr: Patricia.R.
+            year: 2025
           sum:
             sha256: 9c0eba94ee320e8d77cf71881bdd08958d0eb60263d861a11adb2edb7fac7f9e
           urls:
@@ -193,6 +211,12 @@ _argenteleonora_sect_duolastica: &_argenteleonora_sect_duolastica
               href: https://web.archive.org/web/20260409070227/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJgyEfoyufy0LV2ynuIzvePtJ8E_O8686movABhyphenhyphenY3E7gsy59uYiPzEIHFJeKIU9Tp0RXZaPfXrv12CU-1OiNqyn5fWFmB5odbtdMY3Bdb9j1u8uWAfBS_vjdd0yXHLipqarYTtYsw9rxsbLDNOaC1ZcSrD9Jam7QyPi5AU1gr0QlhPrB4mtQ-F1-mWLBd/s0/Picture%202.jpg=s0?imgmax=0
         - name: Rainey 17.21167
           view: dorsal
+          width: 3024
+          height: 4032
+          wearer:
+            name: Patricia Rainey
+            abbr: Patricia.R.
+            year: 2025
           sum:
             sha256: ff5dda3d4bee5c846664cdf790278d490b2b4b63e84e3d0a1da1c53ae92f939a
           urls:
@@ -202,6 +226,12 @@ _argenteleonora_sect_duolastica: &_argenteleonora_sect_duolastica
               href: https://web.archive.org/web/20260409070230/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgI7xEsHxAH_esazviAjnH5Q3x6yc4aGuHpMDO5GaDYQ4cuoI4RYPhIl6F5HVAhQky82YuOeOMcukTjjN1wvdmB_QhbG16I5vEY_SYjFI7uW3B0AHojxjwoQnsEOMXtxEz1OjW76UrDwf8r6rQV5ZCFN0A4QSSRPW5yG2umxcdDIx9WRRDvIrSOvsrMHboL/s0/Picture%204.jpg=s0?imgmax=0
         - name: Rainey 17.21190
           view: ventral
+          width: 3024
+          height: 4032
+          wearer:
+            name: Patricia Rainey
+            abbr: Patricia.R.
+            year: 2025
           sum:
             sha256: 6412a063856f56bf77d12e9f312a7da7a3185815534a8a800f95f80b44ff5595
           urls:
@@ -211,6 +241,12 @@ _argenteleonora_sect_duolastica: &_argenteleonora_sect_duolastica
               href: https://web.archive.org/web/20260409070158/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHuYQ9l6wRwPWS9hn5-4ucLrU6KeqZhyphenhyphenC31nl03HMF0uvN_6PzjWsjqPuPHrJX00tpmrePsOSvlPAUTrNkVQ47m1gt-MofkepTqFGk_1WkYLNRg2p_C_UfS0DBtx3iNEtIG8jkwJwzjG-shlWpIN6t_fUQvwBi0TANfI3J1R3ynphEQc9n6EdbRdb9dhNw/s0/Picture%205.jpg=s0?imgmax=0
         - name: Rainey 17.25400
           view:
+          width: 3024
+          height: 4032
+          wearer:
+            name: Patricia Rainey
+            abbr: Patricia.R.
+            year: 2025
           sum:
             sha256: 2e8f2d6c921bc8eb5bcfb3f670c4351100460134350ae5566b56214f6fb431d8
           urls:
@@ -220,6 +256,12 @@ _argenteleonora_sect_duolastica: &_argenteleonora_sect_duolastica
               href: https://web.archive.org/web/20260409070147/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXOx7LbOzdD139kTIyH6x0TyAd3dwlaaxeGcqit5NGaTbaEe6q_m0Ew473VVvMGVE9mlJdfhCCqyY2rY4r-juqkRasD3ZBCH6PYjObI5eXAI8egaR-sf_jgtfq1615VYTApmJRwRkIUrmaZ-LPIC5BhIV89M97jGGj1ZbQPXr33dp99by_KIunzBEQyq-t/s0/Picture%206.jpg=s0?imgmax=0
         - name: Rainey 17.25463
           view:
+          width: 3024
+          height: 4032
+          wearer:
+            name: Patricia Rainey
+            abbr: Patricia.R.
+            year: 2025
           sum:
             sha256: e1d5f12b877d7337a0e92fba7bef1970900556968f6e330ebdec98766bc733ec
           urls:
@@ -229,6 +271,12 @@ _argenteleonora_sect_duolastica: &_argenteleonora_sect_duolastica
               href: https://web.archive.org/web/20260409070122/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtOVXtLRLIKfMqa5UOnwZ8SOPzKqJ7IXUZ6JtIXsMksHBhZxqUxeQWz0C7GReVb0T1DhFv8Zl9c1PmpvaHkqc55gl3b3IO367mME_cIIGv-nGTWq8LFHwtsH3SBynIBlMy-oii-Pz5C-L50cUbwHqeYlwAvxi6gxkQEMos0ROdTM-VG7NVmfM4_N1rxKwe/s0/Picture%207.jpg=s0?imgmax=0
         - name: Rainey 17.27101
           view:
+          width: 3024
+          height: 4032
+          wearer:
+            name: Patricia Rainey
+            abbr: Patricia.R.
+            year: 2025
           sum:
             sha256: f89399a53bc32584ab42fdf85b47753c5cdbf121b9b87822be1bdf055a1a327e
           urls:
@@ -238,6 +286,12 @@ _argenteleonora_sect_duolastica: &_argenteleonora_sect_duolastica
               href: https://web.archive.org/web/20260409070048/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibdvEZ6RwnNIEfxHqtzxaY6yRXXiQ8fv61O4aCXFv515Cl4eZv-PmUEHcj0eIWmBy8Qm45wUG9PuBQz4iFJEFraBhdTFa3eLULi8GKV-Nd7-XPTqrbhgHoncEkrLiSpuks7IvDxOAxhVUCFpudbopuU5qnO5i3QPIvgHuVmL_WjZtfHe0e8Z3GJlX1QXQm/s0/Picture%2013.jpg=s0?imgmax=0
         - name: Rainey 17.27161
           view: ventral
+          width: 3024
+          height: 4032
+          wearer:
+            name: Patricia Rainey
+            abbr: Patricia.R.
+            year: 2025
           sum:
             sha256: da641328888bb56232c686852c6657e5c63bbc39306cb389a63e0ae5c6f02cf3
           urls:
@@ -247,6 +301,12 @@ _argenteleonora_sect_duolastica: &_argenteleonora_sect_duolastica
               href: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOADu0sRh_zt8JzZ3U9FiM0VZWDNpDOt9rqGlw-PUV8EuNmLjgnmets4eZfllKD-H1naUZogJ1kOpfafs8mgUSs0sVZSRB2qilfG0roru6qpvxmtz6Q25QB9pzYxi_6mKkNilIus3YYk5mABTT_0ANuHG3EtV0x56cScYK0cTnrKAHpqbDqQVQaUPRQOLY/s0/Picture%2015.jpg%3Ds0?imgmax=0
         - name: Rainey 17.30145
           view: ventral
+          width: 3024
+          height: 4032
+          wearer:
+            name: Patricia Rainey
+            abbr: Patricia.R.
+            year: 2025
           sum:
             sha256: d2eb52cfcecd175041e4bd9ee8d7a7af53ea2ba7fcf53debf9731fb1d179a5b8
           urls:
@@ -492,6 +552,9 @@ _argenteleonora_subg_shira: &_argenteleonora_subg_shira
             - provider: ia
               href: https://web.archive.org/web/20260408095229/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Manuela_Wilkes6.jpg?v=1713456129
           wearer:
+            name: Manuela Wilkes
+            abbr: Manuela.W.
+            year: 2024
           cite_key: silversaga_eleonora_gallery
       types:
         - name: Wilkes 2024.884.25510
@@ -506,6 +569,9 @@ _argenteleonora_subg_shira: &_argenteleonora_subg_shira
             - provider: ia
               href: https://web.archive.org/web/20260408095229/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Manuela_Wilkes5_copy.jpg?v=1713456314
           wearer:
+            name: Manuela Wilkes
+            abbr: Manuela.W.
+            year: 2024
           cite_key: silversaga_eleonora_gallery
         - name: Wilkes 2024.884.24809
           view: ventral
@@ -519,6 +585,9 @@ _argenteleonora_subg_shira: &_argenteleonora_subg_shira
             - provider: ia
               href: https://web.archive.org/web/20260408095229/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Manuela_Wilkes3.jpg?v=1713456102
           wearer:
+            name: Manuela Wilkes
+            abbr: Manuela.W.
+            year: 2024
           cite_key: silversaga_eleonora_gallery
     rubra:
       rank: species
@@ -536,6 +605,8 @@ _argenteleonora_subg_shira: &_argenteleonora_subg_shira
             - provider: ia
               href: https://web.archive.org/web/20260408095231/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Yoanna_McClintock4.jpg?v=1713456020
           wearer:
+            <<: *yoanna
+            year: 2024
           cite_key: silversaga_eleonora_gallery
       types:
         - name: McClintock 2024.574.300
@@ -550,6 +621,8 @@ _argenteleonora_subg_shira: &_argenteleonora_subg_shira
             - provider: ia
               href: https://web.archive.org/web/20260408095707/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Yoanna_McClintock3.jpg?v=1713455994
           wearer:
+            <<: *yoanna
+            year: 2024
           cite_key: silversaga_eleonora_gallery
     veneta:
       rank: species
