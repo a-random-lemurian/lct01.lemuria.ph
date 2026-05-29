@@ -171,7 +171,7 @@ lcperson:Theresa_Neef
 lctax:Argenclara 
 	lhs:descriptionEvent lcdescev:s384_b53d2e6bf4de388a3b2ffe3ddfc73631f374ddda4058e8b0d35c97effd8fae54f18a7ff227059181fcd6e2b4d70a6a74 ;
 	lhs:rank lcrank:Genus ;
-	rdf:label "Argenclara" ;
+	rdfs:label "Argenclara" ;
 	rdf:type lhs:Taxon .
 lctax:Argenclara_alexae 
 	lhs:descriptionEvent lcdescev:s384_8e2708ebb52a3c6ba343b3f74f1b8d901d946284af467288ee81d81b34f6d00036994dcde03d379ce107143a019c9383 ;
@@ -179,7 +179,7 @@ lctax:Argenclara_alexae
 	lhs:holotype lhtype:Alex_40.6700AA ;
 	lhs:parent lctax:Argenclara ;
 	lhs:rank lcrank:Species ;
-	rdf:label "Argenclara alexae" ;
+	rdfs:label "Argenclara alexae" ;
 	rdf:type lhs:Taxon .
 lctax:Argenclara_alexisae 
 	lhs:descriptionEvent lcdescev:s384_fac39a10f8f1aa56dfa39041e06723276b6c422c624a87fa60872aab06c2d0226a242daf4d72169d4222420929472b96 ;
@@ -187,7 +187,7 @@ lctax:Argenclara_alexisae
 	lhs:holotype lhtype:Wright_17.4019 ;
 	lhs:parent lctax:Argenclara ;
 	lhs:rank lcrank:Species ;
-	rdf:label "Argenclara alexisae" ;
+	rdfs:label "Argenclara alexisae" ;
 	rdf:type lhs:Taxon .
 lctax:Argenclara_baumgartia 
 	lhs:descriptionEvent lcdescev:s384_c74eb4bebb5a89079be6f04495d3e694a14d2b057805bec38a27eea431fed91459304bf8648f24268c9efb0e71994555 ;
@@ -195,7 +195,7 @@ lctax:Argenclara_baumgartia
 	lhs:holotype lhtype:Baumgart_95.6714 ;
 	lhs:parent lctax:Argenclara ;
 	lhs:rank lcrank:Species ;
-	rdf:label "Argenclara baumgartia" ;
+	rdfs:label "Argenclara baumgartia" ;
 	rdf:type lhs:Taxon .
 lctax:Argenclara_bethanae 
 	lhs:descriptionEvent lcdescev:s384_4dd5671146d646294865203c0cd2c21b946b7772cb9554f457c703480127b83ac41e68524921565e8b21c6132dac4ec6 ;
@@ -203,7 +203,7 @@ lctax:Argenclara_bethanae
 	lhs:holotype lhtype:Bethany_126.4429 ;
 	lhs:parent lctax:Argenclara ;
 	lhs:rank lcrank:Species ;
-	rdf:label "Argenclara bethanae" ;
+	rdfs:label "Argenclara bethanae" ;
 	rdf:type lhs:Taxon .
 lctax:Argenclara_caitlinae 
 	lhs:descriptionEvent lcdescev:s384_46e69de0b2853ad0b823e43477f039a8be4da4263ce0729d2a48e1ade8f8d2f7636e1b50808d0ae66b040c5137f8f798 ;
@@ -211,7 +211,7 @@ lctax:Argenclara_caitlinae
 	lhs:holotype lhtype:Caitlin_40.1873AC ;
 	lhs:parent lctax:Argenclara ;
 	lhs:rank lcrank:Species ;
-	rdf:label "Argenclara caitlinae" ;
+	rdfs:label "Argenclara caitlinae" ;
 	rdf:type lhs:Taxon .
 lctax:Argenclara_evae 
 	lhs:descriptionEvent lcdescev:s384_5e3eac720b7177443dd4513ebd82788cf99aa6604a73dd05dd28c388d90de29b437ddda824bc5a1625f3bac1bd76694a ;
@@ -219,7 +219,7 @@ lctax:Argenclara_evae
 	lhs:holotype lhtype:Eva_2024.51321AE ;
 	lhs:parent lctax:Argenclara ;
 	lhs:rank lcrank:Species ;
-	rdf:label "Argenclara evae" ;
+	rdfs:label "Argenclara evae" ;
 	rdf:type lhs:Taxon .
 lctax:Argenclara_fenae 
 	lhs:descriptionEvent lcdescev:s384_f040697d69c96dcb50585c5e52e240be206b300a5ba442c84a7673530d6051950a2aac965041cc979a82f90226a1fccb ;
@@ -227,7 +227,7 @@ lctax:Argenclara_fenae
 	lhs:holotype lhtype:Fena_105.6711AF ;
 	lhs:parent lctax:Argenclara ;
 	lhs:rank lcrank:Species ;
-	rdf:label "Argenclara fenae" ;
+	rdfs:label "Argenclara fenae" ;
 	rdf:type lhs:Taxon .
 lctax:Argenclara_gratia 
 	lhs:descriptionEvent lcdescev:s384_089ddcfc0fc8ced85f554510634777f02e5b4488dfe495888d4d98da9b6a97fa85f05ab6e10ebba7d75ba7d42dcce8c9 ;
@@ -235,7 +235,7 @@ lctax:Argenclara_gratia
 	lhs:holotype lhtype:Grace_15.44320 ;
 	lhs:parent lctax:Argenclara ;
 	lhs:rank lcrank:Species ;
-	rdf:label "Argenclara gratia" ;
+	rdfs:label "Argenclara gratia" ;
 	rdf:type lhs:Taxon .
 lctax:Argenclara_hetheringtonia 
 	lhs:descriptionEvent lcdescev:s384_8fe9dfe927a9de266da1326f660e662a62bb9320d5b483aa1e8243c88e5c3772544d8af86740016b0af95e9f72e4179a ;
@@ -243,7 +243,7 @@ lctax:Argenclara_hetheringtonia
 	lhs:holotype lhtype:Hetherington_240.4350 ;
 	lhs:parent lctax:Argenclara ;
 	lhs:rank lcrank:Species ;
-	rdf:label "Argenclara hetheringtonia" ;
+	rdfs:label "Argenclara hetheringtonia" ;
 	rdf:type lhs:Taxon .
 lctax:Argenclara_jessae 
 	lhs:descriptionEvent lcdescev:s384_55d3fab9dd131e40f5d8f2b34f39f7e89c5798bde3580c1e17d8a86fa67b77b9c1387fd1d16cdbcad916987968044110 ;
@@ -251,7 +251,7 @@ lctax:Argenclara_jessae
 	lhs:holotype lhtype:Jones_28.1741 ;
 	lhs:parent lctax:Argenclara ;
 	lhs:rank lcrank:Species ;
-	rdf:label "Argenclara jessae" ;
+	rdfs:label "Argenclara jessae" ;
 	rdf:type lhs:Taxon .
 lctax:Argenclara_lunatribis 
 	lhs:descriptionEvent lcdescev:s384_d24b9c3b81e4d287739205d7a08b70f415d45ef3c18ce2c0fa084deb3a928890440e686b38fae18b107a395b2eb9f28d ;
@@ -259,7 +259,7 @@ lctax:Argenclara_lunatribis
 	lhs:holotype lhtype:Hunter-Moon_25.17665 ;
 	lhs:parent lctax:Argenclara_subg._Venaluna ;
 	lhs:rank lcrank:Species ;
-	rdf:label "Argenclara lunatribis" ;
+	rdfs:label "Argenclara lunatribis" ;
 	rdf:type lhs:Taxon .
 lctax:Argenclara_lunatrix 
 	lhs:descriptionEvent lcdescev:s384_f9bacf0d1c7bd8646c64b533060157179c0bc4c7407a8664b597f1bb358c6a8d171ee4d77e45dbab28acc91fce699c64 ;
@@ -267,7 +267,7 @@ lctax:Argenclara_lunatrix
 	lhs:holotype lhtype:Hunter-Moon_23.4877 ;
 	lhs:parent lctax:Argenclara_subg._Venaluna ;
 	lhs:rank lcrank:Species ;
-	rdf:label "Argenclara lunatrix" ;
+	rdfs:label "Argenclara lunatrix" ;
 	rdf:type lhs:Taxon .
 lctax:Argenclara_mai 
 	lhs:descriptionEvent lcdescev:s384_9cd985897565564109348d991e70310636f0146c17418c4853b09c98a78d2a741bc87778227e955de3e6a25ce2482835 ;
@@ -275,7 +275,7 @@ lctax:Argenclara_mai
 	lhs:holotype lhtype:Vang_25.4050 ;
 	lhs:parent lctax:Argenclara ;
 	lhs:rank lcrank:Species ;
-	rdf:label "Argenclara mai" ;
+	rdfs:label "Argenclara mai" ;
 	rdf:type lhs:Taxon .
 lctax:Argenclara_malinae 
 	lhs:descriptionEvent lcdescev:s384_d3160e160f208cb6da9822b0926e2eedc02d3152dd130cf0ee78540c9b36ae53f2569874211ad743214b4ca3c2abdd95 ;
@@ -283,7 +283,7 @@ lctax:Argenclara_malinae
 	lhs:holotype lhtype:Stara_10.19448 ;
 	lhs:parent lctax:Argenclara ;
 	lhs:rank lcrank:Species ;
-	rdf:label "Argenclara malinae" ;
+	rdfs:label "Argenclara malinae" ;
 	rdf:type lhs:Taxon .
 lctax:Argenclara_mantorae 
 	lhs:descriptionEvent lcdescev:s384_818fd918beb8a4012006a3325f5f5ce4d6a628e053ad4caf5239e8d2e3d16ef2ea5a94de82067cd8cc4eef81373c5065 ;
@@ -291,7 +291,7 @@ lctax:Argenclara_mantorae
 	lhs:holotype lhtype:Mantori_19.3097 ;
 	lhs:parent lctax:Argenclara_subg._Lacashira ;
 	lhs:rank lcrank:Species ;
-	rdf:label "Argenclara mantorae" ;
+	rdfs:label "Argenclara mantorae" ;
 	rdf:type lhs:Taxon .
 lctax:Argenclara_morgania 
 	lhs:descriptionEvent lcdescev:s384_abcb2c3c9bad9522eb17b7a8697bad5d472bb3ed1a30ba2a91a865ff336fccbc67822406984ee68ab7ba13cfa6e89640 ;
@@ -299,19 +299,19 @@ lctax:Argenclara_morgania
 	lhs:holotype lhtype:Morgan_13.57610 ;
 	lhs:parent lctax:Argenclara ;
 	lhs:rank lcrank:Species ;
-	rdf:label "Argenclara morgania" ;
+	rdfs:label "Argenclara morgania" ;
 	rdf:type lhs:Taxon .
 lctax:Argenclara_subg._Lacashira 
 	lhs:descriptionEvent lcdescev:s384_c4e0192d891a88a2713e0331d1f4f7cd64a93658307e317e40e98be6bce9cec897f6091d7f6bd07069c3a28052f13a37 ;
 	lhs:parent lctax:Argenclara ;
 	lhs:rank lcrank:Subgenus ;
-	rdf:label "Argenclara subg. Lacashira" ;
+	rdfs:label "Argenclara subg. Lacashira" ;
 	rdf:type lhs:Taxon .
 lctax:Argenclara_subg._Venaluna 
 	lhs:descriptionEvent lcdescev:s384_bde73f42516b8826ae1b456fc533e06f6135774ecb20558fd90bb829cc7b7ed0fddb4ac89f1beb3a27f779ad6cdbe01c ;
 	lhs:parent lctax:Argenclara ;
 	lhs:rank lcrank:Subgenus ;
-	rdf:label "Argenclara subg. Venaluna" ;
+	rdfs:label "Argenclara subg. Venaluna" ;
 	rdf:type lhs:Taxon .
 lctax:Argenclara_teschia 
 	lhs:descriptionEvent lcdescev:s384_4c21363153e3ade7ee93892991fb000fd21c7b653120096617aa221a42e2576de77325c063c9150e32c48de97a13a24f ;
@@ -319,7 +319,7 @@ lctax:Argenclara_teschia
 	lhs:holotype lhtype:Tesch_50.6700 ;
 	lhs:parent lctax:Argenclara ;
 	lhs:rank lcrank:Species ;
-	rdf:label "Argenclara teschia" ;
+	rdfs:label "Argenclara teschia" ;
 	rdf:type lhs:Taxon .
 lctax:Argenclara_theresae 
 	lhs:descriptionEvent lcdescev:s384_c32fa32563ececd75587b19e55c2ad49ff05a5dfec792f32a75ab3be69b215faa77c486382d1c528fb0529ac221276ca ;
@@ -327,7 +327,7 @@ lctax:Argenclara_theresae
 	lhs:holotype lhtype:Theresa_23.2818AT ;
 	lhs:parent lctax:Argenclara ;
 	lhs:rank lcrank:Species ;
-	rdf:label "Argenclara theresae" ;
+	rdfs:label "Argenclara theresae" ;
 	rdf:type lhs:Taxon .
 lctax:Argenclara_tortajada 
 	lhs:descriptionEvent lcdescev:s384_d89858bf8013b52eec92e70ae7e6acc7b39e4fbca175af894416ebc453a3c000f2295d7e54c9610ca57c7a8560003610 ;
@@ -335,7 +335,7 @@ lctax:Argenclara_tortajada
 	lhs:holotype lhtype:Tortajada_39.8104 ;
 	lhs:parent lctax:Argenclara ;
 	lhs:rank lcrank:Species ;
-	rdf:label "Argenclara tortajada" ;
+	rdfs:label "Argenclara tortajada" ;
 	rdf:type lhs:Taxon .
 lctax:Argenclara_wilhoitia 
 	lhs:descriptionEvent lcdescev:s384_08972cf0d0ef71c3285cbbb4a1d9155e1ff42fe78935a422ab00c9f6f3c6f5b61ce5fd97f3e77e3343a09b64ddd35138 ;
@@ -343,12 +343,12 @@ lctax:Argenclara_wilhoitia
 	lhs:holotype lhtype:Wilhoit_34.1870 ;
 	lhs:parent lctax:Argenclara ;
 	lhs:rank lcrank:Species ;
-	rdf:label "Argenclara wilhoitia" ;
+	rdfs:label "Argenclara wilhoitia" ;
 	rdf:type lhs:Taxon .
 lctax:Trunclara 
 	lhs:descriptionEvent lcdescev:s384_ff6ed8b4cb05ea0a63521a264556fc7c9fa7d04b3f099f45664d7037ccd1e4cedf799276209d6f29b41d6695ebaabad8 ;
 	lhs:rank lcrank:Genus ;
-	rdf:label "Trunclara" ;
+	rdfs:label "Trunclara" ;
 	rdf:type lhs:Taxon .
 lctax:Trunclara_piolae 
 	lhs:descriptionEvent lcdescev:s384_a19ad7539b54ddaa4c0d1a86e28b7ca4c0fd09da46bfee146425d7e0bef2bc0484ee998caa5cff978552939d69f16608 ;
@@ -356,7 +356,7 @@ lctax:Trunclara_piolae
 	lhs:holotype lhtype:Piola_2024.12778.20 ;
 	lhs:parent lctax:Trunclara ;
 	lhs:rank lcrank:Species ;
-	rdf:label "Trunclara piolae" ;
+	rdfs:label "Trunclara piolae" ;
 	rdf:type lhs:Taxon .
 lcwearev:s384_00e24a05a05445b551e99e40e1155c48d03ec485cf9eead821c7878be959defa25640364d9d3354238eeecd381ad30ca 
 	lhs:taxonWorn lctax:Argenclara_alexae ;

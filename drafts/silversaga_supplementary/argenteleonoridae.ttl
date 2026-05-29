@@ -12,94 +12,94 @@
 lctax:Argenteleonora 
 	lhs:parent lctax:Argenteleonoridae ;
 	lhs:rank lcrank:Genus ;
-	rdf:label "Argenteleonora" ;
+	rdfs:label "Argenteleonora" ;
 	rdf:type lhs:Taxon .
 lctax:Argenteleonora_bethanae 
 	lhs:hasType lhtype:Bethany_108.1763, lhtype:Bethany_108.1798 ;
 	lhs:holotype lhtype:Bethany_108.5716 ;
 	lhs:parent lctax:Argenteleonora_sect._Duolastica ;
 	lhs:rank lcrank:Species ;
-	rdf:label "Argenteleonora bethanae" ;
+	rdfs:label "Argenteleonora bethanae" ;
 	rdf:type lhs:Taxon .
 lctax:Argenteleonora_katiae 
 	lhs:hasType lhtype:Weychardt_2024.1475.24, lhtype:Weychardt_2024.1475.77 ;
 	lhs:holotype lhtype:Weychardt_2024.1475.50 ;
 	lhs:parent lctax:Argenteleonora_sect._Duolastica ;
 	lhs:rank lcrank:Species ;
-	rdf:label "Argenteleonora katiae" ;
+	rdfs:label "Argenteleonora katiae" ;
 	rdf:type lhs:Taxon .
 lctax:Argenteleonora_madeleinae 
 	lhs:hasType lhtype:Madeleine_2024.340.11387, lhtype:Madeleine_2024.340.11609, lhtype:Madeleine_2024.340.17309, lhtype:Madeleine_2024.340.19087 ;
 	lhs:holotype lhtype:Madeleine_2024.340.10805 ;
 	lhs:parent lctax:Argenteleonora_subg._Shira ;
 	lhs:rank lcrank:Species ;
-	rdf:label "Argenteleonora madeleinae" ;
+	rdfs:label "Argenteleonora madeleinae" ;
 	rdf:type lhs:Taxon .
 lctax:Argenteleonora_madeleinatra 
 	lhs:hasType lhtype:Madeleine_2024.584.11409, lhtype:Madeleine_2024.584.12336, lhtype:Madeleine_2024.584.13904, lhtype:Madeleine_2024.584.15198, lhtype:Madeleine_2024.584.15729, lhtype:Madeleine_2024.584.16305, lhtype:Madeleine_2024.584.18040, lhtype:Madeleine_2024.584.35706 ;
 	lhs:holotype lhtype:Madeleine_2024.584.11008 ;
 	lhs:parent lctax:Argenteleonora_subg._Shira ;
 	lhs:rank lcrank:Species ;
-	rdf:label "Argenteleonora madeleinatra" ;
+	rdfs:label "Argenteleonora madeleinatra" ;
 	rdf:type lhs:Taxon .
 lctax:Argenteleonora_manuelae 
 	lhs:hasType lhtype:Wilkes_2024.884.24809, lhtype:Wilkes_2024.884.25510 ;
 	lhs:holotype lhtype:Wilkes_2024.884.25708 ;
 	lhs:parent lctax:Argenteleonora_subg._Shira ;
 	lhs:rank lcrank:Species ;
-	rdf:label "Argenteleonora manuelae" ;
+	rdfs:label "Argenteleonora manuelae" ;
 	rdf:type lhs:Taxon .
 lctax:Argenteleonora_patriciae 
 	lhs:hasType lhtype:Rainey_17.21134, lhtype:Rainey_17.21167, lhtype:Rainey_17.21190, lhtype:Rainey_17.25400, lhtype:Rainey_17.25463, lhtype:Rainey_17.27101, lhtype:Rainey_17.27161, lhtype:Rainey_17.30145 ;
 	lhs:holotype lhtype:Rainey_17.15090 ;
 	lhs:parent lctax:Argenteleonora_sect._Duolastica ;
 	lhs:rank lcrank:Species ;
-	rdf:label "Argenteleonora patriciae" ;
+	rdfs:label "Argenteleonora patriciae" ;
 	rdf:type lhs:Taxon .
 lctax:Argenteleonora_rubra 
 	lhs:hasType lhtype:McClintock_2024.574.300 ;
 	lhs:holotype lhtype:McClintock_2024.574.400 ;
 	lhs:parent lctax:Argenteleonora_subg._Shira ;
 	lhs:rank lcrank:Species ;
-	rdf:label "Argenteleonora rubra" ;
+	rdfs:label "Argenteleonora rubra" ;
 	rdf:type lhs:Taxon .
 lctax:Argenteleonora_sect._Duolastica 
 	lhs:parent lctax:Argenteleonora_subg._Elastica ;
 	lhs:rank lcrank:Section ;
-	rdf:label "Argenteleonora sect. Duolastica" ;
+	rdfs:label "Argenteleonora sect. Duolastica" ;
 	rdf:type lhs:Taxon .
 lctax:Argenteleonora_sect._Unilastica 
 	lhs:parent lctax:Argenteleonora_subg._Elastica ;
 	lhs:rank lcrank:Section ;
-	rdf:label "Argenteleonora sect. Unilastica" ;
+	rdfs:label "Argenteleonora sect. Unilastica" ;
 	rdf:type lhs:Taxon .
 lctax:Argenteleonora_subg._Elastica 
 	lhs:parent lctax:Argenteleonora ;
 	lhs:rank lcrank:Subgenus ;
-	rdf:label "Argenteleonora subg. Elastica" ;
+	rdfs:label "Argenteleonora subg. Elastica" ;
 	rdf:type lhs:Taxon .
 lctax:Argenteleonora_subg._Shira 
 	lhs:parent lctax:Argenteleonora ;
 	lhs:rank lcrank:Subgenus ;
-	rdf:label "Argenteleonora subg. Shira" ;
+	rdfs:label "Argenteleonora subg. Shira" ;
 	rdf:type lhs:Taxon .
 lctax:Argenteleonora_thea 
 	lhs:hasType lhtype:Stamenkovic_2024.114.7265, lhtype:Stamenkovic_2024.114.7296 ;
 	lhs:holotype lhtype:Stamenkovic_2024.114.7338 ;
 	lhs:parent lctax:Argenteleonora_subg._Shira ;
 	lhs:rank lcrank:Species ;
-	rdf:label "Argenteleonora thea" ;
+	rdfs:label "Argenteleonora thea" ;
 	rdf:type lhs:Taxon .
 lctax:Argenteleonora_veneta 
 	lhs:hasType lhtype:McClintock_2024.573.700 ;
 	lhs:holotype lhtype:McClintock_2024.573.130 ;
 	lhs:parent lctax:Argenteleonora_subg._Shira ;
 	lhs:rank lcrank:Species ;
-	rdf:label "Argenteleonora veneta" ;
+	rdfs:label "Argenteleonora veneta" ;
 	rdf:type lhs:Taxon .
 lctax:Argenteleonoridae 
 	lhs:rank lcrank:Family ;
-	rdf:label "Argenteleonoridae" ;
+	rdfs:label "Argenteleonoridae" ;
 	rdf:type lhs:Taxon .
 lhimg:s2_03c84baa0c85559ca8b1ab612b16986afc4f617e116874a6d9a20abb0154b0e8 
 	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Yoanna_McClintock3.jpg?v=1713455994> ;
@@ -426,271 +426,271 @@ lhtype:Bethany_108.1763
 	lhs:imgIntegrity "sha256:9d5ed53970c97a161cdccd7835b1ed80b62a6aac2ae4723c22f9d84e92caaf77" ;
 	lhs:imgLocation lhimg:s2_387c067bbea96bd96e8a22e1d0b2268eb7e8204dfbdd472e52934a01c0f353b3, lhimg:s2_493f975667388e42d25a7df96bb5f413d82fa586cfe2429cce8f42701a5681d6 ;
 	lhs:imgWidth "0"^^xsd:integer ;
-	rdf:label "Bethany 108.1763" ;
+	rdfs:label "Bethany 108.1763" ;
 	rdf:type lhs:ImageType .
 lhtype:Bethany_108.1798 
 	lhs:imgHeight "0"^^xsd:integer ;
 	lhs:imgIntegrity "sha256:06ea6f6c2a8b08aebdc8475aa43da82767211842ac11b0162b3bba8b9ccc204f" ;
 	lhs:imgLocation lhimg:s2_16f5bb233e2f554513e9938c8978644816246c4e0f1b67c9ca948e8de6f3093f, lhimg:s2_17193b10ed5587a512484f025d843b5cab079d4839efaa31af063a8d61ef4860 ;
 	lhs:imgWidth "0"^^xsd:integer ;
-	rdf:label "Bethany 108.1798" ;
+	rdfs:label "Bethany 108.1798" ;
 	rdf:type lhs:ImageType .
 lhtype:Bethany_108.5716 
 	lhs:imgHeight "0"^^xsd:integer ;
 	lhs:imgIntegrity "sha256:a1aef642f44c5bfbb6f8c00a6911e7a32e5df31252e71fd7a4330e4edf90ddf2" ;
 	lhs:imgLocation lhimg:s2_462320e19a7605bbcc2a8c793d92b5add4db5b674043aa4620cef3d92bd8f3da, lhimg:s2_6c293de8cdb02e26945a3db42167e5bdefc551dff60574e762e06e047d5e5378 ;
 	lhs:imgWidth "0"^^xsd:integer ;
-	rdf:label "Bethany 108.5716" ;
+	rdfs:label "Bethany 108.5716" ;
 	rdf:type lhs:ImageType .
 lhtype:Madeleine_2024.340.10805 
 	lhs:imgHeight "1792"^^xsd:integer ;
 	lhs:imgIntegrity "sha256:102ed9549bd2214ed4a404706986998751cd0be593b387488db611a1f578219b" ;
 	lhs:imgLocation lhimg:s2_536b5e8979466e11206ee11ddba092983b231c089fd9615de2b358394c7b8170 ;
 	lhs:imgWidth "1440"^^xsd:integer ;
-	rdf:label "Madeleine 2024.340.10805" ;
+	rdfs:label "Madeleine 2024.340.10805" ;
 	rdf:type lhs:ImageType .
 lhtype:Madeleine_2024.340.11387 
 	lhs:imgHeight "1792"^^xsd:integer ;
 	lhs:imgIntegrity "sha256:a3d325313898ec193351ac55c573fd2299f9a8b11df26b74ee1474ecf4f026b1" ;
 	lhs:imgLocation lhimg:s2_49b631d7f6d4bbd88fb5fc0cc9b98a00ec20a1bf8ca112190df55f88c05e3bb7 ;
 	lhs:imgWidth "1440"^^xsd:integer ;
-	rdf:label "Madeleine 2024.340.11387" ;
+	rdfs:label "Madeleine 2024.340.11387" ;
 	rdf:type lhs:ImageType .
 lhtype:Madeleine_2024.340.11609 
 	lhs:imgHeight "1792"^^xsd:integer ;
 	lhs:imgIntegrity "sha256:c9936ca24532035704f78bfdbe2bd99ca5e19224fa801768ae86fd901f5219e5" ;
 	lhs:imgLocation lhimg:s2_73ab64efabb078bc9e6aedafb4d3331c8b25e4c83c03eca92103f9a9bd7c98c2 ;
 	lhs:imgWidth "1440"^^xsd:integer ;
-	rdf:label "Madeleine 2024.340.11609" ;
+	rdfs:label "Madeleine 2024.340.11609" ;
 	rdf:type lhs:ImageType .
 lhtype:Madeleine_2024.340.17309 
 	lhs:imgHeight "1792"^^xsd:integer ;
 	lhs:imgIntegrity "sha256:54af3d73519629f19e109743abd839169ccc9ea89dbee3d214ce628e8026368c" ;
 	lhs:imgLocation lhimg:s2_c6b96c1451e1019d41048d0e6ec383e2192154b0fc1923c9540ff6ff732beb4b ;
 	lhs:imgWidth "1440"^^xsd:integer ;
-	rdf:label "Madeleine 2024.340.17309" ;
+	rdfs:label "Madeleine 2024.340.17309" ;
 	rdf:type lhs:ImageType .
 lhtype:Madeleine_2024.340.19087 
 	lhs:imgHeight "1792"^^xsd:integer ;
 	lhs:imgIntegrity "sha256:01ac3f29ff63a033e5018906e4c36861fda08f188637eb0485bf4d01fbe3495d" ;
 	lhs:imgLocation lhimg:s2_4911b41d334455b06ba5097946379a5e6946adf814f21481a2f88bf9dc206632 ;
 	lhs:imgWidth "1440"^^xsd:integer ;
-	rdf:label "Madeleine 2024.340.19087" ;
+	rdfs:label "Madeleine 2024.340.19087" ;
 	rdf:type lhs:ImageType .
 lhtype:Madeleine_2024.584.11008 
 	lhs:imgHeight "1800"^^xsd:integer ;
 	lhs:imgIntegrity "sha256:2136b0efef7f30f89f85b34f9d7aeeb507add13b856b4897b9e76a60523e6408" ;
 	lhs:imgLocation lhimg:s2_78c885c1260a063716a2338a241e88bc408308ac5e2663af236b4376000c484c ;
 	lhs:imgWidth "1440"^^xsd:integer ;
-	rdf:label "Madeleine 2024.584.11008" ;
+	rdfs:label "Madeleine 2024.584.11008" ;
 	rdf:type lhs:ImageType .
 lhtype:Madeleine_2024.584.11409 
 	lhs:imgHeight "1800"^^xsd:integer ;
 	lhs:imgIntegrity "sha256:c425a192725129bd3bd2f29388a767ce20558614f5a09161f8fcc3f5d085ae78" ;
 	lhs:imgLocation lhimg:s2_2f47c636f1b7cf2af86423b4d97ed02c4e8d5a5d008d9d620cd10a5f65832e7b ;
 	lhs:imgWidth "1440"^^xsd:integer ;
-	rdf:label "Madeleine 2024.584.11409" ;
+	rdfs:label "Madeleine 2024.584.11409" ;
 	rdf:type lhs:ImageType .
 lhtype:Madeleine_2024.584.12336 
 	lhs:imgHeight "1800"^^xsd:integer ;
 	lhs:imgIntegrity "sha256:a9a524c531d53780c1dc81ef569c8980bebb13c294e2f4f494043b0bac4eb54c" ;
 	lhs:imgLocation lhimg:s2_11a03a926fa800ff84cdec54e629d1e4ba4d7397434f2d991203301b866dbf3e ;
 	lhs:imgWidth "1440"^^xsd:integer ;
-	rdf:label "Madeleine 2024.584.12336" ;
+	rdfs:label "Madeleine 2024.584.12336" ;
 	rdf:type lhs:ImageType .
 lhtype:Madeleine_2024.584.13904 
 	lhs:imgHeight "1800"^^xsd:integer ;
 	lhs:imgIntegrity "sha256:f51638f6e94976f5fc8f82eb7c53aadddf6aedd764a57fc3acc7c920a06acc59" ;
 	lhs:imgLocation lhimg:s2_21ac2fab442b5261d1358af22399d638fb56ee1c7295dfdbf0278d587d5592c7 ;
 	lhs:imgWidth "1440"^^xsd:integer ;
-	rdf:label "Madeleine 2024.584.13904" ;
+	rdfs:label "Madeleine 2024.584.13904" ;
 	rdf:type lhs:ImageType .
 lhtype:Madeleine_2024.584.15198 
 	lhs:imgHeight "1800"^^xsd:integer ;
 	lhs:imgIntegrity "sha256:f65ff0da5080a97d0916bad37d0fdc6d74759ac1d5d8d10c08398206b7ec7059" ;
 	lhs:imgLocation lhimg:s2_e6c1462a5d35d587efe17e453d46b46bcbd78004440f695f01fcbf2c809019fa ;
 	lhs:imgWidth "1440"^^xsd:integer ;
-	rdf:label "Madeleine 2024.584.15198" ;
+	rdfs:label "Madeleine 2024.584.15198" ;
 	rdf:type lhs:ImageType .
 lhtype:Madeleine_2024.584.15729 
 	lhs:imgHeight "1800"^^xsd:integer ;
 	lhs:imgIntegrity "sha256:fcc3d704b7c072a408d5d43f637f52c028d340a99a8b733e8f51175cd17763e2" ;
 	lhs:imgLocation lhimg:s2_4293375e75f155a9a091d14266d1d9d2bddbac35fb98d6d81b897555fc688812 ;
 	lhs:imgWidth "1440"^^xsd:integer ;
-	rdf:label "Madeleine 2024.584.15729" ;
+	rdfs:label "Madeleine 2024.584.15729" ;
 	rdf:type lhs:ImageType .
 lhtype:Madeleine_2024.584.16305 
 	lhs:imgHeight "1800"^^xsd:integer ;
 	lhs:imgIntegrity "sha256:350972a22da39bfaf47a2e6718ef4eaa1c9fd2ed1ca4a6df887d4e43af5396ff" ;
 	lhs:imgLocation lhimg:s2_0d60e865e4c5bbceda44ba59b151e993b335478da7a197b2f2118699e2c823d2 ;
 	lhs:imgWidth "1440"^^xsd:integer ;
-	rdf:label "Madeleine 2024.584.16305" ;
+	rdfs:label "Madeleine 2024.584.16305" ;
 	rdf:type lhs:ImageType .
 lhtype:Madeleine_2024.584.18040 
 	lhs:imgHeight "1800"^^xsd:integer ;
 	lhs:imgIntegrity "sha256:53623c3bb4d70a047f215ce3881fcb46ab7bba728255397216d58020e8917164" ;
 	lhs:imgLocation lhimg:s2_0da88e535cb9eb628f683947d4b78bc49d9f70053132ee42c91a832614f71d50 ;
 	lhs:imgWidth "1440"^^xsd:integer ;
-	rdf:label "Madeleine 2024.584.18040" ;
+	rdfs:label "Madeleine 2024.584.18040" ;
 	rdf:type lhs:ImageType .
 lhtype:Madeleine_2024.584.35706 
 	lhs:imgHeight "1800"^^xsd:integer ;
 	lhs:imgIntegrity "sha256:cceb59af70f96002a5918a744503d1131d50f4c70f230493c30171c811519e0d" ;
 	lhs:imgLocation lhimg:s2_3aeed66940116f0436c3805daf9317598414dd51358f6122c9c7ea3bcff1e7b2 ;
 	lhs:imgWidth "1440"^^xsd:integer ;
-	rdf:label "Madeleine 2024.584.35706" ;
+	rdfs:label "Madeleine 2024.584.35706" ;
 	rdf:type lhs:ImageType .
 lhtype:McClintock_2024.573.130 
 	lhs:imgHeight "2048"^^xsd:integer ;
 	lhs:imgIntegrity "sha256:06a3450e290adc9ce2ffa350908b514da93271c406343a74b82e6b76836a1665" ;
 	lhs:imgLocation lhimg:s2_8c5d57d763a2b6d46722957e3deec23351cf7cb8e224e9dd2a96e01c7630e7af, lhimg:s2_9bed31ffea29c14409da368e918d63ab977d857d0c0293f760d0a896fb2a5dbf ;
 	lhs:imgWidth "1638"^^xsd:integer ;
-	rdf:label "McClintock 2024.573.130" ;
+	rdfs:label "McClintock 2024.573.130" ;
 	rdf:type lhs:ImageType .
 lhtype:McClintock_2024.573.700 
 	lhs:imgHeight "2048"^^xsd:integer ;
 	lhs:imgIntegrity "sha256:165914ab08fe48cad1585fb699f459f86f0032c2ff02052e0f7c044847b0a311" ;
 	lhs:imgLocation lhimg:s2_adde8e23a5fa4a3c3850bae2a9dfc09f2864c3b8b30add9ab2f4c7e28d09b51c, lhimg:s2_f797d98984d77cae84df54eddad5cbd3a1b409d71af2e11cf41bee3be19cee6b ;
 	lhs:imgWidth "1638"^^xsd:integer ;
-	rdf:label "McClintock 2024.573.700" ;
+	rdfs:label "McClintock 2024.573.700" ;
 	rdf:type lhs:ImageType .
 lhtype:McClintock_2024.574.300 
 	lhs:imgHeight "2048"^^xsd:integer ;
 	lhs:imgIntegrity "sha256:579ba8e94854646f83dbc36b3a54b77482112cd135c344f2fb490e31d565e994" ;
 	lhs:imgLocation lhimg:s2_03c84baa0c85559ca8b1ab612b16986afc4f617e116874a6d9a20abb0154b0e8, lhimg:s2_75bb8752d8f317b98029114053b6335d634fa10ea2737ba1a28f600a72b5eeac ;
 	lhs:imgWidth "1638"^^xsd:integer ;
-	rdf:label "McClintock 2024.574.300" ;
+	rdfs:label "McClintock 2024.574.300" ;
 	rdf:type lhs:ImageType .
 lhtype:McClintock_2024.574.400 
 	lhs:imgHeight "2048"^^xsd:integer ;
 	lhs:imgIntegrity "sha256:6ca2b9c3f1dd22e0dee5b5602dc1de16cf19317b8891fe688345e97a9722ec1d" ;
 	lhs:imgLocation lhimg:s2_50552fda31649885aa513cb2d619c7a39446b8f49a87b9e4eed47ad4cfbb7509, lhimg:s2_61f3fd6c3e9adda6d418185aff480aceb6a1501430ca829c5906c030b8f1123c ;
 	lhs:imgWidth "1638"^^xsd:integer ;
-	rdf:label "McClintock 2024.574.400" ;
+	rdfs:label "McClintock 2024.574.400" ;
 	rdf:type lhs:ImageType .
 lhtype:Rainey_17.15090 
 	lhs:imgHeight "0"^^xsd:integer ;
 	lhs:imgIntegrity "sha256:f9429b926183edb3f89a87181d688a9dd72912cb301f55a22303ccd364e49ce5" ;
 	lhs:imgLocation lhimg:s2_15c78f1e66f91a2b2066330d190918a137c418d1d55e6a8df2a3d4eedd6982eb, lhimg:s2_21f3646b2bd65abb9df579a16ad16c42fbc9bbd73876047f51c4ea229d50c492 ;
 	lhs:imgWidth "0"^^xsd:integer ;
-	rdf:label "Rainey 17.15090" ;
+	rdfs:label "Rainey 17.15090" ;
 	rdf:type lhs:ImageType .
 lhtype:Rainey_17.21134 
 	lhs:imgHeight "0"^^xsd:integer ;
 	lhs:imgIntegrity "sha256:9c0eba94ee320e8d77cf71881bdd08958d0eb60263d861a11adb2edb7fac7f9e" ;
 	lhs:imgLocation lhimg:s2_323c011b0eddfa5096c5b88559a75c20075fba17cf373d813c56e103f1bbf0e2, lhimg:s2_a63b996fd86d1df3133db462259bb7d90fdbd9cc89f9817e22926f3253ac4375 ;
 	lhs:imgWidth "0"^^xsd:integer ;
-	rdf:label "Rainey 17.21134" ;
+	rdfs:label "Rainey 17.21134" ;
 	rdf:type lhs:ImageType .
 lhtype:Rainey_17.21167 
 	lhs:imgHeight "0"^^xsd:integer ;
 	lhs:imgIntegrity "sha256:ff5dda3d4bee5c846664cdf790278d490b2b4b63e84e3d0a1da1c53ae92f939a" ;
 	lhs:imgLocation lhimg:s2_f387235195acd139f924982b983a240b55dfab5277adca606cd95f9bfd907ac8, lhimg:s2_fff60f0afb887e6f0686ca56d056768a588ba5656bce6648721d7c4496de8013 ;
 	lhs:imgWidth "0"^^xsd:integer ;
-	rdf:label "Rainey 17.21167" ;
+	rdfs:label "Rainey 17.21167" ;
 	rdf:type lhs:ImageType .
 lhtype:Rainey_17.21190 
 	lhs:imgHeight "0"^^xsd:integer ;
 	lhs:imgIntegrity "sha256:6412a063856f56bf77d12e9f312a7da7a3185815534a8a800f95f80b44ff5595" ;
 	lhs:imgLocation lhimg:s2_5a51e174adb3556c175450ef3f9316cfcd67017ad7cfd99b28a89a090c7df07b, lhimg:s2_f43594f316321c0995aa1bcf9c74899da28fd895a482753c5ce924208824948a ;
 	lhs:imgWidth "0"^^xsd:integer ;
-	rdf:label "Rainey 17.21190" ;
+	rdfs:label "Rainey 17.21190" ;
 	rdf:type lhs:ImageType .
 lhtype:Rainey_17.25400 
 	lhs:imgHeight "0"^^xsd:integer ;
 	lhs:imgIntegrity "sha256:2e8f2d6c921bc8eb5bcfb3f670c4351100460134350ae5566b56214f6fb431d8" ;
 	lhs:imgLocation lhimg:s2_0ac7c3652cad4d660b5fafd314df1d8595edfb3fe85cd2768a92239f54c70525, lhimg:s2_f001a0dcd334c56ba8f32387d0b9b58f569fb665cc320fe822ea7b45da6ff355 ;
 	lhs:imgWidth "0"^^xsd:integer ;
-	rdf:label "Rainey 17.25400" ;
+	rdfs:label "Rainey 17.25400" ;
 	rdf:type lhs:ImageType .
 lhtype:Rainey_17.25463 
 	lhs:imgHeight "0"^^xsd:integer ;
 	lhs:imgIntegrity "sha256:e1d5f12b877d7337a0e92fba7bef1970900556968f6e330ebdec98766bc733ec" ;
 	lhs:imgLocation lhimg:s2_ca3bff1dfa7a57289002020f161aec8874729eea1f6e49c2b5bf451e42f428fd, lhimg:s2_f1a14e48ecc1c0c14665470318990bd9a5dbd8ac564ce59ff262d39ee8ad9983 ;
 	lhs:imgWidth "0"^^xsd:integer ;
-	rdf:label "Rainey 17.25463" ;
+	rdfs:label "Rainey 17.25463" ;
 	rdf:type lhs:ImageType .
 lhtype:Rainey_17.27101 
 	lhs:imgHeight "0"^^xsd:integer ;
 	lhs:imgIntegrity "sha256:f89399a53bc32584ab42fdf85b47753c5cdbf121b9b87822be1bdf055a1a327e" ;
 	lhs:imgLocation lhimg:s2_091a0bb20ef020f570c43c4f649b3b982d35a9a2d978b66e3d4b9c60904aa0f3, lhimg:s2_baffc3673ed4541bb5466610d893801c1da7ee0201585369a48dbd0b543b3859 ;
 	lhs:imgWidth "0"^^xsd:integer ;
-	rdf:label "Rainey 17.27101" ;
+	rdfs:label "Rainey 17.27101" ;
 	rdf:type lhs:ImageType .
 lhtype:Rainey_17.27161 
 	lhs:imgHeight "0"^^xsd:integer ;
 	lhs:imgIntegrity "sha256:da641328888bb56232c686852c6657e5c63bbc39306cb389a63e0ae5c6f02cf3" ;
 	lhs:imgLocation lhimg:s2_225826d09823eb285056c8baf2957e36290ea73541bddbf0ca5799ab59240ead, lhimg:s2_59f708804f3890a73d5cede04872010801752b1d54b073a625443a250c74f211 ;
 	lhs:imgWidth "0"^^xsd:integer ;
-	rdf:label "Rainey 17.27161" ;
+	rdfs:label "Rainey 17.27161" ;
 	rdf:type lhs:ImageType .
 lhtype:Rainey_17.30145 
 	lhs:imgHeight "0"^^xsd:integer ;
 	lhs:imgIntegrity "sha256:d2eb52cfcecd175041e4bd9ee8d7a7af53ea2ba7fcf53debf9731fb1d179a5b8" ;
 	lhs:imgLocation lhimg:s2_0a0de329fc6f6db8bc042f6291d14a5fb492b5294ff2b401fe9b25b7795d4ca1, lhimg:s2_ce250d901bdf2f68954e07b5f8df869574e4682787f768827e235c214a573070 ;
 	lhs:imgWidth "0"^^xsd:integer ;
-	rdf:label "Rainey 17.30145" ;
+	rdfs:label "Rainey 17.30145" ;
 	rdf:type lhs:ImageType .
 lhtype:Stamenkovic_2024.114.7265 
 	lhs:imgHeight "2024"^^xsd:integer ;
 	lhs:imgIntegrity "sha256:3aa739d085d5e1365191b9a1a8bc97ea8866a1fcf0254654ae407c8a69bdab36" ;
 	lhs:imgLocation lhimg:s2_26072c9ce7a813f842600dec4b749c22e546e193dda27778e80914a325201dc8, lhimg:s2_6f69c64fdd36f14c7dfe5b03294275ba639c0209c9e217717818778bea7dfb24 ;
 	lhs:imgWidth "1619"^^xsd:integer ;
-	rdf:label "Stamenkovic 2024.114.7265" ;
+	rdfs:label "Stamenkovic 2024.114.7265" ;
 	rdf:type lhs:ImageType .
 lhtype:Stamenkovic_2024.114.7296 
 	lhs:imgHeight "2024"^^xsd:integer ;
 	lhs:imgIntegrity "sha256:9760fed9432849260cdbebad4567bcd618b59214ddc94634fb8cdcf0493078dc" ;
 	lhs:imgLocation lhimg:s2_53e3ffc384083c97e9351cbd4cfc203f58bf37f50f600872bdb3bf3b3ae0de27, lhimg:s2_6da9a133d8a1a0e7775be1c9ba6e09f456705054b029c0e9baca1a1b4022661d ;
 	lhs:imgWidth "1619"^^xsd:integer ;
-	rdf:label "Stamenkovic 2024.114.7296" ;
+	rdfs:label "Stamenkovic 2024.114.7296" ;
 	rdf:type lhs:ImageType .
 lhtype:Stamenkovic_2024.114.7338 
 	lhs:imgHeight "2024"^^xsd:integer ;
 	lhs:imgIntegrity "sha256:bac1f572f0976bf7a9dcac31490ae6a53c314c00b89de14346285629a471c082" ;
 	lhs:imgLocation lhimg:s2_d0a40cff18ad451a3a555db5b8d2b2867fef6d0a1201c591551d1985e1864255, lhimg:s2_ffab8e371243fa9aaadc7dda34b6417dcf7ca666061f7194d3636217becbdfe0 ;
 	lhs:imgWidth "1619"^^xsd:integer ;
-	rdf:label "Stamenkovic 2024.114.7338" ;
+	rdfs:label "Stamenkovic 2024.114.7338" ;
 	rdf:type lhs:ImageType .
 lhtype:Weychardt_2024.1475.24 
 	lhs:imgHeight "4495"^^xsd:integer ;
 	lhs:imgIntegrity "sha256:ce67b0bedfe5c2edbf8b115be59266802b1dcf47b2a9db30e3473a89bd5421d0" ;
 	lhs:imgLocation lhimg:s2_40910ecef888e47994bdc2ea8888f538fb718400abd0751381f9fb6de9f188da, lhimg:s2_ed29447f1fdc7528330044f481cd355524d424189c98571757af6e9c13134007 ;
 	lhs:imgWidth "2997"^^xsd:integer ;
-	rdf:label "Weychardt 2024.1475.24" ;
+	rdfs:label "Weychardt 2024.1475.24" ;
 	rdf:type lhs:ImageType .
 lhtype:Weychardt_2024.1475.50 
 	lhs:imgHeight "4940"^^xsd:integer ;
 	lhs:imgIntegrity "sha256:0bfba0c217a2227ed40a63ab2d15e773566912e89eb4a021c22c221f77242780" ;
 	lhs:imgLocation lhimg:s2_b71e13feef61c6a8a97022d7f22ccf9366008530349511ff25883f8625fb76e5, lhimg:s2_f000fc53f320103344a1d95706130895a97ca785e79458ed9530b8c6123e61ec ;
 	lhs:imgWidth "3293"^^xsd:integer ;
-	rdf:label "Weychardt 2024.1475.50" ;
+	rdfs:label "Weychardt 2024.1475.50" ;
 	rdf:type lhs:ImageType .
 lhtype:Weychardt_2024.1475.77 
 	lhs:imgHeight "4754"^^xsd:integer ;
 	lhs:imgIntegrity "sha256:786c8b743594b37ce2b287442923ff74700b6277053780c1c19d9069cbdfd0b0" ;
 	lhs:imgLocation lhimg:s2_3ca7600b453968fa3473f7e904bb3bfece3039b025e4a3f2e303fc0145cd69b9, lhimg:s2_dbec208f6cd3ec2d58821047242202c64749f1c58996d0b4696b9ec9ad81f86e ;
 	lhs:imgWidth "3169"^^xsd:integer ;
-	rdf:label "Weychardt 2024.1475.77" ;
+	rdfs:label "Weychardt 2024.1475.77" ;
 	rdf:type lhs:ImageType .
 lhtype:Wilkes_2024.884.24809 
 	lhs:imgHeight "3405"^^xsd:integer ;
 	lhs:imgIntegrity "sha256:0813f65efda075c2240d94b965026ac7d059064425d24b1edda42fb166dc94fa" ;
 	lhs:imgLocation lhimg:s2_45d0227ff7a64adfd741f11414d1e72ffe7774d72cd69f159c87091045061076, lhimg:s2_fb2ec640b607578e83295bf5739f4cf0870b48f13598c9052670db274c00d28d ;
 	lhs:imgWidth "2646"^^xsd:integer ;
-	rdf:label "Wilkes 2024.884.24809" ;
+	rdfs:label "Wilkes 2024.884.24809" ;
 	rdf:type lhs:ImageType .
 lhtype:Wilkes_2024.884.25510 
 	lhs:imgHeight "3284"^^xsd:integer ;
 	lhs:imgIntegrity "sha256:47e034139a0f7081317ba751d41bc86dcd0f85ce5fa80e625573db2e5b1755f2" ;
 	lhs:imgLocation lhimg:s2_0be4c52113de3b9159f226761d0d2fa47fd8e84cf6e7ab306efcf0b538ec81d6, lhimg:s2_28c4e5b7b67a27e5b011aad3fa547041227eee78f4922286d9b508e2bfda04c4 ;
 	lhs:imgWidth "2658"^^xsd:integer ;
-	rdf:label "Wilkes 2024.884.25510" ;
+	rdfs:label "Wilkes 2024.884.25510" ;
 	rdf:type lhs:ImageType .
 lhtype:Wilkes_2024.884.25708 
 	lhs:imgHeight "3286"^^xsd:integer ;
 	lhs:imgIntegrity "sha256:91842f300604cc8aa397142199dc242aa0871de7bac3b8eee4bb7642fa8a55f6" ;
 	lhs:imgLocation lhimg:s2_1b4a77f1b960c47f1affe84b7bd301f1969d4faefd4d9da831bb3a3d194e9790, lhimg:s2_3ba7e7ac4402ca55804257e65ed9eab87d8ff9c12bd10f1c9761d7243a66a23d ;
 	lhs:imgWidth "2302"^^xsd:integer ;
-	rdf:label "Wilkes 2024.884.25708" ;
+	rdfs:label "Wilkes 2024.884.25708" ;
 	rdf:type lhs:ImageType .
