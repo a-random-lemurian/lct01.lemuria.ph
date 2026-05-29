@@ -1,0 +1,791 @@
+@base <https://lct01.lemuria.ph/rdf/lct01/lhs#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix lhimg: <https://lct01.lemuria.ph/rdf/lct01/lhs/image/> .
+@prefix lhtype: <https://lct01.lemuria.ph/rdf/lct01/lhs/type/> .
+@prefix lhs: <https://lct01.lemuria.ph/rdf/lct01/lhs#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix lctax: <https://lct01.lemuria.ph/rdf/lct01/lhs/taxon/> .
+@prefix lcrank: <https://lct01.lemuria.ph/rdf/lct01/lhs/ranks/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+lctax:Heleonora 
+	lhs:parent lctax:Heleonoridae ;
+	lhs:rank lcrank:Genus ;
+	rdf:label "Heleonora" ;
+	rdf:type lhs:Taxon .
+lctax:Heleonora_anjae 
+	lhs:hasType lhtype:Anja_930.1724 ;
+	lhs:holotype lhtype:Anja_930.1871 ;
+	lhs:parent lctax:Heleonora_subg._Shira ;
+	lhs:rank lcrank:Species ;
+	rdf:label "Heleonora anjae" ;
+	rdf:type lhs:Taxon .
+lctax:Heleonora_beatricae 
+	lhs:hasType lhtype:Beatrice_210.1651 ;
+	lhs:holotype lhtype:Beatrice_210.1631 ;
+	lhs:parent lctax:Heleonora_subg._Shira ;
+	lhs:rank lcrank:Species ;
+	rdf:label "Heleonora beatricae" ;
+	rdf:type lhs:Taxon .
+lctax:Heleonora_blantonia 
+	lhs:hasType lhtype:Blanton_2024.433.14853, lhtype:Blanton_2024.433.19582, lhtype:Blanton_2024.433.32667, lhtype:Blanton_2024.433.40968, lhtype:Blanton_2024.433.51080, lhtype:Blanton_2024.433.69846, lhtype:Blanton_2024.433.76407, lhtype:Blanton_2024.433.79988 ;
+	lhs:holotype lhtype:Blanton_2024.433.46636 ;
+	lhs:parent lctax:Heleonora_subg._Shira ;
+	lhs:rank lcrank:Species ;
+	rdf:label "Heleonora blantonia" ;
+	rdf:type lhs:Taxon .
+lctax:Heleonora_fraxina 
+	lhs:hasType lhtype:Ashley_931.1744, lhtype:Ashley_931.1763 ;
+	lhs:holotype lhtype:Ashley_931.1620 ;
+	lhs:parent lctax:Heleonora_subg._Shira ;
+	lhs:rank lcrank:Species ;
+	rdf:label "Heleonora fraxina" ;
+	rdf:type lhs:Taxon .
+lctax:Heleonora_gabriellae 
+	lhs:hasType lhtype:Gabrielle_394.2049 ;
+	lhs:holotype lhtype:Gabrielle_394.2071 ;
+	lhs:parent lctax:Heleonora_subg._Shira ;
+	lhs:rank lcrank:Species ;
+	rdf:label "Heleonora gabriellae" ;
+	rdf:type lhs:Taxon .
+lctax:Heleonora_garciae 
+	lhs:hasType lhtype:Garcia_290.1711, lhtype:Garcia_290.1736 ;
+	lhs:holotype lhtype:Garcia_290.1709 ;
+	lhs:parent lctax:Heleonora_subg._Shira ;
+	lhs:rank lcrank:Species ;
+	rdf:label "Heleonora garciae" ;
+	rdf:type lhs:Taxon .
+lctax:Heleonora_ioanae 
+	lhs:hasType lhtype:Ioana_119.1057 ;
+	lhs:holotype lhtype:Ioana_119.1048 ;
+	lhs:parent lctax:Heleonora_subg._Shira ;
+	lhs:rank lcrank:Species ;
+	rdf:label "Heleonora ioanae" ;
+	rdf:type lhs:Taxon .
+lctax:Heleonora_jessae 
+	lhs:hasType lhtype:Jessa_157.12676 ;
+	lhs:holotype lhtype:Jessa_157.1490 ;
+	lhs:parent lctax:Heleonora_subg._Shira ;
+	lhs:rank lcrank:Species ;
+	rdf:label "Heleonora jessae" ;
+	rdf:type lhs:Taxon .
+lctax:Heleonora_karecandida 
+	lhs:hasType lhtype:Karen_210.1439.43997, lhtype:Karen_210.1439.71897 ;
+	lhs:holotype lhtype:Karen_210.1439.92994 ;
+	lhs:parent lctax:Heleonora_subg._Shira ;
+	lhs:rank lcrank:Species ;
+	rdf:label "Heleonora karecandida" ;
+	rdf:type lhs:Taxon .
+lctax:Heleonora_larissae 
+	lhs:hasType lhtype:Huber_2024.40553.445 ;
+	lhs:holotype lhtype:Huber_2024.40553.197 ;
+	lhs:parent lctax:Heleonora_subg._Shira ;
+	lhs:rank lcrank:Species ;
+	rdf:label "Heleonora larissae" ;
+	rdf:type lhs:Taxon .
+lctax:Heleonora_martinae 
+	lhs:hasType lhtype:Martina_1057.118 ;
+	lhs:holotype lhtype:Martina_1057.326 ;
+	lhs:parent lctax:Heleonora_subg._Shira ;
+	lhs:rank lcrank:Species ;
+	rdf:label "Heleonora martinae" ;
+	rdf:type lhs:Taxon .
+lctax:Heleonora_meganae 
+	lhs:hasType lhtype:Megan_171.4098 ;
+	lhs:holotype lhtype:Megan_171.4071 ;
+	lhs:parent lctax:Heleonora_subg._Shira ;
+	lhs:rank lcrank:Species ;
+	rdf:label "Heleonora meganae" ;
+	rdf:type lhs:Taxon .
+lctax:Heleonora_nellia 
+	lhs:hasType lhtype:Nelly_233.9085 ;
+	lhs:holotype lhtype:Nelly_233.9071 ;
+	lhs:parent lctax:Heleonora_subg._Shira ;
+	lhs:rank lcrank:Species ;
+	rdf:label "Heleonora nellia" ;
+	rdf:type lhs:Taxon .
+lctax:Heleonora_rimforsia 
+	lhs:hasType lhtype:Rimfors_15.1710 ;
+	lhs:holotype lhtype:Rimfors_15.1660 ;
+	lhs:parent lctax:Heleonora_subg._Shira ;
+	lhs:rank lcrank:Species ;
+	rdf:label "Heleonora rimforsia" ;
+	rdf:type lhs:Taxon .
+lctax:Heleonora_shreyae 
+	lhs:hasType lhtype:Shreya_59.5166 ;
+	lhs:holotype lhtype:Shreya_59.5165 ;
+	lhs:parent lctax:Heleonora_subg._Shira ;
+	lhs:rank lcrank:Species ;
+	rdf:label "Heleonora shreyae" ;
+	rdf:type lhs:Taxon .
+lctax:Heleonora_subg._Shira 
+	lhs:parent lctax:Heleonora ;
+	lhs:rank lcrank:Subgenus ;
+	rdf:label "Heleonora subg. Shira" ;
+	rdf:type lhs:Taxon .
+lctax:Heleonora_vanhoofae 
+	lhs:hasType lhtype:Karen_209.1145 ;
+	lhs:holotype lhtype:Karen_209.1067 ;
+	lhs:parent lctax:Heleonora_subg._Shira ;
+	lhs:rank lcrank:Species ;
+	rdf:label "Heleonora vanhoofae" ;
+	rdf:type lhs:Taxon .
+lctax:Heleonoridae 
+	lhs:rank lcrank:Family ;
+	rdf:label "Heleonoridae" ;
+	rdf:type lhs:Taxon .
+lhimg:s2_05c2c06ff9d8d90b8df91151951c6558b1abab6d405b406ac6d6c87276264825 
+	lhs:href <https://web.archive.org/web/2/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Larissa_Huber3.jpg?v=1720291691> ;
+	lhs:imgFor lhtype:Huber_2024.40553.197 ;
+	lhs:imgProvider "ia" ;
+	rdf:type lhs:Image .
+lhimg:s2_0a03fa9096e57b11ba326315e9702cc3e9b2f7dc4f65abdcf371c22859d3bb84 
+	lhs:href <https://web.archive.org/web/20260408100536/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Tuss_Rimfors.heic?v=1720291720> ;
+	lhs:imgFor lhtype:Rimfors_15.1660 ;
+	lhs:imgProvider "ia" ;
+	rdf:type lhs:Image .
+lhimg:s2_0b76a1876b29f6af7cfea0d285d3da393119e59612292fb540cb417b9f18dbca 
+	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Karen_Van_Hoof3.jpg?v=1720291688> ;
+	lhs:imgFor lhtype:Karen_209.1067 ;
+	lhs:imgProvider "orig" ;
+	rdf:type lhs:Image .
+lhimg:s2_0c726dd1636d16dcc10092c921ab1a489f092e4f044ff9f72acd733f29ef64fa 
+	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Martina_Garofalo_6.jpg?v=1720291695> ;
+	lhs:imgFor lhtype:Martina_1057.326 ;
+	lhs:imgProvider "orig" ;
+	rdf:type lhs:Image .
+lhimg:s2_1516dff4e1ce4fb5406b48eccfe6e5d46f23d150662ee82eccfe8cb6ba42a23e 
+	lhs:href <https://web.archive.org/web/20260504220310/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/655019723_18011563436683653_2454417883585919582_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=MzQyNzE4NzQ2Njk1MDg1Nzc2Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTgwMC5zZHIuQzMifQ%3D%3D&_nc_ohc=D4tasegLItIQ7kNvwFBxh4L&_nc_oc=Adr7r77CaVxtTmflUWxtlRwjxK2RsorEY2PFh4OV-wuzCV6sftA8DyeV3TLbjPllidI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=oKmqo24hjHVhxILzRYJCsQ&_nc_ss=7a22e&oh=00_Af7KRkVydYgyljg_GnWoouRR5ebUwwfGHX2qVwfoj-mAmw&oe=69FEE989> ;
+	lhs:imgFor lhtype:Blanton_2024.433.19582 ;
+	lhs:imgProvider "ia" ;
+	rdf:type lhs:Image .
+lhimg:s2_216c85bc011bcb037a860861fcf9d77860c8c317ece1d164aa5499a076d13c91 
+	lhs:href <https://web.archive.org/web/20260408100725/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Nelly_Colne5_a27a2593-3a57-4991-8819-696e1fa73532.jpg?v=1720292984> ;
+	lhs:imgFor lhtype:Nelly_233.9085 ;
+	lhs:imgProvider "ia" ;
+	rdf:type lhs:Image .
+lhimg:s2_26615037a3fa14861c12205894795892885575ecd5f459ba795b868e3b05e8a5 
+	lhs:href <https://web.archive.org/web/20260408100108/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Beatrice_Fletcher4.heic?v=1720291673> ;
+	lhs:imgFor lhtype:Beatrice_210.1651 ;
+	lhs:imgProvider "ia" ;
+	rdf:type lhs:Image .
+lhimg:s2_2b2f9387ce0a90076f5574c880bc2d2bd2257fc59e1e567a601ef7a48dd3aaf2 
+	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Ioana_Miron3.jpg?v=1720291682> ;
+	lhs:imgFor lhtype:Ioana_119.1057 ;
+	lhs:imgProvider "orig" ;
+	rdf:type lhs:Image .
+lhimg:s2_2bee33c9e41820dcda7a09e557d6f30f123184d6b28ea400a74c2601289dab36 
+	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Gabrielle_Scollay2.jpg?v=1720381421> ;
+	lhs:imgFor lhtype:Gabrielle_394.2049 ;
+	lhs:imgProvider "orig" ;
+	rdf:type lhs:Image .
+lhimg:s2_2f13a3b8d859685de84d33c7bf2310225f5e2522e8d0a3b9f8788790c225616c 
+	lhs:href <https://web.archive.org/web/20260508201709/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/653700412_18028061573796598_427100016846671897_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=MzQwNzQ2Njk5MTI2NDYwMTc2Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=wDkAo3TpN30Q7kNvwFgHSPr&_nc_oc=AdrV9euKvDgVZxFQUE2DkiNKOBfSI0LvkpyTTnbacHVKkBWFnvj5Wa74MFdg-eLUoe8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=WegrsvC_if3z_IepqHbGvA&_nc_ss=7a22e&oh=00_Af5YSGAwi-cZJElYZqafIBPJMzlcZunGjNwHX1KQqDixpA&oe=6A043129> ;
+	lhs:imgFor lhtype:Karen_210.1439.71897 ;
+	lhs:imgProvider "ia" ;
+	rdf:type lhs:Image .
+lhimg:s2_32c7703a32a341901fe96fe3bebe862a7e6b0913c3cc2728da7904dcaca4fb7e 
+	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Ioana_Miron2.jpg?v=1720291682> ;
+	lhs:imgFor lhtype:Ioana_119.1048 ;
+	lhs:imgProvider "orig" ;
+	rdf:type lhs:Image .
+lhimg:s2_341ba8f3cf316c1aa09f58774ce38f70cc6f92b581783553aa44f3597ce680b4 
+	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Stephanie_Garcia22.jpg?v=1720291719> ;
+	lhs:imgFor lhtype:Garcia_290.1711 ;
+	lhs:imgProvider "orig" ;
+	rdf:type lhs:Image .
+lhimg:s2_36f50a7907b35b46298a882ad26de00df4b8b62ec915047c733200a6bdd6c297 
+	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Nelly_Colne5_a27a2593-3a57-4991-8819-696e1fa73532.jpg?v=1720292984> ;
+	lhs:imgFor lhtype:Nelly_233.9085 ;
+	lhs:imgProvider "orig" ;
+	rdf:type lhs:Image .
+lhimg:s2_3c421029fcb22de5395fe81c382155a2e2b08b80df49f34b49197764ed8b340d 
+	lhs:href <https://web.archive.org/web/20260408100511/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Tuss_Rimfors7.heic?v=1720291721> ;
+	lhs:imgFor lhtype:Rimfors_15.1710 ;
+	lhs:imgProvider "ia" ;
+	rdf:type lhs:Image .
+lhimg:s2_3d83275245b6c6ba3b3e522f7b325802005b1a1868fe33b54dd75b28e64652f2 
+	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Anja_Scheithauer2.jpg?v=1720291725> ;
+	lhs:imgFor lhtype:Anja_930.1871 ;
+	lhs:imgProvider "orig" ;
+	rdf:type lhs:Image .
+lhimg:s2_42e76cb0ff7864ee7645d37e440f198d1f056915f400b640cbed934fdd66d64b 
+	lhs:href <https://web.archive.org/web/20260408100028/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Stephanie_Garcia20.jpg?v=1720291718> ;
+	lhs:imgFor lhtype:Garcia_290.1709 ;
+	lhs:imgProvider "ia" ;
+	rdf:type lhs:Image .
+lhimg:s2_48bbbbf6b94add4cee30ae20ee925bab48373175e6249698c292b7bb7b089041 
+	lhs:href <https://web.archive.org/web/20260408100404/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Martina_Garofalo_1.jpg?v=1720291695> ;
+	lhs:imgFor lhtype:Martina_1057.118 ;
+	lhs:imgProvider "ia" ;
+	rdf:type lhs:Image .
+lhimg:s2_4b978bb94a90526e7ae7d9a223b7d26284701149ed2a2a2828591ee1bfbdce66 
+	lhs:href <https://web.archive.org/web/20260503013948/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Ioana_Miron2.jpg?v=1720291682> ;
+	lhs:imgFor lhtype:Ioana_119.1048 ;
+	lhs:imgProvider "ia" ;
+	rdf:type lhs:Image .
+lhimg:s2_4dd2957bfcc6ce248a1085444cb4bcadeb5f807d112e7fc1706fa898235f295f 
+	lhs:href <https://web.archive.org/web/20260408095909/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Stephanie_Garcia6.jpg?v=1720291718> ;
+	lhs:imgFor lhtype:Garcia_290.1736 ;
+	lhs:imgProvider "ia" ;
+	rdf:type lhs:Image .
+lhimg:s2_51c0b8a929647ddfb18c8538029ca3e7f087f2b678bd9978d38e24feca351e80 
+	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Stephanie_Garcia6.jpg?v=1720291718> ;
+	lhs:imgFor lhtype:Garcia_290.1736 ;
+	lhs:imgProvider "orig" ;
+	rdf:type lhs:Image .
+lhimg:s2_54120a31695491737cf7030e248fe1daf416ea3090460799e3290fa5ba59ac3e 
+	lhs:href <https://web.archive.org/web/20260504220416/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/651431201_17980991465975936_7830797461430914853_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=MzQyNzE4NzQ2Njk1MDc0MTM4NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTgwMC5zZHIuQzMifQ%3D%3D&_nc_ohc=utQtLwWEUXgQ7kNvwFEQAgi&_nc_oc=AdrVeNcixjMCIfjKZw053Sdw0eBd3pCyjCb0bx78lAQXVh5vEoC5P5T2Mh88FG09VL0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=oKmqo24hjHVhxILzRYJCsQ&_nc_ss=7a22e&oh=00_Af7yWnjILw8jTp4mOQwpCllu0b6Uj9D7rOhfL4Qcpg-8lQ&oe=69FECC29> ;
+	lhs:imgFor lhtype:Blanton_2024.433.14853 ;
+	lhs:imgProvider "ia" ;
+	rdf:type lhs:Image .
+lhimg:s2_553515305e7f38d3f39090a137672f357121ee2b73d58bfe2a811fc40f24ba2e 
+	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Megan_Bynum2.jpg?v=1720291697> ;
+	lhs:imgFor lhtype:Megan_171.4098 ;
+	lhs:imgProvider "orig" ;
+	rdf:type lhs:Image .
+lhimg:s2_567a55d07e8797aee717674e6390085c9e93df8081b8555db12b5ed618d3e143 
+	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Megan_Bynum.jpg?v=1720291697> ;
+	lhs:imgFor lhtype:Megan_171.4071 ;
+	lhs:imgProvider "orig" ;
+	rdf:type lhs:Image .
+lhimg:s2_5a3635c63368c5f4dd8987dd7ae06504bfc031d6b4e649890218c1d311326b99 
+	lhs:href <https://web.archive.org/web/20260504220429/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/662341312_18368242204201797_502939237225740968_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=MzQyNzE4NzQ2NzAxNzk5NTE1OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTgwMC5zZHIuQzMifQ%3D%3D&_nc_ohc=XqXqIfjXssQQ7kNvwGTJxbV&_nc_oc=AdryY5ZWS8eR7HkQg8PDxSCu67289rGhv1Wc_u9TjLPNPFbWydCuxXTVNtJy9W-s848&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=oKmqo24hjHVhxILzRYJCsQ&_nc_ss=7a22e&oh=00_Af6lyR-HDmhGHTlk4h9dqaxoMsPu0ja_Kh-Ejy7_wdTs9g&oe=69FECB23> ;
+	lhs:imgFor lhtype:Blanton_2024.433.40968 ;
+	lhs:imgProvider "ia" ;
+	rdf:type lhs:Image .
+lhimg:s2_65148960c851c603dcfdf5ee212eef65a03fd6a817c0fe35595521115ea5aed7 
+	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Ashley_General2.jpg?v=1720291729> ;
+	lhs:imgFor lhtype:Ashley_931.1744 ;
+	lhs:imgProvider "orig" ;
+	rdf:type lhs:Image .
+lhimg:s2_65a31cadf93c8356c00ef641ee5d35cc2e0997558e241487d168d304a5310cbd 
+	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Larissa_Huber.jpg?v=1720291689> ;
+	lhs:imgFor lhtype:Huber_2024.40553.445 ;
+	lhs:imgProvider "orig" ;
+	rdf:type lhs:Image .
+lhimg:s2_66f8ee6d317d20e16a30f82ecd1a71b863561e467c6d18a3f2fbf63e505ee92e 
+	lhs:href <https://web.archive.org/web/20260504220025/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/655012307_18058731620698021_6573847349408379988_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=MzQyNzE4NzQ2Njk1OTI5OTQ0Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTgwMC5zZHIuQzMifQ%3D%3D&_nc_ohc=S_OYs6mEgkUQ7kNvwGlKT4G&_nc_oc=AdoBUOHdlixJ1oW_J2QsLgBlL-dlmjsvKGjw3tCjVDw96AbdzAOcQL8mkdHmb3aYBNk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=oKmqo24hjHVhxILzRYJCsQ&_nc_ss=7a22e&oh=00_Af6HBJKttOiCECJcD_o60dCoietjznPTRUhjzjJit2C_MA&oe=69FEF060> ;
+	lhs:imgFor lhtype:Blanton_2024.433.79988 ;
+	lhs:imgProvider "ia" ;
+	rdf:type lhs:Image .
+lhimg:s2_6c6777cbd37fb0780fd4a5e298cce4b10955df5943aa5d77a4de38796493a390 
+	lhs:href <https://web.archive.org/web/20260504215831/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/651079589_17981392790988173_7238665911249046636_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=MzQyNzE4NzQ2Njk1OTE5MjgxMA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTgwMC5zZHIuQzMifQ%3D%3D&_nc_ohc=hA9KCR3_9EgQ7kNvwEtDEmU&_nc_oc=AdoWmII9tJSwPhIrlYU9TUfT60TIgQOlFoULYzL7zxmheJS5Qt9L0d3k6kME2KnyD-s&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=oKmqo24hjHVhxILzRYJCsQ&_nc_ss=7a22e&oh=00_Af5Z_7Y1oUoFcPlCdvFSVtFoKRJvddjBcWvUyOu1LSMWcw&oe=69FEEC4B> ;
+	lhs:imgFor lhtype:Blanton_2024.433.46636 ;
+	lhs:imgProvider "ia" ;
+	rdf:type lhs:Image .
+lhimg:s2_735a8bfa13184eb037af4acc3d14e6a9af975110708d04cfd8e73643e63f7df5 
+	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Ashley_General6.jpg?v=1720291726> ;
+	lhs:imgFor lhtype:Ashley_931.1763 ;
+	lhs:imgProvider "orig" ;
+	rdf:type lhs:Image .
+lhimg:s2_7383e38474004573ead6c8e03bbea3e992d34be48b3e7945366c296ae4760bdd 
+	lhs:href <https://web.archive.org/web/20260504220023/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/669550353_18215544754320906_110498988008769846_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=MzQyNzE4NzQ2Njk1OTEyOTU4Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTgwMC5zZHIuQzMifQ%3D%3D&_nc_ohc=U9jxoMCgLy4Q7kNvwH3SVso&_nc_oc=AdphDlV4XPQuC4Bx3QAfTvcvPTwVfSBk2dfrduDGKYXj1_jY7xtLOPZFZxRyNz3V5qQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=oKmqo24hjHVhxILzRYJCsQ&_nc_ss=7a22e&oh=00_Af6S3Zhh-PbW6-qh1DtTVb-PHFxiL0bFLEEMW0PDX3Wvzg&oe=69FEF8A1> ;
+	lhs:imgFor lhtype:Blanton_2024.433.69846 ;
+	lhs:imgProvider "ia" ;
+	rdf:type lhs:Image .
+lhimg:s2_74bafc1452fbeb971b10cc949590fdb164fcc783c958ffd6921031b3a2ae48a3 
+	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Ashley_General.jpg?v=1720291730> ;
+	lhs:imgFor lhtype:Ashley_931.1620 ;
+	lhs:imgProvider "orig" ;
+	rdf:type lhs:Image .
+lhimg:s2_780c18d676bb0a8079e8f0fa68dd96af75411959e2b444534f57193f0f006b9f 
+	lhs:href <https://web.archive.org/web/20260408100930/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Stephanie_Garcia22.jpg?v=1720291719> ;
+	lhs:imgFor lhtype:Garcia_290.1711 ;
+	lhs:imgProvider "ia" ;
+	rdf:type lhs:Image .
+lhimg:s2_7bd7b820c30bb638cefc3a89094498e2c088aa9903beed32cd5e7c4120fcfe63 
+	lhs:href <https://web.archive.org/web/20260408100730/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Gabrielle_Scollay_jpg.jpg?v=1720381421> ;
+	lhs:imgFor lhtype:Gabrielle_394.2071 ;
+	lhs:imgProvider "ia" ;
+	rdf:type lhs:Image .
+lhimg:s2_7de253804e2e9a70aa026255778eff29fc305a83bc3ed1fe954c23af55206142 
+	lhs:href <https://web.archive.org/web/20260408100607/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Jessa_Jones6.jpg?v=1720291687> ;
+	lhs:imgFor lhtype:Jessa_157.12676 ;
+	lhs:imgProvider "ia" ;
+	rdf:type lhs:Image .
+lhimg:s2_7ee100e7e53edaba829ac735cd5d993540a3b0e4271f1382ea4d9ba758dddbc1 
+	lhs:href <https://web.archive.org/web/20260508201712/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/653773839_18106517113869276_178601654437592994_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=MzQwNzQ2Njk5MTE2Mzg3MDIzNQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=-yYaxGaSkqwQ7kNvwFA4uLp&_nc_oc=AdoNGmmBOv_j9K_hO7NP4lrXYJl7Tt73t5_BX7lWPS14kGchcz6PXc-bl8SUYqHJnNE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=WegrsvC_if3z_IepqHbGvA&_nc_ss=7a22e&oh=00_Af5VnKc87FW1G5A3gH7j68KKNsZxZqZYiVUJAmE227y5lQ&oe=6A0406BA> ;
+	lhs:imgFor lhtype:Karen_210.1439.92994 ;
+	lhs:imgProvider "ia" ;
+	rdf:type lhs:Image .
+lhimg:s2_874587e810bab816555a3355fdd8747d6a2da79979e73f94b92cadfb39d17157 
+	lhs:href <https://web.archive.org/web/20260408100615/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Nelly_Colne11.jpg?v=1720292012> ;
+	lhs:imgFor lhtype:Nelly_233.9071 ;
+	lhs:imgProvider "ia" ;
+	rdf:type lhs:Image .
+lhimg:s2_8c7942fa70b93cf9a6174c54a75b072e5534ea1c2c52a965d79786853ef0374f 
+	lhs:href <https://web.archive.org/web/20260408095919/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Ashley_General2.jpg?v=1720291729> ;
+	lhs:imgFor lhtype:Ashley_931.1744 ;
+	lhs:imgProvider "ia" ;
+	rdf:type lhs:Image .
+lhimg:s2_9460a4c22df733deec1f231fa9e06d404a8d4c1795d3dfba82088f2c6f7e1088 
+	lhs:href <https://web.archive.org/web/20260504220022/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/655610868_18092356916330508_8540628614448032667_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=MzQyNzE4NzQ2Njk1OTE3NTg2Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTgwMC5zZHIuQzMifQ%3D%3D&_nc_ohc=gjGr4zFG6MwQ7kNvwGmgv2x&_nc_oc=AdpW4otU7R13pIGxys-qYPJ2LDb3JR2W6xfauaT0nxzXnHMXH4zo5R1DeJhJ0RFVOW4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=oKmqo24hjHVhxILzRYJCsQ&_nc_ss=7a22e&oh=00_Af6FJ3ftKjzJdHL3D-deUTPYHMQ8q2C8HvtlK0DqVftu1w&oe=69FEF438> ;
+	lhs:imgFor lhtype:Blanton_2024.433.32667 ;
+	lhs:imgProvider "ia" ;
+	rdf:type lhs:Image .
+lhimg:s2_98c6bdab25a414a0c6bd1bd73eacee64a8b9823dbae50be04ae296c92afc62f9 
+	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Martina_Garofalo_1.jpg?v=1720291695> ;
+	lhs:imgFor lhtype:Martina_1057.118 ;
+	lhs:imgProvider "orig" ;
+	rdf:type lhs:Image .
+lhimg:s2_9a633cc19abf2420e8523bfd894a1b7bcf6fc4659e9768cd553a8827640c2916 
+	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Jessa_Jones6.jpg?v=1720291687> ;
+	lhs:imgFor lhtype:Jessa_157.12676 ;
+	lhs:imgProvider "orig" ;
+	rdf:type lhs:Image .
+lhimg:s2_a3eae8ecfdd8ea2c239d827eb26680fc519c75333d26e59d9d4c1ea1a634874a 
+	lhs:href <https://web.archive.org/web/20260318171058/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Anja_Scheithauer2.jpg?v=1720291725> ;
+	lhs:imgFor lhtype:Anja_930.1871 ;
+	lhs:imgProvider "ia" ;
+	rdf:type lhs:Image .
+lhimg:s2_a44c34df88a52ea5aa809e90c666ed164b0f6e057768c2f0dd2d87b3051fdbb2 
+	lhs:href <https://web.archive.org/web/20260408100732/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Gabrielle_Scollay2.jpg?v=1720381421> ;
+	lhs:imgFor lhtype:Gabrielle_394.2049 ;
+	lhs:imgProvider "ia" ;
+	rdf:type lhs:Image .
+lhimg:s2_a900a6866283f1603bb24fba20197ac907ec1c13e99bc6643f0a2d546b714f2d 
+	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Anja_Scheithauer8.jpg?v=1720291724> ;
+	lhs:imgFor lhtype:Anja_930.1724 ;
+	lhs:imgProvider "orig" ;
+	rdf:type lhs:Image .
+lhimg:s2_a92ed2570c92b00feac9a0165dbf54158cb77bcd03402ebcbe6c78f3e54d805d 
+	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Karen_Van_Hoof6.jpg?v=1720291689> ;
+	lhs:imgFor lhtype:Karen_209.1145 ;
+	lhs:imgProvider "orig" ;
+	rdf:type lhs:Image .
+lhimg:s2_a9c05c38dffab7ef08fb72c55204e06202dbac8c8370b484745f7ffcb18febf0 
+	lhs:href <https://web.archive.org/web/20260503020857/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Martina_Garofalo_6.jpg?v=1720291695> ;
+	lhs:imgFor lhtype:Martina_1057.326 ;
+	lhs:imgProvider "ia" ;
+	rdf:type lhs:Image .
+lhimg:s2_aaf75be542fdd0455eb9e50a51314b0f9e6baefe63a7ae292f89dfb71a6899d7 
+	lhs:href <https://web.archive.org/web/20260408100230/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Shreya_Eleonora_3.jpg?v=1720291714> ;
+	lhs:imgFor lhtype:Shreya_59.5166 ;
+	lhs:imgProvider "ia" ;
+	rdf:type lhs:Image .
+lhimg:s2_b2984d2e6dd89f9f0f35fdefcfc73d7245ed15ec78b09196d69756d4bc1b313f 
+	lhs:href <https://web.archive.org/web/20260408095925/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Ashley_General.jpg?v=1720291730> ;
+	lhs:imgFor lhtype:Ashley_931.1620 ;
+	lhs:imgProvider "ia" ;
+	rdf:type lhs:Image .
+lhimg:s2_b63a68ef3c864b3cd39263a5a236561a7c9530428049d70ca7685d644a47c3b8 
+	lhs:href <https://web.archive.org/web/20260408100526/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Karen_Van_Hoof3.jpg?v=1720291688> ;
+	lhs:imgFor lhtype:Karen_209.1067 ;
+	lhs:imgProvider "ia" ;
+	rdf:type lhs:Image .
+lhimg:s2_bcb09fd1fdbb3f979a1bda4d6f7ccbcd41fc960ba00a04ce9d5829ff5cae0e0c 
+	lhs:href <https://web.archive.org/web/20260408100829/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Megan_Bynum2.jpg?v=1720291697> ;
+	lhs:imgFor lhtype:Megan_171.4098 ;
+	lhs:imgProvider "ia" ;
+	rdf:type lhs:Image .
+lhimg:s2_bd32cde0a4945a429710268ede91fa5f15debe22fe767ded222a8a2d95b79431 
+	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Larissa_Huber3.jpg?v=1720291691> ;
+	lhs:imgFor lhtype:Huber_2024.40553.197 ;
+	lhs:imgProvider "orig" ;
+	rdf:type lhs:Image .
+lhimg:s2_c02e97b2acbda6efa3fd5113667cf3378e1b6058d3dc60bcf1ffede7b7345868 
+	lhs:href <https://web.archive.org/web/20260318171236/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Anja_Scheithauer8.jpg?v=1720291724> ;
+	lhs:imgFor lhtype:Anja_930.1724 ;
+	lhs:imgProvider "ia" ;
+	rdf:type lhs:Image .
+lhimg:s2_c54c600fa54bb782f51426371abdd153c5cb8cee9e69eab9ebd2e794ee00e116 
+	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Beatrice_Fletcher4.heic?v=1720291673> ;
+	lhs:imgFor lhtype:Beatrice_210.1651 ;
+	lhs:imgProvider "orig" ;
+	rdf:type lhs:Image .
+lhimg:s2_c62a944fe3d0bafd7335b6a64e13904f674933d59b3fc076c572760cd09cf594 
+	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Jessa_Jones2_650693fb-5b7a-46e7-8c63-ec487bb29e02.jpg?v=1720291686> ;
+	lhs:imgFor lhtype:Jessa_157.1490 ;
+	lhs:imgProvider "orig" ;
+	rdf:type lhs:Image .
+lhimg:s2_c6eb901db953811f873b938dcab877eb27781cff43a65d287547b7fbdb3e9ba0 
+	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Tuss_Rimfors.heic?v=1720291720> ;
+	lhs:imgFor lhtype:Rimfors_15.1660 ;
+	lhs:imgProvider "orig" ;
+	rdf:type lhs:Image .
+lhimg:s2_cac23cc4a9a632ed0931eaba2f8d7781680ac9fc811bbb7f30e97a3ea92f0b2c 
+	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Beatrice_Fletcher3.heic?v=1720291673> ;
+	lhs:imgFor lhtype:Beatrice_210.1631 ;
+	lhs:imgProvider "orig" ;
+	rdf:type lhs:Image .
+lhimg:s2_cad05884bd38babd97ac0085ef2f5d8158170780bbc5d6967ebbebfd167d20bf 
+	lhs:href <https://web.archive.org/web/20260408100300/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Karen_Van_Hoof6.jpg?v=1720291689> ;
+	lhs:imgFor lhtype:Karen_209.1145 ;
+	lhs:imgProvider "ia" ;
+	rdf:type lhs:Image .
+lhimg:s2_caf1a43fcc29a66c05084a3d66f0f5ffaf46bdf0f0b45709b4e7104e48b54a3e 
+	lhs:href <https://web.archive.org/web/20260408100029/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Ashley_General6.jpg?v=1720291726> ;
+	lhs:imgFor lhtype:Ashley_931.1763 ;
+	lhs:imgProvider "ia" ;
+	rdf:type lhs:Image .
+lhimg:s2_cdff903c2fd7a516e281e9368726ee1e7ab0922fdc661db1006577289b870243 
+	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Nelly_Colne11.jpg?v=1720292012> ;
+	lhs:imgFor lhtype:Nelly_233.9071 ;
+	lhs:imgProvider "orig" ;
+	rdf:type lhs:Image .
+lhimg:s2_cea65b496efb638122e4c9c420d9003eb9a742f14614432ad9c54ad0cd9bf872 
+	lhs:href <https://web.archive.org/web/20260508201716/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/656334026_18080120132093671_4012967633139543997_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=MzQwNzQ2Njk5MDk3OTMzNTczOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=x0IY0DnvuakQ7kNvwGguBDV&_nc_oc=Adql5Ri3a970nRYDdPYTpNf4FfOT1E5YoRQZakGBcbq2_MCSg74tq-NqBNbxgVqQQA4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=WegrsvC_if3z_IepqHbGvA&_nc_ss=7a22e&oh=00_Af5KmTnRXlJ4U6lWOWEQaIxcd7Hle4cQtDRTXtR6LmOAqw&oe=6A0409C2> ;
+	lhs:imgFor lhtype:Karen_210.1439.43997 ;
+	lhs:imgProvider "ia" ;
+	rdf:type lhs:Image .
+lhimg:s2_d0b78e5a1a08a98a43b3950afe0af6393e37a48ab247f9eecf17928ad6c695bb 
+	lhs:href <https://web.archive.org/web/20260408100606/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Jessa_Jones2_650693fb-5b7a-46e7-8c63-ec487bb29e02.jpg?v=1720291686> ;
+	lhs:imgFor lhtype:Jessa_157.1490 ;
+	lhs:imgProvider "ia" ;
+	rdf:type lhs:Image .
+lhimg:s2_d4d08522e2efe20fabe51ec215ae1e22a919745e51326b05c92978cab678e5c6 
+	lhs:href <https://web.archive.org/web/20260504220241/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/657348192_18221685520314287_2072022463349951080_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=MzQyNzE4NzQ2Njk1OTIzODcxNA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTgwMC5zZHIuQzMifQ%3D%3D&_nc_ohc=q57H12qthQIQ7kNvwHDKmZ2&_nc_oc=AdrR3rmezJyiosm5anW0M_y8er4rFdOT6ORWZI-FIF6Bw_n4mIMcDa1DC6RXkC6r4XI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=oKmqo24hjHVhxILzRYJCsQ&_nc_ss=7a22e&oh=00_Af7Aon3KzM0aYsR9NZo7kZJnK1j_FsbAYW1iLWr33KI9gQ&oe=69FEFD5B> ;
+	lhs:imgFor lhtype:Blanton_2024.433.51080 ;
+	lhs:imgProvider "ia" ;
+	rdf:type lhs:Image .
+lhimg:s2_da236669fbb4a93b92b2fd45c32a2ab079f5754b0da488d5fc009437f1eae06e 
+	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Gabrielle_Scollay_jpg.jpg?v=1720381421> ;
+	lhs:imgFor lhtype:Gabrielle_394.2071 ;
+	lhs:imgProvider "orig" ;
+	rdf:type lhs:Image .
+lhimg:s2_db29da75d925a32b7d6386e2c99d5f18c50d4f3267eb8e23335d81ac41da94ea 
+	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Tuss_Rimfors7.heic?v=1720291721> ;
+	lhs:imgFor lhtype:Rimfors_15.1710 ;
+	lhs:imgProvider "orig" ;
+	rdf:type lhs:Image .
+lhimg:s2_dda0e1634f22cde9a2c5621d96a62314aa9c8921b42b7cfd7d36d706efdfeaf6 
+	lhs:href <https://web.archive.org/web/20260408100107/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Beatrice_Fletcher3.heic?v=1720291673> ;
+	lhs:imgFor lhtype:Beatrice_210.1631 ;
+	lhs:imgProvider "ia" ;
+	rdf:type lhs:Image .
+lhimg:s2_df28816cb8d7c59514ccba2829e4fff2fca750878ca29b3924ed2008d6e00761 
+	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Shreya_Eleonora_2.jpg?v=1720291714> ;
+	lhs:imgFor lhtype:Shreya_59.5165 ;
+	lhs:imgProvider "orig" ;
+	rdf:type lhs:Image .
+lhimg:s2_e0f0db9e20b9e7cd73c50a90bfc624f9d0ff8a6488402f5cf6d37e5c4cd2f977 
+	lhs:href <https://web.archive.org/web/20260408100217/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Shreya_Eleonora_2.jpg?v=1720291714> ;
+	lhs:imgFor lhtype:Shreya_59.5165 ;
+	lhs:imgProvider "ia" ;
+	rdf:type lhs:Image .
+lhimg:s2_ea3f4ce22b32f3f02d1492e9d51990491b205b799b0790469c6442bc478dcd2b 
+	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Shreya_Eleonora_3.jpg?v=1720291714> ;
+	lhs:imgFor lhtype:Shreya_59.5166 ;
+	lhs:imgProvider "orig" ;
+	rdf:type lhs:Image .
+lhimg:s2_f083e2b5a2185075754d6cdd523d73b63a30249aa7d1e35a0a9c82111461d9a4 
+	lhs:href <https://web.archive.org/web/20260504220341/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/656733159_18138350659508029_7864903067687476407_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=MzQyNzE4NzQ2Njk1MDg2ODkyMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTgwMC5zZHIuQzMifQ%3D%3D&_nc_ohc=JU7PfjUYvZsQ7kNvwGZGURw&_nc_oc=AdrC_ylcPX4KY4vXkAXhp0v7rUeCtu8Qbqu1-kc2Ia7bLK9o41znz6ZEUxDXgmobUkw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=oKmqo24hjHVhxILzRYJCsQ&_nc_ss=7a22e&oh=00_Af5k02LVFEUCuwMY8fld4LiO_GQSaCWB_e9zbYk-hjxcRw&oe=69FEF51C> ;
+	lhs:imgFor lhtype:Blanton_2024.433.76407 ;
+	lhs:imgProvider "ia" ;
+	rdf:type lhs:Image .
+lhimg:s2_f47a65452f9c0e943c40c1bdea9d6e70747c90cd051c0424bd34b7a330dc9476 
+	lhs:href <https://web.archive.org/web/20260408100223/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Ioana_Miron3.jpg?v=1720291682> ;
+	lhs:imgFor lhtype:Ioana_119.1057 ;
+	lhs:imgProvider "ia" ;
+	rdf:type lhs:Image .
+lhimg:s2_f5109074cd444c4d056f0ec80686a1380fa3f2f6b1aae2e56724c51532e0936a 
+	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Stephanie_Garcia20.jpg?v=1720291718> ;
+	lhs:imgFor lhtype:Garcia_290.1709 ;
+	lhs:imgProvider "orig" ;
+	rdf:type lhs:Image .
+lhimg:s2_f8416064c0abbd4e10062b90fb729bc89c928badd6a9ba83b5f44f87b6f540b6 
+	lhs:href <https://web.archive.org/web/20260408100428/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Megan_Bynum.jpg?v=1720291697> ;
+	lhs:imgFor lhtype:Megan_171.4071 ;
+	lhs:imgProvider "ia" ;
+	rdf:type lhs:Image .
+lhimg:s2_f973246dd4d66c155cfec7afddb5a5a65f186ae7ad94512dec530cbbb4ca6e86 
+	lhs:href <https://web.archive.org/web/2/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Larissa_Huber.jpg?v=1720291689> ;
+	lhs:imgFor lhtype:Huber_2024.40553.445 ;
+	lhs:imgProvider "ia" ;
+	rdf:type lhs:Image .
+lhtype:Anja_930.1724 
+	lhs:imgHeight "1620"^^xsd:integer ;
+	lhs:imgIntegrity "sha256:52c1bce172348d12f1559de86ed9662dc3e003135e7ef588ce07fa370dabdb33" ;
+	lhs:imgLocation lhimg:s2_a900a6866283f1603bb24fba20197ac907ec1c13e99bc6643f0a2d546b714f2d, lhimg:s2_c02e97b2acbda6efa3fd5113667cf3378e1b6058d3dc60bcf1ffede7b7345868 ;
+	lhs:imgWidth "1080"^^xsd:integer ;
+	rdf:label "Anja 930.1724" ;
+	rdf:type lhs:ImageType .
+lhtype:Anja_930.1871 
+	lhs:imgHeight "1620"^^xsd:integer ;
+	lhs:imgIntegrity "sha256:cfbf249735dc7e95b6bd4f5d1f5accc753b7852bf74e1504450285878030da71" ;
+	lhs:imgLocation lhimg:s2_3d83275245b6c6ba3b3e522f7b325802005b1a1868fe33b54dd75b28e64652f2, lhimg:s2_a3eae8ecfdd8ea2c239d827eb26680fc519c75333d26e59d9d4c1ea1a634874a ;
+	lhs:imgWidth "1080"^^xsd:integer ;
+	rdf:label "Anja 930.1871" ;
+	rdf:type lhs:ImageType .
+lhtype:Ashley_931.1620 
+	lhs:imgHeight "4032"^^xsd:integer ;
+	lhs:imgIntegrity "sha256:3c9c348550c7b6df497d8d64f23d4b320d75f521eae6b518980f0995cff2cee3" ;
+	lhs:imgLocation lhimg:s2_74bafc1452fbeb971b10cc949590fdb164fcc783c958ffd6921031b3a2ae48a3, lhimg:s2_b2984d2e6dd89f9f0f35fdefcfc73d7245ed15ec78b09196d69756d4bc1b313f ;
+	lhs:imgWidth "3024"^^xsd:integer ;
+	rdf:label "Ashley 931.1620" ;
+	rdf:type lhs:ImageType .
+lhtype:Ashley_931.1744 
+	lhs:imgHeight "4032"^^xsd:integer ;
+	lhs:imgIntegrity "sha256:fe06a0b9b231c960af85b806a2620b21d0e040b42ee4f538f75deeec67210773" ;
+	lhs:imgLocation lhimg:s2_65148960c851c603dcfdf5ee212eef65a03fd6a817c0fe35595521115ea5aed7, lhimg:s2_8c7942fa70b93cf9a6174c54a75b072e5534ea1c2c52a965d79786853ef0374f ;
+	lhs:imgWidth "3024"^^xsd:integer ;
+	rdf:label "Ashley 931.1744" ;
+	rdf:type lhs:ImageType .
+lhtype:Ashley_931.1763 
+	lhs:imgHeight "2000"^^xsd:integer ;
+	lhs:imgIntegrity "sha256:9e8cb857a04dfb6b41e9bc7ea8b395eeee8b1bd6b40399cfb958a71b2acf9d0c" ;
+	lhs:imgLocation lhimg:s2_735a8bfa13184eb037af4acc3d14e6a9af975110708d04cfd8e73643e63f7df5, lhimg:s2_caf1a43fcc29a66c05084a3d66f0f5ffaf46bdf0f0b45709b4e7104e48b54a3e ;
+	lhs:imgWidth "2992"^^xsd:integer ;
+	rdf:label "Ashley 931.1763" ;
+	rdf:type lhs:ImageType .
+lhtype:Beatrice_210.1631 
+	lhs:imgHeight "4032"^^xsd:integer ;
+	lhs:imgIntegrity "sha256:52713bac98440233620dc64800dc05459ddb6af333952c459f0a83ba84310402" ;
+	lhs:imgLocation lhimg:s2_cac23cc4a9a632ed0931eaba2f8d7781680ac9fc811bbb7f30e97a3ea92f0b2c, lhimg:s2_dda0e1634f22cde9a2c5621d96a62314aa9c8921b42b7cfd7d36d706efdfeaf6 ;
+	lhs:imgWidth "3024"^^xsd:integer ;
+	rdf:label "Beatrice 210.1631" ;
+	rdf:type lhs:ImageType .
+lhtype:Beatrice_210.1651 
+	lhs:imgHeight "4032"^^xsd:integer ;
+	lhs:imgIntegrity "sha256:883570d98927a3cbf540d6c29bbccf307062ab73da1041794ad9d2321f889884" ;
+	lhs:imgLocation lhimg:s2_26615037a3fa14861c12205894795892885575ecd5f459ba795b868e3b05e8a5, lhimg:s2_c54c600fa54bb782f51426371abdd153c5cb8cee9e69eab9ebd2e794ee00e116 ;
+	lhs:imgWidth "3024"^^xsd:integer ;
+	rdf:label "Beatrice 210.1651" ;
+	rdf:type lhs:ImageType .
+lhtype:Blanton_2024.433.14853 
+	lhs:imgHeight "1800"^^xsd:integer ;
+	lhs:imgIntegrity "sha256:7169cff2a6f2a4997a65fd4f011c2f25aadf978b6b13ae71c9f18e22e3f7c5e9" ;
+	lhs:imgLocation lhimg:s2_54120a31695491737cf7030e248fe1daf416ea3090460799e3290fa5ba59ac3e ;
+	lhs:imgWidth "1440"^^xsd:integer ;
+	rdf:label "Blanton 2024.433.14853" ;
+	rdf:type lhs:ImageType .
+lhtype:Blanton_2024.433.19582 
+	lhs:imgHeight "1800"^^xsd:integer ;
+	lhs:imgIntegrity "sha256:7eed96a4e041b61a3560c884743a7c15cd5edf4cbfba35479d58ed9058d994cd" ;
+	lhs:imgLocation lhimg:s2_1516dff4e1ce4fb5406b48eccfe6e5d46f23d150662ee82eccfe8cb6ba42a23e ;
+	lhs:imgWidth "1440"^^xsd:integer ;
+	rdf:label "Blanton 2024.433.19582" ;
+	rdf:type lhs:ImageType .
+lhtype:Blanton_2024.433.32667 
+	lhs:imgHeight "1800"^^xsd:integer ;
+	lhs:imgIntegrity "sha256:19249b85bc1c3c794de9af3e5a8bf056b8999f3c00451a4dae792b4a5052e3aa" ;
+	lhs:imgLocation lhimg:s2_9460a4c22df733deec1f231fa9e06d404a8d4c1795d3dfba82088f2c6f7e1088 ;
+	lhs:imgWidth "1440"^^xsd:integer ;
+	rdf:label "Blanton 2024.433.32667" ;
+	rdf:type lhs:ImageType .
+lhtype:Blanton_2024.433.40968 
+	lhs:imgHeight "1800"^^xsd:integer ;
+	lhs:imgIntegrity "sha256:ab17c868d1745b098c8f8a7e1536368823ccdadb795288bcab939fca91347442" ;
+	lhs:imgLocation lhimg:s2_5a3635c63368c5f4dd8987dd7ae06504bfc031d6b4e649890218c1d311326b99 ;
+	lhs:imgWidth "1440"^^xsd:integer ;
+	rdf:label "Blanton 2024.433.40968" ;
+	rdf:type lhs:ImageType .
+lhtype:Blanton_2024.433.46636 
+	lhs:imgHeight "1800"^^xsd:integer ;
+	lhs:imgIntegrity "sha256:f770f5492d480c7d45058df43b2708da5a2cf6a6042c54822df3ed8fb7c5044b" ;
+	lhs:imgLocation lhimg:s2_6c6777cbd37fb0780fd4a5e298cce4b10955df5943aa5d77a4de38796493a390 ;
+	lhs:imgWidth "1440"^^xsd:integer ;
+	rdf:label "Blanton 2024.433.46636" ;
+	rdf:type lhs:ImageType .
+lhtype:Blanton_2024.433.51080 
+	lhs:imgHeight "1800"^^xsd:integer ;
+	lhs:imgIntegrity "sha256:2bbd364559c001a26fc235c774244e295578a7627aaa1a137839b4fd7f430c15" ;
+	lhs:imgLocation lhimg:s2_d4d08522e2efe20fabe51ec215ae1e22a919745e51326b05c92978cab678e5c6 ;
+	lhs:imgWidth "1440"^^xsd:integer ;
+	rdf:label "Blanton 2024.433.51080" ;
+	rdf:type lhs:ImageType .
+lhtype:Blanton_2024.433.69846 
+	lhs:imgHeight "1800"^^xsd:integer ;
+	lhs:imgIntegrity "sha256:80b796757ffad05266e9ec52f184d7807c8444cdc9550656c5930feec6231ea3" ;
+	lhs:imgLocation lhimg:s2_7383e38474004573ead6c8e03bbea3e992d34be48b3e7945366c296ae4760bdd ;
+	lhs:imgWidth "1440"^^xsd:integer ;
+	rdf:label "Blanton 2024.433.69846" ;
+	rdf:type lhs:ImageType .
+lhtype:Blanton_2024.433.76407 
+	lhs:imgHeight "1800"^^xsd:integer ;
+	lhs:imgIntegrity "sha256:be15f997ae3729fc48631167b965e0e5bdf165c348f28a5b7a5357a857c67384" ;
+	lhs:imgLocation lhimg:s2_f083e2b5a2185075754d6cdd523d73b63a30249aa7d1e35a0a9c82111461d9a4 ;
+	lhs:imgWidth "1440"^^xsd:integer ;
+	rdf:label "Blanton 2024.433.76407" ;
+	rdf:type lhs:ImageType .
+lhtype:Blanton_2024.433.79988 
+	lhs:imgHeight "1800"^^xsd:integer ;
+	lhs:imgIntegrity "sha256:2f3ed759eec6563837a1e8be85b972c951497d647d3322076c4bb86ed8030b24" ;
+	lhs:imgLocation lhimg:s2_66f8ee6d317d20e16a30f82ecd1a71b863561e467c6d18a3f2fbf63e505ee92e ;
+	lhs:imgWidth "1440"^^xsd:integer ;
+	rdf:label "Blanton 2024.433.79988" ;
+	rdf:type lhs:ImageType .
+lhtype:Gabrielle_394.2049 
+	lhs:imgHeight "4000"^^xsd:integer ;
+	lhs:imgIntegrity "sha256:25a03be39971e41e8e91912d46c3801fffb795520926c2484fdba235129e346b" ;
+	lhs:imgLocation lhimg:s2_2bee33c9e41820dcda7a09e557d6f30f123184d6b28ea400a74c2601289dab36, lhimg:s2_a44c34df88a52ea5aa809e90c666ed164b0f6e057768c2f0dd2d87b3051fdbb2 ;
+	lhs:imgWidth "2667"^^xsd:integer ;
+	rdf:label "Gabrielle 394.2049" ;
+	rdf:type lhs:ImageType .
+lhtype:Gabrielle_394.2071 
+	lhs:imgHeight "4000"^^xsd:integer ;
+	lhs:imgIntegrity "sha256:e208a4ee05f95f2fe58059b3e655d2195fcf9208d8a9309d99168da0076b6bf4" ;
+	lhs:imgLocation lhimg:s2_7bd7b820c30bb638cefc3a89094498e2c088aa9903beed32cd5e7c4120fcfe63, lhimg:s2_da236669fbb4a93b92b2fd45c32a2ab079f5754b0da488d5fc009437f1eae06e ;
+	lhs:imgWidth "2667"^^xsd:integer ;
+	rdf:label "Gabrielle 394.2071" ;
+	rdf:type lhs:ImageType .
+lhtype:Garcia_290.1709 
+	lhs:imgHeight "3648"^^xsd:integer ;
+	lhs:imgIntegrity "sha256:27781e0ed94d748ef0239503aa1fe6af0a2724ca7d67be1eb4e5b44f76897d54" ;
+	lhs:imgLocation lhimg:s2_42e76cb0ff7864ee7645d37e440f198d1f056915f400b640cbed934fdd66d64b, lhimg:s2_f5109074cd444c4d056f0ec80686a1380fa3f2f6b1aae2e56724c51532e0936a ;
+	lhs:imgWidth "2736"^^xsd:integer ;
+	rdf:label "Garcia 290.1709" ;
+	rdf:type lhs:ImageType .
+lhtype:Garcia_290.1711 
+	lhs:imgHeight "2992"^^xsd:integer ;
+	lhs:imgIntegrity "sha256:14ef77a944aa73506b213d6d4d01056bfc8c5d1543a935f48430e09ac2d5b12e" ;
+	lhs:imgLocation lhimg:s2_341ba8f3cf316c1aa09f58774ce38f70cc6f92b581783553aa44f3597ce680b4, lhimg:s2_780c18d676bb0a8079e8f0fa68dd96af75411959e2b444534f57193f0f006b9f ;
+	lhs:imgWidth "2992"^^xsd:integer ;
+	rdf:label "Garcia 290.1711" ;
+	rdf:type lhs:ImageType .
+lhtype:Garcia_290.1736 
+	lhs:imgHeight "4000"^^xsd:integer ;
+	lhs:imgIntegrity "sha256:2bb4734ba0390956aaae8eb5e29bf937e6292dfe3d5267018758284fd9896a23" ;
+	lhs:imgLocation lhimg:s2_4dd2957bfcc6ce248a1085444cb4bcadeb5f807d112e7fc1706fa898235f295f, lhimg:s2_51c0b8a929647ddfb18c8538029ca3e7f087f2b678bd9978d38e24feca351e80 ;
+	lhs:imgWidth "3000"^^xsd:integer ;
+	rdf:label "Garcia 290.1736" ;
+	rdf:type lhs:ImageType .
+lhtype:Huber_2024.40553.197 
+	lhs:imgHeight "4032"^^xsd:integer ;
+	lhs:imgIntegrity "sha256:3ae998174f4d83c9794d2d3dfeb0832833b14006768a6df9dfa5f0a3ee012526" ;
+	lhs:imgLocation lhimg:s2_05c2c06ff9d8d90b8df91151951c6558b1abab6d405b406ac6d6c87276264825, lhimg:s2_bd32cde0a4945a429710268ede91fa5f15debe22fe767ded222a8a2d95b79431 ;
+	lhs:imgWidth "3024"^^xsd:integer ;
+	rdf:label "Huber 2024.40553.197" ;
+	rdf:type lhs:ImageType .
+lhtype:Huber_2024.40553.445 
+	lhs:imgHeight "2988"^^xsd:integer ;
+	lhs:imgIntegrity "sha256:3fb789a3164bb160db11ad18cee837b86da4de2e30211b41df4f4a184f4948d4" ;
+	lhs:imgLocation lhimg:s2_65a31cadf93c8356c00ef641ee5d35cc2e0997558e241487d168d304a5310cbd, lhimg:s2_f973246dd4d66c155cfec7afddb5a5a65f186ae7ad94512dec530cbbb4ca6e86 ;
+	lhs:imgWidth "2134"^^xsd:integer ;
+	rdf:label "Huber 2024.40553.445" ;
+	rdf:type lhs:ImageType .
+lhtype:Ioana_119.1048 
+	lhs:imgHeight "3684"^^xsd:integer ;
+	lhs:imgIntegrity "sha256:713958f9151fc3c00e7d41d68a03edf325fdeaf2da0209ed4e6810738368e2dc" ;
+	lhs:imgLocation lhimg:s2_32c7703a32a341901fe96fe3bebe862a7e6b0913c3cc2728da7904dcaca4fb7e, lhimg:s2_4b978bb94a90526e7ae7d9a223b7d26284701149ed2a2a2828591ee1bfbdce66 ;
+	lhs:imgWidth "2947"^^xsd:integer ;
+	rdf:label "Ioana 119.1048" ;
+	rdf:type lhs:ImageType .
+lhtype:Ioana_119.1057 
+	lhs:imgHeight "3502"^^xsd:integer ;
+	lhs:imgIntegrity "sha256:3da5e78b8563bbe3a41410e498241465e37ffe88a9e36bd46c51f7e82a4aa528" ;
+	lhs:imgLocation lhimg:s2_2b2f9387ce0a90076f5574c880bc2d2bd2257fc59e1e567a601ef7a48dd3aaf2, lhimg:s2_f47a65452f9c0e943c40c1bdea9d6e70747c90cd051c0424bd34b7a330dc9476 ;
+	lhs:imgWidth "2801"^^xsd:integer ;
+	rdf:label "Ioana 119.1057" ;
+	rdf:type lhs:ImageType .
+lhtype:Jessa_157.12676 
+	lhs:imgHeight "4032"^^xsd:integer ;
+	lhs:imgIntegrity "sha256:b448220751bdb1e5f639cd6cb6f2920d31fc23ab77b6e1f8b3a71980b0ff80b6" ;
+	lhs:imgLocation lhimg:s2_7de253804e2e9a70aa026255778eff29fc305a83bc3ed1fe954c23af55206142, lhimg:s2_9a633cc19abf2420e8523bfd894a1b7bcf6fc4659e9768cd553a8827640c2916 ;
+	lhs:imgWidth "3024"^^xsd:integer ;
+	rdf:label "Jessa 157.12676" ;
+	rdf:type lhs:ImageType .
+lhtype:Jessa_157.1490 
+	lhs:imgHeight "4032"^^xsd:integer ;
+	lhs:imgIntegrity "sha256:833067180a4227f0ee1acb09558c2daf507b65819925bf058c8b52da085d098f" ;
+	lhs:imgLocation lhimg:s2_c62a944fe3d0bafd7335b6a64e13904f674933d59b3fc076c572760cd09cf594, lhimg:s2_d0b78e5a1a08a98a43b3950afe0af6393e37a48ab247f9eecf17928ad6c695bb ;
+	lhs:imgWidth "3024"^^xsd:integer ;
+	rdf:label "Jessa 157.1490" ;
+	rdf:type lhs:ImageType .
+lhtype:Karen_209.1067 
+	lhs:imgHeight "2926"^^xsd:integer ;
+	lhs:imgIntegrity "sha256:02aafdc7e4b7b3828656eb09e6f27b06c4a3dc1bf0a096b2e994e8b847595cb8" ;
+	lhs:imgLocation lhimg:s2_0b76a1876b29f6af7cfea0d285d3da393119e59612292fb540cb417b9f18dbca, lhimg:s2_b63a68ef3c864b3cd39263a5a236561a7c9530428049d70ca7685d644a47c3b8 ;
+	lhs:imgWidth "2341"^^xsd:integer ;
+	rdf:label "Karen 209.1067" ;
+	rdf:type lhs:ImageType .
+lhtype:Karen_209.1145 
+	lhs:imgHeight "2619"^^xsd:integer ;
+	lhs:imgIntegrity "sha256:dec9990bd1c603cce11ef2d3e92b642de6905fdd57dca9559952a5fb81f0f99f" ;
+	lhs:imgLocation lhimg:s2_a92ed2570c92b00feac9a0165dbf54158cb77bcd03402ebcbe6c78f3e54d805d, lhimg:s2_cad05884bd38babd97ac0085ef2f5d8158170780bbc5d6967ebbebfd167d20bf ;
+	lhs:imgWidth "2095"^^xsd:integer ;
+	rdf:label "Karen 209.1145" ;
+	rdf:type lhs:ImageType .
+lhtype:Karen_210.1439.43997 
+	lhs:imgHeight "1796"^^xsd:integer ;
+	lhs:imgIntegrity "sha256:cbdda809b9c834fb2213f1645bcf11635dbbafa1f51aaed5422825765cba5b0f" ;
+	lhs:imgLocation lhimg:s2_cea65b496efb638122e4c9c420d9003eb9a742f14614432ad9c54ad0cd9bf872 ;
+	lhs:imgWidth "1440"^^xsd:integer ;
+	rdf:label "Karen 210.1439.43997" ;
+	rdf:type lhs:ImageType .
+lhtype:Karen_210.1439.71897 
+	lhs:imgHeight "1800"^^xsd:integer ;
+	lhs:imgIntegrity "sha256:2abf26f5823535da2f4519152bbd8740a81f738369c13c0a336880e868af18fd" ;
+	lhs:imgLocation lhimg:s2_2f13a3b8d859685de84d33c7bf2310225f5e2522e8d0a3b9f8788790c225616c ;
+	lhs:imgWidth "1440"^^xsd:integer ;
+	rdf:label "Karen 210.1439.71897" ;
+	rdf:type lhs:ImageType .
+lhtype:Karen_210.1439.92994 
+	lhs:imgHeight "1800"^^xsd:integer ;
+	lhs:imgIntegrity "sha256:402137d616bfa8235873967b018b6b0bd418f952fa315dc56b3f4564bd120b77" ;
+	lhs:imgLocation lhimg:s2_7ee100e7e53edaba829ac735cd5d993540a3b0e4271f1382ea4d9ba758dddbc1 ;
+	lhs:imgWidth "1440"^^xsd:integer ;
+	rdf:label "Karen 210.1439.92994" ;
+	rdf:type lhs:ImageType .
+lhtype:Martina_1057.118 
+	lhs:imgHeight "4608"^^xsd:integer ;
+	lhs:imgIntegrity "sha256:fc7e7d791bee0d634e75a87d8078d2164542039f5014c7ce1977f4f2c76f3cd3" ;
+	lhs:imgLocation lhimg:s2_48bbbbf6b94add4cee30ae20ee925bab48373175e6249698c292b7bb7b089041, lhimg:s2_98c6bdab25a414a0c6bd1bd73eacee64a8b9823dbae50be04ae296c92afc62f9 ;
+	lhs:imgWidth "2592"^^xsd:integer ;
+	rdf:label "Martina 1057.118" ;
+	rdf:type lhs:ImageType .
+lhtype:Martina_1057.326 
+	lhs:imgHeight "4608"^^xsd:integer ;
+	lhs:imgIntegrity "sha256:a9afef4253cd511a34a90e08a9ed98beff31740fdf76aad8f1296cd847cfd3cf" ;
+	lhs:imgLocation lhimg:s2_0c726dd1636d16dcc10092c921ab1a489f092e4f044ff9f72acd733f29ef64fa, lhimg:s2_a9c05c38dffab7ef08fb72c55204e06202dbac8c8370b484745f7ffcb18febf0 ;
+	lhs:imgWidth "2592"^^xsd:integer ;
+	rdf:label "Martina 1057.326" ;
+	rdf:type lhs:ImageType .
+lhtype:Megan_171.4071 
+	lhs:imgHeight "4032"^^xsd:integer ;
+	lhs:imgIntegrity "sha256:8d57cce69d2db026e6a7a21a939d497b11896aaaed99ce8935aba1e5cc0d3b6b" ;
+	lhs:imgLocation lhimg:s2_567a55d07e8797aee717674e6390085c9e93df8081b8555db12b5ed618d3e143, lhimg:s2_f8416064c0abbd4e10062b90fb729bc89c928badd6a9ba83b5f44f87b6f540b6 ;
+	lhs:imgWidth "3024"^^xsd:integer ;
+	rdf:label "Megan 171.4071" ;
+	rdf:type lhs:ImageType .
+lhtype:Megan_171.4098 
+	lhs:imgHeight "4032"^^xsd:integer ;
+	lhs:imgIntegrity "sha256:c2ead0e6bb186daf48fc5e90df12a701c0f32069b7f6b74211094652796f38c7" ;
+	lhs:imgLocation lhimg:s2_553515305e7f38d3f39090a137672f357121ee2b73d58bfe2a811fc40f24ba2e, lhimg:s2_bcb09fd1fdbb3f979a1bda4d6f7ccbcd41fc960ba00a04ce9d5829ff5cae0e0c ;
+	lhs:imgWidth "3024"^^xsd:integer ;
+	rdf:label "Megan 171.4098" ;
+	rdf:type lhs:ImageType .
+lhtype:Nelly_233.9071 
+	lhs:imgHeight "4000"^^xsd:integer ;
+	lhs:imgIntegrity "sha256:d2b3950c36319184ea909bf88d3eb59e7b2947c2dd8b41fc23a4d37851671f12" ;
+	lhs:imgLocation lhimg:s2_874587e810bab816555a3355fdd8747d6a2da79979e73f94b92cadfb39d17157, lhimg:s2_cdff903c2fd7a516e281e9368726ee1e7ab0922fdc661db1006577289b870243 ;
+	lhs:imgWidth "3000"^^xsd:integer ;
+	rdf:label "Nelly 233.9071" ;
+	rdf:type lhs:ImageType .
+lhtype:Nelly_233.9085 
+	lhs:imgHeight "3524"^^xsd:integer ;
+	lhs:imgIntegrity "sha256:dd9d50d4944641371e7220e049d796a90901c293bfdd8dc2f23763e9db9d5c37" ;
+	lhs:imgLocation lhimg:s2_216c85bc011bcb037a860861fcf9d77860c8c317ece1d164aa5499a076d13c91, lhimg:s2_36f50a7907b35b46298a882ad26de00df4b8b62ec915047c733200a6bdd6c297 ;
+	lhs:imgWidth "2627"^^xsd:integer ;
+	rdf:label "Nelly 233.9085" ;
+	rdf:type lhs:ImageType .
+lhtype:Rimfors_15.1660 
+	lhs:imgHeight "4032"^^xsd:integer ;
+	lhs:imgIntegrity "sha256:383343b7930238147ad2ca06e3e59dee8993a8b7bdec559fb567671ba3167ebf" ;
+	lhs:imgLocation lhimg:s2_0a03fa9096e57b11ba326315e9702cc3e9b2f7dc4f65abdcf371c22859d3bb84, lhimg:s2_c6eb901db953811f873b938dcab877eb27781cff43a65d287547b7fbdb3e9ba0 ;
+	lhs:imgWidth "3024"^^xsd:integer ;
+	rdf:label "Rimfors 15.1660" ;
+	rdf:type lhs:ImageType .
+lhtype:Rimfors_15.1710 
+	lhs:imgHeight "4032"^^xsd:integer ;
+	lhs:imgIntegrity "sha256:1bd85dd6679d51c2409bb562bb83f96212eaef3d496e66044a0ba7da89f8f1dd" ;
+	lhs:imgLocation lhimg:s2_3c421029fcb22de5395fe81c382155a2e2b08b80df49f34b49197764ed8b340d, lhimg:s2_db29da75d925a32b7d6386e2c99d5f18c50d4f3267eb8e23335d81ac41da94ea ;
+	lhs:imgWidth "3024"^^xsd:integer ;
+	rdf:label "Rimfors 15.1710" ;
+	rdf:type lhs:ImageType .
+lhtype:Shreya_59.5165 
+	lhs:imgHeight "4032"^^xsd:integer ;
+	lhs:imgIntegrity "sha256:9fcf9592f703998480b966a3217d4eb2bfe8c49f8da04ac7d7488f893a632b0d" ;
+	lhs:imgLocation lhimg:s2_df28816cb8d7c59514ccba2829e4fff2fca750878ca29b3924ed2008d6e00761, lhimg:s2_e0f0db9e20b9e7cd73c50a90bfc624f9d0ff8a6488402f5cf6d37e5c4cd2f977 ;
+	lhs:imgWidth "3024"^^xsd:integer ;
+	rdf:label "Shreya 59.5165" ;
+	rdf:type lhs:ImageType .
+lhtype:Shreya_59.5166 
+	lhs:imgHeight "4032"^^xsd:integer ;
+	lhs:imgIntegrity "sha256:d1eea0276e361b393c523ae9fade4d905983e9c9657ef9e3ca3270acd4164da2" ;
+	lhs:imgLocation lhimg:s2_aaf75be542fdd0455eb9e50a51314b0f9e6baefe63a7ae292f89dfb71a6899d7, lhimg:s2_ea3f4ce22b32f3f02d1492e9d51990491b205b799b0790469c6442bc478dcd2b ;
+	lhs:imgWidth "3024"^^xsd:integer ;
+	rdf:label "Shreya 59.5166" ;
+	rdf:type lhs:ImageType .
