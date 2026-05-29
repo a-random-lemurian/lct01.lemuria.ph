@@ -1,1197 +1,1827 @@
-@base <https://lct01.lemuria.ph/rdf/lct01/lhs#> .
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
-@prefix lctax: <https://lct01.lemuria.ph/rdf/lct01/lhs/taxon/> .
-@prefix lhimg: <https://lct01.lemuria.ph/rdf/lct01/lhs/image/> .
-@prefix lcwearev: <https://lct01.lemuria.ph/rdf/lct01/lhs/event/wear/> .
+@prefix foaf: <https://xmlns.com/foaf/0.1/> .
 @prefix lcdescev: <https://lct01.lemuria.ph/rdf/lct01/lhs/event/desc/> .
 @prefix lcperson: <https://lct01.lemuria.ph/rdf/lct01/lhs/person/> .
+@prefix lcrank: <https://lct01.lemuria.ph/rdf/lct01/lhs/ranks/> .
+@prefix lctax: <https://lct01.lemuria.ph/rdf/lct01/lhs/taxon/> .
+@prefix lcwearev: <https://lct01.lemuria.ph/rdf/lct01/lhs/event/wear/> .
+@prefix lhimg: <https://lct01.lemuria.ph/rdf/lct01/lhs/image/> .
 @prefix lhs: <https://lct01.lemuria.ph/rdf/lct01/lhs#> .
+@prefix lhtype: <https://lct01.lemuria.ph/rdf/lct01/lhs/type/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
-@prefix xml: <http://www.w3.org/XML/1998/namespace> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix foaf: <https://xmlns.com/foaf/0.1/> .
-@prefix lcrank: <https://lct01.lemuria.ph/rdf/lct01/lhs/ranks/> .
-@prefix lhtype: <https://lct01.lemuria.ph/rdf/lct01/lhs/type/> .
-lcdescev:s384_0293153ebc1bd6a3f0ce47f92e06fe53ebc96435aac5eba250b4c6d3b2a51a01a90fd4f2d04068af979993541ff4d85f 
-	lhs:describerAuthorityString "Lemuria, 2026" ;
-	rdf:type "lhs:DescriptionEvent" .
-lcdescev:s384_24e0687f9f3a88113287e56747524c2c9c402217b2385984194529acf1afc3892700e271c2dab24e5e93c08f58faa7ab 
-	lhs:describerAuthorityString "Lemuria, 2026" ;
-	rdf:type "lhs:DescriptionEvent" .
-lcdescev:s384_4dcc1659184c1b51c4249468b5d1ff36038e4924c504f2188b575ba98736a78e54f6c1f4618c037d78a53a3943ec20d4 
-	lhs:describerAuthorityString "Lemuria, 2026" ;
-	rdf:type "lhs:DescriptionEvent" .
-lcdescev:s384_6d70485ebafdab105b7eac6f1fc905d2865e3133d8b640e6e5c25a792f1c80a8d0ec9f0cc5ddd1c692c8a023a93e3a97 
-	lhs:describerAuthorityString "Lemuria, 2026" ;
-	rdf:type "lhs:DescriptionEvent" .
-lcdescev:s384_729c9258988e7b9ec83c49b40e26f9faa42b2e7a105208845e337e693dfc812dd573ebf665e86506048f12ac1b8281f0 
-	lhs:describerAuthorityString "Lemuria, 2026" ;
-	rdf:type "lhs:DescriptionEvent" .
-lcdescev:s384_86da30bbab9d72c6b62641b9d1d6c01f0cba8a2fda0325c8d0d891eb2c1354cdb35166b1250004e0ad9c35ea1c6a5659 
-	lhs:describerAuthorityString "Lemuria, 2026" ;
-	rdf:type "lhs:DescriptionEvent" .
-lcdescev:s384_93093b37b5438007222a38cb60e5e13635f23cca4b9e96aa7b6ec20559e75900ce715504d8266c5f8bed332191ee683a 
-	lhs:describerAuthorityString "Lemuria, 2026" ;
-	rdf:type "lhs:DescriptionEvent" .
-lcdescev:s384_b30c48d91b85fab196ad5ed9527f7fe5e1ba7cf345ca25eb008a4c961c47a33b014d3d23aa1412fa3c8c955c0adb9f70 
-	lhs:describerAuthorityString "Lemuria, 2026" ;
-	rdf:type "lhs:DescriptionEvent" .
-lcdescev:s384_bb623380c3617b79943db67e6b426d4514a5340338ba39277586a9c757e440ec2d561902dbe863fdb04ae1aae12fd3a6 
-	lhs:describerAuthorityString "Lemuria, 2026" ;
-	rdf:type "lhs:DescriptionEvent" .
-lcdescev:s384_c678f7d4a93c3934724767ac3ba068ae5642e062333c4d74c13fce35c8871c5f4f13b0255f56f4cadb732f1f80115989 
-	lhs:describerAuthorityString "Lemuria, 2026" ;
-	rdf:type "lhs:DescriptionEvent" .
-lcdescev:s384_cecabed6aae4e92099ea08fe2f1ac233cf987a1bd9a2584f61e8e8bc6f0b96497bac1df99ed18808d2e61412bfa17e6e 
-	lhs:describerAuthorityString "Lemuria, 2026" ;
-	rdf:type "lhs:DescriptionEvent" .
-lcdescev:s384_d6db97ebe96f5e6f1ce95bd06377f0d01045792458986fa9b31245defdacb045244d847b714dad9c360d8e6af8400f27 
-	lhs:describerAuthorityString "Lemuria, 2026" ;
-	rdf:type "lhs:DescriptionEvent" .
-lcdescev:s384_d8bbe996e7d281d9bced932163a895a9bda145519ed26f319236eb907efac05f62286f30e9791443b0922ef5487164c6 
-	lhs:describerAuthorityString "Lemuria, 2026" ;
-	rdf:type "lhs:DescriptionEvent" .
-lcdescev:s384_eb62532042dd325ef02e10fba9ec95873a2d72ee722149bdc1b9c59cc46bedf69b16be4f6fe22ac6cb06e8fe3ca5fe7e 
-	lhs:describerAuthorityString "Lemuria, 2026" ;
-	rdf:type "lhs:DescriptionEvent" .
-lcdescev:s384_fd733bb744fa14a0f36b9da924c74306a8a0eac5d1051ed7d67b5406f6ff71077e3f3c170bafe53bc0837176d13348f4 
-	lhs:describerAuthorityString "Lemuria, 2026" ;
-	rdf:type "lhs:DescriptionEvent" .
-lcperson:Alexis_Wright 
-	foaf:name "Alexis Wright" ;
-	lhs:personAbbreviation "Alexis.Wr." ;
-	rdf:type foaf:Person, lhs:Person .
-lcperson:Annette_Nicoletti 
-	foaf:name "Annette Nicoletti" ;
-	lhs:personAbbreviation "Annette.N." ;
-	rdf:type foaf:Person, lhs:Person .
-lcperson:Aria_Wright-Shriver 
-	foaf:name "Aria Wright-Shriver" ;
-	lhs:personAbbreviation "Aria.W.S." ;
-	rdf:type foaf:Person, lhs:Person .
-lcperson:Elizabeth_Baumgart 
-	foaf:name "Elizabeth Baumgart" ;
-	lhs:personAbbreviation "Eliz.B." ;
-	rdf:type foaf:Person, lhs:Person .
-lcperson:Isabel_Plett 
-	foaf:name "Isabel Plett" ;
-	lhs:personAbbreviation "Isabel.P." ;
-	rdf:type foaf:Person, lhs:Person .
-lcperson:Juliana_Rucker 
-	foaf:name "Juliana Rucker" ;
-	lhs:personAbbreviation "Juliana.R." ;
-	rdf:type foaf:Person, lhs:Person .
-lcperson:Katie_Hunter-Moon 
-	foaf:name "Katie Hunter-Moon" ;
-	lhs:personAbbreviation "Hunter-Moon" ;
-	rdf:type foaf:Person, lhs:Person .
-lcperson:Manuela_Wilkes 
-	foaf:name "Manuela Wilkes" ;
-	lhs:personAbbreviation "Manuela.W." ;
-	rdf:type foaf:Person, lhs:Person .
-lcperson:Oliwia_Jarosz 
-	foaf:name "Oliwia Jarosz" ;
-	lhs:personAbbreviation "Oliwia.J." ;
-	rdf:type foaf:Person, lhs:Person .
-lcperson:Paige_Plihal 
-	foaf:name "Paige Plihal" ;
-	lhs:personAbbreviation "Paige.P." ;
-	rdf:type foaf:Person, lhs:Person .
-lcperson:Samantha_Newbery 
-	foaf:name "Samantha Newbery" ;
-	lhs:personAbbreviation "Sam.Ne." ;
-	rdf:type foaf:Person, lhs:Person .
-lcperson:Stephanie_Goh 
-	foaf:name "Stephanie Goh" ;
-	lhs:personAbbreviation "Stephanie.G." ;
-	rdf:type foaf:Person, lhs:Person .
-lcperson:Suna_Mantori 
-	foaf:name "Suna Mantori" ;
-	lhs:personAbbreviation "Suna.M." ;
-	rdf:type foaf:Person, lhs:Person .
-lcperson:Tea_Stamenkovic 
-	foaf:name "Tea Stamenkovic" ;
-	lhs:personAbbreviation "Tea.S." ;
-	rdf:type foaf:Person, lhs:Person .
-lctax:Julietta 
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+lcdescev:s384_0293153ebc1bd6a3f0ce47f92e06fe53ebc96435aac5eba250b4c6d3b2a51a01a90fd4f2d04068af979993541ff4d85f
+	a "lhs:DescriptionEvent"^^xsd:string ;
+	lhs:describerAuthorityString "Lemuria, 2026"^^xsd:string ;
+	.
+
+lcdescev:s384_24e0687f9f3a88113287e56747524c2c9c402217b2385984194529acf1afc3892700e271c2dab24e5e93c08f58faa7ab
+	a "lhs:DescriptionEvent"^^xsd:string ;
+	lhs:describerAuthorityString "Lemuria, 2026"^^xsd:string ;
+	.
+
+lcdescev:s384_4dcc1659184c1b51c4249468b5d1ff36038e4924c504f2188b575ba98736a78e54f6c1f4618c037d78a53a3943ec20d4
+	a "lhs:DescriptionEvent"^^xsd:string ;
+	lhs:describerAuthorityString "Lemuria, 2026"^^xsd:string ;
+	.
+
+lcdescev:s384_6d70485ebafdab105b7eac6f1fc905d2865e3133d8b640e6e5c25a792f1c80a8d0ec9f0cc5ddd1c692c8a023a93e3a97
+	a "lhs:DescriptionEvent"^^xsd:string ;
+	lhs:describerAuthorityString "Lemuria, 2026"^^xsd:string ;
+	.
+
+lcdescev:s384_729c9258988e7b9ec83c49b40e26f9faa42b2e7a105208845e337e693dfc812dd573ebf665e86506048f12ac1b8281f0
+	a "lhs:DescriptionEvent"^^xsd:string ;
+	lhs:describerAuthorityString "Lemuria, 2026"^^xsd:string ;
+	.
+
+lcdescev:s384_86da30bbab9d72c6b62641b9d1d6c01f0cba8a2fda0325c8d0d891eb2c1354cdb35166b1250004e0ad9c35ea1c6a5659
+	a "lhs:DescriptionEvent"^^xsd:string ;
+	lhs:describerAuthorityString "Lemuria, 2026"^^xsd:string ;
+	.
+
+lcdescev:s384_93093b37b5438007222a38cb60e5e13635f23cca4b9e96aa7b6ec20559e75900ce715504d8266c5f8bed332191ee683a
+	a "lhs:DescriptionEvent"^^xsd:string ;
+	lhs:describerAuthorityString "Lemuria, 2026"^^xsd:string ;
+	.
+
+lcdescev:s384_b30c48d91b85fab196ad5ed9527f7fe5e1ba7cf345ca25eb008a4c961c47a33b014d3d23aa1412fa3c8c955c0adb9f70
+	a "lhs:DescriptionEvent"^^xsd:string ;
+	lhs:describerAuthorityString "Lemuria, 2026"^^xsd:string ;
+	.
+
+lcdescev:s384_bb623380c3617b79943db67e6b426d4514a5340338ba39277586a9c757e440ec2d561902dbe863fdb04ae1aae12fd3a6
+	a "lhs:DescriptionEvent"^^xsd:string ;
+	lhs:describerAuthorityString "Lemuria, 2026"^^xsd:string ;
+	.
+
+lcdescev:s384_c678f7d4a93c3934724767ac3ba068ae5642e062333c4d74c13fce35c8871c5f4f13b0255f56f4cadb732f1f80115989
+	a "lhs:DescriptionEvent"^^xsd:string ;
+	lhs:describerAuthorityString "Lemuria, 2026"^^xsd:string ;
+	.
+
+lcdescev:s384_cecabed6aae4e92099ea08fe2f1ac233cf987a1bd9a2584f61e8e8bc6f0b96497bac1df99ed18808d2e61412bfa17e6e
+	a "lhs:DescriptionEvent"^^xsd:string ;
+	lhs:describerAuthorityString "Lemuria, 2026"^^xsd:string ;
+	.
+
+lcdescev:s384_d6db97ebe96f5e6f1ce95bd06377f0d01045792458986fa9b31245defdacb045244d847b714dad9c360d8e6af8400f27
+	a "lhs:DescriptionEvent"^^xsd:string ;
+	lhs:describerAuthorityString "Lemuria, 2026"^^xsd:string ;
+	.
+
+lcdescev:s384_d8bbe996e7d281d9bced932163a895a9bda145519ed26f319236eb907efac05f62286f30e9791443b0922ef5487164c6
+	a "lhs:DescriptionEvent"^^xsd:string ;
+	lhs:describerAuthorityString "Lemuria, 2026"^^xsd:string ;
+	.
+
+lcdescev:s384_eb62532042dd325ef02e10fba9ec95873a2d72ee722149bdc1b9c59cc46bedf69b16be4f6fe22ac6cb06e8fe3ca5fe7e
+	a "lhs:DescriptionEvent"^^xsd:string ;
+	lhs:describerAuthorityString "Lemuria, 2026"^^xsd:string ;
+	.
+
+lcdescev:s384_fd733bb744fa14a0f36b9da924c74306a8a0eac5d1051ed7d67b5406f6ff71077e3f3c170bafe53bc0837176d13348f4
+	a "lhs:DescriptionEvent"^^xsd:string ;
+	lhs:describerAuthorityString "Lemuria, 2026"^^xsd:string ;
+	.
+
+lcwearev:s384_04b0af537ec79d3b7d0a8be8b6720fb4a2aab4d51a46008182224706a9a6a2f5d05e892b73344377600fa7b99fc9d1d3
+	a lhs:WearEvent ;
+	lhs:taxonWorn lctax:Julietta_thea ;
+	lhs:wornBy lcperson:Tea_Stamenkovic ;
+	lhs:wornYear "2023"^^xsd:integer ;
+	.
+
+lcwearev:s384_0634f11233c75e67ec23379fb49681698a82467bdd7bbaa476307bf6d9ac5417c2f3f29000dd12792f1476be8a9baf93
+	a lhs:WearEvent ;
+	lhs:taxonWorn lctax:Julietta_alexisae ;
+	lhs:wornBy lcperson:Alexis_Wright ;
+	lhs:wornYear "2023"^^xsd:integer ;
+	.
+
+lcwearev:s384_0b5a8661f98440ddf5336e4962bd1d14a310f6da5b757223247e463b5a637c02449518b77672f1035ca7a27728e0bbf6
+	a lhs:WearEvent ;
+	lhs:taxonWorn lctax:Julietta_stephaniae ;
+	lhs:wornBy lcperson:Stephanie_Goh ;
+	lhs:wornYear "2023"^^xsd:integer ;
+	.
+
+lcwearev:s384_0efd1261716340af38f43d46b3ecd169e59fb7d39636d6ce77435897f04701644cafe7b01a754194950a913102feddfc
+	a lhs:WearEvent ;
+	lhs:taxonWorn lctax:Julietta_stephaniae ;
+	lhs:wornBy lcperson:Stephanie_Goh ;
+	lhs:wornYear "2023"^^xsd:integer ;
+	.
+
+lcwearev:s384_102697e2b6b7e6b135cbeafe20006a39509c01b50f47db43c5db2855ebf1aaf91ae330c341379c8bbce01e25d3430a58
+	a lhs:WearEvent ;
+	lhs:taxonWorn lctax:Julietta_julianae ;
+	lhs:wornBy lcperson:Juliana_Rucker ;
+	lhs:wornYear "2023"^^xsd:integer ;
+	.
+
+lcwearev:s384_1431878ba0195cc578fac4a193aad765d39843bef153e2b2afdf553217a2d8dbd8edbfa70bf8132a20ce4cda517bdc70
+	a lhs:WearEvent ;
+	lhs:taxonWorn lctax:Julietta_stephaniae ;
+	lhs:wornBy lcperson:Stephanie_Goh ;
+	lhs:wornYear "2023"^^xsd:integer ;
+	.
+
+lcwearev:s384_1c52b2c4eb2fd6b23002723639a16952618a85cdf63cf1660a828f966d01079005d4d987e90bfcb955d3bae770b58346
+	a lhs:WearEvent ;
+	lhs:taxonWorn lctax:Julietta_plettia ;
+	lhs:wornBy lcperson:Isabel_Plett ;
+	lhs:wornYear "2023"^^xsd:integer ;
+	.
+
+lcwearev:s384_44db2d6218bcb38bb51646e86692858942f5abd2882fe561cb9fa50bb64a3d349e8fc40eecda2669157ee889f6fe7193
+	a lhs:WearEvent ;
+	lhs:taxonWorn lctax:Julietta_julianae ;
+	lhs:wornBy lcperson:Juliana_Rucker ;
+	lhs:wornYear "2023"^^xsd:integer ;
+	.
+
+lcwearev:s384_458898a8cc2710675048ac86510d03ccf408487c844edd0f058b2e677e522b8c36992b637b19fbda05c1d6540507591e
+	a lhs:WearEvent ;
+	lhs:taxonWorn lctax:Julietta_samanthae ;
+	lhs:wornBy lcperson:Samantha_Newbery ;
+	lhs:wornYear "2023"^^xsd:integer ;
+	.
+
+lcwearev:s384_46ccde34fba6964e554ce6bc2aba88cc70ffc40ac43ace023df102c6d709a8d5578a0026d9cf63812f91004dfa1b3fe7
+	a lhs:WearEvent ;
+	lhs:taxonWorn lctax:Julietta_plihalia ;
+	lhs:wornBy lcperson:Paige_Plihal ;
+	lhs:wornYear "2023"^^xsd:integer ;
+	.
+
+lcwearev:s384_480ec1950c62e0f315b09fea3422594af11f0b44fe7f833c2609cefd3ce133ce0ee1c75cf076534d865ae93395b5c098
+	a lhs:WearEvent ;
+	lhs:taxonWorn lctax:Julietta_venaluna ;
+	lhs:wornBy lcperson:Katie_Hunter-Moon ;
+	lhs:wornYear "2023"^^xsd:integer ;
+	.
+
+lcwearev:s384_49e295c8bc0664b8e5a78465932dde01498a214a2d35f4b84f81619079ce38a9d2593a72b491dda570e6e9496c8c3492
+	a lhs:WearEvent ;
+	lhs:taxonWorn lctax:Julietta_manuelae ;
+	lhs:wornBy lcperson:Manuela_Wilkes ;
+	lhs:wornYear "2023"^^xsd:integer ;
+	.
+
+lcwearev:s384_57a098e1bfee41da87c57d53a2903cd25ccd9ef165322fbb44d1e1cece22cb9e59703b726687694192a7b6e8e3aa3bb8
+	a lhs:WearEvent ;
+	lhs:taxonWorn lctax:Julietta_plettia ;
+	lhs:wornBy lcperson:Isabel_Plett ;
+	lhs:wornYear "2023"^^xsd:integer ;
+	.
+
+lcwearev:s384_5a87fbfbac0be571537a6954938e9a296ac9829ead61a4f597a08fa16cdd63845aa2c4b0e00747f7a1488c86eaded606
+	a lhs:WearEvent ;
+	lhs:taxonWorn lctax:Julietta_oliwiae ;
+	lhs:wornBy lcperson:Oliwia_Jarosz ;
+	lhs:wornYear "2023"^^xsd:integer ;
+	.
+
+lcwearev:s384_65ee40e386c5b99c404796f402bc9674be9617c7daa90e1f740cee5b584f7254423a0950c85ce6317fc61f788d9aa673
+	a lhs:WearEvent ;
+	lhs:taxonWorn lctax:Julietta_ariae ;
+	lhs:wornBy lcperson:Aria_Wright-Shriver ;
+	lhs:wornYear "2023"^^xsd:integer ;
+	.
+
+lcwearev:s384_686ae19c3209fd1829a569850da02896e1014f355fe72cd061c68fd9ee24b17831cc7253d5204661bc0342847d7f0304
+	a lhs:WearEvent ;
+	lhs:taxonWorn lctax:Julietta_mantorae ;
+	lhs:wornBy lcperson:Suna_Mantori ;
+	.
+
+lcwearev:s384_7a06a17369016104e8c96d8de0d44fbd1007cdbbaafb6f27a4d352d98782e30de2e2a3e322b10dc4c81bba39f03510de
+	a lhs:WearEvent ;
+	lhs:taxonWorn lctax:Julietta_manuelae ;
+	lhs:wornBy lcperson:Manuela_Wilkes ;
+	lhs:wornYear "2023"^^xsd:integer ;
+	.
+
+lcwearev:s384_7dfe6e75b6e90d390303610cb77012dfafd3eac9b00472bbbc37a23ff7716e2080f0ebd317b54344d46456070bc34905
+	a lhs:WearEvent ;
+	lhs:taxonWorn lctax:Julietta_manuelae ;
+	lhs:wornBy lcperson:Manuela_Wilkes ;
+	lhs:wornYear "2023"^^xsd:integer ;
+	.
+
+lcwearev:s384_82d05cb650af3f6be61f2cfe13a15c2b8ef809bebb9c991caa5a331f198edac1be6317fb50913c63f8b5140bc2fe3eaa
+	a lhs:WearEvent ;
+	lhs:taxonWorn lctax:Julietta_oliwiae ;
+	lhs:wornBy lcperson:Oliwia_Jarosz ;
+	lhs:wornYear "2023"^^xsd:integer ;
+	.
+
+lcwearev:s384_97f978093b2c8dc1dfe0a53d023a4b915ff50d90d3d5e6e952a85d19a4a4837b7daa6608b9d93f3857f5af8912172776
+	a lhs:WearEvent ;
+	lhs:taxonWorn lctax:Julietta_mantorae ;
+	lhs:wornBy lcperson:Suna_Mantori ;
+	.
+
+lcwearev:s384_9bc9ed8b7f0a99b4376c182e2e38c3e71c5dcadb5eeca7d1cab6e2ffaeb7a1cc4e1d87d5f7e6d78820f39856911f64f2
+	a lhs:WearEvent ;
+	lhs:taxonWorn lctax:Julietta_mantorae ;
+	lhs:wornBy lcperson:Suna_Mantori ;
+	.
+
+lcwearev:s384_a1c61ffea0fcc68c17a69251ce89733787ae3437730a38fe26ed3b7d9ce720b73f89dc72b03f2f2fe51c795f626e7fc2
+	a lhs:WearEvent ;
+	lhs:taxonWorn lctax:Julietta_julianae ;
+	lhs:wornBy lcperson:Juliana_Rucker ;
+	lhs:wornYear "2023"^^xsd:integer ;
+	.
+
+lcwearev:s384_a3ab192af4c8a8cc736ca84377b614c2f001a731a058487699a6ee83941d1014d8e962ba96e651b6311e2782646c1643
+	a lhs:WearEvent ;
+	lhs:taxonWorn lctax:Julietta_baumgartia ;
+	lhs:wornBy lcperson:Elizabeth_Baumgart ;
+	lhs:wornYear "2023"^^xsd:integer ;
+	.
+
+lcwearev:s384_a86c585301aea214daa08dcfc657c86d561a5bbb3ff3e916e984e747a2e0327e832c7faf10a00d6309886754ee82c918
+	a lhs:WearEvent ;
+	lhs:taxonWorn lctax:Julietta_annettae ;
+	lhs:wornBy lcperson:Annette_Nicoletti ;
+	lhs:wornYear "2023"^^xsd:integer ;
+	.
+
+lcwearev:s384_b779920864d9b1171420799924f53346b0aaf18f8030b9448bc2563fa75bf5dc3f08c0aac3237781805f5e956976e913
+	a lhs:WearEvent ;
+	lhs:taxonWorn lctax:Julietta_samanthae ;
+	lhs:wornBy lcperson:Samantha_Newbery ;
+	lhs:wornYear "2023"^^xsd:integer ;
+	.
+
+lcwearev:s384_b8d6a5a4a5222686b2f4524f1841751cfa39544b2153a243693ce647a96ffe3a924ec0a3874a2c1e0f570ec4267d90d4
+	a lhs:WearEvent ;
+	lhs:taxonWorn lctax:Julietta_ariae ;
+	lhs:wornBy lcperson:Aria_Wright-Shriver ;
+	lhs:wornYear "2023"^^xsd:integer ;
+	.
+
+lcwearev:s384_c07d82a7a6a9b2dcafec63650d7b4aaf0b4227d5c7b4401ab5acacf75c9e1795707ec804252d5db89ef2c473e4d615d8
+	a lhs:WearEvent ;
+	lhs:taxonWorn lctax:Julietta_alexisae ;
+	lhs:wornBy lcperson:Alexis_Wright ;
+	lhs:wornYear "2023"^^xsd:integer ;
+	.
+
+lcwearev:s384_c08c758454e68d13c6df7dd47686e78dd16fddf8ce9122ab6cb66a5360d2a77ebf28bd1ae4c4269c5109cdca1540c5dd
+	a lhs:WearEvent ;
+	lhs:taxonWorn lctax:Julietta_ariae ;
+	lhs:wornBy lcperson:Aria_Wright-Shriver ;
+	lhs:wornYear "2023"^^xsd:integer ;
+	.
+
+lcwearev:s384_c0af9a76b86cfc9a218cac5ad6fe1e98fc7cb6d8b090e42e6e22391790d28234c2dca8c58c52791328258ac5f50ca9bf
+	a lhs:WearEvent ;
+	lhs:taxonWorn lctax:Julietta_stephaniae ;
+	lhs:wornBy lcperson:Stephanie_Goh ;
+	lhs:wornYear "2023"^^xsd:integer ;
+	.
+
+lcwearev:s384_c8a76b486a73a5ea6be04ed528b088a3a26cda147b90949d3e8ad7b790c737ea79fb85907d174d82f76ca173d4e89cec
+	a lhs:WearEvent ;
+	lhs:taxonWorn lctax:Julietta_baumgartia ;
+	lhs:wornBy lcperson:Elizabeth_Baumgart ;
+	lhs:wornYear "2023"^^xsd:integer ;
+	.
+
+lcwearev:s384_cda2b95c48e43447ec9c0875233933e254f0ebf47e50c1db4c22e04684390bcda452da9c75c0759fb2f35ce75eb82777
+	a lhs:WearEvent ;
+	lhs:taxonWorn lctax:Julietta_plihalia ;
+	lhs:wornBy lcperson:Paige_Plihal ;
+	lhs:wornYear "2023"^^xsd:integer ;
+	.
+
+lcwearev:s384_d0a5aab046acfda43aea9ad674b1abb5da6204f9e77deb9937d3d52b8b5d9469fde538e4f1ba003eeee7e66385d200b1
+	a lhs:WearEvent ;
+	lhs:taxonWorn lctax:Julietta_venaluna ;
+	lhs:wornBy lcperson:Katie_Hunter-Moon ;
+	lhs:wornYear "2023"^^xsd:integer ;
+	.
+
+lcwearev:s384_d4198c602b3f7ec0eac0aa115457838c1f63e8bb3614f9fde714b1089830ad817fb7ba88f1c94ddd3bc6bb8bb86cd012
+	a lhs:WearEvent ;
+	lhs:taxonWorn lctax:Julietta_annettae ;
+	lhs:wornBy lcperson:Annette_Nicoletti ;
+	lhs:wornYear "2023"^^xsd:integer ;
+	.
+
+lcwearev:s384_d6c54ab6b8840a2056403399e0945b863bc44fe94fc1a927f9b7d938432534344c4a6cddf11081126b0b0bdc80e9a623
+	a lhs:WearEvent ;
+	lhs:taxonWorn lctax:Julietta_baumgartia ;
+	lhs:wornBy lcperson:Elizabeth_Baumgart ;
+	lhs:wornYear "2023"^^xsd:integer ;
+	.
+
+lcwearev:s384_d7f682bfe28ec59d62bac98624b4f6143b778436e39f2120cbf348c3291d46a6cf1adfeb3cc701a5e21ec64a8b8fda40
+	a lhs:WearEvent ;
+	lhs:taxonWorn lctax:Julietta_alexisae ;
+	lhs:wornBy lcperson:Alexis_Wright ;
+	lhs:wornYear "2023"^^xsd:integer ;
+	.
+
+lcwearev:s384_dfbef30377cd0d40a3d1785460f0c6a3f34a36b3335760457260526e4bc8f197d0a62f056fcf0bab52e8cca8e42f4bc1
+	a lhs:WearEvent ;
+	lhs:taxonWorn lctax:Julietta_thea ;
+	lhs:wornBy lcperson:Tea_Stamenkovic ;
+	lhs:wornYear "2023"^^xsd:integer ;
+	.
+
+lcwearev:s384_e65c2284b42b9deb2871616c8579b07fc417c1b320c61aa8cfa0ef1a591d3a40c5f29725583bf451a6ba4965f7fdd357
+	a lhs:WearEvent ;
+	lhs:taxonWorn lctax:Julietta_plettia ;
+	lhs:wornBy lcperson:Isabel_Plett ;
+	lhs:wornYear "2023"^^xsd:integer ;
+	.
+
+lcwearev:s384_e8e4de66bc296e599a6f3d20489a4788373e939580d8c4dfb0c2a9bfc24fbbc763b3b1ed7e5fec86d471b4d9d985e002
+	a lhs:WearEvent ;
+	lhs:taxonWorn lctax:Julietta_venaluna ;
+	lhs:wornBy lcperson:Katie_Hunter-Moon ;
+	lhs:wornYear "2023"^^xsd:integer ;
+	.
+
+lcwearev:s384_f067166533e6978d257002688e3d1bc01514dccf91b78e21c878aa50ec21298930da61351a4705de961b5a65c767f91a
+	a lhs:WearEvent ;
+	lhs:taxonWorn lctax:Julietta_oliwiae ;
+	lhs:wornBy lcperson:Oliwia_Jarosz ;
+	lhs:wornYear "2023"^^xsd:integer ;
+	.
+
+lcwearev:s384_f245233b03de01676d50b77f84f36287bcff46aeab034a7b6a70cd86b824f965d789cf15ad598935c31ddf8d99f358a4
+	a lhs:WearEvent ;
+	lhs:taxonWorn lctax:Julietta_julianae ;
+	lhs:wornBy lcperson:Juliana_Rucker ;
+	lhs:wornYear "2023"^^xsd:integer ;
+	.
+
+lcwearev:s384_faad8870494e30690f3619d542985eaecdefc1c4c808943a73d9f3652534871b7d2c46b4177fb2d9bd48708d6c231bd6
+	a lhs:WearEvent ;
+	lhs:taxonWorn lctax:Julietta_annettae ;
+	lhs:wornBy lcperson:Annette_Nicoletti ;
+	lhs:wornYear "2023"^^xsd:integer ;
+	.
+
+lcwearev:s384_ff6fb6b93141953bdc7ed8404cf0c4465f913859b025580d2f17629671059910e46743823f850ec1126b66b9cfcdd4f9
+	a lhs:WearEvent ;
+	lhs:taxonWorn lctax:Julietta_thea ;
+	lhs:wornBy lcperson:Tea_Stamenkovic ;
+	lhs:wornYear "2023"^^xsd:integer ;
+	.
+
+lhimg:s2_054b39ae72b15b6bd5c5b24afe48d67303b062aee149ce3da53e53a77326adbb
+	a lhs:Image ;
+	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Juliana_Rucker.jpg?v=1701387312> ;
+	lhs:imgFor lhtype:Juliana_2023.501.4937 ;
+	lhs:imgProvider "orig"^^xsd:string ;
+	.
+
+lhimg:s2_05f873cceef5ad88c3dae09885c0f72ba61e5faea8c91652f5a79ab22216d31d
+	a lhs:Image ;
+	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Juliana_Rucker4.jpg?v=1701387289> ;
+	lhs:imgFor lhtype:Juliana_2023.501.4880 ;
+	lhs:imgProvider "orig"^^xsd:string ;
+	.
+
+lhimg:s2_090912129480d60986570c6123f301227db354184e04494351c1f9ea40aaecf6
+	a lhs:Image ;
+	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Thatsewliz_juliette_7.jpg?v=1701443394> ;
+	lhs:imgFor lhtype:Baumgart_2023.10485.662 ;
+	lhs:imgProvider "orig"^^xsd:string ;
+	.
+
+lhimg:s2_0c80a0585652d1682940c35ce31f9b8093e772552245603ac12be3b6a76fb453
+	a lhs:Image ;
+	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/image00002.jpg?v=1701440213> ;
+	lhs:imgFor lhtype:Hunter-Moon_2023.115.401 ;
+	lhs:imgProvider "orig"^^xsd:string ;
+	.
+
+lhimg:s2_0cab0679cd6acfabcacf9e66742a55cd547965a3ea4a19ee8fc38801f90bf16e
+	a lhs:Image ;
+	lhs:href <https://web.archive.org/web/20260318171441/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Isabel_Plett7.jpg?v=1701389146> ;
+	lhs:imgFor lhtype:Plett_2023.15.4029 ;
+	lhs:imgProvider "ia"^^xsd:string ;
+	.
+
+lhimg:s2_138070ebf30b6bde9d9d99c4842a8e132de9eecedcb7c0051c609ab1c69ffd80
+	a lhs:Image ;
+	lhs:href <https://web.archive.org/web/20260318171524/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/image00002.jpg?v=1701440213> ;
+	lhs:imgFor lhtype:Hunter-Moon_2023.115.401 ;
+	lhs:imgProvider "ia"^^xsd:string ;
+	.
+
+lhimg:s2_157bf89872dcbcfdf5b4c1799e9590ecb72f940bbad62d4fa36da342d66c7b54
+	a lhs:Image ;
+	lhs:href <https://web.archive.org/web/20260318171531/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/annette_nicoletti_-_annette.sews_07.jpg?v=1701387048> ;
+	lhs:imgFor lhtype:Annette_2023.15.6834 ;
+	lhs:imgProvider "ia"^^xsd:string ;
+	.
+
+lhimg:s2_1839ce2906cfe185c900dc278d7eae8bcb61d7ddd4173d29443a527932ee55f4
+	a lhs:Image ;
+	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Alexis_Wright4.jpg?v=1701386867> ;
+	lhs:imgFor lhtype:Alexis_2023.178.86867 ;
+	lhs:imgProvider "orig"^^xsd:string ;
+	.
+
+lhimg:s2_18b9730d2992762379c44861095f84745734ab76029d321c5f18f37fe7cc0070
+	a lhs:Image ;
+	lhs:href <https://web.archive.org/web/20260318171457/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Stephanie_Goh5.jpg?v=1701441048> ;
+	lhs:imgFor lhtype:Goh_2023.589102.108 ;
+	lhs:imgProvider "ia"^^xsd:string ;
+	.
+
+lhimg:s2_19d2f27fec925265fba9ed978bab403640e65b93921a0d6b7af9de18fcb3ee78
+	a lhs:Image ;
+	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Samantha_Newbery2.jpg?v=1701440663> ;
+	lhs:imgFor lhtype:Newbery_2023.158.3048 ;
+	lhs:imgProvider "orig"^^xsd:string ;
+	.
+
+lhimg:s2_1b070ec9314103b111844a0936a82e45f794d9ba529486ab9efda7087356a0d8
+	a lhs:Image ;
+	lhs:href <https://web.archive.org/web/20260318171453/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Suna_Mantori2_8e307661-3e4d-4459-8853-8e5e64956c65.jpg?v=1701388688> ;
+	lhs:imgFor lhtype:Mantori_2023.531.2356 ;
+	lhs:imgProvider "ia"^^xsd:string ;
+	.
+
+lhimg:s2_208d45ccce0dffa42a4635c918bad040b05e4f1d1d131982463629266e971ce7
+	a lhs:Image ;
+	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Stephanie_Goh5.jpg?v=1701441048> ;
+	lhs:imgFor lhtype:Goh_2023.589102.108 ;
+	lhs:imgProvider "orig"^^xsd:string ;
+	.
+
+lhimg:s2_21636335bd8c4eb899a27d8612482780745889227031cb1783daa73b093918de
+	a lhs:Image ;
+	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/PXL_20231128_183131504.MP_3.jpg?v=1701443020> ;
+	lhs:imgFor lhtype:Aria_2023.190.464 ;
+	lhs:imgProvider "orig"^^xsd:string ;
+	.
+
+lhimg:s2_23db139a8ea4b320b133346d691b52ea0a3addde28acf41633dd2e2eceeb89e3
+	a lhs:Image ;
+	lhs:href <https://web.archive.org/web/20260318171526/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Oliwia_Jarosz.jpg?v=1701443201> ;
+	lhs:imgFor lhtype:Oliwia_2023.76.1415 ;
+	lhs:imgProvider "ia"^^xsd:string ;
+	.
+
+lhimg:s2_24025882016943f0187997825a57d6889f9fb2847348272887bd5aba9a71c2ba
+	a lhs:Image ;
+	lhs:href <https://web.archive.org/web/20260318171516/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Alexis_Wright4.jpg?v=1701386867> ;
+	lhs:imgFor lhtype:Alexis_2023.178.86867 ;
+	lhs:imgProvider "ia"^^xsd:string ;
+	.
+
+lhimg:s2_26d220746ebc42e28a134abe55a952b92750cdad750b3499e34424834780c2f3
+	a lhs:Image ;
+	lhs:href <https://web.archive.org/web/20260318171444/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/annette_nicoletti_-_annette.sews_04.jpg?v=1701387007> ;
+	lhs:imgFor lhtype:Annette_2023.15.6104 ;
+	lhs:imgProvider "ia"^^xsd:string ;
+	.
+
+lhimg:s2_272224dc148b62396ad4fddb9ee13cf9ce6ad8a89a2e359507e2857648b12ae4
+	a lhs:Image ;
+	lhs:href <https://web.archive.org/web/20260318171540/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Paige_Plihal.jpg?v=1701443097> ;
+	lhs:imgFor lhtype:Plihal_2023.5607.118 ;
+	lhs:imgProvider "ia"^^xsd:string ;
+	.
+
+lhimg:s2_2992bfa3080c2880f4a76eaf0369dec2a82aed19e3e262635bb10b0d6a7cf532
+	a lhs:Image ;
+	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/PXL_20231128_183113426.MP_1_2.jpg?v=1701442982> ;
+	lhs:imgFor lhtype:Aria_2023.190.390 ;
+	lhs:imgProvider "orig"^^xsd:string ;
+	.
+
+lhimg:s2_2ec5f8ecb4a487dc4e0a6177b29cc4e8cf1cb84dd98ac7d99626b3628cd5fe3f
+	a lhs:Image ;
+	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Manuela_Wilkes2.jpg?v=1701439738> ;
+	lhs:imgFor lhtype:Manuela_2023.150.6738 ;
+	lhs:imgProvider "orig"^^xsd:string ;
+	.
+
+lhimg:s2_2f474386cc0ac79e4286fb5c7cb97d0f4335a11db24cb07234c7317cb4a100e2
+	a lhs:Image ;
+	lhs:href <https://web.archive.org/web/20260318171525/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/image00010.jpg?v=1701440252> ;
+	lhs:imgFor lhtype:Hunter-Moon_2023.115.923 ;
+	lhs:imgProvider "ia"^^xsd:string ;
+	.
+
+lhimg:s2_30f736368cf0f2a725bae29ddf80529dfdf36cbd5c61d6316b079fff153d4e8f
+	a lhs:Image ;
+	lhs:href <https://web.archive.org/web/20260318171446/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Isabel_Plett6.jpg?v=1701389104> ;
+	lhs:imgFor lhtype:Plett_2023.15.9309 ;
+	lhs:imgProvider "ia"^^xsd:string ;
+	.
+
+lhimg:s2_31049a5c10b91d859912a6f75f310c248a2cc59fee1865f1a53d3e94dc90e683
+	a lhs:Image ;
+	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Tea_Stamenkovic8.jpg?v=1701443488> ;
+	lhs:imgFor lhtype:Tea_2023.150.818 ;
+	lhs:imgProvider "orig"^^xsd:string ;
+	.
+
+lhimg:s2_34bdccd200617b19979f131cdabd5023effda0d02cf09c962442a94e62f0f8e9
+	a lhs:Image ;
+	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Manuela_Wilkes5.jpg?v=1701439688> ;
+	lhs:imgFor lhtype:Manuela_2023.150.4290 ;
+	lhs:imgProvider "orig"^^xsd:string ;
+	.
+
+lhimg:s2_374ace3ad6d4a27441ddb9609981a5a6b7840285a1c9bb1705bee5141bb98e62
+	a lhs:Image ;
+	lhs:href <https://web.archive.org/web/20260318171434/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Alexis_Wright14.jpg?v=1701439088> ;
+	lhs:imgFor lhtype:Alexis_2023.178.39088 ;
+	lhs:imgProvider "ia"^^xsd:string ;
+	.
+
+lhimg:s2_4200d8671ac19c1a4e41aac9bb9f713caf2d1a5fb08ec3370e4231f1a753dfbc
+	a lhs:Image ;
+	lhs:href <https://web.archive.org/web/20260318171456/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Tea_Stamenkovic8.jpg?v=1701443488> ;
+	lhs:imgFor lhtype:Tea_2023.150.818 ;
+	lhs:imgProvider "ia"^^xsd:string ;
+	.
+
+lhimg:s2_44c6804d98bc219d658b501eed76c36853e3e6b83521bc84bc3e122fca88e98e
+	a lhs:Image ;
+	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Suna_Mantori4_c22c175f-b871-4743-be69-735db4c411e7.jpg?v=1701388530> ;
+	lhs:imgFor lhtype:Mantori_2023.531.1321 ;
+	lhs:imgProvider "orig"^^xsd:string ;
+	.
+
+lhimg:s2_47a37c6c2588a43dc18d6f598c28c629dc0c43991a4fd92c4a539937d74b675c
+	a lhs:Image ;
+	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Alexis_Wright5.jpg?v=1701386880> ;
+	lhs:imgFor lhtype:Alexis_2023.178.86880 ;
+	lhs:imgProvider "orig"^^xsd:string ;
+	.
+
+lhimg:s2_482c09c1e8d60efa1eaa029a35b47616c77f93dc66a41ffd1bfaac1cda4cb1d8
+	a lhs:Image ;
+	lhs:href <https://web.archive.org/web/20260318171528/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Oliwia_Jarosz3.jpg?v=1701443217> ;
+	lhs:imgFor lhtype:Oliwia_2023.76.1190 ;
+	lhs:imgProvider "ia"^^xsd:string ;
+	.
+
+lhimg:s2_4a1a63bbf10663c8fe8ad4a829de5dd2c3c97d00d0698aca68e4bce117347583
+	a lhs:Image ;
+	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Juliana_Rucker2.jpg?v=1701387305> ;
+	lhs:imgFor lhtype:Juliana_2023.501.4930 ;
+	lhs:imgProvider "orig"^^xsd:string ;
+	.
+
+lhimg:s2_4a2fd4c1845bdc8d383a9e80d63758ece694b5fa27505936ffa89eae6d0c3bc9
+	a lhs:Image ;
+	lhs:href <https://web.archive.org/web/20260318171513/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Samantha_Newbery2.jpg?v=1701440663> ;
+	lhs:imgFor lhtype:Newbery_2023.158.3048 ;
+	lhs:imgProvider "ia"^^xsd:string ;
+	.
+
+lhimg:s2_4a54a96530ab45b567f2bb2cb22408d67c1cc511a0b4c709feb060e355263aec
+	a lhs:Image ;
+	lhs:href <https://web.archive.org/web/20260318171451/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Juliana_Rucker4.jpg?v=1701387289> ;
+	lhs:imgFor lhtype:Juliana_2023.501.4880 ;
+	lhs:imgProvider "ia"^^xsd:string ;
+	.
+
+lhimg:s2_4b607565483a5e2516ae3c333908994b3cff0cdc614519ba93689e9ff5c80cd5
+	a lhs:Image ;
+	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Thatsewliz_juliette_2.jpg?v=1701443357> ;
+	lhs:imgFor lhtype:Baumgart_2023.10485.176 ;
+	lhs:imgProvider "orig"^^xsd:string ;
+	.
+
+lhimg:s2_4bc93e9f440ceaabd95eac0d17a7ff5c933f29fa7fa1f2a78e49fe76882b6952
+	a lhs:Image ;
+	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Manuela_Wilkes7.jpg?v=1701439758> ;
+	lhs:imgFor lhtype:Manuela_2023.150.5167 ;
+	lhs:imgProvider "orig"^^xsd:string ;
+	.
+
+lhimg:s2_5044f55329a2607c704c79b9ffe13f29dee8f56e44549fb68d4f6129f4f38e07
+	a lhs:Image ;
+	lhs:href <https://web.archive.org/web/20260318171538/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/image00006.jpg?v=1701440231> ;
+	lhs:imgFor lhtype:Hunter-Moon_2023.115.688 ;
+	lhs:imgProvider "ia"^^xsd:string ;
+	.
+
+lhimg:s2_5935d48df5d4810ed023509b2c83740f6735afb605aca2f6dde230cc8aaf0717
+	a lhs:Image ;
+	lhs:href <https://web.archive.org/web/20260318171442/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Suna_Mantori5_b7b61902-5692-45e4-9587-f9b50fbfdfbf.jpg?v=1701388668> ;
+	lhs:imgFor lhtype:Mantori_2023.531.1495 ;
+	lhs:imgProvider "ia"^^xsd:string ;
+	.
+
+lhimg:s2_626cf79a62ca6770e6f6c0563e4661a36cde6389df052862521654a7be1b0f83
+	a lhs:Image ;
+	lhs:href <https://web.archive.org/web/20260318171515/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Stephanie_Goh2.jpg?v=1701441013> ;
+	lhs:imgFor lhtype:Goh_2023.589102.887 ;
+	lhs:imgProvider "ia"^^xsd:string ;
+	.
+
+lhimg:s2_6a9d324e2b36b225ab37211d2e36821f2ad2d6fc5447f0cf366ccf5c4def26e3
+	a lhs:Image ;
+	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Stephanie_Goh3.jpg?v=1701441031> ;
+	lhs:imgFor lhtype:Goh_2023.589102.530 ;
+	lhs:imgProvider "orig"^^xsd:string ;
+	.
+
+lhimg:s2_6d42ebf45307b2f07d45bcdde65985fd49782bb158d3a64308c72a1d74a8d834
+	a lhs:Image ;
+	lhs:href <https://web.archive.org/web/20260318171448/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Stephanie_Goh3.jpg?v=1701441031> ;
+	lhs:imgFor lhtype:Goh_2023.589102.530 ;
+	lhs:imgProvider "ia"^^xsd:string ;
+	.
+
+lhimg:s2_6e6e39d2231efff6d4b1a08788620638ca9f4c4000c4e694d7b87d991c9c7b25
+	a lhs:Image ;
+	lhs:href <https://web.archive.org/web/20260318171509/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Juliana_Rucker3.jpg?v=1701387296> ;
+	lhs:imgFor lhtype:Juliana_2023.501.4871 ;
+	lhs:imgProvider "ia"^^xsd:string ;
+	.
+
+lhimg:s2_6f6adb2f53a6dfde29e7b370365d35dfafa1dd6ec4910ca4e04cd8deb77b8c99
+	a lhs:Image ;
+	lhs:href <https://web.archive.org/web/20260318171437/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Thatsewliz_juliette_7.jpg?v=1701443394> ;
+	lhs:imgFor lhtype:Baumgart_2023.10485.662 ;
+	lhs:imgProvider "ia"^^xsd:string ;
+	.
+
+lhimg:s2_70e920b483260eb4721bedd40e4676c10096eb3c9b5e7b8c0ad2cc5b3bb0af70
+	a lhs:Image ;
+	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/image00010.jpg?v=1701440252> ;
+	lhs:imgFor lhtype:Hunter-Moon_2023.115.923 ;
+	lhs:imgProvider "orig"^^xsd:string ;
+	.
+
+lhimg:s2_7176ce53330c2e67b31e040475e86b05c5093855a31ae7cf06ab8dccf67d688c
+	a lhs:Image ;
+	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Alexis_Wright14.jpg?v=1701439088> ;
+	lhs:imgFor lhtype:Alexis_2023.178.39088 ;
+	lhs:imgProvider "orig"^^xsd:string ;
+	.
+
+lhimg:s2_751171302ab9958f55775e9ff5b5fe6b70d745f9058cf58ddd1922512f02a7bb
+	a lhs:Image ;
+	lhs:href <https://web.archive.org/web/20260318171437/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Samantha_Newbery3.jpg?v=1701440688> ;
+	lhs:imgFor lhtype:Newbery_2023.158.3663 ;
+	lhs:imgProvider "ia"^^xsd:string ;
+	.
+
+lhimg:s2_760d6caf7baf4f77beb54cbe4e31356d10105eeb75e05bf392b6ba9113af340c
+	a lhs:Image ;
+	lhs:href <https://web.archive.org/web/20260318171454/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Manuela_Wilkes5.jpg?v=1701439688> ;
+	lhs:imgFor lhtype:Manuela_2023.150.4290 ;
+	lhs:imgProvider "ia"^^xsd:string ;
+	.
+
+lhimg:s2_766487cb7274222675e3e75241d3529b098ff62fcf5fbcb0c0eb1a6d64d65802
+	a lhs:Image ;
+	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/annette_nicoletti_-_annette.sews_07.jpg?v=1701387048> ;
+	lhs:imgFor lhtype:Annette_2023.15.6834 ;
+	lhs:imgProvider "orig"^^xsd:string ;
+	.
+
+lhimg:s2_792e9a67575b35537078d74e08342e5f40fd25c3e5091c2cd0f7e493986fb126
+	a lhs:Image ;
+	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Isabel_Plett5.jpg?v=1701389126> ;
+	lhs:imgFor lhtype:Plett_2023.15.9781 ;
+	lhs:imgProvider "orig"^^xsd:string ;
+	.
+
+lhimg:s2_7bde677f4143b8902a3d6993164005303cce0613e65e6c5666a22efd744e46e3
+	a lhs:Image ;
+	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Stephanie_Goh8.jpg?v=1701441183> ;
+	lhs:imgFor lhtype:Goh_2023.589102.433 ;
+	lhs:imgProvider "orig"^^xsd:string ;
+	.
+
+lhimg:s2_7cc948504faf749bf2b7e7e0482817e858258d2c851000ba79339fd53e0b2429
+	a lhs:Image ;
+	lhs:href <https://web.archive.org/web/20260318171532/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Juliana_Rucker.jpg?v=1701387312> ;
+	lhs:imgFor lhtype:Juliana_2023.501.4937 ;
+	lhs:imgProvider "ia"^^xsd:string ;
+	.
+
+lhimg:s2_7e6ec25bce8285127ef2b2e92153db503d7b84d6e02471b313f2dd76f56e3034
+	a lhs:Image ;
+	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/annette_nicoletti_-_annette.sews_06.jpg?v=1701387040> ;
+	lhs:imgFor lhtype:Annette_2023.15.6709 ;
+	lhs:imgProvider "orig"^^xsd:string ;
+	.
+
+lhimg:s2_7fffb756aa24a6d8863cfc6616d00aa90f0728f423b844fe1ca0bf48aa253f07
+	a lhs:Image ;
+	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Suna_Mantori2_8e307661-3e4d-4459-8853-8e5e64956c65.jpg?v=1701388688> ;
+	lhs:imgFor lhtype:Mantori_2023.531.2356 ;
+	lhs:imgProvider "orig"^^xsd:string ;
+	.
+
+lhimg:s2_84647facc20bed495397648d2dd9fd45565cd62a48cd409a1998b314a0d2fe96
+	a lhs:Image ;
+	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Tea_Stamenkovic7.jpg?v=1701443473> ;
+	lhs:imgFor lhtype:Tea_2023.150.609 ;
+	lhs:imgProvider "orig"^^xsd:string ;
+	.
+
+lhimg:s2_9d0881e4219ba22521c53a01debe0d228b82699e20425ad1637115b44896cb80
+	a lhs:Image ;
+	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Oliwia_Jarosz.jpg?v=1701443201> ;
+	lhs:imgFor lhtype:Oliwia_2023.76.1415 ;
+	lhs:imgProvider "orig"^^xsd:string ;
+	.
+
+lhimg:s2_9d8ceb41abd22f1498e54d9e29c7680eeee4671b59b7fec1af9f9e96afe96cae
+	a lhs:Image ;
+	lhs:href <https://web.archive.org/web/20260318171521/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Alexis_Wright5.jpg?v=1701386880> ;
+	lhs:imgFor lhtype:Alexis_2023.178.86880 ;
+	lhs:imgProvider "ia"^^xsd:string ;
+	.
+
+lhimg:s2_9d9e7f6fb59bee03b24cca4f5d80c77eec674012c0d79fb305f1a9a5c5cf33a7
+	a lhs:Image ;
+	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/annette_nicoletti_-_annette.sews_04.jpg?v=1701387007> ;
+	lhs:imgFor lhtype:Annette_2023.15.6104 ;
+	lhs:imgProvider "orig"^^xsd:string ;
+	.
+
+lhimg:s2_9f333197582d6f878b56585dd77da1eaf83c5684338491a40d7a591b7410e393
+	a lhs:Image ;
+	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Isabel_Plett7.jpg?v=1701389146> ;
+	lhs:imgFor lhtype:Plett_2023.15.4029 ;
+	lhs:imgProvider "orig"^^xsd:string ;
+	.
+
+lhimg:s2_a1003ce0ff415e9a8657eecc7bd46f04046c6955485bcc5f5494bd89e4611fcd
+	a lhs:Image ;
+	lhs:href <https://web.archive.org/web/20260318171439/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Tea_Stamenkovic6.jpg?v=1701443458> ;
+	lhs:imgFor lhtype:Tea_2023.150.141 ;
+	lhs:imgProvider "ia"^^xsd:string ;
+	.
+
+lhimg:s2_a599bc56da046d2f52db26382e4c9f06caa69dfa619c498e82e4d9145f8a9c29
+	a lhs:Image ;
+	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Juliana_Rucker3.jpg?v=1701387296> ;
+	lhs:imgFor lhtype:Juliana_2023.501.4871 ;
+	lhs:imgProvider "orig"^^xsd:string ;
+	.
+
+lhimg:s2_a7ac90650a88f1ccac55ca987e1ebc40ae1fc55aefa03362aa22df434b7878d7
+	a lhs:Image ;
+	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Stephanie_Goh2.jpg?v=1701441013> ;
+	lhs:imgFor lhtype:Goh_2023.589102.887 ;
+	lhs:imgProvider "orig"^^xsd:string ;
+	.
+
+lhimg:s2_a8a75b826f04cc940cdf642b474bc06786b105864fedc719a3f591355aaba0fa
+	a lhs:Image ;
+	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Oliwia_Jarosz3.jpg?v=1701443217> ;
+	lhs:imgFor lhtype:Oliwia_2023.76.1190 ;
+	lhs:imgProvider "orig"^^xsd:string ;
+	.
+
+lhimg:s2_ae6331ca0d6a33fbc192d597fbdb83524767ac7046634eb321fa24ab17e3957f
+	a lhs:Image ;
+	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Samantha_Newbery3.jpg?v=1701440688> ;
+	lhs:imgFor lhtype:Newbery_2023.158.3663 ;
+	lhs:imgProvider "orig"^^xsd:string ;
+	.
+
+lhimg:s2_b095ea9144d238629fe94c41284d72d87d95744344fa07368703fa010e3be161
+	a lhs:Image ;
+	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Oliwia_Jarosz4.jpg?v=1701443238> ;
+	lhs:imgFor lhtype:Oliwia_2023.76.1150 ;
+	lhs:imgProvider "orig"^^xsd:string ;
+	.
+
+lhimg:s2_b3e1862f675e9e60d256937f4c9acb4deb6f5fe1cab1158f27361e52fefb4ddc
+	a lhs:Image ;
+	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Suna_Mantori5_b7b61902-5692-45e4-9587-f9b50fbfdfbf.jpg?v=1701388668> ;
+	lhs:imgFor lhtype:Mantori_2023.531.1495 ;
+	lhs:imgProvider "orig"^^xsd:string ;
+	.
+
+lhimg:s2_b5279a7c43cbf5b5db1fec542c62375e33b1b226807512b92840ea87411e25b6
+	a lhs:Image ;
+	lhs:href <https://web.archive.org/web/20260318171534/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Isabel_Plett5.jpg?v=1701389126> ;
+	lhs:imgFor lhtype:Plett_2023.15.9781 ;
+	lhs:imgProvider "ia"^^xsd:string ;
+	.
+
+lhimg:s2_b71774198a3a428c1fc730084a351f33d0a218aa099db997ea32caa20c24e89f
+	a lhs:Image ;
+	lhs:href <https://web.archive.org/web/20260318171518/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/PXL_20231128_183137499.MP_2.jpg?v=1701443004> ;
+	lhs:imgFor lhtype:Aria_2023.190.371 ;
+	lhs:imgProvider "ia"^^xsd:string ;
+	.
+
+lhimg:s2_b978f5dbfc79674413a97229e5bea71a3954e25ca6bc0e15498687a1df749d61
+	a lhs:Image ;
+	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Paige_Plihal3.jpg?v=1701443123> ;
+	lhs:imgFor lhtype:Plihal_2023.5607.196 ;
+	lhs:imgProvider "orig"^^xsd:string ;
+	.
+
+lhimg:s2_c2a0d1ac0726a31d752c1754c7af840567fd46077627fa91dd92f30468b9fd57
+	a lhs:Image ;
+	lhs:href <https://web.archive.org/web/20260318171447/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Manuela_Wilkes2.jpg?v=1701439738> ;
+	lhs:imgFor lhtype:Manuela_2023.150.6738 ;
+	lhs:imgProvider "ia"^^xsd:string ;
+	.
+
+lhimg:s2_c3a730bc3ba01fe000adba0d68b7e0dfbb708949876cb768bfe3d39a278bac19
+	a lhs:Image ;
+	lhs:href <https://web.archive.org/web/20260318171450/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/PXL_20231128_183113426.MP_1_2.jpg?v=1701442982> ;
+	lhs:imgFor lhtype:Aria_2023.190.390 ;
+	lhs:imgProvider "ia"^^xsd:string ;
+	.
+
+lhimg:s2_c76570933b2272c2ec27ad296cf22d2d32b53270b710ee5ff844276bd963db60
+	a lhs:Image ;
+	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Tea_Stamenkovic6.jpg?v=1701443458> ;
+	lhs:imgFor lhtype:Tea_2023.150.141 ;
+	lhs:imgProvider "orig"^^xsd:string ;
+	.
+
+lhimg:s2_c77b42819a1861abc838c07e9bd159338650d64aec3c3835189e95e1a32c4ad4
+	a lhs:Image ;
+	lhs:href <https://web.archive.org/web/20260318171537/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Thatsewliz_juliette_3.jpg?v=1701443374> ;
+	lhs:imgFor lhtype:Baumgart_2023.10485.338 ;
+	lhs:imgProvider "ia"^^xsd:string ;
+	.
+
+lhimg:s2_c94a284aab5a43c1d86855f804233e8b2b78f42aaff19db3518d79a9cf62324f
+	a lhs:Image ;
+	lhs:href <https://web.archive.org/web/20260318171529/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/annette_nicoletti_-_annette.sews_06.jpg?v=1701387040> ;
+	lhs:imgFor lhtype:Annette_2023.15.6709 ;
+	lhs:imgProvider "ia"^^xsd:string ;
+	.
+
+lhimg:s2_cdae13c99d439d22a0e0268b616a0d3f1202da3390c79a7a1a1e0ff980259e88
+	a lhs:Image ;
+	lhs:href <https://web.archive.org/web/20260318171455/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Tea_Stamenkovic7.jpg?v=1701443473> ;
+	lhs:imgFor lhtype:Tea_2023.150.609 ;
+	lhs:imgProvider "ia"^^xsd:string ;
+	.
+
+lhimg:s2_d058913c1185c8471fe39cebe2596332b4c33e2e66c31de0a1e91c11e53ec974
+	a lhs:Image ;
+	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Paige_Plihal.jpg?v=1701443097> ;
+	lhs:imgFor lhtype:Plihal_2023.5607.118 ;
+	lhs:imgProvider "orig"^^xsd:string ;
+	.
+
+lhimg:s2_d56b1d4230332df848e3d1689478b2494fd4cbfe666334fd581adbd6189c7fca
+	a lhs:Image ;
+	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/PXL_20231128_183137499.MP_2.jpg?v=1701443004> ;
+	lhs:imgFor lhtype:Aria_2023.190.371 ;
+	lhs:imgProvider "orig"^^xsd:string ;
+	.
+
+lhimg:s2_d74d8b5f1204983dbc06376c691cabd6f78d12f9779e2905523d517649b1d3fd
+	a lhs:Image ;
+	lhs:href <https://web.archive.org/web/20260318171435/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Thatsewliz_juliette_2.jpg?v=1701443357> ;
+	lhs:imgFor lhtype:Baumgart_2023.10485.176 ;
+	lhs:imgProvider "ia"^^xsd:string ;
+	.
+
+lhimg:s2_da1461547aaffeebf17ae8a12fcf701eacc4e2e86dbaf54e1d3400e25a95fa30
+	a lhs:Image ;
+	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Isabel_Plett6.jpg?v=1701389104> ;
+	lhs:imgFor lhtype:Plett_2023.15.9309 ;
+	lhs:imgProvider "orig"^^xsd:string ;
+	.
+
+lhimg:s2_dc79bd9ad9b96f3e4fa3c051b0cbd286faa3d781df77d949142f060e30ef52c5
+	a lhs:Image ;
+	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/image00006.jpg?v=1701440231> ;
+	lhs:imgFor lhtype:Hunter-Moon_2023.115.688 ;
+	lhs:imgProvider "orig"^^xsd:string ;
+	.
+
+lhimg:s2_dc8198d0255c04942798dff7c832863b103e53b9c6231117c532139bfcbfeebf
+	a lhs:Image ;
+	lhs:href <https://web.archive.org/web/20260318171459/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Paige_Plihal3.jpg?v=1701443123> ;
+	lhs:imgFor lhtype:Plihal_2023.5607.196 ;
+	lhs:imgProvider "ia"^^xsd:string ;
+	.
+
+lhimg:s2_dddf5fc5591b3508b0edc2bc7fc433f271fd3bc85e0166239455535c745d64c6
+	a lhs:Image ;
+	lhs:href <https://web.archive.org/web/20260318171512/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Suna_Mantori4_c22c175f-b871-4743-be69-735db4c411e7.jpg?v=1701388530> ;
+	lhs:imgFor lhtype:Mantori_2023.531.1321 ;
+	lhs:imgProvider "ia"^^xsd:string ;
+	.
+
+lhimg:s2_e1ee2529394d082177b960efb4d9717c335a2da83b352635af948f783944b4e5
+	a lhs:Image ;
+	lhs:href <https://web.archive.org/web/20260318171502/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/PXL_20231128_183131504.MP_3.jpg?v=1701443020> ;
+	lhs:imgFor lhtype:Aria_2023.190.464 ;
+	lhs:imgProvider "ia"^^xsd:string ;
+	.
+
+lhimg:s2_e27ec47646b920dc9bd20f475d7d396cc38d748a2b625b721e6b060ec5a8eb42
+	a lhs:Image ;
+	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Thatsewliz_juliette_3.jpg?v=1701443374> ;
+	lhs:imgFor lhtype:Baumgart_2023.10485.338 ;
+	lhs:imgProvider "orig"^^xsd:string ;
+	.
+
+lhimg:s2_f87945455477bcb5011dfbea9246a2ffbda8e3f13b32108b6a9bb78268a5e637
+	a lhs:Image ;
+	lhs:href <https://web.archive.org/web/20260318171504/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Oliwia_Jarosz4.jpg?v=1701443238> ;
+	lhs:imgFor lhtype:Oliwia_2023.76.1150 ;
+	lhs:imgProvider "ia"^^xsd:string ;
+	.
+
+lhimg:s2_fac1dc564adcfc4746019a837ff8b69326a6d2507b0b6a4550a879721a86dc12
+	a lhs:Image ;
+	lhs:href <https://web.archive.org/web/20260318171522/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Juliana_Rucker2.jpg?v=1701387305> ;
+	lhs:imgFor lhtype:Juliana_2023.501.4930 ;
+	lhs:imgProvider "ia"^^xsd:string ;
+	.
+
+lhimg:s2_fb743ef22ed515d628e727d349ece33377534f080a4beeebf19bfc88fb8fdc5c
+	a lhs:Image ;
+	lhs:href <https://web.archive.org/web/20260318171519/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Manuela_Wilkes7.jpg?v=1701439758> ;
+	lhs:imgFor lhtype:Manuela_2023.150.5167 ;
+	lhs:imgProvider "ia"^^xsd:string ;
+	.
+
+lhimg:s2_fe9ad282197acdc885d8805a8700feb0980333cc3249109a86a568110a7f3a5f
+	a lhs:Image ;
+	lhs:href <https://web.archive.org/web/20260318171500/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Stephanie_Goh8.jpg?v=1701441183> ;
+	lhs:imgFor lhtype:Goh_2023.589102.433 ;
+	lhs:imgProvider "ia"^^xsd:string ;
+	.
+
+lcperson:Alexis_Wright
+	a
+		lhs:Person ,
+		foaf:Person
+		;
+	lhs:personAbbreviation "Alexis.Wr."^^xsd:string ;
+	foaf:name "Alexis Wright"^^xsd:string ;
+	.
+
+lcperson:Annette_Nicoletti
+	a
+		lhs:Person ,
+		foaf:Person
+		;
+	lhs:personAbbreviation "Annette.N."^^xsd:string ;
+	foaf:name "Annette Nicoletti"^^xsd:string ;
+	.
+
+lcperson:Aria_Wright-Shriver
+	a
+		lhs:Person ,
+		foaf:Person
+		;
+	lhs:personAbbreviation "Aria.W.S."^^xsd:string ;
+	foaf:name "Aria Wright-Shriver"^^xsd:string ;
+	.
+
+lcperson:Elizabeth_Baumgart
+	a
+		lhs:Person ,
+		foaf:Person
+		;
+	lhs:personAbbreviation "Eliz.B."^^xsd:string ;
+	foaf:name "Elizabeth Baumgart"^^xsd:string ;
+	.
+
+lcperson:Isabel_Plett
+	a
+		lhs:Person ,
+		foaf:Person
+		;
+	lhs:personAbbreviation "Isabel.P."^^xsd:string ;
+	foaf:name "Isabel Plett"^^xsd:string ;
+	.
+
+lcperson:Juliana_Rucker
+	a
+		lhs:Person ,
+		foaf:Person
+		;
+	lhs:personAbbreviation "Juliana.R."^^xsd:string ;
+	foaf:name "Juliana Rucker"^^xsd:string ;
+	.
+
+lcperson:Katie_Hunter-Moon
+	a
+		lhs:Person ,
+		foaf:Person
+		;
+	lhs:personAbbreviation "Hunter-Moon"^^xsd:string ;
+	foaf:name "Katie Hunter-Moon"^^xsd:string ;
+	.
+
+lcperson:Manuela_Wilkes
+	a
+		lhs:Person ,
+		foaf:Person
+		;
+	lhs:personAbbreviation "Manuela.W."^^xsd:string ;
+	foaf:name "Manuela Wilkes"^^xsd:string ;
+	.
+
+lcperson:Oliwia_Jarosz
+	a
+		lhs:Person ,
+		foaf:Person
+		;
+	lhs:personAbbreviation "Oliwia.J."^^xsd:string ;
+	foaf:name "Oliwia Jarosz"^^xsd:string ;
+	.
+
+lcperson:Paige_Plihal
+	a
+		lhs:Person ,
+		foaf:Person
+		;
+	lhs:personAbbreviation "Paige.P."^^xsd:string ;
+	foaf:name "Paige Plihal"^^xsd:string ;
+	.
+
+lcperson:Samantha_Newbery
+	a
+		lhs:Person ,
+		foaf:Person
+		;
+	lhs:personAbbreviation "Sam.Ne."^^xsd:string ;
+	foaf:name "Samantha Newbery"^^xsd:string ;
+	.
+
+lcperson:Stephanie_Goh
+	a
+		lhs:Person ,
+		foaf:Person
+		;
+	lhs:personAbbreviation "Stephanie.G."^^xsd:string ;
+	foaf:name "Stephanie Goh"^^xsd:string ;
+	.
+
+lcperson:Suna_Mantori
+	a
+		lhs:Person ,
+		foaf:Person
+		;
+	lhs:personAbbreviation "Suna.M."^^xsd:string ;
+	foaf:name "Suna Mantori"^^xsd:string ;
+	.
+
+lcperson:Tea_Stamenkovic
+	a
+		lhs:Person ,
+		foaf:Person
+		;
+	lhs:personAbbreviation "Tea.S."^^xsd:string ;
+	foaf:name "Tea Stamenkovic"^^xsd:string ;
+	.
+
+lctax:Julietta
+	a lhs:Taxon ;
+	rdfs:label "Julietta"^^xsd:string ;
 	lhs:descriptionEvent lcdescev:s384_b30c48d91b85fab196ad5ed9527f7fe5e1ba7cf345ca25eb008a4c961c47a33b014d3d23aa1412fa3c8c955c0adb9f70 ;
 	lhs:rank lcrank:Genus ;
-	rdfs:label "Julietta" ;
-	rdf:type lhs:Taxon .
-lctax:Julietta_alexisae 
+	.
+
+lctax:Julietta_alexisae
+	a lhs:Taxon ;
+	rdfs:label "Julietta alexisae"^^xsd:string ;
 	lhs:descriptionEvent lcdescev:s384_4dcc1659184c1b51c4249468b5d1ff36038e4924c504f2188b575ba98736a78e54f6c1f4618c037d78a53a3943ec20d4 ;
-	lhs:hasType lhtype:Alexis_2023.178.39088, lhtype:Alexis_2023.178.86880 ;
+	lhs:hasType
+		lhtype:Alexis_2023.178.39088 ,
+		lhtype:Alexis_2023.178.86880
+		;
 	lhs:holotype lhtype:Alexis_2023.178.86867 ;
 	lhs:parent lctax:Julietta ;
 	lhs:rank lcrank:Species ;
-	rdfs:label "Julietta alexisae" ;
-	rdf:type lhs:Taxon .
-lctax:Julietta_annettae 
+	.
+
+lctax:Julietta_annettae
+	a lhs:Taxon ;
+	rdfs:label "Julietta annettae"^^xsd:string ;
 	lhs:descriptionEvent lcdescev:s384_cecabed6aae4e92099ea08fe2f1ac233cf987a1bd9a2584f61e8e8bc6f0b96497bac1df99ed18808d2e61412bfa17e6e ;
-	lhs:hasType lhtype:Annette_2023.15.6709, lhtype:Annette_2023.15.6834 ;
+	lhs:hasType
+		lhtype:Annette_2023.15.6709 ,
+		lhtype:Annette_2023.15.6834
+		;
 	lhs:holotype lhtype:Annette_2023.15.6104 ;
 	lhs:parent lctax:Julietta ;
 	lhs:rank lcrank:Species ;
-	rdfs:label "Julietta annettae" ;
-	rdf:type lhs:Taxon .
-lctax:Julietta_ariae 
+	.
+
+lctax:Julietta_ariae
+	a lhs:Taxon ;
+	rdfs:label "Julietta ariae"^^xsd:string ;
 	lhs:descriptionEvent lcdescev:s384_bb623380c3617b79943db67e6b426d4514a5340338ba39277586a9c757e440ec2d561902dbe863fdb04ae1aae12fd3a6 ;
-	lhs:hasType lhtype:Aria_2023.190.390, lhtype:Aria_2023.190.464 ;
+	lhs:hasType
+		lhtype:Aria_2023.190.390 ,
+		lhtype:Aria_2023.190.464
+		;
 	lhs:holotype lhtype:Aria_2023.190.371 ;
 	lhs:parent lctax:Julietta ;
 	lhs:rank lcrank:Species ;
-	rdfs:label "Julietta ariae" ;
-	rdf:type lhs:Taxon .
-lctax:Julietta_baumgartia 
+	.
+
+lctax:Julietta_baumgartia
+	a lhs:Taxon ;
+	rdfs:label "Julietta baumgartia"^^xsd:string ;
 	lhs:descriptionEvent lcdescev:s384_eb62532042dd325ef02e10fba9ec95873a2d72ee722149bdc1b9c59cc46bedf69b16be4f6fe22ac6cb06e8fe3ca5fe7e ;
-	lhs:hasType lhtype:Baumgart_2023.10485.338, lhtype:Baumgart_2023.10485.662 ;
+	lhs:hasType
+		lhtype:Baumgart_2023.10485.338 ,
+		lhtype:Baumgart_2023.10485.662
+		;
 	lhs:holotype lhtype:Baumgart_2023.10485.176 ;
 	lhs:parent lctax:Julietta ;
 	lhs:rank lcrank:Species ;
-	rdfs:label "Julietta baumgartia" ;
-	rdf:type lhs:Taxon .
-lctax:Julietta_julianae 
+	.
+
+lctax:Julietta_julianae
+	a lhs:Taxon ;
+	rdfs:label "Julietta julianae"^^xsd:string ;
 	lhs:descriptionEvent lcdescev:s384_d6db97ebe96f5e6f1ce95bd06377f0d01045792458986fa9b31245defdacb045244d847b714dad9c360d8e6af8400f27 ;
-	lhs:hasType lhtype:Juliana_2023.501.4880, lhtype:Juliana_2023.501.4930, lhtype:Juliana_2023.501.4937 ;
+	lhs:hasType
+		lhtype:Juliana_2023.501.4880 ,
+		lhtype:Juliana_2023.501.4930 ,
+		lhtype:Juliana_2023.501.4937
+		;
 	lhs:holotype lhtype:Juliana_2023.501.4871 ;
 	lhs:parent lctax:Julietta ;
 	lhs:rank lcrank:Species ;
-	rdfs:label "Julietta julianae" ;
-	rdf:type lhs:Taxon .
-lctax:Julietta_mantorae 
+	.
+
+lctax:Julietta_mantorae
+	a lhs:Taxon ;
+	rdfs:label "Julietta mantorae"^^xsd:string ;
 	lhs:descriptionEvent lcdescev:s384_0293153ebc1bd6a3f0ce47f92e06fe53ebc96435aac5eba250b4c6d3b2a51a01a90fd4f2d04068af979993541ff4d85f ;
+	lhs:hasType
+		lhtype:Suna_2023.49.1561 ,
+		lhtype:Suna_2023.49.5023
+		;
+	lhs:holotype lhtype:Suna_2023.49.1209 ;
 	lhs:parent lctax:Julietta ;
 	lhs:rank lcrank:Species ;
-	rdfs:label "Julietta mantorae" ;
-	lhs:hasType lhtype:Suna_2023.49.1561, lhtype:Suna_2023.49.5023 ;
-	lhs:holotype lhtype:Suna_2023.49.1209 ;
 	lhs:synonymOf lctax:Julietta_sunae ;
-	rdf:type lhs:Taxon .
-lctax:Julietta_manuelae 
+	.
+
+lctax:Julietta_manuelae
+	a lhs:Taxon ;
+	rdfs:label "Julietta manuelae"^^xsd:string ;
 	lhs:descriptionEvent lcdescev:s384_24e0687f9f3a88113287e56747524c2c9c402217b2385984194529acf1afc3892700e271c2dab24e5e93c08f58faa7ab ;
-	lhs:hasType lhtype:Manuela_2023.150.5167, lhtype:Manuela_2023.150.6738 ;
+	lhs:hasType
+		lhtype:Manuela_2023.150.5167 ,
+		lhtype:Manuela_2023.150.6738
+		;
 	lhs:holotype lhtype:Manuela_2023.150.4290 ;
 	lhs:parent lctax:Julietta ;
 	lhs:rank lcrank:Species ;
-	rdfs:label "Julietta manuelae" ;
-	rdf:type lhs:Taxon .
-lctax:Julietta_oliwiae 
+	.
+
+lctax:Julietta_oliwiae
+	a lhs:Taxon ;
+	rdfs:label "Julietta oliwiae"^^xsd:string ;
 	lhs:descriptionEvent lcdescev:s384_fd733bb744fa14a0f36b9da924c74306a8a0eac5d1051ed7d67b5406f6ff71077e3f3c170bafe53bc0837176d13348f4 ;
-	lhs:hasType lhtype:Oliwia_2023.76.1190, lhtype:Oliwia_2023.76.1415 ;
+	lhs:hasType
+		lhtype:Oliwia_2023.76.1190 ,
+		lhtype:Oliwia_2023.76.1415
+		;
 	lhs:holotype lhtype:Oliwia_2023.76.1150 ;
 	lhs:parent lctax:Julietta ;
 	lhs:rank lcrank:Species ;
-	rdfs:label "Julietta oliwiae" ;
-	rdf:type lhs:Taxon .
-lctax:Julietta_plettia 
+	.
+
+lctax:Julietta_plettia
+	a lhs:Taxon ;
+	rdfs:label "Julietta plettia"^^xsd:string ;
 	lhs:descriptionEvent lcdescev:s384_c678f7d4a93c3934724767ac3ba068ae5642e062333c4d74c13fce35c8871c5f4f13b0255f56f4cadb732f1f80115989 ;
-	lhs:hasType lhtype:Plett_2023.15.4029, lhtype:Plett_2023.15.9781 ;
+	lhs:hasType
+		lhtype:Plett_2023.15.4029 ,
+		lhtype:Plett_2023.15.9781
+		;
 	lhs:holotype lhtype:Plett_2023.15.9309 ;
 	lhs:parent lctax:Julietta ;
 	lhs:rank lcrank:Species ;
-	rdfs:label "Julietta plettia" ;
-	rdf:type lhs:Taxon .
-lctax:Julietta_plihalia 
+	.
+
+lctax:Julietta_plihalia
+	a lhs:Taxon ;
+	rdfs:label "Julietta plihalia"^^xsd:string ;
 	lhs:descriptionEvent lcdescev:s384_6d70485ebafdab105b7eac6f1fc905d2865e3133d8b640e6e5c25a792f1c80a8d0ec9f0cc5ddd1c692c8a023a93e3a97 ;
 	lhs:hasType lhtype:Plihal_2023.5607.196 ;
 	lhs:holotype lhtype:Plihal_2023.5607.118 ;
 	lhs:parent lctax:Julietta ;
 	lhs:rank lcrank:Species ;
-	rdfs:label "Julietta plihalia" ;
-	rdf:type lhs:Taxon .
-lctax:Julietta_samanthae 
+	.
+
+lctax:Julietta_samanthae
+	a lhs:Taxon ;
+	rdfs:label "Julietta samanthae"^^xsd:string ;
 	lhs:descriptionEvent lcdescev:s384_86da30bbab9d72c6b62641b9d1d6c01f0cba8a2fda0325c8d0d891eb2c1354cdb35166b1250004e0ad9c35ea1c6a5659 ;
 	lhs:hasType lhtype:Newbery_2023.158.3663 ;
 	lhs:holotype lhtype:Newbery_2023.158.3048 ;
 	lhs:parent lctax:Julietta ;
 	lhs:rank lcrank:Species ;
-	rdfs:label "Julietta samanthae" ;
-	rdf:type lhs:Taxon .
-lctax:Julietta_stephaniae 
+	.
+
+lctax:Julietta_stephaniae
+	a lhs:Taxon ;
+	rdfs:label "Julietta stephaniae"^^xsd:string ;
 	lhs:descriptionEvent lcdescev:s384_93093b37b5438007222a38cb60e5e13635f23cca4b9e96aa7b6ec20559e75900ce715504d8266c5f8bed332191ee683a ;
-	lhs:hasType lhtype:Goh_2023.589102.433, lhtype:Goh_2023.589102.530, lhtype:Goh_2023.589102.887 ;
+	lhs:hasType
+		lhtype:Goh_2023.589102.433 ,
+		lhtype:Goh_2023.589102.530 ,
+		lhtype:Goh_2023.589102.887
+		;
 	lhs:holotype lhtype:Goh_2023.589102.108 ;
 	lhs:parent lctax:Julietta ;
 	lhs:rank lcrank:Species ;
-	rdfs:label "Julietta stephaniae" ;
-	rdf:type lhs:Taxon .
-lctax:Julietta_thea 
+	.
+
+lctax:Julietta_thea
+	a lhs:Taxon ;
+	rdfs:label "Julietta thea"^^xsd:string ;
 	lhs:descriptionEvent lcdescev:s384_729c9258988e7b9ec83c49b40e26f9faa42b2e7a105208845e337e693dfc812dd573ebf665e86506048f12ac1b8281f0 ;
-	lhs:hasType lhtype:Tea_2023.150.609, lhtype:Tea_2023.150.818 ;
+	lhs:hasType
+		lhtype:Tea_2023.150.609 ,
+		lhtype:Tea_2023.150.818
+		;
 	lhs:holotype lhtype:Tea_2023.150.141 ;
 	lhs:parent lctax:Julietta ;
 	lhs:rank lcrank:Species ;
-	rdfs:label "Julietta thea" ;
-	rdf:type lhs:Taxon .
-lctax:Julietta_venaluna 
+	.
+
+lctax:Julietta_venaluna
+	a lhs:Taxon ;
+	rdfs:label "Julietta venaluna"^^xsd:string ;
 	lhs:descriptionEvent lcdescev:s384_d8bbe996e7d281d9bced932163a895a9bda145519ed26f319236eb907efac05f62286f30e9791443b0922ef5487164c6 ;
-	lhs:hasType lhtype:Hunter-Moon_2023.115.688, lhtype:Hunter-Moon_2023.115.923 ;
+	lhs:hasType
+		lhtype:Hunter-Moon_2023.115.688 ,
+		lhtype:Hunter-Moon_2023.115.923
+		;
 	lhs:holotype lhtype:Hunter-Moon_2023.115.401 ;
 	lhs:parent lctax:Julietta ;
 	lhs:rank lcrank:Species ;
-	rdfs:label "Julietta venaluna" ;
-	rdf:type lhs:Taxon .
-lcwearev:s384_04b0af537ec79d3b7d0a8be8b6720fb4a2aab4d51a46008182224706a9a6a2f5d05e892b73344377600fa7b99fc9d1d3 
-	lhs:taxonWorn lctax:Julietta_thea ;
-	lhs:wornBy lcperson:Tea_Stamenkovic ;
-	lhs:wornYear "2023"^^xsd:integer ;
-	rdf:type lhs:WearEvent .
-lcwearev:s384_0634f11233c75e67ec23379fb49681698a82467bdd7bbaa476307bf6d9ac5417c2f3f29000dd12792f1476be8a9baf93 
-	lhs:taxonWorn lctax:Julietta_alexisae ;
-	lhs:wornBy lcperson:Alexis_Wright ;
-	lhs:wornYear "2023"^^xsd:integer ;
-	rdf:type lhs:WearEvent .
-lcwearev:s384_0b5a8661f98440ddf5336e4962bd1d14a310f6da5b757223247e463b5a637c02449518b77672f1035ca7a27728e0bbf6 
-	lhs:taxonWorn lctax:Julietta_stephaniae ;
-	lhs:wornBy lcperson:Stephanie_Goh ;
-	lhs:wornYear "2023"^^xsd:integer ;
-	rdf:type lhs:WearEvent .
-lcwearev:s384_0efd1261716340af38f43d46b3ecd169e59fb7d39636d6ce77435897f04701644cafe7b01a754194950a913102feddfc 
-	lhs:taxonWorn lctax:Julietta_stephaniae ;
-	lhs:wornBy lcperson:Stephanie_Goh ;
-	lhs:wornYear "2023"^^xsd:integer ;
-	rdf:type lhs:WearEvent .
-lcwearev:s384_102697e2b6b7e6b135cbeafe20006a39509c01b50f47db43c5db2855ebf1aaf91ae330c341379c8bbce01e25d3430a58 
-	lhs:taxonWorn lctax:Julietta_julianae ;
-	lhs:wornBy lcperson:Juliana_Rucker ;
-	lhs:wornYear "2023"^^xsd:integer ;
-	rdf:type lhs:WearEvent .
-lcwearev:s384_1431878ba0195cc578fac4a193aad765d39843bef153e2b2afdf553217a2d8dbd8edbfa70bf8132a20ce4cda517bdc70 
-	lhs:taxonWorn lctax:Julietta_stephaniae ;
-	lhs:wornBy lcperson:Stephanie_Goh ;
-	lhs:wornYear "2023"^^xsd:integer ;
-	rdf:type lhs:WearEvent .
-lcwearev:s384_1c52b2c4eb2fd6b23002723639a16952618a85cdf63cf1660a828f966d01079005d4d987e90bfcb955d3bae770b58346 
-	lhs:taxonWorn lctax:Julietta_plettia ;
-	lhs:wornBy lcperson:Isabel_Plett ;
-	lhs:wornYear "2023"^^xsd:integer ;
-	rdf:type lhs:WearEvent .
-lcwearev:s384_44db2d6218bcb38bb51646e86692858942f5abd2882fe561cb9fa50bb64a3d349e8fc40eecda2669157ee889f6fe7193 
-	lhs:taxonWorn lctax:Julietta_julianae ;
-	lhs:wornBy lcperson:Juliana_Rucker ;
-	lhs:wornYear "2023"^^xsd:integer ;
-	rdf:type lhs:WearEvent .
-lcwearev:s384_458898a8cc2710675048ac86510d03ccf408487c844edd0f058b2e677e522b8c36992b637b19fbda05c1d6540507591e 
-	lhs:taxonWorn lctax:Julietta_samanthae ;
-	lhs:wornBy lcperson:Samantha_Newbery ;
-	lhs:wornYear "2023"^^xsd:integer ;
-	rdf:type lhs:WearEvent .
-lcwearev:s384_46ccde34fba6964e554ce6bc2aba88cc70ffc40ac43ace023df102c6d709a8d5578a0026d9cf63812f91004dfa1b3fe7 
-	lhs:taxonWorn lctax:Julietta_plihalia ;
-	lhs:wornBy lcperson:Paige_Plihal ;
-	lhs:wornYear "2023"^^xsd:integer ;
-	rdf:type lhs:WearEvent .
-lcwearev:s384_480ec1950c62e0f315b09fea3422594af11f0b44fe7f833c2609cefd3ce133ce0ee1c75cf076534d865ae93395b5c098 
-	lhs:taxonWorn lctax:Julietta_venaluna ;
-	lhs:wornBy lcperson:Katie_Hunter-Moon ;
-	lhs:wornYear "2023"^^xsd:integer ;
-	rdf:type lhs:WearEvent .
-lcwearev:s384_49e295c8bc0664b8e5a78465932dde01498a214a2d35f4b84f81619079ce38a9d2593a72b491dda570e6e9496c8c3492 
-	lhs:taxonWorn lctax:Julietta_manuelae ;
-	lhs:wornBy lcperson:Manuela_Wilkes ;
-	lhs:wornYear "2023"^^xsd:integer ;
-	rdf:type lhs:WearEvent .
-lcwearev:s384_57a098e1bfee41da87c57d53a2903cd25ccd9ef165322fbb44d1e1cece22cb9e59703b726687694192a7b6e8e3aa3bb8 
-	lhs:taxonWorn lctax:Julietta_plettia ;
-	lhs:wornBy lcperson:Isabel_Plett ;
-	lhs:wornYear "2023"^^xsd:integer ;
-	rdf:type lhs:WearEvent .
-lcwearev:s384_5a87fbfbac0be571537a6954938e9a296ac9829ead61a4f597a08fa16cdd63845aa2c4b0e00747f7a1488c86eaded606 
-	lhs:taxonWorn lctax:Julietta_oliwiae ;
-	lhs:wornBy lcperson:Oliwia_Jarosz ;
-	lhs:wornYear "2023"^^xsd:integer ;
-	rdf:type lhs:WearEvent .
-lcwearev:s384_65ee40e386c5b99c404796f402bc9674be9617c7daa90e1f740cee5b584f7254423a0950c85ce6317fc61f788d9aa673 
-	lhs:taxonWorn lctax:Julietta_ariae ;
-	lhs:wornBy lcperson:Aria_Wright-Shriver ;
-	lhs:wornYear "2023"^^xsd:integer ;
-	rdf:type lhs:WearEvent .
-lcwearev:s384_686ae19c3209fd1829a569850da02896e1014f355fe72cd061c68fd9ee24b17831cc7253d5204661bc0342847d7f0304 
-	lhs:taxonWorn lctax:Julietta_mantorae ;
-	lhs:wornBy lcperson:Suna_Mantori ;
-	rdf:type lhs:WearEvent .
-lcwearev:s384_7a06a17369016104e8c96d8de0d44fbd1007cdbbaafb6f27a4d352d98782e30de2e2a3e322b10dc4c81bba39f03510de 
-	lhs:taxonWorn lctax:Julietta_manuelae ;
-	lhs:wornBy lcperson:Manuela_Wilkes ;
-	lhs:wornYear "2023"^^xsd:integer ;
-	rdf:type lhs:WearEvent .
-lcwearev:s384_7dfe6e75b6e90d390303610cb77012dfafd3eac9b00472bbbc37a23ff7716e2080f0ebd317b54344d46456070bc34905 
-	lhs:taxonWorn lctax:Julietta_manuelae ;
-	lhs:wornBy lcperson:Manuela_Wilkes ;
-	lhs:wornYear "2023"^^xsd:integer ;
-	rdf:type lhs:WearEvent .
-lcwearev:s384_82d05cb650af3f6be61f2cfe13a15c2b8ef809bebb9c991caa5a331f198edac1be6317fb50913c63f8b5140bc2fe3eaa 
-	lhs:taxonWorn lctax:Julietta_oliwiae ;
-	lhs:wornBy lcperson:Oliwia_Jarosz ;
-	lhs:wornYear "2023"^^xsd:integer ;
-	rdf:type lhs:WearEvent .
-lcwearev:s384_97f978093b2c8dc1dfe0a53d023a4b915ff50d90d3d5e6e952a85d19a4a4837b7daa6608b9d93f3857f5af8912172776 
-	lhs:taxonWorn lctax:Julietta_mantorae ;
-	lhs:wornBy lcperson:Suna_Mantori ;
-	rdf:type lhs:WearEvent .
-lcwearev:s384_9bc9ed8b7f0a99b4376c182e2e38c3e71c5dcadb5eeca7d1cab6e2ffaeb7a1cc4e1d87d5f7e6d78820f39856911f64f2 
-	lhs:taxonWorn lctax:Julietta_mantorae ;
-	lhs:wornBy lcperson:Suna_Mantori ;
-	rdf:type lhs:WearEvent .
-lcwearev:s384_a1c61ffea0fcc68c17a69251ce89733787ae3437730a38fe26ed3b7d9ce720b73f89dc72b03f2f2fe51c795f626e7fc2 
-	lhs:taxonWorn lctax:Julietta_julianae ;
-	lhs:wornBy lcperson:Juliana_Rucker ;
-	lhs:wornYear "2023"^^xsd:integer ;
-	rdf:type lhs:WearEvent .
-lcwearev:s384_a3ab192af4c8a8cc736ca84377b614c2f001a731a058487699a6ee83941d1014d8e962ba96e651b6311e2782646c1643 
-	lhs:taxonWorn lctax:Julietta_baumgartia ;
-	lhs:wornBy lcperson:Elizabeth_Baumgart ;
-	lhs:wornYear "2023"^^xsd:integer ;
-	rdf:type lhs:WearEvent .
-lcwearev:s384_a86c585301aea214daa08dcfc657c86d561a5bbb3ff3e916e984e747a2e0327e832c7faf10a00d6309886754ee82c918 
-	lhs:taxonWorn lctax:Julietta_annettae ;
-	lhs:wornBy lcperson:Annette_Nicoletti ;
-	lhs:wornYear "2023"^^xsd:integer ;
-	rdf:type lhs:WearEvent .
-lcwearev:s384_b779920864d9b1171420799924f53346b0aaf18f8030b9448bc2563fa75bf5dc3f08c0aac3237781805f5e956976e913 
-	lhs:taxonWorn lctax:Julietta_samanthae ;
-	lhs:wornBy lcperson:Samantha_Newbery ;
-	lhs:wornYear "2023"^^xsd:integer ;
-	rdf:type lhs:WearEvent .
-lcwearev:s384_b8d6a5a4a5222686b2f4524f1841751cfa39544b2153a243693ce647a96ffe3a924ec0a3874a2c1e0f570ec4267d90d4 
-	lhs:taxonWorn lctax:Julietta_ariae ;
-	lhs:wornBy lcperson:Aria_Wright-Shriver ;
-	lhs:wornYear "2023"^^xsd:integer ;
-	rdf:type lhs:WearEvent .
-lcwearev:s384_c07d82a7a6a9b2dcafec63650d7b4aaf0b4227d5c7b4401ab5acacf75c9e1795707ec804252d5db89ef2c473e4d615d8 
-	lhs:taxonWorn lctax:Julietta_alexisae ;
-	lhs:wornBy lcperson:Alexis_Wright ;
-	lhs:wornYear "2023"^^xsd:integer ;
-	rdf:type lhs:WearEvent .
-lcwearev:s384_c08c758454e68d13c6df7dd47686e78dd16fddf8ce9122ab6cb66a5360d2a77ebf28bd1ae4c4269c5109cdca1540c5dd 
-	lhs:taxonWorn lctax:Julietta_ariae ;
-	lhs:wornBy lcperson:Aria_Wright-Shriver ;
-	lhs:wornYear "2023"^^xsd:integer ;
-	rdf:type lhs:WearEvent .
-lcwearev:s384_c0af9a76b86cfc9a218cac5ad6fe1e98fc7cb6d8b090e42e6e22391790d28234c2dca8c58c52791328258ac5f50ca9bf 
-	lhs:taxonWorn lctax:Julietta_stephaniae ;
-	lhs:wornBy lcperson:Stephanie_Goh ;
-	lhs:wornYear "2023"^^xsd:integer ;
-	rdf:type lhs:WearEvent .
-lcwearev:s384_c8a76b486a73a5ea6be04ed528b088a3a26cda147b90949d3e8ad7b790c737ea79fb85907d174d82f76ca173d4e89cec 
-	lhs:taxonWorn lctax:Julietta_baumgartia ;
-	lhs:wornBy lcperson:Elizabeth_Baumgart ;
-	lhs:wornYear "2023"^^xsd:integer ;
-	rdf:type lhs:WearEvent .
-lcwearev:s384_cda2b95c48e43447ec9c0875233933e254f0ebf47e50c1db4c22e04684390bcda452da9c75c0759fb2f35ce75eb82777 
-	lhs:taxonWorn lctax:Julietta_plihalia ;
-	lhs:wornBy lcperson:Paige_Plihal ;
-	lhs:wornYear "2023"^^xsd:integer ;
-	rdf:type lhs:WearEvent .
-lcwearev:s384_d0a5aab046acfda43aea9ad674b1abb5da6204f9e77deb9937d3d52b8b5d9469fde538e4f1ba003eeee7e66385d200b1 
-	lhs:taxonWorn lctax:Julietta_venaluna ;
-	lhs:wornBy lcperson:Katie_Hunter-Moon ;
-	lhs:wornYear "2023"^^xsd:integer ;
-	rdf:type lhs:WearEvent .
-lcwearev:s384_d4198c602b3f7ec0eac0aa115457838c1f63e8bb3614f9fde714b1089830ad817fb7ba88f1c94ddd3bc6bb8bb86cd012 
-	lhs:taxonWorn lctax:Julietta_annettae ;
-	lhs:wornBy lcperson:Annette_Nicoletti ;
-	lhs:wornYear "2023"^^xsd:integer ;
-	rdf:type lhs:WearEvent .
-lcwearev:s384_d6c54ab6b8840a2056403399e0945b863bc44fe94fc1a927f9b7d938432534344c4a6cddf11081126b0b0bdc80e9a623 
-	lhs:taxonWorn lctax:Julietta_baumgartia ;
-	lhs:wornBy lcperson:Elizabeth_Baumgart ;
-	lhs:wornYear "2023"^^xsd:integer ;
-	rdf:type lhs:WearEvent .
-lcwearev:s384_d7f682bfe28ec59d62bac98624b4f6143b778436e39f2120cbf348c3291d46a6cf1adfeb3cc701a5e21ec64a8b8fda40 
-	lhs:taxonWorn lctax:Julietta_alexisae ;
-	lhs:wornBy lcperson:Alexis_Wright ;
-	lhs:wornYear "2023"^^xsd:integer ;
-	rdf:type lhs:WearEvent .
-lcwearev:s384_dfbef30377cd0d40a3d1785460f0c6a3f34a36b3335760457260526e4bc8f197d0a62f056fcf0bab52e8cca8e42f4bc1 
-	lhs:taxonWorn lctax:Julietta_thea ;
-	lhs:wornBy lcperson:Tea_Stamenkovic ;
-	lhs:wornYear "2023"^^xsd:integer ;
-	rdf:type lhs:WearEvent .
-lcwearev:s384_e65c2284b42b9deb2871616c8579b07fc417c1b320c61aa8cfa0ef1a591d3a40c5f29725583bf451a6ba4965f7fdd357 
-	lhs:taxonWorn lctax:Julietta_plettia ;
-	lhs:wornBy lcperson:Isabel_Plett ;
-	lhs:wornYear "2023"^^xsd:integer ;
-	rdf:type lhs:WearEvent .
-lcwearev:s384_e8e4de66bc296e599a6f3d20489a4788373e939580d8c4dfb0c2a9bfc24fbbc763b3b1ed7e5fec86d471b4d9d985e002 
-	lhs:taxonWorn lctax:Julietta_venaluna ;
-	lhs:wornBy lcperson:Katie_Hunter-Moon ;
-	lhs:wornYear "2023"^^xsd:integer ;
-	rdf:type lhs:WearEvent .
-lcwearev:s384_f067166533e6978d257002688e3d1bc01514dccf91b78e21c878aa50ec21298930da61351a4705de961b5a65c767f91a 
-	lhs:taxonWorn lctax:Julietta_oliwiae ;
-	lhs:wornBy lcperson:Oliwia_Jarosz ;
-	lhs:wornYear "2023"^^xsd:integer ;
-	rdf:type lhs:WearEvent .
-lcwearev:s384_f245233b03de01676d50b77f84f36287bcff46aeab034a7b6a70cd86b824f965d789cf15ad598935c31ddf8d99f358a4 
-	lhs:taxonWorn lctax:Julietta_julianae ;
-	lhs:wornBy lcperson:Juliana_Rucker ;
-	lhs:wornYear "2023"^^xsd:integer ;
-	rdf:type lhs:WearEvent .
-lcwearev:s384_faad8870494e30690f3619d542985eaecdefc1c4c808943a73d9f3652534871b7d2c46b4177fb2d9bd48708d6c231bd6 
-	lhs:taxonWorn lctax:Julietta_annettae ;
-	lhs:wornBy lcperson:Annette_Nicoletti ;
-	lhs:wornYear "2023"^^xsd:integer ;
-	rdf:type lhs:WearEvent .
-lcwearev:s384_ff6fb6b93141953bdc7ed8404cf0c4465f913859b025580d2f17629671059910e46743823f850ec1126b66b9cfcdd4f9 
-	lhs:taxonWorn lctax:Julietta_thea ;
-	lhs:wornBy lcperson:Tea_Stamenkovic ;
-	lhs:wornYear "2023"^^xsd:integer ;
-	rdf:type lhs:WearEvent .
-lhimg:s2_054b39ae72b15b6bd5c5b24afe48d67303b062aee149ce3da53e53a77326adbb 
-	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Juliana_Rucker.jpg?v=1701387312> ;
-	lhs:imgFor lhtype:Juliana_2023.501.4937 ;
-	lhs:imgProvider "orig" ;
-	rdf:type lhs:Image .
-lhimg:s2_05f873cceef5ad88c3dae09885c0f72ba61e5faea8c91652f5a79ab22216d31d 
-	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Juliana_Rucker4.jpg?v=1701387289> ;
-	lhs:imgFor lhtype:Juliana_2023.501.4880 ;
-	lhs:imgProvider "orig" ;
-	rdf:type lhs:Image .
-lhimg:s2_090912129480d60986570c6123f301227db354184e04494351c1f9ea40aaecf6 
-	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Thatsewliz_juliette_7.jpg?v=1701443394> ;
-	lhs:imgFor lhtype:Baumgart_2023.10485.662 ;
-	lhs:imgProvider "orig" ;
-	rdf:type lhs:Image .
-lhimg:s2_0c80a0585652d1682940c35ce31f9b8093e772552245603ac12be3b6a76fb453 
-	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/image00002.jpg?v=1701440213> ;
-	lhs:imgFor lhtype:Hunter-Moon_2023.115.401 ;
-	lhs:imgProvider "orig" ;
-	rdf:type lhs:Image .
-lhimg:s2_0cab0679cd6acfabcacf9e66742a55cd547965a3ea4a19ee8fc38801f90bf16e 
-	lhs:href <https://web.archive.org/web/20260318171441/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Isabel_Plett7.jpg?v=1701389146> ;
-	lhs:imgFor lhtype:Plett_2023.15.4029 ;
-	lhs:imgProvider "ia" ;
-	rdf:type lhs:Image .
-lhimg:s2_138070ebf30b6bde9d9d99c4842a8e132de9eecedcb7c0051c609ab1c69ffd80 
-	lhs:href <https://web.archive.org/web/20260318171524/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/image00002.jpg?v=1701440213> ;
-	lhs:imgFor lhtype:Hunter-Moon_2023.115.401 ;
-	lhs:imgProvider "ia" ;
-	rdf:type lhs:Image .
-lhimg:s2_157bf89872dcbcfdf5b4c1799e9590ecb72f940bbad62d4fa36da342d66c7b54 
-	lhs:href <https://web.archive.org/web/20260318171531/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/annette_nicoletti_-_annette.sews_07.jpg?v=1701387048> ;
-	lhs:imgFor lhtype:Annette_2023.15.6834 ;
-	lhs:imgProvider "ia" ;
-	rdf:type lhs:Image .
-lhimg:s2_1839ce2906cfe185c900dc278d7eae8bcb61d7ddd4173d29443a527932ee55f4 
-	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Alexis_Wright4.jpg?v=1701386867> ;
-	lhs:imgFor lhtype:Alexis_2023.178.86867 ;
-	lhs:imgProvider "orig" ;
-	rdf:type lhs:Image .
-lhimg:s2_18b9730d2992762379c44861095f84745734ab76029d321c5f18f37fe7cc0070 
-	lhs:href <https://web.archive.org/web/20260318171457/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Stephanie_Goh5.jpg?v=1701441048> ;
-	lhs:imgFor lhtype:Goh_2023.589102.108 ;
-	lhs:imgProvider "ia" ;
-	rdf:type lhs:Image .
-lhimg:s2_19d2f27fec925265fba9ed978bab403640e65b93921a0d6b7af9de18fcb3ee78 
-	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Samantha_Newbery2.jpg?v=1701440663> ;
-	lhs:imgFor lhtype:Newbery_2023.158.3048 ;
-	lhs:imgProvider "orig" ;
-	rdf:type lhs:Image .
-lhimg:s2_1b070ec9314103b111844a0936a82e45f794d9ba529486ab9efda7087356a0d8 
-	lhs:href <https://web.archive.org/web/20260318171453/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Suna_Mantori2_8e307661-3e4d-4459-8853-8e5e64956c65.jpg?v=1701388688> ;
-	lhs:imgFor lhtype:Mantori_2023.531.2356 ;
-	lhs:imgProvider "ia" ;
-	rdf:type lhs:Image .
-lhimg:s2_208d45ccce0dffa42a4635c918bad040b05e4f1d1d131982463629266e971ce7 
-	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Stephanie_Goh5.jpg?v=1701441048> ;
-	lhs:imgFor lhtype:Goh_2023.589102.108 ;
-	lhs:imgProvider "orig" ;
-	rdf:type lhs:Image .
-lhimg:s2_21636335bd8c4eb899a27d8612482780745889227031cb1783daa73b093918de 
-	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/PXL_20231128_183131504.MP_3.jpg?v=1701443020> ;
-	lhs:imgFor lhtype:Aria_2023.190.464 ;
-	lhs:imgProvider "orig" ;
-	rdf:type lhs:Image .
-lhimg:s2_23db139a8ea4b320b133346d691b52ea0a3addde28acf41633dd2e2eceeb89e3 
-	lhs:href <https://web.archive.org/web/20260318171526/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Oliwia_Jarosz.jpg?v=1701443201> ;
-	lhs:imgFor lhtype:Oliwia_2023.76.1415 ;
-	lhs:imgProvider "ia" ;
-	rdf:type lhs:Image .
-lhimg:s2_24025882016943f0187997825a57d6889f9fb2847348272887bd5aba9a71c2ba 
-	lhs:href <https://web.archive.org/web/20260318171516/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Alexis_Wright4.jpg?v=1701386867> ;
-	lhs:imgFor lhtype:Alexis_2023.178.86867 ;
-	lhs:imgProvider "ia" ;
-	rdf:type lhs:Image .
-lhimg:s2_26d220746ebc42e28a134abe55a952b92750cdad750b3499e34424834780c2f3 
-	lhs:href <https://web.archive.org/web/20260318171444/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/annette_nicoletti_-_annette.sews_04.jpg?v=1701387007> ;
-	lhs:imgFor lhtype:Annette_2023.15.6104 ;
-	lhs:imgProvider "ia" ;
-	rdf:type lhs:Image .
-lhimg:s2_272224dc148b62396ad4fddb9ee13cf9ce6ad8a89a2e359507e2857648b12ae4 
-	lhs:href <https://web.archive.org/web/20260318171540/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Paige_Plihal.jpg?v=1701443097> ;
-	lhs:imgFor lhtype:Plihal_2023.5607.118 ;
-	lhs:imgProvider "ia" ;
-	rdf:type lhs:Image .
-lhimg:s2_2992bfa3080c2880f4a76eaf0369dec2a82aed19e3e262635bb10b0d6a7cf532 
-	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/PXL_20231128_183113426.MP_1_2.jpg?v=1701442982> ;
-	lhs:imgFor lhtype:Aria_2023.190.390 ;
-	lhs:imgProvider "orig" ;
-	rdf:type lhs:Image .
-lhimg:s2_2ec5f8ecb4a487dc4e0a6177b29cc4e8cf1cb84dd98ac7d99626b3628cd5fe3f 
-	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Manuela_Wilkes2.jpg?v=1701439738> ;
-	lhs:imgFor lhtype:Manuela_2023.150.6738 ;
-	lhs:imgProvider "orig" ;
-	rdf:type lhs:Image .
-lhimg:s2_2f474386cc0ac79e4286fb5c7cb97d0f4335a11db24cb07234c7317cb4a100e2 
-	lhs:href <https://web.archive.org/web/20260318171525/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/image00010.jpg?v=1701440252> ;
-	lhs:imgFor lhtype:Hunter-Moon_2023.115.923 ;
-	lhs:imgProvider "ia" ;
-	rdf:type lhs:Image .
-lhimg:s2_30f736368cf0f2a725bae29ddf80529dfdf36cbd5c61d6316b079fff153d4e8f 
-	lhs:href <https://web.archive.org/web/20260318171446/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Isabel_Plett6.jpg?v=1701389104> ;
-	lhs:imgFor lhtype:Plett_2023.15.9309 ;
-	lhs:imgProvider "ia" ;
-	rdf:type lhs:Image .
-lhimg:s2_31049a5c10b91d859912a6f75f310c248a2cc59fee1865f1a53d3e94dc90e683 
-	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Tea_Stamenkovic8.jpg?v=1701443488> ;
-	lhs:imgFor lhtype:Tea_2023.150.818 ;
-	lhs:imgProvider "orig" ;
-	rdf:type lhs:Image .
-lhimg:s2_34bdccd200617b19979f131cdabd5023effda0d02cf09c962442a94e62f0f8e9 
-	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Manuela_Wilkes5.jpg?v=1701439688> ;
-	lhs:imgFor lhtype:Manuela_2023.150.4290 ;
-	lhs:imgProvider "orig" ;
-	rdf:type lhs:Image .
-lhimg:s2_374ace3ad6d4a27441ddb9609981a5a6b7840285a1c9bb1705bee5141bb98e62 
-	lhs:href <https://web.archive.org/web/20260318171434/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Alexis_Wright14.jpg?v=1701439088> ;
-	lhs:imgFor lhtype:Alexis_2023.178.39088 ;
-	lhs:imgProvider "ia" ;
-	rdf:type lhs:Image .
-lhimg:s2_4200d8671ac19c1a4e41aac9bb9f713caf2d1a5fb08ec3370e4231f1a753dfbc 
-	lhs:href <https://web.archive.org/web/20260318171456/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Tea_Stamenkovic8.jpg?v=1701443488> ;
-	lhs:imgFor lhtype:Tea_2023.150.818 ;
-	lhs:imgProvider "ia" ;
-	rdf:type lhs:Image .
-lhimg:s2_44c6804d98bc219d658b501eed76c36853e3e6b83521bc84bc3e122fca88e98e 
-	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Suna_Mantori4_c22c175f-b871-4743-be69-735db4c411e7.jpg?v=1701388530> ;
-	lhs:imgFor lhtype:Mantori_2023.531.1321 ;
-	lhs:imgProvider "orig" ;
-	rdf:type lhs:Image .
-lhimg:s2_47a37c6c2588a43dc18d6f598c28c629dc0c43991a4fd92c4a539937d74b675c 
-	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Alexis_Wright5.jpg?v=1701386880> ;
-	lhs:imgFor lhtype:Alexis_2023.178.86880 ;
-	lhs:imgProvider "orig" ;
-	rdf:type lhs:Image .
-lhimg:s2_482c09c1e8d60efa1eaa029a35b47616c77f93dc66a41ffd1bfaac1cda4cb1d8 
-	lhs:href <https://web.archive.org/web/20260318171528/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Oliwia_Jarosz3.jpg?v=1701443217> ;
-	lhs:imgFor lhtype:Oliwia_2023.76.1190 ;
-	lhs:imgProvider "ia" ;
-	rdf:type lhs:Image .
-lhimg:s2_4a1a63bbf10663c8fe8ad4a829de5dd2c3c97d00d0698aca68e4bce117347583 
-	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Juliana_Rucker2.jpg?v=1701387305> ;
-	lhs:imgFor lhtype:Juliana_2023.501.4930 ;
-	lhs:imgProvider "orig" ;
-	rdf:type lhs:Image .
-lhimg:s2_4a2fd4c1845bdc8d383a9e80d63758ece694b5fa27505936ffa89eae6d0c3bc9 
-	lhs:href <https://web.archive.org/web/20260318171513/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Samantha_Newbery2.jpg?v=1701440663> ;
-	lhs:imgFor lhtype:Newbery_2023.158.3048 ;
-	lhs:imgProvider "ia" ;
-	rdf:type lhs:Image .
-lhimg:s2_4a54a96530ab45b567f2bb2cb22408d67c1cc511a0b4c709feb060e355263aec 
-	lhs:href <https://web.archive.org/web/20260318171451/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Juliana_Rucker4.jpg?v=1701387289> ;
-	lhs:imgFor lhtype:Juliana_2023.501.4880 ;
-	lhs:imgProvider "ia" ;
-	rdf:type lhs:Image .
-lhimg:s2_4b607565483a5e2516ae3c333908994b3cff0cdc614519ba93689e9ff5c80cd5 
-	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Thatsewliz_juliette_2.jpg?v=1701443357> ;
-	lhs:imgFor lhtype:Baumgart_2023.10485.176 ;
-	lhs:imgProvider "orig" ;
-	rdf:type lhs:Image .
-lhimg:s2_4bc93e9f440ceaabd95eac0d17a7ff5c933f29fa7fa1f2a78e49fe76882b6952 
-	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Manuela_Wilkes7.jpg?v=1701439758> ;
-	lhs:imgFor lhtype:Manuela_2023.150.5167 ;
-	lhs:imgProvider "orig" ;
-	rdf:type lhs:Image .
-lhimg:s2_5044f55329a2607c704c79b9ffe13f29dee8f56e44549fb68d4f6129f4f38e07 
-	lhs:href <https://web.archive.org/web/20260318171538/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/image00006.jpg?v=1701440231> ;
-	lhs:imgFor lhtype:Hunter-Moon_2023.115.688 ;
-	lhs:imgProvider "ia" ;
-	rdf:type lhs:Image .
-lhimg:s2_5935d48df5d4810ed023509b2c83740f6735afb605aca2f6dde230cc8aaf0717 
-	lhs:href <https://web.archive.org/web/20260318171442/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Suna_Mantori5_b7b61902-5692-45e4-9587-f9b50fbfdfbf.jpg?v=1701388668> ;
-	lhs:imgFor lhtype:Mantori_2023.531.1495 ;
-	lhs:imgProvider "ia" ;
-	rdf:type lhs:Image .
-lhimg:s2_626cf79a62ca6770e6f6c0563e4661a36cde6389df052862521654a7be1b0f83 
-	lhs:href <https://web.archive.org/web/20260318171515/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Stephanie_Goh2.jpg?v=1701441013> ;
-	lhs:imgFor lhtype:Goh_2023.589102.887 ;
-	lhs:imgProvider "ia" ;
-	rdf:type lhs:Image .
-lhimg:s2_6a9d324e2b36b225ab37211d2e36821f2ad2d6fc5447f0cf366ccf5c4def26e3 
-	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Stephanie_Goh3.jpg?v=1701441031> ;
-	lhs:imgFor lhtype:Goh_2023.589102.530 ;
-	lhs:imgProvider "orig" ;
-	rdf:type lhs:Image .
-lhimg:s2_6d42ebf45307b2f07d45bcdde65985fd49782bb158d3a64308c72a1d74a8d834 
-	lhs:href <https://web.archive.org/web/20260318171448/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Stephanie_Goh3.jpg?v=1701441031> ;
-	lhs:imgFor lhtype:Goh_2023.589102.530 ;
-	lhs:imgProvider "ia" ;
-	rdf:type lhs:Image .
-lhimg:s2_6e6e39d2231efff6d4b1a08788620638ca9f4c4000c4e694d7b87d991c9c7b25 
-	lhs:href <https://web.archive.org/web/20260318171509/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Juliana_Rucker3.jpg?v=1701387296> ;
-	lhs:imgFor lhtype:Juliana_2023.501.4871 ;
-	lhs:imgProvider "ia" ;
-	rdf:type lhs:Image .
-lhimg:s2_6f6adb2f53a6dfde29e7b370365d35dfafa1dd6ec4910ca4e04cd8deb77b8c99 
-	lhs:href <https://web.archive.org/web/20260318171437/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Thatsewliz_juliette_7.jpg?v=1701443394> ;
-	lhs:imgFor lhtype:Baumgart_2023.10485.662 ;
-	lhs:imgProvider "ia" ;
-	rdf:type lhs:Image .
-lhimg:s2_70e920b483260eb4721bedd40e4676c10096eb3c9b5e7b8c0ad2cc5b3bb0af70 
-	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/image00010.jpg?v=1701440252> ;
-	lhs:imgFor lhtype:Hunter-Moon_2023.115.923 ;
-	lhs:imgProvider "orig" ;
-	rdf:type lhs:Image .
-lhimg:s2_7176ce53330c2e67b31e040475e86b05c5093855a31ae7cf06ab8dccf67d688c 
-	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Alexis_Wright14.jpg?v=1701439088> ;
-	lhs:imgFor lhtype:Alexis_2023.178.39088 ;
-	lhs:imgProvider "orig" ;
-	rdf:type lhs:Image .
-lhimg:s2_751171302ab9958f55775e9ff5b5fe6b70d745f9058cf58ddd1922512f02a7bb 
-	lhs:href <https://web.archive.org/web/20260318171437/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Samantha_Newbery3.jpg?v=1701440688> ;
-	lhs:imgFor lhtype:Newbery_2023.158.3663 ;
-	lhs:imgProvider "ia" ;
-	rdf:type lhs:Image .
-lhimg:s2_760d6caf7baf4f77beb54cbe4e31356d10105eeb75e05bf392b6ba9113af340c 
-	lhs:href <https://web.archive.org/web/20260318171454/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Manuela_Wilkes5.jpg?v=1701439688> ;
-	lhs:imgFor lhtype:Manuela_2023.150.4290 ;
-	lhs:imgProvider "ia" ;
-	rdf:type lhs:Image .
-lhimg:s2_766487cb7274222675e3e75241d3529b098ff62fcf5fbcb0c0eb1a6d64d65802 
-	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/annette_nicoletti_-_annette.sews_07.jpg?v=1701387048> ;
-	lhs:imgFor lhtype:Annette_2023.15.6834 ;
-	lhs:imgProvider "orig" ;
-	rdf:type lhs:Image .
-lhimg:s2_792e9a67575b35537078d74e08342e5f40fd25c3e5091c2cd0f7e493986fb126 
-	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Isabel_Plett5.jpg?v=1701389126> ;
-	lhs:imgFor lhtype:Plett_2023.15.9781 ;
-	lhs:imgProvider "orig" ;
-	rdf:type lhs:Image .
-lhimg:s2_7bde677f4143b8902a3d6993164005303cce0613e65e6c5666a22efd744e46e3 
-	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Stephanie_Goh8.jpg?v=1701441183> ;
-	lhs:imgFor lhtype:Goh_2023.589102.433 ;
-	lhs:imgProvider "orig" ;
-	rdf:type lhs:Image .
-lhimg:s2_7cc948504faf749bf2b7e7e0482817e858258d2c851000ba79339fd53e0b2429 
-	lhs:href <https://web.archive.org/web/20260318171532/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Juliana_Rucker.jpg?v=1701387312> ;
-	lhs:imgFor lhtype:Juliana_2023.501.4937 ;
-	lhs:imgProvider "ia" ;
-	rdf:type lhs:Image .
-lhimg:s2_7e6ec25bce8285127ef2b2e92153db503d7b84d6e02471b313f2dd76f56e3034 
-	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/annette_nicoletti_-_annette.sews_06.jpg?v=1701387040> ;
-	lhs:imgFor lhtype:Annette_2023.15.6709 ;
-	lhs:imgProvider "orig" ;
-	rdf:type lhs:Image .
-lhimg:s2_7fffb756aa24a6d8863cfc6616d00aa90f0728f423b844fe1ca0bf48aa253f07 
-	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Suna_Mantori2_8e307661-3e4d-4459-8853-8e5e64956c65.jpg?v=1701388688> ;
-	lhs:imgFor lhtype:Mantori_2023.531.2356 ;
-	lhs:imgProvider "orig" ;
-	rdf:type lhs:Image .
-lhimg:s2_84647facc20bed495397648d2dd9fd45565cd62a48cd409a1998b314a0d2fe96 
-	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Tea_Stamenkovic7.jpg?v=1701443473> ;
-	lhs:imgFor lhtype:Tea_2023.150.609 ;
-	lhs:imgProvider "orig" ;
-	rdf:type lhs:Image .
-lhimg:s2_9d0881e4219ba22521c53a01debe0d228b82699e20425ad1637115b44896cb80 
-	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Oliwia_Jarosz.jpg?v=1701443201> ;
-	lhs:imgFor lhtype:Oliwia_2023.76.1415 ;
-	lhs:imgProvider "orig" ;
-	rdf:type lhs:Image .
-lhimg:s2_9d8ceb41abd22f1498e54d9e29c7680eeee4671b59b7fec1af9f9e96afe96cae 
-	lhs:href <https://web.archive.org/web/20260318171521/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Alexis_Wright5.jpg?v=1701386880> ;
-	lhs:imgFor lhtype:Alexis_2023.178.86880 ;
-	lhs:imgProvider "ia" ;
-	rdf:type lhs:Image .
-lhimg:s2_9d9e7f6fb59bee03b24cca4f5d80c77eec674012c0d79fb305f1a9a5c5cf33a7 
-	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/annette_nicoletti_-_annette.sews_04.jpg?v=1701387007> ;
-	lhs:imgFor lhtype:Annette_2023.15.6104 ;
-	lhs:imgProvider "orig" ;
-	rdf:type lhs:Image .
-lhimg:s2_9f333197582d6f878b56585dd77da1eaf83c5684338491a40d7a591b7410e393 
-	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Isabel_Plett7.jpg?v=1701389146> ;
-	lhs:imgFor lhtype:Plett_2023.15.4029 ;
-	lhs:imgProvider "orig" ;
-	rdf:type lhs:Image .
-lhimg:s2_a1003ce0ff415e9a8657eecc7bd46f04046c6955485bcc5f5494bd89e4611fcd 
-	lhs:href <https://web.archive.org/web/20260318171439/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Tea_Stamenkovic6.jpg?v=1701443458> ;
-	lhs:imgFor lhtype:Tea_2023.150.141 ;
-	lhs:imgProvider "ia" ;
-	rdf:type lhs:Image .
-lhimg:s2_a599bc56da046d2f52db26382e4c9f06caa69dfa619c498e82e4d9145f8a9c29 
-	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Juliana_Rucker3.jpg?v=1701387296> ;
-	lhs:imgFor lhtype:Juliana_2023.501.4871 ;
-	lhs:imgProvider "orig" ;
-	rdf:type lhs:Image .
-lhimg:s2_a7ac90650a88f1ccac55ca987e1ebc40ae1fc55aefa03362aa22df434b7878d7 
-	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Stephanie_Goh2.jpg?v=1701441013> ;
-	lhs:imgFor lhtype:Goh_2023.589102.887 ;
-	lhs:imgProvider "orig" ;
-	rdf:type lhs:Image .
-lhimg:s2_a8a75b826f04cc940cdf642b474bc06786b105864fedc719a3f591355aaba0fa 
-	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Oliwia_Jarosz3.jpg?v=1701443217> ;
-	lhs:imgFor lhtype:Oliwia_2023.76.1190 ;
-	lhs:imgProvider "orig" ;
-	rdf:type lhs:Image .
-lhimg:s2_ae6331ca0d6a33fbc192d597fbdb83524767ac7046634eb321fa24ab17e3957f 
-	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Samantha_Newbery3.jpg?v=1701440688> ;
-	lhs:imgFor lhtype:Newbery_2023.158.3663 ;
-	lhs:imgProvider "orig" ;
-	rdf:type lhs:Image .
-lhimg:s2_b095ea9144d238629fe94c41284d72d87d95744344fa07368703fa010e3be161 
-	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Oliwia_Jarosz4.jpg?v=1701443238> ;
-	lhs:imgFor lhtype:Oliwia_2023.76.1150 ;
-	lhs:imgProvider "orig" ;
-	rdf:type lhs:Image .
-lhimg:s2_b3e1862f675e9e60d256937f4c9acb4deb6f5fe1cab1158f27361e52fefb4ddc 
-	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Suna_Mantori5_b7b61902-5692-45e4-9587-f9b50fbfdfbf.jpg?v=1701388668> ;
-	lhs:imgFor lhtype:Mantori_2023.531.1495 ;
-	lhs:imgProvider "orig" ;
-	rdf:type lhs:Image .
-lhimg:s2_b5279a7c43cbf5b5db1fec542c62375e33b1b226807512b92840ea87411e25b6 
-	lhs:href <https://web.archive.org/web/20260318171534/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Isabel_Plett5.jpg?v=1701389126> ;
-	lhs:imgFor lhtype:Plett_2023.15.9781 ;
-	lhs:imgProvider "ia" ;
-	rdf:type lhs:Image .
-lhimg:s2_b71774198a3a428c1fc730084a351f33d0a218aa099db997ea32caa20c24e89f 
-	lhs:href <https://web.archive.org/web/20260318171518/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/PXL_20231128_183137499.MP_2.jpg?v=1701443004> ;
-	lhs:imgFor lhtype:Aria_2023.190.371 ;
-	lhs:imgProvider "ia" ;
-	rdf:type lhs:Image .
-lhimg:s2_b978f5dbfc79674413a97229e5bea71a3954e25ca6bc0e15498687a1df749d61 
-	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Paige_Plihal3.jpg?v=1701443123> ;
-	lhs:imgFor lhtype:Plihal_2023.5607.196 ;
-	lhs:imgProvider "orig" ;
-	rdf:type lhs:Image .
-lhimg:s2_c2a0d1ac0726a31d752c1754c7af840567fd46077627fa91dd92f30468b9fd57 
-	lhs:href <https://web.archive.org/web/20260318171447/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Manuela_Wilkes2.jpg?v=1701439738> ;
-	lhs:imgFor lhtype:Manuela_2023.150.6738 ;
-	lhs:imgProvider "ia" ;
-	rdf:type lhs:Image .
-lhimg:s2_c3a730bc3ba01fe000adba0d68b7e0dfbb708949876cb768bfe3d39a278bac19 
-	lhs:href <https://web.archive.org/web/20260318171450/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/PXL_20231128_183113426.MP_1_2.jpg?v=1701442982> ;
-	lhs:imgFor lhtype:Aria_2023.190.390 ;
-	lhs:imgProvider "ia" ;
-	rdf:type lhs:Image .
-lhimg:s2_c76570933b2272c2ec27ad296cf22d2d32b53270b710ee5ff844276bd963db60 
-	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Tea_Stamenkovic6.jpg?v=1701443458> ;
-	lhs:imgFor lhtype:Tea_2023.150.141 ;
-	lhs:imgProvider "orig" ;
-	rdf:type lhs:Image .
-lhimg:s2_c77b42819a1861abc838c07e9bd159338650d64aec3c3835189e95e1a32c4ad4 
-	lhs:href <https://web.archive.org/web/20260318171537/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Thatsewliz_juliette_3.jpg?v=1701443374> ;
-	lhs:imgFor lhtype:Baumgart_2023.10485.338 ;
-	lhs:imgProvider "ia" ;
-	rdf:type lhs:Image .
-lhimg:s2_c94a284aab5a43c1d86855f804233e8b2b78f42aaff19db3518d79a9cf62324f 
-	lhs:href <https://web.archive.org/web/20260318171529/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/annette_nicoletti_-_annette.sews_06.jpg?v=1701387040> ;
-	lhs:imgFor lhtype:Annette_2023.15.6709 ;
-	lhs:imgProvider "ia" ;
-	rdf:type lhs:Image .
-lhimg:s2_cdae13c99d439d22a0e0268b616a0d3f1202da3390c79a7a1a1e0ff980259e88 
-	lhs:href <https://web.archive.org/web/20260318171455/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Tea_Stamenkovic7.jpg?v=1701443473> ;
-	lhs:imgFor lhtype:Tea_2023.150.609 ;
-	lhs:imgProvider "ia" ;
-	rdf:type lhs:Image .
-lhimg:s2_d058913c1185c8471fe39cebe2596332b4c33e2e66c31de0a1e91c11e53ec974 
-	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Paige_Plihal.jpg?v=1701443097> ;
-	lhs:imgFor lhtype:Plihal_2023.5607.118 ;
-	lhs:imgProvider "orig" ;
-	rdf:type lhs:Image .
-lhimg:s2_d56b1d4230332df848e3d1689478b2494fd4cbfe666334fd581adbd6189c7fca 
-	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/PXL_20231128_183137499.MP_2.jpg?v=1701443004> ;
-	lhs:imgFor lhtype:Aria_2023.190.371 ;
-	lhs:imgProvider "orig" ;
-	rdf:type lhs:Image .
-lhimg:s2_d74d8b5f1204983dbc06376c691cabd6f78d12f9779e2905523d517649b1d3fd 
-	lhs:href <https://web.archive.org/web/20260318171435/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Thatsewliz_juliette_2.jpg?v=1701443357> ;
-	lhs:imgFor lhtype:Baumgart_2023.10485.176 ;
-	lhs:imgProvider "ia" ;
-	rdf:type lhs:Image .
-lhimg:s2_da1461547aaffeebf17ae8a12fcf701eacc4e2e86dbaf54e1d3400e25a95fa30 
-	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Isabel_Plett6.jpg?v=1701389104> ;
-	lhs:imgFor lhtype:Plett_2023.15.9309 ;
-	lhs:imgProvider "orig" ;
-	rdf:type lhs:Image .
-lhimg:s2_dc79bd9ad9b96f3e4fa3c051b0cbd286faa3d781df77d949142f060e30ef52c5 
-	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/image00006.jpg?v=1701440231> ;
-	lhs:imgFor lhtype:Hunter-Moon_2023.115.688 ;
-	lhs:imgProvider "orig" ;
-	rdf:type lhs:Image .
-lhimg:s2_dc8198d0255c04942798dff7c832863b103e53b9c6231117c532139bfcbfeebf 
-	lhs:href <https://web.archive.org/web/20260318171459/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Paige_Plihal3.jpg?v=1701443123> ;
-	lhs:imgFor lhtype:Plihal_2023.5607.196 ;
-	lhs:imgProvider "ia" ;
-	rdf:type lhs:Image .
-lhimg:s2_dddf5fc5591b3508b0edc2bc7fc433f271fd3bc85e0166239455535c745d64c6 
-	lhs:href <https://web.archive.org/web/20260318171512/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Suna_Mantori4_c22c175f-b871-4743-be69-735db4c411e7.jpg?v=1701388530> ;
-	lhs:imgFor lhtype:Mantori_2023.531.1321 ;
-	lhs:imgProvider "ia" ;
-	rdf:type lhs:Image .
-lhimg:s2_e1ee2529394d082177b960efb4d9717c335a2da83b352635af948f783944b4e5 
-	lhs:href <https://web.archive.org/web/20260318171502/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/PXL_20231128_183131504.MP_3.jpg?v=1701443020> ;
-	lhs:imgFor lhtype:Aria_2023.190.464 ;
-	lhs:imgProvider "ia" ;
-	rdf:type lhs:Image .
-lhimg:s2_e27ec47646b920dc9bd20f475d7d396cc38d748a2b625b721e6b060ec5a8eb42 
-	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Thatsewliz_juliette_3.jpg?v=1701443374> ;
-	lhs:imgFor lhtype:Baumgart_2023.10485.338 ;
-	lhs:imgProvider "orig" ;
-	rdf:type lhs:Image .
-lhimg:s2_f87945455477bcb5011dfbea9246a2ffbda8e3f13b32108b6a9bb78268a5e637 
-	lhs:href <https://web.archive.org/web/20260318171504/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Oliwia_Jarosz4.jpg?v=1701443238> ;
-	lhs:imgFor lhtype:Oliwia_2023.76.1150 ;
-	lhs:imgProvider "ia" ;
-	rdf:type lhs:Image .
-lhimg:s2_fac1dc564adcfc4746019a837ff8b69326a6d2507b0b6a4550a879721a86dc12 
-	lhs:href <https://web.archive.org/web/20260318171522/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Juliana_Rucker2.jpg?v=1701387305> ;
-	lhs:imgFor lhtype:Juliana_2023.501.4930 ;
-	lhs:imgProvider "ia" ;
-	rdf:type lhs:Image .
-lhimg:s2_fb743ef22ed515d628e727d349ece33377534f080a4beeebf19bfc88fb8fdc5c 
-	lhs:href <https://web.archive.org/web/20260318171519/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Manuela_Wilkes7.jpg?v=1701439758> ;
-	lhs:imgFor lhtype:Manuela_2023.150.5167 ;
-	lhs:imgProvider "ia" ;
-	rdf:type lhs:Image .
-lhimg:s2_fe9ad282197acdc885d8805a8700feb0980333cc3249109a86a568110a7f3a5f 
-	lhs:href <https://web.archive.org/web/20260318171500/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Stephanie_Goh8.jpg?v=1701441183> ;
-	lhs:imgFor lhtype:Goh_2023.589102.433 ;
-	lhs:imgProvider "ia" ;
-	rdf:type lhs:Image .
-lhtype:Alexis_2023.178.39088 
+	.
+
+lhtype:Alexis_2023.178.39088
+	a lhs:ImageType ;
+	rdfs:label "Alexis 2023.178.39088"^^xsd:string ;
 	lhs:depictsEvent lcwearev:s384_d7f682bfe28ec59d62bac98624b4f6143b778436e39f2120cbf348c3291d46a6cf1adfeb3cc701a5e21ec64a8b8fda40 ;
 	lhs:imgHeight "4000"^^xsd:integer ;
-	lhs:imgIntegrity "sha256:54a91d9be59850d9439dad9e9ff2d94e0ef71731440477fec8855184185229bf" ;
-	lhs:imgLocation lhimg:s2_374ace3ad6d4a27441ddb9609981a5a6b7840285a1c9bb1705bee5141bb98e62, lhimg:s2_7176ce53330c2e67b31e040475e86b05c5093855a31ae7cf06ab8dccf67d688c ;
+	lhs:imgIntegrity "sha256:54a91d9be59850d9439dad9e9ff2d94e0ef71731440477fec8855184185229bf"^^xsd:string ;
+	lhs:imgLocation
+		lhimg:s2_374ace3ad6d4a27441ddb9609981a5a6b7840285a1c9bb1705bee5141bb98e62 ,
+		lhimg:s2_7176ce53330c2e67b31e040475e86b05c5093855a31ae7cf06ab8dccf67d688c
+		;
 	lhs:imgWidth "2668"^^xsd:integer ;
-	rdf:type lhs:ImageType ;
-	rdfs:label "Alexis 2023.178.39088" .
-lhtype:Alexis_2023.178.86867 
+	.
+
+lhtype:Alexis_2023.178.86867
+	a lhs:ImageType ;
+	rdfs:label "Alexis 2023.178.86867"^^xsd:string ;
 	lhs:depictsEvent lcwearev:s384_0634f11233c75e67ec23379fb49681698a82467bdd7bbaa476307bf6d9ac5417c2f3f29000dd12792f1476be8a9baf93 ;
 	lhs:imgHeight "4000"^^xsd:integer ;
-	lhs:imgIntegrity "sha256:7bf0708c7b0609e81f51ab5af1e952ee4613adc57465b693263a45b8de58b13c" ;
-	lhs:imgLocation lhimg:s2_1839ce2906cfe185c900dc278d7eae8bcb61d7ddd4173d29443a527932ee55f4, lhimg:s2_24025882016943f0187997825a57d6889f9fb2847348272887bd5aba9a71c2ba ;
+	lhs:imgIntegrity "sha256:7bf0708c7b0609e81f51ab5af1e952ee4613adc57465b693263a45b8de58b13c"^^xsd:string ;
+	lhs:imgLocation
+		lhimg:s2_1839ce2906cfe185c900dc278d7eae8bcb61d7ddd4173d29443a527932ee55f4 ,
+		lhimg:s2_24025882016943f0187997825a57d6889f9fb2847348272887bd5aba9a71c2ba
+		;
 	lhs:imgWidth "2668"^^xsd:integer ;
-	rdf:type lhs:ImageType ;
-	rdfs:label "Alexis 2023.178.86867" .
-lhtype:Alexis_2023.178.86880 
+	.
+
+lhtype:Alexis_2023.178.86880
+	a lhs:ImageType ;
+	rdfs:label "Alexis 2023.178.86880"^^xsd:string ;
 	lhs:depictsEvent lcwearev:s384_c07d82a7a6a9b2dcafec63650d7b4aaf0b4227d5c7b4401ab5acacf75c9e1795707ec804252d5db89ef2c473e4d615d8 ;
 	lhs:imgHeight "4000"^^xsd:integer ;
-	lhs:imgIntegrity "sha256:dbe4ef0faac8c38de61a87151e3edd3db071be9ad62d3efca1af67d8d232f927" ;
-	lhs:imgLocation lhimg:s2_47a37c6c2588a43dc18d6f598c28c629dc0c43991a4fd92c4a539937d74b675c, lhimg:s2_9d8ceb41abd22f1498e54d9e29c7680eeee4671b59b7fec1af9f9e96afe96cae ;
+	lhs:imgIntegrity "sha256:dbe4ef0faac8c38de61a87151e3edd3db071be9ad62d3efca1af67d8d232f927"^^xsd:string ;
+	lhs:imgLocation
+		lhimg:s2_47a37c6c2588a43dc18d6f598c28c629dc0c43991a4fd92c4a539937d74b675c ,
+		lhimg:s2_9d8ceb41abd22f1498e54d9e29c7680eeee4671b59b7fec1af9f9e96afe96cae
+		;
 	lhs:imgWidth "2668"^^xsd:integer ;
-	rdf:type lhs:ImageType ;
-	rdfs:label "Alexis 2023.178.86880" .
-lhtype:Annette_2023.15.6104 
+	.
+
+lhtype:Annette_2023.15.6104
+	a lhs:ImageType ;
+	rdfs:label "Annette 2023.15.6104"^^xsd:string ;
 	lhs:depictsEvent lcwearev:s384_faad8870494e30690f3619d542985eaecdefc1c4c808943a73d9f3652534871b7d2c46b4177fb2d9bd48708d6c231bd6 ;
 	lhs:imgHeight "3648"^^xsd:integer ;
-	lhs:imgIntegrity "sha256:23f3a7a90853215376dd8468c9e8fdcfb8a274b5c3cb0b7d02fcd6ee5b87842b" ;
-	lhs:imgLocation lhimg:s2_26d220746ebc42e28a134abe55a952b92750cdad750b3499e34424834780c2f3, lhimg:s2_9d9e7f6fb59bee03b24cca4f5d80c77eec674012c0d79fb305f1a9a5c5cf33a7 ;
+	lhs:imgIntegrity "sha256:23f3a7a90853215376dd8468c9e8fdcfb8a274b5c3cb0b7d02fcd6ee5b87842b"^^xsd:string ;
+	lhs:imgLocation
+		lhimg:s2_26d220746ebc42e28a134abe55a952b92750cdad750b3499e34424834780c2f3 ,
+		lhimg:s2_9d9e7f6fb59bee03b24cca4f5d80c77eec674012c0d79fb305f1a9a5c5cf33a7
+		;
 	lhs:imgWidth "2736"^^xsd:integer ;
-	rdf:type lhs:ImageType ;
-	rdfs:label "Annette 2023.15.6104" .
-lhtype:Annette_2023.15.6709 
+	.
+
+lhtype:Annette_2023.15.6709
+	a lhs:ImageType ;
+	rdfs:label "Annette 2023.15.6709"^^xsd:string ;
 	lhs:depictsEvent lcwearev:s384_a86c585301aea214daa08dcfc657c86d561a5bbb3ff3e916e984e747a2e0327e832c7faf10a00d6309886754ee82c918 ;
 	lhs:imgHeight "3648"^^xsd:integer ;
-	lhs:imgIntegrity "sha256:d57a3026ea65eab0ddde3cefd6772f293dc7740794cda331d0ee5f30a6e285f9" ;
-	lhs:imgLocation lhimg:s2_7e6ec25bce8285127ef2b2e92153db503d7b84d6e02471b313f2dd76f56e3034, lhimg:s2_c94a284aab5a43c1d86855f804233e8b2b78f42aaff19db3518d79a9cf62324f ;
+	lhs:imgIntegrity "sha256:d57a3026ea65eab0ddde3cefd6772f293dc7740794cda331d0ee5f30a6e285f9"^^xsd:string ;
+	lhs:imgLocation
+		lhimg:s2_7e6ec25bce8285127ef2b2e92153db503d7b84d6e02471b313f2dd76f56e3034 ,
+		lhimg:s2_c94a284aab5a43c1d86855f804233e8b2b78f42aaff19db3518d79a9cf62324f
+		;
 	lhs:imgWidth "2736"^^xsd:integer ;
-	rdf:type lhs:ImageType ;
-	rdfs:label "Annette 2023.15.6709" .
-lhtype:Annette_2023.15.6834 
+	.
+
+lhtype:Annette_2023.15.6834
+	a lhs:ImageType ;
+	rdfs:label "Annette 2023.15.6834"^^xsd:string ;
 	lhs:depictsEvent lcwearev:s384_d4198c602b3f7ec0eac0aa115457838c1f63e8bb3614f9fde714b1089830ad817fb7ba88f1c94ddd3bc6bb8bb86cd012 ;
 	lhs:imgHeight "3648"^^xsd:integer ;
-	lhs:imgIntegrity "sha256:7dec17a4ae90b852f3fe9244b3e6bcebe3ce865d3489568c31edf701c97cfc25" ;
-	lhs:imgLocation lhimg:s2_157bf89872dcbcfdf5b4c1799e9590ecb72f940bbad62d4fa36da342d66c7b54, lhimg:s2_766487cb7274222675e3e75241d3529b098ff62fcf5fbcb0c0eb1a6d64d65802 ;
+	lhs:imgIntegrity "sha256:7dec17a4ae90b852f3fe9244b3e6bcebe3ce865d3489568c31edf701c97cfc25"^^xsd:string ;
+	lhs:imgLocation
+		lhimg:s2_157bf89872dcbcfdf5b4c1799e9590ecb72f940bbad62d4fa36da342d66c7b54 ,
+		lhimg:s2_766487cb7274222675e3e75241d3529b098ff62fcf5fbcb0c0eb1a6d64d65802
+		;
 	lhs:imgWidth "2736"^^xsd:integer ;
-	rdf:type lhs:ImageType ;
-	rdfs:label "Annette 2023.15.6834" .
-lhtype:Aria_2023.190.371 
+	.
+
+lhtype:Aria_2023.190.371
+	a lhs:ImageType ;
+	rdfs:label "Aria 2023.190.371"^^xsd:string ;
 	lhs:depictsEvent lcwearev:s384_65ee40e386c5b99c404796f402bc9674be9617c7daa90e1f740cee5b584f7254423a0950c85ce6317fc61f788d9aa673 ;
 	lhs:imgHeight "4080"^^xsd:integer ;
-	lhs:imgIntegrity "sha256:b3a390776b67fcad7b0393afc15b8ec9f5a0bea7b2988941527d79440a955841" ;
-	lhs:imgLocation lhimg:s2_b71774198a3a428c1fc730084a351f33d0a218aa099db997ea32caa20c24e89f, lhimg:s2_d56b1d4230332df848e3d1689478b2494fd4cbfe666334fd581adbd6189c7fca ;
+	lhs:imgIntegrity "sha256:b3a390776b67fcad7b0393afc15b8ec9f5a0bea7b2988941527d79440a955841"^^xsd:string ;
+	lhs:imgLocation
+		lhimg:s2_b71774198a3a428c1fc730084a351f33d0a218aa099db997ea32caa20c24e89f ,
+		lhimg:s2_d56b1d4230332df848e3d1689478b2494fd4cbfe666334fd581adbd6189c7fca
+		;
 	lhs:imgWidth "3072"^^xsd:integer ;
-	rdf:type lhs:ImageType ;
-	rdfs:label "Aria 2023.190.371" .
-lhtype:Aria_2023.190.390 
+	.
+
+lhtype:Aria_2023.190.390
+	a lhs:ImageType ;
+	rdfs:label "Aria 2023.190.390"^^xsd:string ;
 	lhs:depictsEvent lcwearev:s384_c08c758454e68d13c6df7dd47686e78dd16fddf8ce9122ab6cb66a5360d2a77ebf28bd1ae4c4269c5109cdca1540c5dd ;
 	lhs:imgHeight "4080"^^xsd:integer ;
-	lhs:imgIntegrity "sha256:fa8a2ccfef0a1fcb25617a412facca624dc369abc0bf6a4b58d84c4d75c3c8ee" ;
-	lhs:imgLocation lhimg:s2_2992bfa3080c2880f4a76eaf0369dec2a82aed19e3e262635bb10b0d6a7cf532, lhimg:s2_c3a730bc3ba01fe000adba0d68b7e0dfbb708949876cb768bfe3d39a278bac19 ;
+	lhs:imgIntegrity "sha256:fa8a2ccfef0a1fcb25617a412facca624dc369abc0bf6a4b58d84c4d75c3c8ee"^^xsd:string ;
+	lhs:imgLocation
+		lhimg:s2_2992bfa3080c2880f4a76eaf0369dec2a82aed19e3e262635bb10b0d6a7cf532 ,
+		lhimg:s2_c3a730bc3ba01fe000adba0d68b7e0dfbb708949876cb768bfe3d39a278bac19
+		;
 	lhs:imgWidth "3072"^^xsd:integer ;
-	rdf:type lhs:ImageType ;
-	rdfs:label "Aria 2023.190.390" .
-lhtype:Aria_2023.190.464 
+	.
+
+lhtype:Aria_2023.190.464
+	a lhs:ImageType ;
+	rdfs:label "Aria 2023.190.464"^^xsd:string ;
 	lhs:depictsEvent lcwearev:s384_b8d6a5a4a5222686b2f4524f1841751cfa39544b2153a243693ce647a96ffe3a924ec0a3874a2c1e0f570ec4267d90d4 ;
 	lhs:imgHeight "4080"^^xsd:integer ;
-	lhs:imgIntegrity "sha256:5e43a1273d5c3b6891b6c1775f3faee83e67db18f3d4640e2c57a521c640e330" ;
-	lhs:imgLocation lhimg:s2_21636335bd8c4eb899a27d8612482780745889227031cb1783daa73b093918de, lhimg:s2_e1ee2529394d082177b960efb4d9717c335a2da83b352635af948f783944b4e5 ;
+	lhs:imgIntegrity "sha256:5e43a1273d5c3b6891b6c1775f3faee83e67db18f3d4640e2c57a521c640e330"^^xsd:string ;
+	lhs:imgLocation
+		lhimg:s2_21636335bd8c4eb899a27d8612482780745889227031cb1783daa73b093918de ,
+		lhimg:s2_e1ee2529394d082177b960efb4d9717c335a2da83b352635af948f783944b4e5
+		;
 	lhs:imgWidth "3072"^^xsd:integer ;
-	rdf:type lhs:ImageType ;
-	rdfs:label "Aria 2023.190.464" .
-lhtype:Baumgart_2023.10485.176 
+	.
+
+lhtype:Baumgart_2023.10485.176
+	a lhs:ImageType ;
+	rdfs:label "Baumgart 2023.10485.176"^^xsd:string ;
 	lhs:depictsEvent lcwearev:s384_c8a76b486a73a5ea6be04ed528b088a3a26cda147b90949d3e8ad7b790c737ea79fb85907d174d82f76ca173d4e89cec ;
 	lhs:imgHeight "3276"^^xsd:integer ;
-	lhs:imgIntegrity "sha256:207c0cfa360576362fe8232d81f9cb0aae2f1fa96231846f971d2b07e0b6ad4f" ;
-	lhs:imgLocation lhimg:s2_4b607565483a5e2516ae3c333908994b3cff0cdc614519ba93689e9ff5c80cd5, lhimg:s2_d74d8b5f1204983dbc06376c691cabd6f78d12f9779e2905523d517649b1d3fd ;
+	lhs:imgIntegrity "sha256:207c0cfa360576362fe8232d81f9cb0aae2f1fa96231846f971d2b07e0b6ad4f"^^xsd:string ;
+	lhs:imgLocation
+		lhimg:s2_4b607565483a5e2516ae3c333908994b3cff0cdc614519ba93689e9ff5c80cd5 ,
+		lhimg:s2_d74d8b5f1204983dbc06376c691cabd6f78d12f9779e2905523d517649b1d3fd
+		;
 	lhs:imgWidth "2457"^^xsd:integer ;
-	rdf:type lhs:ImageType ;
-	rdfs:label "Baumgart 2023.10485.176" .
-lhtype:Baumgart_2023.10485.338 
+	.
+
+lhtype:Baumgart_2023.10485.338
+	a lhs:ImageType ;
+	rdfs:label "Baumgart 2023.10485.338"^^xsd:string ;
 	lhs:depictsEvent lcwearev:s384_a3ab192af4c8a8cc736ca84377b614c2f001a731a058487699a6ee83941d1014d8e962ba96e651b6311e2782646c1643 ;
 	lhs:imgHeight "3272"^^xsd:integer ;
-	lhs:imgIntegrity "sha256:03d56f9f6cf7b736ceccd54c72a294c766c52f29c976901e99a08b0a36078337" ;
-	lhs:imgLocation lhimg:s2_c77b42819a1861abc838c07e9bd159338650d64aec3c3835189e95e1a32c4ad4, lhimg:s2_e27ec47646b920dc9bd20f475d7d396cc38d748a2b625b721e6b060ec5a8eb42 ;
+	lhs:imgIntegrity "sha256:03d56f9f6cf7b736ceccd54c72a294c766c52f29c976901e99a08b0a36078337"^^xsd:string ;
+	lhs:imgLocation
+		lhimg:s2_c77b42819a1861abc838c07e9bd159338650d64aec3c3835189e95e1a32c4ad4 ,
+		lhimg:s2_e27ec47646b920dc9bd20f475d7d396cc38d748a2b625b721e6b060ec5a8eb42
+		;
 	lhs:imgWidth "2454"^^xsd:integer ;
-	rdf:type lhs:ImageType ;
-	rdfs:label "Baumgart 2023.10485.338" .
-lhtype:Baumgart_2023.10485.662 
+	.
+
+lhtype:Baumgart_2023.10485.662
+	a lhs:ImageType ;
+	rdfs:label "Baumgart 2023.10485.662"^^xsd:string ;
 	lhs:depictsEvent lcwearev:s384_d6c54ab6b8840a2056403399e0945b863bc44fe94fc1a927f9b7d938432534344c4a6cddf11081126b0b0bdc80e9a623 ;
 	lhs:imgHeight "4032"^^xsd:integer ;
-	lhs:imgIntegrity "sha256:3d8d498f08d53f2b7da895b2d3b35626be39236e327407a5ea3f6fdb782d6fe8" ;
-	lhs:imgLocation lhimg:s2_090912129480d60986570c6123f301227db354184e04494351c1f9ea40aaecf6, lhimg:s2_6f6adb2f53a6dfde29e7b370365d35dfafa1dd6ec4910ca4e04cd8deb77b8c99 ;
+	lhs:imgIntegrity "sha256:3d8d498f08d53f2b7da895b2d3b35626be39236e327407a5ea3f6fdb782d6fe8"^^xsd:string ;
+	lhs:imgLocation
+		lhimg:s2_090912129480d60986570c6123f301227db354184e04494351c1f9ea40aaecf6 ,
+		lhimg:s2_6f6adb2f53a6dfde29e7b370365d35dfafa1dd6ec4910ca4e04cd8deb77b8c99
+		;
 	lhs:imgWidth "3024"^^xsd:integer ;
-	rdf:type lhs:ImageType ;
-	rdfs:label "Baumgart 2023.10485.662" .
-lhtype:Goh_2023.589102.108 
+	.
+
+lhtype:Goh_2023.589102.108
+	a lhs:ImageType ;
+	rdfs:label "Goh 2023.589102.108"^^xsd:string ;
 	lhs:depictsEvent lcwearev:s384_0efd1261716340af38f43d46b3ecd169e59fb7d39636d6ce77435897f04701644cafe7b01a754194950a913102feddfc ;
 	lhs:imgHeight "4032"^^xsd:integer ;
-	lhs:imgIntegrity "sha256:0b00b1051994112b8e42bd804337100da59dbadcbf13ce71d88dbfa7b6ef73f8" ;
-	lhs:imgLocation lhimg:s2_18b9730d2992762379c44861095f84745734ab76029d321c5f18f37fe7cc0070, lhimg:s2_208d45ccce0dffa42a4635c918bad040b05e4f1d1d131982463629266e971ce7 ;
+	lhs:imgIntegrity "sha256:0b00b1051994112b8e42bd804337100da59dbadcbf13ce71d88dbfa7b6ef73f8"^^xsd:string ;
+	lhs:imgLocation
+		lhimg:s2_18b9730d2992762379c44861095f84745734ab76029d321c5f18f37fe7cc0070 ,
+		lhimg:s2_208d45ccce0dffa42a4635c918bad040b05e4f1d1d131982463629266e971ce7
+		;
 	lhs:imgWidth "3024"^^xsd:integer ;
-	rdf:type lhs:ImageType ;
-	rdfs:label "Goh 2023.589102.108" .
-lhtype:Goh_2023.589102.433 
+	.
+
+lhtype:Goh_2023.589102.433
+	a lhs:ImageType ;
+	rdfs:label "Goh 2023.589102.433"^^xsd:string ;
 	lhs:depictsEvent lcwearev:s384_1431878ba0195cc578fac4a193aad765d39843bef153e2b2afdf553217a2d8dbd8edbfa70bf8132a20ce4cda517bdc70 ;
 	lhs:imgHeight "4032"^^xsd:integer ;
-	lhs:imgIntegrity "sha256:650dbae2a78aedfe2bed699671d0e288f2726960f0d31d28acb3e25efd5466c7" ;
-	lhs:imgLocation lhimg:s2_7bde677f4143b8902a3d6993164005303cce0613e65e6c5666a22efd744e46e3, lhimg:s2_fe9ad282197acdc885d8805a8700feb0980333cc3249109a86a568110a7f3a5f ;
+	lhs:imgIntegrity "sha256:650dbae2a78aedfe2bed699671d0e288f2726960f0d31d28acb3e25efd5466c7"^^xsd:string ;
+	lhs:imgLocation
+		lhimg:s2_7bde677f4143b8902a3d6993164005303cce0613e65e6c5666a22efd744e46e3 ,
+		lhimg:s2_fe9ad282197acdc885d8805a8700feb0980333cc3249109a86a568110a7f3a5f
+		;
 	lhs:imgWidth "3024"^^xsd:integer ;
-	rdf:type lhs:ImageType ;
-	rdfs:label "Goh 2023.589102.433" .
-lhtype:Goh_2023.589102.530 
+	.
+
+lhtype:Goh_2023.589102.530
+	a lhs:ImageType ;
+	rdfs:label "Goh 2023.589102.530"^^xsd:string ;
 	lhs:depictsEvent lcwearev:s384_c0af9a76b86cfc9a218cac5ad6fe1e98fc7cb6d8b090e42e6e22391790d28234c2dca8c58c52791328258ac5f50ca9bf ;
 	lhs:imgHeight "4032"^^xsd:integer ;
-	lhs:imgIntegrity "sha256:5919c9a0e7662229a742f13bd85b0ce5c86ff57f8632345331da9fdaf87e9220" ;
-	lhs:imgLocation lhimg:s2_6a9d324e2b36b225ab37211d2e36821f2ad2d6fc5447f0cf366ccf5c4def26e3, lhimg:s2_6d42ebf45307b2f07d45bcdde65985fd49782bb158d3a64308c72a1d74a8d834 ;
+	lhs:imgIntegrity "sha256:5919c9a0e7662229a742f13bd85b0ce5c86ff57f8632345331da9fdaf87e9220"^^xsd:string ;
+	lhs:imgLocation
+		lhimg:s2_6a9d324e2b36b225ab37211d2e36821f2ad2d6fc5447f0cf366ccf5c4def26e3 ,
+		lhimg:s2_6d42ebf45307b2f07d45bcdde65985fd49782bb158d3a64308c72a1d74a8d834
+		;
 	lhs:imgWidth "3024"^^xsd:integer ;
-	rdf:type lhs:ImageType ;
-	rdfs:label "Goh 2023.589102.530" .
-lhtype:Goh_2023.589102.887 
+	.
+
+lhtype:Goh_2023.589102.887
+	a lhs:ImageType ;
+	rdfs:label "Goh 2023.589102.887"^^xsd:string ;
 	lhs:depictsEvent lcwearev:s384_0b5a8661f98440ddf5336e4962bd1d14a310f6da5b757223247e463b5a637c02449518b77672f1035ca7a27728e0bbf6 ;
 	lhs:imgHeight "4032"^^xsd:integer ;
-	lhs:imgIntegrity "sha256:10f1daaf2bb402cb9dd6f77e1e5c8f2a9f35cc8e5b9646a6284b79924df09e1b" ;
-	lhs:imgLocation lhimg:s2_626cf79a62ca6770e6f6c0563e4661a36cde6389df052862521654a7be1b0f83, lhimg:s2_a7ac90650a88f1ccac55ca987e1ebc40ae1fc55aefa03362aa22df434b7878d7 ;
+	lhs:imgIntegrity "sha256:10f1daaf2bb402cb9dd6f77e1e5c8f2a9f35cc8e5b9646a6284b79924df09e1b"^^xsd:string ;
+	lhs:imgLocation
+		lhimg:s2_626cf79a62ca6770e6f6c0563e4661a36cde6389df052862521654a7be1b0f83 ,
+		lhimg:s2_a7ac90650a88f1ccac55ca987e1ebc40ae1fc55aefa03362aa22df434b7878d7
+		;
 	lhs:imgWidth "3024"^^xsd:integer ;
-	rdf:type lhs:ImageType ;
-	rdfs:label "Goh 2023.589102.887" .
-lhtype:Hunter-Moon_2023.115.401 
+	.
+
+lhtype:Hunter-Moon_2023.115.401
+	a lhs:ImageType ;
+	rdfs:label "Hunter-Moon 2023.115.401"^^xsd:string ;
 	lhs:depictsEvent lcwearev:s384_d0a5aab046acfda43aea9ad674b1abb5da6204f9e77deb9937d3d52b8b5d9469fde538e4f1ba003eeee7e66385d200b1 ;
 	lhs:imgHeight "5184"^^xsd:integer ;
-	lhs:imgIntegrity "sha256:275f9ada9e7bb0115e4af67ed28b9ef5c90396a7f844d30612e8daf893084719" ;
-	lhs:imgLocation lhimg:s2_0c80a0585652d1682940c35ce31f9b8093e772552245603ac12be3b6a76fb453, lhimg:s2_138070ebf30b6bde9d9d99c4842a8e132de9eecedcb7c0051c609ab1c69ffd80 ;
+	lhs:imgIntegrity "sha256:275f9ada9e7bb0115e4af67ed28b9ef5c90396a7f844d30612e8daf893084719"^^xsd:string ;
+	lhs:imgLocation
+		lhimg:s2_0c80a0585652d1682940c35ce31f9b8093e772552245603ac12be3b6a76fb453 ,
+		lhimg:s2_138070ebf30b6bde9d9d99c4842a8e132de9eecedcb7c0051c609ab1c69ffd80
+		;
 	lhs:imgWidth "3456"^^xsd:integer ;
-	rdf:type lhs:ImageType ;
-	rdfs:label "Hunter-Moon 2023.115.401" .
-lhtype:Hunter-Moon_2023.115.688 
+	.
+
+lhtype:Hunter-Moon_2023.115.688
+	a lhs:ImageType ;
+	rdfs:label "Hunter-Moon 2023.115.688"^^xsd:string ;
 	lhs:depictsEvent lcwearev:s384_480ec1950c62e0f315b09fea3422594af11f0b44fe7f833c2609cefd3ce133ce0ee1c75cf076534d865ae93395b5c098 ;
 	lhs:imgHeight "3264"^^xsd:integer ;
-	lhs:imgIntegrity "sha256:066eef1269f4a585eadf08541db08fa24e44a1016682fd138cdd3b31f3aef109" ;
-	lhs:imgLocation lhimg:s2_5044f55329a2607c704c79b9ffe13f29dee8f56e44549fb68d4f6129f4f38e07, lhimg:s2_dc79bd9ad9b96f3e4fa3c051b0cbd286faa3d781df77d949142f060e30ef52c5 ;
+	lhs:imgIntegrity "sha256:066eef1269f4a585eadf08541db08fa24e44a1016682fd138cdd3b31f3aef109"^^xsd:string ;
+	lhs:imgLocation
+		lhimg:s2_5044f55329a2607c704c79b9ffe13f29dee8f56e44549fb68d4f6129f4f38e07 ,
+		lhimg:s2_dc79bd9ad9b96f3e4fa3c051b0cbd286faa3d781df77d949142f060e30ef52c5
+		;
 	lhs:imgWidth "2176"^^xsd:integer ;
-	rdf:type lhs:ImageType ;
-	rdfs:label "Hunter-Moon 2023.115.688" .
-lhtype:Hunter-Moon_2023.115.923 
+	.
+
+lhtype:Hunter-Moon_2023.115.923
+	a lhs:ImageType ;
+	rdfs:label "Hunter-Moon 2023.115.923"^^xsd:string ;
 	lhs:depictsEvent lcwearev:s384_e8e4de66bc296e599a6f3d20489a4788373e939580d8c4dfb0c2a9bfc24fbbc763b3b1ed7e5fec86d471b4d9d985e002 ;
 	lhs:imgHeight "1776"^^xsd:integer ;
-	lhs:imgIntegrity "sha256:963291e6f1b231025a1315ff99ed79e2333436f4978f0133ffb9407846406f03" ;
-	lhs:imgLocation lhimg:s2_2f474386cc0ac79e4286fb5c7cb97d0f4335a11db24cb07234c7317cb4a100e2, lhimg:s2_70e920b483260eb4721bedd40e4676c10096eb3c9b5e7b8c0ad2cc5b3bb0af70 ;
+	lhs:imgIntegrity "sha256:963291e6f1b231025a1315ff99ed79e2333436f4978f0133ffb9407846406f03"^^xsd:string ;
+	lhs:imgLocation
+		lhimg:s2_2f474386cc0ac79e4286fb5c7cb97d0f4335a11db24cb07234c7317cb4a100e2 ,
+		lhimg:s2_70e920b483260eb4721bedd40e4676c10096eb3c9b5e7b8c0ad2cc5b3bb0af70
+		;
 	lhs:imgWidth "1184"^^xsd:integer ;
-	rdf:type lhs:ImageType ;
-	rdfs:label "Hunter-Moon 2023.115.923" .
-lhtype:Juliana_2023.501.4871 
+	.
+
+lhtype:Juliana_2023.501.4871
+	a lhs:ImageType ;
+	rdfs:label "Juliana 2023.501.4871"^^xsd:string ;
 	lhs:depictsEvent lcwearev:s384_f245233b03de01676d50b77f84f36287bcff46aeab034a7b6a70cd86b824f965d789cf15ad598935c31ddf8d99f358a4 ;
 	lhs:imgHeight "3088"^^xsd:integer ;
-	lhs:imgIntegrity "sha256:2507e6feb4683cfb225e56638859eb71fff9d701ac7a8908e2274c9b2493699a" ;
-	lhs:imgLocation lhimg:s2_6e6e39d2231efff6d4b1a08788620638ca9f4c4000c4e694d7b87d991c9c7b25, lhimg:s2_a599bc56da046d2f52db26382e4c9f06caa69dfa619c498e82e4d9145f8a9c29 ;
+	lhs:imgIntegrity "sha256:2507e6feb4683cfb225e56638859eb71fff9d701ac7a8908e2274c9b2493699a"^^xsd:string ;
+	lhs:imgLocation
+		lhimg:s2_6e6e39d2231efff6d4b1a08788620638ca9f4c4000c4e694d7b87d991c9c7b25 ,
+		lhimg:s2_a599bc56da046d2f52db26382e4c9f06caa69dfa619c498e82e4d9145f8a9c29
+		;
 	lhs:imgWidth "2316"^^xsd:integer ;
-	rdf:type lhs:ImageType ;
-	rdfs:label "Juliana 2023.501.4871" .
-lhtype:Juliana_2023.501.4880 
+	.
+
+lhtype:Juliana_2023.501.4880
+	a lhs:ImageType ;
+	rdfs:label "Juliana 2023.501.4880"^^xsd:string ;
 	lhs:depictsEvent lcwearev:s384_a1c61ffea0fcc68c17a69251ce89733787ae3437730a38fe26ed3b7d9ce720b73f89dc72b03f2f2fe51c795f626e7fc2 ;
 	lhs:imgHeight "3088"^^xsd:integer ;
-	lhs:imgIntegrity "sha256:58dd7e05316d46c6219cfcb678572c26a1f19384d9b4ef52ec77da13d9e939fb" ;
-	lhs:imgLocation lhimg:s2_05f873cceef5ad88c3dae09885c0f72ba61e5faea8c91652f5a79ab22216d31d, lhimg:s2_4a54a96530ab45b567f2bb2cb22408d67c1cc511a0b4c709feb060e355263aec ;
+	lhs:imgIntegrity "sha256:58dd7e05316d46c6219cfcb678572c26a1f19384d9b4ef52ec77da13d9e939fb"^^xsd:string ;
+	lhs:imgLocation
+		lhimg:s2_05f873cceef5ad88c3dae09885c0f72ba61e5faea8c91652f5a79ab22216d31d ,
+		lhimg:s2_4a54a96530ab45b567f2bb2cb22408d67c1cc511a0b4c709feb060e355263aec
+		;
 	lhs:imgWidth "2316"^^xsd:integer ;
-	rdf:type lhs:ImageType ;
-	rdfs:label "Juliana 2023.501.4880" .
-lhtype:Juliana_2023.501.4930 
+	.
+
+lhtype:Juliana_2023.501.4930
+	a lhs:ImageType ;
+	rdfs:label "Juliana 2023.501.4930"^^xsd:string ;
 	lhs:depictsEvent lcwearev:s384_44db2d6218bcb38bb51646e86692858942f5abd2882fe561cb9fa50bb64a3d349e8fc40eecda2669157ee889f6fe7193 ;
 	lhs:imgHeight "3088"^^xsd:integer ;
-	lhs:imgIntegrity "sha256:630f728ba214b482c2a7536501038165d1c1e8ddf5089a157814bc3eb94324be" ;
-	lhs:imgLocation lhimg:s2_4a1a63bbf10663c8fe8ad4a829de5dd2c3c97d00d0698aca68e4bce117347583, lhimg:s2_fac1dc564adcfc4746019a837ff8b69326a6d2507b0b6a4550a879721a86dc12 ;
+	lhs:imgIntegrity "sha256:630f728ba214b482c2a7536501038165d1c1e8ddf5089a157814bc3eb94324be"^^xsd:string ;
+	lhs:imgLocation
+		lhimg:s2_4a1a63bbf10663c8fe8ad4a829de5dd2c3c97d00d0698aca68e4bce117347583 ,
+		lhimg:s2_fac1dc564adcfc4746019a837ff8b69326a6d2507b0b6a4550a879721a86dc12
+		;
 	lhs:imgWidth "2316"^^xsd:integer ;
-	rdf:type lhs:ImageType ;
-	rdfs:label "Juliana 2023.501.4930" .
-lhtype:Juliana_2023.501.4937 
+	.
+
+lhtype:Juliana_2023.501.4937
+	a lhs:ImageType ;
+	rdfs:label "Juliana 2023.501.4937"^^xsd:string ;
 	lhs:depictsEvent lcwearev:s384_102697e2b6b7e6b135cbeafe20006a39509c01b50f47db43c5db2855ebf1aaf91ae330c341379c8bbce01e25d3430a58 ;
 	lhs:imgHeight "3088"^^xsd:integer ;
-	lhs:imgIntegrity "sha256:90041e59149cfd9bb57792f2e0aac1a851c507b00aa0048cdfe4037220a95a21" ;
-	lhs:imgLocation lhimg:s2_054b39ae72b15b6bd5c5b24afe48d67303b062aee149ce3da53e53a77326adbb, lhimg:s2_7cc948504faf749bf2b7e7e0482817e858258d2c851000ba79339fd53e0b2429 ;
+	lhs:imgIntegrity "sha256:90041e59149cfd9bb57792f2e0aac1a851c507b00aa0048cdfe4037220a95a21"^^xsd:string ;
+	lhs:imgLocation
+		lhimg:s2_054b39ae72b15b6bd5c5b24afe48d67303b062aee149ce3da53e53a77326adbb ,
+		lhimg:s2_7cc948504faf749bf2b7e7e0482817e858258d2c851000ba79339fd53e0b2429
+		;
 	lhs:imgWidth "2316"^^xsd:integer ;
-	rdf:type lhs:ImageType ;
-	rdfs:label "Juliana 2023.501.4937" .
-lhtype:Mantori_2023.531.1321 
+	.
+
+lhtype:Mantori_2023.531.1321
+	a lhs:ImageType ;
+	rdfs:label "Mantori 2023.531.1321"^^xsd:string ;
 	lhs:depictsEvent lcwearev:s384_686ae19c3209fd1829a569850da02896e1014f355fe72cd061c68fd9ee24b17831cc7253d5204661bc0342847d7f0304 ;
 	lhs:imgHeight "4000"^^xsd:integer ;
-	lhs:imgIntegrity "sha256:98330235abd42fdd5ebb2f6c823b21fac2d5b2cfa7637bb9e00862be2c64e020" ;
-	lhs:imgLocation lhimg:s2_44c6804d98bc219d658b501eed76c36853e3e6b83521bc84bc3e122fca88e98e, lhimg:s2_dddf5fc5591b3508b0edc2bc7fc433f271fd3bc85e0166239455535c745d64c6 ;
+	lhs:imgIntegrity "sha256:98330235abd42fdd5ebb2f6c823b21fac2d5b2cfa7637bb9e00862be2c64e020"^^xsd:string ;
+	lhs:imgLocation
+		lhimg:s2_44c6804d98bc219d658b501eed76c36853e3e6b83521bc84bc3e122fca88e98e ,
+		lhimg:s2_dddf5fc5591b3508b0edc2bc7fc433f271fd3bc85e0166239455535c745d64c6
+		;
 	lhs:imgWidth "2667"^^xsd:integer ;
-	rdf:type lhs:ImageType ;
-	rdfs:label "Mantori 2023.531.1321" .
-lhtype:Mantori_2023.531.1495 
+	.
+
+lhtype:Mantori_2023.531.1495
+	a lhs:ImageType ;
+	rdfs:label "Mantori 2023.531.1495"^^xsd:string ;
 	lhs:depictsEvent lcwearev:s384_9bc9ed8b7f0a99b4376c182e2e38c3e71c5dcadb5eeca7d1cab6e2ffaeb7a1cc4e1d87d5f7e6d78820f39856911f64f2 ;
 	lhs:imgHeight "4000"^^xsd:integer ;
-	lhs:imgIntegrity "sha256:562585e06be5343e4b9d12d0b2b569851c9e034801b858a17c0d9570c2c10b52" ;
-	lhs:imgLocation lhimg:s2_5935d48df5d4810ed023509b2c83740f6735afb605aca2f6dde230cc8aaf0717, lhimg:s2_b3e1862f675e9e60d256937f4c9acb4deb6f5fe1cab1158f27361e52fefb4ddc ;
+	lhs:imgIntegrity "sha256:562585e06be5343e4b9d12d0b2b569851c9e034801b858a17c0d9570c2c10b52"^^xsd:string ;
+	lhs:imgLocation
+		lhimg:s2_5935d48df5d4810ed023509b2c83740f6735afb605aca2f6dde230cc8aaf0717 ,
+		lhimg:s2_b3e1862f675e9e60d256937f4c9acb4deb6f5fe1cab1158f27361e52fefb4ddc
+		;
 	lhs:imgWidth "2667"^^xsd:integer ;
-	rdf:type lhs:ImageType ;
-	rdfs:label "Mantori 2023.531.1495" .
-lhtype:Mantori_2023.531.2356 
+	.
+
+lhtype:Mantori_2023.531.2356
+	a lhs:ImageType ;
+	rdfs:label "Mantori 2023.531.2356"^^xsd:string ;
 	lhs:depictsEvent lcwearev:s384_97f978093b2c8dc1dfe0a53d023a4b915ff50d90d3d5e6e952a85d19a4a4837b7daa6608b9d93f3857f5af8912172776 ;
 	lhs:imgHeight "4000"^^xsd:integer ;
-	lhs:imgIntegrity "sha256:058f2754f5aeebf4293e95fdf15ffa4bc105acec1259e286f5d68a60111bc0be" ;
-	lhs:imgLocation lhimg:s2_1b070ec9314103b111844a0936a82e45f794d9ba529486ab9efda7087356a0d8, lhimg:s2_7fffb756aa24a6d8863cfc6616d00aa90f0728f423b844fe1ca0bf48aa253f07 ;
+	lhs:imgIntegrity "sha256:058f2754f5aeebf4293e95fdf15ffa4bc105acec1259e286f5d68a60111bc0be"^^xsd:string ;
+	lhs:imgLocation
+		lhimg:s2_1b070ec9314103b111844a0936a82e45f794d9ba529486ab9efda7087356a0d8 ,
+		lhimg:s2_7fffb756aa24a6d8863cfc6616d00aa90f0728f423b844fe1ca0bf48aa253f07
+		;
 	lhs:imgWidth "2667"^^xsd:integer ;
-	rdf:type lhs:ImageType ;
-	rdfs:label "Mantori 2023.531.2356" .
-lhtype:Manuela_2023.150.4290 
+	.
+
+lhtype:Manuela_2023.150.4290
+	a lhs:ImageType ;
+	rdfs:label "Manuela 2023.150.4290"^^xsd:string ;
 	lhs:depictsEvent lcwearev:s384_7dfe6e75b6e90d390303610cb77012dfafd3eac9b00472bbbc37a23ff7716e2080f0ebd317b54344d46456070bc34905 ;
 	lhs:imgHeight "3772"^^xsd:integer ;
-	lhs:imgIntegrity "sha256:13124b7b8b8b68bac1bb1dd0e55ead47cae52e3d3670ed6da5318616b2402f27" ;
-	lhs:imgLocation lhimg:s2_34bdccd200617b19979f131cdabd5023effda0d02cf09c962442a94e62f0f8e9, lhimg:s2_760d6caf7baf4f77beb54cbe4e31356d10105eeb75e05bf392b6ba9113af340c ;
+	lhs:imgIntegrity "sha256:13124b7b8b8b68bac1bb1dd0e55ead47cae52e3d3670ed6da5318616b2402f27"^^xsd:string ;
+	lhs:imgLocation
+		lhimg:s2_34bdccd200617b19979f131cdabd5023effda0d02cf09c962442a94e62f0f8e9 ,
+		lhimg:s2_760d6caf7baf4f77beb54cbe4e31356d10105eeb75e05bf392b6ba9113af340c
+		;
 	lhs:imgWidth "2574"^^xsd:integer ;
-	rdf:type lhs:ImageType ;
-	rdfs:label "Manuela 2023.150.4290" .
-lhtype:Manuela_2023.150.5167 
+	.
+
+lhtype:Manuela_2023.150.5167
+	a lhs:ImageType ;
+	rdfs:label "Manuela 2023.150.5167"^^xsd:string ;
 	lhs:depictsEvent lcwearev:s384_7a06a17369016104e8c96d8de0d44fbd1007cdbbaafb6f27a4d352d98782e30de2e2a3e322b10dc4c81bba39f03510de ;
 	lhs:imgHeight "3683"^^xsd:integer ;
-	lhs:imgIntegrity "sha256:0c20c1f785c73cb591a04b6c437401769bcdb3b820a56e2f583d8e64a4cea6bd" ;
-	lhs:imgLocation lhimg:s2_4bc93e9f440ceaabd95eac0d17a7ff5c933f29fa7fa1f2a78e49fe76882b6952, lhimg:s2_fb743ef22ed515d628e727d349ece33377534f080a4beeebf19bfc88fb8fdc5c ;
+	lhs:imgIntegrity "sha256:0c20c1f785c73cb591a04b6c437401769bcdb3b820a56e2f583d8e64a4cea6bd"^^xsd:string ;
+	lhs:imgLocation
+		lhimg:s2_4bc93e9f440ceaabd95eac0d17a7ff5c933f29fa7fa1f2a78e49fe76882b6952 ,
+		lhimg:s2_fb743ef22ed515d628e727d349ece33377534f080a4beeebf19bfc88fb8fdc5c
+		;
 	lhs:imgWidth "2762"^^xsd:integer ;
-	rdf:type lhs:ImageType ;
-	rdfs:label "Manuela 2023.150.5167" .
-lhtype:Manuela_2023.150.6738 
+	.
+
+lhtype:Manuela_2023.150.6738
+	a lhs:ImageType ;
+	rdfs:label "Manuela 2023.150.6738"^^xsd:string ;
 	lhs:depictsEvent lcwearev:s384_49e295c8bc0664b8e5a78465932dde01498a214a2d35f4b84f81619079ce38a9d2593a72b491dda570e6e9496c8c3492 ;
 	lhs:imgHeight "3057"^^xsd:integer ;
-	lhs:imgIntegrity "sha256:23e564dc30e656bfe788102338d8059a61ccffdf65b9372f4b8c17b1242f950b" ;
-	lhs:imgLocation lhimg:s2_2ec5f8ecb4a487dc4e0a6177b29cc4e8cf1cb84dd98ac7d99626b3628cd5fe3f, lhimg:s2_c2a0d1ac0726a31d752c1754c7af840567fd46077627fa91dd92f30468b9fd57 ;
+	lhs:imgIntegrity "sha256:23e564dc30e656bfe788102338d8059a61ccffdf65b9372f4b8c17b1242f950b"^^xsd:string ;
+	lhs:imgLocation
+		lhimg:s2_2ec5f8ecb4a487dc4e0a6177b29cc4e8cf1cb84dd98ac7d99626b3628cd5fe3f ,
+		lhimg:s2_c2a0d1ac0726a31d752c1754c7af840567fd46077627fa91dd92f30468b9fd57
+		;
 	lhs:imgWidth "2456"^^xsd:integer ;
-	rdf:type lhs:ImageType ;
-	rdfs:label "Manuela 2023.150.6738" .
-lhtype:Newbery_2023.158.3048 
+	.
+
+lhtype:Newbery_2023.158.3048
+	a lhs:ImageType ;
+	rdfs:label "Newbery 2023.158.3048"^^xsd:string ;
 	lhs:depictsEvent lcwearev:s384_458898a8cc2710675048ac86510d03ccf408487c844edd0f058b2e677e522b8c36992b637b19fbda05c1d6540507591e ;
 	lhs:imgHeight "4032"^^xsd:integer ;
-	lhs:imgIntegrity "sha256:74dd5bd51df906fd4c314b8405e152116091354741419b6664adfecd4258476d" ;
-	lhs:imgLocation lhimg:s2_19d2f27fec925265fba9ed978bab403640e65b93921a0d6b7af9de18fcb3ee78, lhimg:s2_4a2fd4c1845bdc8d383a9e80d63758ece694b5fa27505936ffa89eae6d0c3bc9 ;
+	lhs:imgIntegrity "sha256:74dd5bd51df906fd4c314b8405e152116091354741419b6664adfecd4258476d"^^xsd:string ;
+	lhs:imgLocation
+		lhimg:s2_19d2f27fec925265fba9ed978bab403640e65b93921a0d6b7af9de18fcb3ee78 ,
+		lhimg:s2_4a2fd4c1845bdc8d383a9e80d63758ece694b5fa27505936ffa89eae6d0c3bc9
+		;
 	lhs:imgWidth "3024"^^xsd:integer ;
-	rdf:type lhs:ImageType ;
-	rdfs:label "Newbery 2023.158.3048" .
-lhtype:Newbery_2023.158.3663 
+	.
+
+lhtype:Newbery_2023.158.3663
+	a lhs:ImageType ;
+	rdfs:label "Newbery 2023.158.3663"^^xsd:string ;
 	lhs:depictsEvent lcwearev:s384_b779920864d9b1171420799924f53346b0aaf18f8030b9448bc2563fa75bf5dc3f08c0aac3237781805f5e956976e913 ;
 	lhs:imgHeight "4032"^^xsd:integer ;
-	lhs:imgIntegrity "sha256:43d0d5dd643c989ac6d974ecd5310376118677b9da9144715984871a571c7577" ;
-	lhs:imgLocation lhimg:s2_751171302ab9958f55775e9ff5b5fe6b70d745f9058cf58ddd1922512f02a7bb, lhimg:s2_ae6331ca0d6a33fbc192d597fbdb83524767ac7046634eb321fa24ab17e3957f ;
+	lhs:imgIntegrity "sha256:43d0d5dd643c989ac6d974ecd5310376118677b9da9144715984871a571c7577"^^xsd:string ;
+	lhs:imgLocation
+		lhimg:s2_751171302ab9958f55775e9ff5b5fe6b70d745f9058cf58ddd1922512f02a7bb ,
+		lhimg:s2_ae6331ca0d6a33fbc192d597fbdb83524767ac7046634eb321fa24ab17e3957f
+		;
 	lhs:imgWidth "3024"^^xsd:integer ;
-	rdf:type lhs:ImageType ;
-	rdfs:label "Newbery 2023.158.3663" .
-lhtype:Oliwia_2023.76.1150 
+	.
+
+lhtype:Oliwia_2023.76.1150
+	a lhs:ImageType ;
+	rdfs:label "Oliwia 2023.76.1150"^^xsd:string ;
 	lhs:depictsEvent lcwearev:s384_82d05cb650af3f6be61f2cfe13a15c2b8ef809bebb9c991caa5a331f198edac1be6317fb50913c63f8b5140bc2fe3eaa ;
 	lhs:imgHeight "4032"^^xsd:integer ;
-	lhs:imgIntegrity "sha256:6cdc5a9feb6210fbfb5d4fc92084cd875df54d163140d19a183d02883168f217" ;
-	lhs:imgLocation lhimg:s2_b095ea9144d238629fe94c41284d72d87d95744344fa07368703fa010e3be161, lhimg:s2_f87945455477bcb5011dfbea9246a2ffbda8e3f13b32108b6a9bb78268a5e637 ;
+	lhs:imgIntegrity "sha256:6cdc5a9feb6210fbfb5d4fc92084cd875df54d163140d19a183d02883168f217"^^xsd:string ;
+	lhs:imgLocation
+		lhimg:s2_b095ea9144d238629fe94c41284d72d87d95744344fa07368703fa010e3be161 ,
+		lhimg:s2_f87945455477bcb5011dfbea9246a2ffbda8e3f13b32108b6a9bb78268a5e637
+		;
 	lhs:imgWidth "3024"^^xsd:integer ;
-	rdf:type lhs:ImageType ;
-	rdfs:label "Oliwia 2023.76.1150" .
-lhtype:Oliwia_2023.76.1190 
+	.
+
+lhtype:Oliwia_2023.76.1190
+	a lhs:ImageType ;
+	rdfs:label "Oliwia 2023.76.1190"^^xsd:string ;
 	lhs:depictsEvent lcwearev:s384_5a87fbfbac0be571537a6954938e9a296ac9829ead61a4f597a08fa16cdd63845aa2c4b0e00747f7a1488c86eaded606 ;
 	lhs:imgHeight "4032"^^xsd:integer ;
-	lhs:imgIntegrity "sha256:a5ddbe7b18fdc11945328a4ac17e8aa9c5df6f7d76e61fe887b2b1c6e94e63db" ;
-	lhs:imgLocation lhimg:s2_482c09c1e8d60efa1eaa029a35b47616c77f93dc66a41ffd1bfaac1cda4cb1d8, lhimg:s2_a8a75b826f04cc940cdf642b474bc06786b105864fedc719a3f591355aaba0fa ;
+	lhs:imgIntegrity "sha256:a5ddbe7b18fdc11945328a4ac17e8aa9c5df6f7d76e61fe887b2b1c6e94e63db"^^xsd:string ;
+	lhs:imgLocation
+		lhimg:s2_482c09c1e8d60efa1eaa029a35b47616c77f93dc66a41ffd1bfaac1cda4cb1d8 ,
+		lhimg:s2_a8a75b826f04cc940cdf642b474bc06786b105864fedc719a3f591355aaba0fa
+		;
 	lhs:imgWidth "3024"^^xsd:integer ;
-	rdf:type lhs:ImageType ;
-	rdfs:label "Oliwia 2023.76.1190" .
-lhtype:Oliwia_2023.76.1415 
+	.
+
+lhtype:Oliwia_2023.76.1415
+	a lhs:ImageType ;
+	rdfs:label "Oliwia 2023.76.1415"^^xsd:string ;
 	lhs:depictsEvent lcwearev:s384_f067166533e6978d257002688e3d1bc01514dccf91b78e21c878aa50ec21298930da61351a4705de961b5a65c767f91a ;
 	lhs:imgHeight "4032"^^xsd:integer ;
-	lhs:imgIntegrity "sha256:46a2561e68111316d057e196de07df1a840f8bf583e4fdb1142fefa1f2cc62ab" ;
-	lhs:imgLocation lhimg:s2_23db139a8ea4b320b133346d691b52ea0a3addde28acf41633dd2e2eceeb89e3, lhimg:s2_9d0881e4219ba22521c53a01debe0d228b82699e20425ad1637115b44896cb80 ;
+	lhs:imgIntegrity "sha256:46a2561e68111316d057e196de07df1a840f8bf583e4fdb1142fefa1f2cc62ab"^^xsd:string ;
+	lhs:imgLocation
+		lhimg:s2_23db139a8ea4b320b133346d691b52ea0a3addde28acf41633dd2e2eceeb89e3 ,
+		lhimg:s2_9d0881e4219ba22521c53a01debe0d228b82699e20425ad1637115b44896cb80
+		;
 	lhs:imgWidth "3024"^^xsd:integer ;
-	rdf:type lhs:ImageType ;
-	rdfs:label "Oliwia 2023.76.1415" .
-lhtype:Plett_2023.15.4029 
+	.
+
+lhtype:Plett_2023.15.4029
+	a lhs:ImageType ;
+	rdfs:label "Plett 2023.15.4029"^^xsd:string ;
 	lhs:depictsEvent lcwearev:s384_57a098e1bfee41da87c57d53a2903cd25ccd9ef165322fbb44d1e1cece22cb9e59703b726687694192a7b6e8e3aa3bb8 ;
 	lhs:imgHeight "5452"^^xsd:integer ;
-	lhs:imgIntegrity "sha256:a9a00ae912bf01b88327cc85c35c9554ceb49cda4ab558dadcf749b33811103f" ;
-	lhs:imgLocation lhimg:s2_0cab0679cd6acfabcacf9e66742a55cd547965a3ea4a19ee8fc38801f90bf16e, lhimg:s2_9f333197582d6f878b56585dd77da1eaf83c5684338491a40d7a591b7410e393 ;
+	lhs:imgIntegrity "sha256:a9a00ae912bf01b88327cc85c35c9554ceb49cda4ab558dadcf749b33811103f"^^xsd:string ;
+	lhs:imgLocation
+		lhimg:s2_0cab0679cd6acfabcacf9e66742a55cd547965a3ea4a19ee8fc38801f90bf16e ,
+		lhimg:s2_9f333197582d6f878b56585dd77da1eaf83c5684338491a40d7a591b7410e393
+		;
 	lhs:imgWidth "3635"^^xsd:integer ;
-	rdf:type lhs:ImageType ;
-	rdfs:label "Plett 2023.15.4029" .
-lhtype:Plett_2023.15.9309 
+	.
+
+lhtype:Plett_2023.15.9309
+	a lhs:ImageType ;
+	rdfs:label "Plett 2023.15.9309"^^xsd:string ;
 	lhs:depictsEvent lcwearev:s384_1c52b2c4eb2fd6b23002723639a16952618a85cdf63cf1660a828f966d01079005d4d987e90bfcb955d3bae770b58346 ;
 	lhs:imgHeight "4000"^^xsd:integer ;
-	lhs:imgIntegrity "sha256:4845e0ef272a026b75de68123afa57df91ccec07671040d712176e250f635401" ;
-	lhs:imgLocation lhimg:s2_30f736368cf0f2a725bae29ddf80529dfdf36cbd5c61d6316b079fff153d4e8f, lhimg:s2_da1461547aaffeebf17ae8a12fcf701eacc4e2e86dbaf54e1d3400e25a95fa30 ;
+	lhs:imgIntegrity "sha256:4845e0ef272a026b75de68123afa57df91ccec07671040d712176e250f635401"^^xsd:string ;
+	lhs:imgLocation
+		lhimg:s2_30f736368cf0f2a725bae29ddf80529dfdf36cbd5c61d6316b079fff153d4e8f ,
+		lhimg:s2_da1461547aaffeebf17ae8a12fcf701eacc4e2e86dbaf54e1d3400e25a95fa30
+		;
 	lhs:imgWidth "2667"^^xsd:integer ;
-	rdf:type lhs:ImageType ;
-	rdfs:label "Plett 2023.15.9309" .
-lhtype:Plett_2023.15.9781 
+	.
+
+lhtype:Plett_2023.15.9781
+	a lhs:ImageType ;
+	rdfs:label "Plett 2023.15.9781"^^xsd:string ;
 	lhs:depictsEvent lcwearev:s384_e65c2284b42b9deb2871616c8579b07fc417c1b320c61aa8cfa0ef1a591d3a40c5f29725583bf451a6ba4965f7fdd357 ;
 	lhs:imgHeight "4000"^^xsd:integer ;
-	lhs:imgIntegrity "sha256:139038fa1f37b062b9f3b8cc3607446d5ee31e8be69965cbfa6fef0f1a73ce96" ;
-	lhs:imgLocation lhimg:s2_792e9a67575b35537078d74e08342e5f40fd25c3e5091c2cd0f7e493986fb126, lhimg:s2_b5279a7c43cbf5b5db1fec542c62375e33b1b226807512b92840ea87411e25b6 ;
+	lhs:imgIntegrity "sha256:139038fa1f37b062b9f3b8cc3607446d5ee31e8be69965cbfa6fef0f1a73ce96"^^xsd:string ;
+	lhs:imgLocation
+		lhimg:s2_792e9a67575b35537078d74e08342e5f40fd25c3e5091c2cd0f7e493986fb126 ,
+		lhimg:s2_b5279a7c43cbf5b5db1fec542c62375e33b1b226807512b92840ea87411e25b6
+		;
 	lhs:imgWidth "2667"^^xsd:integer ;
-	rdf:type lhs:ImageType ;
-	rdfs:label "Plett 2023.15.9781" .
-lhtype:Plihal_2023.5607.118 
+	.
+
+lhtype:Plihal_2023.5607.118
+	a lhs:ImageType ;
+	rdfs:label "Plihal 2023.5607.118"^^xsd:string ;
 	lhs:depictsEvent lcwearev:s384_46ccde34fba6964e554ce6bc2aba88cc70ffc40ac43ace023df102c6d709a8d5578a0026d9cf63812f91004dfa1b3fe7 ;
 	lhs:imgHeight "4032"^^xsd:integer ;
-	lhs:imgIntegrity "sha256:3a986a6d0319be5b260059a5231006a75268eeb14965079fd1458b235326cc05" ;
-	lhs:imgLocation lhimg:s2_272224dc148b62396ad4fddb9ee13cf9ce6ad8a89a2e359507e2857648b12ae4, lhimg:s2_d058913c1185c8471fe39cebe2596332b4c33e2e66c31de0a1e91c11e53ec974 ;
+	lhs:imgIntegrity "sha256:3a986a6d0319be5b260059a5231006a75268eeb14965079fd1458b235326cc05"^^xsd:string ;
+	lhs:imgLocation
+		lhimg:s2_272224dc148b62396ad4fddb9ee13cf9ce6ad8a89a2e359507e2857648b12ae4 ,
+		lhimg:s2_d058913c1185c8471fe39cebe2596332b4c33e2e66c31de0a1e91c11e53ec974
+		;
 	lhs:imgWidth "2475"^^xsd:integer ;
-	rdf:type lhs:ImageType ;
-	rdfs:label "Plihal 2023.5607.118" .
-lhtype:Plihal_2023.5607.196 
+	.
+
+lhtype:Plihal_2023.5607.196
+	a lhs:ImageType ;
+	rdfs:label "Plihal 2023.5607.196"^^xsd:string ;
 	lhs:depictsEvent lcwearev:s384_cda2b95c48e43447ec9c0875233933e254f0ebf47e50c1db4c22e04684390bcda452da9c75c0759fb2f35ce75eb82777 ;
 	lhs:imgHeight "3783"^^xsd:integer ;
-	lhs:imgIntegrity "sha256:c995b3511b1d17ceaf36f6dcbd43a3fe0c4a83cc182825feb7faf1edfd6eddfa" ;
-	lhs:imgLocation lhimg:s2_b978f5dbfc79674413a97229e5bea71a3954e25ca6bc0e15498687a1df749d61, lhimg:s2_dc8198d0255c04942798dff7c832863b103e53b9c6231117c532139bfcbfeebf ;
+	lhs:imgIntegrity "sha256:c995b3511b1d17ceaf36f6dcbd43a3fe0c4a83cc182825feb7faf1edfd6eddfa"^^xsd:string ;
+	lhs:imgLocation
+		lhimg:s2_b978f5dbfc79674413a97229e5bea71a3954e25ca6bc0e15498687a1df749d61 ,
+		lhimg:s2_dc8198d0255c04942798dff7c832863b103e53b9c6231117c532139bfcbfeebf
+		;
 	lhs:imgWidth "2534"^^xsd:integer ;
-	rdf:type lhs:ImageType ;
-	rdfs:label "Plihal 2023.5607.196" .
-lhtype:Tea_2023.150.141 
+	.
+
+lhtype:Tea_2023.150.141
+	a lhs:ImageType ;
+	rdfs:label "Tea 2023.150.141"^^xsd:string ;
 	lhs:depictsEvent lcwearev:s384_dfbef30377cd0d40a3d1785460f0c6a3f34a36b3335760457260526e4bc8f197d0a62f056fcf0bab52e8cca8e42f4bc1 ;
 	lhs:imgHeight "3314"^^xsd:integer ;
-	lhs:imgIntegrity "sha256:3d1e73380610be14ecfd8a3afb87b9295015edadd8e2ae109f6c6b0d958276de" ;
-	lhs:imgLocation lhimg:s2_a1003ce0ff415e9a8657eecc7bd46f04046c6955485bcc5f5494bd89e4611fcd, lhimg:s2_c76570933b2272c2ec27ad296cf22d2d32b53270b710ee5ff844276bd963db60 ;
+	lhs:imgIntegrity "sha256:3d1e73380610be14ecfd8a3afb87b9295015edadd8e2ae109f6c6b0d958276de"^^xsd:string ;
+	lhs:imgLocation
+		lhimg:s2_a1003ce0ff415e9a8657eecc7bd46f04046c6955485bcc5f5494bd89e4611fcd ,
+		lhimg:s2_c76570933b2272c2ec27ad296cf22d2d32b53270b710ee5ff844276bd963db60
+		;
 	lhs:imgWidth "2651"^^xsd:integer ;
-	rdf:type lhs:ImageType ;
-	rdfs:label "Tea 2023.150.141" .
-lhtype:Tea_2023.150.609 
+	.
+
+lhtype:Tea_2023.150.609
+	a lhs:ImageType ;
+	rdfs:label "Tea 2023.150.609"^^xsd:string ;
 	lhs:depictsEvent lcwearev:s384_04b0af537ec79d3b7d0a8be8b6720fb4a2aab4d51a46008182224706a9a6a2f5d05e892b73344377600fa7b99fc9d1d3 ;
 	lhs:imgHeight "3072"^^xsd:integer ;
-	lhs:imgIntegrity "sha256:b822819bdc6355348088fa840aa97fa47e9fed498ad035e0fc8fa45041b09d2f" ;
-	lhs:imgLocation lhimg:s2_84647facc20bed495397648d2dd9fd45565cd62a48cd409a1998b314a0d2fe96, lhimg:s2_cdae13c99d439d22a0e0268b616a0d3f1202da3390c79a7a1a1e0ff980259e88 ;
+	lhs:imgIntegrity "sha256:b822819bdc6355348088fa840aa97fa47e9fed498ad035e0fc8fa45041b09d2f"^^xsd:string ;
+	lhs:imgLocation
+		lhimg:s2_84647facc20bed495397648d2dd9fd45565cd62a48cd409a1998b314a0d2fe96 ,
+		lhimg:s2_cdae13c99d439d22a0e0268b616a0d3f1202da3390c79a7a1a1e0ff980259e88
+		;
 	lhs:imgWidth "2458"^^xsd:integer ;
-	rdf:type lhs:ImageType ;
-	rdfs:label "Tea 2023.150.609" .
-lhtype:Tea_2023.150.818 
+	.
+
+lhtype:Tea_2023.150.818
+	a lhs:ImageType ;
+	rdfs:label "Tea 2023.150.818"^^xsd:string ;
 	lhs:depictsEvent lcwearev:s384_ff6fb6b93141953bdc7ed8404cf0c4465f913859b025580d2f17629671059910e46743823f850ec1126b66b9cfcdd4f9 ;
 	lhs:imgHeight "3072"^^xsd:integer ;
-	lhs:imgIntegrity "sha256:114304fda84848aa2a8872e41512f0a871c67bd80eb25eafffa85d0391d3113b" ;
-	lhs:imgLocation lhimg:s2_31049a5c10b91d859912a6f75f310c248a2cc59fee1865f1a53d3e94dc90e683, lhimg:s2_4200d8671ac19c1a4e41aac9bb9f713caf2d1a5fb08ec3370e4231f1a753dfbc ;
+	lhs:imgIntegrity "sha256:114304fda84848aa2a8872e41512f0a871c67bd80eb25eafffa85d0391d3113b"^^xsd:string ;
+	lhs:imgLocation
+		lhimg:s2_31049a5c10b91d859912a6f75f310c248a2cc59fee1865f1a53d3e94dc90e683 ,
+		lhimg:s2_4200d8671ac19c1a4e41aac9bb9f713caf2d1a5fb08ec3370e4231f1a753dfbc
+		;
 	lhs:imgWidth "2458"^^xsd:integer ;
-	rdf:type lhs:ImageType ;
-	rdfs:label "Tea 2023.150.818" .
+	.
+
