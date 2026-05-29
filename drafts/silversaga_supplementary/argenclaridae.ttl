@@ -1378,6 +1378,7 @@ lcperson:Alex_Begin
 		lhs:Person ,
 		foaf:Person
 		;
+	rdfs:label "Alex Begin"^^xsd:string ;
 	lhs:personAbbreviation "Alex.B."^^xsd:string ;
 	foaf:name "Alex Begin"^^xsd:string ;
 	.
@@ -1387,6 +1388,7 @@ lcperson:Alexis_Wright
 		lhs:Person ,
 		foaf:Person
 		;
+	rdfs:label "Alexis Wright"^^xsd:string ;
 	lhs:personAbbreviation "Alexis.Wr."^^xsd:string ;
 	foaf:name "Alexis Wright"^^xsd:string ;
 	.
@@ -1396,6 +1398,7 @@ lcperson:Bethany_Lynne
 		lhs:Person ,
 		foaf:Person
 		;
+	rdfs:label "Bethany Lynne"^^xsd:string ;
 	lhs:personAbbreviation "Bethany.L."^^xsd:string ;
 	foaf:name "Bethany Lynne"^^xsd:string ;
 	.
@@ -1405,6 +1408,7 @@ lcperson:Caitlin.D._
 		lhs:Person ,
 		foaf:Person
 		;
+	rdfs:label "Caitlin.D."^^xsd:string ;
 	lhs:personAbbreviation "Caitlin.D."^^xsd:string ;
 	foaf:name "Caitlin.D."^^xsd:string ;
 	.
@@ -1414,6 +1418,7 @@ lcperson:E._Grace_Jones
 		lhs:Person ,
 		foaf:Person
 		;
+	rdfs:label "E. Grace Jones"^^xsd:string ;
 	lhs:personAbbreviation "E.Grace.J."^^xsd:string ;
 	foaf:name "E. Grace Jones"^^xsd:string ;
 	.
@@ -1423,6 +1428,7 @@ lcperson:Elizabeth_Baumgart
 		lhs:Person ,
 		foaf:Person
 		;
+	rdfs:label "Elizabeth Baumgart"^^xsd:string ;
 	lhs:personAbbreviation "Eliz.B."^^xsd:string ;
 	foaf:name "Elizabeth Baumgart"^^xsd:string ;
 	.
@@ -1432,6 +1438,7 @@ lcperson:Emily_Hetherington
 		lhs:Person ,
 		foaf:Person
 		;
+	rdfs:label "Emily Hetherington"^^xsd:string ;
 	lhs:personAbbreviation "E.Heth."^^xsd:string ;
 	foaf:name "Emily Hetherington"^^xsd:string ;
 	.
@@ -1441,6 +1448,7 @@ lcperson:Fena_Tandriarto
 		lhs:Person ,
 		foaf:Person
 		;
+	rdfs:label "Fena Tandriarto"^^xsd:string ;
 	lhs:personAbbreviation "Fena.T."^^xsd:string ;
 	foaf:name "Fena Tandriarto"^^xsd:string ;
 	.
@@ -1450,6 +1458,7 @@ lcperson:Jessa_Jones
 		lhs:Person ,
 		foaf:Person
 		;
+	rdfs:label "Jessa Jones"^^xsd:string ;
 	lhs:personAbbreviation "Jessa.J."^^xsd:string ;
 	foaf:name "Jessa Jones"^^xsd:string ;
 	.
@@ -1459,6 +1468,7 @@ lcperson:Kate_Eva
 		lhs:Person ,
 		foaf:Person
 		;
+	rdfs:label "Kate Eva"^^xsd:string ;
 	lhs:personAbbreviation "Eva"^^xsd:string ;
 	foaf:name "Kate Eva"^^xsd:string ;
 	.
@@ -1468,6 +1478,7 @@ lcperson:Katie_Hunter-Moon
 		lhs:Person ,
 		foaf:Person
 		;
+	rdfs:label "Katie Hunter-Moon"^^xsd:string ;
 	lhs:personAbbreviation "Hunter-Moon"^^xsd:string ;
 	foaf:name "Katie Hunter-Moon"^^xsd:string ;
 	.
@@ -1477,6 +1488,7 @@ lcperson:Lacy_Wilhoit
 		lhs:Person ,
 		foaf:Person
 		;
+	rdfs:label "Lacy Wilhoit"^^xsd:string ;
 	lhs:personAbbreviation "Lacy.W."^^xsd:string ;
 	foaf:name "Lacy Wilhoit"^^xsd:string ;
 	.
@@ -1486,6 +1498,7 @@ lcperson:Mackenzie_Morgan
 		lhs:Person ,
 		foaf:Person
 		;
+	rdfs:label "Mackenzie Morgan"^^xsd:string ;
 	lhs:personAbbreviation "Mackenzie.M."^^xsd:string ;
 	foaf:name "Mackenzie Morgan"^^xsd:string ;
 	.
@@ -1495,6 +1508,7 @@ lcperson:Mai_Vang
 		lhs:Person ,
 		foaf:Person
 		;
+	rdfs:label "Mai Vang"^^xsd:string ;
 	lhs:personAbbreviation "Mai"^^xsd:string ;
 	foaf:name "Mai Vang"^^xsd:string ;
 	.
@@ -1504,6 +1518,7 @@ lcperson:Malin_Stara
 		lhs:Person ,
 		foaf:Person
 		;
+	rdfs:label "Malin Stara"^^xsd:string ;
 	lhs:personAbbreviation "Malin.S."^^xsd:string ;
 	foaf:name "Malin Stara"^^xsd:string ;
 	.
@@ -1513,6 +1528,7 @@ lcperson:Marta_Tortajada
 		lhs:Person ,
 		foaf:Person
 		;
+	rdfs:label "Marta Tortajada"^^xsd:string ;
 	lhs:personAbbreviation "Marta.T."^^xsd:string ;
 	foaf:name "Marta Tortajada"^^xsd:string ;
 	.
@@ -1522,6 +1538,7 @@ lcperson:Mel_Tesch
 		lhs:Person ,
 		foaf:Person
 		;
+	rdfs:label "Mel Tesch"^^xsd:string ;
 	lhs:personAbbreviation "Mel.T."^^xsd:string ;
 	foaf:name "Mel Tesch"^^xsd:string ;
 	.
@@ -1531,6 +1548,7 @@ lcperson:Piola
 		lhs:Person ,
 		foaf:Person
 		;
+	rdfs:label "Piola"^^xsd:string ;
 	lhs:personAbbreviation "Piola"^^xsd:string ;
 	foaf:name "Piola"^^xsd:string ;
 	.
@@ -1540,6 +1558,7 @@ lcperson:Suna_Mantori
 		lhs:Person ,
 		foaf:Person
 		;
+	rdfs:label "Suna Mantori"^^xsd:string ;
 	lhs:personAbbreviation "Suna.M."^^xsd:string ;
 	foaf:name "Suna Mantori"^^xsd:string ;
 	.
@@ -1549,6 +1568,7 @@ lcperson:Theresa_Neef
 		lhs:Person ,
 		foaf:Person
 		;
+	rdfs:label "Theresa Neef"^^xsd:string ;
 	lhs:personAbbreviation "Theresa.N."^^xsd:string ;
 	foaf:name "Theresa Neef"^^xsd:string ;
 	.

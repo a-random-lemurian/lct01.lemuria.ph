@@ -13,12 +13,12 @@
 @prefix xml: <http://www.w3.org/XML/1998/namespace> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-lcdescev:s384_0293153ebc1bd6a3f0ce47f92e06fe53ebc96435aac5eba250b4c6d3b2a51a01a90fd4f2d04068af979993541ff4d85f
+lcdescev:s384_24e0687f9f3a88113287e56747524c2c9c402217b2385984194529acf1afc3892700e271c2dab24e5e93c08f58faa7ab
 	a "lhs:DescriptionEvent"^^xsd:string ;
 	lhs:describerAuthorityString "Lemuria, 2026"^^xsd:string ;
 	.
 
-lcdescev:s384_24e0687f9f3a88113287e56747524c2c9c402217b2385984194529acf1afc3892700e271c2dab24e5e93c08f58faa7ab
+lcdescev:s384_2764d47714fa26d8bc9743428536412d9f0d1ce0f23453814863b0e35bf34fba79dbc271c83a08c7deb729468f889053
 	a "lhs:DescriptionEvent"^^xsd:string ;
 	lhs:describerAuthorityString "Lemuria, 2026"^^xsd:string ;
 	.
@@ -137,6 +137,13 @@ lcwearev:s384_1c52b2c4eb2fd6b23002723639a16952618a85cdf63cf1660a828f966d01079005
 	lhs:wornYear "2023"^^xsd:integer ;
 	.
 
+lcwearev:s384_41c7c3fbe8d3d184ef5fdb21064cfe412d9e79facc96c802cbcd4f48f03f3801a0e2203f833ec5d78d479b3e016d83f6
+	a lhs:WearEvent ;
+	lhs:taxonWorn lctax:Julietta_sunae ;
+	lhs:wornBy lcperson:Suna_Mantori ;
+	lhs:wornYear "2023"^^xsd:integer ;
+	.
+
 lcwearev:s384_44db2d6218bcb38bb51646e86692858942f5abd2882fe561cb9fa50bb64a3d349e8fc40eecda2669157ee889f6fe7193
 	a lhs:WearEvent ;
 	lhs:taxonWorn lctax:Julietta_julianae ;
@@ -193,12 +200,6 @@ lcwearev:s384_65ee40e386c5b99c404796f402bc9674be9617c7daa90e1f740cee5b584f725442
 	lhs:wornYear "2023"^^xsd:integer ;
 	.
 
-lcwearev:s384_686ae19c3209fd1829a569850da02896e1014f355fe72cd061c68fd9ee24b17831cc7253d5204661bc0342847d7f0304
-	a lhs:WearEvent ;
-	lhs:taxonWorn lctax:Julietta_mantorae ;
-	lhs:wornBy lcperson:Suna_Mantori ;
-	.
-
 lcwearev:s384_7a06a17369016104e8c96d8de0d44fbd1007cdbbaafb6f27a4d352d98782e30de2e2a3e322b10dc4c81bba39f03510de
 	a lhs:WearEvent ;
 	lhs:taxonWorn lctax:Julietta_manuelae ;
@@ -218,18 +219,6 @@ lcwearev:s384_82d05cb650af3f6be61f2cfe13a15c2b8ef809bebb9c991caa5a331f198edac1be
 	lhs:taxonWorn lctax:Julietta_oliwiae ;
 	lhs:wornBy lcperson:Oliwia_Jarosz ;
 	lhs:wornYear "2023"^^xsd:integer ;
-	.
-
-lcwearev:s384_97f978093b2c8dc1dfe0a53d023a4b915ff50d90d3d5e6e952a85d19a4a4837b7daa6608b9d93f3857f5af8912172776
-	a lhs:WearEvent ;
-	lhs:taxonWorn lctax:Julietta_mantorae ;
-	lhs:wornBy lcperson:Suna_Mantori ;
-	.
-
-lcwearev:s384_9bc9ed8b7f0a99b4376c182e2e38c3e71c5dcadb5eeca7d1cab6e2ffaeb7a1cc4e1d87d5f7e6d78820f39856911f64f2
-	a lhs:WearEvent ;
-	lhs:taxonWorn lctax:Julietta_mantorae ;
-	lhs:wornBy lcperson:Suna_Mantori ;
 	.
 
 lcwearev:s384_a1c61ffea0fcc68c17a69251ce89733787ae3437730a38fe26ed3b7d9ce720b73f89dc72b03f2f2fe51c795f626e7fc2
@@ -372,6 +361,20 @@ lcwearev:s384_faad8870494e30690f3619d542985eaecdefc1c4c808943a73d9f3652534871b7d
 	lhs:wornYear "2023"^^xsd:integer ;
 	.
 
+lcwearev:s384_fcc165388166c40400288f8d8e9736dbcdb17eed889e3a84d8f0d799fa3847b02d965ba7cecf9e1e685edf388579e090
+	a lhs:WearEvent ;
+	lhs:taxonWorn lctax:Julietta_sunae ;
+	lhs:wornBy lcperson:Suna_Mantori ;
+	lhs:wornYear "2023"^^xsd:integer ;
+	.
+
+lcwearev:s384_fe175695c3e566e734b066348dfebdae0e47d46ccf043016f9bacd839af1a9389345a294578d53065b64d8f20620fe62
+	a lhs:WearEvent ;
+	lhs:taxonWorn lctax:Julietta_sunae ;
+	lhs:wornBy lcperson:Suna_Mantori ;
+	lhs:wornYear "2023"^^xsd:integer ;
+	.
+
 lcwearev:s384_ff6fb6b93141953bdc7ed8404cf0c4465f913859b025580d2f17629671059910e46743823f850ec1126b66b9cfcdd4f9
 	a lhs:WearEvent ;
 	lhs:taxonWorn lctax:Julietta_thea ;
@@ -452,7 +455,7 @@ lhimg:s2_19d2f27fec925265fba9ed978bab403640e65b93921a0d6b7af9de18fcb3ee78
 lhimg:s2_1b070ec9314103b111844a0936a82e45f794d9ba529486ab9efda7087356a0d8
 	a lhs:Image ;
 	lhs:href <https://web.archive.org/web/20260318171453/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Suna_Mantori2_8e307661-3e4d-4459-8853-8e5e64956c65.jpg?v=1701388688> ;
-	lhs:imgFor lhtype:Mantori_2023.531.2356 ;
+	lhs:imgFor lhtype:Suna_2023.49.1561 ;
 	lhs:imgProvider "ia"^^xsd:string ;
 	.
 
@@ -557,7 +560,7 @@ lhimg:s2_4200d8671ac19c1a4e41aac9bb9f713caf2d1a5fb08ec3370e4231f1a753dfbc
 lhimg:s2_44c6804d98bc219d658b501eed76c36853e3e6b83521bc84bc3e122fca88e98e
 	a lhs:Image ;
 	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Suna_Mantori4_c22c175f-b871-4743-be69-735db4c411e7.jpg?v=1701388530> ;
-	lhs:imgFor lhtype:Mantori_2023.531.1321 ;
+	lhs:imgFor lhtype:Suna_2023.49.1209 ;
 	lhs:imgProvider "orig"^^xsd:string ;
 	.
 
@@ -620,7 +623,7 @@ lhimg:s2_5044f55329a2607c704c79b9ffe13f29dee8f56e44549fb68d4f6129f4f38e07
 lhimg:s2_5935d48df5d4810ed023509b2c83740f6735afb605aca2f6dde230cc8aaf0717
 	a lhs:Image ;
 	lhs:href <https://web.archive.org/web/20260318171442/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Suna_Mantori5_b7b61902-5692-45e4-9587-f9b50fbfdfbf.jpg?v=1701388668> ;
-	lhs:imgFor lhtype:Mantori_2023.531.1495 ;
+	lhs:imgFor lhtype:Suna_2023.49.5023 ;
 	lhs:imgProvider "ia"^^xsd:string ;
 	.
 
@@ -725,7 +728,7 @@ lhimg:s2_7e6ec25bce8285127ef2b2e92153db503d7b84d6e02471b313f2dd76f56e3034
 lhimg:s2_7fffb756aa24a6d8863cfc6616d00aa90f0728f423b844fe1ca0bf48aa253f07
 	a lhs:Image ;
 	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Suna_Mantori2_8e307661-3e4d-4459-8853-8e5e64956c65.jpg?v=1701388688> ;
-	lhs:imgFor lhtype:Mantori_2023.531.2356 ;
+	lhs:imgFor lhtype:Suna_2023.49.1561 ;
 	lhs:imgProvider "orig"^^xsd:string ;
 	.
 
@@ -809,7 +812,7 @@ lhimg:s2_b095ea9144d238629fe94c41284d72d87d95744344fa07368703fa010e3be161
 lhimg:s2_b3e1862f675e9e60d256937f4c9acb4deb6f5fe1cab1158f27361e52fefb4ddc
 	a lhs:Image ;
 	lhs:href <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Suna_Mantori5_b7b61902-5692-45e4-9587-f9b50fbfdfbf.jpg?v=1701388668> ;
-	lhs:imgFor lhtype:Mantori_2023.531.1495 ;
+	lhs:imgFor lhtype:Suna_2023.49.5023 ;
 	lhs:imgProvider "orig"^^xsd:string ;
 	.
 
@@ -921,7 +924,7 @@ lhimg:s2_dc8198d0255c04942798dff7c832863b103e53b9c6231117c532139bfcbfeebf
 lhimg:s2_dddf5fc5591b3508b0edc2bc7fc433f271fd3bc85e0166239455535c745d64c6
 	a lhs:Image ;
 	lhs:href <https://web.archive.org/web/20260318171512/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Suna_Mantori4_c22c175f-b871-4743-be69-735db4c411e7.jpg?v=1701388530> ;
-	lhs:imgFor lhtype:Mantori_2023.531.1321 ;
+	lhs:imgFor lhtype:Suna_2023.49.1209 ;
 	lhs:imgProvider "ia"^^xsd:string ;
 	.
 
@@ -972,6 +975,7 @@ lcperson:Alexis_Wright
 		lhs:Person ,
 		foaf:Person
 		;
+	rdfs:label "Alexis Wright"^^xsd:string ;
 	lhs:personAbbreviation "Alexis.Wr."^^xsd:string ;
 	foaf:name "Alexis Wright"^^xsd:string ;
 	.
@@ -981,6 +985,7 @@ lcperson:Annette_Nicoletti
 		lhs:Person ,
 		foaf:Person
 		;
+	rdfs:label "Annette Nicoletti"^^xsd:string ;
 	lhs:personAbbreviation "Annette.N."^^xsd:string ;
 	foaf:name "Annette Nicoletti"^^xsd:string ;
 	.
@@ -990,6 +995,7 @@ lcperson:Aria_Wright-Shriver
 		lhs:Person ,
 		foaf:Person
 		;
+	rdfs:label "Aria Wright-Shriver"^^xsd:string ;
 	lhs:personAbbreviation "Aria.W.S."^^xsd:string ;
 	foaf:name "Aria Wright-Shriver"^^xsd:string ;
 	.
@@ -999,6 +1005,7 @@ lcperson:Elizabeth_Baumgart
 		lhs:Person ,
 		foaf:Person
 		;
+	rdfs:label "Elizabeth Baumgart"^^xsd:string ;
 	lhs:personAbbreviation "Eliz.B."^^xsd:string ;
 	foaf:name "Elizabeth Baumgart"^^xsd:string ;
 	.
@@ -1008,6 +1015,7 @@ lcperson:Isabel_Plett
 		lhs:Person ,
 		foaf:Person
 		;
+	rdfs:label "Isabel Plett"^^xsd:string ;
 	lhs:personAbbreviation "Isabel.P."^^xsd:string ;
 	foaf:name "Isabel Plett"^^xsd:string ;
 	.
@@ -1017,6 +1025,7 @@ lcperson:Juliana_Rucker
 		lhs:Person ,
 		foaf:Person
 		;
+	rdfs:label "Juliana Rucker"^^xsd:string ;
 	lhs:personAbbreviation "Juliana.R."^^xsd:string ;
 	foaf:name "Juliana Rucker"^^xsd:string ;
 	.
@@ -1026,6 +1035,7 @@ lcperson:Katie_Hunter-Moon
 		lhs:Person ,
 		foaf:Person
 		;
+	rdfs:label "Katie Hunter-Moon"^^xsd:string ;
 	lhs:personAbbreviation "Hunter-Moon"^^xsd:string ;
 	foaf:name "Katie Hunter-Moon"^^xsd:string ;
 	.
@@ -1035,6 +1045,7 @@ lcperson:Manuela_Wilkes
 		lhs:Person ,
 		foaf:Person
 		;
+	rdfs:label "Manuela Wilkes"^^xsd:string ;
 	lhs:personAbbreviation "Manuela.W."^^xsd:string ;
 	foaf:name "Manuela Wilkes"^^xsd:string ;
 	.
@@ -1044,6 +1055,7 @@ lcperson:Oliwia_Jarosz
 		lhs:Person ,
 		foaf:Person
 		;
+	rdfs:label "Oliwia Jarosz"^^xsd:string ;
 	lhs:personAbbreviation "Oliwia.J."^^xsd:string ;
 	foaf:name "Oliwia Jarosz"^^xsd:string ;
 	.
@@ -1053,6 +1065,7 @@ lcperson:Paige_Plihal
 		lhs:Person ,
 		foaf:Person
 		;
+	rdfs:label "Paige Plihal"^^xsd:string ;
 	lhs:personAbbreviation "Paige.P."^^xsd:string ;
 	foaf:name "Paige Plihal"^^xsd:string ;
 	.
@@ -1062,6 +1075,7 @@ lcperson:Samantha_Newbery
 		lhs:Person ,
 		foaf:Person
 		;
+	rdfs:label "Samantha Newbery"^^xsd:string ;
 	lhs:personAbbreviation "Sam.Ne."^^xsd:string ;
 	foaf:name "Samantha Newbery"^^xsd:string ;
 	.
@@ -1071,6 +1085,7 @@ lcperson:Stephanie_Goh
 		lhs:Person ,
 		foaf:Person
 		;
+	rdfs:label "Stephanie Goh"^^xsd:string ;
 	lhs:personAbbreviation "Stephanie.G."^^xsd:string ;
 	foaf:name "Stephanie Goh"^^xsd:string ;
 	.
@@ -1080,6 +1095,7 @@ lcperson:Suna_Mantori
 		lhs:Person ,
 		foaf:Person
 		;
+	rdfs:label "Suna Mantori"^^xsd:string ;
 	lhs:personAbbreviation "Suna.M."^^xsd:string ;
 	foaf:name "Suna Mantori"^^xsd:string ;
 	.
@@ -1089,6 +1105,7 @@ lcperson:Tea_Stamenkovic
 		lhs:Person ,
 		foaf:Person
 		;
+	rdfs:label "Tea Stamenkovic"^^xsd:string ;
 	lhs:personAbbreviation "Tea.S."^^xsd:string ;
 	foaf:name "Tea Stamenkovic"^^xsd:string ;
 	.
@@ -1166,20 +1183,6 @@ lctax:Julietta_julianae
 	lhs:rank lcrank:Species ;
 	.
 
-lctax:Julietta_mantorae
-	a lhs:Taxon ;
-	rdfs:label "Julietta mantorae"^^xsd:string ;
-	lhs:descriptionEvent lcdescev:s384_0293153ebc1bd6a3f0ce47f92e06fe53ebc96435aac5eba250b4c6d3b2a51a01a90fd4f2d04068af979993541ff4d85f ;
-	lhs:hasType
-		lhtype:Suna_2023.49.1561 ,
-		lhtype:Suna_2023.49.5023
-		;
-	lhs:holotype lhtype:Suna_2023.49.1209 ;
-	lhs:parent lctax:Julietta ;
-	lhs:rank lcrank:Species ;
-	lhs:synonymOf lctax:Julietta_sunae ;
-	.
-
 lctax:Julietta_manuelae
 	a lhs:Taxon ;
 	rdfs:label "Julietta manuelae"^^xsd:string ;
@@ -1249,6 +1252,19 @@ lctax:Julietta_stephaniae
 		lhtype:Goh_2023.589102.887
 		;
 	lhs:holotype lhtype:Goh_2023.589102.108 ;
+	lhs:parent lctax:Julietta ;
+	lhs:rank lcrank:Species ;
+	.
+
+lctax:Julietta_sunae
+	a lhs:Taxon ;
+	rdfs:label "Julietta sunae"^^xsd:string ;
+	lhs:descriptionEvent lcdescev:s384_2764d47714fa26d8bc9743428536412d9f0d1ce0f23453814863b0e35bf34fba79dbc271c83a08c7deb729468f889053 ;
+	lhs:hasType
+		lhtype:Suna_2023.49.1561 ,
+		lhtype:Suna_2023.49.5023
+		;
+	lhs:holotype lhtype:Suna_2023.49.1209 ;
 	lhs:parent lctax:Julietta ;
 	lhs:rank lcrank:Species ;
 	.
@@ -1578,45 +1594,6 @@ lhtype:Juliana_2023.501.4937
 	lhs:imgWidth "2316"^^xsd:integer ;
 	.
 
-lhtype:Mantori_2023.531.1321
-	a lhs:ImageType ;
-	rdfs:label "Mantori 2023.531.1321"^^xsd:string ;
-	lhs:depictsEvent lcwearev:s384_686ae19c3209fd1829a569850da02896e1014f355fe72cd061c68fd9ee24b17831cc7253d5204661bc0342847d7f0304 ;
-	lhs:imgHeight "4000"^^xsd:integer ;
-	lhs:imgIntegrity "sha256:98330235abd42fdd5ebb2f6c823b21fac2d5b2cfa7637bb9e00862be2c64e020"^^xsd:string ;
-	lhs:imgLocation
-		lhimg:s2_44c6804d98bc219d658b501eed76c36853e3e6b83521bc84bc3e122fca88e98e ,
-		lhimg:s2_dddf5fc5591b3508b0edc2bc7fc433f271fd3bc85e0166239455535c745d64c6
-		;
-	lhs:imgWidth "2667"^^xsd:integer ;
-	.
-
-lhtype:Mantori_2023.531.1495
-	a lhs:ImageType ;
-	rdfs:label "Mantori 2023.531.1495"^^xsd:string ;
-	lhs:depictsEvent lcwearev:s384_9bc9ed8b7f0a99b4376c182e2e38c3e71c5dcadb5eeca7d1cab6e2ffaeb7a1cc4e1d87d5f7e6d78820f39856911f64f2 ;
-	lhs:imgHeight "4000"^^xsd:integer ;
-	lhs:imgIntegrity "sha256:562585e06be5343e4b9d12d0b2b569851c9e034801b858a17c0d9570c2c10b52"^^xsd:string ;
-	lhs:imgLocation
-		lhimg:s2_5935d48df5d4810ed023509b2c83740f6735afb605aca2f6dde230cc8aaf0717 ,
-		lhimg:s2_b3e1862f675e9e60d256937f4c9acb4deb6f5fe1cab1158f27361e52fefb4ddc
-		;
-	lhs:imgWidth "2667"^^xsd:integer ;
-	.
-
-lhtype:Mantori_2023.531.2356
-	a lhs:ImageType ;
-	rdfs:label "Mantori 2023.531.2356"^^xsd:string ;
-	lhs:depictsEvent lcwearev:s384_97f978093b2c8dc1dfe0a53d023a4b915ff50d90d3d5e6e952a85d19a4a4837b7daa6608b9d93f3857f5af8912172776 ;
-	lhs:imgHeight "4000"^^xsd:integer ;
-	lhs:imgIntegrity "sha256:058f2754f5aeebf4293e95fdf15ffa4bc105acec1259e286f5d68a60111bc0be"^^xsd:string ;
-	lhs:imgLocation
-		lhimg:s2_1b070ec9314103b111844a0936a82e45f794d9ba529486ab9efda7087356a0d8 ,
-		lhimg:s2_7fffb756aa24a6d8863cfc6616d00aa90f0728f423b844fe1ca0bf48aa253f07
-		;
-	lhs:imgWidth "2667"^^xsd:integer ;
-	.
-
 lhtype:Manuela_2023.150.4290
 	a lhs:ImageType ;
 	rdfs:label "Manuela 2023.150.4290"^^xsd:string ;
@@ -1784,6 +1761,45 @@ lhtype:Plihal_2023.5607.196
 		lhimg:s2_dc8198d0255c04942798dff7c832863b103e53b9c6231117c532139bfcbfeebf
 		;
 	lhs:imgWidth "2534"^^xsd:integer ;
+	.
+
+lhtype:Suna_2023.49.1209
+	a lhs:ImageType ;
+	rdfs:label "Suna 2023.49.1209"^^xsd:string ;
+	lhs:depictsEvent lcwearev:s384_41c7c3fbe8d3d184ef5fdb21064cfe412d9e79facc96c802cbcd4f48f03f3801a0e2203f833ec5d78d479b3e016d83f6 ;
+	lhs:imgHeight "4000"^^xsd:integer ;
+	lhs:imgIntegrity "sha256:98330235abd42fdd5ebb2f6c823b21fac2d5b2cfa7637bb9e00862be2c64e020"^^xsd:string ;
+	lhs:imgLocation
+		lhimg:s2_44c6804d98bc219d658b501eed76c36853e3e6b83521bc84bc3e122fca88e98e ,
+		lhimg:s2_dddf5fc5591b3508b0edc2bc7fc433f271fd3bc85e0166239455535c745d64c6
+		;
+	lhs:imgWidth "2667"^^xsd:integer ;
+	.
+
+lhtype:Suna_2023.49.1561
+	a lhs:ImageType ;
+	rdfs:label "Suna 2023.49.1561"^^xsd:string ;
+	lhs:depictsEvent lcwearev:s384_fcc165388166c40400288f8d8e9736dbcdb17eed889e3a84d8f0d799fa3847b02d965ba7cecf9e1e685edf388579e090 ;
+	lhs:imgHeight "4000"^^xsd:integer ;
+	lhs:imgIntegrity "sha256:058f2754f5aeebf4293e95fdf15ffa4bc105acec1259e286f5d68a60111bc0be"^^xsd:string ;
+	lhs:imgLocation
+		lhimg:s2_1b070ec9314103b111844a0936a82e45f794d9ba529486ab9efda7087356a0d8 ,
+		lhimg:s2_7fffb756aa24a6d8863cfc6616d00aa90f0728f423b844fe1ca0bf48aa253f07
+		;
+	lhs:imgWidth "2667"^^xsd:integer ;
+	.
+
+lhtype:Suna_2023.49.5023
+	a lhs:ImageType ;
+	rdfs:label "Suna 2023.49.5023"^^xsd:string ;
+	lhs:depictsEvent lcwearev:s384_fe175695c3e566e734b066348dfebdae0e47d46ccf043016f9bacd839af1a9389345a294578d53065b64d8f20620fe62 ;
+	lhs:imgHeight "4000"^^xsd:integer ;
+	lhs:imgIntegrity "sha256:562585e06be5343e4b9d12d0b2b569851c9e034801b858a17c0d9570c2c10b52"^^xsd:string ;
+	lhs:imgLocation
+		lhimg:s2_5935d48df5d4810ed023509b2c83740f6735afb605aca2f6dde230cc8aaf0717 ,
+		lhimg:s2_b3e1862f675e9e60d256937f4c9acb4deb6f5fe1cab1158f27361e52fefb4ddc
+		;
+	lhs:imgWidth "2667"^^xsd:integer ;
 	.
 
 lhtype:Tea_2023.150.141
