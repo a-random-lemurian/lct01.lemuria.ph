@@ -537,6 +537,8 @@ x-duolastica-taxa: &duolastica-taxa
           - provider: ia
             href: https://web.archive.org/web/20260408100936/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Pia_Willmes9.jpg?v=1720291703
         # wearer: it's a dress hanging on a tree
+        wearer:
+          no_wearer: true
         cite_key: sleeveless_eleonora_gallery
     types:
       - name: Willmes 2024.505.3315
