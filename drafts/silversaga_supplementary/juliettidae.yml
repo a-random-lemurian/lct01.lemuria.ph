@@ -801,62 +801,63 @@ taxa:
               year: 2023
             cite_key: silversaga_juliette_gallery
 
-      mantorae:
-        rank: species
-        describer: Lemuria, 2026
-        cite_key:
-          - silversaga_juliette_gallery
-          - mantori2023_juliette
-        holotype:
-          - name: Mantori 2023.531.1321
-            view: ventral
-            width: 2667
-            height: 4000
-            sum:
-              sha256: 98330235abd42fdd5ebb2f6c823b21fac2d5b2cfa7637bb9e00862be2c64e020
-            urls:
-              - provider: orig
-                href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Suna_Mantori4_c22c175f-b871-4743-be69-735db4c411e7.jpg?v=1701388530
-              - provider: ia
-                href: https://web.archive.org/web/20260318171512/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Suna_Mantori4_c22c175f-b871-4743-be69-735db4c411e7.jpg?v=1701388530
-            wearer: 
-              abbr: Suna.M.
-              name: Suna Mantori
-              year: 
-            cite_key: silversaga_juliette_gallery
-        types:
-          - name: Mantori 2023.531.1495
-            view: ventral
-            width: 2667
-            height: 4000
-            sum:
-              sha256: 562585e06be5343e4b9d12d0b2b569851c9e034801b858a17c0d9570c2c10b52
-            urls:
-              - provider: orig
-                href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Suna_Mantori5_b7b61902-5692-45e4-9587-f9b50fbfdfbf.jpg?v=1701388668
-              - provider: ia
-                href: https://web.archive.org/web/20260318171442/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Suna_Mantori5_b7b61902-5692-45e4-9587-f9b50fbfdfbf.jpg?v=1701388668
-            wearer: 
-              abbr: Suna.M.
-              name: Suna Mantori
-              year: 
-            cite_key: silversaga_juliette_gallery
-          - name: Mantori 2023.531.2356
-            view: ventral
-            width: 2667
-            height: 4000
-            sum:
-              sha256: 058f2754f5aeebf4293e95fdf15ffa4bc105acec1259e286f5d68a60111bc0be
-            urls:
-              - provider: orig
-                href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Suna_Mantori2_8e307661-3e4d-4459-8853-8e5e64956c65.jpg?v=1701388688
-              - provider: ia
-                href: https://web.archive.org/web/20260318171453/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Suna_Mantori2_8e307661-3e4d-4459-8853-8e5e64956c65.jpg?v=1701388688
-            wearer: 
-              abbr: Suna.M.
-              name: Suna Mantori
-              year: 
-            cite_key: silversaga_juliette_gallery
+      # Accidental synonym of *J. sunae*!
+      # mantorae:
+      #   rank: species
+      #   describer: Lemuria, 2026
+      #   cite_key:
+      #     - silversaga_juliette_gallery
+      #     - mantori2023_juliette
+      #   holotype:
+      #     - name: Mantori 2023.531.1321
+      #       view: ventral
+      #       width: 2667
+      #       height: 4000
+      #       sum:
+      #         sha256: 98330235abd42fdd5ebb2f6c823b21fac2d5b2cfa7637bb9e00862be2c64e020
+      #       urls:
+      #         - provider: orig
+      #           href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Suna_Mantori4_c22c175f-b871-4743-be69-735db4c411e7.jpg?v=1701388530
+      #         - provider: ia
+      #           href: https://web.archive.org/web/20260318171512/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Suna_Mantori4_c22c175f-b871-4743-be69-735db4c411e7.jpg?v=1701388530
+      #       wearer: 
+      #         abbr: Suna.M.
+      #         name: Suna Mantori
+      #         year: 
+      #       cite_key: silversaga_juliette_gallery
+      #   types:
+      #     - name: Mantori 2023.531.1495
+      #       view: ventral
+      #       width: 2667
+      #       height: 4000
+      #       sum:
+      #         sha256: 562585e06be5343e4b9d12d0b2b569851c9e034801b858a17c0d9570c2c10b52
+      #       urls:
+      #         - provider: orig
+      #           href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Suna_Mantori5_b7b61902-5692-45e4-9587-f9b50fbfdfbf.jpg?v=1701388668
+      #         - provider: ia
+      #           href: https://web.archive.org/web/20260318171442/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Suna_Mantori5_b7b61902-5692-45e4-9587-f9b50fbfdfbf.jpg?v=1701388668
+      #       wearer: 
+      #         abbr: Suna.M.
+      #         name: Suna Mantori
+      #         year: 
+      #       cite_key: silversaga_juliette_gallery
+      #     - name: Mantori 2023.531.2356
+      #       view: ventral
+      #       width: 2667
+      #       height: 4000
+      #       sum:
+      #         sha256: 058f2754f5aeebf4293e95fdf15ffa4bc105acec1259e286f5d68a60111bc0be
+      #       urls:
+      #         - provider: orig
+      #           href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Suna_Mantori2_8e307661-3e4d-4459-8853-8e5e64956c65.jpg?v=1701388688
+      #         - provider: ia
+      #           href: https://web.archive.org/web/20260318171453/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Suna_Mantori2_8e307661-3e4d-4459-8853-8e5e64956c65.jpg?v=1701388688
+      #       wearer: 
+      #         abbr: Suna.M.
+      #         name: Suna Mantori
+      #         year: 
+      #       cite_key: silversaga_juliette_gallery
 
 
 
