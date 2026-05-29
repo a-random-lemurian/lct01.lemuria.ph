@@ -40,10 +40,7 @@ x-wearers:
     abbr: Elizabeth.M.
     name: Elizabeth McNally
 
-x-unilastica: &xunilastica
-  rank: section
-  describer: Lemuria, 2026; first public desc.
-  taxa:
+x-unilastica: &xunilastica-taxa
     lauralia:
       rank: species
       describer: Lemuria, 2026; first public desc.
@@ -770,6 +767,11 @@ taxa:
             rank: subgenus
             describer: Lemuria, 2026
             taxa:
-              Unilastica: *xunilastica
+              Unilastica:
+                rank: section
+                describer: Lemuria, 2026
+                taxa: *xunilastica-taxa
               Duolastica:
+                rank: section
+                describer: Lemuria, 2026
                 taxa: *duolastica-taxa
