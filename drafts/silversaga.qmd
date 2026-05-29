@@ -150,7 +150,7 @@ We present a pattern of
 |---|---|---|---|---|---|---|---|
 | Alma | 1 | | EU34&ndash;54 | |
 | Amelie | 2 | | EU34&ndash;54 | | 
-| Celeste  | 2 | 2026-04-01 | EU34&ndash;54 | | Celestidae (@sec-celestidae)
+| Celeste  | 2 | 2026-04-01 | EU34&ndash;54 | | Celestidae
 | Celine | 2 | | EU34&ndash;54
 | Chloe | 1 | | EU34&ndash;54
 | Clara  | 1 | 2021-04 (RTW); 2023-08-25 (pattern) | EU34&ndash;50 | | Argenclaridae (@sec-argenclaridae)
@@ -224,10 +224,9 @@ As stated on the description of <!-- TODO: WRITE DOWN THE BINOMIAL OF MADELEINE'
 Salisbury is one of Jessica's pattern testers; she has tested the Eleonora [@salisbury2024_eleonora; @salisbury2024_eleonora2], the Juliette [@salisbury2024]
 
 <!-- TODO: REPLACE THIS PLACEHOLDER! -->
-**Wearer of**: N spp.
+**Wearer of**: 2 spp.
 *Ae. madeleinae* (@sec-argenteleonora-madeleinae),
-*Ae. madeleinatra* (@sec-argenteleonora-madeleinatra),
-*J. madeleinae* (@sec-julietta-madeleinae)
+*Ae. madeleinatra* (@sec-argenteleonora-madeleinatra)
 
 ### Laural Stapleton {#sec-laural-stapleton}
 **Laural Stapleton** (<https://www.themakerhaus.com/>; Instagram: &commat;[`themakerhaus`](https://instagram.com/themakerhaus)) is an American sewist and the operator of The Maker Haus, a small pattern label with two patterns, the Edie and the Nadine.
@@ -299,7 +298,7 @@ The most reliable morphological character identifying Silversaga garment taxa of
 ### Species counts
 In this section, we describe Fermi estimates for the possible count of genera and species encompassing Silversaga's patterns.
 
-As established in @sec-patterns, pattern testers alone contribute some 600&ndash;1,050 species to the Silversaga repertoire.
+Pattern testers alone likely contribute some 600&ndash;1,050 species to the Silversaga repertoire.
 
 <!-- Instagram hashtag counts
 
@@ -698,7 +697,7 @@ An illustration of an isosceles trapezoid [@alexandrov_illustration_2007], an id
 : Number of elastic channels: one (04), two (05)
 
 04
-: See family Almidae (@sec-almidae). End.
+: See family Almidae (unpublished). End.
 
 05
 : See family Argenclaridae (@sec-argenclaridae). End.
@@ -1340,7 +1339,7 @@ Subject standing in forest.
 
 **Diagnosis**: *Argenclara jessae* is characterized by its solid brown fabric.
 
-**Remarks**: See also @jones2023 for Jones's Instagram post.
+**Remarks**: See also @jjones2023 for Jones's Instagram post.
 
 **Etymology**: From *Jessa* + *-ae*, feminine genitive suffix.
 
@@ -2812,7 +2811,7 @@ The *Argenteleonora* are divided into three views by Silversaga: views A, B, and
 Ventral view.
 *Argenteleonora katiae* wb. Katie.W., 2024.
 &copy; Katie Weychardt or unknown photographer, 2024, all rights reserved.
-**Page**: @silversaga_eleonora_gallery;
+**Page**: @eleonora_gallery;
 **SHA2-256**: `0bfba0c217a2227ed40a63ab2d15e773566912e89eb4a021c22c221f77242780`{.hash};
 **Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/katieweychardt5.jpg?v=1713459266>;
 **IA**: <https://web.archive.org/web/20260408095229/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/katieweychardt5.jpg?v=1713459266>
@@ -2822,7 +2821,7 @@ Ventral view.
 Ventral view.
 *Argenteleonora katiae* wb. Katie.W., 2024.
 &copy; Katie Weychardt or unknown photographer, 2024, all rights reserved.
-**Page**: @silversaga_eleonora_gallery;
+**Page**: @eleonora_gallery;
 **SHA2-256**: `786c8b743594b37ce2b287442923ff74700b6277053780c1c19d9069cbdfd0b0`{.hash};
 **Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/katieweychardt7.jpg?v=1713459417>;
 **IA**: <https://web.archive.org/web/20260408095229/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/katieweychardt7.jpg?v=1713459417>
@@ -2832,7 +2831,7 @@ Ventral view.
 Ventral view.
 *Argenteleonora katiae* wb. Katie.W., 2024.
 &copy; Katie Weychardt or unknown photographer, 2024, all rights reserved.
-**Page**: @silversaga_eleonora_gallery;
+**Page**: @eleonora_gallery;
 **SHA2-256**: `ce67b0bedfe5c2edbf8b115be59266802b1dcf47b2a9db30e3473a89bd5421d0`{.hash};
 **Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/katieweychardt2.jpg?v=1713459324>;
 **IA**: <https://web.archive.org/web/20260408095700/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/katieweychardt2.jpg?v=1713459324>
@@ -3011,7 +3010,7 @@ Ventral view.
 Ventral view.
 *Argenteleonora manuelae* wb. Manuela.W., 2024.
 &copy; Manuela Wilkes or unknown photographer, all rights reserved.
-**Page**: @silversaga_eleonora_gallery;
+**Page**: @eleonora_gallery;
 **SHA2-256**: `91842f300604cc8aa397142199dc242aa0871de7bac3b8eee4bb7642fa8a55f6`{.hash};
 **Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Manuela_Wilkes6.jpg?v=1713456129>;
 **IA**: <https://web.archive.org/web/20260408095229/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Manuela_Wilkes6.jpg?v=1713456129>
@@ -3021,7 +3020,7 @@ Ventral view.
 Lateral view.
 *Argenteleonora manuelae* wb. Manuela.W., 2024.
 &copy; Manuela Wilkes or unknown photographer, all rights reserved.
-**Page**: @silversaga_eleonora_gallery;
+**Page**: @eleonora_gallery;
 **SHA2-256**: `47e034139a0f7081317ba751d41bc86dcd0f85ce5fa80e625573db2e5b1755f2`{.hash};
 **Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Manuela_Wilkes5_copy.jpg?v=1713456314>;
 **IA**: <https://web.archive.org/web/20260408095229/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Manuela_Wilkes5_copy.jpg?v=1713456314>
@@ -3031,7 +3030,7 @@ Lateral view.
 Ventral view.
 *Argenteleonora manuelae* wb. Manuela.W., 2024.
 &copy; Manuela Wilkes or unknown photographer, all rights reserved.
-**Page**: @silversaga_eleonora_gallery;
+**Page**: @eleonora_gallery;
 **SHA2-256**: `0813f65efda075c2240d94b965026ac7d059064425d24b1edda42fb166dc94fa`{.hash};
 **Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Manuela_Wilkes3.jpg?v=1713456102>;
 **IA**: <https://web.archive.org/web/20260408095229/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Manuela_Wilkes3.jpg?v=1713456102>
@@ -3053,7 +3052,7 @@ Ventral view.
 Ventral view.
 *Argenteleonora rubra* wb. Yoanna.M., 2024.
 &copy; Yoanna McClintock or unknown photographer, all rights reserved.
-**Page**: @silversaga_eleonora_gallery;
+**Page**: @eleonora_gallery;
 **SHA2-256**: `6ca2b9c3f1dd22e0dee5b5602dc1de16cf19317b8891fe688345e97a9722ec1d`{.hash};
 **Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Yoanna_McClintock4.jpg?v=1713456020>;
 **IA**: <https://web.archive.org/web/20260408095231/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Yoanna_McClintock4.jpg?v=1713456020>
@@ -3063,7 +3062,7 @@ Ventral view.
 Ventral view.
 *Argenteleonora rubra* wb. Yoanna.M., 2024.
 &copy; Yoanna McClintock or unknown photographer, all rights reserved.
-**Page**: @silversaga_eleonora_gallery;
+**Page**: @eleonora_gallery;
 **SHA2-256**: `579ba8e94854646f83dbc36b3a54b77482112cd135c344f2fb490e31d565e994`{.hash};
 **Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Yoanna_McClintock3.jpg?v=1713455994>;
 **IA**: <https://web.archive.org/web/20260408095707/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Yoanna_McClintock3.jpg?v=1713455994>
@@ -3085,7 +3084,7 @@ Ventral view.
 Ventral view.
 *Argenteleonora thea* wb. Tea.S., 2024.
 &copy; Tea Stamenkovic or unknown photographer, 2024, all rights reserved.
-**Page**: @silversaga_eleonora_gallery;
+**Page**: @eleonora_gallery;
 **SHA2-256**: `bac1f572f0976bf7a9dcac31490ae6a53c314c00b89de14346285629a471c082`{.hash};
 **Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Tea_Stamenkovic_7338.jpg?v=1713470586>;
 **IA**: <https://web.archive.org/web/20260408095712/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Tea_Stamenkovic_7338.jpg?v=1713470586>
@@ -3095,7 +3094,7 @@ Ventral view.
 Ventral view.
 *Argenteleonora thea* wb. Tea.S., 2024.
 &copy; Tea Stamenkovic or unknown photographer, 2024, all rights reserved.
-**Page**: @silversaga_eleonora_gallery;
+**Page**: @eleonora_gallery;
 **SHA2-256**: `9760fed9432849260cdbebad4567bcd618b59214ddc94634fb8cdcf0493078dc`{.hash};
 **Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Tea_Stamenkovic_7296.jpg?v=1713470641>;
 **IA**: <https://web.archive.org/web/20260408095800/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Tea_Stamenkovic_7296.jpg?v=1713470641>
@@ -3105,7 +3104,7 @@ Ventral view.
 Ventral view.
 *Argenteleonora thea* wb. Tea.S., 2024.
 &copy; Tea Stamenkovic or unknown photographer, 2024, all rights reserved.
-**Page**: @silversaga_eleonora_gallery;
+**Page**: @eleonora_gallery;
 **SHA2-256**: `3aa739d085d5e1365191b9a1a8bc97ea8866a1fcf0254654ae407c8a69bdab36`{.hash};
 **Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Tea_Stamenkovic_7265.jpg?v=1713470661>;
 **IA**: <https://web.archive.org/web/20260408095806/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Tea_Stamenkovic_7265.jpg?v=1713470661>
@@ -3127,7 +3126,7 @@ Ventral view.
 Ventral view.
 *Argenteleonora veneta* wb. Yoanna.M., 2024.
 &copy; Yoanna McClintock or unknown photographer, 2024, all rights reserved.
-**Page**: @silversaga_eleonora_gallery;
+**Page**: @eleonora_gallery;
 **SHA2-256**: `06a3450e290adc9ce2ffa350908b514da93271c406343a74b82e6b76836a1665`{.hash};
 **Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Yoanna_McClintock13.jpg?v=1713455899>;
 **IA**: <https://web.archive.org/web/20260408095019/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Yoanna_McClintock13.jpg?v=1713455899>
@@ -3137,7 +3136,7 @@ Ventral view.
 Ventral view.
 *Argenteleonora veneta* wb. Yoanna.M., 2024.
 &copy; Yoanna McClintock or unknown photographer, 2024, all rights reserved.
-**Page**: @silversaga_eleonora_gallery;
+**Page**: @eleonora_gallery;
 **SHA2-256**: `165914ab08fe48cad1585fb699f459f86f0032c2ff02052e0f7c044847b0a311`{.hash};
 **Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Yoanna_McClintock7.jpg?v=1713455929>;
 **IA**: <https://web.archive.org/web/20260408095124/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Yoanna_McClintock7.jpg?v=1713455929>
@@ -3453,7 +3452,7 @@ waist shirring no. waist elastic channels 2.
 
 **Taxonomic placement**: Placed in the family Heleonoridae.
 
-**Remarks**: *Heleonora* was the first taxon in the LCT-01 to use infrageneric ranks. It uses the same high-level infrageneric structure as *Argenteleonora* (@sec-genus-argenteleonora).
+**Remarks**: *Heleonora* was the first taxon in the LCT-01 to use infrageneric ranks. It uses the same high-level infrageneric structure as *Argenteleonora* (@sec-argenteleonora).
 
 **Diagnosis**: Phylogenetically, *Heleonora* is the *sensu stricto* genus of the Heleonoridae, characterized by origin from the Sleeveless Eleonora dress pattern by Jessica Silversaga, and phenetically, by resemblance to the Argenteleonoridae and a lack of sleeves; without significant divergence from the pattern.
 
