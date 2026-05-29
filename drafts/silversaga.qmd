@@ -44,6 +44,21 @@ keywords: silversaga, eleonora, sleeveless eleonora, silversaga patterns, sewing
 monograph: true
 ---
 
+# Non-technical introduction {.unnumbered}
+This section is intended as an introduction to the LCT-01 for people with sewing knowledge but no prior biology experience. After the publication of this long paper (or "monograph", the more specific term for the type of paper this is), we intend to publish additional sewist-friendly documentation that help sewists understand the LCT-01.
+
+The **First Lemurian Clothing Taxonomy** (**LCT-01**) is a system of garment and fabric classification developed by Lemuria starting in September 2025. It is based on methods first developed for and used in biological taxonomy, such as the use of Latin, binomial nomenclature, a tree-like structure, and nomenclatural ranks.
+
+An example of the Latin-based nomenclature of the system can be found in the taxonomic treatment of the Eleonora pattern. The Eleonora, broadly construed, consists of two products on Silversaga's website: the Sleeveless Eleonora, and the Eleonora. The Sleeveless Eleonora is placed within the family Heleonoridae, while the sleeved Eleonora is placed within the family Argenteleonoridae. The H- and Argent- suffixes carry meaning, though it may not be immediately obvious. *H-* is because Heleonoridae is placed in the class Helistola, which combines Ancient Greek *helios* ("sun") with Latin *stola* ("dress"); literally "sun dress". The *Argent-* suffix attached to Argenteleonoridae comes from Latin *argentum* ("silver"). This prefix helps distinguish Silversaga's Eleonora pattern from other patterns also named Eleonora.
+
+The LCT-01, developed as a hobby, has its roots in the observations that the well-established system of biological taxonomy was well-suited to naming millions of seemingly diverse and unclassifiable animals, plants, bacteria, and fungi; and that this system could be reused and adapted to something as similarly diverse: fashion. Just as taxonomists have helped humanity learn about the beauty of Earth's lifeforms (think *Tyrannosaurus rex*), we too hope that our taxonomy work can help people begin to realize how diverse clothing is, and appreciate the craft and effort behind each make; especially from indie designers like Silversaga.
+
+The taxonomy uses the eight major ranks Domain, Kingdom, Phylum, Class, Order, Family, Genus, and Species, akin to biological taxonomy.
+
+The LCT-01 differs from most other systems in its emphasis on grouping by construction (or in biological terms, morphology). Examples of characteristics we classify garments based on include, but are not limited to, necklines, sleeve length, buttons, dress length, straps, ruffles; while those that we set aside are characteristics like the collection a dress was part of (e.g. "Summer/Spring 2022"), the designer, and even the aesthetic of a specific dress (e.g. "cottagecore"). Regardless, "cottagecore" still affects the LCT-01 classification, but indirectly. A cottagecore dress often has puff sleeves, ruffles, lace, floral patterns, and pastel colors; these characteristics that arise from decomposing the meaning of "cottagecore" into its constituent parts are what inform the classification of a specific garment.
+
+However, the LCT-01 is not intended to replace any already-existing systems; but rather, coexist with them. Linnaeus's decision to name the cat *Felis catus* does not mean that every human is required to refer to their cat as "instances of *Felis catus*". We aim to be one of the many glasses people can put on to look at the world.
+
 # Background
 We intend for this background section pertaining to Jessica Silversaga to be an introduction to her for the entire taxonomy; in future monographs, we plan to refer back to this.
 
