@@ -8,7 +8,7 @@ author:
 license: CC BY-SA
 journal:
   title: "Lemuria's (Informal) Journal of Clothing Taxonomy"
-date: 2026-04-07
+date: 2026-05-31
 lang: en
 execute: 
   freeze: false
@@ -23,7 +23,7 @@ citation:
   author: Lemuria
   citation-key: lemuria_silversaga_2026
   title: "An inordinate fondness for Silversaga and her patterns: a monograph on the Clara, Eleonora, and Juliette"
-  original-date: 2026-04-07
+  original-date: 2026-05-31
   publisher: Lemuria
   article-id: lict2026.0010
   publisher-place: Philippines
