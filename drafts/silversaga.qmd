@@ -1455,7 +1455,7 @@ Subject's arms fully adducted.
 2000&times;3008.
 Ventral view.
 Outdoors, daytime lighting.
-*Argenclara malinae* f. *umst.* wb. Malin.S., YEAR.
+*Argenclara malinae* f. *umst.* wb. Malin.S., 2023.
 &copy; Malin Stara or unknown photographer, all rights reserved.
 **Page**: @silversaga_clara_gallery;
 **SHA2-256**: `a4fdf3d5536e9a4b6095495adb3a5dbbd53151a258f307af84076cb669acacc2`{.hash};
@@ -1464,8 +1464,7 @@ Outdoors, daytime lighting.
 
 ***Stara 10.19571*** &mdash; Photograph.
 2000&times;3008.
-METADATAFROMHOLOTYPER
-*Argenclara malinae* wb. Malin.S., YEAR.
+*Argenclara malinae* wb. Malin.S., 2023.
 &copy; Malin Stara or unknown photographer, all rights reserved.
 **Page**: @silversaga_clara_gallery;
 **SHA2-256**: `683db976955ab01c92c32a6d6f9f5ae7cfb3bd539c3de91dd15b09ee43fd87b4`{.hash};
@@ -1474,8 +1473,7 @@ METADATAFROMHOLOTYPER
 
 ***Stara 10.19780*** &mdash; Photograph.
 2000&times;3008.
-METADATAFROMHOLOTYPER
-*Argenclara malinae* wb. Malin.S., YEAR.
+*Argenclara malinae* wb. Malin.S., 2023.
 &copy; Malin Stara or unknown photographer, all rights reserved.
 **Page**: @silversaga_clara_gallery;
 **SHA2-256**: `00ea6fbd28dc593ecb14d05eeee1c9c99a27f2b3bdc28c5027c409cf3fefde5c`{.hash};
@@ -1569,7 +1567,7 @@ Subject on floor of building, between two pillars. Photographer not visible in r
 Ventral view. Subject's arms extended.
 Hair positioned entirely dorsally, likely tied. Neckline not obscured.
 Indoor lighting conditions. White wall in background; subject near corner. Unknown potted plant in background; no known correspondence to botanical taxa.
-*Argenclara teschia* wb. Mel.T., YEAR.
+*Argenclara teschia* wb. Mel.T., 2023.
 &copy; Mel Tesch or unknown photographer, all rights reserved.
 **Page**: @silversaga_clara_gallery;
 **SHA2-256**: `fa16c0ff27e6d724e68ee3dbd256f6f4a58ec619d0f6bcae428ff1041bee9baa`{.hash};
@@ -1581,7 +1579,7 @@ Indoor lighting conditions. White wall in background; subject near corner. Unkno
 Ventral view. Subject's arms adducted. Right leg extended laterally.
 Hair positioned entirely dorsally, likely tied. Neckline not obscured.
 Indoor lighting conditions. White wall in background; subject near corner. Unknown potted plant in background; no known correspondence to botanical taxa.
-*Argenclara teschia* wb. Mel.T., YEAR.
+*Argenclara teschia* wb. Mel.T., 2023.
 &copy; Mel Tesch or unknown photographer, all rights reserved.
 **Page**: @silversaga_clara_gallery;
 **SHA2-256**: `29dcddcfefe145527f57e15d271c5191265044f02cf6240f864fe3ecb7dc3db8`{.hash};
@@ -1593,7 +1591,7 @@ Indoor lighting conditions. White wall in background; subject near corner. Unkno
 Ventral view, slightly angled. Subject's arms mostly adducted.
 Hair positioned entirely dorsally, likely tied. Neckline not obscured.
 Indoor lighting conditions. White wall in background; subject near corner. Unknown potted plant in background; no known correspondence to botanical taxa.
-*Argenclara teschia* wb. Mel.T., YEAR.
+*Argenclara teschia* wb. Mel.T., 2023.
 &copy; Mel Tesch or unknown photographer, all rights reserved.
 **Page**: @silversaga_clara_gallery;
 **SHA2-256**: `4b8768b4ad2ec6fd9a36f039e2b2bd9b1c4af1899c130990ea8ca515cb94c309`{.hash};
