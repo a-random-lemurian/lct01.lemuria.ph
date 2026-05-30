@@ -5023,7 +5023,7 @@ Flat-lay of fabric on white background, zoomed out. One-meter ruler to left of f
 
 ##### *Tanaflora amelieluisa* {#sec-tanaflora-amelieluisa}
 ***Tanaflora amelieluisa*** Lemuria, 2026; sp. nov. -->
-
+<!-- 
 ```{=latex}
 \clearpage
 ``` -->
