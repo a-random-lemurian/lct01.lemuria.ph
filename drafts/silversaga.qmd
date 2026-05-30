@@ -750,7 +750,7 @@ Silversaga recruited pattern testers for the Clara from August 3 to 7, 2023. She
 ### Genus *Argenclara* {#sec-argenclara}
 
 <!--
-TODO: proofread argenclara
+MOSTLYDONE: proofread argenclara
 
 SPECIES FREEZE 2026-04-18
 once *Argenclara bethanae* is done we move on to some *Trunclara* spp.
