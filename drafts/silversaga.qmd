@@ -142,7 +142,7 @@ Jessica tests her patterns in one to three rounds, with a total of anywhere from
 
 Based on these figures, we estimate at least 600&ndash;1,050 extant species across the 15 families. For comparison, the LCT-01 had ~300 species across ~70 genera as of the last count conducted in February.
 
-Silversaga's aesthetic is variously described as "romantic minimalism" [@rainey2025], "timeless", and as having "soft romantic silhouettes" [@friendsoftfs_silversaga]. <!-- TODO: gather more reviews of what people call Silversaga, please... --> Silversaga herself frequently uses the adjective "romantic" on many of her product pages; and the title of the root page of the Silversaga Patterns website reads "Clothes Poetry", with a white dove emoji.
+Silversaga's aesthetic is variously described as "romantic minimalism" [@rainey2025], "timeless", and as having "soft romantic silhouettes" [@friendsoftfs_silversaga]. Silversaga herself frequently uses the adjective "romantic" on many of her product pages; and the title of the root page of the Silversaga Patterns website reads "Clothes Poetry", with a white dove emoji.
 
 
 ```{=latex}
@@ -197,7 +197,8 @@ Most of them are Silversaga's pattern testers. Pattern testers' names were infer
 
 ### Annette {#sec-annette}
 **Annette Nicoletti** (Instagram: &commat;[`annette.sews`](https://instagram.com/annette.sews)) is an American sewist from the greater Boston area.
-<!-- TODO: Is this really relevant info? Kinda smells like undue emphasis here. Will include if there's more information but will drop it if it doesn't become relevant.
+<!-- DONE: Is this really relevant info? Kinda smells like undue emphasis here. Will include if there's more information but will drop it if it doesn't become relevant.
+2026-05-31: It never became relevant, so we're leaving it commented out.
 
 She has Korean descent^[Inferred from the South Korean flag emoji on her Instagram profile.]
 -->
@@ -235,7 +236,6 @@ As stated on the description of an Ella dress make (no taxonomic classification 
 
 Salisbury is one of Jessica's pattern testers; she has tested the Eleonora [@salisbury2024_eleonora; @salisbury2024_eleonora2], the Juliette [@salisbury2024]
 
-<!-- TODO: REPLACE THIS PLACEHOLDER! -->
 **Wearer of**: 2 spp.
 *Ae. madeleinae* (@sec-argenteleonora-madeleinae),
 *Ae. madeleinatra* (@sec-argenteleonora-madeleinatra)
@@ -3384,8 +3384,6 @@ Subject facing to the right (from camera perspective). Hair positioned both vent
 **Original**: <https://cdn.shopify.com/s/files/1/0562/9375/2969/products/SilversagaSS2022_58.jpg?v=1649342524>;
 **IA**: <https://web.archive.org/web/20260416202701/https://cdn.shopify.com/s/files/1/0562/9375/2969/products/SilversagaSS2022_58.jpg?v=1649342524>;
 
-
-<!-- TODO: Maybe this should be in a different article -->
 ## Phylum Scapunatoria {#sec-scapunatoria}
 **Scapunatoria** Lemuria, 2026; first public desc.
 
@@ -3395,7 +3393,6 @@ We refine the description first provided in @lemuria_kew_2026.
 
 **Diagnosis**: Phenetically, Scapunatoria is characterized by the exposure of at least one shoulder.
 
-<!-- TODO: Maybe this should be in a different article -->
 ## Subphylum Scapamanica {#sec-scapamanica}
 **Scapamanica** Lemuria, 2026; first public desc.
 
@@ -3478,7 +3475,6 @@ https://www.instagram.com/p/C9IRqqks71o
 
 **Distribution**: Worldwide. Significant primary material on the Instagram tags `SleevelessEleonoraDressPattern`, and through typos, `SleevelessEleanoraDressPattern` (note the *A* instead of *O*). `EleonoraDressPattern` also contains specimens from both *Heleonora* and *Argenteleonora*.
 
-<!-- replace taxon with the name of the rank! -->
 **Type species**: *Heleonora beatricae*
 
 <!-- BEGIN Shira -->
@@ -3490,7 +3486,6 @@ https://www.instagram.com/p/C9IRqqks71o
 
 **Etymology**: *Shira* is a pseudo-Latin form of English *shirr*.
 
-<!-- TODO: replace taxon with the name of the rank! -->
 **Type species**: *Heleonora beatricae*
 
 <!-- BEGIN anjae -->
@@ -4787,9 +4782,9 @@ Truncated ventral view. Hair position same as in *.14*. Area of head above nose 
 **Taxonomic placement**: Placed in *Heleonora* subsect. *Duolastica*.
 
 <!--
-TODO: https://silversagapatterns.com/blogs/atelier/hack-the-pattern-christy-dawn-truett-dress
+DONE: https://silversagapatterns.com/blogs/atelier/hack-the-pattern-christy-dawn-truett-dress
 
-TODO: What if someone does this hack without explicit intent to
+DONE: What if someone does this hack without explicit intent to
 have a similar look to the Truettidae? 
   Oh, just realized while writing that sentence. I realized, I'll
   just define the taxa when it becomes actually attested
@@ -4905,7 +4900,8 @@ Four cuts. First cut: subject walks into frame, faces camera, holding skirt out,
 **Imginn**: <https://imginn.com/p/DO9E1jcDn_2/>
 <!--
 **IA**: Files deposited at <>.
-TODO: Have a big long think about whether to reupload to IA.
+NOTDONE: Have a big long think about whether to reupload to IA.
+2026-05-31: Didn't end up uploading to IA for now. 
 -->
 
 ### *Heleonora* sect. *Trilastica*
