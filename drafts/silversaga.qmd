@@ -4893,8 +4893,8 @@ Four cuts. First cut: subject walks into frame, faces camera, holding skirt out,
 **SHA2-256**: `c8a856780acfe94eff6e8c536210649c939a02287f49f4db9a245e46182dd16c`{.hash} (Video by annette.sews [DMtjYKeOzmE].fdash-4270518743180586v.mp4);
 `526458cb73b953f21cf9d7a2dc9717581cdc6dec69ddfd3dc89b83605cec7873`{.hash} (Video by annette.sews [DMtjYKeOzmE].fdash-728851763264699a.m4a);
 `29aaceb3aec6a3b3ed18b825a685b844ba84f1d1146149825be45eb8b22fbb3d`{.hash} (Video by annette.sews [DMtjYKeOzmE].mp4)
-**Original**: <https://instagram.com/p/DO9E1jcDn_2/>;
-**Imginn**: <https://imginn.com/p/DO9E1jcDn_2/>
+**Original**: <https://instagram.com/p/DMtjYKeOzmE/>;
+**Imginn**: <https://imginn.com/p/DMtjYKeOzmE/>
 <!--
 **IA**: Files deposited at <>.
 NOTDONE: Have a big long think about whether to reupload to IA.
