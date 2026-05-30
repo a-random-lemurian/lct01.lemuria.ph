@@ -60,6 +60,17 @@ The LCT-01 differs from most other systems in its emphasis on grouping by constr
 
 However, the LCT-01 is not intended to replace any already-existing systems; but rather, coexist with them. Linnaeus's decision to name the cat *Felis catus* does not mean that every human is required to refer to their cat as "instances of *Felis catus*". We aim to be one of the many glasses people can put on to look at the world.
 
+## Copyright {.unnumbered}
+We understand the importance of intellectual property rights in the sewing world. We do not reupload or directly embed images or sewing patterns. We find it important to distinguish the *product* from *information about the* product (metadata). We do not distribute the products under any circumstances, but we do freely redistribute *information* about the product. Per the U.S. Copyright Office's FAQs on the scope of copyright (at <https://www.copyright.gov/help/faq/faq-protect.html>), ideas are not eligible for copyright, but expressions of those ideas are.
+
+> How do I protect my idea?
+>
+> Copyright does not protect ideas, concepts, systems, or methods of doing something. You may express your ideas in writing or drawings and claim copyright in your description, but be aware that copyright will not protect the idea itself as revealed in your written or artistic work.
+
+We have written our own descriptions, our own monographs, and expressed the ideas, and information about the ideas in our own words. If the scientific paper format of the LCT-01's monographs is disregarded, our documents may essentially be the same as blog posts that describe, criticize, or provide commentary on a product. These posts also often include a significant original component; the blog post may contain photographs of the sewist's make; while our original component is the aggregation of several of these blog posts and the application of a Linnaean-style taxonomic system to organizing them.
+
+That aside, we license our original content under CC BY 4.0, meaning that anyone, especially sewists, are free to do almost anything they want with our material.
+
 # Background
 We intend for this background section pertaining to Jessica Silversaga to be an introduction to her for the entire taxonomy; in future monographs, we plan to refer back to this section.
 
