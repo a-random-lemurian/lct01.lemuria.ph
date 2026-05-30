@@ -1,5 +1,5 @@
 ---
-title: "An inordinate fondness for Silversaga and her patterns: a monograph on the Clara, Eleonora, and Juliette"
+title: "An inordinate fondness for Silversaga and her patterns: the Clara, Eleonora, and Juliette"
 author:
   name: Lemuria
   affiliation:
