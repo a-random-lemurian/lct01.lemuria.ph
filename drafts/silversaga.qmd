@@ -5026,7 +5026,7 @@ Flat-lay of fabric on white background, zoomed out. One-meter ruler to left of f
 
 ```{=latex}
 \clearpage
-```
+``` -->
 
 # General remarks {#sec-general-remarks}
 ## Filenames {#sec-filenames}
