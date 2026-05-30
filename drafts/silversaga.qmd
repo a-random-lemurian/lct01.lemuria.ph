@@ -5032,16 +5032,19 @@ Flat-lay of fabric on white background, zoomed out. One-meter ruler to left of f
 ```
 
 # General remarks {#sec-general-remarks}
-<!-- ## Filenames {#sec-filenames}
+## Filenames {#sec-filenames}
 Jessica's naming conventions for pattern tester filenames are consistent at the pattern-level, but inconsistent as a whole.
 
-For the Ella, Chloe, Celeste, ... patterns, we observed a numerical naming convention, and were thus unable to obtain their names.
+Many filenames included the names of the pattern testers, which allowed identification of the wearers. However, some patterns used a purely numeric naming convention, which required us to compare and cross-reference both with Silversaga's Instagram and other holotypes with known filenames to obtain the names of the sewists.
+
+<!-- For the Ella, Chloe, Celeste, ... patterns, we observed a numerical naming convention, and were thus unable to obtain their names. -->
 
 <!--
-TODO: Identify all gallery naming conventions for all 15 patterns
+SEMIDONE: Identify all gallery naming conventions for all 15 patterns
+
+Nevermind
 -->
 <!-- 
-Many filenames included the names of the pattern testers, which allowed identification of the wearers. However, some patterns used a purely numeric naming convention, which required us to compare and cross-reference both with Silversaga's Instagram and other holotypes with known filenames. -->
 
 <!--
 Juliette
