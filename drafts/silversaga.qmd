@@ -5091,6 +5091,8 @@ This monograph is part of the Silversaga special issue, a collection of research
 * Visit us at: <https://lct01.lemuria.ph>
 * Version control: <https://github.com/a-random-lemurian/lct01.lemuria.ph>
 * Zenodo: <https://zenodo.org/communities/lct01>
+* Matrix: <https://matrix.to/#/#lct01:matrix.org>
+* Our lead researcher's Instagram: <https://instagram.com/lemuriaph>
 
 &copy; Lemuria 2026. All original text and image content by Lemuria is licensed under CC BY-SA 4.0, unless explicitly noted. Linked images and other content are &copy; their respective owners or copyright holders.
 
