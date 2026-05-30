@@ -12,19 +12,20 @@ date: 2026-04-07
 lang: en
 execute: 
   freeze: false
-# publisher-id: "lict2026.0006"
+publisher-id: "lict2026.0010"
 abstract: |
   Jessica Silversaga is a Swedish pattern designer, photographer, and sewist. She is the owner of Silversaga Patterns, which began as a slow fashion RTW label before transitioning entirely to sewing patterns in 2023. She has some ~200 designs, of which 15 are available for purchase as sewing patterns.
   Silversaga's patterns have attracted a sizeable community of sewists, mostly on Instagram, who have documented their makes of her patterns. These makes number in the thousands; too much for a single taxonomist to singlehandedly catalog. As such, in this monograph, we focus on breadth instead of depth, by cataloging only a small but reflective sample of makes; that of the Clara (Argenclaridae), Eleonora (Argenteleonoridae), and Juliette (Juliettidae). The diversity and versatility of Silversaga's designs is reflected in the 15 families, 5 orders, and countless more genera and infrageneric taxa dedicated to Silversaga's patterns, scattered polyphyletically throughout the kingdom Abtruncusa.
 bibliography: silversaga.bib
 number-sections: true
+doi: 10.5281/zenodo.20450648
 citation:
   author: Lemuria
-  # citation-key: lemuria_kew_2026
+  citation-key: lemuria_silversaga_2026
   title: "An inordinate fondness for Silversaga and her patterns: a monograph on the Clara, Eleonora, and Juliette"
   original-date: 2026-04-07
   publisher: Lemuria
-  # article-id: lict2026.0006
+  article-id: lict2026.0010
   publisher-place: Philippines
 format:
   html:
@@ -5073,7 +5074,9 @@ Supplementary data is available on Zenodo.
 
 **Disclaimer**: *Lemuria's (Informal) Journal of Clothing Taxonomy* is a non-peer-reviewed, single-author, citizen science/gray literature publication with no institutional backing.
 
-<!-- Publisher article ID: 2026.0007 -->
+Publisher article ID: 2026.0010
+
+DOI: [`10.5281/zenodo.20450648`](https://doi.org/10.5281/zenodo.20450648)
 
 At publication, the journal did not have a DOI prefix.
 
