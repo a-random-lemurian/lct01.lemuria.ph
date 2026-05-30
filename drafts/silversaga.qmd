@@ -4844,8 +4844,7 @@ Left arm out of frame. Distal right arm out of frame.
 
 **Diagnosis**: *Heleonora truannettae* is characterized by its brown color with white dots and diamond-like shapes; from the usage of "topsy turvy" Jamdani cotton from Merchant & Mills as the main fabric, and vintage solid purple washed lawn from Oak Fabrics as the bias contrast fabric. Diamond shapes narrow with transparent diamond-shaped square inset. Two horizontal lines extruding from square diamond to form vague A-shapes.
 
-**Etymology**: 
-<!-- TODO: Fix the order of all fields in all taxa! -->
+**Etymology**: *Truett* + *Annette* + *-ae*, feminine genitive suffix.
 
 **Remarks**: Annette's source materials consistently have the typo &ast;Eleanora for the Eleonora dress.
 
