@@ -155,7 +155,7 @@ Silversaga uses two different scales, 1-4 and 1-5 to rank the difficulty of her 
 These are denoted by circles on the title page of each pattern, with a name given to each difficulty in italic text below.
 
 #### Table
-We present a pattern of 
+We present a table of Silversaga's patterns as follows:
 
 ::: {#tbl-silversaga-patterns}
 | Pattern | Difficulty | Release date | Sizes | Cups | LCT-01 taxa | Species count
