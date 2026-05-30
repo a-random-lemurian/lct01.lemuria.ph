@@ -3728,7 +3728,7 @@ Angled ventral view. Focused on area around bust.
 
 **Holotype**: ***Garcia 290.1709*** &mdash; Photograph.
 2736&times;3648.
-METADATAFROMHOLOTYPER <!-- TODO: fill in this holotype information -->
+Ventral view. Subject in possible urban environment, and in shade of vegetation based on tree-like shadow patterns. Wind blowing to the subject's right. Hair positioned dorsally; with slight ventral spillover, obscuring left shoulder.
 *Heleonora garciae* wb. Stephanie.G., 2024.
 &copy; Stephanie Garcia or unknown photographer, 2024, all rights reserved.
 **Page**: ;
