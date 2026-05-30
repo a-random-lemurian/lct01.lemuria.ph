@@ -249,7 +249,6 @@ In the filenames, we consistently observed the spelling *Laural* for *Laural Sta
 
 Regardless, we have chosen to abbreviate her by her last name, *Stapleton*, as this is less likely to cause confusion as to the spelling of her first name.
 
-<!-- TODO: Heleonora lauralia -->
 **Wearer of**:
 *H. lauralia* (@sec-heleonora-lauralia)
 
@@ -452,7 +451,7 @@ We also provide annotations of certain holotype images to explain their construc
 
 A mostly abridged guide for viewing these annotations with the original images is as follows:
 
-1. Download the annotation SVG file. <!-- TODO: Provide either a source or data availability section -->
+1. Download the annotation SVG file.
 2. Open the SVG file and find a URL in the top right corner. Download that URL and save the image to the same folder as the SVG file.
 3. Close and reopen the SVG file to see the final form of the annotation with the image in the background.
 
@@ -819,7 +818,6 @@ The Royal Mail wall-embedded mailbox on the subject's left proves that the image
 **Specimens examined**
 
 **Photography conditions.** All images were taken outdoors on a sidewalk in daylight conditions, with a red Royal Mail wall-embedded mailbox near the subject. Subject standing underneath vegetation, unknown species in *Fuchsia* Plum. ex L.
-<!-- TODO: Photography conditions text for ALL of Argenclara -->
 
 **Holotype**: ***Alex 40.6700AA*** &mdash; Photograph.
 3024&times;4032.
