@@ -5085,7 +5085,7 @@ DOI: [`10.5281/zenodo.20450648`](https://doi.org/10.5281/zenodo.20450648)
 
 At publication, the journal did not have a DOI prefix.
 
-Work began on the paper on 2026-04-08 and was published ...
+Work began on the paper on 2026-04-08. Proofreading began by 2026-05-28 in preparation for publication. Final publication took place on 2026-05-31.
 
 *Argenclara* was put into a species freeze on 2026-04-18 and thus began proofreading.
 The entire monograph was placed in a species freeze on 2026-05-01 in preparation for publication during Me Made May.
