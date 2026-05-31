@@ -30,10 +30,10 @@ citation:
 format:
   html:
     format-links: false
-    # other-links:
-    #   - text: PDF
-    #     href: https://static.lemuria.ph/lct01/pdf/2026/2026.0006_gunnelaurentia_johnsonia.pdf
-    #     icon: file-pdf
+    other-links:
+      - text: PDF
+        href: https://static.lemuria.ph/lct01/pdf/2026/2026.0010_silversaga.pdf
+        icon: file-pdf
   aft-pdf:
     toc: true
     toc-depth: 6
