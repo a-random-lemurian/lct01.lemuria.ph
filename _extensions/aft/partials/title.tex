@@ -7,7 +7,19 @@ $-- Customize is needed, like below for printing the authors. Otherwise remove t
 $-- %%%%%%%%%%%%%%%%
 
 $if(title)$
+
+\def\journalname{Lemuria's (Informal) Journal of Clothing Taxonomy}
+
+$if(monograph)$
+\monograph
+$endif$
+
 \title{$title$$if(thanks)$\thanks{$thanks$}$endif$}
+
+$if(doi)$\doi{$doi$}$endif$%
+$if(publisher-id)$\publisherid{$publisher-id$}$endif$%
+$if(intranet-id)$\intranetid{$intranet-id$}$endif$%
+
 $endif$
 $if(subtitle)$
 \usepackage{etoolbox}
@@ -27,8 +39,4 @@ $for(by-affiliation)$
 \affil[$it.number$]{$if(it.department)$$it.department$, $endif$$it.name$; $if(it.city)$$it.city$$endif$$if(it.country)$, $it.country$$endif$}
 $endfor$
 
-\date{$date$%
-$if(doi)$\\[0.5em]\small DOI: $doi$$endif$%
-$if(publisher-id)$\\[0.2em]\small Publisher ID: $publisher-id$$endif$%
-}
-
+\date{$date$}

@@ -1,0 +1,1083 @@
+format-version: "0.2.0"
+wearers:
+  hunter-moon: &huntermoon
+    abbr: Hunter-Moon
+    name: Katie Hunter-Moon
+  eva: &eva
+    abbr: Eva
+    name: Kate Eva
+
+taxa:
+  Argenclara:
+    describer: Lemuria, 2026
+    rank: genus
+    taxa:
+      Lacashira:
+        describer: Lemuria, 2026
+        rank: subgenus
+        taxa:
+          mantorae:
+            rank: species
+            describer: Lemuria, 2026
+            holotype:
+              - name: Mantori 19.3097
+                view: ventral
+                sum:
+                  sha256: 6e25bd7c36ed209ccaa5fe6f73be80c74ffa2b1485ff97e1a3b69ef78c83ee2b
+                urls:
+                  - provider: orig
+                    href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Suna-Mantori6.jpg?v=1692899267
+                  - provider: ia
+                    href: https://web.archive.org/web/20260318161553/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Suna-Mantori6.jpg?v=1692899267
+                wearer:
+                  abbr: Suna.M.
+                  name: Suna Mantori
+                width: 2667
+                height: 4000
+            types:
+              - name: Mantori 19.1761
+                view: ventral
+                sum:
+                  sha256: df7a021014cdf4cbe8e2d3e8c4405c62a2252120d2b87561441a556f9bc5ac2a
+                urls:
+                  - provider: orig
+                    href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Suna-Mantori5.jpg?v=1692899286
+                  - provider: ia
+                    href: https://web.archive.org/web/20260318161541/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Suna-Mantori5.jpg?v=1692899286
+                wearer:
+                  abbr: Suna.M.
+                  name: Suna Mantori
+                width: 2771
+                height: 4000
+              - name: Mantori 19.1823
+                view: dorsal
+                sum:
+                  sha256: a58e3f4d81d66735aa8c1a25e8aceb19d45547ef4a1245b71209b66f6228c2ef
+                urls:
+                  - provider: orig
+                    href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Suna-Mantori.jpg?v=1692899248
+                  - provider: ia
+                    href: https://web.archive.org/web/20260413153422/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Suna-Mantori.jpg?v=1692899248
+                wearer:
+                  abbr: Suna.M.
+                  name: Suna Mantori
+                width: 2667
+                height: 4000
+      Venaluna:
+        rank: subgenus
+        describer: Lemuria, 2026
+        taxa:
+          lunatrix:
+            rank: species
+            describer: Lemuria, 2026
+            holotype:
+              - name: Hunter-Moon 23.4877
+                view: ventral
+                sum:
+                  sha256: 6c8f53d040ffb38e67e3e790b0fd2d4e09468d6770f25bffa1bf75906908c039
+                urls:
+                  - provider: orig
+                    href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Katie_Hunter-Moon6.jpg?v=1692899662
+                  - provider: ia
+                    href: https://web.archive.org/web/20260318161530/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Katie_Hunter-Moon6.jpg?v=1692899662
+                wearer: *huntermoon
+                width: 2926
+                height: 4389
+            types:
+              - name: Hunter-Moon 23.4901
+                view:
+                sum:
+                  sha256: c51095fc15911c1706298a2922f7b9fe028ea729d49864b33158dd473716b78d
+                urls:
+                  - provider: orig
+                    href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Katie_Hunter-Moon7.jpg?v=1692899670
+                  - provider: ia
+                    href: https://web.archive.org/web/20260318161528/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Katie_Hunter-Moon7.jpg?v=1692899670
+                wearer: *huntermoon
+                width: 2926
+                height: 4389
+              - name: Hunter-Moon 23.5361
+                view:
+                sum:
+                  sha256: 14345281caae7a41cd86d0abe77c71ff04b8727b00fe6f089e8558a293a3f8ef
+                urls:
+                  - provider: orig
+                    href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Katie_Hunter-Moon13.jpg?v=1692899685
+                  - provider: ia
+                    href: https://web.archive.org/web/20260413155350/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Katie_Hunter-Moon13.jpg?v=1692899685
+                wearer: *huntermoon
+                width: 2926
+                height: 4389
+          lunatribis:
+            rank: species
+            describer: Lemuria, 2026
+            holotype:
+              - name: Hunter-Moon 25.17665
+                view:
+                sum:
+                  sha256: a471730cb1e901428ce5707f3dba2dad285622f5a89ac073b9d341b37534c57c
+                urls:
+                  - provider: orig
+                    href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Katie_Hunter-Moon5.jpg?v=1692901633
+                  - provider: ia
+                    href: https://web.archive.org/web/20260413161010/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Katie_Hunter-Moon5.jpg?v=1692901633
+                wearer: *huntermoon
+                width: 1184
+                height: 1776
+            types:
+              - name: Hunter-Moon 25.17803
+                view:
+                sum:
+                  sha256: 29d6079a9afa851f21e905d87dac3b8992706c8eef6309b697b38a02baac7515
+                urls:
+                  - provider: orig
+                    href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Katie_Hunter-Moon3.jpg?v=1692901618
+                  - provider: ia
+                    href: https://web.archive.org/web/20260318161529/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Katie_Hunter-Moon3.jpg?v=1692901618
+                wearer: *huntermoon
+                width: 1184
+                height: 1776
+              - name: Hunter-Moon 25.17921
+                view:
+                sum:
+                  sha256: f14e1e300c1c0018d781c7f43b744bd0a19be81526ae21d82624277728cfa17c
+                urls:
+                  - provider: orig
+                    href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Katie_Hunter-Moon4.jpg?v=1692901626
+                  - provider: ia
+                    href: https://web.archive.org/web/20260318161550/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Katie_Hunter-Moon4.jpg?v=1692901626
+                wearer: *huntermoon
+                width: 1184
+                height: 1776
+      morgania:
+        rank: species
+        describer: Lemuria, 2026
+        holotype:
+          - name: Morgan 13.57610
+            view:
+            sum:
+              sha256: e0ec8f3ea200032ac9876d2add05b755ab2e270d9403e9c864cdf1a370b7255e
+            urls:
+              - provider: orig
+                href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Mackenzie_Morgan2.jpg?v=1692899387
+              - provider: ia
+                href: https://web.archive.org/web/20260413154134/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Mackenzie_Morgan2.jpg?v=1692899387
+            wearer:
+              abbr: Mackenzie.M.
+              name: Mackenzie Morgan
+            width: 3024
+            height: 4032
+        types:
+          - name: Morgan 13.57633
+            view:
+            sum:
+              sha256: 35b3dead3e28d030388c6b98c68ad887ceec48a694d31b8c303f5bbce88a8462
+            urls:
+              - provider: orig
+                href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Mackenzie_Morgan4.jpg?v=1692899416
+              - provider: ia
+                href: https://web.archive.org/web/20260413154325/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Mackenzie_Morgan4.jpg?v=1692899416
+            wearer:
+              abbr: Mackenzie.M.
+              name: Mackenzie Morgan
+            width: 3024
+            height: 4032
+          - name: Morgan 13.57635
+            view:
+            sum:
+              sha256: 41f388c08711c703345b4dc1985d2d2442db8e24078d48557fc89240dc1a2f17
+            urls:
+              - provider: orig
+                href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Mackenzie_Morgan.jpg?v=1692899399
+              - provider: ia
+                href:  https://web.archive.org/web/20260318161547/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Mackenzie_Morgan.jpg?v=1692899399
+            wearer:
+              abbr: Mackenzie.M.
+              name: Mackenzie Morgan
+            width: 2670
+            height: 4032
+          - name: Morgan 13.58900
+            view:
+            sum:
+              sha256: 055b991913d5e646615a42f4fb7f6f54cf5cae30a55d54e1f168ebe24c54e874
+            urls:
+              - provider: orig
+                href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Mackenzie_Morgan7.jpg?v=1692899408
+              - provider: ia
+                href: https://web.archive.org/web/20260413154331/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Mackenzie_Morgan7.jpg?v=1692899408
+            wearer:
+              abbr: Mackenzie.M.
+              name: Mackenzie Morgan
+            width: 3024
+            height: 4032
+          
+      malinae:
+        rank: species
+        describer: Lemuria, 2026
+        holotype:
+          - name: Stara 10.19448
+            view:
+            sum:
+              sha256: a4fdf3d5536e9a4b6095495adb3a5dbbd53151a258f307af84076cb669acacc2
+            urls:
+              - provider: orig
+                href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Malin_Stara2.jpg?v=1692899533
+              - provider: ia
+                href: https://web.archive.org/web/20260318161551/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Malin_Stara.jpg?v=1692899512
+            wearer:
+              abbr: Malin.S.
+              name: Malin Stara
+            width: 2000
+            height: 3008
+        types:
+          - name: Stara 10.19571
+            view:
+            sum:
+              sha256: 683db976955ab01c92c32a6d6f9f5ae7cfb3bd539c3de91dd15b09ee43fd87b4
+            urls:
+              - provider: orig
+                href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Malin_Stara3.jpg?v=1692899523
+              - provider: ia
+                href: https://web.archive.org/web/20260413154853/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Malin_Stara3.jpg?v=1692899523
+            wearer:
+              abbr: Malin.S.
+              name: Malin Stara
+            width: 2000
+            height: 3008
+          - name: Stara 10.19780
+            view:
+            sum:
+              sha256: 00ea6fbd28dc593ecb14d05eeee1c9c99a27f2b3bdc28c5027c409cf3fefde5c
+            urls:
+              - provider: orig
+                href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Malin_Stara.jpg?v=1692899512
+              - provider: ia
+                href: https://web.archive.org/web/20260413154851/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Malin_Stara.jpg?v=1692899512
+            wearer:
+              abbr: Malin.S.
+              name: Malin Stara
+            width: 2000
+            height: 3008
+      
+      # Sorry Maria, we forgot you
+      #
+      # mariae:
+      #   rank: species
+      #   describer: Lemuria, 2026
+      #   holotype:
+      #     - name: 
+      #       view: 
+      #       width: 
+      #       height: 
+      #       sum:
+      #         sha256: 
+      #       urls:
+      #         - provider: orig
+      #           href: 
+      #         - provider: ia
+      #           href: 
+      #       wearer: 
+      #         abbr: 
+      #         name: 
+      #         year: 
+      #       cite_key: 
+
+      baumgartia:
+        rank: species
+        describer: Lemuria, 2026
+        holotype:
+          - name: Baumgart 95.6714
+            view:
+            sum:
+              sha256: 5d05d2e61cd68f822183f12b64e96e245def9f728f63340ac880ae47f84f76ee
+            urls:
+              - provider: orig
+                href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Elizabeth_Baumgart7.jpg?v=1692899766
+              - provider: ia
+                href: https://web.archive.org/web/20260413155714/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Elizabeth_Baumgart7.jpg?v=1692899766
+            wearer:
+              abbr: Eliz.B.
+              name: Elizabeth Baumgart
+            width: 2888
+            height: 3845
+        types:
+          - name: Baumgart 95.6811
+            view:
+            sum:
+              sha256: 6b12e5ea7abf8290dcfee8365b121b0dbddfa907da7ee939e80633faa0de176e
+            urls:
+              - provider: orig
+                href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Elizabeth_Baumgart6.jpg?v=1692899786
+              - provider: ia
+                href: https://web.archive.org/web/20260413155726/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Elizabeth_Baumgart6.jpg?v=1692899786
+            wearer:
+              abbr: Eliz.B.
+              name: Elizabeth Baumgart
+            width: 3024
+            height: 4032
+          - name: Baumgart 95.7035
+            view:
+            sum:
+              sha256: b1a5b429f1d209595c3c1f7d6c912fff43284b9262a4f26ade99a37ed11fb957
+            urls:
+              - provider: orig
+                href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Elizabeth_Baumgart4.jpg?v=1692899737
+              - provider: ia
+                href: https://web.archive.org/web/20260413155709/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Elizabeth_Baumgart4.jpg?v=1692899737
+            wearer:
+              abbr: Eliz.B.
+              name: Elizabeth Baumgart
+            width: 2235
+            height: 2984
+
+      alexisae:
+        rank: species
+        describer: Lemuria, 2026
+        holotype:
+          - name: Wright 17.4019
+            view:
+            sum:
+              sha256: f8fb0cbde9ff4dde8b1949f6dd9c0b68870fd3f5f7cca8ce07a1e10fd048b916
+            urls:
+              - provider: orig
+                href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Alexis-Wright.jpg?v=1692900295
+              - provider: ia
+                href: https://web.archive.org/web/20260413155859/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Alexis-Wright.jpg?v=1692900295
+            wearer:
+              abbr: Alexis.Wr.
+              name: Alexis Wright
+            width: 2668
+            height: 4000
+
+        types:
+          - name: Wright 17.4033
+            view:
+            sum:
+              sha256: 29a9ab040a78a6d44c66d7989e9e5aac04b98ddb62948fd672c0ed1fe110f494
+            urls:
+              - provider: orig
+                href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Alexis-Wright4.jpg?v=1692900307
+              - provider: ia
+                href: https://web.archive.org/web/20260318161549/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Alexis-Wright4.jpg?v=1692900307
+            wearer:
+              abbr: Alexis.Wr.
+              name: Alexis Wright
+            width: 3335
+            height: 5000
+
+          - name: Wright 17.4076
+            view:
+            sum:
+              sha256: b7144f02712087587be248f698f232b1809c10f148895e8a2c5b152e5c314823
+            urls:
+              - provider: orig
+                href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Alexis-Wright3.jpg?v=1692900316
+              - provider: ia
+                href: https://web.archive.org/web/20260413155930/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Alexis-Wright3.jpg?v=1692900316
+            wearer:
+              abbr: Alexis.Wr.
+              name: Alexis Wright
+            width: 3335
+            height: 5000
+
+
+      jessae:
+        rank: species
+        describer: Lemuria, 2026
+        holotype:
+          - name: Jones 28.1741
+            view:
+            sum:
+              sha256: 4a5a1a52a6d65719e0643ddcc9c16b09e613f6ef63bd26f783fcb7523421ea8d
+            urls:
+              - provider: orig
+                href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Jessa_Jones5.jpg?v=1692900432
+              - provider: ia
+                href: https://web.archive.org/web/20260318161532/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Jessa_Jones5.jpg?v=1692900432
+            wearer:
+              abbr: Jessa.J.
+              name: Jessa Jones
+            width: 2316
+            height: 3088
+        types:
+          - name: Jones 28.1835
+            view:
+            sum:
+              sha256: 4fb548d548ba2a2da09871e7f8777913fafc45a9e3f8a627f5d7265ec2e750ef
+            urls:
+              - provider: orig
+                href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Jessa_Jones2.jpg?v=1692900418
+              - provider: ia
+                href: https://web.archive.org/web/20260318161556/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Jessa_Jones2.jpg?v=1692900418
+            wearer:
+              abbr: Jessa.J.
+              name: Jessa Jones
+            width: 2967
+            height: 3956
+          - name: Jones 28.1837
+            view:
+            sum:
+              sha256: 56e72cc47563229110332b014fc9404a14a3ef29d1d47cdf10354b550177dde5
+            urls:
+              - provider: orig
+                href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Jessa_Jones4.jpg?v=1692900426
+              - provider: ia
+                href: https://web.archive.org/web/20260413160055/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Jessa_Jones4.jpg?v=1692900426
+            wearer:
+              abbr: Jessa.J.
+              name: Jessa Jones
+            width: 2316
+            height: 3088
+
+      teschia:
+        rank: species
+        describer: Lemuria, 2026
+        holotype:
+          - name: Tesch 50.6700
+            view:
+            sum:
+              sha256: fa16c0ff27e6d724e68ee3dbd256f6f4a58ec619d0f6bcae428ff1041bee9baa
+            urls:
+              - provider: orig
+                href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Mel_Tesch9.jpg?v=1692900615
+              - provider: ia
+                href: https://web.archive.org/web/20260413160342/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Mel_Tesch9.jpg?v=1692900615
+            wearer:
+              abbr: Mel.T.
+              name: Mel Tesch
+            width: 2464
+            height: 3280
+
+        types:
+          - name: Tesch 50.6751
+            view:
+            sum:
+              sha256: 29dcddcfefe145527f57e15d271c5191265044f02cf6240f864fe3ecb7dc3db8
+            urls:
+              - provider: orig
+                href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Mel_Tesch3.jpg?v=1692900601
+              - provider: ia
+                href: https://web.archive.org/web/20260413160343/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Mel_Tesch3.jpg?v=1692900601
+            wearer:
+              abbr: Mel.T.
+              name: Mel Tesch
+            width: 2464
+            height: 3280
+
+          - name: Tesch 50.6790
+            view:
+            sum:
+              sha256: 4b8768b4ad2ec6fd9a36f039e2b2bd9b1c4af1899c130990ea8ca515cb94c309
+            urls:
+              - provider: orig
+                href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Mel_Tesch4.jpg?v=1692900608
+              - provider: ia
+                href: https://web.archive.org/web/20260318161557/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Mel_Tesch4.jpg?v=1692900608
+            wearer:
+              abbr: Mel.T.
+              name: Mel Tesch
+            width: 2464
+            height: 3280
+
+
+      mai:
+        rank: species
+        describer: Lemuria, 2026
+        holotype:
+          - name: Vang 25.4050
+            view:
+            sum:
+              sha256: 44b249a15c5640ab762cba2c929ec502e61174c94d0397696a1315dae02948c4
+            urls:
+              - provider: orig
+                href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Mai_Vang3.jpg?v=1692901558
+              - provider: ia
+                href: https://web.archive.org/web/20260318161528/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Mai_Vang3.jpg?v=169290155
+            wearer:
+              abbr: Mai
+              name: Mai Vang
+            width: 2209
+            height: 3031
+        types:
+          - name: Vang 25.4085
+            view:
+            sum:
+              sha256: 836057f9419577ddb9e1991e9e166067f59757e1ffadd033922f6d81228521a7
+            urls:
+              - provider: orig
+                href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Mai_Vang2.jpg?v=1692901378
+              - provider: ia
+                href: https://web.archive.org/web/20260413160700/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Mai_Vang2.jpg?v=169290137
+            wearer:
+              abbr: Mai
+              name: Mai Vang
+            width: 1967
+            height: 2622
+
+      gratia:
+        rank: species
+        describer: Lemuria, 2026
+        holotype:
+          - name: Grace 15.44320
+            view:
+            sum:
+              sha256: 06623a2b019f575ed54def935c1c7f84c8d3460d59269d1618d0debd3975db65
+            urls:
+              - provider: orig
+                href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/E_Grace_Jones3.jpg?v=1692901801
+              - provider: ia
+                href: https://web.archive.org/web/20260414035453/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/E_Grace_Jones3.jpg?v=1692901801
+            wearer:
+              abbr: E.Grace.J.
+              name: E. Grace Jones
+            width: 2316
+            height: 3088
+
+        types:
+          - name: Grace 15.44710
+            view:
+            sum:
+              sha256: ff79b27452986e26c7c8b7d4d71fdd8597d0709199400717f4b8894413d9f1c7
+            urls:
+              - provider: orig
+                href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/E_Grace_Jones11.jpg?v=1692901817
+              - provider: ia
+                href: https://web.archive.org/web/20260414035514/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/E_Grace_Jones11.jpg?v=1692901817
+            wearer:
+              abbr: E.Grace.J.
+              name: E. Grace Jones
+            width: 2316
+            height: 3088
+          - name: Grace 15.44737
+            view:
+            sum:
+              sha256: 827b1082921f58d7b05b24dc954f3fb0d9a5b42a87a9fd166f77863059e4b012
+            urls:
+              - provider: orig
+                href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/E_Grace_Jones4.jpg?v=1692901809
+              - provider: ia
+                href: https://web.archive.org/web/20260414035452/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/E_Grace_Jones4.jpg?v=1692901809
+            wearer:
+              abbr: E.Grace.J.
+              name: E. Grace Jones
+            width: 2316
+            height: 3088
+
+      tortajada:
+        rank: species
+        describer: Lemuria, 2026
+        holotype:
+          - name: Tortajada 39.8104
+            view:
+            sum:
+              sha256: 73acf0e0447ca2e1893b2ee45c301a30d0712a4e43fa379b51a5e7ec5eddaa4e
+            urls:
+              - provider: orig
+                href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Marta_Tortajada9.jpg?v=1692901969
+              - provider: ia
+                href: https://web.archive.org/web/20260318161538/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Marta_Tortajada9.jpg?v=1692901969
+            wearer:
+              abbr: Marta.T.
+              name: Marta Tortajada
+            width: 3456
+            height: 4608
+        types:
+          - name: Tortajada 39.8175
+            view:
+            sum:
+              sha256: 42ebddb381f033932335097c72611151b57f1d9c17668a99d6ea8621a05ebd2c
+            urls:
+              - provider: orig
+                href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Marta_Tortajada7.jpg?v=1692901934
+              - provider: ia
+                href: https://web.archive.org/web/20260318161546/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Marta_Tortajada7.jpg?v=1692901934
+            wearer:
+              abbr: Marta.T.
+              name: Marta Tortajada
+            width: 3150
+            height: 4200
+          - name: Tortajada 39.8560
+            view:
+            sum:
+              sha256: d4fd197e4b33f8243928496e467456a8daf234ed79ba965c844e903f589a8dc7
+            urls:
+              - provider: orig
+                href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Marta_Tortajada4.jpg?v=1692901891
+              - provider: ia
+                href: https://web.archive.org/web/20260414035806/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Marta_Tortajada4.jpg?v=1692901891
+            wearer:
+              abbr: Marta.T.
+              name: Marta Tortajada
+            width: 3456
+            height: 4608
+
+      caitlinae:
+        rank: species
+        describer: Lemuria, 2026
+        holotype:
+          - name: Caitlin 40.1873AC
+            view: ventral
+            sum:
+              sha256: e11ef025717f86be06b983ced9cd3973cb6a754d5d10b8b421a98310118a3d71
+            urls:
+              - provider: orig
+                href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/CaitlinDPatternTest-09.jpg?v=1692902128
+              - provider: ia
+                href: https://web.archive.org/web/20260414040234/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/CaitlinDPatternTest-09.jpg?v=1692902128
+            wearer:
+              abbr: Caitlin.D.
+              name: Caitlin.D.
+            width: 3024
+            height: 4032
+        types:
+          - name: Caitlin 40.1877AC
+            view: angled lateral
+            sum:
+              sha256: 58664cf39631ffec4557d3646358111f645d06833a32468bc2f8444a2a3ddf83
+            urls:
+              - provider: orig
+                href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/CaitlinDPatternTest-16.jpg?v=1692902119
+              - provider: ia
+                href: https://web.archive.org/web/20260318161543/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/CaitlinDPatternTest-16.jpg?v=1692902119
+            wearer:
+              abbr: Caitlin.D.
+              name: Caitlin.D.
+            width: 3024
+            height: 4032
+          - name: Caitlin 40.1879AC
+            view: ventral
+            sum:
+              sha256: 96e588d9a11367104b28ca3dc0fab741c394c9305fb1da53442a31c254fac98f
+            urls:
+              - provider: orig
+                href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/CaitlinDPatternTest-11.jpg?v=1692902110
+              - provider: ia
+                href: https://web.archive.org/web/20260414040227/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/CaitlinDPatternTest-11.jpg?v=1692902110
+            wearer:
+              abbr: Caitlin.D.
+              name: Caitlin.D.
+            width: 3024
+            height: 4032
+
+      fenae:
+        rank: species
+        describer: Lemuria, 2026
+        holotype:
+          - name: Fena 105.6711AF
+            view: ventral
+            sum:
+              sha256: 9c2722262cf0970f1187acf40e72e80c381d0c5a2c03d7e85996a1a574c275ed
+            urls:
+              - provider: orig
+                href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Fena_tandriarto.jpg?v=1692902195
+              - provider: ia
+                href: https://web.archive.org/web/2/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Fena_tandriarto.jpg
+            wearer:
+              abbr: Fena.T.
+              name: Fena Tandriarto
+            width: 2786
+            height: 3715
+        types:
+          - name: Fena 105.6734AF
+            view: ventral
+            sum:
+              sha256: d91d7bdef693f9123f021b1b970fe856f7bd0e88db91966092026ea62bf295c9
+            urls:
+              - provider: orig
+                href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Fena_tandriarto6.jpg?v=1692902220
+              - provider: ia
+                href: https://web.archive.org/web/20260318161539/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Fena_tandriarto6.jpg?v=1692902220
+            wearer:
+              abbr: Fena.T.
+              name: Fena Tandriarto
+            width: 2969
+            height: 3959
+          - name: Fena 105.6737AF
+            view: ventral
+            sum:
+              sha256: 052b2c2ca848a660f9279638d9141d675f1c0f834b504a07bdcfe87b8828b49d
+            urls:
+              - provider: orig
+                href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Fena_tandriarto3.jpg?v=1692902283
+              - provider: ia
+                href: https://web.archive.org/web/20260318161525/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Fena_tandriarto3.jpg?v=1692902283
+            wearer:
+              abbr: Fena.T.
+              name: Fena Tandriarto
+            width: 2937
+            height: 3915
+
+      theresae:
+        rank: species
+        describer: Lemuria, 2026
+        holotype:
+          - name: Theresa 23.2818AT
+            view:
+            sum:
+              sha256: 78d1a33a0b23d4314740fc039d87737ed1857f0e658e8d097a9c9ba42893fdd3
+            urls:
+              - provider: orig
+                href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Theresa_Neef5.jpg?v=1692902728
+              - provider: ia
+                href: https://web.archive.org/web/20260414043552/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Theresa_Neef5.jpg?v=1692902728
+            wearer:
+              abbr: Theresa.N.
+              name: Theresa Neef
+            width: 3294
+            height: 4118
+        types:
+          - name: Theresa 23.3092AT
+            view:
+            sum:
+              sha256: 28ec362d9a28844d2df2d72fcf0c702b8da2370286109b928bd4d4239642b319
+            urls:
+              - provider: orig
+                href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Theresa_Neef6.jpg?v=1692902719
+              - provider: ia
+                href: https://web.archive.org/web/20260414043523/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Theresa_Neef6.jpg?v=1692902719
+            wearer:
+              abbr: Theresa.N.
+              name: Theresa Neef
+            width: 2410
+            height: 3012
+          - name: Theresa 23.3091AT
+            view:
+            sum:
+              sha256: 05634dfb5036b41fa05ddf16bea8ab12915adfc7b0dc3d02de3641af459009d7
+            urls:
+              - provider: orig
+                href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Theresa_Neef.jpg?v=1692902739
+              - provider: ia
+                href: https://web.archive.org/web/20260414043538/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Theresa_Neef.jpg?v=1692902739
+            wearer:
+              abbr: Theresa.N.
+              name: Theresa Neef
+            width: 2733
+            height: 3416
+
+      alexae:
+        rank: species
+        describer: Lemuria, 2026
+        holotype:
+          - name: Alex 40.6700AA
+            view: ventral
+            width: 3024
+            height: 4032
+            sum:
+              sha256: 75e5aeb22ebb1171a6ca28187e26466af48e21d69f611ef781d5e3bfb92d8211
+            urls:
+              - provider: orig
+                href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Alex_Begin2.jpg?v=1692902847
+              - provider: ia
+                href: https://web.archive.org/web/20260414044848/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Alex_Begin2.jpg?v=1692902847
+            wearer:
+              abbr: Alex.B.
+              name: Alex Begin
+        types:
+          - name: Alex 40.6735AA
+            view: ventral
+            width: 3024
+            height: 4032
+            sum:
+              sha256: 494d1719bad12d3c7a47bfa3c9ab93e95c5c3a38c36fb42d38c6f76b7ae37a40
+            urls:
+              - provider: orig
+                href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Alex_Begin3.jpg?v=1692902839
+              - provider: ia
+                href: https://web.archive.org/web/20260414044827/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Alex_Begin3.jpg?v=1692902839
+            wearer:
+              abbr: Alex.B.
+              name: Alex Begin
+          - name: Alex 40.6746AA
+            view: ventral
+            width: 3024
+            height: 4032
+            sum:
+              sha256: ae7e1b8fb9964ffdee8a880c9c11589f33bf1c94bcbd000787ec00ac445779d7
+            urls:
+              - provider: orig
+                href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Alex_Begin.jpg?v=1692902867
+              - provider: ia
+                href: https://web.archive.org/web/20260318161535/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Alex_Begin.jpg?v=1692902867
+            wearer:
+              abbr: Alex.B.
+              name: Alex Begin
+
+      hetheringtonia:
+        rank: species
+        describer: Lemuria, 2026
+        holotype:
+          - name: Hetherington 240.4350
+            view: ventral
+            sum:
+              sha256: 43087f0d8acdc4b6a0ad60e46a9880be13e619d46ecfe99c752be3ec03f95c05
+            urls:
+              - provider: orig
+                href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Emily-Hetherington6.jpg?v=1692903153
+              - provider: ia
+                href: https://web.archive.org/web/20260414045126/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Emily-Hetherington6.jpg?v=1692903153
+            wearer:
+              abbr: E.Heth.
+              name: Emily Hetherington
+        types:
+          - name: Hetherington 240.4717 
+            view: dorsal
+            sum:
+              sha256: 096ee14282ece7e61f33e23efc7cd4ad1d33241ae9e90bb845ee49ce7ca0d774
+            urls:
+              - provider: orig
+                href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Emily-Hetherington4.jpg?v=1692903178
+              - provider: ia
+                href: https://web.archive.org/web/20260318161545/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Emily-Hetherington4.jpg?v=1692903178
+            wearer:
+              abbr: E.Heth.
+              name: Emily Hetherington
+          - name: Hetherington 240.5670
+            view: ventral
+            sum:
+              sha256: b7dc17222f0e049c44a8ac18854ce419d9d3ec7c423ff6970b51cb46e5a21036
+            urls:
+              - provider: orig
+                href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Emily-Hetherington9.jpg?v=1692903165
+              - provider: ia
+                href: https://web.archive.org/web/20260414045117/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Emily-Hetherington9.jpg?v=1692903165
+            wearer:
+              abbr: E.Heth.
+              name: Emily Hetherington
+
+      wilhoitia:
+        rank: species
+        describer: Lemuria, 2026
+        holotype:
+          - name: Wilhoit 34.1870
+            view:
+            width: 1500
+            height: 1518
+            sum:
+              sha256: 3c9df8f8fe22fa80202e14b52d74ea6da2f784b342db0785d7077783a0fad483
+            urls:
+              - provider: orig
+                href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Lacy_Wilhoit9.jpg?v=1692902602
+              - provider: ia
+                href: https://web.archive.org/web/20260318161536/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Lacy_Wilhoit9.jpg?v=1692902602
+            wearer:
+              abbr: Lacy.W.
+              name: Lacy Wilhoit
+        types:
+          - name: Wilhoit 34.1957
+            view:
+            width: 1512
+            height: 2016
+            sum:
+              sha256: b6eb6e4e302b59b3ffd06d38a0c29f94c771eabe60fba54b40a5c85a761107f9
+            urls:
+              - provider: orig
+                href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Lacy_Wilhoit.jpg?v=1692902593
+              - provider: ia
+                href: https://web.archive.org/web/20260414045606/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Lacy_Wilhoit.jpg?v=1692902593
+            wearer:
+              abbr: Lacy.W.
+              name: Lacy Wilhoit
+          - name: Wilhoit 34.3771
+            view:
+            width: 1424
+            height: 1594
+            sum:
+              sha256: 3f12a5b413540f5622d6c0b96c491d0b271bcd24ccaf349bd6d2bb469521d371
+            urls:
+              - provider: orig
+                href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Lacy_Wilhoit1.jpg?v=1692902608
+              - provider: ia
+                href: https://web.archive.org/web/20260414045612/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Lacy_Wilhoit1.jpg?v=1692902608
+            wearer:
+              abbr: Lacy.W.
+              name: Lacy Wilhoit
+
+      evae:
+        rank: species
+        describer: Lemuria, 2026
+        holotype:
+          - name: Eva 2024.51321AE
+            view: ventral
+            width: 1440
+            height: 1800
+            sum:
+              sha256: 3dfbce82a5bb8e4fd1cad3b48718d637adef86cda8330db5d5426ddaa7e7a355
+            id:
+              ig: 658439210_18092747069157318_2777814582593702200
+            urls:
+              - provider: ia
+                href: https://web.archive.org/web/20260415164826/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/658439210_18092747069157318_2777814582593702200_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=100&ig_cache_key=MzM2ODM5NDA4ODU2MDkyNDUyMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTgwMC5oZHIuQzMifQ%3D%3D&_nc_ohc=MWhqLyrOfNEQ7kNvwHKg1mD&_nc_oc=AdqWy75IPEYjGMYo1PyMszZWUMG4dZU3ipxM40Bpcl_aWSTt-r0zik9UpmQyv_4rtC8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=-1&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=714neZitmBxwtgr_hgOGKQ&_nc_ss=7a32e&oh=00_Af0dBv7eX7Ku2citXh8S676bFNllmVCTahrh0WFSxENyAQ&oe=69E59276
+            wearer:
+              <<: *eva
+              year: 2024
+
+        types:
+          - name: Eva 2026.520.39442
+            view: ventral
+            width: 1440
+            height: 1920
+            sum:
+              sha256: 67896cf2ec98ac0b521346fddf5f29c5f5de39cd3860fcd525d591b5834d076b
+            id:
+              ig: 683780806_18581398309024297_5372316129147739442
+            urls:
+              - provider: ia
+                href: https://web.archive.org/web/20260504200743/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/683780806_18581398309024297_5372316129147739442_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=Mzg4NzU3NTYzMjcxNjUzOTYwOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkyMC5zZHIuQzMifQ%3D%3D&_nc_ohc=1WTNJXNme0EQ7kNvwHi6sjz&_nc_oc=AdoBCxA7Eh0UNoPWFhsWInNEYMUO6gO9M_uT-DNY-5dGpCOET5RRBnOhw0eavvzWb6A&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=EAEYYrmSwYJpLzy8N2Pk7w&_nc_ss=7a22e&oh=00_Af50N5RjMjFdffmaajo2JJf5hZg-PMWy7Gj75q45mGHMLw&oe=69FED344
+            wearer:
+              <<: *eva
+              year: 2026
+
+          - name: Eva 2026.520.56290
+            view: ventral
+            width: 1440
+            height: 1920
+            sum:
+              sha256: 02eaedc0a5f88a339570332a41b7ab81245278a1410dfb31fc5449c02902d494
+            id:
+              ig: 687760142_18581398318024297_1958349817387356290
+            urls:
+              - provider: ia
+                href: https://web.archive.org/web/20260504200744/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/687760142_18581398318024297_1958349817387356290_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzg4NzU3NTY0MDQxNzI4NTc3Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkyMC5zZHIuQzMifQ%3D%3D&_nc_ohc=vH3F4uPhFCgQ7kNvwGG5cvw&_nc_oc=AdoLQaThYR3cY5ooeewwD_qJkgCqzhWUjJN29XAYNl3TSsUl8m8o2QsoqcbLh7Nv9l4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=EAEYYrmSwYJpLzy8N2Pk7w&_nc_ss=7a22e&oh=00_Af4UigA-6le8rn7sgHZkiQObHR-VQbu7ci4s6udwRHv7fw&oe=69FEC8C1
+            wearer:
+              <<: *eva
+              year: 2026
+
+          - name: Eva 2026.520.71156
+            view: ventral
+            width: 1440
+            height: 1920
+            sum:
+              sha256: f17b6e90ef15f9feeafd384ed3ed2f0d3d79140fe9d7ba266c683f068093d4e4
+            id:
+              ig: 671161059_18581398333024297_8958263499940971156
+            urls:
+              - provider: ia
+                href: https://web.archive.org/web/20260504200748/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/671161059_18581398333024297_8958263499940971156_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=102&ig_cache_key=Mzg4NzU3NTY1NDg4NzY1MTg3NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkyMC5oZHIuQzMifQ%3D%3D&_nc_ohc=3vvNPk9U5YoQ7kNvwGKr11k&_nc_oc=AdotaAdXCpwT2h9w_189c5uVODLZki2U-Dv3NcLc0zqrnns20Yz7anIe2UYU1h334Gk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=-1&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=EAEYYrmSwYJpLzy8N2Pk7w&_nc_ss=7a22e&oh=00_Af5L1a7tqVOsANWc8SwR8hQuCwAnrDN9n1B9QyMvcSOOmQ&oe=69FEE4D8
+            wearer:
+              <<: *eva
+              year: 2026
+
+
+      bethanae:
+        rank: species
+        describer: Lemuria, 2026
+        holotype:
+          - name: Bethany 126.4429
+            view: ventral
+            width: 1200
+            height: 1600
+            sum:
+              sha256: 51e9246e21e8fa3efb30d04cc5db51847709a620119a9a5bc0baf956ab55daff
+            urls:
+              - provider: orig
+                href: https://www.bethanylynnemakes.com/wp-content/uploads/2025/03/clara-dress-front-2.jpg
+              - provider: ia
+                href: https://web.archive.org/web/20260417183436/https://www.bethanylynnemakes.com/wp-content/uploads/2025/03/clara-dress-front-2.jpg
+            wearer:
+              abbr: Bethany.L.
+              name: Bethany Lynne
+        types:
+          - name: Bethany 126.4510
+            view: dorsal
+            width: 1200
+            height: 1600
+            sum:
+              sha256: fe1fbea9f7c2964811e5ba71fb73ebbe1fb9320a2f1ce101beb99e9a74b4b25f
+            urls:
+              - provider: orig
+                href: https://www.bethanylynnemakes.com/wp-content/uploads/2025/03/clara-dress-back.jpg
+              - provider: ia
+                href: https://web.archive.org/web/20260417183433/https://www.bethanylynnemakes.com/wp-content/uploads/2025/03/clara-dress-back.jpg
+            wearer:
+              abbr: Bethany.L.
+              name: Bethany Lynne
+          - name: Bethany 126.4700
+            view: ventral
+            width: 1200
+            height: 1601 # not a typo!!!
+            sum:
+              sha256: 6b44e0d23753615633eac1493373899b66456424cd96125f72fc01b3dc5c1a98
+            urls:
+              - provider: orig
+                href: https://www.bethanylynnemakes.com/wp-content/uploads/2025/03/clara-dress-front.jpg
+              - provider: ia
+                href: https://web.archive.org/web/20260417183432/https://www.bethanylynnemakes.com/wp-content/uploads/2025/03/clara-dress-front.jpg
+            wearer:
+              abbr: Bethany.L.
+              name: Bethany Lynne
+      # novazelandensis:
+  Trunclara:
+    rank: genus
+    describer: Lemuria, 2026; gen. nov.
+    taxa:
+      piolae:
+        rank: species
+        describer: Lemuria, 2026; sp. nov.
+        holotype:
+          - name: Piola 2024.12778.20
+            view: ventral
+            width: 1440
+            height: 1800
+            sum:
+              sha256: 0e25ef36b7f713a6e85b2de1dc7694fdb8c51aedf2529bb39e2bc9bb8b8eabf3
+            urls:
+              - provider: ia
+                href: https://web.archive.org/web/20260418164650/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/651032635_17935612314033315_7469322359039305818_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=MzM1ODQ0OTUwMTkzOTQ4MzQyOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTgwMC5zZHIuQzMifQ%3D%3D&_nc_ohc=AYf-jm9P3HsQ7kNvwFL0D_N&_nc_oc=AdrHG_Bgwhx8FsyO4rzTOYDtFZF5GL-bNW1Ree12JXbaml96lKiMkIdVeOtSA9WgU-s&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=BZsiCw5W7XYL3ytgUQOkGw&_nc_ss=7a32e&oh=00_Af00k_G602S0zFFm7tgwy7GPoBx44yt2XLaqs5O4EzXunQ&oe=69E9722F
+            wearer:
+              abbr: Piola
+              name: Piola
+              instagram: piola.makes
+        types:
+          - name: Piola 2024.12778.27
+            view: ventral
+            width: 1440
+            height: 1800
+            sum:
+              sha256: 47a1d8b64aef3d5cabb6aed3eae4b5a161a27127d0e8237946074150f3b162e5
+            urls:
+              - provider: ia
+                href: https://web.archive.org/web/20260418164651/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/654634402_18171473422396408_4043238219587882316_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=MzM1ODQ0OTUwMTkzMTEwMzQ1OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTgwMC5zZHIuQzMifQ%3D%3D&_nc_ohc=dNAodqjLhEgQ7kNvwEN1OiH&_nc_oc=AdoD8ufAp18Su2PY3dtau-gCmiUvjd3Ti231-xkNk1wzFUJuqJFP2LueoIGGy4KEcEM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=BZsiCw5W7XYL3ytgUQOkGw&_nc_ss=7a32e&oh=00_Af3N-u7yPQ9Zvr8nAYTIMeFUZKUXDoZ9IX3ziZpW-s2jgQ&oe=69E96F85
+            wearer:
+              abbr: Piola
+              name: Piola
+          - name: Piola 2024.12778.41
+            view: ventral
+            width: 1440
+            height: 1800
+            sum:
+              sha256: 077511bc1d8f2d5c073b42b4b09e004cff72da9012c1559319851c2a1a607c2a
+            urls:
+              - provider: ia
+                href: https://web.archive.org/web/20260418164654/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/656867146_18038961785568678_4270797345592559343_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=MzM1ODQ0OTUwMjE5MTEzMjI1OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTgwMC5zZHIuQzMifQ%3D%3D&_nc_ohc=M4PsMyJEpvIQ7kNvwHBQ-8j&_nc_oc=AdoP12JnF5qciPXDO2TAeCpNFsnxpDOtkxIhfZRYy8F0AssIlJEogXaSnIqFnoisNuc&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=BZsiCw5W7XYL3ytgUQOkGw&_nc_ss=7a32e&oh=00_Af3cZfjFxVOcrwtVNI0hjtItD5ropnXzVMAQpDMmnMxNug&oe=69E98966
+            wearer:
+              abbr: Piola
+              name: Piola
+
+
+        
+
+# subg. Lacashira -- lace at shirring area
+# subg. Venaluna
+
+# lunatrix -- Katie Hunter-Moon
+# lunatribis -- Katie u
+
+# mantorae
+
+
+# morgania
+# malinae
+# baumgartia
+# alexisae
+# jessae
+# teschia
+# mai
+# gratia -- E. Grace Jones
+# tortajada
+# caitlinae
+# fenae
+# theresae
+# alexae
+# hetheringtonia
+# wilhoitia

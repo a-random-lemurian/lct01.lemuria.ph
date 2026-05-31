@@ -1,4 +1,8 @@
 %%
+%% Modified 2026-04-15 by Lemuria
+%%
+%% -------
+%%
 %% This is file `article.cls',
 %% generated with the docstrip utility.
 %%
@@ -42,9 +46,9 @@
 %% and covered by LPPL is defined by the unpacking scripts (with
 %% extension .ins) which are part of the distribution.
 \NeedsTeXFormat{LaTeX2e}[1995/12/01]
-\ProvidesClass{article}
-              [2021/10/04 v1.4n
- Standard LaTeX document class]
+\ProvidesClass{lemurianjournalsarticle}
+              [2026/04/29 v0.1
+ Standard Lemurian Journals article document class]
 \newcommand\@ptsize{}
 \newif\if@restonecol
 \newif\if@titlepage
@@ -234,27 +238,87 @@
     \global\let\date\relax
     \global\let\and\relax
   }
+
+\def\journalname{}
+
+
+\def\@doi{}
+\def\@publisherid{}
+\def\@intranetid{}
+\def\@journalwebsite{}
+
+\newcommand{\doi}[1]{\def\@doi{#1}}
+\newcommand{\intranetid}[1]{\def\@intranetid{#1}}
+\newcommand{\publisherid}[1]{\def\@publisherid{#1}}
+\newcommand{\journalwebsite}[1]{\def\@journalwebsite{#1}}
+
+\newif\ifmonograph
+\monographfalse
+
+\newcommand{\monograph}{\monographtrue}
+
 \def\@maketitle{%
   \newpage
   \null
   \vskip 2em%
-  \begin{center}%
-  {\large \textit{Lemuria's (Informal) Journal of Clothing Taxonomy}}
+
+  %\begin{center}%
+
+  {\large \textit{\journalname}}
+  \vskip 0.5em%
+
+  \ifx\@journalwebsite\@empty
+  \else
+    \vskip .5em%
+    {\small \texttt{\@journalwebsite}}%
+  \fi
+
   \vskip 1em%
+
+  \ifmonograph
+    {\Large \textbf{Monograph}}\vskip 1em
+    \vskip 1em
+  \fi
+
   \let \footnote \thanks
     {\LARGE \@title \par}%
     \vskip 1.5em%
     {\large
       \lineskip .5em%
-      \begin{tabular}[t]{c}%
-        \@author
+      \@author
+      \begin{tabular}{l}%
       \end{tabular}\par}%
+
     \vskip 1em%
+  
     {\large \@date}%
-  \end{center}%
+
+    \ifx\@doi\@empty
+    \else
+      \vskip .5em%
+      {\small \texttt{doi:\@doi}}%
+    \fi
+
+    \ifx\@intranetid\@empty
+    \else
+      \vskip .5em%
+      {\small \texttt{lh:\@intranetid} (intranet)}%
+    \fi
+
+    \ifx\@publisherid\@empty
+    \else
+      \vskip .25em%
+      {\small ID: \texttt{\@publisherid}}%
+    \fi
+
+  %\end{center}%
+
+  \vfill
+
   \par
   \vskip 1.5em}
 \fi
+
 
 \setcounter{secnumdepth}{3}
 \newcounter {part}
@@ -379,16 +443,12 @@
      {\par\vfil\null\endtitlepage}
 \else
   \newenvironment{abstract}{%
-      \if@twocolumn
-        \section*{\abstractname}%
-      \else
-        \small
+        \ifmonograph \clearpage \fi
         \begin{center}%
-          {\bfseries \abstractname\vspace{-.5em}\vspace{\z@}}%
+          {{\Large \bfseries \abstractname}\vspace{-.5em}\vspace{\z@}}%
         \end{center}%
         \quotation
-      \fi}
-      {\if@twocolumn\else\endquotation\fi}
+      }
 \fi
 \newenvironment{verse}
                {\let\\\@centercr
@@ -545,10 +605,12 @@
                                  \kern-\p@\kern\p@}\par
     \endgroup
   \fi}
+
 \newcommand*\l@subsection{\@dottedtocline{2}{1.5em}{2.3em}}
-\newcommand*\l@subsubsection{\@dottedtocline{3}{3.8em}{3.2em}}
-\newcommand*\l@paragraph{\@dottedtocline{4}{7.0em}{4.1em}}
-\newcommand*\l@subparagraph{\@dottedtocline{5}{10em}{5em}}
+\newcommand*\l@subsubsection{\@dottedtocline{3}{2.0em}{3.2em}}
+\newcommand*\l@paragraph{\@dottedtocline{4}{3.0em}{4.1em}}
+\newcommand*\l@subparagraph{\@dottedtocline{5}{4.0em}{5em}}
+
 \newcommand\listoffigures{%
     \section*{\listfigurename}%
       \@mkboth{\MakeUppercase\listfigurename}%

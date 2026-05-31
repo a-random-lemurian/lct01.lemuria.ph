@@ -1,0 +1,777 @@
+      #     - name: 
+      #       view: 
+      #       width: 
+      #       height: 
+      #       sum:
+      #         sha256: 
+      #       urls:
+      #         - provider: orig
+      #           href: 
+      #         - provider: ia
+      #           href: 
+      #       wearer: 
+      #         abbr: 
+      #         name: 
+      #         year: 
+      #       cite_key:
+
+x-wearers:
+  stapleton: &stapleton
+    abbr: Stapleton
+    name: Laural Stapleton
+  shannon: &shannonp
+    abbr: Shannon.P.
+    name: Shannon
+    ig: pins_and_tonic
+  antigoni: &antigoni
+    abbr: Antigoni
+    name: Antigoni Tsami
+    ig: antigoni_makes
+  yoannam: &yoannam
+    abbr: Yoanna.M.
+    name: Yoanna McClintock
+  cynthiar: &cynthiar
+    abbr: Cynthia.R.
+    name: Cynthia Romo
+  pickard: &pickard
+    abbr: Angela.P.
+    name: Angela Pickard
+  elizabeth: &elizabeth
+    abbr: Elizabeth.M.
+    name: Elizabeth McNally
+
+x-unilastica: &xunilastica-taxa
+    lauralia:
+      rank: species
+      describer: Lemuria, 2026; first public desc.
+      holotype:
+        - name: Stapleton 2024.905.2118
+          view: ventral
+          width: 1072
+          height: 1600
+          sum:
+            sha256: 5c6b41063ed0057bb098e92df14d2f25991c48eea499bc8ee9a8c0cb45dca85b
+          urls:
+            - provider: orig
+              href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/sleeveless_Eleanora__tester_Laural_Stapleton-7.jpg?v=1720291715
+            - provider: ia
+              href: https://web.archive.org/web/20260408100929/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/sleeveless_Eleanora__tester_Laural_Stapleton-7.jpg?v=1720291715
+          wearer: 
+            <<: *stapleton
+            year: 2024
+          cite_key: sleeveless_eleonora_gallery
+      types:
+        - name: Stapleton 2024.905.4098
+          view: ventral
+          width: 1067
+          height: 1600
+          sum:
+            sha256:  010adb019367ddaa6597db65c24ba1e6e7e8e7900a87b38c17af4ffef03f0717
+          urls:
+            - provider: orig
+              href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/sleeveless_Eleanora__tester_Laural_Stapleton-5.jpg?v=1720291715
+            - provider: ia
+              href: https://web.archive.org/web/20260408100502/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/sleeveless_Eleanora__tester_Laural_Stapleton-5.jpg?v=1720291715
+          wearer: 
+            <<: *stapleton
+            year: 2024
+          cite_key: sleeveless_eleonora_gallery
+
+
+    shannonae:
+      rank: species
+      describer: Lemuria, 2026; first public desc.
+      holotype:
+        - name: Shannon 2024.115.2775
+          view: ventral
+          width: 2246
+          height: 2246
+          sum:
+            sha256: 22087290249a15ae0fd867f4ab971216a9cf8fddf52964885754a27815191d92
+          urls:
+            - provider: orig
+              href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Shannon_P_353d5416-64af-467d-8432-e415fa8381ca.jpg?v=1720291713
+            - provider: ia
+              href: https://web.archive.org/web/20260506080133/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Shannon_P4.jpg?v=1720291714
+          wearer:
+            <<: *shannonp
+            year: 2024
+      types:
+        - name: Shannon 2024.115.3905
+          view: ventral
+          width: 2704
+          height: 2704
+          sum:
+            sha256: 1e36e3e8a6f54262bdad42f8c7da84d54e01098a89fcebf940912990c9875a56
+          urls:
+            - provider: orig
+              href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Shannon_P4.jpg?v=1720291714
+            - provider: ia
+              href: https://web.archive.org/web/20260506080133/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Shannon_P4.jpg?v=1720291714
+          wearer:
+            <<: *shannonp
+            year: 2024
+# https://www.instagram.com/p/C9DnMULyxvz/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==
+
+    antigonae:
+      rank: species
+      describer: Lemuria, 2026; first public desc.
+      holotype:
+        - name: Antigoni 2024.133.27
+          view: ventral
+          width: 4000
+          height: 2667
+          sum:
+            sha256: 97c9150f13d1535158323509cc72ccca521cf70c6e90e68ea38b642e719ad3c6
+          urls:
+            - provider: orig
+              href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Antigoni_Tsiami3.jpg?v=1720291725
+            - provider: ia
+              href: https://web.archive.org/web/20260408100815/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Antigoni_Tsiami3.jpg?v=1720291725
+          wearer: 
+            <<: *antigoni
+            year: 2024
+          cite_key: sleeveless_eleonora_gallery
+      types:
+        - name: Antigoni 2024.133.76
+          view: dorsal
+          width: 4000
+          height: 2667
+          sum:
+            sha256: b45779db34e8407fb23c9a08db922088520802160cba1f48c9e7d13138bad7c5
+          urls:
+            - provider: orig
+              href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Antigoni_Tsiami6.jpg?v=1720291724
+            - provider: ia
+              href: https://web.archive.org/web/20260408100825/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Antigoni_Tsiami6.jpg?v=1720291724
+          wearer: 
+            <<: *antigoni
+            year: 2024
+          cite_key: sleeveless_eleonora_gallery
+# https://www.instagram.com/p/C9Kv3o_qohF/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==
+
+x-duolastica-taxa: &duolastica-taxa
+  alinae:
+    rank: species
+    describer: Lemuria, 2026; sp. nov.
+    holotype:
+      - name: Wegner 2024.29761.50
+        view: ventral
+        width: 2764
+        height: 3925
+        sum: 
+          sha256: dbdd37f9ad212f2dde64f7765da22c0d800472d538afd32da262182abff63020
+        urls:
+          - provider: orig
+            href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Alina_Wegner2.jpg?v=1720291671
+          - provider: ia
+            href: https://web.archive.org/web/20260408100321/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Alina_Wegner2.jpg?v=1720291671
+        wearer:
+          name: Alina Wegner
+          abbr: Alina.W.
+          year: 2024
+        cite_key: sleeveless_eleonora_gallery
+    types:
+      - name: Wegner 2024.29761.70
+        view: ventral
+        width: 3024
+        height: 4032
+        sum: 
+          sha256: 745251dcc7e5e1d2365ecb2139c227530272b8546fbb8f1b401015e78224c972
+        urls:
+          - provider: orig
+            href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Alina_Wegner7.jpg?v=1720291672
+          - provider: ia
+            href: https://web.archive.org/web/20260408100324/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Alina_Wegner7.jpg?v=1720291672
+        wearer:
+          name: Alina Wegner
+          abbr: Alina.W.
+          year: 2024
+        cite_key: sleeveless_eleonora_gallery
+  alinaebis:
+    rank: species
+    describer: Lemuria, 2026; sp. nov.
+    holotype:
+      - name: Wegner 2024.376.33009
+        view: ventral
+        width: 3039
+        height: 4032
+        sum: 
+          sha256: 339337b43e4e521c8003b3d107000916e48fd722964196ee5cef96bef11fb2b2
+        urls:
+          - provider: orig
+            href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Alina_Wegner.jpg?v=1720291668
+          - provider: ia
+            href: https://web.archive.org/web/20260408100105/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Alina_Wegner.jpg?v=1720291668
+        wearer:
+          name: Alina Wegner
+          abbr: Alina.W.
+          year: 2024
+        cite_key: sleeveless_eleonora_gallery
+    types:
+      - name: Wegner 2024.376.33510
+        view: ventral
+        width: 3024
+        height: 4032
+        sum: 
+          sha256: 79e337393488456120b6b4821f0f1478691eb5f2f7db1625c64952ecb4d09eee
+        urls:
+          - provider: orig
+            href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Alina_Wegner2_2.jpg?v=1720291726
+          - provider: ia
+            href: https://web.archive.org/web/20260408100110/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Alina_Wegner2_2.jpg?v=1720291726
+        wearer:
+          name: Alina Wegner
+          abbr: Alina.W.
+          year: 2024
+        cite_key: sleeveless_eleonora_gallery
+  angelae:
+    rank: species
+    describer: Lemuria, 2026; sp. nov.
+    holotype:
+      - name: Pickard 2024.17275.200
+        view: ventral
+        width: 3024
+        height: 4032
+        sum: 
+          sha256: 9cde027b41ce14c6ba59921e7535adc8fd980c854cbc0eeaf344386d80c1df41
+        urls:
+          - provider: orig
+            href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Angela_Pickard2.jpg?v=1720291672
+          - provider: ia
+            href: https://web.archive.org/web/20260408100716/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Angela_Pickard2.jpg?v=1720291672
+        wearer:
+          <<: *pickard
+          year: 2024
+        cite_key: sleeveless_eleonora_gallery
+    types:
+      - name: Pickard 2024.17275.600
+        view: ventral
+        width: 3024
+        height: 4032
+        sum: 
+          sha256: eb9ad694ab24b20c3b1a3834d90a23bfe1be3fe5d420fd19b318a6925d019604
+        urls:
+          - provider: orig
+            href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Angela_Pickard6.jpg?v=1720291671
+          - provider: ia
+            href: https://web.archive.org/web/20260408100726/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Angela_Pickard6.jpg?v=1720291671
+        wearer:
+          <<: *pickard
+          year: 2024
+        cite_key: sleeveless_eleonora_gallery
+  bethanae:
+    rank: species
+    describer: Lemuria, 2026; sp. nov.
+    holotype:
+      - name: Bethany 2024.59330.400
+        view: ventral
+        width: 2316
+        height: 3088
+        sum: 
+          sha256: 53602ffa70aa6ad2ac3e2426a81547f4976bd8e042e635441c450d4f83c07124
+        urls:
+          - provider: orig
+            href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/BETHANY_ROUTAMAA_4.jpg?v=1720291675
+          - provider: ia
+            href: https://web.archive.org/web/20260408100217/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/BETHANY_ROUTAMAA_4.jpg?v=1720291675
+        wearer:
+          name: Bethany Lynne
+          abbr: Bethany.L.
+          year: 2024
+        cite_key: sleeveless_eleonora_gallery
+    types:
+      - name: Bethany 2024.59330.100
+        view: ventral
+        width: 2796
+        height: 4032
+        sum: 
+          sha256: 8a465c1a4c2007c383ab0db112c7da9c47e6123f0ecdff0df819f9b602e8a5b6
+        urls:
+          - provider: orig
+            href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/BETHANY_ROUTAMAA_1.jpg?v=1720291674
+          - provider: ia
+            href: https://web.archive.org/web/20260408100217/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/BETHANY_ROUTAMAA_1.jpg?v=1720291674
+        wearer:
+          name: Bethany Lynne
+          abbr: Bethany.L.
+          year: 2024
+        cite_key: sleeveless_eleonora_gallery
+  caydenae:
+    rank: species
+    describer: Lemuria, 2026; sp. nov.
+    holotype:
+      - name: Cayden 2024.25677.14
+        view: ventral
+        width: 2316
+        height: 3088
+        sum: 
+          sha256: ac2a6a6aa97ecd37566dbff23f46fd607dbf47124540a0bd8c66014b4b73c95e
+        urls:
+          - provider: orig
+            href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Cayden_Naughton14.jpg?v=1720291678
+          - provider: ia
+            href: https://web.archive.org/web/20260408100423/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Cayden_Naughton14.jpg?v=1720291678
+        wearer:
+          name: Cayden Naughton
+          abbr: Cayden.Na.
+          year: 2024
+        cite_key: sleeveless_eleonora_gallery
+    types:
+      - name: Cayden 2024.25677.12
+        view: ventral
+        width: 2316
+        height: 3088
+        sum: 
+          sha256: 24d69387c6527fff75fc00c39d64b69db125d70bc832149b7fa57dcdbb4e7edc
+        urls:
+          - provider: orig
+            href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Cayden_Naughton12.jpg?v=1720291677
+          - provider: ia
+            href: https://web.archive.org/web/20260408100419/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Cayden_Naughton12.jpg?v=1720291677
+        wearer:
+          name: Cayden Naughton
+          abbr: Cayden.Na.
+          year: 2024
+        cite_key: sleeveless_eleonora_gallery
+  cynthiae:
+    rank: species
+    describer: Lemuria, 2026; sp. nov.
+    holotype:
+      - name: Cynthia 2024.194735.75
+        view: ventral
+        width: 2316
+        height: 3088
+        sum: 
+          sha256: e1383211a2e1f31da7598b211b70dfdda9925b9ebe33b5e5d1cee7252bacb40c
+        urls:
+          - provider: orig
+            href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Cynthia_Romo4.jpg?v=1720291681
+          - provider: ia
+            href: https://web.archive.org/web/2/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Cynthia_Romo4.jpg?v=1720291681
+        wearer:
+          <<: *cynthiar
+          year: 2024
+        cite_key: sleeveless_eleonora_gallery
+    types:
+      - name: Cynthia 2024.194735.38
+        view: ventral
+        width: 3024
+        height: 4032
+        sum: 
+          sha256: b45bdfb2671b4686307f2f7e4f2eea5fd1bf3e8dbdda4d11206c7060c338f8af
+        urls:
+          - provider: orig
+            href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Cynthia_Romo.jpg?v=1720291680
+          - provider: ia
+            href: https://web.archive.org/web/20260408100526/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Cynthia_Romo.jpg?v=1720291680
+        wearer:
+          <<: *cynthiar
+          year: 2024
+        cite_key: sleeveless_eleonora_gallery
+  lizzia:
+    # https://www.instagram.com/seamrippinlizzy/
+    # https://www.instagram.com/p/C9C6YdjRAy3
+    # https://www.instagram.com/reel/C9C6bduRZcX
+    rank: species
+    describer: Lemuria, 2026
+    holotype:
+      - view: ventral
+        name: McNally 20.23014
+        width: 2316
+        height: 3088
+        urls:
+          - provider: orig
+            href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Elizabeth_McNally2.jpg?v=1720291681
+          - provider: ia
+            href: https://web.archive.org/web/20260408095919/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Elizabeth_McNally2.jpg?v=1720291681
+        sum:
+          sha256: 6f27893b736fbebf44fbfc24fec10afd2487c4cda1d91daec6de441a9bfbf77b
+        wearer:
+          <<: *elizabeth
+          year: 2024
+    types:
+      - view: ventral
+        name: McNally 20.23710
+        width: 3024
+        height: 4032
+        urls:
+          - provider: orig
+            href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Elizabeth_McNally3.jpg?v=1720291681
+          - provider: ia
+            href: https://web.archive.org/web/20260408095920/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Elizabeth_McNally3.jpg?v=1720291681
+        sum:
+          sha256: f46504965fb55a6e9a4ac4c7cab6f2e9835967042cf474b5e9162b4f9ec90bee
+        wearer:
+          <<: *elizabeth
+          year: 2024
+  jenae:
+    rank: species
+    describer: Lemuria, 2026; sp. nov.
+    holotype:
+      - name: Jen 2024.3348.119
+        view: ventral
+        width: 3024
+        height: 4032
+        sum: 
+          sha256: ebfa152582c074d0afec902dddec378e2ec8788e2506f15d61f753140e2ea389
+        urls:
+          - provider: orig
+            href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Jen_Legg2.jpg?v=1720291683
+          - provider: ia
+            href: https://web.archive.org/web/20260408100536/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Jen_Legg2.jpg?v=1720291683
+        wearer:
+          # What a short enough name
+          abbr: Jen Legg
+          name: Jen Legg
+          year: 2024
+        cite_key: sleeveless_eleonora_gallery
+      - name: Jen 2024.3348.167
+        view: ventral
+        width: 2899
+        height: 4008
+        sum: 
+          sha256: 242e60d131a1c665588226dcb26eb992a1f757b8ccffdce575e328660bc18adb
+        urls:
+          - provider: orig
+            href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Jen_Legg3.jpg?v=1720291684
+          - provider: ia
+            href: https://web.archive.org/web/20260408100606/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Jen_Legg3.jpg?v=1720291684
+        wearer:
+          # What a short enough name
+          abbr: Jen Legg
+          name: Jen Legg
+          year: 2024
+        cite_key: sleeveless_eleonora_gallery
+    types:
+  lexiae:
+    rank: species
+    describer: Lemuria, 2026; sp. nov.
+    holotype:
+      - name: Lexi 2024.5853.106
+        view: ventral
+        width: 3024
+        height: 4032
+        sum: 
+          sha256: bbda8f9cb8008cb6c66bbe3d1e1f5e84d8ec3befee921a8eb4ca448096c2f1de
+        urls:
+          - provider: orig
+            href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Lexi_Mccartt4.heic?v=1720291693
+          - provider: ia
+            href: https://web.archive.org/web/20260408100306/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Lexi_Mccartt4.heic?v=1720291693
+        wearer:
+          abbr: Lexi.M.
+          name: Lexi Mccartt
+          year: 2024
+        cite_key: sleeveless_eleonora_gallery
+    types:
+      - name: Lexi 2024.5853.153
+        view: ventral
+        width: 1080
+        height: 1616
+        sum: 
+          sha256: a69783651c9fcf07bdb1acba6281c0e967120d1ff7bbba7da6d959e0c4e73907
+        urls:
+          - provider: orig
+            href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Lexi_Mccartt7.jpg
+          - provider: ia
+            href: https://web.archive.org/web/20260520213209/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Lexi_Mccartt7.jpg
+        wearer:
+          abbr: Lexi.M.
+          name: Lexi Mccartt
+          year: 2024
+        cite_key: sleeveless_eleonora_gallery
+  michellae:
+    rank: species
+    describer: Lemuria, 2026; sp. nov.
+    holotype:
+      - name: Michelle 2024.58044.8750
+        view: ventral
+        width: 3024
+        height: 4032
+        sum: 
+          sha256: d93fa52d657d1a445f2044dea048b39a11c1dfa38939c4b53cc7fd587c1237f3
+        urls:
+          - provider: orig
+            href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Michelle_Tsang.jpg?v=1720291698
+          - provider: ia
+            href: https://web.archive.org/web/20260408100805/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Michelle_Tsang.jpg?v=1720291698
+        wearer:
+          abbr: Michelle.Ts.
+          name: Michelle Tsang
+          year: 2024
+        cite_key: sleeveless_eleonora_gallery
+    types:
+      - name: Michelle 2024.58044.4339
+        view: ventral
+        width: 3024
+        height: 4032
+        sum: 
+          sha256: d12a8673bef66d3ccb67d9d7e5dd3c51074e07d011fa85326310445c76d3f2d4
+        urls:
+          - provider: orig
+            href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Michelle_Tsang6_f787cb0b-4224-4277-be94-13a1b2edc5d4.jpg?v=1720291699
+          - provider: ia
+            href: https://web.archive.org/web/20260408100831/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Michelle_Tsang6_f787cb0b-4224-4277-be94-13a1b2edc5d4.jpg?v=1720291699
+        wearer:
+          abbr: Michelle.Ts.
+          name: Michelle Tsang
+          year: 2024
+        cite_key: sleeveless_eleonora_gallery
+  willmesia:
+    rank: species
+    describer: Lemuria, 2026; sp. nov.
+    holotype:
+      - name: Willmes 2024.505.39
+        view: ventral
+        width: 1080
+        height: 1616
+        sum: 
+          sha256: 81f473c1737ee32aae04f918b0d726b92ae3b34b0d51963d3deac2b125c07997 
+        urls:
+          - provider: orig
+            href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Pia_Willmes9.jpg?v=1720291703
+          - provider: ia
+            href: https://web.archive.org/web/20260408100936/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Pia_Willmes9.jpg?v=1720291703
+        # wearer: it's a dress hanging on a tree
+        wearer:
+          no_wearer: true
+        cite_key: sleeveless_eleonora_gallery
+    types:
+      - name: Willmes 2024.505.3315
+        view: ventral
+        width: 2667
+        height: 4000
+        sum: 
+          sha256: 5ee16c144d7010850cfd448db02fc774067559eac07c248d32f4f6bc89c6619b
+        urls:
+          - provider: orig
+            href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Pia_Willmes_211e9360-1aa6-42a1-a813-f5bb72c3315b.jpg?v=1720291702
+          - provider: ia
+            href: https://web.archive.org/web/2/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Pia_Willmes_211e9360-1aa6-42a1-a813-f5bb72c3315b.jpg?v=1720291702
+        wearer:
+          name: Pia Willmes
+          abbr: Willmes
+          year: 2024
+        cite_key: sleeveless_eleonora_gallery
+  willmesiabis:
+    rank: species
+    describer: Lemuria, 2026; sp. nov.
+    holotype:
+      - name: Willmes 2024.11098.248
+        view: ventral
+        width: 4000
+        height: 4687
+        sum: 
+          sha256: 7053339fe890e875e1245f4cd489d02c013a53e74476c907630f5167367b5e0a
+        urls:
+          - provider: orig
+            href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Pia_Willmes5_e76d31ac-b5a3-46fa-b7c1-c462a1383487.jpg?v=1720291705
+          - provider: ia
+            href: https://web.archive.org/web/20260408101017/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Pia_Willmes5_e76d31ac-b5a3-46fa-b7c1-c462a1383487.jpg?v=1720291705
+        wearer:
+          name: Pia Willmes
+          abbr: Willmes
+          year: 2024
+        cite_key: sleeveless_eleonora_gallery
+    types:
+      - name: Willmes 2024.11098.277
+        view: ventral
+        width: 2848
+        height: 4000
+        sum: 
+          sha256: b05b36d7d0de41dedc43a65b5c9c224df2172a3d47bf07110b7adc3e64c949ec
+        urls:
+          - provider: orig
+            href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Pia_Willmes6_3a17b4da-a010-46b7-800b-d56afb050b9b.jpg?v=1720291704
+          - provider: ia
+            href: https://web.archive.org/web/20260408100027/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Pia_Willmes6_3a17b4da-a010-46b7-800b-d56afb050b9b.jpg?v=1720291704
+        wearer:
+          name: Pia Willmes
+          abbr: Willmes
+          year: 2024
+        cite_key: sleeveless_eleonora_gallery
+      # - name: 
+      #   view: ventral
+      #   width: 
+      #   height: 
+      #   sum: 
+      #     sha256: 
+      #   urls:
+      #     - provider: orig
+      #       href: 
+      #     - provider: ia
+      #       href: 
+      #   wearer:
+      #   cite_key: sleeveless_eleonora_gallery
+  rachelae:
+    rank: species
+    describer: Lemuria, 2026; sp. nov.
+    holotype:
+      - name: McClain 2024.50653.1149
+        view: ventral
+        width: 2810
+        height: 4000
+        sum: 
+          sha256: fd7ff79162626fbed8f4a3d809a32d475631679e80990b5e94a5f1c994d6e61c
+        urls:
+          - provider: orig
+            href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Rachel_McClain3.jpg?v=1720292013
+          - provider: ia
+            href: https://web.archive.org/web/20260408100609/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Rachel_McClain3.jpg?v=1720292013
+        wearer:
+          name: Rachel McClain
+          abbr: Rachel.M.
+          year: 2024
+        cite_key: sleeveless_eleonora_gallery
+    types:
+      - name: McClain 2024.50653.3267
+        view: ventral
+        width: 2459
+        height: 3279
+        sum: 
+          sha256: 0b35e47053803f4fa13acce3db1121224c2c2ef74487ce49f0817bf08a3f8e72
+        urls:
+          - provider: orig
+            href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Rachel_McClain4.jpg?v=1720291705
+          - provider: ia
+            href: https://web.archive.org/web/20260408100620/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Rachel_McClain4.jpg?v=1720291705
+        wearer:
+          name: Rachel McClain
+          abbr: Rachel.M.
+          year: 2024
+        cite_key: sleeveless_eleonora_gallery
+  renskae:
+    # https://www.instagram.com/p/C9C_KqRszBi
+    rank: species
+    describer: Lemuria, 2026; sp. nov.
+    holotype:
+      - name: Renske 2024.50053.114
+        view: ventral
+        width: 3024
+        height: 4032
+        sum: 
+          sha256: c6d6e4ca15044233460dfbdc86872d7cde7e0577f3a6db25f63f800441b05c21
+        urls:
+          - provider: orig
+            href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Renske_Tjoelker2.jpg?v=1720291705
+          - provider: ia
+            href: https://web.archive.org/web/20260408100732/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Renske_Tjoelker2.jpg?v=1720291705
+        wearer:
+          abbr: Renske.Tj.
+          name: Renske Tjoelker
+          year: 2024
+        cite_key: sleeveless_eleonora_gallery
+    types:
+      - name: Renske 2024.24008.981
+        view: ventral
+        width: 3024
+        height: 4032
+        sum: 
+          sha256: 60ca8f633f50161223d45cc6e168b13bd3f6fef319d41a31cbbf7165828f4624
+        urls:
+          - provider: orig
+            href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Renske_Tjoelker8.jpg?v=1720291706
+          - provider: ia
+            href: https://web.archive.org/web/20260408100900/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Renske_Tjoelker8.jpg?v=1720291706
+        wearer:
+          abbr: Renske.Tj.
+          name: Renske Tjoelker
+          year: 2024
+        cite_key: sleeveless_eleonora_gallery
+  bouteillerae:
+    # https://www.instagram.com/sarah.btller/
+    # https://www.instagram.com/p/C9DKXPVt-2z
+    rank: species
+    describer: Lemuria, 2026; sp. nov.
+    holotype:
+      - name: Bouteiller 2024.35611.300
+        view: ventral
+        width: 3982
+        height: 4978
+        sum: 
+          sha256: b5f230279549aca2266870267fdb419bce52c64b9887e1e555c564620fd15a4a
+        urls:
+          - provider: orig
+            href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Sarah_Bouteiller3.jpg?v=1720291711
+          - provider: ia
+            href: https://web.archive.org/web/20260408100930/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Sarah_Bouteiller3.jpg?v=1720291711
+        wearer:
+          abbr: Sarah.Bou.
+          name: Sarah Bouteiller
+          year: 2024
+        cite_key: sleeveless_eleonora_gallery
+    types:
+      - name: Bouteiller 2024.35611.120
+        view: ventral
+        width: 3993
+        height: 4991
+        sum: 
+          sha256: 9023db2824a93252207a44e2392a0afda8b7458f2f79867f52f5e5b70275e3d7
+        urls:
+          - provider: orig
+            href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Sarah_Bouteiller12.jpg?v=1720291713
+          - provider: ia
+            href: https://web.archive.org/web/20260408095919/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Sarah_Bouteiller12.jpg?v=1720291713
+        wearer:
+          abbr: Sarah.Bou.
+          name: Sarah Bouteiller
+          year: 2024
+        cite_key: sleeveless_eleonora_gallery
+  yoannae:
+    rank: species
+    describer: Lemuria, 2026; sp. nov.
+    holotype:
+      - name: McClintock 2024.50987.14
+        view: 
+        width: 1638 
+        height: 2048
+        sum: 
+          sha256: 719f892b3ca9ffdb3a3cd8645405500c623c255d9648352cd899d7d91014d602
+        urls:
+          - provider: orig
+            href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Yoanna_McClintock-14.jpg?v=1720291722
+          - provider: ia
+            href: https://web.archive.org/web/20260408095809/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Yoanna_McClintock-14.jpg?v=1720291722
+        wearer:
+          <<: *yoannam
+          year: 2024
+        cite_key: sleeveless_eleonora_gallery
+    types:
+      - name: McClintock 2024.50987.15
+        view: 
+        width: 1638 
+        height: 2048
+        sum: 
+          sha256: ccd1ff5e4e852dfee93451f34f8f5007b16f7e5a7713626b4bbe51c76d94311d
+        urls:
+          - provider: orig
+            href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Yoanna_McClintock-15.jpg?v=1720291722
+          - provider: ia
+            href: https://web.archive.org/web/20260408095821/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Yoanna_McClintock-15.jpg?v=1720291722
+        wearer:
+          <<: *yoannam
+          year: 2024
+        cite_key: sleeveless_eleonora_gallery
+
+taxa:
+  Heleonoridae:
+    rank: family
+    describer: Lemuria, 2026
+    taxa:
+      Heleonora:
+        rank: genus
+        describer: Lemuria, 2026
+        taxa:
+          Elastica:
+            rank: subgenus
+            describer: Lemuria, 2026
+            taxa:
+              Unilastica:
+                rank: section
+                describer: Lemuria, 2026
+                taxa: *xunilastica-taxa
+              Duolastica:
+                rank: section
+                describer: Lemuria, 2026
+                taxa: *duolastica-taxa

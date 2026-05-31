@@ -1,0 +1,790 @@
+# LCT-01 NOTES
+format_version: "0.2.0"
+todo:
+  - figure out just how much Silversaga monograph we're going to be writing
+wearers:
+  anja: &anja
+    abbr: Anja.S.
+    name: Anja Scheithauer
+  ashley: &ashley
+    abbr: Ashley.G.
+    name: Ashley General
+  stephanie_g: &stephanieg
+    abbr: Stephanie.G.
+    name: Stephanie Garcia
+  ioana_m: &ioana
+    abbr: Ioana.M.
+    name: Ioana Miron
+  beatrice: &beatrice
+    abbr: Beatrice.F.
+    name: Beatrice Fletcher
+  scollay: &scollay
+    abbr: Gabrielle.Sc.
+    name: Gabrielle Scollay
+  rimfors: &rimfors
+    abbr: Rimfors
+    name: Tuss Rimfors
+  shreya: &shreya
+    abbr: Shreya
+    name: Shreya
+    uhc: W/2026 G16
+  colne: &colne
+    abbr: Nelly.C.
+    name: Nelly Colne
+  bynum: &bynum
+    abbr: Megan.B.
+    name: Megan Bynum
+  garofalo: &garofalo
+    abbr: Garofalo
+    name: Martina Garofalo
+  karen_vh: &karen_vh
+    abbr: Karen V.H.
+    name: Karen Van Hoof
+  jessa: &jessa
+    abbr: Jessa.J.
+    name: Jessa Jones
+# wagrmom
+  beckylb: &beckylb
+    abbr: Becky.L.B.
+    name: Becky Lynch Blanton
+    instagram: wagrmom
+
+# well she's not a wearer but she was the photog.
+# and it's also a big shame her insta is private but
+# eh, we're doing what we can with whwat we have
+hannahden: &hannahden
+  name: Hannah Dennis
+  abbr: Hannah.Den.
+  instagram: heyitstheyellowfruit
+
+taxa:
+  Heleonoridae:
+    rank: family
+    describer: Lemuria, 2026
+    taxa:
+      Heleonora:
+        rank: genus
+        describer: Lemuria, 2026
+        taxa:
+          Shira:
+            rank: subgenus
+            describer: Lemuria, 2026
+            taxa:
+              anjae:
+                # https://www.instagram.com/p/C9T7ciuMdd0
+                rank: species
+                describer: Lemuria, 2026
+                holotype:
+                  - view: ventral
+                    name: Anja 930.1871
+                    width: 1080
+                    height: 1620
+                    urls:
+                      - provider: ia
+                        href: https://web.archive.org/web/20260318171058/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Anja_Scheithauer2.jpg?v=1720291725
+                      - provider: orig
+                        href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Anja_Scheithauer2.jpg?v=1720291725
+                    sum:
+                      sha256: cfbf249735dc7e95b6bd4f5d1f5accc753b7852bf74e1504450285878030da71
+                    wearer:
+                      <<: *anja
+                      year: 2024
+                types:
+                  - view: ventral
+                    name: Anja 930.1724
+                    width: 1080
+                    height: 1620
+                    wearer:
+                      <<: *anja
+                      year: 2024
+                    sum:
+                      sha256: 52c1bce172348d12f1559de86ed9662dc3e003135e7ef588ce07fa370dabdb33
+                    urls:
+                      - provider: ia
+                        href: https://web.archive.org/web/20260318171236/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Anja_Scheithauer8.jpg?v=1720291724
+                      - provider: orig
+                        href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Anja_Scheithauer8.jpg?v=1720291724
+              fraxina:
+                rank: species
+                describer: Lemuria, 2026
+                cite_keys:
+                  - role: instagram_post
+                    key: ashleyg2024
+                holotype:
+                  - view: ventral
+                    name: Ashley 931.1620
+                    width: 3024
+                    height: 4032
+                    urls:
+                      - provider: orig
+                        href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Ashley_General.jpg?v=1720291730
+                      - provider: ia
+                        href: https://web.archive.org/web/20260408095925/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Ashley_General.jpg?v=1720291730
+                    sum:
+                      sha256: 3c9c348550c7b6df497d8d64f23d4b320d75f521eae6b518980f0995cff2cee3
+                    wearer:
+                      <<: *ashley
+                      year: 2024
+                types:
+                  - view: ventral
+                    name: Ashley 931.1744
+                    width: 3024
+                    height: 4032
+                    urls:
+                      - provider: orig
+                        href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Ashley_General2.jpg?v=1720291729
+                      - provider: ia
+                        href: https://web.archive.org/web/20260408095919/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Ashley_General2.jpg?v=1720291729
+                    sum:
+                      sha256: fe06a0b9b231c960af85b806a2620b21d0e040b42ee4f538f75deeec67210773
+                    wearer:
+                      <<: *ashley
+                      year: 2024
+                  - view: ventral
+                    name: Ashley 931.1763
+                    width: 2992
+                    height: 2000
+                    urls:
+                      - provider: orig
+                        href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Ashley_General6.jpg?v=1720291726
+                      - provider: ia
+                        href: https://web.archive.org/web/20260408100029/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Ashley_General6.jpg?v=1720291726
+                    sum:
+                      sha256: 9e8cb857a04dfb6b41e9bc7ea8b395eeee8b1bd6b40399cfb958a71b2acf9d0c
+                    wearer:
+                      <<: *ashley
+                      year: 2024
+              beatricae:
+                # https://www.instagram.com/p/C9DES5IqbXO
+                rank: species
+                describer: Lemuria, 2026
+                holotype:
+                  - view: ventral
+                    name: Beatrice 210.1631
+                    width: 3024
+                    height: 4032
+                    urls:
+                      - provider: orig
+                        href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Beatrice_Fletcher3.heic?v=1720291673
+                      - provider: ia
+                        href: https://web.archive.org/web/20260408100107/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Beatrice_Fletcher3.heic?v=1720291673
+                    sum:
+                      sha256: 52713bac98440233620dc64800dc05459ddb6af333952c459f0a83ba84310402
+                    wearer:
+                      <<: *beatrice
+                      year: 2024
+                types:
+                  - view: ventral
+                    name: Beatrice 210.1651
+                    width: 3024
+                    height: 4032
+                    urls:
+                      - provider: orig
+                        href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Beatrice_Fletcher4.heic?v=1720291673
+                      - provider: ia 
+                        href: https://web.archive.org/web/20260408100108/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Beatrice_Fletcher4.heic?v=1720291673
+                    sum:
+                      sha256: 883570d98927a3cbf540d6c29bbccf307062ab73da1041794ad9d2321f889884
+                    wearer:
+                      <<: *beatrice
+                      year: 2024
+              gabriellae:
+                # https://www.instagram.com/sustainably.gabrielle/
+                rank: species
+                describer: Lemuria, 2026
+                holotype:
+                  - view: ventral
+                    name: Gabrielle 394.2071
+                    width: 2667
+                    height: 4000
+                    urls:
+                      - provider: orig
+                        href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Gabrielle_Scollay_jpg.jpg?v=1720381421 # it's really NOT a typo
+                      - provider: ia
+                        href: https://web.archive.org/web/20260408100730/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Gabrielle_Scollay_jpg.jpg?v=1720381421
+                    sum:
+                      sha256: e208a4ee05f95f2fe58059b3e655d2195fcf9208d8a9309d99168da0076b6bf4
+                    wearer:
+                      <<: *scollay
+                      year: 2024
+                types:
+                  - view: ventral
+                    name: Gabrielle 394.2049
+                    width: 2667
+                    height: 4000
+                    urls:
+                      - provider: orig
+                        href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Gabrielle_Scollay2.jpg?v=1720381421
+                      - provider: ia
+                        href: https://web.archive.org/web/20260408100732/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Gabrielle_Scollay2.jpg?v=1720381421
+                    sum:
+                      sha256: 25a03be39971e41e8e91912d46c3801fffb795520926c2484fdba235129e346b
+                    wearer:
+                      <<: *scollay
+                      year: 2024
+              ioanae:
+                # https://www.instagram.com/p/C9DMjCIxmqu/
+                rank: species
+                describer: Lemuria, 2026
+                holotype:
+                  - view: ventral
+                    name: Ioana 119.1048
+                    width: 2947
+                    height: 3684
+                    urls:
+                      - provider: orig
+                        href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Ioana_Miron2.jpg?v=1720291682
+                      - provider: ia
+                        href: https://web.archive.org/web/20260503013948/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Ioana_Miron2.jpg?v=1720291682
+                    sum:
+                      sha256: 713958f9151fc3c00e7d41d68a03edf325fdeaf2da0209ed4e6810738368e2dc
+                    wearer:
+                      <<: *ioana
+                      year: 2024
+                types:
+                  - view: ventral
+                    name: Ioana 119.1057
+                    width: 2801
+                    height: 3502
+                    urls:
+                      - provider: orig
+                        href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Ioana_Miron3.jpg?v=1720291682
+                      - provider: ia
+                        href: https://web.archive.org/web/20260408100223/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Ioana_Miron3.jpg?v=1720291682
+                    sum:
+                      sha256: 3da5e78b8563bbe3a41410e498241465e37ffe88a9e36bd46c51f7e82a4aa528
+                    wearer:
+                      <<: *ioana
+                      year: 2024
+              jessae:
+                rank: species
+                describer: Lemuria, 2026
+                holotype:
+                  - view: ventral
+                    name: Jessa 157.1490
+                    width: 3024
+                    height: 4032
+                    urls:
+                      - provider: orig
+                        href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Jessa_Jones2_650693fb-5b7a-46e7-8c63-ec487bb29e02.jpg?v=1720291686
+                      - provider: ia
+                        href: https://web.archive.org/web/20260408100606/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Jessa_Jones2_650693fb-5b7a-46e7-8c63-ec487bb29e02.jpg?v=1720291686
+                    sum:
+                      sha256: 833067180a4227f0ee1acb09558c2daf507b65819925bf058c8b52da085d098f
+                    wearer:
+                      <<: *jessa
+                      year: 2024
+                types:
+                  - view: dorsal
+                    name: Jessa 157.12676
+                    width: 3024
+                    height: 4032
+                    urls:
+                      - provider: orig
+                        href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Jessa_Jones6.jpg?v=1720291687
+                      - provider: ia
+                        href: https://web.archive.org/web/20260408100607/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Jessa_Jones6.jpg?v=1720291687
+                    sum:
+                      sha256: b448220751bdb1e5f639cd6cb6f2920d31fc23ab77b6e1f8b3a71980b0ff80b6
+                    wearer:
+                      <<: *jessa
+                      year: 2024
+              vanhoofae:
+                # https://www.instagram.com/the_fabric_attic/
+                # https://www.instagram.com/the_fabric_attic/p/C9ZCiKAKcZJ/
+                # https://www.instagram.com/the_fabric_attic/p/C9JwS5DMp2M/
+                # https://www.instagram.com/the_fabric_attic/reel/C9PQy8KMH4r/
+                rank: species
+                describer: Lemuria, 2026
+                holotype:
+                  - view: ventral
+                    name: Karen 209.1067
+                    width: 2341
+                    height: 2926
+                    urls:
+                      - provider: orig
+                        href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Karen_Van_Hoof3.jpg?v=1720291688
+                      - provider: ia
+                        href: https://web.archive.org/web/20260408100526/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Karen_Van_Hoof3.jpg?v=1720291688
+                    sum:
+                      sha256: 02aafdc7e4b7b3828656eb09e6f27b06c4a3dc1bf0a096b2e994e8b847595cb8
+                    wearer:
+                      <<: *karen_vh
+                      year: 2024
+                types:
+                  - view: ventral
+                    name: Karen 209.1145
+                    width: 2095
+                    height: 2619
+                    urls:
+                      - provider: orig
+                        href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Karen_Van_Hoof6.jpg?v=1720291689
+                      - provider: ia
+                        href: https://web.archive.org/web/20260408100300/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Karen_Van_Hoof6.jpg?v=1720291689
+                    sum:
+                      sha256: dec9990bd1c603cce11ef2d3e92b642de6905fdd57dca9559952a5fb81f0f99f
+                    wearer:
+                      <<: *karen_vh
+                      year: 2024
+              karecandida:
+                # https://www.instagram.com/p/C9JwS5DMp2M/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==
+                rank: species
+                describer: Lemuria, 2026
+                holotype:
+                  - view: ventral
+                    name: Karen 210.1439.92994
+                    width: 1440
+                    height: 1800
+                    sum:
+                      sha256: 402137d616bfa8235873967b018b6b0bd418f952fa315dc56b3f4564bd120b77
+                    urls:
+                      - provider: ia
+                        href: https://web.archive.org/web/20260508201712/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/653773839_18106517113869276_178601654437592994_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=MzQwNzQ2Njk5MTE2Mzg3MDIzNQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=-yYaxGaSkqwQ7kNvwFA4uLp&_nc_oc=AdoNGmmBOv_j9K_hO7NP4lrXYJl7Tt73t5_BX7lWPS14kGchcz6PXc-bl8SUYqHJnNE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=WegrsvC_if3z_IepqHbGvA&_nc_ss=7a22e&oh=00_Af5VnKc87FW1G5A3gH7j68KKNsZxZqZYiVUJAmE227y5lQ&oe=6A0406BA
+                    wearer: 
+                      <<: *karen_vh
+                      year: 2024
+                    cite_key: vanhoof_heleonorakarecandida_2024
+                types:
+                  - name: Karen 210.1439.71897
+                    view: dorsal
+                    width: 1440
+                    height: 1800
+                    sum:
+                      sha256: 2abf26f5823535da2f4519152bbd8740a81f738369c13c0a336880e868af18fd
+                    urls:
+                      - provider: ia
+                        href: https://web.archive.org/web/20260508201709/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/653700412_18028061573796598_427100016846671897_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=MzQwNzQ2Njk5MTI2NDYwMTc2Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=wDkAo3TpN30Q7kNvwFgHSPr&_nc_oc=AdrV9euKvDgVZxFQUE2DkiNKOBfSI0LvkpyTTnbacHVKkBWFnvj5Wa74MFdg-eLUoe8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=WegrsvC_if3z_IepqHbGvA&_nc_ss=7a22e&oh=00_Af5YSGAwi-cZJElYZqafIBPJMzlcZunGjNwHX1KQqDixpA&oe=6A043129
+                    wearer: 
+                      <<: *karen_vh
+                      year: 2024
+                    cite_key: vanhoof_heleonorakarecandida_2024
+                  - name: Karen 210.1439.43997
+                    view: ventral
+                    width: 1440
+                    height: 1796
+                    sum:
+                      sha256: cbdda809b9c834fb2213f1645bcf11635dbbafa1f51aaed5422825765cba5b0f
+                    urls:
+                      - provider: ia
+                        href: https://web.archive.org/web/20260508201716/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/656334026_18080120132093671_4012967633139543997_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=MzQwNzQ2Njk5MDk3OTMzNTczOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=x0IY0DnvuakQ7kNvwGguBDV&_nc_oc=Adql5Ri3a970nRYDdPYTpNf4FfOT1E5YoRQZakGBcbq2_MCSg74tq-NqBNbxgVqQQA4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=WegrsvC_if3z_IepqHbGvA&_nc_ss=7a22e&oh=00_Af5KmTnRXlJ4U6lWOWEQaIxcd7Hle4cQtDRTXtR6LmOAqw&oe=6A0409C2
+                    wearer: 
+                      <<: *karen_vh
+                      year: 2024
+                    cite_key: vanhoof_heleonorakarecandida_2024
+              martinae:
+                # https://www.instagram.com/p/C9C7u56qDCr
+                rank: species
+                describer: Lemuria, 2026
+                holotype:
+                  - view: ventral
+                    name: Martina 1057.326
+                    width: 2592
+                    height: 4608
+                    urls:
+                      - provider: orig
+                        href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Martina_Garofalo_6.jpg?v=1720291695
+                      - provider: ia
+                        href: https://web.archive.org/web/20260503020857/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Martina_Garofalo_6.jpg?v=1720291695
+                    sum:
+                      sha256: a9afef4253cd511a34a90e08a9ed98beff31740fdf76aad8f1296cd847cfd3cf
+                    wearer:
+                      <<: *garofalo
+                      year: 2024
+                types:
+                  - view: ventral
+                    name: Martina 1057.118
+                    width: 2592
+                    height: 4608
+                    urls:
+                      - provider: orig
+                        href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Martina_Garofalo_1.jpg?v=1720291695
+                      - provider: ia
+                        href: https://web.archive.org/web/20260408100404/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Martina_Garofalo_1.jpg?v=1720291695
+                    sum:
+                      sha256: fc7e7d791bee0d634e75a87d8078d2164542039f5014c7ce1977f4f2c76f3cd3
+                    wearer:
+                      <<: *garofalo
+                      year: 2024
+              meganae:
+                # https://www.instagram.com/p/C9DGMvEplqC/?img_index=1
+                rank: species
+                describer: Lemuria, 2026
+                holotype:
+                  - view: ventral
+                    name: Megan 171.4071
+                    width: 3024
+                    height: 4032
+                    urls:
+                      - provider: orig
+                        href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Megan_Bynum.jpg?v=1720291697
+                      - provider: ia
+                        href: https://web.archive.org/web/20260408100428/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Megan_Bynum.jpg?v=1720291697
+                    sum:
+                      sha256: 8d57cce69d2db026e6a7a21a939d497b11896aaaed99ce8935aba1e5cc0d3b6b
+                    wearer:
+                      <<: *bynum
+                      year: 2024
+                types:
+                  - view: ventral
+                    name: Megan 171.4098
+                    width: 3024
+                    height: 4032
+                    urls:
+                      - provider: orig
+                        href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Megan_Bynum2.jpg?v=1720291697
+                      - provider: ia
+                        href: https://web.archive.org/web/20260408100829/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Megan_Bynum2.jpg?v=1720291697
+                    sum:
+                      sha256: c2ead0e6bb186daf48fc5e90df12a701c0f32069b7f6b74211094652796f38c7
+                    wearer:
+                      <<: *bynum
+                      year: 2024
+              nellia:
+                # https://www.instagram.com/p/C9FXcOONajp/
+                rank: species
+                describer: Lemuria, 2026
+                holotype:
+                  - view: ventral
+                    name: Nelly 233.9071
+                    width: 3000
+                    height: 4000
+                    urls:
+                      - provider: orig
+                        href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Nelly_Colne11.jpg?v=1720292012
+                      - provider: ia
+                        href: https://web.archive.org/web/20260408100615/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Nelly_Colne11.jpg?v=1720292012
+                    sum:
+                      sha256: d2b3950c36319184ea909bf88d3eb59e7b2947c2dd8b41fc23a4d37851671f12
+                    wearer: *colne
+                types:
+                  - view: ventral
+                    name: Nelly 233.9085
+                    width: 2627
+                    height: 3524
+                    urls:
+                      - provider: orig
+                        href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Nelly_Colne5_a27a2593-3a57-4991-8819-696e1fa73532.jpg?v=1720292984
+                      - provider: ia
+                        href: https://web.archive.org/web/20260408100725/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Nelly_Colne5_a27a2593-3a57-4991-8819-696e1fa73532.jpg?v=1720292984
+                    sum:
+                      sha256: dd9d50d4944641371e7220e049d796a90901c293bfdd8dc2f23763e9db9d5c37
+                    wearer: *colne
+              shreyae:
+                # https://www.instagram.com/p/C9Fj2wHKWhS/?img_index=1
+                rank: species
+                describer: Lemuria, 2026
+                holotype:
+                  - view: ventral
+                    name: Shreya 59.5165
+                    width: 3024
+                    height: 4032
+                    urls:
+                      - provider: orig
+                        href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Shreya_Eleonora_2.jpg?v=1720291714
+                      - provider: ia
+                        href: https://web.archive.org/web/20260408100217/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Shreya_Eleonora_2.jpg?v=1720291714
+                    sum:
+                      sha256: 9fcf9592f703998480b966a3217d4eb2bfe8c49f8da04ac7d7488f893a632b0d
+                    wearer:
+                      <<: *shreya
+                      year: 2024
+                types:
+                  - view: ventral
+                    name: Shreya 59.5166
+                    width: 3024
+                    height: 4032
+                    urls:
+                      - provider: orig
+                        href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Shreya_Eleonora_3.jpg?v=1720291714
+                      - provider: ia
+                        href: https://web.archive.org/web/20260408100230/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Shreya_Eleonora_3.jpg?v=1720291714
+                    sum:
+                      sha256: d1eea0276e361b393c523ae9fade4d905983e9c9657ef9e3ca3270acd4164da2
+                    wearer:
+                      <<: *shreya
+                      year: 2024
+              garciae:
+                # https://www.instagram.com/stef.it.seams/
+                # https://www.instagram.com/p/C9C6U73xn2k/
+                # https://www.instagram.com/p/C9FYZA6xL50/
+                rank: species
+                describer: Lemuria, 2026
+                holotype:
+                  - view: ventral
+                    name: Garcia 290.1709
+                    width: 2736
+                    height: 3648
+                    urls:
+                      - provider: orig
+                        href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Stephanie_Garcia20.jpg?v=1720291718
+                      - provider: ia
+                        href: https://web.archive.org/web/20260408100028/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Stephanie_Garcia20.jpg?v=1720291718
+                    sum:
+                      sha256: 27781e0ed94d748ef0239503aa1fe6af0a2724ca7d67be1eb4e5b44f76897d54
+                    wearer:
+                      <<: *stephanieg
+                      year: 2024
+                types:
+                  - view: ventral
+                    name: Garcia 290.1711
+                    width: 2992
+                    height: 2992
+                    urls:
+                      - provider: orig
+                        href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Stephanie_Garcia22.jpg?v=1720291719
+                      - provider: ia
+                        href: https://web.archive.org/web/20260408100930/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Stephanie_Garcia22.jpg?v=1720291719
+                    sum:
+                      sha256: 14ef77a944aa73506b213d6d4d01056bfc8c5d1543a935f48430e09ac2d5b12e
+                    wearer:
+                      <<: *stephanieg
+                      year: 2024
+                  - view: ventral
+                    name: Garcia 290.1736
+                    width: 3000
+                    height: 4000
+                    urls:
+                      - provider: orig
+                        href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Stephanie_Garcia6.jpg?v=1720291718
+                      - provider: ia
+                        href: https://web.archive.org/web/20260408095909/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Stephanie_Garcia6.jpg?v=1720291718
+                    sum:
+                      sha256: 2bb4734ba0390956aaae8eb5e29bf937e6292dfe3d5267018758284fd9896a23
+                    wearer: *stephanieg
+              rimforsia:
+                # https://www.instagram.com/tussrimfors/
+                # https://www.instagram.com/p/C9C7uAgNFdr/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==
+                rank: species
+                describer: Lemuria, 2026
+                holotype:
+                  - view: ventral
+                    name: Rimfors 15.1660
+                    width: 3024
+                    height: 4032
+                    urls:
+                      - provider: orig
+                        href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Tuss_Rimfors.heic?v=1720291720
+                      - provider: ia
+                        href: https://web.archive.org/web/20260408100536/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Tuss_Rimfors.heic?v=1720291720
+                    sum:
+                      sha256: 383343b7930238147ad2ca06e3e59dee8993a8b7bdec559fb567671ba3167ebf
+                    wearer:
+                      <<: *rimfors
+                      year: 2024
+                types:
+                  - view: ventral
+                    name: Rimfors 15.1710
+                    width: 3024
+                    height: 4032
+                    sum:
+                      sha256: 1bd85dd6679d51c2409bb562bb83f96212eaef3d496e66044a0ba7da89f8f1dd
+                    wearer:
+                      <<: *rimfors
+                      year: 2024
+                    urls:
+                      - provider: orig
+                        href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Tuss_Rimfors7.heic?v=1720291721
+                      - provider: ia
+                        href: https://web.archive.org/web/20260408100511/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Tuss_Rimfors7.heic?v=1720291721
+
+              larissae:
+                rank: species
+                describer: Lemuria, 2026; sp. nov.
+                holotype:
+                  - name: Huber 2024.40553.197
+                    view: ventral
+                    width: 3024
+                    height: 4032
+                    sum: 
+                      sha256: 3ae998174f4d83c9794d2d3dfeb0832833b14006768a6df9dfa5f0a3ee012526
+                    urls:
+                      - provider: orig
+                        href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Larissa_Huber3.jpg?v=1720291691
+                      - provider: ia
+                        href: https://web.archive.org/web/2/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Larissa_Huber3.jpg?v=1720291691
+                    wearer:
+                      abbr: Larissa.H.
+                      name: Larissa Huber
+                      year: 2024
+                    cite_key: sleeveless_eleonora_gallery
+                types:
+                  - name: Huber 2024.40553.445
+                    view: ventral
+                    width: 2134
+                    height: 2988
+                    sum: 
+                      sha256: 3fb789a3164bb160db11ad18cee837b86da4de2e30211b41df4f4a184f4948d4
+                    urls:
+                      - provider: orig
+                        href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Larissa_Huber.jpg?v=1720291689
+                      - provider: ia
+                        href: https://web.archive.org/web/2/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Larissa_Huber.jpg?v=1720291689
+                    wearer:
+                      abbr: Larissa.H.
+                      name: Larissa Huber
+                      year: 2024
+                    cite_key: sleeveless_eleonora_gallery
+              
+              blantonia:
+                rank: species
+                describer: Lemuria, 2026
+                holotype:
+                  - view: ventral
+                    name: Blanton 2024.433.46636
+                    photographer: *hannahden
+                    width: 1440
+                    height: 1800
+                    id:
+                      ig: 651079589_17981392790988173_7238665911249046636
+                    wearer:
+                      <<: *beckylb
+                      year: 2024
+                    sum:
+                      sha256: f770f5492d480c7d45058df43b2708da5a2cf6a6042c54822df3ed8fb7c5044b
+                    cite_key: beckylb2024
+                    urls:
+                      - provider: ia
+                        href: https://web.archive.org/web/20260504215831/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/651079589_17981392790988173_7238665911249046636_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=MzQyNzE4NzQ2Njk1OTE5MjgxMA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTgwMC5zZHIuQzMifQ%3D%3D&_nc_ohc=hA9KCR3_9EgQ7kNvwEtDEmU&_nc_oc=AdoWmII9tJSwPhIrlYU9TUfT60TIgQOlFoULYzL7zxmheJS5Qt9L0d3k6kME2KnyD-s&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=oKmqo24hjHVhxILzRYJCsQ&_nc_ss=7a22e&oh=00_Af5Z_7Y1oUoFcPlCdvFSVtFoKRJvddjBcWvUyOu1LSMWcw&oe=69FEEC4B
+
+                types:
+                  - view: ventral
+                    name: Blanton 2024.433.32667
+                    photographer: *hannahden
+                    width: 1440
+                    height: 1800
+                    wearer:
+                      <<: *beckylb
+                      year: 2024
+                    cite_key: beckylb2024
+                    urls:
+                      - provider: ia
+                        href: https://web.archive.org/web/20260504220022/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/655610868_18092356916330508_8540628614448032667_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=MzQyNzE4NzQ2Njk1OTE3NTg2Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTgwMC5zZHIuQzMifQ%3D%3D&_nc_ohc=gjGr4zFG6MwQ7kNvwGmgv2x&_nc_oc=AdpW4otU7R13pIGxys-qYPJ2LDb3JR2W6xfauaT0nxzXnHMXH4zo5R1DeJhJ0RFVOW4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=oKmqo24hjHVhxILzRYJCsQ&_nc_ss=7a22e&oh=00_Af6FJ3ftKjzJdHL3D-deUTPYHMQ8q2C8HvtlK0DqVftu1w&oe=69FEF438
+                    sum:
+                      sha256: 19249b85bc1c3c794de9af3e5a8bf056b8999f3c00451a4dae792b4a5052e3aa
+
+
+                  - view: ventral
+                    name: Blanton 2024.433.69846
+                    photographer: *hannahden
+                    width: 1440
+                    height: 1800
+                    wearer:
+                      <<: *beckylb
+                      year: 2024
+                    cite_key: beckylb2024
+                    urls:
+                      - provider: ia
+                        href: https://web.archive.org/web/20260504220023/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/669550353_18215544754320906_110498988008769846_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=MzQyNzE4NzQ2Njk1OTEyOTU4Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTgwMC5zZHIuQzMifQ%3D%3D&_nc_ohc=U9jxoMCgLy4Q7kNvwH3SVso&_nc_oc=AdphDlV4XPQuC4Bx3QAfTvcvPTwVfSBk2dfrduDGKYXj1_jY7xtLOPZFZxRyNz3V5qQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=oKmqo24hjHVhxILzRYJCsQ&_nc_ss=7a22e&oh=00_Af6S3Zhh-PbW6-qh1DtTVb-PHFxiL0bFLEEMW0PDX3Wvzg&oe=69FEF8A1
+                    sum:
+                      sha256: 80b796757ffad05266e9ec52f184d7807c8444cdc9550656c5930feec6231ea3
+
+
+                  - view: ventral
+                    name: Blanton 2024.433.79988
+                    photographer: *hannahden
+                    width: 1440
+                    height: 1800
+                    wearer:
+                      <<: *beckylb
+                      year: 2024
+                    cite_key: beckylb2024
+                    urls:
+                      - provider: ia
+                        href: https://web.archive.org/web/20260504220025/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/655012307_18058731620698021_6573847349408379988_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=MzQyNzE4NzQ2Njk1OTI5OTQ0Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTgwMC5zZHIuQzMifQ%3D%3D&_nc_ohc=S_OYs6mEgkUQ7kNvwGlKT4G&_nc_oc=AdoBUOHdlixJ1oW_J2QsLgBlL-dlmjsvKGjw3tCjVDw96AbdzAOcQL8mkdHmb3aYBNk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=oKmqo24hjHVhxILzRYJCsQ&_nc_ss=7a22e&oh=00_Af6HBJKttOiCECJcD_o60dCoietjznPTRUhjzjJit2C_MA&oe=69FEF060
+                    sum:
+                      sha256: 2f3ed759eec6563837a1e8be85b972c951497d647d3322076c4bb86ed8030b24
+
+
+                  - view: ventral
+                    name: Blanton 2024.433.14853
+                    photographer: *hannahden
+                    width: 1440
+                    height: 1800
+                    wearer:
+                      <<: *beckylb
+                      year: 2024
+                    cite_key: beckylb2024
+                    urls:
+                      - provider: ia
+                        href: https://web.archive.org/web/20260504220416/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/651431201_17980991465975936_7830797461430914853_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=MzQyNzE4NzQ2Njk1MDc0MTM4NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTgwMC5zZHIuQzMifQ%3D%3D&_nc_ohc=utQtLwWEUXgQ7kNvwFEQAgi&_nc_oc=AdrVeNcixjMCIfjKZw053Sdw0eBd3pCyjCb0bx78lAQXVh5vEoC5P5T2Mh88FG09VL0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=oKmqo24hjHVhxILzRYJCsQ&_nc_ss=7a22e&oh=00_Af7yWnjILw8jTp4mOQwpCllu0b6Uj9D7rOhfL4Qcpg-8lQ&oe=69FECC29
+                    sum:
+                      sha256: 7169cff2a6f2a4997a65fd4f011c2f25aadf978b6b13ae71c9f18e22e3f7c5e9
+
+                  - view: ventral
+                    name: Blanton 2024.433.40968
+                    photographer: *hannahden
+                    width: 1440
+                    height: 1800
+                    wearer:
+                      <<: *beckylb
+                      year: 2024
+                    cite_key: beckylb2024
+                    urls:
+                      - provider: ia
+                        href: https://web.archive.org/web/20260504220429/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/662341312_18368242204201797_502939237225740968_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=MzQyNzE4NzQ2NzAxNzk5NTE1OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTgwMC5zZHIuQzMifQ%3D%3D&_nc_ohc=XqXqIfjXssQQ7kNvwGTJxbV&_nc_oc=AdryY5ZWS8eR7HkQg8PDxSCu67289rGhv1Wc_u9TjLPNPFbWydCuxXTVNtJy9W-s848&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=oKmqo24hjHVhxILzRYJCsQ&_nc_ss=7a22e&oh=00_Af6lyR-HDmhGHTlk4h9dqaxoMsPu0ja_Kh-Ejy7_wdTs9g&oe=69FECB23
+                    sum:
+                      sha256: ab17c868d1745b098c8f8a7e1536368823ccdadb795288bcab939fca91347442
+
+
+                  - view: ventral
+                    name: Blanton 2024.433.19582
+                    photographer: *hannahden
+                    width: 1440
+                    height: 1800
+                    wearer:
+                      <<: *beckylb
+                      year: 2024
+                    cite_key: beckylb2024
+                    urls:
+                      - provider: ia
+                        href: https://web.archive.org/web/20260504220310/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/655019723_18011563436683653_2454417883585919582_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=MzQyNzE4NzQ2Njk1MDg1Nzc2Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTgwMC5zZHIuQzMifQ%3D%3D&_nc_ohc=D4tasegLItIQ7kNvwFBxh4L&_nc_oc=Adr7r77CaVxtTmflUWxtlRwjxK2RsorEY2PFh4OV-wuzCV6sftA8DyeV3TLbjPllidI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=oKmqo24hjHVhxILzRYJCsQ&_nc_ss=7a22e&oh=00_Af7KRkVydYgyljg_GnWoouRR5ebUwwfGHX2qVwfoj-mAmw&oe=69FEE989
+                    sum:
+                      sha256: 7eed96a4e041b61a3560c884743a7c15cd5edf4cbfba35479d58ed9058d994cd
+
+                  - view: ventral
+                    name: Blanton 2024.433.76407
+                    photographer: *hannahden
+                    width: 1440
+                    height: 1800
+                    wearer:
+                      <<: *beckylb
+                      year: 2024
+                    cite_key: beckylb2024
+                    urls:
+                      - provider: ia
+                        href: https://web.archive.org/web/20260504220341/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/656733159_18138350659508029_7864903067687476407_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=MzQyNzE4NzQ2Njk1MDg2ODkyMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTgwMC5zZHIuQzMifQ%3D%3D&_nc_ohc=JU7PfjUYvZsQ7kNvwGZGURw&_nc_oc=AdrC_ylcPX4KY4vXkAXhp0v7rUeCtu8Qbqu1-kc2Ia7bLK9o41znz6ZEUxDXgmobUkw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=oKmqo24hjHVhxILzRYJCsQ&_nc_ss=7a22e&oh=00_Af5k02LVFEUCuwMY8fld4LiO_GQSaCWB_e9zbYk-hjxcRw&oe=69FEF51C
+                    sum:
+                      sha256: be15f997ae3729fc48631167b965e0e5bdf165c348f28a5b7a5357a857c67384
+
+
+                  - view: ventral
+                    name: Blanton 2024.433.19582
+                    photographer: *hannahden
+                    width: 1440
+                    height: 1800
+                    wearer:
+                      <<: *beckylb
+                      year: 2024
+                    cite_key: beckylb2024
+                    urls:
+                      - provider: ia
+                        href: https://web.archive.org/web/20260504220310/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/655019723_18011563436683653_2454417883585919582_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=MzQyNzE4NzQ2Njk1MDg1Nzc2Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTgwMC5zZHIuQzMifQ%3D%3D&_nc_ohc=D4tasegLItIQ7kNvwFBxh4L&_nc_oc=Adr7r77CaVxtTmflUWxtlRwjxK2RsorEY2PFh4OV-wuzCV6sftA8DyeV3TLbjPllidI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=oKmqo24hjHVhxILzRYJCsQ&_nc_ss=7a22e&oh=00_Af7KRkVydYgyljg_GnWoouRR5ebUwwfGHX2qVwfoj-mAmw&oe=69FEE989
+                    sum:
+                      sha256: 7eed96a4e041b61a3560c884743a7c15cd5edf4cbfba35479d58ed9058d994cd
+
+
+                  - view: ventral
+                    name: Blanton 2024.433.51080
+                    photographer: *hannahden
+                    width: 1440
+                    height: 1800
+                    wearer:
+                      <<: *beckylb
+                      year: 2024
+                    cite_key: beckylb2024
+                    urls:
+                      - provider: ia
+                        href: https://web.archive.org/web/20260504220241/https://instagram.fmnl35-1.fna.fbcdn.net/v/t51.82787-15/657348192_18221685520314287_2072022463349951080_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=MzQyNzE4NzQ2Njk1OTIzODcxNA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTgwMC5zZHIuQzMifQ%3D%3D&_nc_ohc=q57H12qthQIQ7kNvwHDKmZ2&_nc_oc=AdrR3rmezJyiosm5anW0M_y8er4rFdOT6ORWZI-FIF6Bw_n4mIMcDa1DC6RXkC6r4XI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmnl35-1.fna&_nc_gid=oKmqo24hjHVhxILzRYJCsQ&_nc_ss=7a22e&oh=00_Af7Aon3KzM0aYsR9NZo7kZJnK1j_FsbAYW1iLWr33KI9gQ&oe=69FEFD5B
+                    sum:
+                      sha256: 2bbd364559c001a26fc235c774244e295578a7627aaa1a137839b4fd7f430c15
+

@@ -1,0 +1,865 @@
+format-version: "0.2.0"
+
+      #     - name: 
+      #       view: 
+      #       width: 
+      #       height: 
+      #       sum:
+      #         sha256: 
+      #       urls:
+      #         - provider: orig
+      #           href: 
+      #         - provider: ia
+      #           href: 
+      #       wearer: 
+      #         abbr: 
+      #         name: 
+      #         year: 
+      #       cite_key: 
+
+taxa:
+  Julietta:
+    rank: genus
+    describer: Lemuria, 2026
+    taxa:
+      ariae:
+        rank: species
+        describer: Lemuria, 2026
+        holotype:
+          - name: Aria 2023.190.371
+            view: ventral
+            width: 3072
+            height: 4080
+            sum:
+              sha256: b3a390776b67fcad7b0393afc15b8ec9f5a0bea7b2988941527d79440a955841
+            urls:
+              - provider: orig
+                href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/PXL_20231128_183137499.MP_2.jpg?v=1701443004
+              - provider: ia
+                href: https://web.archive.org/web/20260318171518/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/PXL_20231128_183137499.MP_2.jpg?v=1701443004
+            wearer: 
+              abbr: Aria.W.S.
+              name: Aria Wright-Shriver
+              year: 2023
+            cite_key: silversaga_juliette_gallery
+
+        types:
+          - name: Aria 2023.190.390
+            view: ventral
+            width: 3072
+            height: 4080
+            sum:
+              sha256: fa8a2ccfef0a1fcb25617a412facca624dc369abc0bf6a4b58d84c4d75c3c8ee
+            urls:
+              - provider: orig
+                href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/PXL_20231128_183113426.MP_1_2.jpg?v=1701442982
+              - provider: ia
+                href: https://web.archive.org/web/20260318171450/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/PXL_20231128_183113426.MP_1_2.jpg?v=1701442982
+            wearer: 
+              abbr: Aria.W.S.
+              name: Aria Wright-Shriver
+              year: 2023
+            cite_key: silversaga_juliette_gallery
+
+          - name: Aria 2023.190.464
+            view: ventral
+            width: 3072
+            height: 4080
+            sum:
+              sha256: 5e43a1273d5c3b6891b6c1775f3faee83e67db18f3d4640e2c57a521c640e330
+            urls:
+              - provider: orig
+                href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/PXL_20231128_183131504.MP_3.jpg?v=1701443020
+              - provider: ia
+                href: https://web.archive.org/web/20260318171502/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/PXL_20231128_183131504.MP_3.jpg?v=1701443020
+            wearer: 
+              abbr: Aria.W.S.
+              name: Aria Wright-Shriver
+              year: 2023
+            cite_key: silversaga_juliette_gallery
+
+      alexisae:
+        rank: species
+        describer: Lemuria, 2026
+        holotype:      
+          - name: Alexis 2023.178.86867
+            view: ventral
+            width: 2668
+            height: 4000
+            sum:
+              sha256: 7bf0708c7b0609e81f51ab5af1e952ee4613adc57465b693263a45b8de58b13c
+            urls:
+              - provider: orig
+                href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Alexis_Wright4.jpg?v=1701386867
+              - provider: ia
+                href: https://web.archive.org/web/20260318171516/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Alexis_Wright4.jpg?v=1701386867
+            wearer: 
+              abbr: Alexis.Wr.
+              name: Alexis Wright
+              year: 2023
+            cite_key: alexis2023_juliette01
+
+        types:
+          - name: Alexis 2023.178.86880
+            view: lateral
+            width: 2668
+            height: 4000
+            sum:
+              sha256: dbe4ef0faac8c38de61a87151e3edd3db071be9ad62d3efca1af67d8d232f927
+            urls:
+              - provider: orig
+                href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Alexis_Wright5.jpg?v=1701386880
+              - provider: ia
+                href: https://web.archive.org/web/20260318171521/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Alexis_Wright5.jpg?v=1701386880
+            wearer: 
+              abbr: Alexis.Wr.
+              name: Alexis Wright
+              year: 2023
+            cite_key: alexis2023_juliette01
+          - name: Alexis 2023.178.39088
+            view: ventral
+            width: 2668
+            height: 4000
+            sum:
+              sha256: 54a91d9be59850d9439dad9e9ff2d94e0ef71731440477fec8855184185229bf
+            urls:
+              - provider: orig
+                href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Alexis_Wright14.jpg?v=1701439088
+              - provider: ia
+                href: https://web.archive.org/web/20260318171434/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Alexis_Wright14.jpg?v=1701439088
+            wearer: 
+              abbr: Alexis.Wr.
+              name: Alexis Wright
+              year: 2023
+            cite_key: alexis2023_juliette01
+
+      julianae:
+        rank: species
+        describer: Lemuria, 2026
+        holotype:
+          - name: Juliana 2023.501.4871
+            view: ventral
+            width: 2316
+            height: 3088
+            sum:
+              sha256: 2507e6feb4683cfb225e56638859eb71fff9d701ac7a8908e2274c9b2493699a
+            urls:
+              - provider: orig
+                href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Juliana_Rucker3.jpg?v=1701387296
+              - provider: ia
+                href: https://web.archive.org/web/20260318171509/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Juliana_Rucker3.jpg?v=1701387296
+            wearer: 
+              abbr: Juliana.R.
+              name: Juliana Rucker
+              year: 2023
+            cite_key: juliana_r_2023_juliette
+
+        types:
+          - name: Juliana 2023.501.4880
+            view: ventral
+            width: 2316
+            height: 3088
+            sum:
+              sha256: 58dd7e05316d46c6219cfcb678572c26a1f19384d9b4ef52ec77da13d9e939fb
+            urls:
+              - provider: orig
+                href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Juliana_Rucker4.jpg?v=1701387289
+              - provider: ia
+                href: https://web.archive.org/web/20260318171451/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Juliana_Rucker4.jpg?v=1701387289
+            wearer: 
+              abbr: Juliana.R.
+              name: Juliana Rucker
+              year: 2023
+            cite_key: juliana_r_2023_juliette
+
+          - name: Juliana 2023.501.4930
+            view: dorsal
+            width: 2316
+            height: 3088
+            sum:
+              sha256: 630f728ba214b482c2a7536501038165d1c1e8ddf5089a157814bc3eb94324be
+            urls:
+              - provider: orig
+                href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Juliana_Rucker2.jpg?v=1701387305
+              - provider: ia
+                href: https://web.archive.org/web/20260318171522/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Juliana_Rucker2.jpg?v=1701387305
+            wearer: 
+              abbr: Juliana.R.
+              name: Juliana Rucker
+              year: 2023
+            cite_key: juliana_r_2023_juliette
+
+          - name: Juliana 2023.501.4937
+            view: lateral
+            width: 2316
+            height: 3088
+            sum:
+              sha256: 90041e59149cfd9bb57792f2e0aac1a851c507b00aa0048cdfe4037220a95a21
+            urls:
+              - provider: orig
+                href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Juliana_Rucker.jpg?v=1701387312
+              - provider: ia
+                href: https://web.archive.org/web/20260318171532/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Juliana_Rucker.jpg?v=1701387312
+            wearer: 
+              abbr: Juliana.R.
+              name: Juliana Rucker
+              year: 2023
+            cite_key: juliana_r_2023_juliette
+
+      manuelae:
+        rank: species
+        describer: Lemuria, 2026
+        holotype:
+          - name: Manuela 2023.150.4290
+            view: 
+            width: 2574
+            height: 3772
+            sum:
+              sha256: 13124b7b8b8b68bac1bb1dd0e55ead47cae52e3d3670ed6da5318616b2402f27
+            urls:
+              - provider: orig
+                href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Manuela_Wilkes5.jpg?v=1701439688
+              - provider: ia
+                href: https://web.archive.org/web/20260318171454/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Manuela_Wilkes5.jpg?v=1701439688
+            wearer: 
+              abbr: Manuela.W.
+              name: Manuela Wilkes
+              year: 2023
+            cite_key: silversaga_juliette_gallery
+
+        types:
+          - name: Manuela 2023.150.6738
+            view: 
+            width: 2456
+            height: 3057
+            sum:
+              sha256: 23e564dc30e656bfe788102338d8059a61ccffdf65b9372f4b8c17b1242f950b
+            urls:
+              - provider: orig
+                href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Manuela_Wilkes2.jpg?v=1701439738
+              - provider: ia
+                href: https://web.archive.org/web/20260318171447/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Manuela_Wilkes2.jpg?v=1701439738
+            wearer: 
+              abbr: Manuela.W.
+              name: Manuela Wilkes
+              year: 2023
+            cite_key: silversaga_juliette_gallery
+
+          - name: Manuela 2023.150.5167
+            view: 
+            width: 2762
+            height: 3683
+            sum:
+              sha256: 0c20c1f785c73cb591a04b6c437401769bcdb3b820a56e2f583d8e64a4cea6bd
+            urls:
+              - provider: orig
+                href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Manuela_Wilkes7.jpg?v=1701439758
+              - provider: ia
+                href: https://web.archive.org/web/20260318171519/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Manuela_Wilkes7.jpg?v=1701439758
+            wearer: 
+              abbr: Manuela.W.
+              name: Manuela Wilkes
+              year: 2023
+            cite_key: silversaga_juliette_gallery
+
+      annettae:
+        rank: species
+        describer: Lemuria, 2026
+        cite_key:
+          - annette2023_juliette
+        holotype:
+          - name: Annette 2023.15.6104
+            view: 
+            width: 2736
+            height: 3648
+            sum:
+              sha256: 23f3a7a90853215376dd8468c9e8fdcfb8a274b5c3cb0b7d02fcd6ee5b87842b
+            urls:
+              - provider: orig
+                href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/annette_nicoletti_-_annette.sews_04.jpg?v=1701387007
+              - provider: ia
+                href: https://web.archive.org/web/20260318171444/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/annette_nicoletti_-_annette.sews_04.jpg?v=1701387007
+            wearer: 
+              abbr: Annette.N.
+              name: Annette Nicoletti
+              year: 2023
+            cite_key: annette2023_juliette
+        types:
+          - name: Annette 2023.15.6709
+            view: 
+            width: 2736
+            height: 3648
+            sum:
+              sha256: d57a3026ea65eab0ddde3cefd6772f293dc7740794cda331d0ee5f30a6e285f9
+            urls:
+              - provider: orig
+                href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/annette_nicoletti_-_annette.sews_06.jpg?v=1701387040
+              - provider: ia
+                href: https://web.archive.org/web/20260318171529/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/annette_nicoletti_-_annette.sews_06.jpg?v=1701387040
+            wearer: 
+              abbr: Annette.N.
+              name: Annette Nicoletti
+              year: 2023
+            cite_key: annette2023_juliette
+          - name: Annette 2023.15.6834 
+            view: 
+            width: 2736
+            height: 3648
+            sum:
+              sha256: 7dec17a4ae90b852f3fe9244b3e6bcebe3ce865d3489568c31edf701c97cfc25
+            urls:
+              - provider: orig
+                href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/annette_nicoletti_-_annette.sews_07.jpg?v=1701387048
+              - provider: ia
+                href: https://web.archive.org/web/20260318171531/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/annette_nicoletti_-_annette.sews_07.jpg?v=1701387048
+            wearer: 
+              abbr: Annette.N.
+              name: Annette Nicoletti
+              year: 2023
+            cite_key: annette2023_juliette
+
+      oliwiae:
+        rank: species
+        describer: Lemuria, 2026
+        holotype:
+          - name: Oliwia 2023.76.1150
+            view: 
+            width: 3024
+            height: 4032
+            sum:
+              sha256: 6cdc5a9feb6210fbfb5d4fc92084cd875df54d163140d19a183d02883168f217
+
+            urls:
+              - provider: orig
+                href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Oliwia_Jarosz4.jpg?v=1701443238
+              - provider: ia
+                href: https://web.archive.org/web/20260318171504/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Oliwia_Jarosz4.jpg?v=1701443238
+            wearer: 
+              abbr: Oliwia.J.
+              name: Oliwia Jarosz
+              year: 2023
+            cite_key: silversaga_juliette_gallery
+
+        types:
+          - name: Oliwia 2023.76.1190
+            view: 
+            width: 3024
+            height: 4032
+            sum:
+              sha256: a5ddbe7b18fdc11945328a4ac17e8aa9c5df6f7d76e61fe887b2b1c6e94e63db
+            urls:
+              - provider: orig
+                href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Oliwia_Jarosz3.jpg?v=1701443217
+              - provider: ia
+                href: https://web.archive.org/web/20260318171528/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Oliwia_Jarosz3.jpg?v=1701443217
+            wearer: 
+              abbr: Oliwia.J.
+              name: Oliwia Jarosz
+              year: 2023
+            cite_key: silversaga_juliette_gallery
+
+          - name: Oliwia 2023.76.1415
+            view: 
+            width: 3024
+            height: 4032
+            sum:
+              sha256: 46a2561e68111316d057e196de07df1a840f8bf583e4fdb1142fefa1f2cc62ab
+            urls:
+              - provider: orig
+                href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Oliwia_Jarosz.jpg?v=1701443201
+              - provider: ia
+                href: https://web.archive.org/web/20260318171526/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Oliwia_Jarosz.jpg?v=1701443201
+            wearer: 
+              abbr: Oliwia.J.
+              name: Oliwia Jarosz
+              year: 2023
+            cite_key: silversaga_juliette_gallery
+
+      plettia:
+        rank: species
+        describer: Lemuria, 2026
+        holotype:
+          - name: Plett 2023.15.9309
+            view: 
+            width: 2667
+            height: 4000
+            sum:
+              sha256: 4845e0ef272a026b75de68123afa57df91ccec07671040d712176e250f635401
+            urls:
+              - provider: orig
+                href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Isabel_Plett6.jpg?v=1701389104
+              - provider: ia
+                href: https://web.archive.org/web/20260318171446/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Isabel_Plett6.jpg?v=1701389104
+            wearer: 
+              abbr: Isabel.P.
+              name: Isabel Plett
+              year: 2023
+            cite_key: silversaga_juliette_gallery
+        types: 
+          - name: Plett 2023.15.9781
+            view: 
+            width: 2667
+            height: 4000
+            sum:
+              sha256: 139038fa1f37b062b9f3b8cc3607446d5ee31e8be69965cbfa6fef0f1a73ce96
+            urls:
+              - provider: orig
+                href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Isabel_Plett5.jpg?v=1701389126
+              - provider: ia
+                href: https://web.archive.org/web/20260318171534/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Isabel_Plett5.jpg?v=1701389126
+            wearer: 
+              abbr: Isabel.P.
+              name: Isabel Plett
+              year: 2023
+            cite_key: silversaga_juliette_gallery
+          - name: Plett 2023.15.4029
+            view: 
+            width: 3635
+            height: 5452
+            sum:
+              sha256: a9a00ae912bf01b88327cc85c35c9554ceb49cda4ab558dadcf749b33811103f
+            urls:
+              - provider: orig
+                href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Isabel_Plett7.jpg?v=1701389146
+              - provider: ia
+                href: https://web.archive.org/web/20260318171441/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Isabel_Plett7.jpg?v=1701389146
+            wearer: 
+              abbr: Isabel.P.
+              name: Isabel Plett
+              year: 2023
+            cite_key: silversaga_juliette_gallery
+
+      plihalia:
+        rank: species
+        describer: Lemuria, 2026
+        holotype:
+          - name: Plihal 2023.5607.118
+            view: 
+            width: 2475
+            height: 4032
+            sum:
+              sha256: 3a986a6d0319be5b260059a5231006a75268eeb14965079fd1458b235326cc05
+            urls:
+              - provider: orig
+                href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Paige_Plihal.jpg?v=1701443097
+              - provider: ia
+                href: https://web.archive.org/web/20260318171540/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Paige_Plihal.jpg?v=1701443097
+            wearer: 
+              abbr: Paige.P.
+              name: Paige Plihal
+              year: 2023
+            cite_key: silversaga_juliette_gallery
+        types:
+          - name: Plihal 2023.5607.196
+            view: 
+            width: 2534
+            height: 3783
+            sum:
+              sha256: c995b3511b1d17ceaf36f6dcbd43a3fe0c4a83cc182825feb7faf1edfd6eddfa
+            urls:
+              - provider: orig
+                href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Paige_Plihal3.jpg?v=1701443123
+              - provider: ia
+                href: https://web.archive.org/web/20260318171459/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Paige_Plihal3.jpg?v=1701443123
+            wearer: 
+              abbr: Paige.P.
+              name: Paige Plihal
+              year: 2023
+            cite_key: silversaga_juliette_gallery
+
+      samanthae:
+        rank: species
+        describer: Lemuria, 2026
+        holotype:
+          - name: Newbery 2023.158.3048
+            view: ventral
+            width: 3024
+            height: 4032
+            sum:
+              sha256: 74dd5bd51df906fd4c314b8405e152116091354741419b6664adfecd4258476d
+            urls:
+              - provider: orig
+                href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Samantha_Newbery2.jpg?v=1701440663
+              - provider: ia
+                href: https://web.archive.org/web/20260318171513/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Samantha_Newbery2.jpg?v=1701440663
+            wearer: 
+              abbr: Sam.Ne.
+              name: Samantha Newbery
+              year: 2023
+            cite_key: silversaga_juliette_gallery
+        types:
+          - name: Newbery 2023.158.3663
+            view: ventral
+            width: 3024
+            height: 4032
+            sum:
+              sha256: 43d0d5dd643c989ac6d974ecd5310376118677b9da9144715984871a571c7577
+            urls:
+              - provider: orig
+                href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Samantha_Newbery3.jpg?v=1701440688
+              - provider: ia
+                href: https://web.archive.org/web/20260318171437/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Samantha_Newbery3.jpg?v=1701440688
+            wearer: 
+              abbr: Sam.Ne.
+              name: Samantha Newbery
+              year: 2023
+            cite_key: silversaga_juliette_gallery
+
+      baumgartia:
+        rank: species
+        describer: Lemuria, 2026
+        holotype:
+          - name: Baumgart 2023.10485.176
+            view: 
+            width: 2457
+            height: 3276
+            sum:
+              sha256: 207c0cfa360576362fe8232d81f9cb0aae2f1fa96231846f971d2b07e0b6ad4f
+            urls:
+              - provider: orig
+                href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Thatsewliz_juliette_2.jpg?v=1701443357
+              - provider: ia
+                href: https://web.archive.org/web/20260318171435/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Thatsewliz_juliette_2.jpg?v=1701443357
+            wearer: 
+              abbr: Eliz.B.
+              name: Elizabeth Baumgart
+              year: 2023
+            cite_key: silversaga_juliette_gallery
+        types:
+          - name: Baumgart 2023.10485.338
+            view: 
+            width: 2454
+            height: 3272
+            sum:
+              sha256: 03d56f9f6cf7b736ceccd54c72a294c766c52f29c976901e99a08b0a36078337
+            urls:
+              - provider: orig
+                href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Thatsewliz_juliette_3.jpg?v=1701443374
+              - provider: ia
+                href: https://web.archive.org/web/20260318171537/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Thatsewliz_juliette_3.jpg?v=1701443374
+            wearer: 
+              abbr: Eliz.B.
+              name: Elizabeth Baumgart
+              year: 2023
+            cite_key: silversaga_juliette_gallery
+          - name: Baumgart 2023.10485.662
+            view: 
+            width: 3024 
+            height: 4032
+            sum:
+              sha256: 3d8d498f08d53f2b7da895b2d3b35626be39236e327407a5ea3f6fdb782d6fe8
+            urls:
+              - provider: orig
+                href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Thatsewliz_juliette_7.jpg?v=1701443394
+              - provider: ia
+                href: https://web.archive.org/web/20260318171437/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Thatsewliz_juliette_7.jpg?v=1701443394
+            wearer: 
+              abbr: Eliz.B.
+              name: Elizabeth Baumgart
+              year: 2023
+            cite_key: silversaga_juliette_gallery
+
+      sunae:
+        rank: species
+        describer: Lemuria, 2026
+        holotype:
+          - name: Suna 2023.49.1209
+            view: 
+            width: 2667
+            height: 4000
+            sum:
+              sha256: 98330235abd42fdd5ebb2f6c823b21fac2d5b2cfa7637bb9e00862be2c64e020
+            urls:
+              - provider: orig
+                href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Suna_Mantori4_c22c175f-b871-4743-be69-735db4c411e7.jpg?v=1701388530
+              - provider: ia
+                href: https://web.archive.org/web/20260318171512/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Suna_Mantori4_c22c175f-b871-4743-be69-735db4c411e7.jpg?v=1701388530
+            wearer: 
+              abbr: Suna.M.
+              name: Suna Mantori
+              year: 2023
+            cite_key: silversaga_juliette_gallery
+        types:
+          - name: Suna 2023.49.1561
+            view: 
+            width: 2667
+            height: 4000
+            sum:
+              sha256: 058f2754f5aeebf4293e95fdf15ffa4bc105acec1259e286f5d68a60111bc0be
+            urls:
+              - provider: orig
+                href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Suna_Mantori2_8e307661-3e4d-4459-8853-8e5e64956c65.jpg?v=1701388688
+              - provider: ia
+                href: https://web.archive.org/web/20260318171453/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Suna_Mantori2_8e307661-3e4d-4459-8853-8e5e64956c65.jpg?v=1701388688
+            wearer: 
+              abbr: Suna.M.
+              name: Suna Mantori
+              year: 2023
+            cite_key: silversaga_juliette_gallery
+
+          - name: Suna 2023.49.5023
+            view: 
+            width: 2667
+            height: 4000
+            sum:
+              sha256: 562585e06be5343e4b9d12d0b2b569851c9e034801b858a17c0d9570c2c10b52
+            urls:
+              - provider: orig
+                href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Suna_Mantori5_b7b61902-5692-45e4-9587-f9b50fbfdfbf.jpg?v=1701388668
+              - provider: ia
+                href: https://web.archive.org/web/20260318171442/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Suna_Mantori5_b7b61902-5692-45e4-9587-f9b50fbfdfbf.jpg?v=1701388668
+            wearer: 
+              abbr: Suna.M.
+              name: Suna Mantori
+              year: 2023
+            cite_key: silversaga_juliette_gallery
+
+      stephaniae:
+        rank: species
+        describer: Lemuria, 2026
+      
+        holotype:
+          - name: Goh 2023.589102.108
+            view: 
+            width: 3024
+            height: 4032
+            sum:
+              sha256: 0b00b1051994112b8e42bd804337100da59dbadcbf13ce71d88dbfa7b6ef73f8
+
+            urls:
+              - provider: orig
+                href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Stephanie_Goh5.jpg?v=1701441048
+              - provider: ia
+                href: https://web.archive.org/web/20260318171457/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Stephanie_Goh5.jpg?v=1701441048
+            wearer: 
+              abbr: Stephanie.G.
+              name: Stephanie Goh
+              year: 2023
+            cite_key: silversaga_juliette_gallery
+
+        types:
+          - name: Goh 2023.589102.433
+            view: 
+            width: 3024
+            height: 4032
+            sum:
+              sha256: 650dbae2a78aedfe2bed699671d0e288f2726960f0d31d28acb3e25efd5466c7
+
+            urls:
+              - provider: orig
+                href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Stephanie_Goh8.jpg?v=1701441183
+              - provider: ia
+                href: https://web.archive.org/web/20260318171500/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Stephanie_Goh8.jpg?v=1701441183
+            wearer: 
+              abbr: Stephanie.G.
+              name: Stephanie Goh
+              year: 2023
+            cite_key: silversaga_juliette_gallery
+
+          - name: Goh 2023.589102.530
+            view: 
+            width: 3024
+            height: 4032
+            sum:
+              sha256: 5919c9a0e7662229a742f13bd85b0ce5c86ff57f8632345331da9fdaf87e9220
+
+            urls:
+              - provider: orig
+                href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Stephanie_Goh3.jpg?v=1701441031
+              - provider: ia
+                href: https://web.archive.org/web/20260318171448/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Stephanie_Goh3.jpg?v=1701441031
+            wearer: 
+              abbr: Stephanie.G.
+              name: Stephanie Goh
+              year: 2023
+            cite_key: silversaga_juliette_gallery
+
+          - name: Goh 2023.589102.887
+            view: 
+            width: 3024
+            height: 4032
+            sum:
+              sha256: 10f1daaf2bb402cb9dd6f77e1e5c8f2a9f35cc8e5b9646a6284b79924df09e1b
+
+            urls:
+              - provider: orig
+                href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Stephanie_Goh2.jpg?v=1701441013
+              - provider: ia
+                href: https://web.archive.org/web/20260318171515/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Stephanie_Goh2.jpg?v=1701441013
+            wearer: 
+              abbr: Stephanie.G.
+              name: Stephanie Goh
+              year: 2023
+            cite_key: silversaga_juliette_gallery
+
+      venaluna:
+        rank: species
+        describer: Lemuria, 2026
+        holotype:
+          - name: Hunter-Moon 2023.115.401
+            view:
+            width: 3456
+            height: 5184
+            sum:
+              sha256: 275f9ada9e7bb0115e4af67ed28b9ef5c90396a7f844d30612e8daf893084719
+
+            urls:
+              - provider: orig
+                href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/image00002.jpg?v=1701440213
+              - provider: ia
+                href: https://web.archive.org/web/20260318171524/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/image00002.jpg?v=1701440213
+            wearer: 
+              abbr: Hunter-Moon
+              name: Katie Hunter-Moon
+              year: 2023
+            cite_key: silversaga_juliette_gallery
+        types:
+          - name: Hunter-Moon 2023.115.688
+            view: 
+            width: 2176
+            height: 3264
+            sum:
+              sha256: 066eef1269f4a585eadf08541db08fa24e44a1016682fd138cdd3b31f3aef109
+            urls:
+              - provider: orig
+                href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/image00006.jpg?v=1701440231
+              - provider: ia
+                href: https://web.archive.org/web/20260318171538/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/image00006.jpg?v=1701440231
+            wearer: 
+              abbr: Hunter-Moon
+              name: Katie Hunter-Moon
+              year: 2023
+            cite_key: silversaga_juliette_gallery
+          - name: Hunter-Moon 2023.115.923
+            view: 
+            width: 1184
+            height: 1776
+            sum:
+              sha256: 963291e6f1b231025a1315ff99ed79e2333436f4978f0133ffb9407846406f03
+            urls:
+              - provider: orig
+                href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/image00010.jpg?v=1701440252
+              - provider: ia
+                href: https://web.archive.org/web/20260318171525/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/image00010.jpg?v=1701440252
+            wearer: 
+              abbr: Hunter-Moon
+              name: Katie Hunter-Moon
+              year: 2023
+            cite_key: silversaga_juliette_gallery
+
+      thea:
+        rank: species
+        describer: Lemuria, 2026
+        holotype:
+          - name: Tea 2023.150.141
+            view: ventral
+            width: 2651
+            height: 3314
+            sum:
+              sha256: 3d1e73380610be14ecfd8a3afb87b9295015edadd8e2ae109f6c6b0d958276de
+            urls:
+              - provider: orig
+                href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Tea_Stamenkovic6.jpg?v=1701443458
+              - provider: ia
+                href: https://web.archive.org/web/20260318171439/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Tea_Stamenkovic6.jpg?v=1701443458
+            wearer: 
+              abbr: Tea.S.
+              name: Tea Stamenkovic
+              year: 2023
+            cite_key: silversaga_juliette_gallery
+        types:
+          - name: Tea 2023.150.609
+            view: 
+            width: 2458
+            height: 3072
+            sum:
+              sha256: b822819bdc6355348088fa840aa97fa47e9fed498ad035e0fc8fa45041b09d2f
+            urls:
+              - provider: orig
+                href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Tea_Stamenkovic7.jpg?v=1701443473
+              - provider: ia
+                href: https://web.archive.org/web/20260318171455/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Tea_Stamenkovic7.jpg?v=1701443473
+            wearer: 
+              abbr: Tea.S.
+              name: Tea Stamenkovic
+              year: 2023
+            cite_key: silversaga_juliette_gallery
+          - name: Tea 2023.150.818
+            view: 
+            width: 2458
+            height: 3072
+            sum:
+              sha256: 114304fda84848aa2a8872e41512f0a871c67bd80eb25eafffa85d0391d3113b
+            urls:
+              - provider: orig
+                href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Tea_Stamenkovic8.jpg?v=1701443488
+              - provider: ia
+                href: https://web.archive.org/web/20260318171456/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Tea_Stamenkovic8.jpg?v=1701443488
+            wearer: 
+              abbr: Tea.S.
+              name: Tea Stamenkovic
+              year: 2023
+            cite_key: silversaga_juliette_gallery
+
+      # Accidental synonym of *J. sunae*!
+      # mantorae:
+      #   rank: species
+      #   describer: Lemuria, 2026
+      #   cite_key:
+      #     - silversaga_juliette_gallery
+      #     - mantori2023_juliette
+      #   holotype:
+      #     - name: Mantori 2023.531.1321
+      #       view: ventral
+      #       width: 2667
+      #       height: 4000
+      #       sum:
+      #         sha256: 98330235abd42fdd5ebb2f6c823b21fac2d5b2cfa7637bb9e00862be2c64e020
+      #       urls:
+      #         - provider: orig
+      #           href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Suna_Mantori4_c22c175f-b871-4743-be69-735db4c411e7.jpg?v=1701388530
+      #         - provider: ia
+      #           href: https://web.archive.org/web/20260318171512/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Suna_Mantori4_c22c175f-b871-4743-be69-735db4c411e7.jpg?v=1701388530
+      #       wearer: 
+      #         abbr: Suna.M.
+      #         name: Suna Mantori
+      #         year: 
+      #       cite_key: silversaga_juliette_gallery
+      #   types:
+      #     - name: Mantori 2023.531.1495
+      #       view: ventral
+      #       width: 2667
+      #       height: 4000
+      #       sum:
+      #         sha256: 562585e06be5343e4b9d12d0b2b569851c9e034801b858a17c0d9570c2c10b52
+      #       urls:
+      #         - provider: orig
+      #           href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Suna_Mantori5_b7b61902-5692-45e4-9587-f9b50fbfdfbf.jpg?v=1701388668
+      #         - provider: ia
+      #           href: https://web.archive.org/web/20260318171442/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Suna_Mantori5_b7b61902-5692-45e4-9587-f9b50fbfdfbf.jpg?v=1701388668
+      #       wearer: 
+      #         abbr: Suna.M.
+      #         name: Suna Mantori
+      #         year: 
+      #       cite_key: silversaga_juliette_gallery
+      #     - name: Mantori 2023.531.2356
+      #       view: ventral
+      #       width: 2667
+      #       height: 4000
+      #       sum:
+      #         sha256: 058f2754f5aeebf4293e95fdf15ffa4bc105acec1259e286f5d68a60111bc0be
+      #       urls:
+      #         - provider: orig
+      #           href: https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Suna_Mantori2_8e307661-3e4d-4459-8853-8e5e64956c65.jpg?v=1701388688
+      #         - provider: ia
+      #           href: https://web.archive.org/web/20260318171453/https://cdn.shopify.com/s/files/1/0562/9375/2969/files/Suna_Mantori2_8e307661-3e4d-4459-8853-8e5e64956c65.jpg?v=1701388688
+      #       wearer: 
+      #         abbr: Suna.M.
+      #         name: Suna Mantori
+      #         year: 
+      #       cite_key: silversaga_juliette_gallery
+
+
+
+
+
