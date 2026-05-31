@@ -128,23 +128,16 @@ Eleonora,
 Amelie,
 and Ella.
 
-These patterns are sold entirely as PDFs with English-language instructions. Patterns are available in sizes EU 34&ndash;54 UK 6&ndash;26, and US 2&ndash;24.
-
+These patterns are sold entirely as PDFs with English-language instructions. Patterns are available in sizes EU 34&ndash;54 (UK 6&ndash;26; US 2&ndash;24).
 Many of these patterns date back to the RTW period, while some, such as the Celeste (April 2026), were new when work began on the monograph.
 
 The Eleonora comes in two primary variants, sold as two separate patterns; a sleeved variant, known simply as the Eleonora; and a sleeveless variant, sold as the Sleeveless Eleonora.
 We will refer to both as the sleeved and sleeveless Eleonora respectively, for clarity; we use the term Eleonora itself to refer to both patterns collectively.
 
 Jessica tests her patterns in one to three rounds, with a total of anywhere from 40 to 70 testers, ranging from EU sizes 34 to 54 [@silversagafaq].
-
 Based on these figures, we estimate at least 600&ndash;1,050 extant species across the 15 families. For comparison, the LCT-01 had ~300 species across ~70 genera as of the last count conducted in February.
 
 Silversaga's aesthetic is variously described as "romantic minimalism" [@rainey2025], "timeless", and as having "soft romantic silhouettes" [@friendsoftfs_silversaga]. Silversaga herself frequently uses the adjective "romantic" on many of her product pages; and the title of the root page of the Silversaga Patterns website reads "Clothes Poetry", with a white dove emoji.
-
-
-```{=latex}
-\onecolumn
-```
 
 #### Difficulty
 Silversaga uses two different scales, 1-4 and 1-5 to rank the difficulty of her patterns. 1 is easy, while 4 or 5 is difficult.
@@ -152,8 +145,11 @@ Silversaga uses two different scales, 1-4 and 1-5 to rank the difficulty of her 
 These are denoted by circles on the title page of each pattern, with a name given to each difficulty in italic text below.
 
 #### Table
-We present a table of Silversaga's patterns as follows:
+We present a table of Silversaga's patterns  in @tbl-silversaga-patterns.
 
+```{=latex}
+\onecolumn
+```
 ::: {#tbl-silversaga-patterns}
 | Pattern | Difficulty | Release date | Sizes | Cups | LCT-01 taxa | Species count
 |---|---|---|---|---|---|---|---|
@@ -459,7 +455,7 @@ As an example, we provide an annotation for *Argenclara baumgartia* in @fig-arge
 
 ![](silversaga_supplementary/Baumgart_95.6714.annot.svg)
 
-A small preview of the raw diagram of *Argenclara baumgartia* (@sec-argenclara-baumgartia). For copyright reasons as stated in the body, the reader should overlay the SVG diagram, distributed separately, over the original image on their own computer using the instructions provided.
+A small preview of the raw diagram of *Argenclara baumgartia* (@sec-argenclara-baumgartia). For copyright reasons as stated in the body, the reader should overlay the SVG diagram over the original image on their own computer using the instructions provided. The original image can be obtained from the original source; it is not distributed with this monograph or its supplementary data.
 :::
 
 ::: {#fig-sha256sum fig-env="figure*"}
