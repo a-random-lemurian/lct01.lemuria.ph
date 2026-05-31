@@ -22,7 +22,7 @@ doi: 10.5281/zenodo.20450648
 citation:
   author: Lemuria
   citation-key: lemuria_silversaga_2026
-  title: "An inordinate fondness for Silversaga and her patterns: a monograph on the Clara, Eleonora, and Juliette"
+  title: "An inordinate fondness for Silversaga and her patterns: the Clara, Eleonora, and Juliette"
   original-date: 2026-05-31
   publisher: Lemuria
   article-id: lict2026.0010
