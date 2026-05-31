@@ -94,10 +94,7 @@ Jessica's online presence dates to the early 2000s. WHOIS records show that the 
 
 It became an e-commerce website c. 2020, two years into the launch of Silversaga, and with the start of the pattern period, the `silversaga.se` domain became a redirect to <https://silversagapatterns.com>. The delay is likely due to Silversaga's early commercial activities having taken place on Etsy.
 
-Silversaga's online store uses software from Shopify, a Canadian e-commerce company.
-
-The Shopify instances on both `silversaga.se` and `silversagapatterns.com` are the same. As a result, many holotypes from the RTW period survive to 2026. Though the Internet Archive was unable to fully cover all of `silversaga.se`'s product pages, the images in question are still accessible through Shopify's CDN, and can be archived.
-<!-- An example of these retrieved holotypes is *Silversaga 2022.58*, featuring *Argenteleonora candiga natalia* (<https://cdn.shopify.com/s/files/1/0562/9375/2969/products/SilversagaSS2022_58.jpg?v=1649342524>; see @sec-argenteleonora-candiga). -->
+Silversaga's online store now uses software from Shopify, a Canadian e-commerce company. The Shopify instances on both `silversaga.se` and `silversagapatterns.com` are the same. As a result, many holotypes from the RTW period, while "taken down" were never truly deleted, and thus, survive to 2026. Though the Internet Archive was unable to fully cover all of `silversaga.se`'s product pages, the images in question are still accessible through Shopify's CDN, and can be archived. An example of these retrieved holotypes is *Silversaga 2022.58.7180*, featuring *Argenteleonora candiga natalia* (<https://cdn.shopify.com/s/files/1/0562/9375/2969/products/SilversagaSS2022_58.jpg?v=1649342524>; see @sec-argenteleonora-candida).
 
 Silversaga also formerly had the Instagram account &commat;[`silversaga.se`](https://instagram.com/silversaga.se), however, it is now private. It has 248 posts and a message stating that the account has been moved to &commat;`silversagapatterns`. There may be early posts on &commat;`silversaga.se` that do not exist on the current &commat;`silversagapatterns`. This likely contains early Silversaga history inaccessible to us at the time of this monograph.
 
@@ -3355,18 +3352,20 @@ EXIF metadata stripped.
 **Etymology**: From *duo* ("two") + *noda*, pseudo-Latin feminine form of *nodus* ("knot"), altered as *nodus* is grammatically masculine, while *Argenteleonora* is grammatically feminine.
 
 #### *Argenteleonora candida* {#sec-argenteleonora-candida}
-***Argenteleonora candiga*** Lemuria, 2026; sp. nov.
+***Argenteleonora candida*** Lemuria, 2026; sp. nov.
 
-**Diagnosis**: *Argenteleonora candiga* is characterized by its white color, and a Silversaga label on the superior medial point of its dorsal interior surface.
+**Diagnosis**: *Argenteleonora candida* is characterized by its white color, and a Silversaga label on the superior medial point of its dorsal interior surface.
 
-**Remarks**: The placement of *Argenteleonora candiga* is certain within *Argenteleonora*, while infrageneric placement is uncertain. *A. candiga* is one of the ready-to-wear species of *Argenteleonora*. As such, there exist two phylogenetic origins for an *Argenteleonora* species: either sewn at home from the pattern, or sewn by the Estonian atelier.
+**Remarks**: The placement of *Argenteleonora candida* is certain within *Argenteleonora*, while infrageneric placement is uncertain. *A. candida* is one of the ready-to-wear species of *Argenteleonora*. As such, there exist two phylogenetic origins for an *Argenteleonora* species: either sewn at home from the pattern, or sewn by the Estonian atelier.
 
 **Etymology**: From Latin *candida*, feminine form of *candidus* ("white, shining white"), from the dress's solid white color.
 
+**Synonyms**: In older documents, *Ae. candiga* Lemuria, 2026; due to misremembered terms.
+
 **Subspecies**:
 
-* *A. c. jessicae* Lemuria, 2026; subsp. nov.
-* *A. c. natalia* Lemuria, 2026; subsp. nov.
+* *Ae. c. jessicae* Lemuria, 2026; subsp. nov.
+* *Ae. c. natalia* Lemuria, 2026; subsp. nov.
 
 **Specimens examined**
 
@@ -3375,7 +3374,7 @@ EXIF metadata stripped.
 Indoor lighting conditions, white background.
 Likely studio conditions.
 Subject facing to the right (from camera perspective). Hair positioned both ventrally and dorsally, terminating inferior to inferior elastic channel. Left hand in front. Right hand on dorsal surface inferior to inferior elastic channel.
-*Argenteleonora candiga natalia* wb. Natalia, 2022.
+*Argenteleonora candida natalia* wb. Natalia, 2022.
 &copy; Jessica Silversaga, 2022, all rights reserved
 **Page**:
 **SHA2-256**: `4600a3561a53fc6c79bf64911f943efd588921ec255c9b07b3128ed2405a2ab2`{.hash};
